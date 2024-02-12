@@ -1,0 +1,1 @@
+const n=()=>({extractExcerpt:c=>{let e="";function r(t){if(!(e.length>320||!t)&&(t.type==="text"&&(e+=" "+t.value),t.children))for(const l of t.children)r(l)}return r(c),e.replace(/\n/g," ").replace(/  /g," ")}});export{n as u};
