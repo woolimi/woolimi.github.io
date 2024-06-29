@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{o as t,c as o,q as a,z as l}from"./Dp1JwJjo.js";const c="_table_5bxi3_2",r={table:c},n={};function _(e,f){return t(),o("table",{class:l([e.$style.table,"my-10 mx-auto"])},[a(e.$slots,"default")],2)}const m={$style:r},u=s(n,[["render",_],["__cssModules",m]]);export{u as default};
