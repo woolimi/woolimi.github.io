@@ -1,0 +1,1 @@
+import{h as t,o,c as r,a,q as s}from"./CBtcyPQ2.js";const d=["id"],l=["href"],c=t({__name:"ProseH2",props:{id:{}},setup(n){return(e,p)=>(o(),r("h2",{id:e.id,class:"mb-10 mt-20 border-l-8 border-emerald-400 bg-slate-800 px-3 py-2 !font-extrabold typo-extra-large-title sm:typo-large-title"},[a("a",{href:`#${e.id}`},[s(e.$slots,"default")],8,l)],8,d))}});export{c as default};

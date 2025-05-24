@@ -1,0 +1,1 @@
+import{o,c,q as r,y as a}from"./CBtcyPQ2.js";const n={__name:"Block",props:{color:{type:String,default:"blue"}},setup(l){return(e,t)=>(o(),c("div",{class:a(["my-8 rounded-xl p-6",{"bg-slate-800":l.color==="default","blue-block":l.color==="blue","red-block":l.color==="red","yellow-block":l.color==="yellow"}])},[r(e.$slots,"default")],2))}};export{n as default};
