@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{o,c as t,q as r}from"./Bi-MwT-m.js";const c={},l={class:"ml-6 list-disc"};function n(e,a){return o(),t("ul",l,[r(e.$slots,"default")])}const d=s(c,[["render",n]]);export{d as default};

@@ -1,0 +1,1 @@
+import{h as t,o,c as s,a,q as r}from"./Bi-MwT-m.js";const n=["id"],d=["href"],c=t({__name:"ProseH3",props:{id:{}},setup(i){return(e,l)=>(o(),s("h3",{id:e.id,class:"mb-4 mt-24 !font-extrabold typo-large-title sm:typo-title"},[a("a",{href:`#${e.id}`},[r(e.$slots,"default")],8,d)],8,n))}});export{c as default};
