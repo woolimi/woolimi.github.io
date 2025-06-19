@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{o as t,c as r,q as s}from"./DPC7jhPY.js";const c={},n={class:"mb-2 !font-extrabold typo-headline-bold"};function a(e,l){return t(),r("h5",n,[s(e.$slots,"default")])}const f=o(c,[["render",a]]);export{f as default};

@@ -1,0 +1,1 @@
+import{E as o,o as r,c as t,H as l,k as s,C as n}from"./DPC7jhPY.js";const d={__name:"TitleBar",setup(c){const{audioPitch:e}=n(),a=o(()=>e.value===null?.5:e.value);return(u,i)=>(r(),t("hr",{class:"duration-400 h-[2px] border-b-4 border-emerald-400 transition-all",style:l({width:`${Math.floor(s(a)*100)}%`})},null,4))}};export{d as _};

@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{o as s,c as t,q as r}from"./DPC7jhPY.js";const c={},n={class:"mb-1 typo-headline"};function a(e,_){return s(),t("h6",n,[r(e.$slots,"default")])}const d=o(c,[["render",a]]);export{d as default};
