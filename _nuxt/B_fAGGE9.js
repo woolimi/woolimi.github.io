@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as t,o as r,A as s}from"./Cfa-ir4x.js";const c={},n={class:"mb-2 !font-extrabold typo-headline-bold"};function a(e,l){return r(),t("h5",n,[s(e.$slots,"default")])}const f=o(c,[["render",a]]);export{f as default};

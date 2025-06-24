@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{c as o,o as t,A as r}from"./Cfa-ir4x.js";const c={},l={class:"ml-6 list-disc"};function n(e,a){return t(),o("ul",l,[r(e.$slots,"default")])}const d=s(c,[["render",n]]);export{d as default};
