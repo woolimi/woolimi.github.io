@@ -1,0 +1,1 @@
+import{c as o,o as c,A as r,n as a}from"./BpNR0EQO.js";const n={__name:"Block",props:{color:{type:String,default:"blue"}},setup(l){return(e,t)=>(c(),o("div",{class:a(["my-8 rounded-xl p-6",{"bg-slate-800":l.color==="default","blue-block":l.color==="blue","red-block":l.color==="red","yellow-block":l.color==="yellow"}])},[r(e.$slots,"default")],2))}};export{n as default};
