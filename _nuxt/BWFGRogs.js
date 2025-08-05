@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{c as o,o as r,A as s}from"./BJtP706x.js";const a={},c={class:"mb-6 !font-extrabold typo-mega-title sm:typo-extra-large-title"};function n(e,l){return r(),o("h1",c,[s(e.$slots,"default")])}const m=t(a,[["render",n]]);export{m as default};
