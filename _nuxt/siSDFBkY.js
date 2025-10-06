@@ -1,0 +1,1 @@
+import{e as t,c as o,a as s,A as a,o as r}from"./6IdfPsVJ.js";const n=["id"],d=["href"],c=t({__name:"ProseH3",props:{id:{}},setup(i){return(e,l)=>(r(),o("h3",{id:e.id,class:"mb-4 mt-24 !font-extrabold typo-large-title sm:typo-title"},[s("a",{href:`#${e.id}`},[a(e.$slots,"default")],8,d)],8,n))}});export{c as default};
