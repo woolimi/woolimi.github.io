@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{c as o,o as s,A as r}from"./3U3wl7_C.js";const c={},n={class:"my-4 text-[18px] leading-[28px] text-white"};function a(e,_){return s(),o("p",n,[r(e.$slots,"default")])}const p=t(c,[["render",a]]);export{p as default};

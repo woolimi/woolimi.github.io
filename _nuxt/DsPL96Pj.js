@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as t,o as r,A as s}from"./3U3wl7_C.js";const c={},n={class:"text-emerald-400"};function a(e,_){return r(),t("strong",n,[s(e.$slots,"default")])}const d=o(c,[["render",a]]);export{d as default};
