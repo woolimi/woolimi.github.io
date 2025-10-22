@@ -1,0 +1,1 @@
+import{e as o,c as t,a as s,A as a,o as r}from"./d0jZCcsI.js";const n=["id"],d=["href"],p=o({__name:"ProseH4",props:{id:{}},setup(i){return(e,c)=>(r(),t("h4",{id:e.id,class:"mb-3 mt-20 !font-extrabold typo-title"},[s("a",{href:`#${e.id}`},[a(e.$slots,"default")],8,d)],8,n))}});export{p as default};

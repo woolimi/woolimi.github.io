@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as t,o as s,A as r}from"./d0jZCcsI.js";const c={},l={class:"ml-6 list-decimal text-[18px]"};function a(e,n){return s(),t("ol",l,[r(e.$slots,"default")])}const m=o(c,[["render",a]]);export{m as default};
