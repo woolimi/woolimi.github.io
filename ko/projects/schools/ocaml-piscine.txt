@@ -1,0 +1,220 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+3:I[823080,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+6:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"ViewportBoundary"]
+b:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"MetadataBoundary"]
+d:I[26623,[],"default"]
+:HL["/_next/static/chunks/2fc4938d46ca9898.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"zz3fM3C0BYGlLBd3FPzam","c":["","ko","projects","schools","ocaml-piscine"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","ocaml-piscine","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fc4938d46ca9898.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ef7f7dfdb8bd52fb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/66231d519a3a670e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/6878d4616822326c.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/6d5144f4ef97171b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Le"}]]}]
+f:I[779615,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+10:I[728231,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"TooltipProvider"]
+11:I[663780,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"홈","blog":"블로그"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+18:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"IconMark"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ocaml-piscine"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ocaml-piscine\",\"description\":\"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다\",\"image\":\"https://woolimi.github.io/og?title=ocaml-piscine\",\"url\":\"https://woolimi.github.io/projects/schools/ocaml-piscine\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"ocaml-piscine"}],"$undefined",["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"OCaml"}],"$L15"]}],"$L16"]}],"$L17"]}]}]
+c:[["$","title","0",{"children":"ocaml-piscine | 박우림"}],["$","meta","1",{"name":"description","content":"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"ocaml-piscine"}],["$","meta","6",{"property":"og:description","content":"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/ocaml-piscine"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=ocaml-piscine"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"ocaml-piscine"}],["$","meta","12",{"name":"twitter:description","content":"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=ocaml-piscine"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L18","19",{}]]
+8:null
+1b:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+15:["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Functional Programming"}]
+19:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z16:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ocaml-piscine","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$19","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+1a:T6a02,<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p>이 프로젝트는 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습할 수 있도록 구성된 실습 자료다. 각 모듈은 특정 주제에 집중하며, 실습 문제를 통해 개념을 이해하고 적용할 수 있다.</p>
+<h2 id="환경-설정"><a class="heading-link" aria-hidden="true" href="#환경-설정">환경 설정</a></h2>
+<h3 id="vagrant를-사용한-개발-환경-설정"><a class="heading-link" aria-hidden="true" href="#vagrant를-사용한-개발-환경-설정">Vagrant를 사용한 개발 환경 설정</a></h3>
+<p>프로젝트에는 Vagrant를 사용한 개발 환경 설정이 포함되어 있다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># VM 시작</span></span>
+<span data-line=""><span style="color:#FFC777">vagrant</span><span style="color:#C3E88D"> up</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># VM 접속</span></span>
+<span data-line=""><span style="color:#FFC777">vagrant</span><span style="color:#C3E88D"> ssh</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># VM 종료 및 삭제</span></span>
+<span data-line=""><span style="color:#FFC777">vagrant</span><span style="color:#C3E88D"> destroy</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# VM 시작
+vagrant up
+
+# VM 접속
+vagrant ssh
+
+# VM 종료 및 삭제
+vagrant destroy" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>Vagrantfile은 Ubuntu 22.04 LTS를 기반으로 하며, 다음을 자동으로 설치:</p>
+<ul>
+<li>OCaml 컴파일러</li>
+<li>OPAM (OCaml Package Manager)</li>
+<li>OCaml 4.14.0</li>
+</ul>
+<h3 id="수동-설치"><a class="heading-link" aria-hidden="true" href="#수동-설치">수동 설치</a></h3>
+<p>Vagrant를 사용하지 않는 경우, 다음 명령어로 OCaml을 설치할 수 있다:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Ubuntu/Debian</span></span>
+<span data-line=""><span style="color:#FFC777">sudo</span><span style="color:#C3E88D"> apt-get</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> ocaml</span><span style="color:#C3E88D"> opam</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># macOS (Homebrew)</span></span>
+<span data-line=""><span style="color:#FFC777">brew</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> ocaml</span><span style="color:#C3E88D"> opam</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># OPAM 초기화</span></span>
+<span data-line=""><span style="color:#FFC777">opam</span><span style="color:#C3E88D"> init</span></span>
+<span data-line=""><span style="color:#65BCFF">eval</span><span style="color:#86E1FC"> $(</span><span style="color:#FFC777">opam</span><span style="color:#C3E88D"> env</span><span style="color:#86E1FC">)</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Ubuntu/Debian
+sudo apt-get install ocaml opam
+
+# macOS (Homebrew)
+brew install ocaml opam
+
+# OPAM 초기화
+opam init
+eval $(opam env)" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="프로젝트-구조"><a class="heading-link" aria-hidden="true" href="#프로젝트-구조">프로젝트 구조</a></h2>
+<pre><code>ocaml-piscine/
+├── module00/          # 기초 함수 및 제어 구조
+├── module01/          # 재귀 및 고차 함수
+├── module02/          # 리스트 및 시퀀스
+├── module03/          # 타입 및 변형체
+├── module04/          # 참조, 예외, 파일 I/O
+├── module05/          # 스크립트 및 모듈
+├── module06/          # 객체 지향 프로그래밍
+├── module07/          # 복잡한 타입 시스템 (화학 분자 모델링)
+├── module08/          # 고급 개념 (모듈, 모노이드, 모나드)
+└── Vagrantfile        # 개발 환경 설정
+</code></pre>
+<p>각 연습 문제는 다음 구조를 따릅니다:</p>
+<pre><code>exXX/
+├── [function_name].ml    # 구현 파일
+├── main.ml              # 테스트 파일
+└── Makefile             # 빌드 설정
+</code></pre>
+<h2 id="모듈별-설명"><a class="heading-link" aria-hidden="true" href="#모듈별-설명">모듈별 설명</a></h2>
+<h3 id="module-00-기초-함수-및-제어-구조"><a class="heading-link" aria-hidden="true" href="#module-00-기초-함수-및-제어-구조">Module 00: 기초 함수 및 제어 구조</a></h3>
+<p>기본적인 함수 작성과 제어 구조를 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>ft_test_sign</code> - 숫자의 부호 판별</li>
+<li><strong>ex01</strong>: <code>ft_countdown</code> - 카운트다운 함수</li>
+<li><strong>ex02</strong>: <code>ft_power</code> - 거듭제곱 계산</li>
+<li><strong>ex03</strong>: <code>ft_print_alphabet</code> - 알파벳 출력</li>
+<li><strong>ex04</strong>: <code>ft_print_comb</code> - 조합 출력</li>
+<li><strong>ex05</strong>: <code>ft_print_rev</code> - 문자열 역순 출력</li>
+<li><strong>ex06</strong>: <code>ft_string_all</code> - 문자열 검증</li>
+<li><strong>ex07</strong>: <code>ft_is_palindrome</code> - 회문 판별</li>
+<li><strong>ex08</strong>: <code>ft_rot_n</code> - ROT-N 암호화</li>
+<li><strong>ex09</strong>: <code>ft_print_comb2</code> - 두 자리 조합 출력</li>
+</ul>
+<h3 id="module-01-재귀-및-고차-함수"><a class="heading-link" aria-hidden="true" href="#module-01-재귀-및-고차-함수">Module 01: 재귀 및 고차 함수</a></h3>
+<p>재귀 함수와 고차 함수의 개념을 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>repeat_x</code> - 문자열 반복</li>
+<li><strong>ex01</strong>: <code>repeat_string</code> - 문자열 반복 (고차 함수)</li>
+<li><strong>ex02</strong>: <code>ackermann</code> - 아커만 함수 (비원시 재귀 함수)</li>
+<li><strong>ex03</strong>: <code>tak</code> - Takeuchi 함수</li>
+<li><strong>ex04</strong>: <code>fibonacci</code> - 피보나치 수열</li>
+<li><strong>ex05</strong>: <code>hofstadter_mf</code> - 호프스태터 함수</li>
+<li><strong>ex06</strong>: <code>iter</code> - 반복 함수</li>
+<li><strong>ex07</strong>: <code>converges</code> - 수렴 함수</li>
+<li><strong>ex08</strong>: <code>ft_sum</code> - 합계 계산</li>
+<li><strong>ex09</strong>: <code>leibniz_pi</code> - 라이프니츠 파이 공식</li>
+</ul>
+<h3 id="module-02-리스트-및-시퀀스"><a class="heading-link" aria-hidden="true" href="#module-02-리스트-및-시퀀스">Module 02: 리스트 및 시퀀스</a></h3>
+<p>리스트 조작과 시퀀스 처리에 대해 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>encode</code> - 인코딩 함수</li>
+<li><strong>ex01</strong>: <code>crossover</code> - 교차 함수</li>
+<li><strong>ex02</strong>: <code>gray</code> - 그레이 코드</li>
+<li><strong>ex03</strong>: <code>sequence</code> - 시퀀스 생성</li>
+<li><strong>ex04</strong>: <code>nucleotides</code> - 뉴클레오티드 처리</li>
+<li><strong>ex05</strong>: <code>helix</code> - 나선 구조</li>
+<li><strong>ex06</strong>: <code>rna</code> - RNA 처리</li>
+</ul>
+<h3 id="module-03-타입-및-변형체"><a class="heading-link" aria-hidden="true" href="#module-03-타입-및-변형체">Module 03: 타입 및 변형체</a></h3>
+<p>OCaml의 타입 시스템과 변형체(variant types)를 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>Color</code> - 카드 색상 타입 (Spade, Heart, Diamond, Club)</li>
+<li><strong>ex01</strong>: <code>Value</code> - 카드 값 타입</li>
+<li><strong>ex02</strong>: <code>Card</code> - 카드 타입 조합</li>
+</ul>
+<h3 id="module-04-참조-예외-파일-io"><a class="heading-link" aria-hidden="true" href="#module-04-참조-예외-파일-io">Module 04: 참조, 예외, 파일 I/O</a></h3>
+<p>변경 가능한 상태, 예외 처리, 파일 입출력을 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>micronap</code> - 마이크로 슬립</li>
+<li><strong>ex01</strong>: <code>ft_ref</code> - 참조 타입 사용</li>
+<li><strong>ex02</strong>: <code>jokes</code> - 예외 처리</li>
+<li><strong>ex03</strong>: <code>jokes</code> - 파일에서 읽기</li>
+<li><strong>ex04</strong>: <code>sum</code> - 파일 처리</li>
+<li><strong>ex05</strong>: <code>eu_dist</code> - 유클리드 거리 계산</li>
+<li><strong>ex06</strong>: <code>example_of_file</code> - CSV 파일 처리</li>
+</ul>
+<h3 id="module-05-스크립트-및-모듈"><a class="heading-link" aria-hidden="true" href="#module-05-스크립트-및-모듈">Module 05: 스크립트 및 모듈</a></h3>
+<p>OCaml 스크립트 작성과 모듈 시스템을 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>StringSet</code> - Set 모듈 사용</li>
+<li><strong>ex01-ex04</strong>: 다양한 모듈 및 스크립트 예제</li>
+</ul>
+<h3 id="module-06-객체-지향-프로그래밍"><a class="heading-link" aria-hidden="true" href="#module-06-객체-지향-프로그래밍">Module 06: 객체 지향 프로그래밍</a></h3>
+<p>OCaml의 객체 지향 프로그래밍 기능을 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>people</code> - 기본 클래스</li>
+<li><strong>ex01</strong>: <code>doctor</code> - 클래스 상속</li>
+<li><strong>ex02</strong>: <code>dalek</code> - 다중 클래스 상속</li>
+</ul>
+<h3 id="module-07-복잡한-타입-시스템"><a class="heading-link" aria-hidden="true" href="#module-07-복잡한-타입-시스템">Module 07: 복잡한 타입 시스템</a></h3>
+<p>화학 분자 모델링을 통한 복잡한 타입 시스템을 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>atom</code> - 원자 클래스 (Hydrogen, Carbon, Oxygen 등)</li>
+<li><strong>ex01</strong>: <code>molecule</code> - 분자 클래스</li>
+<li><strong>ex02</strong>: <code>alkane</code> - 알칸 분자</li>
+<li><strong>ex03</strong>: <code>reaction</code> - 화학 반응</li>
+<li><strong>ex04</strong>: <code>alkane_combustion</code> - 알칸 연소 반응</li>
+<li><strong>ex05</strong>: 고급 반응 처리</li>
+</ul>
+<h3 id="module-08-고급-개념"><a class="heading-link" aria-hidden="true" href="#module-08-고급-개념">Module 08: 고급 개념</a></h3>
+<p>모듈, 모노이드, 모나드 등 고급 함수형 프로그래밍 개념을 학습한다.</p>
+<ul>
+<li><strong>ex00</strong>: <code>Watchtower</code> - 모듈 (시계 모노이드)</li>
+<li><strong>ex01</strong>: <code>App</code> - 애플리케이션 모듈</li>
+<li><strong>ex02</strong>: <code>Monoid</code> - 모노이드 구현</li>
+<li><strong>ex03</strong>: <code>Monad</code> - 모나드 구현</li>
+<li><strong>ex04</strong>: 고급 모나드 패턴</li>
+</ul>
+<h2 id="빌드-및-실행"><a class="heading-link" aria-hidden="true" href="#빌드-및-실행">빌드 및 실행</a></h2>
+<p>각 연습 문제는 독립적으로 빌드하고 실행할 수 있다.</p>
+<h3 id="빌드"><a class="heading-link" aria-hidden="true" href="#빌드">빌드</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> moduleXX/exYY</span></span>
+<span data-line=""><span style="color:#FFC777">make</span></span><button type="button" title="Copy code" aria-label="Copy code" data="cd moduleXX/exYY
+make" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="실행"><a class="heading-link" aria-hidden="true" href="#실행">실행</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">./run.out</span></span><button type="button" title="Copy code" aria-label="Copy code" data="./run.out" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="정리"><a class="heading-link" aria-hidden="true" href="#정리">정리</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">make</span><span style="color:#C3E88D"> clean</span><span style="color:#858AA6">    # 빌드 산출물 삭제</span></span>
+<span data-line=""><span style="color:#FFC777">make</span><span style="color:#C3E88D"> re</span><span style="color:#858AA6">       # 정리 후 재빌드</span></span><button type="button" title="Copy code" aria-label="Copy code" data="make clean    # 빌드 산출물 삭제
+make re       # 정리 후 재빌드" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="예제"><a class="heading-link" aria-hidden="true" href="#예제">예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Module 00의 첫 번째 연습 문제 실행</span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> module00/ex00</span></span>
+<span data-line=""><span style="color:#FFC777">make</span></span>
+<span data-line=""><span style="color:#FFC777">./run.out</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Module 00의 첫 번째 연습 문제 실행
+cd module00/ex00
+make
+./run.out" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="학습-순서"><a class="heading-link" aria-hidden="true" href="#학습-순서">학습 순서</a></h2>
+<ol>
+<li><strong>Module 00</strong>: OCaml의 기본 문법과 함수 작성법을 익힌다.</li>
+<li><strong>Module 01</strong>: 재귀와 고차 함수를 통해 함수형 프로그래밍의 핵심을 학습한다.</li>
+<li><strong>Module 02</strong>: 리스트와 시퀀스를 다루는 방법을 학습한다.</li>
+<li><strong>Module 03</strong>: OCaml의 강력한 타입 시스템을 이해한다.</li>
+<li><strong>Module 04</strong>: 변경 가능한 상태와 예외 처리, 파일 I/O를 학습한다.</li>
+<li><strong>Module 05</strong>: 모듈 시스템과 스크립트 작성법을 학습한다.</li>
+<li><strong>Module 06</strong>: OCaml의 객체 지향 프로그래밍 기능을 학습한다.</li>
+<li><strong>Module 07</strong>: 복잡한 타입 시스템을 실제 문제에 적용한다.</li>
+<li><strong>Module 08</strong>: 함수형 프로그래밍의 고급 개념을 학습한다.</li>
+</ol>
+<h2 id="참고-자료"><a class="heading-link" aria-hidden="true" href="#참고-자료">참고 자료</a></h2>
+<ul>
+<li><a href="https://ocaml.org/docs">OCaml 공식 문서</a></li>
+<li><a href="https://dev.realworldocaml.org/">Real World OCaml</a></li>
+<li><a href="https://ocaml.org/docs/up-and-running">OCaml Tutorial</a></li>
+</ul>17:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+13:["$","$L1b",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1b",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

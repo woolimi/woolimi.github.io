@@ -1,0 +1,318 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+3:I[823080,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+6:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"ViewportBoundary"]
+b:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"MetadataBoundary"]
+d:I[26623,[],"default"]
+:HL["/_next/static/chunks/2fc4938d46ca9898.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"zz3fM3C0BYGlLBd3FPzam","c":["","ko","projects","schools","leaffliction"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","leaffliction","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fc4938d46ca9898.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ef7f7dfdb8bd52fb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/66231d519a3a670e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/6878d4616822326c.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/6d5144f4ef97171b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Le"}]]}]
+f:I[779615,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+10:I[728231,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"TooltipProvider"]
+11:I[663780,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"홈","blog":"블로그"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+1c:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"IconMark"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"leaffliction"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"leaffliction\",\"description\":\"leaffliction은 ecole42의 컴퓨터 비전 프로젝트로, 딥러닝을 활용하여 사과와 포도의 잎 이미지에서 질병을 자동으로 분류하는 시스템. CNN(Convolutional Neural Network) 모델을 사용하여 다양한 잎 질병을 인식하고 분류하며, 데이터 증강, 이미지 전처리, 모델 학습 및 평가 파이프라인을 구현한다. PyTorch를 사용하여 CNN 모델을 학습하고 TensorBoard로 학습 과정을 시각화한다\",\"image\":\"https://woolimi.github.io/og?title=leaffliction\",\"url\":\"https://woolimi.github.io/projects/schools/leaffliction\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"leaffliction"}],"$undefined",["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"leaffliction은 ecole42의 컴퓨터 비전 프로젝트로, 딥러닝을 활용하여 사과와 포도의 잎 이미지에서 질병을 자동으로 분류하는 시스템. CNN(Convolutional Neural Network) 모델을 사용하여 다양한 잎 질병을 인식하고 분류하며, 데이터 증강, 이미지 전처리, 모델 학습 및 평가 파이프라인을 구현한다. PyTorch를 사용하여 CNN 모델을 학습하고 TensorBoard로 학습 과정을 시각화한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L15","$L16","$L17","$L18","$L19"]}],"$L1a"]}],"$L1b"]}]}]
+c:[["$","title","0",{"children":"leaffliction | 박우림"}],["$","meta","1",{"name":"description","content":"leaffliction은 ecole42의 컴퓨터 비전 프로젝트로, 딥러닝을 활용하여 사과와 포도의 잎 이미지에서 질병을 자동으로 분류하는 시스템. CNN(Convolutional Neural Network) 모델을 사용하여 다양한 잎 질병을 인식하고 분류하며, 데이터 증강, 이미지 전처리, 모델 학습 및 평가 파이프라인을 구현한다. PyTorch를 사용하여 CNN 모델을 학습하고 TensorBoard로 학습 과정을 시각화한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"leaffliction"}],["$","meta","6",{"property":"og:description","content":"leaffliction은 ecole42의 컴퓨터 비전 프로젝트로, 딥러닝을 활용하여 사과와 포도의 잎 이미지에서 질병을 자동으로 분류하는 시스템. CNN(Convolutional Neural Network) 모델을 사용하여 다양한 잎 질병을 인식하고 분류하며, 데이터 증강, 이미지 전처리, 모델 학습 및 평가 파이프라인을 구현한다. PyTorch를 사용하여 CNN 모델을 학습하고 TensorBoard로 학습 과정을 시각화한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/leaffliction"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=leaffliction"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"leaffliction"}],["$","meta","12",{"name":"twitter:description","content":"leaffliction은 ecole42의 컴퓨터 비전 프로젝트로, 딥러닝을 활용하여 사과와 포도의 잎 이미지에서 질병을 자동으로 분류하는 시스템. CNN(Convolutional Neural Network) 모델을 사용하여 다양한 잎 질병을 인식하고 분류하며, 데이터 증강, 이미지 전처리, 모델 학습 및 평가 파이프라인을 구현한다. PyTorch를 사용하여 CNN 모델을 학습하고 TensorBoard로 학습 과정을 시각화한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=leaffliction"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1c","19",{}]]
+8:null
+1f:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+15:["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Python"}]
+16:["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"PyTorch"}]
+17:["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"CNN"}]
+18:["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Computer Vision"}]
+19:["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Deep Learning"}]
+1d:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z1a:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/leaffliction","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$1d","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+1e:Taa38,<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p>leaffliction은 식물 잎 이미지 분석을 통한 질병 인식을 위한 컴퓨터 비전 프로젝트다. 이 프로젝트는 딥러닝을 활용하여 사과와 포도의 잎 이미지에서 질병을 자동으로 분류하는 시스템이다. CNN(Convolutional Neural Network) 모델을 사용하여 다양한 잎 질병을 인식하고 분류한다.</p>
+<h3 id="주요-기능"><a class="heading-link" aria-hidden="true" href="#주요-기능">주요 기능</a></h3>
+<ul>
+<li><strong>데이터셋 다운로드 및 분석</strong>: 잎 이미지 데이터셋을 다운로드하고 클래스별 분포를 시각화</li>
+<li><strong>데이터 증강</strong>: 불균형한 데이터셋을 자동으로 증강하여 균형 잡힌 데이터셋 생성</li>
+<li><strong>이미지 변환</strong>: 다양한 이미지 전처리 및 변환 기법 제공</li>
+<li><strong>모델 학습</strong>: CNN 모델을 학습하여 잎 질병 분류</li>
+<li><strong>예측</strong>: 학습된 모델을 사용하여 새로운 이미지의 질병 예측</li>
+</ul>
+<h3 id="지원하는-질병-클래스"><a class="heading-link" aria-hidden="true" href="#지원하는-질병-클래스">지원하는 질병 클래스</a></h3>
+<ul>
+<li><strong>사과 (Apple)</strong>: 건강한 잎, 검은 썩음병, 녹병, 겹무늬병</li>
+<li><strong>포도 (Grape)</strong>: 건강한 잎, 검은 썩음병, Esca, 반점병</li>
+</ul>
+<h2 id="설치-방법"><a class="heading-link" aria-hidden="true" href="#설치-방법">설치 방법</a></h2>
+<h3 id="요구사항"><a class="heading-link" aria-hidden="true" href="#요구사항">요구사항</a></h3>
+<ul>
+<li>Python 3.x</li>
+<li>PyTorch</li>
+<li>기타 의존성 패키지 (requirements.txt 참조)</li>
+</ul>
+<h3 id="설치-단계"><a class="heading-link" aria-hidden="true" href="#설치-단계">설치 단계</a></h3>
+<ol>
+<li>저장소 클론:</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> clone</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">repository-ur</span><span style="color:#C8D3F5">l</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> leaffliction</span></span><button type="button" title="Copy code" aria-label="Copy code" data="git clone <repository-url>
+cd leaffliction" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ol start="2">
+<li>가상환경 생성 및 활성화:</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> -m</span><span style="color:#C3E88D"> venv</span><span style="color:#C3E88D"> venv</span></span>
+<span data-line=""><span style="color:#65BCFF">source</span><span style="color:#C3E88D"> venv/bin/activate</span><span style="color:#858AA6">  # Windows: venv\Scripts\activate</span></span><button type="button" title="Copy code" aria-label="Copy code" data="python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ol start="3">
+<li>의존성 설치:</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> -r</span><span style="color:#C3E88D"> requirements.txt</span></span><button type="button" title="Copy code" aria-label="Copy code" data="pip install -r requirements.txt" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="사용-방법"><a class="heading-link" aria-hidden="true" href="#사용-방법">사용 방법</a></h2>
+<h3 id="1-데이터셋-다운로드-및-분포-확인"><a class="heading-link" aria-hidden="true" href="#1-데이터셋-다운로드-및-분포-확인">1. 데이터셋 다운로드 및 분포 확인</a></h3>
+<p>데이터셋을 다운로드하고 클래스별 이미지 분포를 시각화한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 데이터셋 다운로드 및 분포 차트 생성</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 01.Distribution.py</span><span style="color:#C3E88D"> apple</span><span style="color:#C3E88D"> grape</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 데이터셋 다운로드 및 분포 차트 생성
+python 01.Distribution.py apple grape" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>이 명령은 다음을 수행한다:</p>
+<ul>
+<li>데이터셋이 없으면 자동으로 다운로드 및 압축 해제</li>
+<li>사과와 포도 클래스별 이미지 분포를 파이 차트와 막대 그래프로 시각화</li>
+<li><code>apple_combined_chart.png</code>와 <code>grape_combined_chart.png</code> 파일 생성</li>
+</ul>
+<h3 id="2-데이터-증강"><a class="heading-link" aria-hidden="true" href="#2-데이터-증강">2. 데이터 증강</a></h3>
+<p>불균형한 데이터셋을 자동으로 증강하여 각 클래스의 이미지 수를 균형있게 맞춘다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 불균형한 이미지 데이터셋 자동 증강</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 02.Augmentation.py</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 불균형한 이미지 데이터셋 자동 증강
+python 02.Augmentation.py" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>증강 기법:</strong></p>
+<ul>
+<li>수평 뒤집기 (Horizontal Flip)</li>
+<li>회전 (Rotation, 10-180도)</li>
+<li>원근 변환 (Perspective Transformation)</li>
+<li>밝기 조정 (Brightness Adjustment)</li>
+<li>대비 조정 (Contrast Adjustment)</li>
+<li>채도 조정 (Saturation Adjustment)</li>
+</ul>
+<p><strong>출력 예시:</strong></p>
+<pre><code>Auto image augmentation...
+
+Augmenting "Apple" images...
+========================
+Summary of augmentation:
+========================
+/Users/woolim/Documents/leaffliction/images/Apple_scab: 629 -> 1640
+/Users/woolim/Documents/leaffliction/images/Apple_healthy: 1640 -> 1640
+/Users/woolim/Documents/leaffliction/images/Apple_rust: 275 -> 1640
+/Users/woolim/Documents/leaffliction/images/Apple_Black_rot: 620 -> 1640
+
+Augmenting "Grape" images...
+========================
+Summary of augmentation:
+========================
+/Users/woolim/Documents/leaffliction/images/Grape_Esca: 1382 -> 1382
+/Users/woolim/Documents/leaffliction/images/Grape_healthy: 422 -> 1382
+/Users/woolim/Documents/leaffliction/images/Grape_Black_rot: 1178 -> 1382
+/Users/woolim/Documents/leaffliction/images/Grape_spot: 1075 -> 1382
+</code></pre>
+<h3 id="3-증강-후-분포-확인"><a class="heading-link" aria-hidden="true" href="#3-증강-후-분포-확인">3. 증강 후 분포 확인</a></h3>
+<p>증강 후 데이터셋이 균형있게 분포되었는지 확인한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 01.Distribution.py</span><span style="color:#C3E88D"> apple</span><span style="color:#C3E88D"> grape</span></span><button type="button" title="Copy code" aria-label="Copy code" data="python 01.Distribution.py apple grape" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<table>
+<thead>
+<tr>
+<th align="center">apple before</th>
+<th align="center">apple after</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/leaffliction/apple_non_blanced.png" alt=""></td>
+<td align="center"><img src="/leaffliction/apple_balanced.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">grape before</th>
+<th align="center">grape after</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/leaffliction/grape_non_balanced.png" alt=""></td>
+<td align="center"><img src="/leaffliction/grape_balanced.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<h3 id="4-이미지-변환-시각화"><a class="heading-link" aria-hidden="true" href="#4-이미지-변환-시각화">4. 이미지 변환 시각화</a></h3>
+<p>이미지에 다양한 변환 기법을 적용하여 결과를 시각화한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 단일 이미지 변환 시각화</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 03.Transformation.py</span><span style="color:#C3E88D"> -src</span><span style="color:#C8D3F5"> [IMAGE_PATH]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 디렉토리 내 모든 이미지에 변환 적용</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 03.Transformation.py</span><span style="color:#C3E88D"> -src</span><span style="color:#C8D3F5"> [SRC_PATH] -dst </span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">DST_PATH</span><span style="color:#86E1FC">]</span><span style="color:#C8D3F5"> -mask -gaussian</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 단일 이미지 변환 시각화
+python 03.Transformation.py -src [IMAGE_PATH]
+
+# 디렉토리 내 모든 이미지에 변환 적용
+python 03.Transformation.py -src [SRC_PATH] -dst [DST_PATH] -mask -gaussian" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>지원하는 변환 기법:</strong></p>
+<ul>
+<li><code>-gaussian</code> / <code>--gaussian_blur</code>: 가우시안 블러</li>
+<li><code>-mask</code>: 마스크 변환 (잎 영역만 추출)</li>
+<li><code>-roi</code> / <code>--roi_objects</code>: ROI 객체 변환</li>
+<li><code>-analyze</code> / <code>--analyze_object</code>: 객체 분석 변환</li>
+<li><code>-pseudo</code> / <code>--pseudolandmarks</code>: 의사 랜드마크 변환</li>
+<li><code>-hist</code> / <code>--color_histogram</code>: 컬러 히스토그램 변환</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="center">image transformed</th>
+<th align="center">image transformed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/leaffliction/image_transformation_1.png" alt=""></td>
+<td align="center"><img src="/leaffliction/image_transformation_2.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<h3 id="5-모델-학습"><a class="heading-link" aria-hidden="true" href="#5-모델-학습">5. 모델 학습</a></h3>
+<p>CNN 모델을 학습시킨다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> train.py</span></span><button type="button" title="Copy code" aria-label="Copy code" data="python train.py" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>하이퍼파라미터:</strong></p>
+<ul>
+<li>학습률 (Learning Rate): 0.01</li>
+<li>배치 크기 (Batch Size): 256</li>
+<li>에포크 수 (Epochs): 10</li>
+<li>옵티마이저: Adam</li>
+<li>손실 함수: CrossEntropyLoss</li>
+</ul>
+<p><strong>학습 과정:</strong></p>
+<ul>
+<li>데이터셋을 80% 학습용, 20% 검증용으로 분할</li>
+<li>각 에포크마다 학습 손실과 검증 손실 기록</li>
+<li>검증 손실이 개선될 때마다 모델 저장</li>
+<li>TensorBoard를 통한 학습 과정 시각화</li>
+</ul>
+<h3 id="6-이미지-예측"><a class="heading-link" aria-hidden="true" href="#6-이미지-예측">6. 이미지 예측</a></h3>
+<p>학습된 모델을 사용하여 단일 이미지의 질병을 예측한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> predict.py</span><span style="color:#C8D3F5"> [image_path]</span></span><button type="button" title="Copy code" aria-label="Copy code" data="python predict.py [image_path]" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>출력:</strong></p>
+<ul>
+<li>원본 이미지와 변환된 이미지를 나란히 표시</li>
+<li>예측된 질병 클래스 표시</li>
+</ul>
+<p><img src="/leaffliction/predicted.png" alt=""></p>
+<h3 id="7-모델-정확도-평가"><a class="heading-link" aria-hidden="true" href="#7-모델-정확도-평가">7. 모델 정확도 평가</a></h3>
+<p>검증 데이터셋에 대한 모델의 정확도를 평가한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 04.Classification.py</span></span><button type="button" title="Copy code" aria-label="Copy code" data="python 04.Classification.py" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>출력 예시:</strong></p>
+<pre><code>Validation Progress: 100%|███████████████████████████████████████████| 10/10 [01:10&#x3C;00:00,  7.01s/it]
+Accuracy of the model on the validation set: 92.31%
+</code></pre>
+<h2 id="모델-아키텍처"><a class="heading-link" aria-hidden="true" href="#모델-아키텍처">모델 아키텍처</a></h2>
+<p><code>LeafClassifier</code>는 다음과 같은 CNN 구조를 사용한다:</p>
+<pre><code>Input: (256, 256, 3)
+  ↓
+Conv2d(3 → 32, kernel=3) + ReLU + MaxPool2d
+  ↓
+Conv2d(32 → 64, kernel=3) + ReLU + MaxPool2d
+  ↓
+Conv2d(64 → 128, kernel=3) + ReLU + MaxPool2d
+  ↓
+Conv2d(128 → 256, kernel=3) + ReLU + MaxPool2d
+  ↓
+Flatten: (256 * 14 * 14)
+  ↓
+Linear(256 * 14 * 14 → 512) + ReLU + Dropout(0.5)
+  ↓
+Linear(512 → NUM_CLASSES)
+  ↓
+Output: 질병 클래스 예측
+</code></pre>
+<h2 id="tensorboard-시각화"><a class="heading-link" aria-hidden="true" href="#tensorboard-시각화">TensorBoard 시각화</a></h2>
+<p>학습 과정을 TensorBoard로 시각화할 수 있다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">tensorboard</span><span style="color:#C3E88D"> --logdir</span><span style="color:#C3E88D"> runs</span></span><button type="button" title="Copy code" aria-label="Copy code" data="tensorboard --logdir runs" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>브라우저에서 <code>http://localhost:6006</code>으로 접속하여 학습 과정을 확인할 수 있다.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Train loss</th>
+<th align="center">Train vs Validation Loss</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/leaffliction/train_loss.png" alt=""></td>
+<td align="center"><img src="/leaffliction/train_vs_validation_loss.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<h2 id="프로젝트-구조"><a class="heading-link" aria-hidden="true" href="#프로젝트-구조">프로젝트 구조</a></h2>
+<pre><code>leaffliction/
+├── 00.init.sh              # 초기화 스크립트
+├── 01.Distribution.py      # 데이터셋 다운로드 및 분포 분석
+├── 02.Augmentation.py      # 데이터 증강
+├── 03.Transformation.py    # 이미지 변환
+├── 04.Classification.py    # 모델 정확도 평가
+├── train.py                # 모델 학습
+├── predict.py              # 이미지 예측
+├── model.py                # 모델 정의
+├── requirements.txt        # 의존성 패키지 목록
+├── lib/
+│   ├── images.py          # 이미지 처리 유틸리티
+│   ├── transformation.py  # 이미지 변환 클래스
+│   └── print.py           # 출력 유틸리티
+├── demo/                   # 데모 이미지
+├── test_images/            # 테스트 이미지
+└── runs/                   # TensorBoard 로그
+</code></pre>
+<h2 id="주요-파일-설명"><a class="heading-link" aria-hidden="true" href="#주요-파일-설명">주요 파일 설명</a></h2>
+<h3 id="modelpy"><a class="heading-link" aria-hidden="true" href="#modelpy"><code>model.py</code></a></h3>
+<ul>
+<li><code>LeafClassifier</code>: CNN 모델 정의</li>
+<li>데이터셋 로딩 및 전처리 파이프라인</li>
+</ul>
+<h3 id="trainpy"><a class="heading-link" aria-hidden="true" href="#trainpy"><code>train.py</code></a></h3>
+<ul>
+<li>모델 학습 로직</li>
+<li>TensorBoard 로깅</li>
+<li>모델 체크포인트 저장</li>
+</ul>
+<h3 id="predictpy"><a class="heading-link" aria-hidden="true" href="#predictpy"><code>predict.py</code></a></h3>
+<ul>
+<li>단일 이미지 예측</li>
+<li>결과 시각화</li>
+</ul>
+<h3 id="libimagespy"><a class="heading-link" aria-hidden="true" href="#libimagespy"><code>lib/images.py</code></a></h3>
+<ul>
+<li>이미지 분석 및 증강 함수</li>
+<li>데이터셋 다운로드 URL 정의</li>
+</ul>
+<h3 id="libtransformationpy"><a class="heading-link" aria-hidden="true" href="#libtransformationpy"><code>lib/transformation.py</code></a></h3>
+<ul>
+<li>PlantCV를 사용한 고급 이미지 변환</li>
+<li>마스크 생성 및 객체 분석</li>
+</ul>
+<h2 id="테스트"><a class="heading-link" aria-hidden="true" href="#테스트">테스트</a></h2>
+<p>프로젝트에는 테스트 이미지가 포함되어 있다:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 단일 이미지 예측 테스트</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> predict.py</span><span style="color:#C3E88D"> test_images/Unit_test1/Apple_healthy1.JPG</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 전체 검증 세트 정확도 평가</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 04.Classification.py</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 단일 이미지 예측 테스트
+python predict.py test_images/Unit_test1/Apple_healthy1.JPG
+
+# 전체 검증 세트 정확도 평가
+python 04.Classification.py" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="참고-자료"><a class="heading-link" aria-hidden="true" href="#참고-자료">참고 자료</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF">Youtube Coursera CNN</a></li>
+</ul>
+<h2 id="라이선스"><a class="heading-link" aria-hidden="true" href="#라이선스">라이선스</a></h2>
+<p>이 프로젝트는 교육 목적으로 제작되었다.</p>1b:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$1e"}}]
+13:["$","$L1f",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1f",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

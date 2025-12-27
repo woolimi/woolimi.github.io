@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+10:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"zz3fM3C0BYGlLBd3FPzam","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"multilayer-perceptron"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"multilayer-perceptron\",\"description\":\"multilayer-perceptron은 ecole42의 머신러닝 프로젝트로, 위스콘신 유방암 진단 데이터셋을 사용하여 암이 악성(malignant)인지 양성(benign)인지를 예측하기 위해 다층 퍼셉트론을 직접 구현하는 프로젝트. 순전파(feedforward), 역전파(backpropagation), 경사 하강법을 포함한 신경망의 핵심 알고리즘을 외부 라이브러리 없이 순수 Python으로 구현하며, ReLU, Sigmoid, Softmax 활성화 함수와 조기 종료 기능을 포함한다\",\"image\":\"https://woolimi.github.io/og?title=multilayer-perceptron\",\"url\":\"https://woolimi.github.io/projects/schools/multilayer-perceptron\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"multilayer-perceptron"}],"$undefined","$L4","$L5","$L6"]}],"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"multilayer-perceptron은 ecole42의 머신러닝 프로젝트로, 위스콘신 유방암 진단 데이터셋을 사용하여 암이 악성(malignant)인지 양성(benign)인지를 예측하기 위해 다층 퍼셉트론을 직접 구현하는 프로젝트. 순전파(feedforward), 역전파(backpropagation), 경사 하강법을 포함한 신경망의 핵심 알고리즘을 외부 라이브러리 없이 순수 Python으로 구현하며, ReLU, Sigmoid, Softmax 활성화 함수와 조기 종료 기능을 포함한다"}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Python"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Machine Learning"}],["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Neural Networks"}]]}]
+e:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z6:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/multilayer-perceptron","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$e","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+f:T35eb,<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p>multilayer-perceptron은 ecole42의 머신러닝 프로젝트로, 인공 신경망을 소개하는 프로젝트다. 이 프로젝트의 목표는 위스콘신 유방암 진단 데이터셋을 사용하여 암이 악성(malignant)인지 양성(benign)인지를 예측하기 위해 다층 퍼셉트론을 구현하는 것이다.</p>
+<h3 id="프로젝트-제한사항"><a class="heading-link" aria-hidden="true" href="#프로젝트-제한사항">프로젝트 제한사항</a></h3>
+<ul>
+<li><strong>머신러닝 라이브러리 사용 금지</strong>: 신경망 모델, 활성화 함수, 역전파 알고리즘 등 모든 머신러닝 관련 기능은 외부 라이브러리(예: TensorFlow, PyTorch, scikit-learn, Keras 등)를 사용하지 않고 직접 구현해야 한다.</li>
+<li>모든 수학적 연산(행렬 연산, 활성화 함수, 손실 함수 등)과 최적화 알고리즘은 순수 Python과 NumPy 같은 기본 수학 라이브러리만 사용하여 작성해야 한다.</li>
+</ul>
+<h2 id="데이터셋"><a class="heading-link" aria-hidden="true" href="#데이터셋">데이터셋</a></h2>
+<p>32개의 열을 가진 CSV 파일로, <code>diagnosis</code> 열이 예측하고자 하는 레이블이며, 나머지 모든 특성(features)을 기반으로 학습한다. <code>diagnosis</code> 값은 <code>M</code>(악성) 또는 <code>B</code>(양성) 중 하나다.</p>
+<h2 id="설치-및-실행"><a class="heading-link" aria-hidden="true" href="#설치-및-실행">설치 및 실행</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> -r</span><span style="color:#C3E88D"> requirements.txt</span></span>
+<span data-line=""><span style="color:#858AA6"># 데이터 전처리</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 01.prepare.py</span></span>
+<span data-line=""><span style="color:#858AA6"># 모델 학습</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 02.train.py</span></span>
+<span data-line=""><span style="color:#858AA6"># 예측</span></span>
+<span data-line=""><span style="color:#FFC777">python</span><span style="color:#C3E88D"> 03.predict.py</span></span><button type="button" title="Copy code" aria-label="Copy code" data="pip install -r requirements.txt
+# 데이터 전처리
+python 01.prepare.py
+# 모델 학습
+python 02.train.py
+# 예측
+python 03.predict.py" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="용어-설명"><a class="heading-link" aria-hidden="true" href="#용어-설명">용어 설명</a></h2>
+<h3 id="1-다층-퍼셉트론-multilayer-perceptron"><a class="heading-link" aria-hidden="true" href="#1-다층-퍼셉트론-multilayer-perceptron">1. 다층 퍼셉트론 (Multilayer Perceptron)</a></h3>
+<p>다층 퍼셉트론(MLP)은 여러 층의 노드(뉴런)로 구성된 인공 신경망(ANN)의 한 유형으로, 각 층이 다음 층과 완전히 연결되어 있다. 복잡한 함수를 근사하고 선형적으로 분리할 수 없는 문제를 해결하기 위해 설계되었다.</p>
+<h4 id="구성-요소"><a class="heading-link" aria-hidden="true" href="#구성-요소">구성 요소:</a></h4>
+<ul>
+<li><strong>입력층(Input Layer)</strong>: 입력 데이터를 받는 층</li>
+<li><strong>은닉층(Hidden Layers)</strong>: 계산이 수행되는 하나 이상의 중간 층. 이러한 층을 통해 네트워크가 데이터의 복잡한 패턴을 학습하고 모델링할 수 있다.</li>
+<li><strong>출력층(Output Layer)</strong>: 최종 예측 결과를 생성하는 마지막 층</li>
+</ul>
+<h4 id="활성화-함수"><a class="heading-link" aria-hidden="true" href="#활성화-함수">활성화 함수:</a></h4>
+<p>각 뉴런은 가중치가 적용된 입력 합에 활성화 함수(예: ReLU, sigmoid, tanh)를 적용하여 모델에 비선형성을 도입하고, 복잡한 관계를 학습할 수 있도록 한다.</p>
+<h3 id="2-순전파-feedforward"><a class="heading-link" aria-hidden="true" href="#2-순전파-feedforward">2. 순전파 (Feedforward)</a></h3>
+<p>순전파는 입력 데이터가 신경망을 통해 입력층에서 출력층으로 한 방향으로 전달되는 과정을 의미한다.</p>
+<ul>
+<li><strong>입력</strong>: 입력 데이터가 입력층에 공급된다.</li>
+<li><strong>전파</strong>: 데이터는 가중치와 활성화 함수를 적용하여 각 후속 층(은닉층)을 통해 전파된다.</li>
+<li><strong>출력</strong>: 최종 층이 출력 예측을 생성한다.</li>
+</ul>
+<h3 id="3-역전파-backpropagation"><a class="heading-link" aria-hidden="true" href="#3-역전파-backpropagation">3. 역전파 (Backpropagation)</a></h3>
+<p>역전파(오차의 역방향 전파)는 신경망을 학습시키기 위해 사용되는 지도 학습 알고리즘이다. 순전파와 역전파라는 두 가지 주요 단계를 포함한다.</p>
+<h4 id="과정"><a class="heading-link" aria-hidden="true" href="#과정">과정</a></h4>
+<ol>
+<li><strong>순전파</strong>: 입력을 층을 통해 전파하여 네트워크의 출력을 계산한다.</li>
+<li><strong>손실 계산</strong>: 손실 함수(예: 평균 제곱 오차, 교차 엔트로피)를 사용하여 예측된 출력과 실제 목표 값을 비교하여 손실(오차)을 계산한다.</li>
+<li><strong>역전파</strong>: 미적분의 연쇄 법칙을 적용하여 손실에 대한 각 가중치의 기울기를 계산하기 위해 오차를 네트워크를 통해 역방향으로 전파한다.</li>
+<li><strong>가중치 업데이트</strong>: 계산된 기울기를 사용하여 가중치를 업데이트하여 손실을 최소화한다.</li>
+</ol>
+<p>역전파의 목표는 오차를 줄이고 예측의 정확도를 향상시키기 위해 신경망의 가중치를 최적화하는 것이다.</p>
+<h3 id="4-경사-하강법-gradient-descent"><a class="heading-link" aria-hidden="true" href="#4-경사-하강법-gradient-descent">4. 경사 하강법 (Gradient Descent)</a></h3>
+<p>경사 하강법은 손실 함수의 최급강하 방향으로 가중치를 반복적으로 조정하여 신경망의 손실 함수를 최소화하는 데 사용되는 최적화 알고리즘이다.</p>
+<ul>
+<li><strong>가중치 초기화</strong>: 무작위 초기 가중치로 시작한다.</li>
+<li><strong>기울기 계산</strong>: 가중치에 대한 손실 함수의 기울기를 계산한다.</li>
+<li><strong>가중치 업데이트</strong>: **학습률(learning rate)**이라는 단계 크기만큼 기울기의 반대 방향으로 가중치를 조정한다.</li>
+<li><strong>반복</strong>: 손실 함수가 최소값으로 수렴할 때까지 과정을 반복한다.</li>
+</ul>
+<h3 id="5-신경망에서-경사-하강법을-계산하는-방법"><a class="heading-link" aria-hidden="true" href="#5-신경망에서-경사-하강법을-계산하는-방법">5. 신경망에서 경사 하강법을 계산하는 방법</a></h3>
+<p>역전파 단계는 네트워크의 각 가중치에 대한 손실 함수의 기울기를 계산하는 것을 포함한다. 이는 <strong>미적분의 연쇄 법칙</strong>을 적용하여 출력층에서 입력층으로 오차를 역방향으로 전파함으로써 수행된다.</p>
+<p><img src="https://images.prismic.io/shortcut-french/Zpq6Mh5LeNNTxUL6_notation.png?auto=format,compress" alt="notation"></p>
+<h4 id="역전파-단계"><a class="heading-link" aria-hidden="true" href="#역전파-단계">역전파 단계</a></h4>
+<p><img src="https://images.prismic.io/shortcut-french/Zpq9OR5LeNNTxUMq_steps-backpropagation.png?auto=format,compress" alt="backpropagation"></p>
+<h4 id="출력층-softmax과-교차-엔트로피-손실"><a class="heading-link" aria-hidden="true" href="#출력층-softmax과-교차-엔트로피-손실">출력층 (softmax)과 교차 엔트로피 손실</a></h4>
+<p><img src="https://images.prismic.io/shortcut-french/Zpq5ph5LeNNTxULp_softmax-gradient.png?auto=format,compress" alt="softmax gradient descent with cross-entropy loss"></p>
+<h4 id="은닉층-relu-및-sigmoid"><a class="heading-link" aria-hidden="true" href="#은닉층-relu-및-sigmoid">은닉층 (ReLU 및 sigmoid)</a></h4>
+<p><img src="https://images.prismic.io/shortcut-french/Zpq6xB5LeNNTxUMB_hidden-layer.png?auto=format,compress" alt="Hidden layer gradient descent"></p>
+<h2 id="프로젝트-구조"><a class="heading-link" aria-hidden="true" href="#프로젝트-구조">프로젝트 구조</a></h2>
+<pre><code>multilayer-perceptron/
+├── 01.prepare.py          # 데이터셋을 학습용과 검증용으로 분리
+├── 02.train.py            # 신경망 모델 학습
+├── 03.predict.py          # 학습된 모델로 예측 수행
+├── evaluation.py          # 평가 스크립트
+├── data.csv               # 원본 데이터셋
+├── lib/
+│   ├── activation.py      # 활성화 함수 (ReLU, sigmoid, softmax)
+│   ├── data.py            # 데이터 로딩 및 전처리
+│   ├── layer.py           # 신경망 층 구현 (InputLayer, DenseLayer)
+│   ├── model.py           # 신경망 모델 클래스
+│   └── print.py           # 콘솔 출력 유틸리티
+└── requirements.txt       # 필요한 패키지 목록
+</code></pre>
+<h2 id="주요-기능"><a class="heading-link" aria-hidden="true" href="#주요-기능">주요 기능</a></h2>
+<ul>
+<li><strong>다층 신경망 구조</strong>: 입력층, 은닉층, 출력층으로 구성된 완전 연결 신경망</li>
+<li><strong>활성화 함수</strong>: ReLU, Sigmoid, Softmax 지원</li>
+<li><strong>역전파 알고리즘</strong>: 효율적인 가중치 업데이트를 위한 역전파 구현</li>
+<li><strong>조기 종료 (Early Stopping)</strong>: 과적합 방지를 위한 조기 종료 기능</li>
+<li><strong>다중 평가 지표</strong>: 손실(loss), 정확도(accuracy), 평균 제곱 오차(MSE) 추적</li>
+<li><strong>모델 저장/로드</strong>: JSON 형식으로 학습된 모델 저장 및 불러오기</li>
+<li><strong>시각화</strong>: 학습 과정의 손실, 정확도, MSE 그래프 생성</li>
+</ul>
+<h2 id="학습-파라미터"><a class="heading-link" aria-hidden="true" href="#학습-파라미터">학습 파라미터</a></h2>
+<p>기본 학습 설정 (<code>02.train.py</code>):</p>
+<ul>
+<li><strong>에포크(Epochs)</strong>: 30,000</li>
+<li><strong>학습률(Learning Rate)</strong>: 0.003</li>
+<li><strong>배치 크기(Batch Size)</strong>: 전체 데이터셋 크기</li>
+<li><strong>조기 종료</strong>: 활성화됨</li>
+<li><strong>네트워크 구조</strong>:
+<ul>
+<li>입력층: 데이터 특성 수</li>
+<li>은닉층 1: 30개 뉴런 (ReLU)</li>
+<li>은닉층 2: 28개 뉴런 (ReLU)</li>
+<li>출력층: 2개 뉴런 (Softmax)</li>
+</ul>
+</li>
+</ul>
+<h2 id="참고-자료"><a class="heading-link" aria-hidden="true" href="#참고-자료">참고 자료</a></h2>
+<ul>
+<li><a href="https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1">Coursera 머신러닝 - 고급 학습 알고리즘</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3">Neural Networks from Scratch in Python</a></li>
+</ul>
+<h2 id="보너스-기능"><a class="heading-link" aria-hidden="true" href="#보너스-기능">보너스 기능</a></h2>
+<ul>
+<li>
+<p><strong>조기 종료 (Early Stop)</strong></p>
+</li>
+<li>
+<p>학습 단계를 여러 지표로 평가: 손실, 정확도, MSE</p>
+</li>
+<li>
+<p>ReLU 및 Sigmoid 활성화 함수 지원</p>
+</li>
+</ul>7:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$f"}}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true}]
+d:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

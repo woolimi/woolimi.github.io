@@ -1,0 +1,334 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+f:I[482279,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"Image"]
+12:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"zz3fM3C0BYGlLBd3FPzam","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ft_transcendence"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ft_transcendence\",\"description\":\"ft_transcendence는 ecole42의 마지막 공통 코어 프로젝트로, Ruby on Rails와 Backbone.js를 사용하여 실시간 온라인 Pong 게임 웹사이트를 구현한 프로젝트. WebSocket을 통한 실시간 멀티플레이어 게임, 채팅 시스템, 길드 전쟁, 토너먼트, 랭킹 시스템 등 다양한 기능을 제공하며, OAuth 인증과 2FA를 통한 보안 기능을 포함한다. 한 번도 사용해보지 않은 언어와 프레임워크로 새로운 것을 만드는 것이 이 프로젝트의 진짜 목적이다\",\"image\":\"https://woolimi.github.io/ft_transcendence.gif\",\"url\":\"https://woolimi.github.io/projects/schools/ft_transcendence\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"ft_transcendence"}],"$L4","$L5","$L6","$L7"]}],"$L8"]}]}],["$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+4:["$","$Lf",null,{"src":"/ft_transcendence.gif","alt":"ft_transcendence","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}]
+5:["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"ft_transcendence는 ecole42의 마지막 공통 코어 프로젝트로, Ruby on Rails와 Backbone.js를 사용하여 실시간 온라인 Pong 게임 웹사이트를 구현한 프로젝트. WebSocket을 통한 실시간 멀티플레이어 게임, 채팅 시스템, 길드 전쟁, 토너먼트, 랭킹 시스템 등 다양한 기능을 제공하며, OAuth 인증과 2FA를 통한 보안 기능을 포함한다. 한 번도 사용해보지 않은 언어와 프레임워크로 새로운 것을 만드는 것이 이 프로젝트의 진짜 목적이다"}]
+6:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Ruby on Rails"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Backbone.js"}],["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"PostgreSQL"}],["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Docker"}]]}]
+10:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z7:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ft_transcendence","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$10","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+11:T775f,<h1 id="ft_transcendence-42-pong"><a class="heading-link" aria-hidden="true" href="#ft_transcendence-42-pong">ft_transcendence (42 Pong)</a></h1>
+<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p><code>ft_transcendence</code>는 ecole42의 마지막 공통 코어 프로젝트로, Ruby on Rails, Backbone.js, PostgreSQL을 사용하여 실시간 온라인 Pong 게임 웹사이트를 구현하는 것이 표면적인 목적이지만... <strong>진짜 목적은 한 번도 사용해보지 않은 언어와 프레임워크로 새로운 것을 만들어보는 것</strong>이다.</p>
+<p>이 42 Pong은 실시간 게임, 채팅, 그룹 채팅 채널, 친구 온라인/오프라인 상태, 길드, 길드 전쟁, 랭킹 시스템, 토너먼트를 지원한다. 모든 레이아웃은 완전히 반응형이어야 한다.</p>
+<h2 id="주요-기능"><a class="heading-link" aria-hidden="true" href="#주요-기능">주요 기능</a></h2>
+<h3 id="게임-기능"><a class="heading-link" aria-hidden="true" href="#게임-기능">게임 기능</a></h3>
+<ul>
+<li><strong>실시간 Pong 게임</strong>: WebSocket을 통한 실시간 멀티플레이어 게임</li>
+<li><strong>매치 시스템</strong>: 1:1 대전, 래더 매치, 토너먼트 매치</li>
+<li><strong>토너먼트</strong>: 4인 토너먼트 (준결승 → 결승)</li>
+<li><strong>랭킹 시스템</strong>: 사용자 RP(Rating Points) 기반 랭킹</li>
+</ul>
+<h3 id="소셜-기능"><a class="heading-link" aria-hidden="true" href="#소셜-기능">소셜 기능</a></h3>
+<ul>
+<li><strong>1:1 채팅</strong>: 개인 메시지 기능</li>
+<li><strong>채널 채팅</strong>: 공개/비공개/비밀 채널 지원
+<ul>
+<li>채널 관리: 관리자, 멤버, 밴, 음소거 기능</li>
+<li>비밀번호 보호 채널</li>
+</ul>
+</li>
+<li><strong>친구 시스템</strong>: 친구 추가/삭제, 온라인 상태 확인</li>
+<li><strong>사용자 프로필</strong>: 닉네임, 아바타, 프로필 관리</li>
+</ul>
+<h3 id="길드-시스템"><a class="heading-link" aria-hidden="true" href="#길드-시스템">길드 시스템</a></h3>
+<ul>
+<li><strong>길드 생성 및 관리</strong>: 길드 생성, 가입, 탈퇴</li>
+<li><strong>길드 전쟁</strong>: 길드 간 전쟁 시스템
+<ul>
+<li>전쟁 요청 및 수락</li>
+<li>전쟁 매치 스코어 추적</li>
+<li>베팅 시스템 (wager)</li>
+</ul>
+</li>
+<li><strong>길드 멤버 관리</strong>: 길드장, 장교, 일반 멤버 역할</li>
+</ul>
+<h3 id="보안-기능"><a class="heading-link" aria-hidden="true" href="#보안-기능">보안 기능</a></h3>
+<ul>
+<li><strong>OAuth 인증</strong>: 42 Intranet OAuth 로그인</li>
+<li><strong>2단계 인증 (2FA)</strong>: QR 코드 기반 OTP 인증</li>
+<li><strong>관리자 기능</strong>: 사용자 밴/언밴, 관리자 페이지</li>
+</ul>
+<h2 id="기술-스택"><a class="heading-link" aria-hidden="true" href="#기술-스택">기술 스택</a></h2>
+<h3 id="backend"><a class="heading-link" aria-hidden="true" href="#backend">Backend</a></h3>
+<ul>
+<li><strong>Ruby on Rails 6.0.3</strong>: 웹 애플리케이션 프레임워크</li>
+<li><strong>PostgreSQL</strong>: 데이터베이스</li>
+<li><strong>ActionCable</strong>: WebSocket을 통한 실시간 통신</li>
+<li><strong>Devise</strong>: 사용자 인증 시스템</li>
+<li><strong>Omniauth</strong>: OAuth 인증 (42 Intranet)</li>
+<li><strong>Cloudinary</strong>: 이미지 저장 및 관리</li>
+<li><strong>Puma</strong>: 웹 서버</li>
+</ul>
+<h3 id="frontend"><a class="heading-link" aria-hidden="true" href="#frontend">Frontend</a></h3>
+<ul>
+<li><strong>Backbone.js</strong>: MVC 프레임워크</li>
+<li><strong>jQuery</strong>: DOM 조작 및 이벤트 처리</li>
+<li><strong>Bootstrap 4</strong>: UI 프레임워크</li>
+<li><strong>Webpacker</strong>: JavaScript 번들링</li>
+<li><strong>SCSS</strong>: 스타일시트 전처리기</li>
+</ul>
+<h3 id="infrastructure"><a class="heading-link" aria-hidden="true" href="#infrastructure">Infrastructure</a></h3>
+<ul>
+<li><strong>Docker</strong>: 컨테이너화</li>
+<li><strong>Docker Compose</strong>: 멀티 컨테이너 애플리케이션 관리</li>
+<li><strong>PgAdmin</strong>: PostgreSQL 관리 도구</li>
+</ul>
+<h2 id="설치-및-실행"><a class="heading-link" aria-hidden="true" href="#설치-및-실행">설치 및 실행</a></h2>
+<h3 id="사전-요구사항"><a class="heading-link" aria-hidden="true" href="#사전-요구사항">사전 요구사항</a></h3>
+<ul>
+<li>Docker</li>
+<li>Docker Compose</li>
+</ul>
+<h3 id="실행-방법"><a class="heading-link" aria-hidden="true" href="#실행-방법">실행 방법</a></h3>
+<ol>
+<li>저장소 클론</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> clone</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">repository-ur</span><span style="color:#C8D3F5">l</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> ft_transcendence</span></span><button type="button" title="Copy code" aria-label="Copy code" data="git clone <repository-url>
+cd ft_transcendence" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ol start="2">
+<li>환경 변수 설정
+<code>.env</code> 파일을 생성하고 필요한 환경 변수를 설정한다:</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="env" data-theme="moonlight-ii"><code data-language="env" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span>POSTGRES_USER=postgres</span></span>
+<span data-line=""><span>POSTGRES_PASSWORD=postgres</span></span>
+<span data-line=""><span>OTP_KEY=your_otp_secret_key</span></span>
+<span data-line=""><span>CLOUDINARY_URL=your_cloudinary_url</span></span><button type="button" title="Copy code" aria-label="Copy code" data="POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+OTP_KEY=your_otp_secret_key
+CLOUDINARY_URL=your_cloudinary_url" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ol start="3">
+<li>애플리케이션 실행</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">docker-compose</span><span style="color:#C3E88D"> up</span><span style="color:#C3E88D"> --build</span></span><button type="button" title="Copy code" aria-label="Copy code" data="docker-compose up --build" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ol start="4">
+<li>데이터베이스 초기화 (첫 실행 시)</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">docker-compose</span><span style="color:#C3E88D"> exec</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> db:create</span><span style="color:#C3E88D"> db:migrate</span><span style="color:#C3E88D"> db:seed</span></span><button type="button" title="Copy code" aria-label="Copy code" data="docker-compose exec rails rails db:create db:migrate db:seed" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="접속-정보"><a class="heading-link" aria-hidden="true" href="#접속-정보">접속 정보</a></h3>
+<ul>
+<li><strong>42 Pong 웹사이트</strong>: <a href="http://127.0.0.1">http://127.0.0.1</a></li>
+<li><strong>PgAdmin</strong>: <a href="http://127.0.0.1:8080">http://127.0.0.1:8080</a>
+<ul>
+<li>이메일: <code>admin@admin.com</code></li>
+<li>비밀번호: <code>admin</code></li>
+<li>데이터베이스 사용자: <code>postgres</code></li>
+<li>데이터베이스 비밀번호: <code>postgres</code></li>
+</ul>
+</li>
+</ul>
+<h2 id="로그인-방법"><a class="heading-link" aria-hidden="true" href="#로그인-방법">로그인 방법</a></h2>
+<h3 id="1-42-intranet-oauth-로그인"><a class="heading-link" aria-hidden="true" href="#1-42-intranet-oauth-로그인">1. 42 Intranet OAuth 로그인</a></h3>
+<ol>
+<li>웹사이트에서 <code>login with 42</code> 버튼 클릭</li>
+<li>42 OAuth 로그인 페이지로 리다이렉트</li>
+<li>42 인트라넷 계정으로 로그인</li>
+</ol>
+<h3 id="2-데이터베이스-계정-로그인"><a class="heading-link" aria-hidden="true" href="#2-데이터베이스-계정-로그인">2. 데이터베이스 계정 로그인</a></h3>
+<p>42 인트라넷 ID가 없는 경우 백도어 로그인 페이지 사용:</p>
+<pre><code>http://127.0.0.1/users/sign_in
+</code></pre>
+<p><strong>테스트 계정</strong> (비밀번호: <code>asdfas</code>):</p>
+<ul>
+<li><a href="mailto:doby@asdf.com">doby@asdf.com</a></li>
+<li><a href="mailto:jai@asdf.com">jai@asdf.com</a></li>
+<li><a href="mailto:salty@asdf.com">salty@asdf.com</a></li>
+<li><a href="mailto:noich@asdf.com">noich@asdf.com</a></li>
+<li><a href="mailto:benny@asdf.com">benny@asdf.com</a></li>
+<li><a href="mailto:sophie@asdf.com">sophie@asdf.com</a></li>
+<li><a href="mailto:ol@asdf.com">ol@asdf.com</a></li>
+<li><a href="mailto:snow@asdf.com">snow@asdf.com</a></li>
+<li><a href="mailto:jerry@asdf.com">jerry@asdf.com</a></li>
+<li><a href="mailto:charly@adf.com">charly@adf.com</a></li>
+</ul>
+<p><strong>관리자 계정</strong>:</p>
+<ul>
+<li>이메일: <code>wpark@student.42.fr</code></li>
+<li>관리자 페이지 접근 가능</li>
+</ul>
+<h2 id="프로젝트-구조"><a class="heading-link" aria-hidden="true" href="#프로젝트-구조">프로젝트 구조</a></h2>
+<pre><code>ft_transcendence/
+├── docker-compose.yaml      # Docker Compose 설정
+├── dockerfile               # Docker 이미지 설정
+├── project/                 # Rails 애플리케이션
+│   ├── app/
+│   │   ├── channels/        # ActionCable 채널
+│   │   ├── controllers/     # 컨트롤러
+│   │   │   └── api/         # API 컨트롤러
+│   │   ├── models/          # 데이터 모델
+│   │   ├── javascript/      # JavaScript 파일
+│   │   │   └── packs/       # Backbone.js 뷰/모델/컬렉션
+│   │   └── views/           # 뷰 템플릿
+│   ├── config/
+│   │   ├── routes.rb        # 라우팅 설정
+│   │   └── ...
+│   ├── db/
+│   │   ├── migrate/         # 데이터베이스 마이그레이션
+│   │   └── schema.rb        # 데이터베이스 스키마
+│   └── ...
+└── README.md
+</code></pre>
+<h2 id="데이터베이스-모델"><a class="heading-link" aria-hidden="true" href="#데이터베이스-모델">데이터베이스 모델</a></h2>
+<h3 id="주요-모델"><a class="heading-link" aria-hidden="true" href="#주요-모델">주요 모델</a></h3>
+<ul>
+<li><strong>User</strong>: 사용자 계정 (Devise)</li>
+<li><strong>UserProfile</strong>: 사용자 프로필 정보</li>
+<li><strong>Match</strong>: 게임 매치</li>
+<li><strong>Tournament</strong>: 토너먼트</li>
+<li><strong>Guild</strong>: 길드</li>
+<li><strong>War</strong>: 길드 전쟁</li>
+<li><strong>Chat</strong>: 1:1 채팅</li>
+<li><strong>Channel</strong>: 채널 채팅</li>
+<li><strong>ChatMessage</strong>: 채팅 메시지</li>
+<li><strong>ChannelMessage</strong>: 채널 메시지</li>
+</ul>
+<h2 id="api-엔드포인트"><a class="heading-link" aria-hidden="true" href="#api-엔드포인트">API 엔드포인트</a></h2>
+<h3 id="사용자-관련"><a class="heading-link" aria-hidden="true" href="#사용자-관련">사용자 관련</a></h3>
+<ul>
+<li><code>GET /api/user_info</code> - 사용자 정보 조회</li>
+<li><code>GET /api/user_info/:user_id</code> - 특정 사용자 정보</li>
+<li><code>PUT /api/user_info/:user_id/ban</code> - 사용자 밴</li>
+<li><code>PUT /api/user_info/:user_id/unban</code> - 사용자 언밴</li>
+<li><code>GET /api/profile/:user_id</code> - 프로필 조회</li>
+<li><code>PUT /api/profile/:user_id</code> - 프로필 업데이트</li>
+</ul>
+<h3 id="2단계-인증"><a class="heading-link" aria-hidden="true" href="#2단계-인증">2단계 인증</a></h3>
+<ul>
+<li><code>GET /api/two_factors/:user_id</code> - 2FA 설정 조회</li>
+<li><code>POST /api/two_factors/:user_id</code> - 2FA 설정 생성</li>
+<li><code>PUT /api/two_factors/:user_id</code> - 2FA 설정 업데이트</li>
+</ul>
+<h3 id="친구"><a class="heading-link" aria-hidden="true" href="#친구">친구</a></h3>
+<ul>
+<li><code>GET /api/my_friends</code> - 친구 목록</li>
+<li><code>GET /api/my_friends/:user_id</code> - 친구 정보</li>
+<li><code>PUT /api/my_friends/:user_id</code> - 친구 추가</li>
+<li><code>DELETE /api/my_friends/:user_id</code> - 친구 삭제</li>
+</ul>
+<h3 id="채팅"><a class="heading-link" aria-hidden="true" href="#채팅">채팅</a></h3>
+<ul>
+<li><code>GET /api/chats</code> - 채팅 목록</li>
+<li><code>GET /api/chats/:room/chat_messages</code> - 채팅 메시지 조회</li>
+<li><code>POST /api/chats/:room/chat_messages</code> - 채팅 메시지 전송</li>
+</ul>
+<h3 id="채널"><a class="heading-link" aria-hidden="true" href="#채널">채널</a></h3>
+<ul>
+<li><code>GET /api/channels</code> - 채널 목록</li>
+<li><code>POST /api/channels</code> - 채널 생성</li>
+<li><code>GET /api/channels/:id</code> - 채널 정보</li>
+<li><code>DELETE /api/channels/:id</code> - 채널 삭제</li>
+<li><code>GET /api/channels/:id/channel_messages</code> - 채널 메시지 조회</li>
+<li><code>POST /api/channels/:id/channel_messages</code> - 채널 메시지 전송</li>
+<li><code>PUT /api/channels/:id/members/:user_id</code> - 채널 멤버 추가</li>
+<li><code>DELETE /api/channels/:id/members/:user_id</code> - 채널 멤버 제거</li>
+<li><code>PUT /api/channels/:id/admins/:user_id</code> - 채널 관리자 추가</li>
+<li><code>PUT /api/channels/:id/bans/:user_id</code> - 채널 밴</li>
+<li><code>PUT /api/channels/:id/mutes/:user_id</code> - 채널 음소거</li>
+</ul>
+<h3 id="길드"><a class="heading-link" aria-hidden="true" href="#길드">길드</a></h3>
+<ul>
+<li><code>GET /api/guilds/:user_id</code> - 길드 정보 조회</li>
+<li><code>POST /api/guilds</code> - 길드 생성</li>
+<li><code>PUT /api/guilds/:user_id</code> - 길드 정보 업데이트</li>
+<li><code>DELETE /api/guilds/:user_id</code> - 길드 삭제</li>
+</ul>
+<h3 id="전쟁"><a class="heading-link" aria-hidden="true" href="#전쟁">전쟁</a></h3>
+<ul>
+<li><code>GET /api/war/:user_id</code> - 전쟁 정보 조회</li>
+<li><code>PUT /api/war/:user_id</code> - 전쟁 정보 업데이트</li>
+<li><code>POST /api/war/notify_enemy_guild_of_attack</code> - 적 길드 공격 알림</li>
+<li><code>GET /api/war_request/:war_id</code> - 전쟁 요청 조회</li>
+<li><code>POST /api/war_request</code> - 전쟁 요청 생성</li>
+<li><code>PUT /api/war_request/:war_id</code> - 전쟁 요청 수락/거절</li>
+<li><code>DELETE /api/war_request/:war_id</code> - 전쟁 요청 삭제</li>
+<li><code>GET /api/war_history/:guild_id</code> - 전쟁 기록 조회</li>
+<li><code>GET /api/war_ongoing/:war_id</code> - 진행 중인 전쟁 조회</li>
+</ul>
+<h3 id="토너먼트"><a class="heading-link" aria-hidden="true" href="#토너먼트">토너먼트</a></h3>
+<ul>
+<li><code>GET /api/tournaments</code> - 토너먼트 목록</li>
+<li><code>POST /api/tournaments</code> - 토너먼트 생성</li>
+<li><code>GET /api/tournaments/:id</code> - 토너먼트 정보</li>
+<li><code>PUT /api/tournaments/:id/players</code> - 토너먼트 참가</li>
+<li><code>DELETE /api/tournaments/:id/players</code> - 토너먼트 탈퇴</li>
+</ul>
+<h3 id="매치"><a class="heading-link" aria-hidden="true" href="#매치">매치</a></h3>
+<ul>
+<li><code>GET /api/matches</code> - 매치 목록</li>
+<li><code>POST /api/matches</code> - 매치 생성</li>
+<li><code>GET /api/matches/:id</code> - 매치 정보</li>
+</ul>
+<h3 id="랭킹"><a class="heading-link" aria-hidden="true" href="#랭킹">랭킹</a></h3>
+<ul>
+<li><code>GET /api/rank/:id</code> - 랭킹 조회</li>
+</ul>
+<h2 id="websocket-채널"><a class="heading-link" aria-hidden="true" href="#websocket-채널">WebSocket 채널</a></h2>
+<h3 id="채널-목록"><a class="heading-link" aria-hidden="true" href="#채널-목록">채널 목록</a></h3>
+<ul>
+<li><code>game_channel</code>: 게임 실시간 통신</li>
+<li><code>chat_channel</code>: 채팅 실시간 통신</li>
+<li><code>channel_channel</code>: 채널 채팅 실시간 통신</li>
+<li><code>notification_channel</code>: 알림 실시간 통신</li>
+<li><code>user_status_channel</code>: 사용자 상태 실시간 업데이트</li>
+<li><code>guild_channel</code>: 길드 관련 실시간 통신</li>
+<li><code>match_channel</code>: 매치 관련 실시간 통신</li>
+<li><code>tournament_channel</code>: 토너먼트 관련 실시간 통신</li>
+</ul>
+<h2 id="테스트"><a class="heading-link" aria-hidden="true" href="#테스트">테스트</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Rails 콘솔 접속</span></span>
+<span data-line=""><span style="color:#FFC777">docker-compose</span><span style="color:#C3E88D"> exec</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> console</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 데이터베이스 마이그레이션</span></span>
+<span data-line=""><span style="color:#FFC777">docker-compose</span><span style="color:#C3E88D"> exec</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> db:migrate</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 데이터베이스 시드</span></span>
+<span data-line=""><span style="color:#FFC777">docker-compose</span><span style="color:#C3E88D"> exec</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> rails</span><span style="color:#C3E88D"> db:seed</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Rails 콘솔 접속
+docker-compose exec rails rails console
+
+# 데이터베이스 마이그레이션
+docker-compose exec rails rails db:migrate
+
+# 데이터베이스 시드
+docker-compose exec rails rails db:seed" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="개발-가이드"><a class="heading-link" aria-hidden="true" href="#개발-가이드">개발 가이드</a></h2>
+<h3 id="환경-변수"><a class="heading-link" aria-hidden="true" href="#환경-변수">환경 변수</a></h3>
+<p>프로젝트 루트에 <code>.env</code> 파일을 생성하고 다음 변수들을 설정한다:</p>
+<ul>
+<li><code>POSTGRES_USER</code>: PostgreSQL 사용자명</li>
+<li><code>POSTGRES_PASSWORD</code>: PostgreSQL 비밀번호</li>
+<li><code>OTP_KEY</code>: 2FA 암호화 키</li>
+<li><code>CLOUDINARY_URL</code>: Cloudinary 설정 URL</li>
+</ul>
+<h3 id="코드-스타일"><a class="heading-link" aria-hidden="true" href="#코드-스타일">코드 스타일</a></h3>
+<ul>
+<li>Ruby: Ruby 스타일 가이드 준수</li>
+<li>JavaScript: Backbone.js 컨벤션 준수</li>
+</ul>
+<h2 id="기여자"><a class="heading-link" aria-hidden="true" href="#기여자">기여자</a></h2>
+<ul>
+<li><a href="https://github.com/mohit-ashar">Mohit Ashar (mashar)</a></li>
+<li><a href="https://github.com/pvineet44">Vineet Parekh (vparekh)</a></li>
+<li><a href="https://github.com/nicokla">Nicolas Klarsfeld (nklarsfe)</a></li>
+<li><a href="https://github.com/woolimi">Woolim Park (wpark)</a></li>
+</ul>
+<h2 id="참고-자료"><a class="heading-link" aria-hidden="true" href="#참고-자료">참고 자료</a></h2>
+<ul>
+<li><a href="https://cdn.intra.42.fr/pdf/pdf/10740/en.subject.pdf">Subject (en)</a></li>
+<li><a href="https://rubykr.github.io/rails_guides/getting_started.html">Ruby on Rails 가이드 (ko)</a></li>
+<li><a href="https://guides.rubyonrails.org/getting_started.html">Ruby on Rails 가이드 (en)</a></li>
+<li><a href="https://backbonejs.org/">Backbone.js 공식 홈페이지</a></li>
+<li><a href="https://yizeng.me/2019/11/09/setup-a-ruby-on-rails-6-api-project-with-docker-compose/">Rails 6 with Docker Compose 설정</a></li>
+<li><a href="https://gorails.com/episodes">Go Rails</a></li>
+<li><a href="https://www.youtube.com/watch?v=HOAU-nfy5Sc">Backbone.js 학습</a></li>
+</ul>8:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$11"}}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true}]
+d:["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true}]
+e:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

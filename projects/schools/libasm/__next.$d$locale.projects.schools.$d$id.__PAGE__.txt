@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+f:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"zz3fM3C0BYGlLBd3FPzam","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"libasm"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"libasm\",\"description\":\"libasm은 ecole42의 프로젝트로, NASM 어셈블러를 사용하여 macOS 환경에서 동작하는 기본적인 문자열 및 파일 I/O 함수들을 어셈블리 언어로 구현한 라이브러리. x86-64 어셈블리 언어를 직접 작성하여 저수준 프로그래밍을 이해하고, 시스템 콜, 레지스터 관리, 메모리 조작 등 컴퓨터 아키텍처의 핵심 개념을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=libasm\",\"url\":\"https://woolimi.github.io/projects/schools/libasm\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"libasm"}],"$undefined",["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"libasm은 ecole42의 프로젝트로, NASM 어셈블러를 사용하여 macOS 환경에서 동작하는 기본적인 문자열 및 파일 I/O 함수들을 어셈블리 언어로 구현한 라이브러리. x86-64 어셈블리 언어를 직접 작성하여 저수준 프로그래밍을 이해하고, 시스템 콜, 레지스터 관리, 메모리 조작 등 컴퓨터 아키텍처의 핵심 개념을 학습한다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Assembly"}]]}]
+d:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/libasm","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$d","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+e:T3007,<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p>이 프로젝트는 NASM 어셈블러를 사용하여 macOS 환경에서 동작하는 기본적인 문자열 및 파일 I/O 함수들을 어셈블리 언어로 구현한 라이브러리다.</p>
+<h2 id="구현된-함수들"><a class="heading-link" aria-hidden="true" href="#구현된-함수들">구현된 함수들</a></h2>
+<h3 id="1-ft_strlen"><a class="heading-link" aria-hidden="true" href="#1-ft_strlen">1. <code>ft_strlen</code></a></h3>
+<p>문자열의 길이를 계산하는 함수다.</p>
+<ul>
+<li><strong>인자</strong>: <code>const char *s</code> - 길이를 계산할 문자열</li>
+<li><strong>반환값</strong>: 문자열의 길이 (size_t)</li>
+</ul>
+<h3 id="2-ft_strcpy"><a class="heading-link" aria-hidden="true" href="#2-ft_strcpy">2. <code>ft_strcpy</code></a></h3>
+<p>문자열을 복사하는 함수다.</p>
+<ul>
+<li><strong>인자</strong>:
+<ul>
+<li><code>char *dest</code> - 복사될 목적지 버퍼</li>
+<li><code>const char *src</code> - 복사할 소스 문자열</li>
+</ul>
+</li>
+<li><strong>반환값</strong>: <code>dest</code> 포인터</li>
+</ul>
+<h3 id="3-ft_strcmp"><a class="heading-link" aria-hidden="true" href="#3-ft_strcmp">3. <code>ft_strcmp</code></a></h3>
+<p>두 문자열을 비교하는 함수다.</p>
+<ul>
+<li><strong>인자</strong>:
+<ul>
+<li><code>const char *s1</code> - 첫 번째 문자열</li>
+<li><code>const char *s2</code> - 두 번째 문자열</li>
+</ul>
+</li>
+<li><strong>반환값</strong>:
+<ul>
+<li><code>s1 &#x3C; s2</code>: 음수</li>
+<li><code>s1 == s2</code>: 0</li>
+<li><code>s1 > s2</code>: 양수</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-ft_write"><a class="heading-link" aria-hidden="true" href="#4-ft_write">4. <code>ft_write</code></a></h3>
+<p>파일 디스크립터에 데이터를 쓰는 함수다.</p>
+<ul>
+<li><strong>인자</strong>:
+<ul>
+<li><code>int fd</code> - 파일 디스크립터</li>
+<li><code>const void *buf</code> - 쓸 데이터 버퍼</li>
+<li><code>size_t nbyte</code> - 쓸 바이트 수</li>
+</ul>
+</li>
+<li><strong>반환값</strong>: 실제로 쓴 바이트 수, 오류 시 -1</li>
+</ul>
+<h3 id="5-ft_read"><a class="heading-link" aria-hidden="true" href="#5-ft_read">5. <code>ft_read</code></a></h3>
+<p>파일 디스크립터에서 데이터를 읽는 함수다.</p>
+<ul>
+<li><strong>인자</strong>:
+<ul>
+<li><code>int fd</code> - 파일 디스크립터</li>
+<li><code>void *buf</code> - 읽은 데이터를 저장할 버퍼</li>
+<li><code>size_t nbyte</code> - 읽을 바이트 수</li>
+</ul>
+</li>
+<li><strong>반환값</strong>: 실제로 읽은 바이트 수, 오류 시 -1</li>
+</ul>
+<h3 id="6-ft_strdup"><a class="heading-link" aria-hidden="true" href="#6-ft_strdup">6. <code>ft_strdup</code></a></h3>
+<p>문자열을 복제하여 새로운 메모리에 저장하는 함수다.</p>
+<ul>
+<li><strong>인자</strong>: <code>const char *s</code> - 복제할 문자열</li>
+<li><strong>반환값</strong>: 새로 할당된 메모리에 복제된 문자열의 포인터, 실패 시 NULL</li>
+</ul>
+<h2 id="빌드-방법"><a class="heading-link" aria-hidden="true" href="#빌드-방법">빌드 방법</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">make</span></span><button type="button" title="Copy code" aria-label="Copy code" data="make" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>이 명령어는 모든 어셈블리 소스 파일을 컴파일하고 <code>libasm.a</code> 정적 라이브러리를 생성한다.</p>
+<h3 id="사용-가능한-makefile-타겟"><a class="heading-link" aria-hidden="true" href="#사용-가능한-makefile-타겟">사용 가능한 Makefile 타겟</a></h3>
+<ul>
+<li><code>make</code> 또는 <code>make all</code>: 라이브러리 빌드</li>
+<li><code>make clean</code>: 오브젝트 파일 삭제</li>
+<li><code>make fclean</code>: 오브젝트 파일과 라이브러리 파일 삭제</li>
+<li><code>make re</code>: 완전히 정리 후 다시 빌드</li>
+</ul>
+<h2 id="테스트"><a class="heading-link" aria-hidden="true" href="#테스트">테스트</a></h2>
+<p>프로젝트에는 <code>main.c</code> 파일이 포함되어 있어 각 함수의 동작을 테스트할 수 있다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">gcc</span><span style="color:#C3E88D"> main.c</span><span style="color:#C3E88D"> -L.</span><span style="color:#C3E88D"> -lasm</span><span style="color:#C3E88D"> -o</span><span style="color:#C3E88D"> test</span></span>
+<span data-line=""><span style="color:#FFC777">./test</span></span><button type="button" title="Copy code" aria-label="Copy code" data="gcc main.c -L. -lasm -o test
+./test" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="x86-64-레지스터"><a class="heading-link" aria-hidden="true" href="#x86-64-레지스터">x86-64 레지스터</a></h2>
+<h3 id="범용-레지스터-general-purpose-registers"><a class="heading-link" aria-hidden="true" href="#범용-레지스터-general-purpose-registers">범용 레지스터 (General Purpose Registers)</a></h3>
+<ul>
+<li><strong>RAX</strong>: 주 누산기 (primary accumulator)</li>
+<li><strong>RBX</strong>: 베이스 레지스터 (base register)</li>
+<li><strong>RCX</strong>: 카운트 레지스터 (count register)</li>
+<li><strong>RDX</strong>: 데이터 레지스터 (data register)</li>
+<li><strong>RSI</strong>: 소스 인덱스 (source index)</li>
+<li><strong>RDI</strong>: 목적지 인덱스 (destination index)</li>
+<li><strong>RSP</strong>: 스택 포인터 (stack pointer)</li>
+<li><strong>RBP</strong>: 베이스 포인터 (base pointer)</li>
+<li><strong>R8 ~ R15</strong>: 추가 범용 레지스터</li>
+</ul>
+<h3 id="세그먼트-레지스터-segment-registers"><a class="heading-link" aria-hidden="true" href="#세그먼트-레지스터-segment-registers">세그먼트 레지스터 (Segment Registers)</a></h3>
+<ul>
+<li><strong>CS</strong>: 코드 세그먼트 (code segment)</li>
+<li><strong>SS</strong>: 스택 세그먼트 (stack segment)</li>
+<li><strong>DS</strong>: 데이터 세그먼트 (data segment)</li>
+<li><strong>ES</strong>: 확장 세그먼트 (extra segment)</li>
+<li><strong>FS</strong>: 추가 세그먼트</li>
+<li><strong>GS</strong>: 추가 세그먼트</li>
+</ul>
+<h2 id="시스템-콜"><a class="heading-link" aria-hidden="true" href="#시스템-콜">시스템 콜</a></h2>
+<p>이 프로젝트는 macOS의 시스템 콜을 사용한다:</p>
+<ul>
+<li><code>write</code>: 시스템 콜 번호 <code>0x2000004</code></li>
+<li><code>read</code>: 시스템 콜 번호 <code>0x2000003</code></li>
+</ul>
+<h2 id="참고-자료"><a class="heading-link" aria-hidden="true" href="#참고-자료">참고 자료</a></h2>
+<ul>
+<li><a href="https://opensource.apple.com/source/xnu/xnu-1504.3.12/bsd/kern/syscalls.master">macOS 시스템 콜</a></li>
+<li><a href="https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/">Linux 시스템 콜 테이블 (x86-64)</a></li>
+<li><a href="https://www.tutorialspoint.com/assembly_programming/index.htm">NASM 튜토리얼</a></li>
+</ul>
+<h2 id="파일-구조"><a class="heading-link" aria-hidden="true" href="#파일-구조">파일 구조</a></h2>
+<pre><code>libasm/
+├── ft_strlen.s    # 문자열 길이 계산 함수
+├── ft_strcpy.s    # 문자열 복사 함수
+├── ft_strcmp.s    # 문자열 비교 함수
+├── ft_write.s     # 파일 쓰기 함수
+├── ft_read.s      # 파일 읽기 함수
+├── ft_strdup.s    # 문자열 복제 함수
+├── main.c         # 테스트 프로그램
+├── Makefile       # 빌드 설정
+└── README.md      # 프로젝트 문서
+</code></pre>
+<h2 id="주의사항"><a class="heading-link" aria-hidden="true" href="#주의사항">주의사항</a></h2>
+<ul>
+<li>이 프로젝트는 macOS 환경을 대상으로 작성되었다</li>
+<li>Linux 환경에서는 시스템 콜 번호가 다르므로 수정이 필요하다</li>
+<li>함수들은 표준 C 라이브러리의 동일한 함수들과 동일한 동작을 한다</li>
+</ul>6:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$e"}}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true}]
+a:["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true}]
+b:["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

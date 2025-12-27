@@ -1,0 +1,255 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+3:I[823080,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+7:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"ViewportBoundary"]
+c:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"MetadataBoundary"]
+e:I[26623,[],"default"]
+:HL["/_next/static/chunks/2fc4938d46ca9898.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"zz3fM3C0BYGlLBd3FPzam","c":["","ko","blog","arduino"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","arduino","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fc4938d46ca9898.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ef7f7dfdb8bd52fb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/66231d519a3a670e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/6878d4616822326c.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/6d5144f4ef97171b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/05cb7eef185ae111.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3d446087ebb31898.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/93ad368b77169bd9.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[95228,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/05cb7eef185ae111.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"ai","type":"folder","path":"ai","children":[{"name":"00.setup.ko.md","type":"file","path":"ai/00.setup.ko.md","slug":"ai/00.setup","locale":"ko","title":"학습 전 필요 라이브러리와 그 이유"},{"name":"01.basic.ko.md","type":"file","path":"ai/01.basic.ko.md","slug":"ai/01.basic","locale":"ko","title":"Basic"},{"name":"02.scaler.ko.md","type":"file","path":"ai/02.scaler.ko.md","slug":"ai/02.scaler","locale":"ko","title":"Scaler"},{"name":"03.machine-learning.ko.md","type":"file","path":"ai/03.machine-learning.ko.md","slug":"ai/03.machine-learning","locale":"ko","title":"Machine Learning"},{"name":"04.model-selection.ko.md","type":"file","path":"ai/04.model-selection.ko.md","slug":"ai/04.model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"ai/05.model-mesurement.ko.ipynb","slug":"ai/05.model-mesurement","locale":"ko","title":"모델 평가"},{"name":"57.model-mesurement.ko.ipynb","type":"file","path":"ai/57.model-mesurement.ko.ipynb","slug":"ai/57.model-mesurement","locale":"ko","title":"모델 평가"}]},{"name":"arduino","type":"folder","path":"arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"arduino/00.arduino.ko.md","slug":"arduino/00.arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"arduino/01.switch.ko.md","slug":"arduino/01.switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"arduino/02.serial.ko.md","slug":"arduino/02.serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"}]},{"name":"coding-test","type":"folder","path":"coding-test","children":[{"name":"00.sort-algorithm.ipynb","type":"file","path":"coding-test/00.sort-algorithm.ipynb","slug":"coding-test/00.sort-algorithm","locale":"$undefined","title":"정렬 알고리즘"}]},{"name":"computer-science","type":"folder","path":"computer-science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"computer-science/00.process-vs-thread.ko.md","slug":"computer-science/00.process-vs-thread","locale":"ko","title":"프로세스와 스레드"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/00.settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"python","type":"folder","path":"python","children":[{"name":"00.settings.ko.md","type":"file","path":"python/00.settings.ko.md","slug":"python/00.settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"python/01.number.ko.md","slug":"python/01.number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"python/02.string.ko.md","slug":"python/02.string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"python/03.list.ko.md","slug":"python/03.list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"python/04.tuple.ko.md","slug":"python/04.tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"python/05.dict.ko.md","slug":"python/05.dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"python/06.set.ko.md","slug":"python/06.set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"python/07.bool.ko.md","slug":"python/07.bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"python/08.statement.ko.md","slug":"python/08.statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"python/09.function.ko.md","slug":"python/09.function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"python/10.pythonic.ko.md","slug":"python/10.pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"python/11.class.ko.md","slug":"python/11.class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"python/12.dataclass.ko.md","slug":"python/12.dataclass","locale":"ko","title":"Python 데이터클래스"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[95228,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/05cb7eef185ae111.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[779615,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+14:I[728231,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"TooltipProvider"]
+15:I[663780,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"홈","blog":"블로그"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/3d446087ebb31898.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js","/_next/static/chunks/93ad368b77169bd9.js"],"BlurFade"]
+1a:I[676913,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/3d446087ebb31898.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js","/_next/static/chunks/93ad368b77169bd9.js"],"BlogArticleCard"]
+1f:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"IconMark"]
+1b:T743,<h2 id="필요-저항"><a class="heading-link" aria-hidden="true" href="#필요-저항">필요 저항</a></h2>
+<ul>
+<li>스위치 10KΩ</li>
+<li>조도센서 10KΩ</li>
+<li>LED 220Ω</li>
+<li>7 Segment: 220Ω * 7 개</li>
+</ul>
+<h2 id="analog-vs-digital"><a class="heading-link" aria-hidden="true" href="#analog-vs-digital">Analog vs Digital</a></h2>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>Digital</th>
+<th>Analog</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>신호 형태</strong></td>
+<td>0 또는 1 (HIGH/LOW)</td>
+<td>연속적인 값 (0~1023)</td>
+</tr>
+<tr>
+<td><strong>핀 번호</strong></td>
+<td>D0~D13</td>
+<td>A0~A5</td>
+</tr>
+<tr>
+<td><strong>입력 함수</strong></td>
+<td><code>digitalRead()</code></td>
+<td><code>analogRead()</code></td>
+</tr>
+<tr>
+<td><strong>출력 함수</strong></td>
+<td><code>digitalWrite()</code></td>
+<td><code>analogWrite()</code> (PWM 핀만)</td>
+</tr>
+<tr>
+<td><strong>입력 값 범위</strong></td>
+<td>0 또는 1</td>
+<td>0~1023 (10bit)</td>
+</tr>
+<tr>
+<td><strong>출력 값 범위</strong></td>
+<td>LOW(0V) / HIGH(5V)</td>
+<td>0~255 (8bit, PWM)</td>
+</tr>
+<tr>
+<td><strong>사용 예시</strong></td>
+<td>버튼, LED 온/오프, 릴레이</td>
+<td>조도센서, 온도센서, 가변저항</td>
+</tr>
+<tr>
+<td><strong>전압</strong></td>
+<td>0V 또는 5V</td>
+<td>0V~5V 연속</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pwm-이란"><a class="heading-link" aria-hidden="true" href="#pwm-이란">PWM 이란</a></h2>
+<p>아두이노에서 digital핀 중, <code>~</code>로 표시되어있는 부분은 디지털 신호로 아날로그의 연속적인 값을 흉내낼 수 있다. 해당 핀은 PWM (펄스 폭 변조: Pulse Width Modulation)은 디지털 신호를 아날로그 신호로 변환하는 방법 중 하나로, 펄스의 폭을 조절하여 아날로그 신호와 유사한 신호를 만들어낸다.</p>1c:T5003,<p>아두이노를 사용하면서 스위치(버튼)을 제어할때 자주 사용하는 코드를 정리.</p>
+<h2 id="버튼을-1번만-인식하기"><a class="heading-link" aria-hidden="true" href="#버튼을-1번만-인식하기">버튼을 1번만 인식하기</a></h2>
+<p>버튼은 눌린 동안 계속 HIGH 신호를 보내기 때문에, 한 번 누른 것을 여러 번 누른 것으로 인식하는 문제가 발생한다. 따라서 이전 상태를 저장하고 해당 상태가 LOW -> HIGH 로 바뀔때만 true 를 리턴하는 함수를 만들었다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c++" data-theme="moonlight-ii"><code data-language="c++" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">bool</span><span style="color:#82AAFF"> isButtonPressed</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">int</span><span style="color:#FCA7EA"> pin</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">  static</span><span style="color:#C099FF"> int</span><span style="color:#C8D3F5"> prevState </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> LOW</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">  int</span><span style="color:#C8D3F5"> currentState </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> digitalRead</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">pin</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">	if</span><span style="color:#86E1FC"> (</span><span style="color:#C8D3F5">currentState </span><span style="color:#86E1FC">==</span><span style="color:#C8D3F5"> HIGH </span><span style="color:#86E1FC">&#x26;&#x26;</span><span style="color:#C8D3F5"> prevState </span><span style="color:#86E1FC">==</span><span style="color:#C8D3F5"> LOW</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#B4C2F0">		prevState </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> HIGH</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">		return</span><span style="color:#FF98A4"> true</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">	}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">	prevState </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> currentState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">  return</span><span style="color:#FF98A4"> false</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="bool isButtonPressed(int pin) {
+  static int prevState = LOW;
+  int currentState = digitalRead(pin);
+
+	if (currentState == HIGH &#x26;&#x26; prevState == LOW) {
+		prevState = HIGH;
+		return true;
+	}
+
+	prevState = currentState;
+  return false;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="버튼-1번--debounce"><a class="heading-link" aria-hidden="true" href="#버튼-1번--debounce">버튼 1번 + debounce</a></h2>
+<p>버튼을 사용하다보면 기계적 접점의 바운싱(떨림) 현상으로 인해 노이즈가 발생할 수 있다. 이를 해결하기 위해 debounce (50ms) 를 이용해 신호변화가 안정화될때까지 delay 시킨다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c++" data-theme="moonlight-ii"><code data-language="c++" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">bool</span><span style="color:#82AAFF"> isButtonPressed</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">int</span><span style="color:#FCA7EA"> pin</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">  static</span><span style="color:#C099FF"> int</span><span style="color:#C8D3F5"> prevState </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> LOW</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">  static</span><span style="color:#C099FF"> unsigned</span><span style="color:#C099FF"> long</span><span style="color:#C8D3F5"> lastDebounceTime </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">  const</span><span style="color:#C099FF"> unsigned</span><span style="color:#C099FF"> long</span><span style="color:#C8D3F5"> DEBOUNCE_DELAY </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 50</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // 50ms</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">  int</span><span style="color:#C8D3F5"> currentState </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> digitalRead</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">pin</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#C099FF">  unsigned</span><span style="color:#C099FF"> long</span><span style="color:#C8D3F5"> currentTime </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> millis</span><span style="color:#86E1FC">();</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">  // 상태가 변했으면 타이머 리셋</span></span>
+<span data-line=""><span style="color:#86E1FC">  if</span><span style="color:#86E1FC"> (</span><span style="color:#C8D3F5">currentState </span><span style="color:#86E1FC">!=</span><span style="color:#C8D3F5"> prevState</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#B4C2F0">    lastDebounceTime </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> currentTime</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">  // debounce 시간이 지났고, rising edge인 경우</span></span>
+<span data-line=""><span style="color:#86E1FC">  if</span><span style="color:#86E1FC"> ((</span><span style="color:#C8D3F5">currentTime </span><span style="color:#86E1FC">-</span><span style="color:#C8D3F5"> lastDebounceTime</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> ></span><span style="color:#C8D3F5"> DEBOUNCE_DELAY</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">    static</span><span style="color:#C099FF"> int</span><span style="color:#B4C2F0"> stableState </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> LOW</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">    if</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">currentState </span><span style="color:#86E1FC">!=</span><span style="color:#B4C2F0"> stableState</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#B4C2F0">      stableState </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> currentState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">      if</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">stableState </span><span style="color:#86E1FC">==</span><span style="color:#B4C2F0"> HIGH</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#B4C2F0">        prevState </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> currentState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#FF98A4"> true</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // 버튼 눌림 감지!</span></span>
+<span data-line=""><span style="color:#86E1FC">      }</span></span>
+<span data-line=""><span style="color:#86E1FC">    }</span></span>
+<span data-line=""><span style="color:#86E1FC">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">  prevState </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> currentState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">  return</span><span style="color:#FF98A4"> false</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="bool isButtonPressed(int pin) {
+  static int prevState = LOW;
+  static unsigned long lastDebounceTime = 0;
+  const unsigned long DEBOUNCE_DELAY = 50;  // 50ms
+
+  int currentState = digitalRead(pin);
+  unsigned long currentTime = millis();
+
+  // 상태가 변했으면 타이머 리셋
+  if (currentState != prevState) {
+    lastDebounceTime = currentTime;
+  }
+
+  // debounce 시간이 지났고, rising edge인 경우
+  if ((currentTime - lastDebounceTime) > DEBOUNCE_DELAY) {
+    static int stableState = LOW;
+
+    if (currentState != stableState) {
+      stableState = currentState;
+
+      if (stableState == HIGH) {
+        prevState = currentState;
+        return true;  // 버튼 눌림 감지!
+      }
+    }
+  }
+
+  prevState = currentState;
+  return false;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="버튼이-여러개인경우"><a class="heading-link" aria-hidden="true" href="#버튼이-여러개인경우">버튼이 여러개인경우</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c++" data-theme="moonlight-ii"><code data-language="c++" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Button</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">public</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#82AAFF">  Button</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">int</span><span style="color:#FCA7EA"> pin</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> :</span><span style="color:#82AAFF"> pin</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">pin</span><span style="color:#86E1FC">),</span><span style="color:#82AAFF"> prevState</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">LOW</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#82AAFF">    pinMode</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">pin</span><span style="color:#86E1FC">,</span><span style="color:#B4C2F0"> INPUT_PULLUP</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#86E1FC">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">  bool</span><span style="color:#82AAFF"> isPressed</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">    int</span><span style="color:#B4C2F0"> currentState </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> digitalRead</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">pin</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">    // 눌림(HIGH로 변했을 때) 감지</span></span>
+<span data-line=""><span style="color:#86E1FC">    if</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">currentState </span><span style="color:#86E1FC">==</span><span style="color:#B4C2F0"> HIGH </span><span style="color:#86E1FC">&#x26;&#x26;</span><span style="color:#B4C2F0"> prevState </span><span style="color:#86E1FC">==</span><span style="color:#B4C2F0"> LOW</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#B4C2F0">      prevState </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> currentState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">      return</span><span style="color:#FF98A4"> true</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">    }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#B4C2F0">    prevState </span><span style="color:#86E1FC">=</span><span style="color:#B4C2F0"> currentState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">    return</span><span style="color:#FF98A4"> false</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">private</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">  int</span><span style="color:#B4C2F0"> pin</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">  int</span><span style="color:#B4C2F0"> prevState</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">};</span></span><button type="button" title="Copy code" aria-label="Copy code" data="class Button {
+public:
+  Button(int pin) : pin(pin), prevState(LOW) {
+    pinMode(pin, INPUT_PULLUP);
+  }
+
+  bool isPressed() {
+    int currentState = digitalRead(pin);
+
+    // 눌림(HIGH로 변했을 때) 감지
+    if (currentState == HIGH &#x26;&#x26; prevState == LOW) {
+      prevState = currentState;
+      return true;
+    }
+
+    prevState = currentState;
+    return false;
+  }
+
+private:
+  int pin;
+  int prevState;
+};" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>6:["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L16"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L17"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}]]}]}],["$","$L19",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"Arduino"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L1a","arduino/00.arduino",{"post":{"metadata":{"title":"Arduino 기본 지식","summary":"아두이노 입문자를 위한 기본 지식 정리. 필요 저항값, Digital/Analog 신호 차이점, PWM 개념을 다룹니다.","locale":"ko","createdAt":"2025-12-26T08:51:24.000Z","updatedAt":"2025-12-26T08:51:24.000Z"},"slug":"arduino/00.arduino","source":"$1b","type":"markdown","notebookData":"$undefined"},"locale":"ko","delay":0.08}],["$","$L1a","arduino/01.switch",{"post":{"metadata":{"title":"Arduino Switch","summary":"아두이노에서 스위치(버튼)을 처리할때 자주 사용하는 코드","locale":"ko","createdAt":"2025-12-26T08:51:24.000Z","updatedAt":"2025-12-26T08:51:24.000Z"},"slug":"arduino/01.switch","source":"$1c","type":"markdown","notebookData":"$undefined"},"locale":"ko","delay":0.13}],"$L1d"]}],"$L1e"]}]
+d:[["$","title","0",{"children":"Arduino - Blog | 박우림"}],["$","meta","1",{"name":"description","content":"Posts in Arduino category"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"박우림"}],["$","meta","6",{"property":"og:description","content":"Frontend Developer"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io"}],["$","meta","8",{"property":"og:site_name","content":"박우림"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://woolimi.github.io/og-image.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"박우림"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"박우림"}],["$","meta","17",{"name":"twitter:description","content":"Frontend Developer"}],["$","meta","18",{"name":"twitter:image","content":"https://woolimi.github.io/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","20",{"rel":"icon","href":"/favicon.ico"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","22",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","23",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1f","24",{}]]
+9:null
+21:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/3d446087ebb31898.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js","/_next/static/chunks/93ad368b77169bd9.js"],"default"]
+20:T1eb7,<h2 id="serial-통신-시작"><a class="heading-link" aria-hidden="true" href="#serial-통신-시작">Serial 통신 시작</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c++" data-theme="moonlight-ii"><code data-language="c++" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">void</span><span style="color:#82AAFF"> setup</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">	Serial</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">begin</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">9600</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span>
+<span data-line=""><span style="color:#C099FF">void</span><span style="color:#82AAFF"> loop</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">	Serial</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">println</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">...</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="void setup() {
+	Serial.begin(9600);
+}
+void loop() {
+	Serial.println(&#x22;...&#x22;);
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="한-문장을-읽기"><a class="heading-link" aria-hidden="true" href="#한-문장을-읽기">한 문장을 읽기</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c++" data-theme="moonlight-ii"><code data-language="c++" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">void</span><span style="color:#82AAFF"> loop</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#86E1FC">	while</span><span style="color:#86E1FC"> (</span><span style="color:#FFC777">Serial</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">available</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> ></span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#B4C2F0">		String input </span><span style="color:#FFC777">Serial</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">readStringUntil</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'\n'</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#FFC777">		Serial</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">println</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">input</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">		// 받은 문자열을 숫자로 변환</span></span>
+<span data-line=""><span style="color:#C099FF">		int</span><span style="color:#B4C2F0"> degree </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> input</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">toInt</span><span style="color:#86E1FC">();</span></span>
+<span data-line=""><span style="color:#86E1FC">	}</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="void loop() {
+	while (Serial.available() > 0) {
+		String input Serial.readStringUntil(&#x27;\n&#x27;);
+		Serial.println(input);
+
+		// 받은 문자열을 숫자로 변환
+		int degree = input.toInt();
+	}
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>1d:["$","$L1a","arduino/02.serial",{"post":{"metadata":{"title":"Arduino 시리얼로 입력값을 받기","summary":"아두이노 시리얼 통신으로 데이터 수신 방법 정리. Serial.begin(), Serial.readStringUntil() 사용법과 문자열을 숫자로 변환하는 방법 다룸.","locale":"ko","createdAt":"2025-12-26T08:51:24.000Z","updatedAt":"2025-12-26T08:51:24.000Z"},"slug":"arduino/02.serial","source":"$20","type":"markdown","notebookData":"$undefined"},"locale":"ko","delay":0.18}]
+1e:null
+16:["$","$L21",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"홈","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+17:["$","$L21",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$16:props:localeCookie","children":"블로그","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+18:["$","$L21",null,{"ref":null,"href":"/ko/blog/arduino","locale":"$undefined","localeCookie":"$16:props:localeCookie","children":"Arduino","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

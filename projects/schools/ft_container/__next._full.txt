@@ -1,0 +1,311 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+3:I[823080,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+6:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"ViewportBoundary"]
+b:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"MetadataBoundary"]
+d:I[26623,[],"default"]
+:HL["/_next/static/chunks/2fc4938d46ca9898.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"zz3fM3C0BYGlLBd3FPzam","c":["","ko","projects","schools","ft_container"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","ft_container","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fc4938d46ca9898.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ef7f7dfdb8bd52fb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/66231d519a3a670e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/6878d4616822326c.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/6d5144f4ef97171b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Le"}]]}]
+f:I[779615,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+10:I[728231,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"TooltipProvider"]
+11:I[663780,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"홈","blog":"블로그"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+17:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"IconMark"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ft_container"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ft_container\",\"description\":\"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=ft_container\",\"url\":\"https://woolimi.github.io/projects/schools/ft_container\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"ft_container"}],"$undefined",["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"C++"}]]}],"$L15"]}],"$L16"]}]}]
+c:[["$","title","0",{"children":"ft_container | 박우림"}],["$","meta","1",{"name":"description","content":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"ft_container"}],["$","meta","6",{"property":"og:description","content":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/ft_container"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=ft_container"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"ft_container"}],["$","meta","12",{"name":"twitter:description","content":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=ft_container"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L17","19",{}]]
+8:null
+1a:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+18:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z15:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ft_container","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$18","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+19:T7c98,<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p>이 프로젝트는 C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 <code>ft</code> 네임스페이스에서 재구현한 것이다. 모든 컨테이너는 표준 라이브러리와 동일한 인터페이스와 동작을 제공하며, 메모리 관리, 반복자, 템플릿 프로그래밍 등의 개념을 학습할 수 있다.</p>
+<h2 id="구현된-컨테이너"><a class="heading-link" aria-hidden="true" href="#구현된-컨테이너">구현된 컨테이너</a></h2>
+<h3 id="시퀀스-컨테이너-sequence-containers"><a class="heading-link" aria-hidden="true" href="#시퀀스-컨테이너-sequence-containers">시퀀스 컨테이너 (Sequence Containers)</a></h3>
+<h4 id="1-vector-vectorhpp"><a class="heading-link" aria-hidden="true" href="#1-vector-vectorhpp">1. <strong>vector</strong> (<code>Vector.hpp</code>)</a></h4>
+<ul>
+<li>동적 배열 컨테이너</li>
+<li>연속된 메모리 공간에 요소 저장</li>
+<li>랜덤 액세스 반복자 지원</li>
+<li>성장 인자: 1.5배 (동적 확장)</li>
+</ul>
+<h4 id="2-list-listhpp"><a class="heading-link" aria-hidden="true" href="#2-list-listhpp">2. <strong>list</strong> (<code>List.hpp</code>)</a></h4>
+<ul>
+<li>이중 연결 리스트 컨테이너</li>
+<li>양방향 반복자 지원</li>
+<li>양쪽 끝에서 O(1) 삽입/삭제</li>
+<li>특수 연산: <code>splice</code>, <code>merge</code>, <code>sort</code>, <code>reverse</code>, <code>unique</code>, <code>remove</code></li>
+</ul>
+<h4 id="3-deque-dequehpp"><a class="heading-link" aria-hidden="true" href="#3-deque-dequehpp">3. <strong>deque</strong> (<code>Deque.hpp</code>)</a></h4>
+<ul>
+<li>양방향 큐 컨테이너</li>
+<li>양쪽 끝에서 O(1) 삽입/삭제</li>
+<li>랜덤 액세스 반복자 지원</li>
+</ul>
+<h3 id="컨테이너-어댑터-container-adapters"><a class="heading-link" aria-hidden="true" href="#컨테이너-어댑터-container-adapters">컨테이너 어댑터 (Container Adapters)</a></h3>
+<h4 id="4-stack-stackhpp"><a class="heading-link" aria-hidden="true" href="#4-stack-stackhpp">4. <strong>stack</strong> (<code>Stack.hpp</code>)</a></h4>
+<ul>
+<li>LIFO (Last In First Out) 스택</li>
+<li><code>list</code> 컨테이너를 기반으로 구현</li>
+<li><code>push</code>, <code>pop</code>, <code>top</code> 연산 제공</li>
+</ul>
+<h4 id="5-queue-queuehpp"><a class="heading-link" aria-hidden="true" href="#5-queue-queuehpp">5. <strong>queue</strong> (<code>Queue.hpp</code>)</a></h4>
+<ul>
+<li>FIFO (First In First Out) 큐</li>
+<li><code>list</code> 컨테이너를 기반으로 구현</li>
+<li><code>push</code>, <code>pop</code>, <code>front</code>, <code>back</code> 연산 제공</li>
+</ul>
+<h3 id="연관-컨테이너-associative-containers"><a class="heading-link" aria-hidden="true" href="#연관-컨테이너-associative-containers">연관 컨테이너 (Associative Containers)</a></h3>
+<h4 id="6-map-maphpp"><a class="heading-link" aria-hidden="true" href="#6-map-maphpp">6. <strong>map</strong> (<code>Map.hpp</code>)</a></h4>
+<ul>
+<li>키-값 쌍을 저장하는 정렬된 연관 컨테이너</li>
+<li>이진 탐색 트리(B-tree) 기반 구현</li>
+<li>중복 키 허용 안 함</li>
+<li>O(log n) 검색, 삽입, 삭제</li>
+</ul>
+<h4 id="7-set-sethpp"><a class="heading-link" aria-hidden="true" href="#7-set-sethpp">7. <strong>set</strong> (<code>Set.hpp</code>)</a></h4>
+<ul>
+<li>고유한 요소를 저장하는 정렬된 연관 컨테이너</li>
+<li>이진 탐색 트리(B-tree) 기반 구현</li>
+<li>중복 값 허용 안 함</li>
+<li>O(log n) 검색, 삽입, 삭제</li>
+</ul>
+<h4 id="8-multimap-multimaphpp"><a class="heading-link" aria-hidden="true" href="#8-multimap-multimaphpp">8. <strong>multimap</strong> (<code>MultiMap.hpp</code>)</a></h4>
+<ul>
+<li><code>map</code>과 유사하지만 중복 키 허용</li>
+<li>동일한 키를 가진 여러 요소 저장 가능</li>
+</ul>
+<h4 id="9-multiset-multisethpp"><a class="heading-link" aria-hidden="true" href="#9-multiset-multisethpp">9. <strong>multiset</strong> (<code>MultiSet.hpp</code>)</a></h4>
+<ul>
+<li><code>set</code>과 유사하지만 중복 값 허용</li>
+<li>동일한 값을 가진 여러 요소 저장 가능</li>
+</ul>
+<h2 id="주요-기능"><a class="heading-link" aria-hidden="true" href="#주요-기능">주요 기능</a></h2>
+<h3 id="반복자-iterators"><a class="heading-link" aria-hidden="true" href="#반복자-iterators">반복자 (Iterators)</a></h3>
+<ul>
+<li><strong>Forward Iterator</strong>: <code>list</code>, <code>set</code>, <code>map</code> 등</li>
+<li><strong>Bidirectional Iterator</strong>: <code>list</code>, <code>set</code>, <code>map</code> 등</li>
+<li><strong>Random Access Iterator</strong>: <code>vector</code>, <code>deque</code></li>
+<li><strong>Reverse Iterator</strong>: 모든 컨테이너 지원</li>
+<li><strong>Const Iterator</strong>: 모든 컨테이너 지원</li>
+</ul>
+<h3 id="메모리-관리"><a class="heading-link" aria-hidden="true" href="#메모리-관리">메모리 관리</a></h3>
+<ul>
+<li>커스텀 allocator 지원</li>
+<li><strong>RAII 원칙 준수</strong>: 리소스 획득은 초기화(Resource Acquisition Is Initialization)
+<ul>
+<li>객체가 생성될 때 리소스(메모리)를 획득하고, 소멸될 때 자동으로 해제</li>
+<li>소멸자에서 <code>destroy()</code>와 <code>deallocate()</code>를 호출하여 메모리 누수 방지</li>
+<li>예시: <code>vector</code>의 소멸자에서 할당된 모든 요소를 <code>destroy()</code>하고 메모리를 <code>deallocate()</code></li>
+</ul>
+</li>
+<li><strong>예외 안전성 보장</strong>: 예외 발생 시에도 리소스가 안전하게 관리된다
+<ul>
+<li><code>at()</code>: 범위를 벗어나면 <code>std::out_of_range</code> 예외 발생</li>
+<li><code>reserve()</code>: 너무 큰 크기 요청 시 <code>std::length_error</code> 예외 발생</li>
+<li>예외 발생 시에도 기존 데이터의 무결성 유지 (Basic Guarantee)</li>
+</ul>
+</li>
+</ul>
+<h3 id="템플릿-프로그래밍"><a class="heading-link" aria-hidden="true" href="#템플릿-프로그래밍">템플릿 프로그래밍</a></h3>
+<ul>
+<li>SFINAE (Substitution Failure Is Not An Error) 활용</li>
+<li><code>enable_if</code>를 통한 템플릿 특수화</li>
+<li><code>is_integral</code> 타입 트레이트</li>
+</ul>
+<h2 id="파일-구조"><a class="heading-link" aria-hidden="true" href="#파일-구조">파일 구조</a></h2>
+<pre><code>ft_containers/
+├── Vector.hpp          # vector 컨테이너 구현
+├── List.hpp            # list 컨테이너 구현
+├── Deque.hpp           # deque 컨테이너 구현
+├── Stack.hpp           # stack 컨테이너 어댑터
+├── Queue.hpp           # queue 컨테이너 어댑터
+├── Map.hpp             # map 연관 컨테이너
+├── Set.hpp             # set 연관 컨테이너
+├── MultiMap.hpp        # multimap 연관 컨테이너
+├── MultiSet.hpp        # multiset 연관 컨테이너
+├── iterator.hpp        # 반복자 베이스 클래스 및 유틸리티
+├── utility.hpp         # 유틸리티 함수 및 타입 트레이트
+├── Btree.hpp           # 이진 탐색 트리 구현 (map/set 기반)
+├── compile.sh          # 컴파일 스크립트
+└── test/               # 테스트 파일들
+    ├── vectorTest.cpp
+    ├── listTest.cpp
+    ├── mapTest.cpp
+    ├── setTest.cpp
+    ├── dequeTest.cpp
+    ├── stackTest.cpp
+    ├── queueTest.cpp
+    ├── multimapTest.cpp
+    ├── multisetTest.cpp
+    └── test.hpp
+</code></pre>
+<h2 id="사용-방법"><a class="heading-link" aria-hidden="true" href="#사용-방법">사용 방법</a></h2>
+<h3 id="기본-사용-예제"><a class="heading-link" aria-hidden="true" href="#기본-사용-예제">기본 사용 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">Vector.hpp</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">List.hpp</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">Map.hpp</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">iostream</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#82AAFF"> main</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#858AA6">    // Vector 사용 예제</span></span>
+<span data-line=""><span style="color:#FFC777">    ft</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">vector</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">int</span><span style="color:#86E1FC">></span><span style="color:#C8D3F5"> vec</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    vec</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">push_back</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#FFC777">    vec</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">push_back</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#FFC777">    vec</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">push_back</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">    for</span><span style="color:#86E1FC"> (</span><span style="color:#FFC777">ft</span><span style="color:#86E1FC">::</span><span style="color:#FFC777">vector</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">int</span><span style="color:#86E1FC">>::</span><span style="color:#C8D3F5">iterator it </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> vec</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">begin</span><span style="color:#86E1FC">();</span><span style="color:#C8D3F5"> it </span><span style="color:#86E1FC">!=</span><span style="color:#FFC777"> vec</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">end</span><span style="color:#86E1FC">();</span><span style="color:#86E1FC"> ++</span><span style="color:#C8D3F5">it</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">        std</span><span style="color:#86E1FC">::</span><span style="color:#B4C2F0">cout </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> *</span><span style="color:#B4C2F0">it </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> "</span><span style="color:#86E1FC"> "</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">    }</span></span>
+<span data-line=""><span style="color:#FFC777">    std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">cout </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">endl</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">    // List 사용 예제</span></span>
+<span data-line=""><span style="color:#FFC777">    ft</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">list</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">string</span><span style="color:#86E1FC">></span><span style="color:#C8D3F5"> lst</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    lst</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">push_back</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">Hello</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#FFC777">    lst</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">push_back</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">World</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#FFC777">    lst</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">push_front</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">ft</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">    // Map 사용 예제</span></span>
+<span data-line=""><span style="color:#FFC777">    ft</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">map</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">string</span><span style="color:#86E1FC">,</span><span style="color:#C099FF"> int</span><span style="color:#86E1FC">></span><span style="color:#C8D3F5"> mp</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    mp</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">one</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 1</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    mp</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">two</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 2</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    mp</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">three</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 3</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">    ft</span><span style="color:#86E1FC">::</span><span style="color:#FFC777">map</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#FFC777">string</span><span style="color:#86E1FC">,</span><span style="color:#C099FF"> int</span><span style="color:#86E1FC">>::</span><span style="color:#C8D3F5">iterator it </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> mp</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">find</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">two</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#86E1FC">    if</span><span style="color:#86E1FC"> (</span><span style="color:#C8D3F5">it </span><span style="color:#86E1FC">!=</span><span style="color:#FFC777"> mp</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">end</span><span style="color:#86E1FC">())</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">        std</span><span style="color:#86E1FC">::</span><span style="color:#B4C2F0">cout </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">Found: </span><span style="color:#86E1FC">"</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#FFC777"> it</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">first</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D"> = </span><span style="color:#86E1FC">"</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#FFC777"> it</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">second</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#B4C2F0">endl</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">    }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">    return</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include &#x22;Vector.hpp&#x22;
+#include &#x22;List.hpp&#x22;
+#include &#x22;Map.hpp&#x22;
+#include <iostream>
+
+int main() {
+    // Vector 사용 예제
+    ft::vector<int> vec;
+    vec.push_back(1);
+    vec.push_back(2);
+    vec.push_back(3);
+
+    for (ft::vector<int>::iterator it = vec.begin(); it != vec.end(); ++it) {
+        std::cout << *it << &#x22; &#x22;;
+    }
+    std::cout << std::endl;
+
+    // List 사용 예제
+    ft::list<std::string> lst;
+    lst.push_back(&#x22;Hello&#x22;);
+    lst.push_back(&#x22;World&#x22;);
+    lst.push_front(&#x22;ft&#x22;);
+
+    // Map 사용 예제
+    ft::map<std::string, int> mp;
+    mp[&#x22;one&#x22;] = 1;
+    mp[&#x22;two&#x22;] = 2;
+    mp[&#x22;three&#x22;] = 3;
+
+    ft::map<std::string, int>::iterator it = mp.find(&#x22;two&#x22;);
+    if (it != mp.end()) {
+        std::cout << &#x22;Found: &#x22; << it->first << &#x22; = &#x22; << it->second << std::endl;
+    }
+
+    return 0;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="컴파일"><a class="heading-link" aria-hidden="true" href="#컴파일">컴파일</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 컴파일 스크립트 사용</span></span>
+<span data-line=""><span style="color:#FFC777">./compile.sh</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 또는 직접 컴파일</span></span>
+<span data-line=""><span style="color:#FFC777">g++</span><span style="color:#C3E88D"> -std=c++98</span><span style="color:#C3E88D"> -Wall</span><span style="color:#C3E88D"> -Wextra</span><span style="color:#C3E88D"> -Werror</span><span style="color:#C3E88D"> your_file.cpp</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 컴파일 스크립트 사용
+./compile.sh
+
+# 또는 직접 컴파일
+g++ -std=c++98 -Wall -Wextra -Werror your_file.cpp" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="구현-세부사항"><a class="heading-link" aria-hidden="true" href="#구현-세부사항">구현 세부사항</a></h2>
+<h3 id="vector"><a class="heading-link" aria-hidden="true" href="#vector">Vector</a></h3>
+<ul>
+<li><strong>메모리 할당</strong>: 동적 배열 할당</li>
+<li><strong>성장 전략</strong>: 현재 크기의 1.5배로 확장</li>
+<li><strong>반복자 무효화</strong>: 재할당 시 모든 반복자 무효화</li>
+<li><strong>예외 안전성</strong>: 기본 보장 (Basic Guarantee)</li>
+</ul>
+<h3 id="list"><a class="heading-link" aria-hidden="true" href="#list">List</a></h3>
+<ul>
+<li><strong>구조</strong>: 이중 연결 리스트</li>
+<li><strong>더미 노드</strong>: 순환 리스트 구조 (<code>_tip</code> 노드)</li>
+<li><strong>특수 연산</strong>:
+<ul>
+<li><code>splice</code>: O(1) 리스트 병합</li>
+<li><code>merge</code>: 정렬된 리스트 병합</li>
+<li><code>sort</code>: 버블 정렬 알고리즘</li>
+<li><code>reverse</code>: O(n) 역순 변환</li>
+</ul>
+</li>
+</ul>
+<h3 id="mapset"><a class="heading-link" aria-hidden="true" href="#mapset">Map/Set</a></h3>
+<ul>
+<li><strong>구조</strong>: 이진 탐색 트리 (B-tree)</li>
+<li><strong>균형</strong>: AVL 트리 또는 Red-Black 트리 (구현에 따라 다름)</li>
+<li><strong>정렬</strong>: 키/값의 비교 함수를 통한 자동 정렬</li>
+<li><strong>반복자</strong>: 중위 순회 (in-order traversal)</li>
+</ul>
+<h3 id="iterator"><a class="heading-link" aria-hidden="true" href="#iterator">Iterator</a></h3>
+<ul>
+<li><strong>베이스 클래스</strong>:
+<ul>
+<li><code>BaseIter&#x3C;T></code>: vector, deque용</li>
+<li><code>ListBaseIter&#x3C;T></code>: list용</li>
+<li><code>BtreeBaseIter&#x3C;E, Compare, isMulti></code>: map/set용</li>
+</ul>
+</li>
+<li><strong>역방향 반복자</strong>: <code>ReverseIterator</code>, <code>ConstReverseIterator</code> 래퍼</li>
+</ul>
+<h3 id="utility"><a class="heading-link" aria-hidden="true" href="#utility">Utility</a></h3>
+<ul>
+<li><strong>pair</strong>: 키-값 쌍 구조체</li>
+<li><strong>less</strong>: 비교 함수 객체</li>
+<li><strong>enable_if</strong>: SFINAE를 위한 타입 트레이트</li>
+<li><strong>is_integral</strong>: 정수 타입 판별</li>
+<li><strong>swap</strong>: 값 교환 함수</li>
+<li><strong>distance</strong>: 반복자 간 거리 계산</li>
+</ul>
+<h2 id="allocator"><a class="heading-link" aria-hidden="true" href="#allocator">Allocator</a></h2>
+<p>프로젝트는 표준 <code>std::allocator</code>를 사용하며, 커스텀 allocator도 지원한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">template</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C099FF">class</span><span style="color:#FFC777"> T</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> allocator</span></span>
+<span data-line=""><span style="color:#86E1FC">{</span></span>
+<span data-line=""><span style="color:#C099FF">public</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FFC777">    T</span><span style="color:#C099FF">*</span><span style="color:#82AAFF"> allocate</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">size_t</span><span style="color:#FCA7EA"> n</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">           // 메모리 할당</span></span>
+<span data-line=""><span style="color:#C099FF">    void</span><span style="color:#82AAFF"> deallocate</span><span style="color:#86E1FC">(</span><span style="color:#FFC777">T</span><span style="color:#C099FF">*</span><span style="color:#86E1FC">,</span><span style="color:#C099FF"> size_t</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">     // 메모리 해제</span></span>
+<span data-line=""><span style="color:#C099FF">    void</span><span style="color:#82AAFF"> construct</span><span style="color:#86E1FC">(</span><span style="color:#FFC777">T</span><span style="color:#C099FF">*</span><span style="color:#86E1FC">,</span><span style="color:#C099FF"> const</span><span style="color:#FFC777"> T</span><span style="color:#C099FF">&#x26;</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">    // 객체 생성</span></span>
+<span data-line=""><span style="color:#C099FF">    void</span><span style="color:#82AAFF"> destroy</span><span style="color:#86E1FC">(</span><span style="color:#FFC777">T</span><span style="color:#C099FF">*</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">                // 객체 소멸</span></span>
+<span data-line=""><span style="color:#86E1FC">};</span></span><button type="button" title="Copy code" aria-label="Copy code" data="template <class T>
+class allocator
+{
+public:
+    T* allocate(size_t n);           // 메모리 할당
+    void deallocate(T*, size_t);     // 메모리 해제
+    void construct(T*, const T&#x26;);    // 객체 생성
+    void destroy(T*);                // 객체 소멸
+};" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="테스트"><a class="heading-link" aria-hidden="true" href="#테스트">테스트</a></h2>
+<p><code>test/</code> 디렉토리에 각 컨테이너별 테스트 파일이 포함되어 있다. 각 테스트는 표준 라이브러리와의 동작 일치성을 검증한다.</p>
+<h2 id="주의사항"><a class="heading-link" aria-hidden="true" href="#주의사항">주의사항</a></h2>
+<ul>
+<li>C++98 표준 준수</li>
+<li>표준 라이브러리(<code>std::</code>) 사용 금지 (컨테이너 구현 시)</li>
+<li>메모리 누수 없이 구현</li>
+<li>예외 안전성 보장</li>
+<li>반복자 무효화 규칙 준수</li>
+</ul>
+<h2 id="라이선스"><a class="heading-link" aria-hidden="true" href="#라이선스">라이선스</a></h2>
+<p>이 프로젝트는 교육 목적으로 작성되었다.</p>16:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$19"}}]
+13:["$","$L1a",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1a",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

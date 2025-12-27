@@ -1,0 +1,495 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+3:I[823080,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"default"]
+6:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"ViewportBoundary"]
+b:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"MetadataBoundary"]
+d:I[26623,[],"default"]
+:HL["/_next/static/chunks/2fc4938d46ca9898.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"zz3fM3C0BYGlLBd3FPzam","c":["","ko","projects","schools","matcha"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","matcha","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2fc4938d46ca9898.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ef7f7dfdb8bd52fb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/66231d519a3a670e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/6878d4616822326c.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/6d5144f4ef97171b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/d19ba5547ce1f461.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d4fa3a487e682d41.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3b6ca341dd88faef.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/79cc574730232e3b.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Le"}]]}]
+f:I[779615,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+10:I[728231,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"TooltipProvider"]
+11:I[663780,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"홈","blog":"블로그"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"BlurFade"]
+15:I[482279,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"Image"]
+19:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/21f0db4ed6edc3dc.js"],"IconMark"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"matcha"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"matcha\",\"description\":\"matcha는 ecole42의 웹 프로젝트로, Tinder 같은 데이팅 웹사이트를 만드는 것이 목표다. Nuxt.js와 Express.js를 사용하여 SSR 기반 풀스택 웹 애플리케이션을 구축하며, JWT 인증, 실시간 채팅(Socket.IO), 위치 기반 매칭, 지능형 추천 시스템 등 다양한 기능을 제공한다. ORM과 외부 validator 사용이 금지되어 있기에 순수 SQL 쿼리와 직접 구현한 검증 로직을 사용하여 데이터베이스와 백엔드 로직을 완전히 이해하여야 한다\",\"image\":\"https://woolimi.github.io/matcha/home.png\",\"url\":\"https://woolimi.github.io/projects/schools/matcha\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl leading-tight font-semibold tracking-tight sm:text-3xl sm:leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight","children":"matcha"}],["$","$L15",null,{"src":"/matcha/home.png","alt":"matcha","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],["$","p",null,{"className":"text-muted-foreground text-base leading-relaxed sm:text-lg md:text-xl","children":"matcha는 ecole42의 웹 프로젝트로, Tinder 같은 데이팅 웹사이트를 만드는 것이 목표다. Nuxt.js와 Express.js를 사용하여 SSR 기반 풀스택 웹 애플리케이션을 구축하며, JWT 인증, 실시간 채팅(Socket.IO), 위치 기반 매칭, 지능형 추천 시스템 등 다양한 기능을 제공한다. ORM과 외부 validator 사용이 금지되어 있기에 순수 SQL 쿼리와 직접 구현한 검증 로직을 사용하여 데이터베이스와 백엔드 로직을 완전히 이해하여야 한다"}],"$L16","$L17"]}],"$L18"]}]}]
+c:[["$","title","0",{"children":"matcha | 박우림"}],["$","meta","1",{"name":"description","content":"matcha는 ecole42의 웹 프로젝트로, Tinder 같은 데이팅 웹사이트를 만드는 것이 목표다. Nuxt.js와 Express.js를 사용하여 SSR 기반 풀스택 웹 애플리케이션을 구축하며, JWT 인증, 실시간 채팅(Socket.IO), 위치 기반 매칭, 지능형 추천 시스템 등 다양한 기능을 제공한다. ORM과 외부 validator 사용이 금지되어 있기에 순수 SQL 쿼리와 직접 구현한 검증 로직을 사용하여 데이터베이스와 백엔드 로직을 완전히 이해하여야 한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"matcha"}],["$","meta","6",{"property":"og:description","content":"matcha는 ecole42의 웹 프로젝트로, Tinder 같은 데이팅 웹사이트를 만드는 것이 목표다. Nuxt.js와 Express.js를 사용하여 SSR 기반 풀스택 웹 애플리케이션을 구축하며, JWT 인증, 실시간 채팅(Socket.IO), 위치 기반 매칭, 지능형 추천 시스템 등 다양한 기능을 제공한다. ORM과 외부 validator 사용이 금지되어 있기에 순수 SQL 쿼리와 직접 구현한 검증 로직을 사용하여 데이터베이스와 백엔드 로직을 완전히 이해하여야 한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/matcha"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/matcha/home.png"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"matcha"}],["$","meta","12",{"name":"twitter:description","content":"matcha는 ecole42의 웹 프로젝트로, Tinder 같은 데이팅 웹사이트를 만드는 것이 목표다. Nuxt.js와 Express.js를 사용하여 SSR 기반 풀스택 웹 애플리케이션을 구축하며, JWT 인증, 실시간 채팅(Socket.IO), 위치 기반 매칭, 지능형 추천 시스템 등 다양한 기능을 제공한다. ORM과 외부 validator 사용이 금지되어 있기에 순수 SQL 쿼리와 직접 구현한 검증 로직을 사용하여 데이터베이스와 백엔드 로직을 완전히 이해하여야 한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/matcha/home.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L19","19",{}]]
+8:null
+1c:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/66231d519a3a670e.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/6d5144f4ef97171b.js","/_next/static/chunks/d19ba5547ce1f461.js","/_next/static/chunks/d4fa3a487e682d41.js","/_next/static/chunks/3b6ca341dd88faef.js","/_next/static/chunks/79cc574730232e3b.js"],"default"]
+16:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Nuxt.js"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Vue.js"}],["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Express.js"}],["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"TypeScript"}],["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"MySQL"}],["$","div","5",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Socket.IO"}]]}]
+1a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z17:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/matcha","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$1a","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+1b:Tc0ae,<h2 id="개요"><a class="heading-link" aria-hidden="true" href="#개요">개요</a></h2>
+<p><code>Matcha</code>는 ecole42의 웹 프로젝트 중 하나로, Tinder와 유사한 데이팅 웹사이트를 구현한 프로젝트다.</p>
+<p><strong>⚠️ 제약사항</strong>: 이 프로젝트에서는 <code>ORM</code>, <code>validators</code>, <code>User Accounts Manager</code>, <code>NoSQL Database</code> 사용이 <strong>엄격히 금지</strong>되어 있다.</p>
+<h3 id="스크린샷"><a class="heading-link" aria-hidden="true" href="#스크린샷">스크린샷</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center">Light Mode</th>
+<th align="center">Dark Mode</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/matcha/search.png" alt=""></td>
+<td align="center"><img src="/matcha/search-dark.png" alt=""></td>
+</tr>
+<tr>
+<td align="center"><img src="/matcha/profile.png" alt=""></td>
+<td align="center"><img src="/matcha/profile-dark.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">Chat</th>
+<th align="center">Notification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/matcha/chat.png" alt=""></td>
+<td align="center"><img src="/matcha/notification.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">Mobile</th>
+<th align="center">Map</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/matcha/mobile.jpg" alt=""></td>
+<td align="center"><img src="/matcha/map.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">Scroll Pagination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="/matcha/scrolling.gif" alt=""></td>
+</tr>
+</tbody>
+</table>
+<h2 id="주요-기능"><a class="heading-link" aria-hidden="true" href="#주요-기능">주요 기능</a></h2>
+<h3 id="인증-및-보안"><a class="heading-link" aria-hidden="true" href="#인증-및-보안">인증 및 보안</a></h3>
+<ul>
+<li><strong>JWT 인증</strong>: Access Token과 Refresh Token을 사용한 인증 플로우</li>
+<li><strong>이메일 인증</strong>: 회원가입 시 이메일 검증 링크 발송</li>
+<li><strong>비밀번호 재설정</strong>: 이메일을 통한 비밀번호 재설정 기능</li>
+<li><strong>Google OAuth2 로그인</strong>: 소셜 로그인 지원</li>
+</ul>
+<h3 id="사용자-매칭"><a class="heading-link" aria-hidden="true" href="#사용자-매칭">사용자 매칭</a></h3>
+<ul>
+<li><strong>지능형 추천 시스템</strong>: 사용자의 관심사, 나이, 언어, 성적 지향(이성애, 동성애, 양성애)을 기반으로 한 매칭 추천</li>
+<li><strong>위치 기반 매칭</strong>: GPS 좌표를 이용한 거리 기반 매칭</li>
+<li><strong>IP 기반 위치 추적</strong>: 브라우저 GPS 허용이 없는 경우 IP 주소 기반 위치 추적</li>
+<li><strong>고급 검색</strong>: 나이, 명성 점수, 위치, 태그를 기반으로 한 필터링 및 정렬</li>
+</ul>
+<h3 id="소셜-기능"><a class="heading-link" aria-hidden="true" href="#소셜-기능">소셜 기능</a></h3>
+<ul>
+<li><strong>실시간 채팅</strong>: Socket.IO를 활용한 실시간 메시징</li>
+<li><strong>좋아요 시스템</strong>: 사용자 간 좋아요 및 상호 좋아요 알림</li>
+<li><strong>프로필 방문 추적</strong>: 프로필 방문 기록 및 알림</li>
+<li><strong>차단 기능</strong>: 사용자 차단 기능</li>
+<li><strong>신고 기능</strong>: 부적절한 사용자 신고 기능</li>
+</ul>
+<h3 id="사용자-프로필"><a class="heading-link" aria-hidden="true" href="#사용자-프로필">사용자 프로필</a></h3>
+<ul>
+<li><strong>다중 이미지 업로드</strong>: 프로필 사진 여러 장 업로드</li>
+<li><strong>태그 시스템</strong>: 관심사 태그 추가 및 관리</li>
+<li><strong>자기소개</strong>: 프로필 소개글 작성</li>
+<li><strong>명성 점수</strong>: 사용자 활동 기반 명성 점수 시스템</li>
+</ul>
+<h3 id="uiux"><a class="heading-link" aria-hidden="true" href="#uiux">UI/UX</a></h3>
+<ul>
+<li><strong>다크 모드</strong>: 라이트/다크 테마 전환 지원</li>
+<li><strong>반응형 디자인</strong>: 모바일 및 데스크톱 최적화</li>
+<li><strong>Google Maps 통합</strong>: 인터랙티브 지도를 통한 위치 표시</li>
+<li><strong>무한 스크롤</strong>: 스크롤 이벤트 기반 페이지네이션</li>
+<li><strong>알림 시스템</strong>: 실시간 알림 수신 및 관리</li>
+</ul>
+<h3 id="개발-도구"><a class="heading-link" aria-hidden="true" href="#개발-도구">개발 도구</a></h3>
+<ul>
+<li><strong>시드 데이터</strong>: 자동 생성된 500명의 테스트 사용자 데이터</li>
+</ul>
+<h2 id="기술-스택"><a class="heading-link" aria-hidden="true" href="#기술-스택">기술 스택</a></h2>
+<h3 id="frontend"><a class="heading-link" aria-hidden="true" href="#frontend">Frontend</a></h3>
+<ul>
+<li><strong>Nuxt.js 2.15</strong>: Server Side Rendering (SSR)</li>
+<li><strong>Vue.js</strong>: 프론트엔드 프레임워크</li>
+<li><strong>Vuetify</strong>: Material Design 컴포넌트 라이브러리</li>
+<li><strong>Vuex</strong>: 상태 관리</li>
+<li><strong>Socket.IO Client</strong>: 실시간 통신</li>
+<li><strong>Vue2 Google Maps</strong>: 지도 통합</li>
+</ul>
+<h3 id="backend"><a class="heading-link" aria-hidden="true" href="#backend">Backend</a></h3>
+<ul>
+<li><strong>Express.js</strong>: RESTful API 서버</li>
+<li><strong>TypeScript</strong>: 타입 안정성</li>
+<li><strong>Socket.IO</strong>: 실시간 웹소켓 통신</li>
+<li><strong>MySQL 8.0</strong>: 관계형 데이터베이스 (Docker)</li>
+<li><strong>JWT</strong>: 인증 토큰 관리</li>
+<li><strong>bcrypt</strong>: 비밀번호 해싱</li>
+<li><strong>Multer</strong>: 파일 업로드 처리</li>
+<li><strong>Mailgun</strong>: 이메일 서비스</li>
+</ul>
+<h3 id="devops"><a class="heading-link" aria-hidden="true" href="#devops">DevOps</a></h3>
+<ul>
+<li><strong>Docker &#x26; Docker Compose</strong>: 데이터베이스 컨테이너화</li>
+<li><strong>Node.js</strong>: 런타임 환경</li>
+</ul>
+<h2 id="프로젝트-구조"><a class="heading-link" aria-hidden="true" href="#프로젝트-구조">프로젝트 구조</a></h2>
+<pre><code>matcha/
+├── api/                    # Backend API 서버
+│   ├── controller/        # 컨트롤러 (비즈니스 로직)
+│   │   ├── Authentification.ts
+│   │   ├── Chat.ts
+│   │   ├── Like.ts
+│   │   ├── Profile.ts
+│   │   ├── Search.ts
+│   │   └── ...
+│   ├── models/            # 데이터 모델
+│   │   ├── User.ts
+│   │   ├── Chat.ts
+│   │   ├── UserLike.ts
+│   │   └── ...
+│   ├── routes/            # API 라우트
+│   │   ├── auth.ts
+│   │   └── api/
+│   │       ├── profile.ts
+│   │       ├── chat.ts
+│   │       ├── search.ts
+│   │       └── ...
+│   ├── middleware/        # 미들웨어
+│   │   ├── authToken.ts
+│   │   ├── validator.ts
+│   │   └── ...
+│   ├── services/          # 서비스 레이어
+│   │   ├── Socket.ts
+│   │   ├── Token.ts
+│   │   ├── Mailing.ts
+│   │   └── Location.ts
+│   ├── init/              # 데이터베이스 초기화
+│   │   ├── Database.ts
+│   │   ├── InitDB.ts
+│   │   └── SeedDB.ts
+│   └── index.ts           # Express 서버 진입점
+│
+├── app/                    # Frontend Nuxt 애플리케이션
+│   ├── components/        # Vue 컴포넌트
+│   │   ├── App/          # 앱 내부 컴포넌트
+│   │   │   ├── chat/
+│   │   │   ├── notifications/
+│   │   │   ├── profile/
+│   │   │   └── search/
+│   │   └── Home/         # 홈페이지 컴포넌트
+│   ├── pages/            # 페이지 라우트
+│   │   ├── app/          # 인증 필요 페이지
+│   │   └── index.vue     # 홈페이지
+│   ├── store/            # Vuex 스토어
+│   ├── middleware/       # Nuxt 미들웨어
+│   ├── plugins/          # Nuxt 플러그인
+│   └── nuxt.config.js    # Nuxt 설정
+│
+├── docker-compose.yml     # Docker Compose 설정
+├── eval.sh               # 자동 실행 스크립트
+└── package.json          # 루트 패키지 설정
+</code></pre>
+<h2 id="설치-및-실행"><a class="heading-link" aria-hidden="true" href="#설치-및-실행">설치 및 실행</a></h2>
+<h3 id="사전-요구사항"><a class="heading-link" aria-hidden="true" href="#사전-요구사항">사전 요구사항</a></h3>
+<ul>
+<li><strong>Docker</strong> 및 <strong>Docker Compose</strong> (>= 1.27)</li>
+<li><strong>Node.js</strong> (권장: v14 이상)</li>
+<li><strong>npm</strong> 또는 <strong>yarn</strong></li>
+</ul>
+<h3 id="필요한-api-키"><a class="heading-link" aria-hidden="true" href="#필요한-api-키">필요한 API 키</a></h3>
+<p>다음 API 키를 사전에 준비해야 한다:</p>
+<ol>
+<li><strong>Google Maps API Key</strong> (Places API)</li>
+<li><strong>Google OAuth API Key</strong></li>
+<li><strong>Mailgun API Key</strong></li>
+</ol>
+<h3 id="환경-변수-설정"><a class="heading-link" aria-hidden="true" href="#환경-변수-설정">환경 변수 설정</a></h3>
+<p><code>api</code> 및 <code>app</code> 폴더에 각각 <code>.env</code> 파일을 생성해야 한다. <code>.env.example</code> 파일을 참고하여 다음 변수들을 설정한다:</p>
+<h4 id="apienv"><a class="heading-link" aria-hidden="true" href="#apienv"><code>api/.env</code></a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="env" data-theme="moonlight-ii"><code data-language="env" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span># Database</span></span>
+<span data-line=""><span>DB_HOST=localhost</span></span>
+<span data-line=""><span>DB_USER=root</span></span>
+<span data-line=""><span>DB_PASSWORD=root</span></span>
+<span data-line=""><span>DB_NAME=matcha</span></span>
+<span data-line=""><span>DB_PORT=3306</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># Server</span></span>
+<span data-line=""><span>PORT=5000</span></span>
+<span data-line=""><span>API=http://localhost:5000</span></span>
+<span data-line=""><span>APP=http://localhost:3000</span></span>
+<span data-line=""><span>ENVIRONMENT=build</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># JWT</span></span>
+<span data-line=""><span>JWT_SECRET=your-secret-key</span></span>
+<span data-line=""><span>JWT_REFRESH_SECRET=your-refresh-secret-key</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># Mailgun</span></span>
+<span data-line=""><span>MAILGUN_API_KEY=your-mailgun-api-key</span></span>
+<span data-line=""><span>MAILGUN_DOMAIN=your-mailgun-domain</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># Google OAuth</span></span>
+<span data-line=""><span>GOOGLE_CLIENT_ID=your-google-client-id</span></span>
+<span data-line=""><span>GOOGLE_CLIENT_SECRET=your-google-client-secret</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Database
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=root
+DB_NAME=matcha
+DB_PORT=3306
+
+# Server
+PORT=5000
+API=http://localhost:5000
+APP=http://localhost:3000
+ENVIRONMENT=build
+
+# JWT
+JWT_SECRET=your-secret-key
+JWT_REFRESH_SECRET=your-refresh-secret-key
+
+# Mailgun
+MAILGUN_API_KEY=your-mailgun-api-key
+MAILGUN_DOMAIN=your-mailgun-domain
+
+# Google OAuth
+GOOGLE_CLIENT_ID=your-google-client-id
+GOOGLE_CLIENT_SECRET=your-google-client-secret" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h4 id="appenv"><a class="heading-link" aria-hidden="true" href="#appenv"><code>app/.env</code></a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="env" data-theme="moonlight-ii"><code data-language="env" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span># API Server</span></span>
+<span data-line=""><span>API=http://localhost:5000</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># Server</span></span>
+<span data-line=""><span>PORT=3000</span></span>
+<span data-line=""><span>ENVIRONMENT=build</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># Google Maps</span></span>
+<span data-line=""><span>GOOGLE_MAPS_API_KEY=your-google-maps-api-key</span></span>
+<span data-line=""> </span>
+<span data-line=""><span># Google OAuth</span></span>
+<span data-line=""><span>GOOGLE_CLIENT_ID=your-google-client-id</span></span>
+<span data-line=""><span>GOOGLE_CLIENT_SECRET=your-google-client-secret</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# API Server
+API=http://localhost:5000
+
+# Server
+PORT=3000
+ENVIRONMENT=build
+
+# Google Maps
+GOOGLE_MAPS_API_KEY=your-google-maps-api-key
+
+# Google OAuth
+GOOGLE_CLIENT_ID=your-google-client-id
+GOOGLE_CLIENT_SECRET=your-google-client-secret" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="빠른-시작"><a class="heading-link" aria-hidden="true" href="#빠른-시작">빠른 시작</a></h3>
+<p>자동 실행 스크립트를 사용하여 한 번에 모든 것을 설정하고 실행할 수 있다:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">sh</span><span style="color:#C3E88D"> ./eval.sh</span></span><button type="button" title="Copy code" aria-label="Copy code" data="sh ./eval.sh" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>이 스크립트는 다음 작업을 수행한다:</p>
+<ol>
+<li>Docker로 MySQL 데이터베이스 시작</li>
+<li>루트 및 서브 프로젝트 의존성 설치</li>
+<li>프로젝트 빌드</li>
+<li>데이터베이스 초기화 및 시드 데이터 생성</li>
+<li>API 서버 및 프론트엔드 서버 시작</li>
+</ol>
+<h3 id="수동-실행"><a class="heading-link" aria-hidden="true" href="#수동-실행">수동 실행</a></h3>
+<h4 id="1-데이터베이스-시작"><a class="heading-link" aria-hidden="true" href="#1-데이터베이스-시작">1. 데이터베이스 시작</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> db</span></span>
+<span data-line=""><span style="color:#858AA6"># 또는</span></span>
+<span data-line=""><span style="color:#FFC777">docker-compose</span><span style="color:#C3E88D"> up</span><span style="color:#C3E88D"> -d</span></span><button type="button" title="Copy code" aria-label="Copy code" data="npm run db
+# 또는
+docker-compose up -d" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h4 id="2-의존성-설치"><a class="heading-link" aria-hidden="true" href="#2-의존성-설치">2. 의존성 설치</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> install</span></span><button type="button" title="Copy code" aria-label="Copy code" data="npm run install" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h4 id="3-프로젝트-빌드"><a class="heading-link" aria-hidden="true" href="#3-프로젝트-빌드">3. 프로젝트 빌드</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> build</span></span><button type="button" title="Copy code" aria-label="Copy code" data="npm run build" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h4 id="4-데이터베이스-초기화-및-시드-데이터-생성"><a class="heading-link" aria-hidden="true" href="#4-데이터베이스-초기화-및-시드-데이터-생성">4. 데이터베이스 초기화 및 시드 데이터 생성</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> init_seed</span></span><button type="button" title="Copy code" aria-label="Copy code" data="npm run init_seed" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h4 id="5-서버-시작"><a class="heading-link" aria-hidden="true" href="#5-서버-시작">5. 서버 시작</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> start</span></span><button type="button" title="Copy code" aria-label="Copy code" data="npm run start" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>개별 서버 실행:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># API 서버만 실행</span></span>
+<span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> start-api</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 프론트엔드 서버만 실행</span></span>
+<span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> start-app</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# API 서버만 실행
+npm run start-api
+
+# 프론트엔드 서버만 실행
+npm run start-app" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="개발-모드"><a class="heading-link" aria-hidden="true" href="#개발-모드">개발 모드</a></h3>
+<p>개발 중에는 각 디렉토리에서 직접 실행할 수 있다:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># API 서버 (개발 모드)</span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> api</span></span>
+<span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> server</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 프론트엔드 서버 (개발 모드)</span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> app</span></span>
+<span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> dev</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# API 서버 (개발 모드)
+cd api
+npm run server
+
+# 프론트엔드 서버 (개발 모드)
+cd app
+npm run dev" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="api-엔드포인트"><a class="heading-link" aria-hidden="true" href="#api-엔드포인트">API 엔드포인트</a></h2>
+<h3 id="인증-auth"><a class="heading-link" aria-hidden="true" href="#인증-auth">인증 (<code>/auth</code>)</a></h3>
+<ul>
+<li><code>POST /auth/register</code> - 회원가입</li>
+<li><code>POST /auth/login</code> - 로그인</li>
+<li><code>POST /auth/refresh</code> - 토큰 갱신</li>
+<li><code>DELETE /auth/logout</code> - 로그아웃</li>
+<li><code>GET /auth/me</code> - 현재 사용자 정보</li>
+<li><code>POST /auth/social</code> - 소셜 로그인</li>
+<li><code>GET /auth/email-verification/:jwt</code> - 이메일 인증</li>
+<li><code>POST /auth/reset-password</code> - 비밀번호 재설정 요청</li>
+<li><code>GET /auth/reset-password/:jwt</code> - 비밀번호 재설정 확인</li>
+</ul>
+<h3 id="프로필-apiprofile"><a class="heading-link" aria-hidden="true" href="#프로필-apiprofile">프로필 (<code>/api/profile</code>)</a></h3>
+<ul>
+<li><code>GET /api/profile</code> - 프로필 목록 조회</li>
+<li><code>GET /api/profile/:id</code> - 특정 프로필 조회</li>
+<li><code>PUT /api/profile</code> - 프로필 수정</li>
+<li><code>POST /api/profile/picture</code> - 프로필 사진 업로드</li>
+<li><code>DELETE /api/profile/picture/:id</code> - 프로필 사진 삭제</li>
+</ul>
+<h3 id="검색-apisearch"><a class="heading-link" aria-hidden="true" href="#검색-apisearch">검색 (<code>/api/search</code>)</a></h3>
+<ul>
+<li><code>GET /api/search</code> - 사용자 검색</li>
+<li><code>POST /api/search</code> - 고급 검색</li>
+</ul>
+<h3 id="좋아요-apilike"><a class="heading-link" aria-hidden="true" href="#좋아요-apilike">좋아요 (<code>/api/like</code>)</a></h3>
+<ul>
+<li><code>POST /api/like/:id</code> - 사용자 좋아요</li>
+<li><code>DELETE /api/like/:id</code> - 좋아요 취소</li>
+</ul>
+<h3 id="채팅-apichat"><a class="heading-link" aria-hidden="true" href="#채팅-apichat">채팅 (<code>/api/chat</code>)</a></h3>
+<ul>
+<li><code>GET /api/chat</code> - 채팅 목록 조회</li>
+<li><code>GET /api/chat/:id</code> - 특정 채팅 메시지 조회</li>
+<li><code>POST /api/chat/:id</code> - 메시지 전송</li>
+</ul>
+<h3 id="알림-apinotifications"><a class="heading-link" aria-hidden="true" href="#알림-apinotifications">알림 (<code>/api/notifications</code>)</a></h3>
+<ul>
+<li><code>GET /api/notifications</code> - 알림 목록 조회</li>
+<li><code>PUT /api/notifications/:id</code> - 알림 읽음 처리</li>
+<li><code>PUT /api/notifications</code> - 모든 알림 읽음 처리</li>
+</ul>
+<h3 id="차단-apiblock"><a class="heading-link" aria-hidden="true" href="#차단-apiblock">차단 (<code>/api/block</code>)</a></h3>
+<ul>
+<li><code>POST /api/block/:id</code> - 사용자 차단</li>
+<li><code>DELETE /api/block/:id</code> - 차단 해제</li>
+<li><code>GET /api/block</code> - 차단 목록 조회</li>
+</ul>
+<h3 id="신고-apireport"><a class="heading-link" aria-hidden="true" href="#신고-apireport">신고 (<code>/api/report</code>)</a></h3>
+<ul>
+<li><code>POST /api/report/:id</code> - 사용자 신고</li>
+</ul>
+<h3 id="태그-apitags"><a class="heading-link" aria-hidden="true" href="#태그-apitags">태그 (<code>/api/tags</code>)</a></h3>
+<ul>
+<li><code>GET /api/tags</code> - 태그 목록 조회</li>
+<li><code>POST /api/tags</code> - 태그 추가</li>
+<li><code>DELETE /api/tags/:id</code> - 태그 삭제</li>
+</ul>
+<h2 id="데이터베이스-구조"><a class="heading-link" aria-hidden="true" href="#데이터베이스-구조">데이터베이스 구조</a></h2>
+<h3 id="주요-테이블"><a class="heading-link" aria-hidden="true" href="#주요-테이블">주요 테이블</a></h3>
+<h4 id="users"><a class="heading-link" aria-hidden="true" href="#users"><code>users</code></a></h4>
+<ul>
+<li>사용자 기본 정보 (이메일, 사용자명, 비밀번호, 이름 등)</li>
+<li>성별, 성적 지향, 자기소개</li>
+<li>위치 정보 (GPS 좌표)</li>
+<li>명성 점수, 온라인 상태, 마지막 로그인 시간</li>
+</ul>
+<h4 id="user_pictures"><a class="heading-link" aria-hidden="true" href="#user_pictures"><code>user_pictures</code></a></h4>
+<ul>
+<li>사용자 프로필 사진 정보</li>
+</ul>
+<h4 id="user_tags"><a class="heading-link" aria-hidden="true" href="#user_tags"><code>user_tags</code></a></h4>
+<ul>
+<li>사용자 관심사 태그</li>
+</ul>
+<h4 id="user_likes"><a class="heading-link" aria-hidden="true" href="#user_likes"><code>user_likes</code></a></h4>
+<ul>
+<li>사용자 간 좋아요 관계</li>
+</ul>
+<h4 id="user_blocks"><a class="heading-link" aria-hidden="true" href="#user_blocks"><code>user_blocks</code></a></h4>
+<ul>
+<li>사용자 차단 관계</li>
+</ul>
+<h4 id="chats"><a class="heading-link" aria-hidden="true" href="#chats"><code>chats</code></a></h4>
+<ul>
+<li>채팅방 정보</li>
+</ul>
+<h4 id="chat_messages"><a class="heading-link" aria-hidden="true" href="#chat_messages"><code>chat_messages</code></a></h4>
+<ul>
+<li>채팅 메시지 내용</li>
+</ul>
+<h4 id="user_notifications"><a class="heading-link" aria-hidden="true" href="#user_notifications"><code>user_notifications</code></a></h4>
+<ul>
+<li>알림 정보 (좋아요, 메시지, 프로필 방문 등)</li>
+</ul>
+<h4 id="tags"><a class="heading-link" aria-hidden="true" href="#tags"><code>tags</code></a></h4>
+<ul>
+<li>태그 마스터 데이터</li>
+</ul>
+<p>자세한 데이터베이스 구조는 <a href="./api/models/DATA.md"><code>api/models/DATA.md</code></a>를 참고한다.</p>
+<h2 id="보안-기능"><a class="heading-link" aria-hidden="true" href="#보안-기능">보안 기능</a></h2>
+<ul>
+<li><strong>JWT 토큰 기반 인증</strong>: Access Token (15분) 및 Refresh Token (7일)</li>
+<li><strong>비밀번호 해싱</strong>: bcrypt를 사용한 안전한 비밀번호 저장</li>
+<li><strong>CORS 설정</strong>: 허용된 도메인만 접근 가능</li>
+<li><strong>쿠키 기반 인증</strong>: HttpOnly 쿠키를 통한 토큰 관리</li>
+<li><strong>이메일 인증</strong>: 회원가입 시 이메일 검증 필수</li>
+<li><strong>IP 기반 위치 추적</strong>: GPS 미허용 시 IP 기반 위치 추적</li>
+</ul>
+<h2 id="테스트"><a class="heading-link" aria-hidden="true" href="#테스트">테스트</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 프론트엔드 테스트</span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> app</span></span>
+<span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> test</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># API 테스트</span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> api</span></span>
+<span data-line=""><span style="color:#FFC777">npm</span><span style="color:#C3E88D"> test</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 프론트엔드 테스트
+cd app
+npm test
+
+# API 테스트
+cd api
+npm test" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="주요-제약사항"><a class="heading-link" aria-hidden="true" href="#주요-제약사항">주요 제약사항</a></h2>
+<p>이 프로젝트는 ecole42의 교육 목적으로 다음 도구 사용이 <strong>금지</strong>되어 있다:</p>
+<ul>
+<li>❌ ORM (Object-Relational Mapping)</li>
+<li>❌ 외부 Validator 라이브러리</li>
+<li>❌ User Accounts Manager</li>
+<li>❌ NoSQL Database</li>
+</ul>
+<p>대신 순수 SQL 쿼리와 직접 구현한 검증 로직을 사용한다.</p>
+<h2 id="기여자"><a class="heading-link" aria-hidden="true" href="#기여자">기여자</a></h2>
+<ul>
+<li><a href="https://github.com/glagan">ncolomer</a></li>
+<li><a href="https://github.com/woolimi">wpark</a></li>
+</ul>18:["$","article",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$1b"}}]
+13:["$","$L1c",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1c",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
