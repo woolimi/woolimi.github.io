@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/f142722e01efbc28.js","/_next/static/chunks/93ad368b77169bd9.js","/_next/static/chunks/581e2b6f39866549.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/af336d658fd43017.js","/_next/static/chunks/25cda555832c1292.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/f142722e01efbc28.js","/_next/static/chunks/93ad368b77169bd9.js","/_next/static/chunks/581e2b6f39866549.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/af336d658fd43017.js","/_next/static/chunks/25cda555832c1292.js"],"default"]
+4:I[629911,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/f142722e01efbc28.js","/_next/static/chunks/93ad368b77169bd9.js","/_next/static/chunks/581e2b6f39866549.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/af336d658fd43017.js","/_next/static/chunks/25cda555832c1292.js"],"MarkdownContent",1]
+e:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+5:T87f,
+아두이노를 사용하면서 스위치(버튼)을 제어할때 자주 사용하는 코드를 정리.
+
+## 버튼을 1번만 인식하기
+
+버튼은 눌린 동안 계속 HIGH 신호를 보내기 때문에, 한 번 누른 것을 여러 번 누른 것으로 인식하는 문제가 발생한다. 따라서 이전 상태를 저장하고 해당 상태가 LOW -> HIGH 로 바뀔때만 true 를 리턴하는 함수를 만들었다.
+
+```c++
+bool isButtonPressed(int pin) {
+  static int prevState = LOW;
+  int currentState = digitalRead(pin);
+
+	if (currentState == HIGH && prevState == LOW) {
+		prevState = HIGH;
+		return true;
+	}
+
+	prevState = currentState;
+  return false;
+}
+```
+
+## 버튼 1번 + debounce
+
+버튼을 사용하다보면 기계적 접점의 바운싱(떨림) 현상으로 인해 노이즈가 발생할 수 있다. 이를 해결하기 위해 debounce (50ms) 를 이용해 신호변화가 안정화될때까지 delay 시킨다.
+
+```c++
+bool isButtonPressed(int pin) {
+  static int prevState = LOW;
+  static unsigned long lastDebounceTime = 0;
+  const unsigned long DEBOUNCE_DELAY = 50;  // 50ms
+
+  int currentState = digitalRead(pin);
+  unsigned long currentTime = millis();
+
+  // 상태가 변했으면 타이머 리셋
+  if (currentState != prevState) {
+    lastDebounceTime = currentTime;
+  }
+
+  // debounce 시간이 지났고, rising edge인 경우
+  if ((currentTime - lastDebounceTime) > DEBOUNCE_DELAY) {
+    static int stableState = LOW;
+
+    if (currentState != stableState) {
+      stableState = currentState;
+
+      if (stableState == HIGH) {
+        prevState = currentState;
+        return true;  // 버튼 눌림 감지!
+      }
+    }
+  }
+
+  prevState = currentState;
+  return false;
+}
+```
+
+## 버튼이 여러개인경우
+
+```c++
+class Button {
+public:
+  Button(int pin) : pin(pin), prevState(LOW) {
+    pinMode(pin, INPUT_PULLUP);
+  }
+
+  bool isPressed() {
+    int currentState = digitalRead(pin);
+
+    // 눌림(HIGH로 변했을 때) 감지
+    if (currentState == HIGH && prevState == LOW) {
+      prevState = currentState;
+      return true;
+    }
+
+    prevState = currentState;
+    return false;
+  }
+
+private:
+  int pin;
+  int prevState;
+};
+```
+0:{"buildId":"GspkjJh8fcXSkDNnWAOJw","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/arduino","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Arduino","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Arduino Switch"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Arduino Switch\",\"description\":\"아두이노에서 스위치(버튼)을 처리할때 자주 사용하는 코드\",\"image\":\"https://woolimi.github.io/og?title=Arduino Switch\",\"url\":\"https://woolimi.github.io/blog/arduino/switch\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"Arduino Switch"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6","$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/f142722e01efbc28.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/93ad368b77169bd9.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/581e2b6f39866549.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/af336d658fd43017.js","async":true}]
+c:["$","script","script-5",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

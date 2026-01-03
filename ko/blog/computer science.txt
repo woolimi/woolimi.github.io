@@ -1,0 +1,372 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"default"]
+3:I[555365,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"default"]
+7:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"ViewportBoundary"]
+c:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"MetadataBoundary"]
+e:I[26623,[],"default"]
+:HL["/_next/static/chunks/9bb537718c6ab5fe.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"GspkjJh8fcXSkDNnWAOJw","c":["","ko","blog","computer%20science"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","computer%20science","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/9bb537718c6ab5fe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ef7f7dfdb8bd52fb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/055c1225d9635954.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/6878d4616822326c.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/9d307cfe26b08874.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/05cb7eef185ae111.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/f142722e01efbc28.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/93ad368b77169bd9.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/581e2b6f39866549.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/af336d658fd43017.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[95228,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"03.machine-learning.ko.md","type":"file","path":"AI/03.machine-learning.ko.md","slug":"AI/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"},{"name":"06.filter.ko.ipynb","type":"file","path":"AI/06.filter.ko.ipynb","slug":"AI/filter","locale":"ko","title":"신호 필터처리"}]},{"name":"arduino","type":"folder","path":"arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"arduino/00.arduino.ko.md","slug":"arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"arduino/01.switch.ko.md","slug":"arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"arduino/02.serial.ko.md","slug":"arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"}]},{"name":"coding test","type":"folder","path":"coding test","children":[{"name":"00.sort-algorithm.ipynb","type":"file","path":"coding test/00.sort-algorithm.ipynb","slug":"coding test/sort-algorithm","locale":"$undefined","title":"정렬 알고리즘"}]},{"name":"computer science","type":"folder","path":"computer science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"computer science/00.process-vs-thread.ko.md","slug":"computer science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"python","type":"folder","path":"python","children":[{"name":"00.settings.ko.md","type":"file","path":"python/00.settings.ko.md","slug":"python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"python/01.number.ko.md","slug":"python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"python/02.string.ko.md","slug":"python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"python/03.list.ko.md","slug":"python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"python/04.tuple.ko.md","slug":"python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"python/05.dict.ko.md","slug":"python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"python/06.set.ko.md","slug":"python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"python/07.bool.ko.md","slug":"python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"python/08.statement.ko.md","slug":"python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"python/09.function.ko.md","slug":"python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"python/10.pythonic.ko.md","slug":"python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"python/11.class.ko.md","slug":"python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"python/12.dataclass.ko.md","slug":"python/dataclass","locale":"ko","title":"Python 데이터클래스"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[95228,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[779615,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js"],"default"]
+14:I[728231,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js"],"TooltipProvider"]
+15:I[663780,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[783850,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/f142722e01efbc28.js","/_next/static/chunks/93ad368b77169bd9.js","/_next/static/chunks/581e2b6f39866549.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/af336d658fd43017.js","/_next/static/chunks/25cda555832c1292.js"],"BlurFade"]
+1a:I[676913,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/f142722e01efbc28.js","/_next/static/chunks/93ad368b77169bd9.js","/_next/static/chunks/581e2b6f39866549.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/af336d658fd43017.js","/_next/static/chunks/25cda555832c1292.js"],"BlogArticleCard"]
+1d:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"IconMark"]
+1b:T42d9,<h2 id="프로세스와-스레드의-기본-개념"><a class="heading-link" aria-hidden="true" href="#프로세스와-스레드의-기본-개념">프로세스와 스레드의 기본 개념</a></h2>
+<p>프로세스와 스레드를 한마디로 정의하면 다음과 같습니다:</p>
+<table>
+<thead>
+<tr>
+<th><strong>프로세스 (Process)</strong></th>
+<th><strong>스레드 (Thread)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>운영체제로부터 자원을 할당받은 <strong>작업의 단위</strong></td>
+<td>프로세스가 할당받은 자원을 이용하는 <strong>실행 흐름의 단위</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="프로그램과-프로세스"><a class="heading-link" aria-hidden="true" href="#프로그램과-프로세스">프로그램과 프로세스</a></h2>
+<h3 id="프로그램-program"><a class="heading-link" aria-hidden="true" href="#프로그램-program">프로그램 (Program)</a></h3>
+<p>프로그램은 윈도우의 <code>*.exe</code> 파일이나 Mac의 <code>*.dmg</code> 파일과 같은 <strong>컴퓨터에서 실행할 수 있는 파일</strong>을 의미합니다. 단, 아직 <strong>파일을 실행하지 않은 상태</strong>이기 때문에 정적 프로그램(Static Program)이라고 부릅니다.</p>
+<ul>
+<li>파일이 저장 장치에 있지만 메모리에는 올라가 있지 않은 정적인 상태</li>
+<li>쉽게 말해 그냥 <strong>코드 덩어리</strong></li>
+</ul>
+<h3 id="프로세스-process"><a class="heading-link" aria-hidden="true" href="#프로세스-process">프로세스 (Process)</a></h3>
+<p>프로세스는 프로그램을 실행시켜 정적인 프로그램이 동적으로 변하여 <strong>프로그램이 돌아가고 있는 상태</strong>를 말합니다. 즉, 컴퓨터에서 <strong>작업 중인 프로그램</strong>을 의미합니다.</p>
+<ul>
+<li>메모리에 적재되고 CPU 자원을 할당받아 프로그램이 실행되고 있는 상태</li>
+<li>그 코드 덩어리를 실행한 것</li>
+</ul>
+<p>모든 프로그램은 운영체제가 실행되기 위한 메모리 공간을 할당해 줘야 실행될 수 있습니다. 프로그램을 실행하는 순간 파일은 컴퓨터 메모리에 올라가게 되고, 운영체제로부터 시스템 자원(CPU)을 할당받아 프로그램 코드를 실행시켜 우리가 서비스를 이용할 수 있게 됩니다.</p>
+<h2 id="프로세스의-자원-구조"><a class="heading-link" aria-hidden="true" href="#프로세스의-자원-구조">프로세스의 자원 구조</a></h2>
+<p>프로그램이 실행되어 프로세스가 만들어지면 운영체제로부터 메모리 공간을 할당받게 됩니다. 이 메모리 공간은 다음과 같은 4가지 영역으로 구성됩니다:</p>
+<h3 id="메모리-영역-구성"><a class="heading-link" aria-hidden="true" href="#메모리-영역-구성">메모리 영역 구성</a></h3>
+<pre><code>높은 주소
+┌─────────────────┐
+│     Stack       │ ← 동적 영역 (함수 호출 시 증가/감소)
+│        ↓        │
+│                 │
+│        ↑        │
+│      Heap       │ ← 동적 영역 (동적 할당 시 증가/감소)
+│                 │
+├─────────────────┤
+│     Data        │ ← 정적 영역 (프로그램 시작 시 크기 결정)
+│   (.data,       │
+│   .rodata,      │
+│   .bss)         │
+├─────────────────┤
+│     Code        │ ← 정적 영역 (프로그램 시작 시 크기 결정)
+│    (Text)       │
+└─────────────────┘
+낮은 주소
+</code></pre>
+<h3 id="1-코드-영역-code--text"><a class="heading-link" aria-hidden="true" href="#1-코드-영역-code--text">1. 코드 영역 (Code / Text)</a></h3>
+<ul>
+<li><strong>역할</strong>: 프로그래머가 작성한 프로그램 함수들의 코드가 CPU가 해석 가능한 기계어 형태로 저장되어 있는 영역</li>
+<li><strong>특징</strong>:
+<ul>
+<li>읽기 전용(Read-Only) 영역</li>
+<li>프로그램 시작 시 크기가 결정되는 정적 영역</li>
+<li>여러 프로세스가 같은 프로그램을 실행하면 코드 영역은 공유될 수 있음</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-데이터-영역-data"><a class="heading-link" aria-hidden="true" href="#2-데이터-영역-data">2. 데이터 영역 (Data)</a></h3>
+<ul>
+<li><strong>역할</strong>: 코드가 실행되면서 사용하는 전역 변수나 각종 데이터들이 모여있는 영역</li>
+<li><strong>특징</strong>: 프로그램 시작 시 크기가 결정되는 정적 영역</li>
+<li><strong>세부 영역</strong>:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>영역</th>
+<th>설명</th>
+<th>예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>.data</strong></td>
+<td>전역 변수 또는 static 변수 등 프로그램이 사용하는 데이터</td>
+<td><code>int global_var = 10;</code></td>
+</tr>
+<tr>
+<td><strong>.bss</strong></td>
+<td>초기값 없는 전역 변수, static 변수가 저장</td>
+<td><code>int uninitialized_var;</code></td>
+</tr>
+<tr>
+<td><strong>.rodata</strong></td>
+<td>const 같은 상수 키워드 선언된 변수나 문자열 상수가 저장</td>
+<td><code>const int MAX_SIZE = 100;</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="3-스택-영역-stack"><a class="heading-link" aria-hidden="true" href="#3-스택-영역-stack">3. 스택 영역 (Stack)</a></h3>
+<ul>
+<li><strong>역할</strong>: 지역 변수와 같은 호출한 함수가 종료되면 되돌아올 임시적인 자료를 저장하는 독립적인 공간</li>
+<li><strong>특징</strong>:
+<ul>
+<li>함수의 호출과 함께 할당되며, 함수의 호출이 완료되면 소멸</li>
+<li>LIFO (Last In First Out) 구조</li>
+<li>스택 포인터가 높은 주소에서 낮은 주소 방향으로 증가</li>
+<li>스택 영역을 초과하면 <strong>Stack Overflow</strong> 에러 발생</li>
+<li>프로세스가 실행되는 동안 크기가 늘어났다 줄어들기도 하는 동적 영역</li>
+</ul>
+</li>
+</ul>
+<p><strong>스택에 저장되는 것들:</strong></p>
+<ul>
+<li>지역 변수</li>
+<li>함수 매개변수</li>
+<li>함수의 반환 주소</li>
+<li>함수 호출 정보</li>
+</ul>
+<h3 id="4-힙-영역-heap"><a class="heading-link" aria-hidden="true" href="#4-힙-영역-heap">4. 힙 영역 (Heap)</a></h3>
+<ul>
+<li><strong>역할</strong>: 생성자, 인스턴스와 같은 동적으로 할당되는 데이터들을 위해 존재하는 공간</li>
+<li><strong>특징</strong>:
+<ul>
+<li>사용자에 의해 메모리 공간이 동적으로 할당되고 해제됨</li>
+<li>프로세스가 실행되는 동안 크기가 늘어났다 줄어들기도 하는 동적 영역</li>
+<li>스택과 반대로 낮은 주소에서 높은 주소 방향으로 증가</li>
+<li>프로그래머가 직접 관리해야 함 (메모리 누수 주의)</li>
+</ul>
+</li>
+</ul>
+<p><strong>힙에 저장되는 것들:</strong></p>
+<ul>
+<li><code>malloc()</code>, <code>new</code> 등으로 동적 할당된 메모리</li>
+<li>객체 인스턴스</li>
+<li>동적 배열</li>
+</ul>
+<h3 id="정적-영역-vs-동적-영역"><a class="heading-link" aria-hidden="true" href="#정적-영역-vs-동적-영역">정적 영역 vs 동적 영역</a></h3>
+<p>위의 그림에서 Stack과 Heap 영역이 위아래로 화살표가 표시된 것을 볼 수 있는데, 이는 다음과 같은 의미입니다:</p>
+<ul>
+<li>
+<p><strong>정적 영역 (Code, Data)</strong>:</p>
+<ul>
+<li>프로그램이 시작될 때 크기가 결정됨</li>
+<li>프로그램 실행 중 크기 변경 불가</li>
+<li>컴파일 타임에 메모리 크기 결정</li>
+</ul>
+</li>
+<li>
+<p><strong>동적 영역 (Stack, Heap)</strong>:</p>
+<ul>
+<li>프로세스가 실행되는 동안 크기가 늘어났다 줄어들기도 함</li>
+<li>런타임에 메모리 크기 결정</li>
+<li>Stack은 함수 호출에 따라, Heap은 동적 할당에 따라 크기 변경</li>
+</ul>
+</li>
+</ul>
+<h3 id="여러-프로세스의-메모리-구조"><a class="heading-link" aria-hidden="true" href="#여러-프로세스의-메모리-구조">여러 프로세스의 메모리 구조</a></h3>
+<p>프로그램이 여러 개 실행된다면 메모리에 프로세스들이 담길 주소 공간이 생성되게 되고, 각 프로세스마다 독립적인 Code, Data, Stack, Heap 공간이 만들어지게 됩니다.</p>
+<pre><code>메모리
+┌─────────────────────────┐
+│   프로세스 A              │
+│   ┌─────────────────┐   │
+│   │     Stack       │   │
+│   │      Heap       │   │
+│   │     Data        │   │
+│   │     Code        │   │
+│   └─────────────────┘   │
+├─────────────────────────┤
+│   프로세스 B              │
+│   ┌─────────────────┐   │
+│   │     Stack       │   │
+│   │      Heap       │   │
+│   │     Data        │   │
+│   │     Code        │   │
+│   └─────────────────┘   │
+└─────────────────────────┘
+</code></pre>
+<p>각 프로세스는 독립적인 메모리 공간을 가지므로, 한 프로세스의 메모리에 다른 프로세스가 직접 접근할 수 없습니다. 이는 프로세스 간 안정성과 보안을 보장합니다.</p>
+<h2 id="스레드-thread"><a class="heading-link" aria-hidden="true" href="#스레드-thread">스레드 (Thread)</a></h2>
+<h3 id="프로세스의-한계"><a class="heading-link" aria-hidden="true" href="#프로세스의-한계">프로세스의 한계</a></h3>
+<p>과거에는 프로그램을 실행할 때 프로세스 하나만을 사용했습니다. 하지만 기술이 발전됨에 따라 프로그램이 복잡해지고 다채로워짐으로써 프로세스 작업 하나만을 사용해서 프로그램을 실행하기에는 한계가 있었습니다.</p>
+<p>동일한 프로그램을 여러 개의 프로세스로 만들게 되면, 그만큼 메모리를 차지하고 CPU에서 할당받는 자원이 중복되게 됩니다. 스레드(Thread)는 이러한 프로세스 특성의 한계를 해결하기 위해 탄생했습니다.</p>
+<h3 id="스레드의-개념"><a class="heading-link" aria-hidden="true" href="#스레드의-개념">스레드의 개념</a></h3>
+<p>스레드란, 하나의 <strong>프로세스 내에서</strong> <strong>동시에 진행되는 작업 갈래, 흐름의 단위</strong>를 말합니다.</p>
+<p>예를 들어, 웹 브라우저에서 파일을 다운로드하면서 동시에 다른 웹페이지를 탐색할 수 있는 것은 하나의 프로세스 내에서 여러 스레드가 동시에 작업을 수행하기 때문입니다.</p>
+<h2 id="프로세스-vs-스레드-비교"><a class="heading-link" aria-hidden="true" href="#프로세스-vs-스레드-비교">프로세스 vs 스레드 비교</a></h2>
+<h3 id="자원-공유"><a class="heading-link" aria-hidden="true" href="#자원-공유">자원 공유</a></h3>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>프로세스</th>
+<th>스레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>메모리 공간</strong></td>
+<td>독립적인 메모리 공간 (별도의 주소 공간)</td>
+<td>프로세스의 메모리 공간 공유</td>
+</tr>
+<tr>
+<td><strong>코드/데이터/힙</strong></td>
+<td>각자 독립적으로 보유</td>
+<td>프로세스 내에서 공유</td>
+</tr>
+<tr>
+<td><strong>스택</strong></td>
+<td>각자 독립적인 스택</td>
+<td>각 스레드마다 독립적인 스택</td>
+</tr>
+<tr>
+<td><strong>레지스터</strong></td>
+<td>각자 독립적인 레지스터</td>
+<td>각 스레드마다 독립적인 레지스터</td>
+</tr>
+<tr>
+<td><strong>파일 디스크립터</strong></td>
+<td>각자 독립적으로 보유</td>
+<td>프로세스 내에서 공유</td>
+</tr>
+<tr>
+<td><strong>전역 변수</strong></td>
+<td>공유 불가</td>
+<td>공유 가능</td>
+</tr>
+</tbody>
+</table>
+<h3 id="통신-방식"><a class="heading-link" aria-hidden="true" href="#통신-방식">통신 방식</a></h3>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>프로세스</th>
+<th>스레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>통신 방법</strong></td>
+<td>IPC (Inter-Process Communication)- 파이프, 소켓, 공유 메모리 등</td>
+<td>공유 메모리 공간을 통한 직접 접근</td>
+</tr>
+<tr>
+<td><strong>통신 비용</strong></td>
+<td>높음 (컨텍스트 스위칭 비용)</td>
+<td>낮음 (같은 주소 공간 사용)</td>
+</tr>
+<tr>
+<td><strong>동기화</strong></td>
+<td>필요 없음 (독립적)</td>
+<td>필요함 (공유 자원 접근 시)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="생성-및-관리"><a class="heading-link" aria-hidden="true" href="#생성-및-관리">생성 및 관리</a></h3>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>프로세스</th>
+<th>스레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>생성 비용</strong></td>
+<td>높음 (메모리 복사 필요)</td>
+<td>낮음 (기존 프로세스 자원 공유)</td>
+</tr>
+<tr>
+<td><strong>컨텍스트 스위칭</strong></td>
+<td>느림 (메모리 공간 전환)</td>
+<td>빠름 (레지스터만 전환)</td>
+</tr>
+<tr>
+<td><strong>독립성</strong></td>
+<td>높음 (하나가 죽어도 다른 프로세스에 영향 없음)</td>
+<td>낮음 (하나가 죽으면 전체 프로세스 종료 가능)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="멀티프로세스-vs-멀티스레드"><a class="heading-link" aria-hidden="true" href="#멀티프로세스-vs-멀티스레드">멀티프로세스 vs 멀티스레드</a></h2>
+<h3 id="멀티프로세스-multi-process"><a class="heading-link" aria-hidden="true" href="#멀티프로세스-multi-process">멀티프로세스 (Multi-Process)</a></h3>
+<ul>
+<li>여러 개의 프로세스를 동시에 실행</li>
+<li>각 프로세스는 독립적인 메모리 공간을 가짐</li>
+<li>프로세스 간 통신이 어렵고 비용이 높음</li>
+<li>하나의 프로세스가 죽어도 다른 프로세스에 영향 없음</li>
+</ul>
+<p><strong>장점:</strong></p>
+<ul>
+<li>프로세스 간 독립성으로 안정성 높음</li>
+<li>하나의 프로세스 오류가 다른 프로세스에 영향 없음</li>
+</ul>
+<p><strong>단점:</strong></p>
+<ul>
+<li>메모리 사용량이 많음</li>
+<li>컨텍스트 스위칭 비용이 높음</li>
+<li>프로세스 간 통신이 복잡함</li>
+</ul>
+<h3 id="멀티스레드-multi-thread"><a class="heading-link" aria-hidden="true" href="#멀티스레드-multi-thread">멀티스레드 (Multi-Thread)</a></h3>
+<ul>
+<li>하나의 프로세스 내에서 여러 스레드를 동시에 실행</li>
+<li>스레드 간 메모리 공간을 공유</li>
+<li>스레드 간 통신이 쉽고 비용이 낮음</li>
+<li>하나의 스레드 오류가 전체 프로세스에 영향 줄 수 있음</li>
+</ul>
+<p><strong>장점:</strong></p>
+<ul>
+<li>메모리 사용량이 적음</li>
+<li>컨텍스트 스위칭이 빠름</li>
+<li>스레드 간 통신이 쉬움</li>
+<li>자원 공유가 효율적</li>
+</ul>
+<p><strong>단점:</strong></p>
+<ul>
+<li>동기화 문제 발생 가능 (Race Condition, Deadlock)</li>
+<li>하나의 스레드 오류가 전체 프로세스에 영향</li>
+<li>디버깅이 어려움</li>
+</ul>
+<h2 id="실제-사용-예시"><a class="heading-link" aria-hidden="true" href="#실제-사용-예시">실제 사용 예시</a></h2>
+<h3 id="멀티프로세스-사용-사례"><a class="heading-link" aria-hidden="true" href="#멀티프로세스-사용-사례">멀티프로세스 사용 사례</a></h3>
+<ul>
+<li>웹 브라우저의 탭 (각 탭이 독립적인 프로세스)</li>
+<li>운영체제의 여러 프로그램 동시 실행</li>
+<li>서버의 여러 워커 프로세스</li>
+</ul>
+<h3 id="멀티스레드-사용-사례"><a class="heading-link" aria-hidden="true" href="#멀티스레드-사용-사례">멀티스레드 사용 사례</a></h3>
+<ul>
+<li>웹 브라우저 내에서 파일 다운로드와 웹페이지 탐색 동시 수행</li>
+<li>워드 프로세서에서 타이핑과 자동 저장 동시 수행</li>
+<li>게임에서 렌더링과 물리 엔진 동시 처리</li>
+<li>웹 서버의 요청 처리 (각 요청을 스레드로 처리)</li>
+</ul>
+<h2 id="정리"><a class="heading-link" aria-hidden="true" href="#정리">정리</a></h2>
+<ol>
+<li><strong>프로세스</strong>: 운영체제로부터 자원을 할당받은 작업의 단위로, 독립적인 메모리 공간을 가짐</li>
+<li><strong>스레드</strong>: 프로세스 내에서 실행되는 흐름의 단위로, 프로세스의 메모리 공간을 공유</li>
+<li><strong>자원 공유</strong>: 프로세스는 독립적, 스레드는 공유 메모리 공간 사용</li>
+<li><strong>통신</strong>: 프로세스는 IPC 필요, 스레드는 공유 메모리로 직접 접근</li>
+<li><strong>선택 기준</strong>: 안정성이 중요하면 멀티프로세스, 성능과 효율성이 중요하면 멀티스레드</li>
+</ol>6:["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L16"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L17"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}]]}]}],["$","$L19",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"Computer science"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L1a","computer science/process-vs-thread",{"post":{"metadata":{"title":"프로세스와 스레드","summary":"프로세스와 스레드의 개념, 차이점, 자원 공유 방식에 대한 완전 정리","locale":"ko","createdAt":"2026-01-03T15:00:00.000Z","updatedAt":"2025-12-30T02:29:01.000Z"},"slug":"computer science/process-vs-thread","source":"$1b","type":"markdown","notebookData":"$undefined","parentFolder":"computer science"},"locale":"ko","delay":0.08}]]}],"$L1c"]}]
+d:[["$","title","0",{"children":"Computer science - Blog | 박우림"}],["$","meta","1",{"name":"description","content":"Posts in Computer science category"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"박우림"}],["$","meta","6",{"property":"og:description","content":"Frontend Developer"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io"}],["$","meta","8",{"property":"og:site_name","content":"박우림"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://woolimi.github.io/og-image.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"박우림"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"박우림"}],["$","meta","17",{"name":"twitter:description","content":"Frontend Developer"}],["$","meta","18",{"name":"twitter:image","content":"https://woolimi.github.io/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","20",{"rel":"icon","href":"/favicon.ico"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","22",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","23",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1d","24",{}]]
+9:null
+1e:I[347274,["/_next/static/chunks/ef7f7dfdb8bd52fb.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/6878d4616822326c.js","/_next/static/chunks/9d307cfe26b08874.js","/_next/static/chunks/05cb7eef185ae111.js","/_next/static/chunks/f142722e01efbc28.js","/_next/static/chunks/93ad368b77169bd9.js","/_next/static/chunks/581e2b6f39866549.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/af336d658fd43017.js","/_next/static/chunks/25cda555832c1292.js"],"default"]
+1c:null
+16:["$","$L1e",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+17:["$","$L1e",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$16:props:localeCookie","children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+18:["$","$L1e",null,{"ref":null,"href":"/ko/blog/computer science","locale":"$undefined","localeCookie":"$16:props:localeCookie","children":"Computer science","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
