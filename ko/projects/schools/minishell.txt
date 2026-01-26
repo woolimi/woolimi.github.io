@@ -1,0 +1,270 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+6:I[64725,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[64725,[],"ViewportBoundary"]
+b:I[64725,[],"MetadataBoundary"]
+d:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8e0665fef8e3c322.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"-baVF4y8lbs5bwj17co8H","c":["","ko","projects","schools","minishell"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","minishell","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8e0665fef8e3c322.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Le"}]]}]
+f:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-f243da0a008bb585.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+10:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","7121","static/chunks/7121-8019a3cbdc40a718.js","8450","static/chunks/app/%5Blocale%5D/layout-65cae4a3b74d6867.js"],"TooltipProvider"]
+11:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","7121","static/chunks/7121-8019a3cbdc40a718.js","8450","static/chunks/app/%5Blocale%5D/layout-65cae4a3b74d6867.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[85584,[],"IconMark"]
+13:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-f243da0a008bb585.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+c:[["$","title","0",{"children":"minishell | 박우림"}],["$","meta","1",{"name":"description","content":"minishell은 ecole42의 프로젝트로, 명령어 실행, 파이핑, 리다이렉션, 환경 변수 관리, 시그널 처리 등 핵심 셸 기능을 제공하는 간소화된 셸 구현체. 셸이 저수준에서 어떻게 동작하는지 이해하기 위한 교육용 프로젝트로, 프로세스 관리, 파일 디스크립터 조작, 메모리 관리 등 시스템 프로그래밍 기술을 학습한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"minishell"}],["$","meta","6",{"property":"og:description","content":"minishell은 ecole42의 프로젝트로, 명령어 실행, 파이핑, 리다이렉션, 환경 변수 관리, 시그널 처리 등 핵심 셸 기능을 제공하는 간소화된 셸 구현체. 셸이 저수준에서 어떻게 동작하는지 이해하기 위한 교육용 프로젝트로, 프로세스 관리, 파일 디스크립터 조작, 메모리 관리 등 시스템 프로그래밍 기술을 학습한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/minishell"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=minishell"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"minishell"}],["$","meta","12",{"name":"twitter:description","content":"minishell은 ecole42의 프로젝트로, 명령어 실행, 파이핑, 리다이렉션, 환경 변수 관리, 시그널 처리 등 핵심 셸 기능을 제공하는 간소화된 셸 구현체. 셸이 저수준에서 어떻게 동작하는지 이해하기 위한 교육용 프로젝트로, 프로세스 관리, 파일 디스크립터 조작, 메모리 관리 등 시스템 프로그래밍 기술을 학습한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=minishell"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L12","19",{}]]
+8:null
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L13",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L15"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"minishell"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"minishell\",\"description\":\"minishell은 ecole42의 프로젝트로, 명령어 실행, 파이핑, 리다이렉션, 환경 변수 관리, 시그널 처리 등 핵심 셸 기능을 제공하는 간소화된 셸 구현체. 셸이 저수준에서 어떻게 동작하는지 이해하기 위한 교육용 프로젝트로, 프로세스 관리, 파일 디스크립터 조작, 메모리 관리 등 시스템 프로그래밍 기술을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=minishell\",\"url\":\"https://woolimi.github.io/projects/schools/minishell\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"minishell"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"minishell은 ecole42의 프로젝트로, 명령어 실행, 파이핑, 리다이렉션, 환경 변수 관리, 시그널 처리 등 핵심 셸 기능을 제공하는 간소화된 셸 구현체. 셸이 저수준에서 어떻게 동작하는지 이해하기 위한 교육용 프로젝트로, 프로세스 관리, 파일 디스크립터 조작, 메모리 관리 등 시스템 프로그래밍 기술을 학습한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"C"}]]}],"$L16"]}],"$L17"]}]}]
+19:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-f243da0a008bb585.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+1b:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-f243da0a008bb585.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+18:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z16:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/minishell","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$18","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+1a:T1ad5,
+## 개요
+
+Minishell은 명령어 실행, 파이핑, 리다이렉션, 환경 변수 관리, 시그널 처리 등 핵심 셸 기능을 제공하는 간소화된 셸 구현체다. 셸이 저수준에서 어떻게 동작하는지 이해하기 위한 교육용 프로젝트다.
+
+## 주요 기능
+
+- ✅ **명령어 실행**: 내장 명령어와 외부 명령어 실행
+- ✅ **파이핑**: 파이프(`|`)를 사용한 명령어 체이닝
+- ✅ **리다이렉션**: 입력(`<`) 및 출력(`>`, `>>`) 리다이렉션
+- ✅ **환경 변수**: 환경 변수 관리 및 확장 (`$VAR`)
+- ✅ **따옴표 처리**: 작은따옴표, 큰따옴표, 이스케이프 시퀀스 지원
+- ✅ **시그널 처리**: `SIGINT` (Ctrl+C) 및 `SIGQUIT` (Ctrl+\) 적절한 처리
+- ✅ **명령어 구분**: 세미콜론(`;`)을 사용한 명령어 분리 지원
+- ✅ **에러 처리**: 포괄적인 에러 메시지 및 종료 코드
+
+## 빌드 방법
+
+### 사전 요구사항
+
+- GCC 컴파일러
+- Make
+- Unix 계열 운영체제 (macOS, Linux)
+
+### 컴파일
+
+```bash
+# 저장소 클론
+git clone [remote repository URL]
+
+# 프로젝트 디렉토리로 이동
+cd minishell
+
+# 프로젝트 빌드
+make
+
+# minishell 실행
+./minishell
+```
+
+### Makefile 타겟
+
+- `make` 또는 `make all`: 프로젝트 컴파일
+- `make clean`: 오브젝트 파일 제거
+- `make fclean`: 오브젝트 파일 및 실행 파일 제거
+- `make re`: 프로젝트를 처음부터 다시 빌드
+
+## 사용법
+
+컴파일 후 `./minishell`을 실행하여 셸을 시작한다. 다음과 같은 프롬프트가 표시된다:
+
+```
+MINISHELL$
+```
+
+이제 일반 셸처럼 명령어를 입력할 수 있다:
+
+```bash
+MINISHELL$ ls -la
+MINISHELL$ echo "Hello, World!"
+MINISHELL$ pwd
+MINISHELL$ cd /path/to/directory
+MINISHELL$ exit
+```
+
+## 내장 명령어
+
+다음 명령어들은 내장 명령어로 구현되어 있다 (셸에서 직접 실행):
+
+| 명령어   | 설명                    | 예제                  |
+| -------- | ----------------------- | --------------------- |
+| `echo`   | 인자를 stdout에 출력    | `echo hello world`    |
+| `cd`     | 디렉토리 변경           | `cd /home/user`       |
+| `pwd`    | 현재 작업 디렉토리 출력 | `pwd`                 |
+| `export` | 환경 변수 설정          | `export VAR=value`    |
+| `unset`  | 환경 변수 제거          | `unset VAR`           |
+| `env`    | 환경 변수 목록 표시     | `env`                 |
+| `exit`   | 셸 종료                 | `exit` 또는 `exit 42` |
+
+## 지원 기능
+
+### 파이핑
+
+여러 명령어를 연결하여 실행:
+
+```bash
+MINISHELL$ ls | grep .c
+MINISHELL$ cat file.txt | wc -l
+MINISHELL$ echo "hello" | cat
+```
+
+### 리다이렉션
+
+**입력 리다이렉션 (`<`):**
+
+```bash
+MINISHELL$ cat < file.txt
+```
+
+**출력 리다이렉션 (`>` 및 `>>`):**
+
+```bash
+MINISHELL$ echo "hello" > output.txt
+MINISHELL$ echo "world" >> output.txt
+```
+
+### 환경 변수
+
+`$VAR`를 사용하여 환경 변수 확장:
+
+```bash
+MINISHELL$ echo $HOME
+MINISHELL$ export MY_VAR=test
+MINISHELL$ echo $MY_VAR
+```
+
+### 따옴표 처리
+
+- **작은따옴표**: 리터럴 내용을 보존한다
+- **큰따옴표**: 변수 확장을 허용한다
+- **이스케이프 시퀀스**: 백슬래시(`\`)를 사용하여 특수 문자를 이스케이프한다
+
+### 명령어 구분
+
+한 줄에 여러 명령어 실행:
+
+```bash
+MINISHELL$ ls; pwd; echo done
+```
+
+### 시그널 처리
+
+- **Ctrl+C** (`SIGINT`): 현재 명령어를 중단하거나 프롬프트로 돌아간다
+- **Ctrl+\\** (`SIGQUIT`): 현재 명령어를 종료한다 (실행 중인 경우)
+
+## 프로젝트 구조
+
+```
+minishell/
+├── includes/
+│   ├── minishell.h      # 함수 선언이 포함된 메인 헤더 파일
+│   └── struct.h         # 데이터 구조 정의
+├── srcs/
+│   ├── main.c           # 진입점 및 메인 루프
+│   ├── lexer_1.c        # 토큰화 (렉싱)
+│   ├── lexer_2.c        # 렉서 헬퍼 함수
+│   ├── parser_1.c       # 명령어 파싱
+│   ├── init_cmd.c       # 명령어 리스트 초기화
+│   ├── exec_command.c   # 명령어 실행 로직
+│   ├── exec_*.c         # 내장 명령어 구현
+│   ├── pipe.c           # 파이프 구현
+│   ├── redirection.c    # I/O 리다이렉션
+│   ├── dollar_quotes.c  # 변수 확장 및 따옴표 처리
+│   ├── lst_*.c          # 연결 리스트 연산
+│   ├── free_*.c         # 메모리 관리
+│   └── error_*.c        # 에러 처리
+├── lib/
+│   └── libft/           # 커스텀 C 라이브러리 (문자열, 메모리 함수)
+├── Makefile             # 빌드 설정
+└── README.md            # 이 파일
+```
+
+### 주요 데이터 구조
+
+- **`t_minish`**: 메인 셸 상태 (명령어, 환경 변수, 토큰)
+- **`t_cmd`**: 명령어 구조 (인자, 파이프, 리다이렉션)
+- **`t_env`**: 환경 변수 연결 리스트
+- **`t_rdir`**: 리다이렉션 정보 (파일, 파일 디스크립터, 타입)
+
+## 개발 워크플로우
+
+### 1. 저장소 클론
+
+```bash
+git clone [remote repository URL]
+```
+
+### 2. 새 브랜치 생성
+
+```bash
+# 새 브랜치 생성 및 전환
+git checkout -b [branch_name]
+
+# 또는 두 단계로 수행
+git branch [branch_name]
+git checkout [branch_name]
+```
+
+### 3. 변경사항 커밋
+
+```bash
+# 모든 변경사항 스테이징
+git add -A
+
+# 설명이 포함된 커밋 메시지와 함께 커밋
+git commit -m "[commit_message]"
+
+# 원격 저장소에 푸시
+git push -u origin [branch_name]
+```
+
+### 4. Pull Request 생성
+
+GitHub에서 코드 리뷰를 위한 Pull Request를 생성한다.
+
+### 5. 메인 브랜치와 동기화
+
+변경사항이 병합된 후:
+
+```bash
+git checkout master
+git pull origin master
+```
+
+## 참고 자료
+
+### 리다이렉션과 파이프
+
+1. [셸 리다이렉션 마스터하기](https://putaindecode.io/articles/maitriser-les-redirections-shell/)
+2. [dup2() 예제](http://www.cs.loyola.edu/~jglenn/702/S2005/Examples/dup2.html)
+
+## 기술적 세부사항
+
+- **언어**: C
+- **표준**: C99
+- **컴파일 플래그**: `-Wall -Wextra -Werror`
+- **메모리 관리**: 수동 할당/해제
+- **프로세스 관리**: `fork()`, `execve()`, `wait()`, `waitpid()`
+- **파일 디스크립터**: `dup()`, `dup2()`, `pipe()`, `open()`, `close()`
+- **시그널**: `signal()`, `SIGINT`, `SIGQUIT`
+
+## 참고사항
+
+- 이 프로젝트는 교육용 프로젝트이며, 프로덕션 셸이 처리하는 모든 엣지 케이스를 처리하지 못할 수 있다
+- 일부 고급 셸 기능(작업 제어, 히스토리, 탭 완성 등)은 구현되지 않았다
+- 셸은 문자열 및 메모리 연산을 위해 커스텀 `libft` 라이브러리를 사용한다
+
+---
+
+**작성자**: wpark, froussel  
+**프로젝트**: 42 School minishell 프로젝트
+17:["$","article",null,{"children":["$","$L19",null,{"children":"$1a"}]}]
+14:["$","$L1b",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+15:["$","$L1b",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$14:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
