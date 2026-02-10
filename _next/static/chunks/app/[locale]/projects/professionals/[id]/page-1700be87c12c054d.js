@@ -1,0 +1,38 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1331,4436,4848],{49243:(e,t,r)=>{"use strict";r.d(t,{JupyterNotebookViewer:()=>h});var a=r(37296),o=r(72389),l=r(7478),n=r(89567),i=r(10048);r(42600);var d=r(47158),s=r(55337),c=r(90124),m=r(69910),u=r(76743),p=r(61958);function g({plotlyData:e}){let[t,o]=(0,d.useState)(null),[l,n]=(0,d.useState)(null);if((0,d.useEffect)(()=>{(async()=>{try{let e=await Promise.all([r.e(602),r.e(9610)]).then(r.bind(r,49610));o(()=>e.default)}catch(e){console.error("Plotly loading error:",e),n(e instanceof Error?e.message:String(e))}})()},[]),l)return(0,a.FD)("div",{className:"my-4 rounded-lg border border-red-200 bg-red-50 p-4 dark:border-red-800 dark:bg-red-950",children:[(0,a.Y)("p",{className:"mb-2 text-sm font-semibold text-red-600 dark:text-red-400",children:"Plotly 렌더링 오류"}),(0,a.Y)("p",{className:"mb-2 text-xs text-red-700 dark:text-red-300",children:l})]});if(!t)return(0,a.Y)("div",{className:"border-muted bg-muted/50 my-4 flex items-center justify-center rounded-lg border p-8",children:(0,a.Y)("p",{className:"text-muted-foreground text-sm",children:"그래프를 로드하는 중..."})});let i=e.data||[],s=e.layout||{},c=e.config||{},m={...s,paper_bgcolor:"rgba(255, 255, 255, 0)",plot_bgcolor:"rgba(255, 255, 255, 0)",font:{...s.font,color:"#000000"},title:{...s.title,font:{...s.title?.font,color:"#000000"}},xaxis:{...s.xaxis,title:{...s.xaxis?.title,font:{...s.xaxis?.title?.font,color:"#000000"}},tickfont:{...s.xaxis?.tickfont,color:"#000000"},gridcolor:"rgba(0, 0, 0, 0.1)",linecolor:"rgba(0, 0, 0, 0.2)"},yaxis:{...s.yaxis,title:{...s.yaxis?.title,font:{...s.yaxis?.title?.font,color:"#000000"}},tickfont:{...s.yaxis?.tickfont,color:"#000000"},gridcolor:"rgba(0, 0, 0, 0.1)",linecolor:"rgba(0, 0, 0, 0.2)"},legend:{...s.legend,font:{...s.legend?.font,color:"#000000"}}};return(0,a.Y)("div",{className:"my-4 w-full overflow-x-auto",children:(0,a.Y)(t,{data:i,layout:m,config:{...c,responsive:!0,displayModeBar:!0,modeBarButtonsToRemove:["lasso2d","select2d"]},style:{width:"100%",minHeight:"400px"},useResizeHandler:!0})})}function x({cell:e,index:t}){let r=e.cell_type,n=Array.isArray(e.source)?e.source.join(""):e.source||"";return"markdown"===r?(0,a.Y)("div",{className:"my-4 max-w-none",children:(0,a.Y)(s.oz,{remarkPlugins:[m.A,p.A,u.A],rehypePlugins:[c.A],components:l.R,children:n})}):"code"===r?(0,a.FD)("div",{className:"my-4",children:[(0,a.Y)("div",{className:"mb-2 flex items-center gap-2",children:null!==e.execution_count&&void 0!==e.execution_count&&(0,a.FD)("span",{className:"text-muted-foreground font-mono text-xs",children:["In [",e.execution_count,"]:"]})}),(0,a.Y)(o.N,{language:"python",children:n}),e.outputs&&e.outputs.length>0&&(0,a.Y)("div",{className:"mt-2 space-y-2",children:e.outputs.map((e,t)=>(function(e,t){if(!e)return null;let r=e.output_type;if("stream"===r){let r=e.text||[],o=Array.isArray(r)?r.join(""):r;return(0,a.Y)("div",{className:"overflow-x-auto rounded-md font-mono text-sm",style:{background:"var(--code-bg)"},children:(0,a.Y)("pre",{className:"p-3 font-bold whitespace-pre-wrap text-white",children:o})},t)}if("error"===r){let r=e.traceback||[];return(0,a.FD)("div",{className:"rounded-md border border-red-200 bg-red-50 p-3 font-mono text-sm",children:[(0,a.FD)("div",{className:"mb-1 font-semibold text-red-600",children:[e.ename,": ",e.evalue]}),r.length>0&&(0,a.Y)("pre",{className:"whitespace-pre-wrap text-red-700",children:r.join("\n")})]},t)}if("execute_result"===r||"display_data"===r){let r=e.data||{};if(r["application/vnd.plotly.v1+json"]){let e=r["application/vnd.plotly.v1+json"],o="string"==typeof e?JSON.parse(e):e;return(0,a.Y)("div",{className:"my-2",children:(0,a.Y)(g,{plotlyData:o})},t)}if(r["image/png"]){let e=Array.isArray(r["image/png"])?r["image/png"].join(""):r["image/png"];return(0,a.Y)("div",{className:"my-2",children:(0,a.Y)("img",{src:`data:image/png;base64,${e}`,alt:"Notebook output",className:"h-auto max-w-full rounded-md"})},t)}if(r["image/jpeg"]){let e=Array.isArray(r["image/jpeg"])?r["image/jpeg"].join(""):r["image/jpeg"];return(0,a.Y)("div",{className:"my-2",children:(0,a.Y)("img",{src:`data:image/jpeg;base64,${e}`,alt:"Notebook output",className:"h-auto max-w-full rounded-md"})},t)}if(r["image/svg+xml"]){let e=Array.isArray(r["image/svg+xml"])?r["image/svg+xml"].join(""):r["image/svg+xml"];return(0,a.Y)("div",{className:"my-2",dangerouslySetInnerHTML:{__html:e}},t)}if(r["text/html"]){let e=Array.isArray(r["text/html"])?r["text/html"].join(""):r["text/html"],o=r["text/plain"],l=(0,i.AH)`
+        /* pandas DataFrame 스타일 지원 */
+        .dataframe {
+          border-collapse: collapse;
+          border-spacing: 0;
+          width: 100%;
+          margin: 0;
+          font-size: 0.875rem;
+        }
+        .dataframe thead th {
+          background-color: hsl(var(--muted));
+          font-weight: 600;
+          text-align: right;
+          padding: 0.5rem;
+          border-bottom: 2px solid hsl(var(--border));
+        }
+        .dataframe tbody tr {
+          border-bottom: 1px solid hsl(var(--border));
+        }
+        .dataframe tbody tr:hover {
+          background-color: hsl(var(--muted) / 0.5);
+        }
+        .dataframe tbody td {
+          padding: 0.5rem;
+          text-align: right;
+        }
+        .dataframe tbody th {
+          padding: 0.5rem;
+          font-weight: 600;
+          text-align: left;
+        }
+        /* 다크모드 지원 */
+        @media (prefers-color-scheme: dark) {
+          .dataframe thead th {
+            background-color: hsl(var(--muted) / 0.3);
+          }
+        }
+      `;return(0,a.FD)("div",{className:"my-2",children:[(0,a.Y)("div",{className:"notebook-html-output overflow-x-auto",css:l,dangerouslySetInnerHTML:{__html:e}}),o&&(0,a.FD)("details",{className:"mt-2",children:[(0,a.Y)("summary",{className:"text-muted-foreground cursor-pointer text-xs",children:"Plain text view"}),(0,a.Y)("div",{className:"mt-1 overflow-x-auto rounded-md font-mono text-sm",style:{background:"var(--code-bg)"},children:(0,a.Y)("pre",{className:"p-3 whitespace-pre-wrap text-white",children:Array.isArray(r["text/plain"])?r["text/plain"].join(""):r["text/plain"]})})]})]},t)}if(r["text/latex"]){let e=Array.isArray(r["text/latex"])?r["text/latex"].join(""):r["text/latex"];return(0,a.Y)("div",{className:"my-2",children:(0,a.Y)(s.oz,{remarkPlugins:[p.A],rehypePlugins:[c.A],children:`$$${e}$$`})},t)}if(r["text/plain"]){let e=Array.isArray(r["text/plain"])?r["text/plain"].join(""):r["text/plain"];return(0,a.Y)("div",{className:"overflow-x-auto rounded-md font-mono text-sm",style:{background:"var(--code-bg)"},children:(0,a.Y)("pre",{className:"p-3 font-bold whitespace-pre-wrap text-white",children:e})},t)}}return null})(e,t))})]}):"raw"===r?(0,a.Y)("div",{className:"my-4 rounded-lg",style:{background:"var(--code-bg)"},children:(0,a.Y)("pre",{className:"text-foreground p-4 font-mono text-sm whitespace-pre-wrap",children:n})}):null}function h({notebook:e,className:t}){return e&&e.cells?(0,a.Y)("div",{className:(0,n.cn)("notebook-viewer",t),children:e.cells.map((e,t)=>(0,a.Y)(x,{cell:e,index:t},t))}):(0,a.Y)("div",{children:"No notebook data available"})}},86126:(e,t,r)=>{Promise.resolve().then(r.bind(r,49243)),Promise.resolve().then(r.bind(r,68708)),Promise.resolve().then(r.bind(r,26334)),Promise.resolve().then(r.bind(r,935)),Promise.resolve().then(r.bind(r,29773)),Promise.resolve().then(r.t.bind(r,12502,23))}},e=>{e.O(0,[8501,1921,9991,650,7285,8634,2061,1283,5441,6459,6176,7358],()=>e(e.s=86126)),_N_E=e.O()}]);
