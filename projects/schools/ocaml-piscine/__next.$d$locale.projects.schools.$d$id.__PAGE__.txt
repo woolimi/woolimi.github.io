@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+c:I[64725,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ocaml-piscine"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ocaml-piscine\",\"description\":\"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다\",\"image\":\"https://woolimi.github.io/og?title=ocaml-piscine\",\"url\":\"https://woolimi.github.io/projects/schools/ocaml-piscine\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"ocaml-piscine"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"ocaml-piscine은 ecole42의 OCaml 교육 과정으로, 9개 모듈을 통해 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습하는 프로젝트. 재귀, 고차 함수, 타입 시스템, 변형체, 모듈, 객체 지향 프로그래밍, 모노이드, 모나드 등 함수형 프로그래밍의 핵심 개념을 실습 문제를 통해 익힌다. 각 모듈은 독립적으로 빌드하고 실행할 수 있으며, Vagrant를 통한 개발 환경 설정을 제공한다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"OCaml"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Functional Programming"}]]}]
+9:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ocaml-piscine","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$9","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+b:T19b2,
+## 개요
+
+이 프로젝트는 OCaml 언어의 기초부터 고급 개념까지 체계적으로 학습할 수 있도록 구성된 실습 자료다. 각 모듈은 특정 주제에 집중하며, 실습 문제를 통해 개념을 이해하고 적용할 수 있다.
+
+## 환경 설정
+
+### Vagrant를 사용한 개발 환경 설정
+
+프로젝트에는 Vagrant를 사용한 개발 환경 설정이 포함되어 있다.
+
+```bash
+# VM 시작
+vagrant up
+
+# VM 접속
+vagrant ssh
+
+# VM 종료 및 삭제
+vagrant destroy
+```
+
+Vagrantfile은 Ubuntu 22.04 LTS를 기반으로 하며, 다음을 자동으로 설치:
+
+- OCaml 컴파일러
+- OPAM (OCaml Package Manager)
+- OCaml 4.14.0
+
+### 수동 설치
+
+Vagrant를 사용하지 않는 경우, 다음 명령어로 OCaml을 설치할 수 있다:
+
+```bash
+# Ubuntu/Debian
+sudo apt-get install ocaml opam
+
+# macOS (Homebrew)
+brew install ocaml opam
+
+# OPAM 초기화
+opam init
+eval $(opam env)
+```
+
+## 프로젝트 구조
+
+```
+ocaml-piscine/
+├── module00/          # 기초 함수 및 제어 구조
+├── module01/          # 재귀 및 고차 함수
+├── module02/          # 리스트 및 시퀀스
+├── module03/          # 타입 및 변형체
+├── module04/          # 참조, 예외, 파일 I/O
+├── module05/          # 스크립트 및 모듈
+├── module06/          # 객체 지향 프로그래밍
+├── module07/          # 복잡한 타입 시스템 (화학 분자 모델링)
+├── module08/          # 고급 개념 (모듈, 모노이드, 모나드)
+└── Vagrantfile        # 개발 환경 설정
+```
+
+각 연습 문제는 다음 구조를 따릅니다:
+
+```
+exXX/
+├── [function_name].ml    # 구현 파일
+├── main.ml              # 테스트 파일
+└── Makefile             # 빌드 설정
+```
+
+## 모듈별 설명
+
+### Module 00: 기초 함수 및 제어 구조
+
+기본적인 함수 작성과 제어 구조를 학습한다.
+
+- **ex00**: `ft_test_sign` - 숫자의 부호 판별
+- **ex01**: `ft_countdown` - 카운트다운 함수
+- **ex02**: `ft_power` - 거듭제곱 계산
+- **ex03**: `ft_print_alphabet` - 알파벳 출력
+- **ex04**: `ft_print_comb` - 조합 출력
+- **ex05**: `ft_print_rev` - 문자열 역순 출력
+- **ex06**: `ft_string_all` - 문자열 검증
+- **ex07**: `ft_is_palindrome` - 회문 판별
+- **ex08**: `ft_rot_n` - ROT-N 암호화
+- **ex09**: `ft_print_comb2` - 두 자리 조합 출력
+
+### Module 01: 재귀 및 고차 함수
+
+재귀 함수와 고차 함수의 개념을 학습한다.
+
+- **ex00**: `repeat_x` - 문자열 반복
+- **ex01**: `repeat_string` - 문자열 반복 (고차 함수)
+- **ex02**: `ackermann` - 아커만 함수 (비원시 재귀 함수)
+- **ex03**: `tak` - Takeuchi 함수
+- **ex04**: `fibonacci` - 피보나치 수열
+- **ex05**: `hofstadter_mf` - 호프스태터 함수
+- **ex06**: `iter` - 반복 함수
+- **ex07**: `converges` - 수렴 함수
+- **ex08**: `ft_sum` - 합계 계산
+- **ex09**: `leibniz_pi` - 라이프니츠 파이 공식
+
+### Module 02: 리스트 및 시퀀스
+
+리스트 조작과 시퀀스 처리에 대해 학습한다.
+
+- **ex00**: `encode` - 인코딩 함수
+- **ex01**: `crossover` - 교차 함수
+- **ex02**: `gray` - 그레이 코드
+- **ex03**: `sequence` - 시퀀스 생성
+- **ex04**: `nucleotides` - 뉴클레오티드 처리
+- **ex05**: `helix` - 나선 구조
+- **ex06**: `rna` - RNA 처리
+
+### Module 03: 타입 및 변형체
+
+OCaml의 타입 시스템과 변형체(variant types)를 학습한다.
+
+- **ex00**: `Color` - 카드 색상 타입 (Spade, Heart, Diamond, Club)
+- **ex01**: `Value` - 카드 값 타입
+- **ex02**: `Card` - 카드 타입 조합
+
+### Module 04: 참조, 예외, 파일 I/O
+
+변경 가능한 상태, 예외 처리, 파일 입출력을 학습한다.
+
+- **ex00**: `micronap` - 마이크로 슬립
+- **ex01**: `ft_ref` - 참조 타입 사용
+- **ex02**: `jokes` - 예외 처리
+- **ex03**: `jokes` - 파일에서 읽기
+- **ex04**: `sum` - 파일 처리
+- **ex05**: `eu_dist` - 유클리드 거리 계산
+- **ex06**: `example_of_file` - CSV 파일 처리
+
+### Module 05: 스크립트 및 모듈
+
+OCaml 스크립트 작성과 모듈 시스템을 학습한다.
+
+- **ex00**: `StringSet` - Set 모듈 사용
+- **ex01-ex04**: 다양한 모듈 및 스크립트 예제
+
+### Module 06: 객체 지향 프로그래밍
+
+OCaml의 객체 지향 프로그래밍 기능을 학습한다.
+
+- **ex00**: `people` - 기본 클래스
+- **ex01**: `doctor` - 클래스 상속
+- **ex02**: `dalek` - 다중 클래스 상속
+
+### Module 07: 복잡한 타입 시스템
+
+화학 분자 모델링을 통한 복잡한 타입 시스템을 학습한다.
+
+- **ex00**: `atom` - 원자 클래스 (Hydrogen, Carbon, Oxygen 등)
+- **ex01**: `molecule` - 분자 클래스
+- **ex02**: `alkane` - 알칸 분자
+- **ex03**: `reaction` - 화학 반응
+- **ex04**: `alkane_combustion` - 알칸 연소 반응
+- **ex05**: 고급 반응 처리
+
+### Module 08: 고급 개념
+
+모듈, 모노이드, 모나드 등 고급 함수형 프로그래밍 개념을 학습한다.
+
+- **ex00**: `Watchtower` - 모듈 (시계 모노이드)
+- **ex01**: `App` - 애플리케이션 모듈
+- **ex02**: `Monoid` - 모노이드 구현
+- **ex03**: `Monad` - 모나드 구현
+- **ex04**: 고급 모나드 패턴
+
+## 빌드 및 실행
+
+각 연습 문제는 독립적으로 빌드하고 실행할 수 있다.
+
+### 빌드
+
+```bash
+cd moduleXX/exYY
+make
+```
+
+### 실행
+
+```bash
+./run.out
+```
+
+### 정리
+
+```bash
+make clean    # 빌드 산출물 삭제
+make re       # 정리 후 재빌드
+```
+
+### 예제
+
+```bash
+# Module 00의 첫 번째 연습 문제 실행
+cd module00/ex00
+make
+./run.out
+```
+
+## 학습 순서
+
+1. **Module 00**: OCaml의 기본 문법과 함수 작성법을 익힌다.
+2. **Module 01**: 재귀와 고차 함수를 통해 함수형 프로그래밍의 핵심을 학습한다.
+3. **Module 02**: 리스트와 시퀀스를 다루는 방법을 학습한다.
+4. **Module 03**: OCaml의 강력한 타입 시스템을 이해한다.
+5. **Module 04**: 변경 가능한 상태와 예외 처리, 파일 I/O를 학습한다.
+6. **Module 05**: 모듈 시스템과 스크립트 작성법을 학습한다.
+7. **Module 06**: OCaml의 객체 지향 프로그래밍 기능을 학습한다.
+8. **Module 07**: 복잡한 타입 시스템을 실제 문제에 적용한다.
+9. **Module 08**: 함수형 프로그래밍의 고급 개념을 학습한다.
+
+## 참고 자료
+
+- [OCaml 공식 문서](https://ocaml.org/docs)
+- [Real World OCaml](https://dev.realworldocaml.org/)
+- [OCaml Tutorial](https://ocaml.org/docs/up-and-running)
+6:["$","article",null,{"children":["$","$La",null,{"children":"$b"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

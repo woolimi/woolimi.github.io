@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+c:I[64725,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"get_next_line"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"get_next_line\",\"description\":\"get_next_line은 파일 디스크립터에서 한 줄씩 읽어오는 함수를 구현하는 프로젝트. 정적 변수를 활용하여 여러 파일을 동시에 처리할 수 있으며, 버퍼를 효율적으로 사용하여 파일을 읽는다\",\"image\":\"https://woolimi.github.io/og?title=get_next_line\",\"url\":\"https://woolimi.github.io/projects/schools/get_next_line\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"get_next_line"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"get_next_line은 파일 디스크립터에서 한 줄씩 읽어오는 함수를 구현하는 프로젝트. 정적 변수를 활용하여 여러 파일을 동시에 처리할 수 있으며, 버퍼를 효율적으로 사용하여 파일을 읽는다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"C"}]]}]
+9:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/get_next_line","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$9","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+b:T16b3,
+## 프로젝트 소개
+
+`get_next_line`은 파일 디스크립터(fd)에서 한 줄씩 읽어오는 함수다. 이 함수는 여러 번 호출되어도 이전에 읽은 내용을 기억하고, 다음 줄을 반환한다. `BUFFER_SIZE` 매크로를 통해 읽기 버퍼 크기를 조절할 수 있다.
+
+### 주요 특징
+
+- 정적 변수를 사용하여 여러 파일 디스크립터 처리
+- 버퍼 크기에 관계없이 한 줄씩 안전하게 읽기
+- 메모리 누수 방지 및 안전한 메모리 관리
+- 두 가지 구현 방식 제공 (문자열 기반, 링크드 리스트 기반)
+
+## 구현 버전
+
+이 프로젝트는 두 가지 버전의 구현을 제공한다:
+
+### Version 1 (기본 버전)
+
+- **파일**: `get_next_line.c`, `get_next_line_utils.c`, `get_next_line.h`
+- **구조**: 정적 문자열 캐시 사용
+- **특징**: 단순하고 직관적인 구현
+
+### Version 2 (링크드 리스트 버전)
+
+- **파일**: `get_next_line_v2.c`, `get_next_line_utils_v2.c`, `get_next_line_v2.h`
+- **구조**: 링크드 리스트를 사용한 캐시 관리
+- **특징**: 더 효율적인 메모리 관리
+
+## 파일 구조
+
+```
+get_next_line/
+├── get_next_line.h              # Version 1 헤더 파일
+├── get_next_line.c              # Version 1 메인 함수
+├── get_next_line_utils.c        # Version 1 유틸리티 함수
+├── get_next_line_v2.h           # Version 2 헤더 파일
+├── get_next_line_v2.c           # Version 2 메인 함수
+├── get_next_line_utils_v2.c     # Version 2 유틸리티 함수
+├── main.c                       # 테스트용 메인 함수
+└── 42cursus_gnl_tests/         # 테스트 디렉토리
+```
+
+## 함수 설명
+
+### Version 1
+
+#### `get_next_line(int fd, char **line)`
+
+- **설명**: 파일 디스크립터에서 한 줄을 읽어오는 함수
+- **매개변수**:
+  - `fd`: 읽을 파일 디스크립터
+  - `line`: 읽은 줄을 저장할 포인터의 주소
+- **반환값**:
+  - `1`: 성공적으로 한 줄을 읽은 경우
+  - `0`: 파일의 끝에 도달한 경우 (EOF)
+  - `-1`: 오류가 발생한 경우
+
+#### 유틸리티 함수
+
+- `ft_strlen(const char *s)`: 문자열 길이를 반환하는 함수
+- `ft_strjoin(char *s1, char *s2, ssize_t r_size)`: 두 문자열을 결합하는 함수
+- `ft_substr(char const *s, unsigned int start, ssize_t len)`: 문자열의 일부를 추출하는 함수
+
+### Version 2
+
+#### `get_next_line(int fd, char **line)`
+
+- **설명**: 링크드 리스트를 사용하여 파일 디스크립터에서 한 줄을 읽어오는 함수
+- **매개변수**: Version 1과 동일
+- **반환값**: Version 1과 동일
+
+#### 유틸리티 함수
+
+- `ft_strdup2(char *str, ssize_t len)`: 문자열을 복사하는 함수
+- `lst_add(t_cache **cache, char *content)`: 링크드 리스트에 노드를 추가하는 함수
+- `hasnl(char *s)`: 문자열에 개행 문자가 있는지 확인하는 함수
+- `lst_hasnl(t_cache *cache)`: 링크드 리스트에 개행 문자가 있는지 확인하는 함수
+
+## 컴파일 및 사용법
+
+### 컴파일
+
+Version 1을 사용하는 경우:
+
+```bash
+gcc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line.c get_next_line_utils.c main.c -o gnl
+```
+
+Version 2를 사용하는 경우:
+
+```bash
+gcc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line_v2.c get_next_line_utils_v2.c main.c -o gnl
+```
+
+### 사용 예시
+
+```c
+#include "get_next_line.h"
+#include <fcntl.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int fd;
+    char *line;
+    int ret;
+
+    fd = open("test.txt", O_RDONLY);
+    if (fd < 0)
+        return (1);
+
+    while ((ret = get_next_line(fd, &line)) > 0)
+    {
+        printf("%s\n", line);
+        free(line);
+    }
+
+    if (ret == 0)
+        printf("%s\n", line);  // 마지막 줄 출력
+    free(line);
+    close(fd);
+    return (0);
+}
+```
+
+### 표준 입력에서 읽기
+
+```bash
+./gnl
+# 또는
+echo -e "line1\nline2\nline3" | ./gnl
+```
+
+## 동작 원리
+
+### Version 1 (문자열 기반)
+
+1. **초기화**: 정적 변수 `cache`를 빈 문자열로 초기화
+2. **읽기**: `read()` 함수로 `BUFFER_SIZE`만큼 읽어서 버퍼에 저장
+3. **결합**: 읽은 내용을 기존 `cache`와 결합
+4. **개행 확인**: `cache`에 개행 문자(`\n`)가 있는지 확인
+5. **추출**: 개행 문자가 있으면 그 전까지를 `line`에 저장하고, 나머지는 `cache`에 유지
+6. **반복**: 파일의 끝까지 반복
+
+### Version 2 (링크드 리스트 기반)
+
+1. **초기화**: 정적 링크드 리스트 `cache`를 NULL로 초기화
+2. **읽기**: `read()` 함수로 읽은 내용을 링크드 리스트 노드로 추가
+3. **개행 확인**: 링크드 리스트를 순회하며 개행 문자 확인
+4. **추출**: 개행 문자 전까지의 모든 노드 내용을 `line`에 결합
+5. **정리**: 사용한 노드는 제거하고, 개행 문자 이후 내용은 첫 노드에 재배치
+6. **반복**: 파일의 끝까지 반복
+
+### 메모리 관리
+
+- 각 버전은 메모리 누수를 방지하기 위해 사용한 메모리를 적절히 해제한다
+- `line`에 할당된 메모리는 호출자가 `free()`로 해제해야 한다
+- 정적 변수는 프로그램 종료 시까지 유지되며, 여러 파일 디스크립터를 처리할 수 있다
+
+## 주의사항
+
+- `BUFFER_SIZE`는 컴파일 시 `-D BUFFER_SIZE=n` 옵션으로 정의해야 한다
+- `line`에 할당된 메모리는 사용 후 반드시 `free()`로 해제해야 한다
+- 여러 파일 디스크립터를 동시에 처리할 수 있지만, 현재 구현은 단일 정적 변수를 사용한다
+- 파일 디스크립터가 유효하지 않거나 `line`이 NULL인 경우 오류를 반환한다
+
+## 테스트
+
+프로젝트에는 `42cursus_gnl_tests` 디렉토리가 포함되어 있어 다양한 테스트 케이스를 실행할 수 있다.
+6:["$","article",null,{"children":["$","$La",null,{"children":"$b"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

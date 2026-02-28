@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T2828,
+## 사용하는 패키지
+
+- **NumPy**: 격자 생성 및 배열 연산을 위한 필수 라이브러리
+- **Matplotlib**: 데이터 분포와 결정 경계를 시각화하는 도구
+- **seaborn**: 통계 데이터 시각화를 위한 고수준 라이브러리 (Matplotlib 기반)
+- **pandas**: 데이터 분석 및 조작을 위한 테이블 형태 데이터 구조 제공
+- **sklearn (scikit-learn)**: 머신러닝 알고리즘과 데이터 전처리, 평가 도구 제공
+- **opencv**: 컴퓨터 비전 및 이미지 처리 작업을 위한 라이브러리
+- **plotly.express**: 인터랙티브한 데이터 시각화를 위한 고수준 라이브러리
+
+---
+
+## 머신러닝
+
+### 회귀 문제 해결 방법
+
+머신러닝에서 회귀 문제는 연속적인 숫자 값을 예측하는 작업이다. 예를 들어 집 가격, 온도, 매출액 등과 같이 정확한 숫자로 표현되는 값을 예측할 때 사용한다.
+
+먼저 데이터를 준비하고 전처리 과정을 거친다. 이 과정에서 결측치 처리, 이상치 제거, 데이터 타입 변환 등이 이루어진다. 다음으로 문제에 적합한 특성을 선택하거나 추출한다. 특성 선택은 모델 성능에 큰 영향을 미치므로 중요하다.
+
+모델 선택 단계에서는 데이터의 특성에 따라 적절한 알고리즘을 선택한다. 선형 관계가 명확하면 선형 회귀를, 비선형 패턴이 있으면 다항 회귀를 사용한다. 과적합을 방지하기 위해 정규화가 필요하면 릿지나 라쏘 회귀를, 복잡한 비선형 관계를 학습해야 하면 랜덤 포레스트 같은 트리 기반 모델을 선택한다.
+
+모델 학습 후에는 MSE(평균 제곱 오차), RMSE(평균 제곱근 오차), R²(결정 계수) 등의 지표로 성능을 평가한다. 성능이 만족스럽지 않으면 하이퍼파라미터를 조정하여 다시 학습하는 반복 과정을 거친다. 최종적으로 성능이 만족스러우면 모델을 배포한다.
+
+```mermaid
+flowchart TD
+    A[데이터 준비] --> B[데이터 전처리]
+    B --> C[특성 선택/추출]
+    C --> D[회귀 모델 선택]
+    D --> E{모델 종류}
+    E -->|선형 관계| F[선형 회귀<br/>Linear Regression]
+    E -->|비선형 관계| G[다항 회귀<br/>Polynomial Regression]
+    E -->|정규화 필요| H[릿지/라쏘 회귀<br/>Ridge/Lasso Regression]
+    E -->|트리 기반| I[랜덤 포레스트 회귀<br/>Random Forest Regressor]
+    F --> J[모델 학습]
+    G --> J
+    H --> J
+    I --> J
+    J --> K[모델 평가<br/>MSE, RMSE, R²]
+    K --> L{성능 만족?}
+    L -->|아니오| M[하이퍼파라미터 튜닝]
+    M --> J
+    L -->|예| N[최종 모델 배포]
+```
+
+### 분류 문제 해결 방법
+
+머신러닝에서 분류 문제는 데이터를 미리 정의된 카테고리로 분류하는 작업이다. 예를 들어 타이타닉 생존자 예측, 와인 품질 분류, 신용 대출 승인 여부, 붓꽃 종류 분류 등과 같이 구조화된 데이터의 특성을 기반으로 분류할 때 사용한다.
+
+회귀와 마찬가지로 데이터 준비와 전처리 과정을 거친다. 분류 문제에서는 특히 클래스 불균형 문제를 확인하고 해결하는 것이 중요하다. 특성 선택/추출 단계에서는 분류에 유용한 특성을 찾아내는 것이 핵심이다.
+
+모델 선택 단계에서는 데이터의 특성과 문제의 복잡도에 따라 적절한 알고리즘을 선택한다. 선형 경계로 분리가 가능하면 로지스틱 회귀를, 복잡한 비선형 경계가 필요하면 의사결정 트리나 랜덤 포레스트 같은 트리 기반 모델을 사용한다. SVM은 고차원 데이터에서 효과적이며, 나이브 베이즈는 텍스트 분류 같은 확률 기반 문제에 적합하다.
+
+모델 학습 후에는 Accuracy(정확도), Precision(정밀도), Recall(재현율), F1 점수 등으로 성능을 평가한다. 특히 불균형 데이터셋에서는 Accuracy만으로는 부족하므로 Precision과 Recall을 함께 확인해야 한다. 성능이 만족스럽지 않으면 하이퍼파라미터 튜닝을 통해 모델을 개선하고, 최종적으로 만족스러운 성능을 얻으면 모델을 배포한다.
+
+```mermaid
+flowchart TD
+    A[데이터 준비] --> B[데이터 전처리]
+    B --> C[특성 선택/추출]
+    C --> D[분류 모델 선택]
+    D --> E{모델 종류}
+    E -->|선형 경계| F[로지스틱 회귀<br/>Logistic Regression]
+    E -->|트리 기반| G[의사결정 트리<br/>Decision Tree]
+    E -->|앙상블| H[랜덤 포레스트<br/>Random Forest]
+    E -->|서포트 벡터| I[SVM<br/>Support Vector Machine]
+    E -->|확률 기반| J[나이브 베이즈<br/>Naive Bayes]
+    F --> K[모델 학습]
+    G --> K
+    H --> K
+    I --> K
+    J --> K
+    K --> L[모델 평가<br/>Accuracy, Precision, Recall, F1]
+    L --> M{성능 만족?}
+    M -->|아니오| N[하이퍼파라미터 튜닝]
+    N --> K
+    M -->|예| O[최종 모델 배포]
+```
+
+## 딥러닝
+
+### 회귀 문제 해결 방법
+
+딥러닝에서 회귀 문제는 신경망(Neural Network)을 통해 연속적인 값을 예측한다. 머신러닝과 달리 딥러닝은 여러 층의 뉴런을 통해 복잡한 비선형 관계를 학습할 수 있다는 장점이 있다.
+
+먼저 데이터를 준비하고 정규화나 표준화를 통해 데이터의 스케일을 조정한다. 이는 신경망 학습의 안정성과 수렴 속도에 큰 영향을 미친다.
+
+신경망 구조 설계 단계에서는 입력층, 은닉층, 출력층을 구성한다. 입력층은 특성의 개수에 맞춰 뉴런 수를 설정하고, 은닉층은 Dense Layer(완전 연결층)를 여러 개 쌓아 복잡한 패턴을 학습할 수 있게 한다. 출력층은 회귀 문제의 특성상 **단일 뉴런 하나로 구성**하며, **활성화 함수를 사용하지 않거나 선형 활성화를 사용**한다. 이는 연속적인 값을 그대로 출력하기 위함이다.
+
+손실 함수 선택은 모델 학습의 핵심이다. MSE는 큰 오차에 더 큰 페널티를 주므로 이상치에 민감하고, MAE는 모든 오차를 동일하게 처리하여 이상치에 강건하다. Huber Loss는 작은 오차는 제곱으로, 큰 오차는 절댓값으로 처리하여 두 방법의 장점을 결합한다. 옵티마이저는 Adam, SGD, RMSprop 등 중에서 선택하며, 각각 학습률 조정 방식이 다르다.
+
+모델 컴파일 후 학습을 진행하고, 검증 데이터로 성능을 평가한다. 성능이 만족스럽지 않으면 학습률, 배치 크기, 레이어 수 등의 하이퍼파라미터를 조정하여 다시 학습한다. 이 과정을 반복하여 최적의 모델을 찾아 배포한다.
+
+```mermaid
+flowchart TD
+    A[데이터 준비] --> B[데이터 전처리<br/>정규화/표준화]
+    B --> C[신경망 구조 설계]
+    C --> D[입력층 정의]
+    D --> E[은닉층 구성<br/>Dense Layers]
+    E --> F[출력층 구성<br/>단일 뉴런, 선형 활성화]
+    F --> G[손실 함수 선택<br/>MSE, MAE, Huber Loss]
+    G --> H[옵티마이저 선택<br/>Adam, SGD, RMSprop]
+    H --> I[모델 컴파일]
+    I --> J[모델 학습<br/>fit 함수]
+    J --> K[검증 데이터로 평가]
+    K --> L{성능 만족?}
+    L -->|아니오| M[하이퍼파라미터 조정<br/>학습률, 배치 크기, 레이어 수]
+    M --> J
+    L -->|예| N[최종 모델 저장 및 배포]
+```
+
+### 분류 문제 해결 방법
+
+딥러닝에서 분류 문제는 신경망을 통해 데이터를 카테고리로 분류한다. 이미지 분류, 텍스트 분류, 음성 인식 등 다양한 분야에서 사용되며, 복잡한 패턴을 학습할 수 있어 높은 성능을 달성할 수 있다.
+
+데이터 준비 후 정규화/표준화를 수행하고, 레이블을 One-Hot Encoding으로 변환한다. 이는 범주형 데이터를 신경망이 처리할 수 있는 숫자 형태로 변환하는 과정이다.
+
+신경망 구조 설계 단계에서는 입력층, 은닉층, 출력층을 구성한다. 은닉층은 Dense Layer에 활성화 함수(ReLU, Tanh 등)를 적용하여 비선형성을 추가한다. 출력층 구성은 분류 유형에 따라 달라진다.
+
+**이진 분류**(예: 스팸/정상)의 경우 출력층에 단일 뉴런을 사용하고 **Sigmoid 활성화 함수**를 적용한다. Sigmoid는 출력값을 0과 1 사이로 압축하여 확률로 해석할 수 있게 한다. 손실 함수는 **Binary Crossentropy**를 사용한다.
+
+**다중 분류**(예: 고양이/강아지/새)의 경우 출력층의 뉴런 수를 클래스 개수와 동일하게 설정하고 **Softmax 활성화 함수**를 적용한다. Softmax는 모든 출력값의 합이 1이 되도록 정규화하여 각 클래스에 대한 확률을 제공한다. 손실 함수는 **Categorical Crossentropy**를 사용한다.
+
+옵티마이저 선택 후 모델을 컴파일하고 학습을 진행한다. 검증 데이터로 성능을 평가하며, 필요시 학습률, 배치 크기, 레이어 수, 드롭아웃 등의 하이퍼파라미터를 조정한다. 드롭아웃은 과적합을 방지하는 정규화 기법으로, 학습 중 일부 뉴런을 무작위로 비활성화한다. 최종적으로 성능이 만족스러우면 모델을 저장하고 배포한다.
+
+```mermaid
+flowchart TD
+    A[데이터 준비] --> B[데이터 전처리<br/>정규화/표준화]
+    B --> C[레이블 인코딩<br/>One-Hot Encoding]
+    C --> D[신경망 구조 설계]
+    D --> E[입력층 정의]
+    E --> F[은닉층 구성<br/>Dense Layers + 활성화 함수]
+    F --> G[출력층 구성]
+    G --> H{분류 유형}
+    H -->|이진 분류| I[단일 뉴런<br/>Sigmoid 활성화]
+    H -->|다중 분류| J[뉴런 수 = 클래스 수<br/>Softmax 활성화]
+    I --> K[손실 함수 선택<br/>Binary Crossentropy]
+    J --> L[손실 함수 선택<br/>Categorical Crossentropy]
+    K --> M[옵티마이저 선택<br/>Adam, SGD, RMSprop]
+    L --> M
+    M --> N[모델 컴파일]
+    N --> O[모델 학습<br/>fit 함수]
+    O --> P[검증 데이터로 평가]
+    P --> Q{성능 만족?}
+    Q -->|아니오| R[하이퍼파라미터 조정<br/>학습률, 배치 크기, 레이어 수, 드롭아웃]
+    R --> O
+    Q -->|예| S[최종 모델 저장 및 배포]
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Intro"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Intro\",\"description\":\"머신러닝과 딥러닝에서 회귀와 분류 문제를 해결하는 전체 워크플로우를 순서도와 함께 설명한다. 데이터 전처리부터 모델 선택, 학습, 평가, 배포까지의 과정과 각 단계에서 고려해야 할 사항들을 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Intro\",\"url\":\"https://woolimi.github.io/blog/AI/intro\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Intro"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

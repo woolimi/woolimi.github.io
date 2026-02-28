@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+7:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+9:I[64725,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"DB","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB/MySQL","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"MySQL","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"MySQL 연산자"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"MySQL 연산자\",\"description\":\"MySQL 비교연산자와 논리연산자 정리\",\"image\":\"https://woolimi.github.io/og?title=MySQL 연산자\",\"url\":\"https://woolimi.github.io/blog/DB/MySQL/operators\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"MySQL 연산자"}],"$L4"]}]}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+8:Tbdf,
+## 비교 연산자
+
+| 연산자                | 설명                         | 예시                                      |
+| --------------------- | ---------------------------- | ----------------------------------------- |
+| `=`                   | 같음                         | `WHERE `age` = 25`                        |
+| `!=` 또는 `<>`        | 같지 않음                    | `WHERE `age` != 25`                       |
+| `<`                   | 작음                         | `WHERE `age` < 25`                        |
+| `>`                   | 큼                           | `WHERE `age` > 25`                        |
+| `<=`                  | 작거나 같음                  | `WHERE `age` <= 25`                       |
+| `>=`                  | 크거나 같음                  | `WHERE `age` >= 25`                       |
+| `IS NULL`             | NULL 값 확인                 | `WHERE `email` IS NULL`                   |
+| `IS NOT NULL`         | NULL이 아닌 값 확인          | `WHERE `email` IS NOT NULL`               |
+| `BETWEEN ... AND ...` | 범위 내 값 확인 (양쪽 포함)  | `WHERE `age` BETWEEN 20 AND 30`           |
+| `IN (...)`            | 목록에 포함된 값 확인        | `WHERE `status` IN ('active', 'pending')` |
+| `NOT IN (...)`        | 목록에 포함되지 않은 값 확인 | `WHERE `status` NOT IN ('deleted')`       |
+| `LIKE`                | 패턴 매칭 (부분 일치)        | `WHERE `name` LIKE '김%'`                 |
+| `NOT LIKE`            | 패턴 매칭 실패               | `WHERE `name` NOT LIKE '김%'`             |
+| `REGEXP` 또는 `RLIKE` | 정규식 매칭                  | `WHERE `email` REGEXP '^[a-z]+@'`         |
+
+### LIKE 패턴
+
+- `%`: 0개 이상의 문자 (예: `'김%'` → '김'으로 시작)
+- `_`: 정확히 1개의 문자 (예: `'김_'` → '김' + 1글자)
+
+## 논리 연산자
+
+| 연산자           | 설명                                   | 예시                                              |
+| ---------------- | -------------------------------------- | ------------------------------------------------- |
+| `AND` 또는 `&&`  | 모든 조건이 참이어야 함                | `WHERE `age`> 20 AND`status` = 'active'`          |
+| `OR` 또는 `\|\|` | 하나 이상의 조건이 참이면 됨           | `WHERE `status`= 'active' OR`status` = 'pending'` |
+| `NOT` 또는 `!`   | 조건을 반전                            | `WHERE NOT `status` = 'deleted'`                  |
+| `XOR`            | 하나만 참이어야 함 (둘 다 참이면 거짓) | `WHERE `age`> 20 XOR`status` = 'active'`          |
+
+**우선순위**: `NOT` > `AND` > `OR` > `XOR`
+
+## NULL 비교 주의사항
+
+`=` 연산자로는 NULL을 비교할 수 없고, `IS NULL` 또는 `IS NOT NULL`을 사용해야 한다.
+
+```sql
+-- 잘못된 예시 (항상 NULL 반환)
+SELECT * FROM `users` WHERE `email` = NULL;
+
+-- 올바른 예시
+SELECT * FROM `users` WHERE `email` IS NULL;
+SELECT * FROM `users` WHERE `email` IS NOT NULL;
+```
+4:["$","article",null,{"children":["$","$L7",null,{"children":"$8"}]}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

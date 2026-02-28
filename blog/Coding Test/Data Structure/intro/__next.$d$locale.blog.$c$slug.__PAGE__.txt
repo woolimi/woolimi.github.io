@@ -1,0 +1,478 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Coding Test","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Coding Test","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Coding Test/Data Structure","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Data Structure","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"자료구조 개념정리"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"자료구조 개념정리\",\"description\":\"배열, 링크드리스트, 스택, 큐, 트리, 힙, 해시, 그래프 등 주요 자료구조의 개념과 Python 구현 예제를 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=자료구조 개념정리\",\"url\":\"https://woolimi.github.io/blog/Coding Test/Data Structure/intro\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"자료구조 개념정리"}]
+9:T2d25,
+## 배열 (Array)
+
+배열은 연속된 메모리 공간에 저장된 동일한 타입의 데이터 집합이다. 인덱스를 통해 O(1) 시간에 접근할 수 있지만, 삽입/삭제 시 O(n) 시간이 걸린다.
+
+### 특징
+
+- **접근**: O(1) - 인덱스로 직접 접근
+- **검색**: O(n) - 선형 검색 필요
+- **삽입**: O(n) - 요소 이동 필요
+- **삭제**: O(n) - 요소 이동 필요
+
+### Python 예제
+
+```python
+# Python 리스트는 동적 배열로 구현됨
+arr = [1, 2, 3, 4, 5]
+
+# 접근: O(1)
+print(arr[0])  # 1
+
+# 삽입: O(n)
+arr.insert(2, 10)  # [1, 2, 10, 3, 4, 5]
+
+# 삭제: O(n)
+arr.remove(10)  # [1, 2, 3, 4, 5]
+
+# 검색: O(n)
+index = arr.index(3)  # 2
+```
+
+## 링크드리스트 (Linked List)
+
+링크드리스트는 노드들이 포인터로 연결된 자료구조이다. 각 노드는 데이터와 다음 노드를 가리키는 포인터를 포함한다. 삽입/삭제는 O(1)이지만 접근은 O(n)이다.
+
+### 특징
+
+- **접근**: O(n) - 순차 탐색 필요
+- **검색**: O(n) - 순차 탐색 필요
+- **삽입**: O(1) - 포인터만 변경
+- **삭제**: O(1) - 포인터만 변경
+
+### Python 예제
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        current = self.head
+        while current.next:
+            current = current.next
+        current.next = new_node
+
+    def prepend(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+
+    def delete(self, data):
+        if not self.head:
+            return
+        if self.head.data == data:
+            self.head = self.head.next
+            return
+        current = self.head
+        while current.next:
+            if current.next.data == data:
+                current.next = current.next.next
+                return
+            current = current.next
+
+    def display(self):
+        elements = []
+        current = self.head
+        while current:
+            elements.append(current.data)
+            current = current.next
+        return elements
+
+# 사용 예제
+ll = LinkedList()
+ll.append(1)
+ll.append(2)
+ll.append(3)
+ll.prepend(0)
+print(ll.display())  # [0, 1, 2, 3]
+ll.delete(2)
+print(ll.display())  # [0, 1, 3]
+```
+
+## 스택 (Stack)
+
+스택은 LIFO(Last In First Out) 원칙을 따르는 자료구조이다. 한쪽 끝에서만 삽입과 삭제가 이루어진다.
+
+### 특징
+
+- **push**: O(1) - 맨 위에 추가
+- **pop**: O(1) - 맨 위에서 제거
+- **peek**: O(1) - 맨 위 요소 확인
+
+### Python 예제
+
+```python
+class Stack:
+    def __init__(self):
+        self.items = []
+
+    def push(self, item):
+        self.items.append(item)
+
+    def pop(self):
+        if self.is_empty():
+            return None
+        return self.items.pop()
+
+    def peek(self):
+        if self.is_empty():
+            return None
+        return self.items[-1]
+
+    def is_empty(self):
+        return len(self.items) == 0
+
+    def size(self):
+        return len(self.items)
+
+# 사용 예제
+stack = Stack()
+stack.push(1)
+stack.push(2)
+stack.push(3)
+print(stack.peek())  # 3
+print(stack.pop())   # 3
+print(stack.pop())   # 2
+```
+
+## 큐 (Queue)
+
+큐는 FIFO(First In First Out) 원칙을 따르는 자료구조이다. 한쪽 끝에서 삽입, 다른 쪽 끝에서 삭제가 이루어진다.
+
+### 특징
+
+- **enqueue**: O(1) - 뒤에 추가
+- **dequeue**: O(1) - 앞에서 제거
+- **front**: O(1) - 앞 요소 확인
+
+### Python 예제
+
+```python
+class Queue:
+    def __init__(self):
+        self.items = []
+
+    def enqueue(self, item):
+        self.items.append(item)
+
+    def dequeue(self):
+        if self.is_empty():
+            return None
+        return self.items.pop(0)
+
+    def front(self):
+        if self.is_empty():
+            return None
+        return self.items[0]
+
+    def is_empty(self):
+        return len(self.items) == 0
+
+    def size(self):
+        return len(self.items)
+
+# 사용 예제
+queue = Queue()
+queue.enqueue(1)
+queue.enqueue(2)
+queue.enqueue(3)
+print(queue.front())  # 1
+print(queue.dequeue())  # 1
+print(queue.dequeue())  # 2
+```
+
+## 트리 (Tree)
+
+트리는 노드들이 계층 구조로 연결된 자료구조이다. 루트 노드에서 시작하여 각 노드는 여러 자식 노드를 가질 수 있다.
+
+### 이진 트리 (Binary Tree)
+
+각 노드가 최대 2개의 자식을 가지는 트리이다.
+
+### 특징
+
+- **검색**: O(log n) - 균형 트리인 경우
+- **삽입**: O(log n) - 균형 트리인 경우
+- **삭제**: O(log n) - 균형 트리인 경우
+
+### Python 예제
+
+```python
+class TreeNode:
+    def __init__(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
+
+class BinaryTree:
+    def __init__(self):
+        self.root = None
+
+    def insert(self, data):
+        if not self.root:
+            self.root = TreeNode(data)
+        else:
+            self._insert(self.root, data)
+
+    def _insert(self, node, data):
+        if data < node.data:
+            if node.left is None:
+                node.left = TreeNode(data)
+            else:
+                self._insert(node.left, data)
+        else:
+            if node.right is None:
+                node.right = TreeNode(data)
+            else:
+                self._insert(node.right, data)
+
+    def inorder(self, node):
+        if node:
+            self.inorder(node.left)
+            print(node.data, end=' ')
+            self.inorder(node.right)
+
+    def preorder(self, node):
+        if node:
+            print(node.data, end=' ')
+            self.preorder(node.left)
+            self.preorder(node.right)
+
+    def postorder(self, node):
+        if node:
+            self.postorder(node.left)
+            self.postorder(node.right)
+            print(node.data, end=' ')
+
+# 사용 예제
+tree = BinaryTree()
+tree.insert(5)
+tree.insert(3)
+tree.insert(7)
+tree.insert(2)
+tree.insert(4)
+tree.insert(6)
+tree.insert(8)
+
+print("Inorder:", end=' ')
+tree.inorder(tree.root)  # 2 3 4 5 6 7 8
+print("\nPreorder:", end=' ')
+tree.preorder(tree.root)  # 5 3 2 4 7 6 8
+print("\nPostorder:", end=' ')
+tree.postorder(tree.root)  # 2 4 3 6 8 7 5
+```
+
+## 힙 (Heap)
+
+힙은 완전 이진 트리 기반의 우선순위 큐 자료구조이다. 최소 힙은 부모가 자식보다 작고, 최대 힙은 부모가 자식보다 크다.
+
+### 특징
+
+- **삽입**: O(log n)
+- **삭제**: O(log n)
+- **최소/최대값 접근**: O(1)
+
+### Python 예제
+
+```python
+import heapq
+
+# Python의 heapq 모듈은 최소 힙을 제공
+heap = []
+
+# 삽입: O(log n)
+heapq.heappush(heap, 5)
+heapq.heappush(heap, 3)
+heapq.heappush(heap, 7)
+heapq.heappush(heap, 1)
+
+print(heap)  # [1, 3, 7, 5] - 최소값이 맨 앞
+
+# 최소값 제거: O(log n)
+min_val = heapq.heappop(heap)
+print(min_val)  # 1
+print(heap)  # [3, 5, 7]
+
+# 최소값 확인: O(1)
+print(heap[0])  # 3
+
+# 최대 힙 구현 (음수 사용)
+max_heap = []
+heapq.heappush(max_heap, -5)
+heapq.heappush(max_heap, -3)
+heapq.heappush(max_heap, -7)
+max_val = -heapq.heappop(max_heap)
+print(max_val)  # 7
+```
+
+## 해시 (Hash)
+
+해시 테이블은 키-값 쌍을 저장하는 자료구조이다. 해시 함수를 사용하여 키를 인덱스로 변환하여 O(1) 평균 시간에 접근할 수 있다.
+
+### 특징
+
+- **삽입**: O(1) 평균, O(n) 최악
+- **검색**: O(1) 평균, O(n) 최악
+- **삭제**: O(1) 평균, O(n) 최악
+
+### Python 예제
+
+```python
+# Python의 dict는 해시 테이블로 구현됨
+hash_map = {}
+
+# 삽입: O(1)
+hash_map['apple'] = 5
+hash_map['banana'] = 3
+hash_map['cherry'] = 8
+
+# 검색: O(1)
+print(hash_map['apple'])  # 5
+print(hash_map.get('banana'))  # 3
+print(hash_map.get('grape', 0))  # 0 (키가 없으면 기본값 반환)
+
+# 삭제: O(1)
+del hash_map['cherry']
+print(hash_map)  # {'apple': 5, 'banana': 3}
+
+# 해시 충돌 처리 예제 (체이닝 방식)
+class HashTable:
+    def __init__(self, size=10):
+        self.size = size
+        self.table = [[] for _ in range(size)]
+
+    def _hash(self, key):
+        return hash(key) % self.size
+
+    def insert(self, key, value):
+        index = self._hash(key)
+        for pair in self.table[index]:
+            if pair[0] == key:
+                pair[1] = value
+                return
+        self.table[index].append([key, value])
+
+    def get(self, key):
+        index = self._hash(key)
+        for pair in self.table[index]:
+            if pair[0] == key:
+                return pair[1]
+        return None
+
+    def delete(self, key):
+        index = self._hash(key)
+        for i, pair in enumerate(self.table[index]):
+            if pair[0] == key:
+                del self.table[index][i]
+                return
+
+# 사용 예제
+ht = HashTable()
+ht.insert('apple', 5)
+ht.insert('banana', 3)
+print(ht.get('apple'))  # 5
+ht.delete('banana')
+print(ht.get('banana'))  # None
+```
+
+## 그래프 (Graph)
+
+그래프는 정점(Vertex)과 간선(Edge)으로 구성된 자료구조이다. 정점들 간의 관계를 표현하는 조직도로 그래프는 정점마다 간선이 없을수도 있고 있을수도 있으며 루트 노드, 부모와 자식이라는 개념이 존재하지 않는 부분에서 트리와 다르다.
+
+- 정점(Vertex): 노드(node)라고도 하며, 정점에는 데이터가 저장된다.
+- 간선(Edge): 노드간의 관계를 나타낸다.
+
+### 특징
+
+- **인접 리스트**: 공간 O(V + E), 간선 확인 O(degree)
+- **인접 행렬**: 공간 O(V²), 간선 확인 O(1)
+
+### Python 예제
+
+```python
+from collections import defaultdict
+
+class Graph:
+    def __init__(self):
+        self.graph = defaultdict(list)
+
+    def add_edge(self, u, v):
+        self.graph[u].append(v)
+        # 무방향 그래프인 경우
+        self.graph[v].append(u)
+
+    def dfs(self, start, visited=None):
+        if visited is None:
+            visited = set()
+        visited.add(start)
+        print(start, end=' ')
+
+        for neighbor in self.graph[start]:
+            if neighbor not in visited:
+                self.dfs(neighbor, visited)
+
+    def bfs(self, start):
+        visited = set()
+        queue = [start]
+        visited.add(start)
+
+        while queue:
+            vertex = queue.pop(0)
+            print(vertex, end=' ')
+
+            for neighbor in self.graph[vertex]:
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    queue.append(neighbor)
+
+# 사용 예제
+g = Graph()
+g.add_edge(0, 1)
+g.add_edge(0, 2)
+g.add_edge(1, 2)
+g.add_edge(2, 3)
+g.add_edge(3, 4)
+
+print("DFS:", end=' ')
+g.dfs(0)  # 0 1 2 3 4
+print("\nBFS:", end=' ')
+g.bfs(0)  # 0 1 2 3 4
+```
+
+## 자료구조 비교
+
+| 자료구조     | 접근     | 검색     | 삽입     | 삭제     | 공간 복잡도 |
+| ------------ | -------- | -------- | -------- | -------- | ----------- |
+| 배열         | O(1)     | O(n)     | O(n)     | O(n)     | O(n)        |
+| 링크드리스트 | O(n)     | O(n)     | O(1)     | O(1)     | O(n)        |
+| 스택         | O(n)     | O(n)     | O(1)     | O(1)     | O(n)        |
+| 큐           | O(n)     | O(n)     | O(1)     | O(1)     | O(n)        |
+| 이진 트리    | O(log n) | O(log n) | O(log n) | O(log n) | O(n)        |
+| 힙           | O(1)\*   | O(n)     | O(log n) | O(log n) | O(n)        |
+| 해시 테이블  | O(1)\*   | O(1)\*   | O(1)\*   | O(1)\*   | O(n)        |
+| 그래프       | O(V+E)   | O(V+E)   | O(1)     | O(1)     | O(V+E)      |
+
+\*평균 시간 복잡도
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

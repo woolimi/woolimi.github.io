@@ -1,0 +1,386 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+7:I[64725,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[64725,[],"ViewportBoundary"]
+c:I[64725,[],"MetadataBoundary"]
+e:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","blog","Docker","useful-commands"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","Docker/useful-commands","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"}]},{"name":"Imitation Learning","type":"folder","path":"AI/Imitation Learning","children":[{"name":"00.concept.ko.md","type":"file","path":"AI/Imitation Learning/00.concept.ko.md","slug":"AI/Imitation Learning/concept","locale":"ko","title":"모방학습 (Imitation Learning) 개념"},{"name":"01.so-101.ko.md","type":"file","path":"AI/Imitation Learning/01.so-101.ko.md","slug":"AI/Imitation Learning/so-101","locale":"ko","title":"LeRobot 맥 설정 방법"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"03.machine-learning.ko.md","type":"file","path":"AI/03.machine-learning.ko.md","slug":"AI/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"},{"name":"06.filter.ko.ipynb","type":"file","path":"AI/06.filter.ko.ipynb","slug":"AI/filter","locale":"ko","title":"신호 필터처리"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"C","type":"folder","path":"C","children":[{"name":"00.literal-vs-string.ko.md","type":"file","path":"C/00.literal-vs-string.ko.md","slug":"C/literal-vs-string","locale":"ko","title":"C 문자열 리터럴과 문자열"},{"name":"01.memory-string-functions.ko.md","type":"file","path":"C/01.memory-string-functions.ko.md","slug":"C/memory-string-functions","locale":"ko","title":"C 메모리 및 문자열 함수"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"00.basic.ko.md","type":"file","path":"ROS/00.basic.ko.md","slug":"ROS/basic","locale":"ko","title":"ROS2 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+14:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+15:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+1a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+1c:I[85584,[],"IconMark"]
+1b:T268a,
+## 컨테이너 관리
+
+### 컨테이너 목록 확인
+
+```bash
+docker ps                    # 실행 중인 컨테이너
+docker ps -a                 # 모든 컨테이너 (종료된 것 포함)
+docker ps -l                 # 마지막으로 실행한 컨테이너
+docker ps -q                 # 컨테이너 ID만 출력
+docker ps -a -q              # 모든 컨테이너 ID만 출력
+```
+
+### 컨테이너 실행
+
+```bash
+docker run <이미지명>                    # 컨테이너 실행
+docker run -it <이미지명> /bin/bash      # 인터랙티브 모드로 실행
+docker run -d <이미지명>                 # 백그라운드로 실행
+docker run --name <이름> <이미지명>      # 이름 지정하여 실행
+docker run -p 8080:80 <이미지명>         # 포트 매핑 (호스트:컨테이너)
+docker run -v /host:/container <이미지명> # 볼륨 마운트
+```
+
+### 컨테이너 중지/시작/재시작
+
+```bash
+docker stop <컨테이너ID>                 # 컨테이너 중지
+docker start <컨테이너ID>                # 중지된 컨테이너 시작
+docker restart <컨테이너ID>              # 컨테이너 재시작
+docker pause <컨테이너ID>                # 컨테이너 일시정지
+docker unpause <컨테이너ID>              # 일시정지 해제
+```
+
+### 컨테이너 접속
+
+```bash
+docker exec -it <컨테이너ID> /bin/bash   # 실행 중인 컨테이너에 접속
+docker attach <컨테이너ID>               # 컨테이너에 연결 (exit 시 종료됨)
+```
+
+### 컨테이너 삭제
+
+```bash
+docker rm <컨테이너ID>                   # 컨테이너 삭제
+docker rm -f <컨테이너ID>                # 실행 중인 컨테이너 강제 삭제
+docker rm $(docker ps -a -q)             # 모든 컨테이너 삭제
+docker container prune                   # 중지된 모든 컨테이너 삭제
+```
+
+### 컨테이너 정보 확인
+
+```bash
+docker inspect <컨테이너ID>              # 컨테이너 상세 정보
+docker logs <컨테이너ID>                 # 컨테이너 로그 확인
+docker logs -f <컨테이너ID>              # 로그 실시간 확인 (follow)
+docker logs --tail 100 <컨테이너ID>      # 마지막 100줄만 확인
+docker top <컨테이너ID>                  # 컨테이너 내부 프로세스 확인
+docker stats <컨테이너ID>                # 컨테이너 리소스 사용량 확인
+docker stats                              # 모든 컨테이너 리소스 사용량
+```
+
+---
+
+## 이미지 관리
+
+### 이미지 목록 확인
+
+```bash
+docker images                             # 이미지 목록
+docker images -a                          # 모든 이미지 (중간 이미지 포함)
+docker images --filter "dangling=true"    # 태그 없는 이미지만
+```
+
+### 이미지 다운로드
+
+```bash
+docker pull <이미지명>:<태그>             # 이미지 다운로드
+docker pull ubuntu:24.04                 # 예시
+```
+
+### 이미지 삭제
+
+```bash
+docker rmi <이미지ID>                     # 이미지 삭제
+docker rmi <이미지명>:<태그>              # 이름으로 삭제
+docker rmi -f <이미지ID>                  # 강제 삭제
+docker rmi $(docker images -q)            # 모든 이미지 삭제
+docker image prune                        # 사용하지 않는 이미지 삭제
+docker image prune -a                     # 모든 사용하지 않는 이미지 삭제
+```
+
+### 이미지 정보 확인
+
+```bash
+docker inspect <이미지ID>                 # 이미지 상세 정보
+docker history <이미지ID>                 # 이미지 생성 이력
+```
+
+### 이미지 태그/이름 변경
+
+```bash
+docker tag <기존이미지> <새이미지명>:<태그>  # 이미지 태그 생성
+docker tag ubuntu:24.04 my-ubuntu:latest    # 예시
+```
+
+---
+
+## 파일 복사
+
+### 컨테이너 ↔ 호스트 파일 복사
+
+```bash
+# 컨테이너에서 호스트로
+docker cp <컨테이너ID>:<컨테이너경로> <호스트경로>
+docker cp mycontainer:/app/data.txt ./data.txt
+
+# 호스트에서 컨테이너로
+docker cp <호스트경로> <컨테이너ID>:<컨테이너경로>
+docker cp ./data.txt mycontainer:/app/data.txt
+```
+
+---
+
+## 네트워크 관리
+
+### 네트워크 목록 확인
+
+```bash
+docker network ls                         # 네트워크 목록
+docker network inspect <네트워크명>       # 네트워크 상세 정보
+```
+
+### 네트워크 생성/삭제
+
+```bash
+docker network create <네트워크명>        # 네트워크 생성
+docker network rm <네트워크명>            # 네트워크 삭제
+docker network prune                      # 사용하지 않는 네트워크 삭제
+```
+
+### 컨테이너를 네트워크에 연결
+
+```bash
+docker network connect <네트워크명> <컨테이너ID>  # 네트워크 연결
+docker network disconnect <네트워크명> <컨테이너ID> # 네트워크 연결 해제
+```
+
+---
+
+## 볼륨 관리
+
+### 볼륨 목록 확인
+
+```bash
+docker volume ls                          # 볼륨 목록
+docker volume inspect <볼륨명>            # 볼륨 상세 정보
+```
+
+### 볼륨 생성/삭제
+
+```bash
+docker volume create <볼륨명>             # 볼륨 생성
+docker volume rm <볼륨명>                 # 볼륨 삭제
+docker volume prune                       # 사용하지 않는 볼륨 삭제
+```
+
+---
+
+## 시스템 관리
+
+### 시스템 정보 확인
+
+```bash
+docker info                               # Docker 시스템 정보
+docker version                            # Docker 버전 정보
+docker system df                          # 디스크 사용량 확인
+docker system events                      # Docker 이벤트 실시간 확인
+```
+
+### 시스템 정리
+
+```bash
+docker system prune                        # 사용하지 않는 모든 리소스 삭제
+docker system prune -a                     # 모든 사용하지 않는 리소스 삭제 (이미지 포함)
+docker system prune -a --volumes           # 볼륨까지 모두 삭제
+```
+
+---
+
+## 이미지 빌드
+
+### Dockerfile로 이미지 빌드
+
+```bash
+docker build -t <이미지명>:<태그> .       # 현재 디렉토리의 Dockerfile로 빌드
+docker build -t myapp:latest .            # 예시
+docker build -f <Dockerfile경로> -t <이미지명> .  # 특정 Dockerfile 지정
+```
+
+### 빌드 캐시 없이 빌드
+
+```bash
+docker build --no-cache -t <이미지명> .   # 캐시 사용 안 함
+```
+
+---
+
+## 컨테이너 이미지 저장/로드
+
+### 이미지 저장
+
+```bash
+docker save -o <파일명>.tar <이미지명>    # 이미지를 tar 파일로 저장
+docker save ubuntu:24.04 > ubuntu.tar     # 예시
+```
+
+### 이미지 로드
+
+```bash
+docker load -i <파일명>.tar               # tar 파일에서 이미지 로드
+docker load < ubuntu.tar                  # 예시
+```
+
+---
+
+## Docker Compose (참고)
+
+### 기본 명령어
+
+```bash
+docker compose up                         # 서비스 시작
+docker compose up -d                      # 백그라운드로 시작
+docker compose down                       # 서비스 중지 및 삭제
+docker compose ps                         # 실행 중인 서비스 확인
+docker compose logs                       # 로그 확인
+docker compose logs -f                    # 로그 실시간 확인
+docker compose exec <서비스명> <명령어>   # 서비스에 명령 실행
+docker compose build                      # 이미지 빌드
+docker compose pull                       # 이미지 다운로드
+```
+
+---
+
+## 유용한 조합 명령어
+
+### 모든 컨테이너 중지
+
+```bash
+docker stop $(docker ps -q)
+```
+
+### 모든 컨테이너와 이미지 삭제
+
+```bash
+docker rm -f $(docker ps -a -q) && docker rmi -f $(docker images -q)
+```
+
+### 컨테이너 이름으로 실행/삭제
+
+```bash
+docker run --name my-container <이미지명>
+docker rm my-container
+```
+
+### 포트 포워딩 예시
+
+```bash
+docker run -p 8080:80 nginx               # nginx를 8080 포트로 접속
+docker run -p 3000:3000 node-app          # Node.js 앱을 3000 포트로 접속
+```
+
+### 환경 변수 전달
+
+```bash
+docker run -e VAR1=value1 -e VAR2=value2 <이미지명>
+docker run --env-file .env <이미지명>     # .env 파일에서 환경 변수 로드
+```
+
+---
+
+## 디버깅 및 문제 해결
+
+### 컨테이너 내부 프로세스 확인
+
+```bash
+docker top <컨테이너ID>                   # 실행 중인 프로세스 확인
+docker exec <컨테이너ID> ps aux           # 프로세스 목록
+```
+
+### 컨테이너 리소스 모니터링
+
+```bash
+docker stats                              # 모든 컨테이너 리소스 사용량
+docker stats <컨테이너ID>                 # 특정 컨테이너만
+docker stats --no-stream                  # 한 번만 출력
+```
+
+### 컨테이너 상세 정보 확인
+
+```bash
+docker inspect <컨테이너ID> | grep IPAddress  # IP 주소만 확인
+docker inspect --format='{{.NetworkSettings.IPAddress}}' <컨테이너ID>
+```
+
+### 컨테이너 로그 확인
+
+```bash
+docker logs <컨테이너ID>                  # 전체 로그
+docker logs --tail 50 <컨테이너ID>        # 마지막 50줄
+docker logs -f <컨테이너ID>               # 실시간 로그
+docker logs --since 10m <컨테이너ID>      # 10분 전부터의 로그
+```
+
+---
+
+## 팁
+
+### 1. 컨테이너 이름 지정
+
+컨테이너 실행 시 이름을 지정하면 ID 대신 이름으로 관리할 수 있다:
+
+```bash
+docker run --name my-app <이미지명>
+docker stop my-app
+docker rm my-app
+```
+
+### 2. 자동 삭제 옵션
+
+컨테이너 종료 시 자동으로 삭제되도록 설정:
+
+```bash
+docker run --rm <이미지명>
+```
+
+### 3. 포트 매핑 확인
+
+```bash
+docker port <컨테이너ID>                  # 컨테이너 포트 매핑 확인
+```
+
+### 4. 컨테이너 이름 변경
+
+```bash
+docker rename <기존이름> <새이름>
+```
+
+### 5. 이미지 검색
+
+```bash
+docker search <키워드>                    # Docker Hub에서 이미지 검색
+docker search nginx
+```
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L16",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L17"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Docker 유용한 명령어"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Docker 유용한 명령어\",\"description\":\"Docker 컨테이너와 이미지를 관리하는 데 유용한 명령어들을 카테고리별로 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Docker 유용한 명령어\",\"url\":\"https://woolimi.github.io/blog/Docker/useful-commands\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Docker 유용한 명령어"}],["$","article",null,{"children":["$","$L1a",null,{"children":"$1b"}]}]]}]}]
+d:[["$","title","0",{"children":"Docker 유용한 명령어 | 박우림"}],["$","meta","1",{"name":"description","content":"Docker 컨테이너와 이미지를 관리하는 데 유용한 명령어들을 카테고리별로 정리한다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"Docker 유용한 명령어"}],["$","meta","6",{"property":"og:description","content":"Docker 컨테이너와 이미지를 관리하는 데 유용한 명령어들을 카테고리별로 정리한다."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/Docker/useful-commands"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=Docker%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%AA%85%EB%A0%B9%EC%96%B4"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Docker 유용한 명령어"}],["$","meta","12",{"name":"twitter:description","content":"Docker 컨테이너와 이미지를 관리하는 데 유용한 명령어들을 카테고리별로 정리한다."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=Docker%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%AA%85%EB%A0%B9%EC%96%B4"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1c","19",{}]]
+9:null
+1d:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+17:["$","$L1d",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+18:["$","$L1d",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$17:props:localeCookie","children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+19:["$","$L1d",null,{"ref":null,"href":"/ko/blog/Docker","locale":"$undefined","localeCookie":"$17:props:localeCookie","children":"Docker","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

@@ -1,0 +1,176 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+7:I[64725,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[64725,[],"ViewportBoundary"]
+c:I[64725,[],"MetadataBoundary"]
+e:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","blog","AI","LLM","prompt-engineering-4"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","AI/LLM/prompt-engineering-4","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"}]},{"name":"Imitation Learning","type":"folder","path":"AI/Imitation Learning","children":[{"name":"00.concept.ko.md","type":"file","path":"AI/Imitation Learning/00.concept.ko.md","slug":"AI/Imitation Learning/concept","locale":"ko","title":"모방학습 (Imitation Learning) 개념"},{"name":"01.so-101.ko.md","type":"file","path":"AI/Imitation Learning/01.so-101.ko.md","slug":"AI/Imitation Learning/so-101","locale":"ko","title":"LeRobot 맥 설정 방법"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"03.machine-learning.ko.md","type":"file","path":"AI/03.machine-learning.ko.md","slug":"AI/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"},{"name":"06.filter.ko.ipynb","type":"file","path":"AI/06.filter.ko.ipynb","slug":"AI/filter","locale":"ko","title":"신호 필터처리"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"C","type":"folder","path":"C","children":[{"name":"00.literal-vs-string.ko.md","type":"file","path":"C/00.literal-vs-string.ko.md","slug":"C/literal-vs-string","locale":"ko","title":"C 문자열 리터럴과 문자열"},{"name":"01.memory-string-functions.ko.md","type":"file","path":"C/01.memory-string-functions.ko.md","slug":"C/memory-string-functions","locale":"ko","title":"C 메모리 및 문자열 함수"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"00.basic.ko.md","type":"file","path":"ROS/00.basic.ko.md","slug":"ROS/basic","locale":"ko","title":"ROS2 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+14:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+15:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[85584,[],"IconMark"]
+d:[["$","title","0",{"children":"Prompt Engineering 고급 기법 2 | 박우림"}],["$","meta","1",{"name":"description","content":"Multi-modal CoT와 Graph 프롬프팅 등 다양한 형태의 정보를 활용하는 고급 프롬프트 엔지니어링 기법을 설명한다. 이미지, 텍스트, 지식 그래프를 활용한 추론 기법을 정리한다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"Prompt Engineering 고급 기법 2"}],["$","meta","6",{"property":"og:description","content":"Multi-modal CoT와 Graph 프롬프팅 등 다양한 형태의 정보를 활용하는 고급 프롬프트 엔지니어링 기법을 설명한다. 이미지, 텍스트, 지식 그래프를 활용한 추론 기법을 정리한다."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/AI/LLM/prompt-engineering-4"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=Prompt%20Engineering%20%EA%B3%A0%EA%B8%89%20%EA%B8%B0%EB%B2%95%202"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Prompt Engineering 고급 기법 2"}],["$","meta","12",{"name":"twitter:description","content":"Multi-modal CoT와 Graph 프롬프팅 등 다양한 형태의 정보를 활용하는 고급 프롬프트 엔지니어링 기법을 설명한다. 이미지, 텍스트, 지식 그래프를 활용한 추론 기법을 정리한다."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=Prompt%20Engineering%20%EA%B3%A0%EA%B8%89%20%EA%B8%B0%EB%B2%95%202"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L16","19",{}]]
+9:null
+17:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+1c:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+1d:T1b39,
+## Multi-modal CoT 프롬프팅
+
+Multi-modal CoT 프롬프팅은 이미지와 텍스트를 함께 활용하여 문제를 해결하는 기법이다. 시각적 정보와 언어적 정보를 통합적으로 처리할 수 있는 AI 모델의 능력을 활용하여 더욱 풍부하고 정확한 문제 해결을 가능하게 한다.
+
+### 특징
+
+- **다중 모달 처리**: 이미지와 텍스트를 동시에 분석
+- **단계별 추론**: CoT 방식으로 이미지 분석 과정을 단계별로 진행
+- **시각적 이해**: 이미지의 내용을 이해하고 설명할 수 있음
+
+### 작동 원리
+
+1. **이미지 분석**: 이미지에서 관련 정보를 추출
+2. **단계별 처리**: CoT 방식으로 분석 과정을 단계별로 진행
+3. **통합 추론**: 이미지 정보와 텍스트 정보를 결합하여 답변 생성
+
+### 예시
+
+**프롬프트:**
+
+```
+첨부 이미지를 분석하여 고양이를 찾아 빨간색 상자로 표시하고, 고양이의 품종을 설명해 주세요.
+[이미지: 강아지와 고양이가 함께 있는 사진]
+
+분석 과정:
+1. 이미지에서 고양이를 찾습니다.
+2. 고양이에 빨간색 상자를 그려 표시합니다.
+3. 고양이의 특징을 분석하여 품종을 파악합니다.
+4. 고양이의 품종과 그 근거를 설명합니다.
+```
+
+**예상 출력:**
+
+```
+분석 과정:
+1. 이미지를 분석한 결과, 강아지 옆에 턱시도 무늬의 고양이가 있습니다.
+2. 고양이를 빨간색 상자로 표시했습니다. [이미지: 빨간색 상자로 고양이가 강조된 사진]
+3. 고양이의 특징을 살펴보면, 검은색과 하얀색의 대비되는 털 색, 짧은 털, 긴 몸통과 다리가 특징입니다. 이는 턱시도 고양이의 전형적인 모습입니다.
+4. 이 고양이는 턱시도 고양이로 보입니다. 턱시도 고양이는 검은색과 하얀색의 털 색이 마치 턱시도를 입은 것처럼 대비되는 것이 특징이며, short hair 종에 속합니다. 긴 몸통과 다리를 가지고 있어 우아한 자태를 자랑하죠.
+```
+
+### Multi-modal CoT 활용
+
+Multi-modal CoT는 다음과 같은 상황에서 효과적이다:
+
+- 이미지 분석 및 설명
+- 시각적 질의응답
+- 이미지 기반 문제 해결
+- 다중 모달 콘텐츠 생성
+
+## Graph 프롬프팅
+
+Graph 프롬프팅은 지식 그래프(Knowledge Graph)를 활용하여 문제를 해결하는 기법이다. 지식 그래프는 개념들 간의 관계를 노드와 에지로 표현한 것으로, 방대한 양의 정보를 구조화하여 저장할 수 있다. Graph 프롬프팅은 이러한 지식 그래프를 활용하여 복잡한 질의에 대한 답변을 생성할 수 있다.
+
+### 특징
+
+- **구조화된 지식**: 노드와 에지로 표현된 구조화된 정보 활용
+- **관계 추론**: 개념 간의 관계를 통해 추론 수행
+- **효율적 검색**: 방대한 지식 베이스에서 관련 정보를 효과적으로 추출
+
+### 지식 그래프 구조
+
+지식 그래프는 다음과 같은 구조로 이루어져 있다:
+
+- **노드(Node)**: 엔티티(개체)를 나타냄 (예: 사람, 장소, 개념)
+- **에지(Edge)**: 노드 간의 관계를 나타냄 (예: "작성하다", "소속되다", "수상하다")
+
+### 작동 원리
+
+1. **키워드 추출**: 질문에서 검색 키워드를 추출
+2. **그래프 탐색**: 지식 그래프에서 관련 노드와 에지를 탐색
+3. **관계 추론**: 노드 간의 관계를 통해 답변 생성
+4. **통합 응답**: 탐색한 정보를 바탕으로 최종 답변 생성
+
+### 예시
+
+**프롬프트:**
+
+```
+아래 질문에 대해 지식 그래프를 활용하여 답변을 생성해 주세요.
+질문: 알버트 아인슈타인의 업적과 그가 받은 수상 내역을 알려주세요.
+지식 그래프 검색 키워드: 알버트 아인슈타인, 업적, 수상
+```
+
+**예상 출력:**
+
+```
+지식 그래프 검색 결과:
+- 알버트 아인슈타인 노드
+- 업적 에지: 상대성 이론, 광전효과 설명, 브라운 운동 이론
+- 수상 에지: 노벨 물리학상
+
+알버트 아인슈타인은 세계적으로 가장 유명한 물리학자 중 한 명입니다. 그의 주요 업적으로는 다음과 같은 것들이 있습니다:
+
+1. 상대성 이론: 특수 상대성 이론과 일반 상대성 이론을 발표하여 시공간과 중력에 대한 새로운 이해를 제시했습니다.
+
+2. 광전효과 설명: 빛의 입자성을 설명하는 광전효과를 발견하고 이론적으로 설명했습니다. 이는 양자역학의 기초가 되었죠.
+
+3. 브라운 운동 이론: 물질을 구성하는 원자와 분자의 운동을 설명하는 이론을 발표했습니다.
+
+이러한 업적을 인정받아 아인슈타인은 1921년 노벨 물리학상을 수상했습니다. 수상 이유는 광전효과에 대한 연구와 이론이었습니다.
+```
+
+### Graph 프롬프팅 활용
+
+Graph 프롬프팅은 다음과 같은 상황에서 효과적이다:
+
+- 복잡한 관계 질의
+- 다단계 추론이 필요한 질문
+- 구조화된 지식 베이스 활용
+- 엔티티 간 관계 탐색
+
+## 기법 비교
+
+| 기법            | 입력 형태            | 추론 방식        | 복잡도 | 적합한 문제                          |
+| --------------- | -------------------- | ---------------- | ------ | ------------------------------------ |
+| Multi-modal CoT | 이미지 + 텍스트      | 단계별 시각 분석 | 중간   | 이미지 분석, 시각적 질의응답         |
+| Graph 프롬프팅  | 텍스트 + 지식 그래프 | 관계 기반 추론   | 높음   | 복잡한 관계 질의, 구조화된 정보 검색 |
+
+## 실전 활용 팁
+
+### Multi-modal CoT 활용
+
+1. **명확한 단계 정의**: 이미지 분석 과정을 단계별로 명확히 정의
+2. **시각적 지시**: 이미지에서 찾아야 할 대상을 명확히 지정
+3. **결과 검증**: 이미지 분석 결과를 텍스트로 설명하여 검증
+
+### Graph 프롬프팅 활용
+
+1. **키워드 선택**: 질문에서 핵심 키워드를 정확히 추출
+2. **관계 파악**: 노드 간의 관계를 이해하여 추론 경로 설계
+3. **다중 경로 탐색**: 여러 관계 경로를 탐색하여 포괄적인 답변 생성
+
+## 결론
+
+Multi-modal CoT와 Graph 프롬프팅은 다양한 형태의 데이터를 활용하여 AI 모델의 문제 해결 능력을 향상시키는 고급 기법이다. 이미지와 텍스트를 융합하거나 지식 그래프를 활용하는 등 창의적인 접근을 통해 AI와의 소통을 더욱 풍부하고 효과적으로 만들 수 있다.
+
+## 참고 자료
+
+- [카카오클라우드 블로그 - 프롬프트 엔지니어링이란 ④](https://blog.kakaocloud.com/89?category=1219445)
+- Chen, X., et al. (2023). Multimodal Chain-of-Thought Reasoning in Large Language Models. arXiv:2302.00923.
+- Hwang, S., et al. (2023). KG-GPT: A General Framework for Reasoning on Knowledge Graphs using Language Models. KAIST / ICML Workshop.
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L17",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Prompt Engineering 고급 기법 2"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Prompt Engineering 고급 기법 2\",\"description\":\"Multi-modal CoT와 Graph 프롬프팅 등 다양한 형태의 정보를 활용하는 고급 프롬프트 엔지니어링 기법을 설명한다. 이미지, 텍스트, 지식 그래프를 활용한 추론 기법을 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Prompt Engineering 고급 기법 2\",\"url\":\"https://woolimi.github.io/blog/AI/LLM/prompt-engineering-4\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Prompt Engineering 고급 기법 2"}],["$","article",null,{"children":["$","$L1c",null,{"children":"$1d"}]}]]}]}]
+1e:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+18:["$","$L1e",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+19:["$","$L1e",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$18:props:localeCookie","children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L1e",null,{"ref":null,"href":"/ko/blog/AI","locale":"$undefined","localeCookie":"$18:props:localeCookie","children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L1e",null,{"ref":null,"href":"/ko/blog/AI/LLM","locale":"$undefined","localeCookie":"$18:props:localeCookie","children":"LLM","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

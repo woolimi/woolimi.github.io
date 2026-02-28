@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T8ec,
+## 클래스 정의
+
+```python
+class Dog:
+    # 클래스 변수 (모든 인스턴스 공유)
+    species = "Canis"
+
+    # 생성자
+    def __init__(self, name, age):
+        self.name = name    # 인스턴스 변수
+        self.age = age
+
+    # 인스턴스 메서드
+    def bark(self):
+        return f"{self.name}: 멍멍!"
+
+dog = Dog("바둑이", 3)
+dog.bark()              # "바둑이: 멍멍!"
+```
+
+## 메서드 종류
+
+```python
+class MyClass:
+    count = 0
+
+    def __init__(self, value):
+        self.value = value
+        MyClass.count += 1
+
+    # 인스턴스 메서드: self로 인스턴스 접근
+    def instance_method(self):
+        return self.value
+
+    # 클래스 메서드: cls로 클래스 접근
+    @classmethod
+    def class_method(cls):
+        return cls.count
+
+    # 정적 메서드: 클래스/인스턴스 접근 안함
+    @staticmethod
+    def static_method(x, y):
+        return x + y
+```
+
+## 상속
+
+```python
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def speak(self):
+        raise NotImplementedError
+
+class Cat(Animal):
+    def speak(self):
+        return f"{self.name}: 야옹"
+
+class Dog(Animal):
+    def speak(self):
+        return f"{self.name}: 멍멍"
+
+# 다중 상속
+class Hybrid(Cat, Dog):
+    pass
+
+# 부모 클래스 호출
+class Child(Parent):
+    def __init__(self, name, extra):
+        super().__init__(name)
+        self.extra = extra
+```
+
+## 오버라이딩
+
+```python
+# 오버라이딩 (Overriding): 부모 메서드 재정의
+class Animal:
+    def speak(self):
+        return "소리"
+
+class Dog(Animal):
+    def speak(self):          # 부모 메서드 덮어씀
+        return "멍멍"
+
+Dog().speak()  # "멍멍"
+```
+
+## 자주 쓰는 특수 메서드
+
+```python
+__init__(self)      # 생성자
+__del__(self)       # 소멸자
+__repr__(self)      # 개발자용 문자열
+__str__(self)       # 사용자용 문자열
+__len__(self)       # len() 호출 시
+__getitem__(self, key)   # obj[key]
+__setitem__(self, key, value)  # obj[key] = value
+__contains__(self, item)  # in 연산자
+__call__(self)      # obj() 호출 가능하게
+__eq__(self, other) # ==
+__lt__(self, other) # <
+__add__(self, other) # +
+__iter__(self)      # 반복 가능하게
+__enter__, __exit__ # with 문 지원
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Python","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Python","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Python 클래스"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python 클래스\",\"description\":\"클래스 정의, 상속, 특수 메서드 등 Python OOP 핵심 문법 정리\",\"image\":\"https://woolimi.github.io/og?title=Python 클래스\",\"url\":\"https://woolimi.github.io/blog/Python/class\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Python 클래스"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

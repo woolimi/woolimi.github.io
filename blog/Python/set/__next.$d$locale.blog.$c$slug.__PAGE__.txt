@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T11ed,
+## 집합이란?
+
+- **중복을 허용하지 않는** 자료형
+- **순서가 없음** (인덱싱 불가)
+- 요소는 **불변(immutable) 타입**만 가능
+- 집합 연산 (합집합, 교집합 등) 지원
+
+## 집합 생성
+
+```python
+s = {1, 2, 3}
+s = set([1, 2, 2, 3])     # {1, 2, 3} - 중복 제거
+s = set("hello")          # {'h', 'e', 'l', 'o'} - 중복 제거
+s = set()                 # 빈 집합 ({}는 빈 딕셔너리!)
+
+# 컴프리헨션
+s = {x**2 for x in range(5)}  # {0, 1, 4, 9, 16}
+s = {x for x in range(10) if x % 2 == 0}  # {0, 2, 4, 6, 8}
+```
+
+## 집합 연산
+
+```python
+a = {1, 2, 3, 4}
+b = {3, 4, 5, 6}
+
+# 합집합 (Union)
+a | b                     # {1, 2, 3, 4, 5, 6}
+a.union(b)                # {1, 2, 3, 4, 5, 6}
+
+# 교집합 (Intersection)
+a & b                     # {3, 4}
+a.intersection(b)         # {3, 4}
+
+# 차집합 (Difference)
+a - b                     # {1, 2} (a에만 있는 것)
+a.difference(b)           # {1, 2}
+
+# 대칭차집합 (Symmetric Difference)
+a ^ b                     # {1, 2, 5, 6} (둘 중 하나에만 있는 것)
+a.symmetric_difference(b) # {1, 2, 5, 6}
+```
+
+## 집합 연산 (원본 수정)
+
+```python
+a = {1, 2, 3}
+b = {3, 4, 5}
+
+# |= (합집합 업데이트)
+a |= b                    # a = {1, 2, 3, 4, 5}
+a.update(b)
+
+# &= (교집합 업데이트)
+a &= b                    # a = {3}
+a.intersection_update(b)
+
+# -= (차집합 업데이트)
+a -= b                    # a = {1, 2}
+a.difference_update(b)
+
+# ^= (대칭차집합 업데이트)
+a ^= b
+a.symmetric_difference_update(b)
+```
+
+## 부분집합/상위집합
+
+```python
+a = {1, 2}
+b = {1, 2, 3, 4}
+
+# 부분집합 (Subset)
+a <= b                    # True (a ⊆ b)
+a.issubset(b)             # True
+
+a < b                     # True (진부분집합, a ⊂ b)
+
+# 상위집합 (Superset)
+b >= a                    # True (b ⊇ a)
+b.issuperset(a)           # True
+
+b > a                     # True (진상위집합)
+
+# 서로소 (Disjoint) - 공통 요소 없음
+{1, 2}.isdisjoint({3, 4})  # True
+{1, 2}.isdisjoint({2, 3})  # False
+```
+
+## 추가 (Add)
+
+```python
+s = {1, 2, 3}
+
+s.add(4)                  # {1, 2, 3, 4}
+s.add(3)                  # {1, 2, 3, 4} - 중복 무시
+
+s.update([5, 6])          # {1, 2, 3, 4, 5, 6}
+s.update({7, 8})          # 집합도 가능
+s.update([9], {10})       # 여러 인자도 가능
+```
+
+## 삭제 (Remove)
+
+```python
+s = {1, 2, 3, 4, 5}
+
+s.remove(3)               # {1, 2, 4, 5} - 없으면 KeyError
+s.discard(3)              # {1, 2, 4, 5} - 없어도 에러 없음
+
+s.pop()                   # 임의의 요소 제거 후 반환
+s.clear()                 # 전체 삭제
+```
+
+## 검색
+
+```python
+s = {1, 2, 3, 4, 5}
+
+# 존재 여부
+3 in s                    # True
+6 not in s                # True
+
+# 길이
+len(s)                    # 5
+```
+
+## frozenset (불변 집합)
+
+```python
+# 생성
+fs = frozenset([1, 2, 3])
+fs = frozenset({1, 2, 3})
+
+# 집합 연산은 가능
+fs | {4, 5}               # frozenset({1, 2, 3, 4, 5})
+fs & {2, 3, 4}            # frozenset({2, 3})
+
+# 수정 불가
+# fs.add(4)               # AttributeError!
+
+# 딕셔너리 키로 사용 가능
+d = {frozenset({1, 2}): "value"}
+
+# 집합의 집합
+set_of_sets = {frozenset({1, 2}), frozenset({3, 4})}
+```
+
+## 유용한 패턴
+
+```python
+# 리스트 중복 제거
+lst = [1, 2, 2, 3, 3, 3]
+unique = list(set(lst))   # [1, 2, 3] (순서 보장 안됨)
+
+# 순서 유지하며 중복 제거
+lst = [1, 2, 2, 3, 1, 4]
+list(dict.fromkeys(lst))  # [1, 2, 3, 4]
+
+# 두 리스트 비교
+a = [1, 2, 3]
+b = [2, 3, 4]
+
+set(a) & set(b)           # {2, 3} - 공통 요소
+set(a) - set(b)           # {1} - a에만 있는 것
+set(a) ^ set(b)           # {1, 4} - 한쪽에만 있는 것
+set(a) == set(b)          # False - 동일 여부
+
+# 문자열에서 고유 문자
+unique_chars = set("hello")  # {'h', 'e', 'l', 'o'}
+
+# 빠른 검색 (O(1))
+allowed = {'admin', 'user', 'guest'}
+role = 'admin'
+if role in allowed:       # 리스트보다 빠름
+    print("허용됨")
+
+# 집합 컴프리헨션으로 변환 + 필터링
+numbers = [1, -2, 3, -4, 5]
+positives = {abs(x) for x in numbers if x > 0}  # {1, 3, 5}
+```
+
+## 집합 vs 리스트 성능
+
+```python
+# 검색 성능
+lst = list(range(10000))
+s = set(range(10000))
+
+9999 in lst    # O(n) - 느림
+9999 in s      # O(1) - 빠름
+
+# 언제 집합을 사용?
+# - 중복 제거가 필요할 때
+# - 빠른 멤버십 테스트가 필요할 때
+# - 집합 연산이 필요할 때
+
+# 언제 리스트를 사용?
+# - 순서가 중요할 때
+# - 중복을 허용해야 할 때
+# - 인덱스 접근이 필요할 때
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Python","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Python","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Python 집합"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python 집합\",\"description\":\"Python 집합(set)의 집합 연산, CRUD, frozenset 활용법\",\"image\":\"https://woolimi.github.io/og?title=Python 집합\",\"url\":\"https://woolimi.github.io/blog/Python/set\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Python 집합"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,674 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+7:I[64725,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[64725,[],"ViewportBoundary"]
+c:I[64725,[],"MetadataBoundary"]
+e:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","blog","C","memory-string-functions"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","C/memory-string-functions","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"}]},{"name":"Imitation Learning","type":"folder","path":"AI/Imitation Learning","children":[{"name":"00.concept.ko.md","type":"file","path":"AI/Imitation Learning/00.concept.ko.md","slug":"AI/Imitation Learning/concept","locale":"ko","title":"모방학습 (Imitation Learning) 개념"},{"name":"01.so-101.ko.md","type":"file","path":"AI/Imitation Learning/01.so-101.ko.md","slug":"AI/Imitation Learning/so-101","locale":"ko","title":"LeRobot 맥 설정 방법"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"03.machine-learning.ko.md","type":"file","path":"AI/03.machine-learning.ko.md","slug":"AI/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"},{"name":"06.filter.ko.ipynb","type":"file","path":"AI/06.filter.ko.ipynb","slug":"AI/filter","locale":"ko","title":"신호 필터처리"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"C","type":"folder","path":"C","children":[{"name":"00.literal-vs-string.ko.md","type":"file","path":"C/00.literal-vs-string.ko.md","slug":"C/literal-vs-string","locale":"ko","title":"C 문자열 리터럴과 문자열"},{"name":"01.memory-string-functions.ko.md","type":"file","path":"C/01.memory-string-functions.ko.md","slug":"C/memory-string-functions","locale":"ko","title":"C 메모리 및 문자열 함수"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"00.basic.ko.md","type":"file","path":"ROS/00.basic.ko.md","slug":"ROS/basic","locale":"ko","title":"ROS2 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+14:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+15:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[85584,[],"IconMark"]
+d:[["$","title","0",{"children":"C 메모리 및 문자열 함수 | 박우림"}],["$","meta","1",{"name":"description","content":"C 언어의 메모리 조작 함수(memcmp, memset, memcpy, memmove)와 문자열 함수(strcmp, strcpy, strlen, strcat 등)의 사용법과 예제."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"C 메모리 및 문자열 함수"}],["$","meta","6",{"property":"og:description","content":"C 언어의 메모리 조작 함수(memcmp, memset, memcpy, memmove)와 문자열 함수(strcmp, strcpy, strlen, strcat 등)의 사용법과 예제."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/C/memory-string-functions"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%B0%8F%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%95%A8%EC%88%98"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"C 메모리 및 문자열 함수"}],["$","meta","12",{"name":"twitter:description","content":"C 언어의 메모리 조작 함수(memcmp, memset, memcpy, memmove)와 문자열 함수(strcmp, strcpy, strlen, strcat 등)의 사용법과 예제."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%B0%8F%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%95%A8%EC%88%98"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L16","19",{}]]
+9:null
+17:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+1b:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+1c:T3261,
+## 메모리 함수 (string.h)
+
+### memcpy - 메모리 복사
+
+```c
+#include <string.h>
+void *memcpy(void *dest, const void *src, size_t n);
+```
+
+- `src`에서 `dest`로 `n` 바이트를 복사
+- 메모리 영역이 겹치면 정의되지 않은 동작 (겹치면 `memmove` 사용)
+- 반환값: `dest` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char src[] = "Hello, World!";
+    char dest[20];
+
+    memcpy(dest, src, strlen(src) + 1);  // +1은 NULL 문자 포함
+    printf("복사된 문자열: %s\n", dest);  // "Hello, World!"
+
+    // 배열 복사
+    int arr1[] = {1, 2, 3, 4, 5};
+    int arr2[5];
+    memcpy(arr2, arr1, sizeof(arr1));
+
+    for (int i = 0; i < 5; i++) {
+        printf("%d ", arr2[i]);  // 1 2 3 4 5
+    }
+    return 0;
+}
+```
+
+### memmove - 겹치는 메모리 복사
+
+```c
+#include <string.h>
+void *memmove(void *dest, const void *src, size_t n);
+```
+
+- `memcpy`와 동일하지만 메모리 영역이 겹쳐도 안전
+- 반환값: `dest` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "Hello, World!";
+
+    // 메모리가 겹치는 경우 (str[7]부터 str[0]으로 복사)
+    memmove(str, str + 7, 6);  // "World!"를 앞으로 이동
+    str[6] = '\0';
+    printf("%s\n", str);  // "World!"
+
+    // 배열 요소 이동
+    int arr[] = {1, 2, 3, 4, 5};
+    memmove(arr + 1, arr, 4 * sizeof(int));  // 한 칸씩 오른쪽으로
+    arr[0] = 0;
+    // 결과: {0, 1, 2, 3, 4}
+
+    return 0;
+}
+```
+
+### memset - 메모리 초기화
+
+```c
+#include <string.h>
+void *memset(void *s, int c, size_t n);
+```
+
+- 메모리 영역을 특정 값으로 초기화
+- `c`는 `unsigned char`로 변환되어 사용
+- 반환값: `s` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char buffer[100];
+
+    // 0으로 초기화
+    memset(buffer, 0, sizeof(buffer));
+
+    // 특정 문자로 채우기
+    memset(buffer, 'A', 10);
+    buffer[10] = '\0';
+    printf("%s\n", buffer);  // "AAAAAAAAAA"
+
+    // 배열 초기화
+    int arr[10];
+    memset(arr, 0, sizeof(arr));  // 모든 요소를 0으로
+
+    // -1로 초기화 (주의: int는 4바이트이므로 0xFFFFFFFF가 됨)
+    memset(arr, -1, sizeof(arr));
+
+    return 0;
+}
+```
+
+### memcmp - 메모리 비교
+
+```c
+#include <string.h>
+int memcmp(const void *s1, const void *s2, size_t n);
+```
+
+- 두 메모리 영역을 바이트 단위로 비교
+- 반환값:
+  - `s1 < s2`: 음수
+  - `s1 == s2`: 0
+  - `s1 > s2`: 양수
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str1[] = "Hello";
+    char str2[] = "Hello";
+    char str3[] = "World";
+
+    // 문자열 비교
+    int result1 = memcmp(str1, str2, 5);
+    printf("%d\n", result1);  // 0 (같음)
+
+    int result2 = memcmp(str1, str3, 5);
+    printf("%d\n", result2);  // 음수 (str1 < str3)
+
+    // 배열 비교
+    int arr1[] = {1, 2, 3};
+    int arr2[] = {1, 2, 3};
+    int arr3[] = {1, 2, 4};
+
+    int cmp1 = memcmp(arr1, arr2, sizeof(arr1));
+    printf("%d\n", cmp1);  // 0 (같음)
+
+    int cmp2 = memcmp(arr1, arr3, sizeof(arr1));
+    printf("%d\n", cmp2);  // 음수 (arr1 < arr3)
+
+    return 0;
+}
+```
+
+### memchr - 메모리에서 문자 검색
+
+```c
+#include <string.h>
+void *memchr(const void *s, int c, size_t n);
+```
+
+- 메모리 영역에서 특정 문자를 검색
+- 반환값: 찾으면 해당 포인터, 못 찾으면 NULL
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "Hello, World!";
+
+    // 'W' 문자 찾기
+    char *found = (char *)memchr(str, 'W', strlen(str));
+    if (found) {
+        printf("찾음: %s\n", found);  // "World!"
+    }
+
+    // 배열에서 특정 값 찾기
+    int arr[] = {10, 20, 30, 40, 50};
+    int *ptr = (int *)memchr(arr, 30, sizeof(arr));
+    if (ptr) {
+        printf("값 30을 찾았습니다: 인덱스 %ld\n", ptr - arr);
+    }
+
+    return 0;
+}
+```
+
+## 문자열 함수 (string.h)
+
+### strlen - 문자열 길이
+
+```c
+#include <string.h>
+size_t strlen(const char *s);
+```
+
+- NULL 문자(`\0`)를 제외한 문자열 길이 반환
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "Hello";
+    printf("%zu\n", strlen(str));  // 5
+
+    char *ptr = "World";
+    printf("%zu\n", strlen(ptr));  // 5
+
+    return 0;
+}
+```
+
+### strcpy - 문자열 복사
+
+```c
+#include <string.h>
+char *strcpy(char *dest, const char *src);
+```
+
+- `src`를 `dest`로 복사 (NULL 문자 포함)
+- `dest`는 충분한 크기여야 함
+- 반환값: `dest` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char src[] = "Hello, World!";
+    char dest[50];
+
+    strcpy(dest, src);
+    printf("%s\n", dest);  // "Hello, World!"
+
+    return 0;
+}
+```
+
+### strncpy - 제한된 문자열 복사
+
+```c
+#include <string.h>
+char *strncpy(char *dest, const char *src, size_t n);
+```
+
+- 최대 `n` 문자까지 복사
+- `n`이 `src` 길이보다 크면 나머지는 NULL 문자로 채움
+- 반환값: `dest` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char src[] = "Hello, World!";
+    char dest[20];
+
+    strncpy(dest, src, 5);
+    dest[5] = '\0';  // NULL 문자 추가 필요
+    printf("%s\n", dest);  // "Hello"
+
+    return 0;
+}
+```
+
+### strcat - 문자열 연결
+
+```c
+#include <string.h>
+char *strcat(char *dest, const char *src);
+```
+
+- `src`를 `dest` 끝에 연결
+- `dest`는 충분한 크기여야 함
+- 반환값: `dest` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char dest[50] = "Hello";
+    char src[] = ", World!";
+
+    strcat(dest, src);
+    printf("%s\n", dest);  // "Hello, World!"
+
+    return 0;
+}
+```
+
+### strncat - 제한된 문자열 연결
+
+```c
+#include <string.h>
+char *strncat(char *dest, const char *src, size_t n);
+```
+
+- `src`에서 최대 `n` 문자를 `dest` 끝에 연결
+- 자동으로 NULL 문자 추가
+- 반환값: `dest` 포인터
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char dest[50] = "Hello";
+    char src[] = ", World!";
+
+    strncat(dest, src, 3);  // ", W"만 추가
+    printf("%s\n", dest);  // "Hello, W"
+
+    return 0;
+}
+```
+
+### strcmp - 문자열 비교
+
+```c
+#include <string.h>
+int strcmp(const char *s1, const char *s2);
+```
+
+- 두 문자열을 사전식으로 비교
+- 반환값:
+  - `s1 < s2`: 음수
+  - `s1 == s2`: 0
+  - `s1 > s2`: 양수
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str1[] = "apple";
+    char str2[] = "banana";
+    char str3[] = "apple";
+
+    printf("%d\n", strcmp(str1, str2));  // 음수 ("apple" < "banana")
+    printf("%d\n", strcmp(str1, str3));  // 0 (같음)
+    printf("%d\n", strcmp(str2, str1));  // 양수 ("banana" > "apple")
+
+    return 0;
+}
+```
+
+### strncmp - 제한된 문자열 비교
+
+```c
+#include <string.h>
+int strncmp(const char *s1, const char *s2, size_t n);
+```
+
+- 최대 `n` 문자까지만 비교
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str1[] = "apple";
+    char str2[] = "application";
+
+    // 처음 3글자만 비교
+    printf("%d\n", strncmp(str1, str2, 3));  // 0 (같음: "app")
+    printf("%d\n", strncmp(str1, str2, 5));  // 음수 ("apple" < "appli")
+
+    return 0;
+}
+```
+
+### strchr - 문자 검색
+
+```c
+#include <string.h>
+char *strchr(const char *s, int c);
+```
+
+- 문자열에서 첫 번째로 나타나는 문자 `c` 검색
+- 반환값: 찾으면 해당 포인터, 못 찾으면 NULL
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "Hello, World!";
+
+    char *found = strchr(str, 'o');
+    if (found) {
+        printf("찾음: %s\n", found);  // "o, World!"
+        printf("인덱스: %ld\n", found - str);  // 4
+    }
+
+    // 모든 'o' 찾기
+    char *ptr = str;
+    while ((ptr = strchr(ptr, 'o')) != NULL) {
+        printf("위치: %ld\n", ptr - str);
+        ptr++;  // 다음 위치부터 검색
+    }
+
+    return 0;
+}
+```
+
+### strrchr - 마지막 문자 검색
+
+```c
+#include <string.h>
+char *strrchr(const char *s, int c);
+```
+
+- 문자열에서 마지막으로 나타나는 문자 `c` 검색
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "Hello, World!";
+
+    char *found = strrchr(str, 'o');
+    if (found) {
+        printf("마지막 'o' 위치: %ld\n", found - str);  // 8
+        printf("%s\n", found);  // "orld!"
+    }
+
+    return 0;
+}
+```
+
+### strstr - 부분 문자열 검색
+
+```c
+#include <string.h>
+char *strstr(const char *haystack, const char *needle);
+```
+
+- `haystack`에서 `needle` 부분 문자열 검색
+- 반환값: 찾으면 해당 포인터, 못 찾으면 NULL
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "Hello, World!";
+    char search[] = "World";
+
+    char *found = strstr(str, search);
+    if (found) {
+        printf("찾음: %s\n", found);  // "World!"
+        printf("인덱스: %ld\n", found - str);  // 7
+    }
+
+    return 0;
+}
+```
+
+### strtok - 문자열 토큰화
+
+```c
+#include <string.h>
+char *strtok(char *str, const char *delim);
+```
+
+- 문자열을 구분자로 분리
+- 첫 번째 호출: `str` 전달
+- 이후 호출: NULL 전달 (이전 문자열 계속 사용)
+- 반환값: 토큰 포인터, 더 이상 없으면 NULL
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "apple,banana,cherry";
+    char *token;
+
+    // 첫 번째 토큰
+    token = strtok(str, ",");
+    while (token != NULL) {
+        printf("%s\n", token);
+        token = strtok(NULL, ",");  // 다음 토큰
+    }
+    // 출력:
+    // apple
+    // banana
+    // cherry
+
+    // 여러 구분자 사용
+    char str2[] = "apple;banana,cherry:grape";
+    token = strtok(str2, ";,:");  // 세미콜론, 쉼표, 콜론 모두 구분자
+    while (token != NULL) {
+        printf("%s\n", token);
+        token = strtok(NULL, ";,:");
+    }
+
+    return 0;
+}
+```
+
+### strspn - 일치하는 문자 개수
+
+```c
+#include <string.h>
+size_t strspn(const char *s, const char *accept);
+```
+
+- `s`의 시작 부분에서 `accept`에 포함된 문자만 연속으로 나타나는 개수 반환
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "12345abc";
+    char digits[] = "0123456789";
+
+    size_t len = strspn(str, digits);
+    printf("%zu\n", len);  // 5 (처음 5개가 숫자)
+
+    return 0;
+}
+```
+
+### strcspn - 일치하지 않는 문자 개수
+
+```c
+#include <string.h>
+size_t strcspn(const char *s, const char *reject);
+```
+
+- `s`의 시작 부분에서 `reject`에 포함되지 않은 문자만 연속으로 나타나는 개수 반환
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char str[] = "hello123";
+    char digits[] = "0123456789";
+
+    size_t len = strcspn(str, digits);
+    printf("%zu\n", len);  // 5 (처음 5개가 숫자가 아님)
+
+    return 0;
+}
+```
+
+## 안전한 함수 (C11)
+
+### strcpy_s, strcat_s 등
+
+C11 표준에서는 더 안전한 함수들이 추가되었습니다 (일부 컴파일러에서만 지원).
+
+```c
+// 예시 (Microsoft Visual C++ 등)
+errno_t strcpy_s(char *dest, size_t destsz, const char *src);
+errno_t strcat_s(char *dest, size_t destsz, const char *src);
+```
+
+## 주의사항
+
+1. **버퍼 오버플로우**: `strcpy`, `strcat` 등은 버퍼 크기를 확인하지 않음
+2. **NULL 포인터**: 모든 함수는 유효한 포인터를 받아야 함
+3. **메모리 겹침**: `memcpy`는 메모리가 겹치면 안 됨 (겹치면 `memmove` 사용)
+4. **NULL 문자**: 문자열 함수는 NULL 문자(`\0`)를 기준으로 동작
+5. **strtok의 재진입 불가**: `strtok`는 내부 정적 변수를 사용하므로 스레드 안전하지 않음
+
+## 실전 예제
+
+### 문자열 뒤집기
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+void reverse_string(char *str) {
+    int len = strlen(str);
+    for (int i = 0; i < len / 2; i++) {
+        char temp = str[i];
+        str[i] = str[len - 1 - i];
+        str[len - 1 - i] = temp;
+    }
+}
+
+int main() {
+    char str[] = "Hello";
+    reverse_string(str);
+    printf("%s\n", str);  // "olleH"
+    return 0;
+}
+```
+
+### 문자열에서 숫자 추출
+
+```c
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+
+void extract_numbers(const char *str) {
+    while (*str) {
+        if (isdigit(*str)) {
+            printf("%c", *str);
+        }
+        str++;
+    }
+    printf("\n");
+}
+
+int main() {
+    extract_numbers("abc123def456");  // "123456"
+    return 0;
+}
+```
+
+### 메모리 안전한 문자열 복사
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+void safe_strcpy(char *dest, size_t dest_size, const char *src) {
+    if (dest == NULL || src == NULL || dest_size == 0) {
+        return;
+    }
+
+    size_t src_len = strlen(src);
+    size_t copy_len = (src_len < dest_size - 1) ? src_len : dest_size - 1;
+
+    memcpy(dest, src, copy_len);
+    dest[copy_len] = '\0';
+}
+
+int main() {
+    char dest[10];
+    safe_strcpy(dest, sizeof(dest), "Hello, World!");
+    printf("%s\n", dest);  // "Hello, Wo" (안전하게 잘림)
+    return 0;
+}
+```
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L17",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"C 메모리 및 문자열 함수"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"C 메모리 및 문자열 함수\",\"description\":\"C 언어의 메모리 조작 함수(memcmp, memset, memcpy, memmove)와 문자열 함수(strcmp, strcpy, strlen, strcat 등)의 사용법과 예제.\",\"image\":\"https://woolimi.github.io/og?title=C 메모리 및 문자열 함수\",\"url\":\"https://woolimi.github.io/blog/C/memory-string-functions\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"C 메모리 및 문자열 함수"}],["$","article",null,{"children":["$","$L1b",null,{"children":"$1c"}]}]]}]}]
+1d:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+18:["$","$L1d",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+19:["$","$L1d",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$18:props:localeCookie","children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L1d",null,{"ref":null,"href":"/ko/blog/C","locale":"$undefined","localeCookie":"$18:props:localeCookie","children":"C","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/LLM","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"LLM","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Prompt Engineering 고급 기법"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Prompt Engineering 고급 기법\",\"description\":\"Chain-of-Thought(CoT), Tree-of-Thought(ToT), ReAct 등 프롬프트 엔지니어링의 고급 기법을 설명한다. 복잡한 문제를 해결하기 위한 고급 추론 기법을 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Prompt Engineering 고급 기법\",\"url\":\"https://woolimi.github.io/blog/AI/LLM/prompt-engineering-3\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Prompt Engineering 고급 기법"}]
+9:T182f,
+## Chain-of-Thought (CoT) 프롬프팅
+
+Chain-of-Thought(CoT) 프롬프팅은 복잡한 문제를 단계별로 나누어 해결하는 추론 방식이다. 중간 단계를 명시적으로 보여주며 최종 답변에 도달한다. 모델이 문제를 단계별로 사고하도록 유도하여 더 정확한 답변을 얻을 수 있다.
+
+### 특징
+
+- **단계별 추론**: 문제를 작은 단계로 분해하여 순차적으로 해결
+- **명시적 사고 과정**: 중간 단계를 명확히 보여줌으로써 추론 과정을 투명하게 만듦
+- **복잡한 문제 해결**: 수학 문제, 논리 퍼즐 등 복잡한 문제에 효과적
+
+### 예시
+
+```
+문제: 한 가게에서 연필을 3개씩 묶어서 팔고 있다. 고객이 10개의 연필을 사려고 한다. 몇 묶음을 사야 하는가?
+
+단계별로 생각해보자:
+1단계: 묶음당 연필 개수 = 3개
+2단계: 필요한 연필 개수 = 10개
+3단계: 필요한 묶음 수 = 10 ÷ 3 = 3.33...
+4단계: 묶음은 정수로만 살 수 있으므로, 3묶음으로는 9개만 살 수 있고 1개가 부족하다
+5단계: 따라서 4묶음을 사야 12개를 얻을 수 있고, 10개 이상을 충족한다
+답: 4묶음
+```
+
+### CoT 프롬프팅 활용
+
+CoT는 다음과 같은 상황에서 효과적이다:
+
+- 수학 문제 해결
+- 논리적 추론이 필요한 문제
+- 다단계 계산이 필요한 작업
+- 복잡한 의사결정 문제
+
+## Tree-of-Thought (ToT) 프롬프팅
+
+Tree-of-Thought(ToT) 프롬프팅은 여러 가능한 추론 경로를 탐색하며 최적의 답을 찾는 방식이다. 각 단계에서 여러 후보를 생성하고 평가하여 가장 좋은 경로를 선택한다.
+
+### 특징
+
+- **다중 경로 탐색**: 하나의 답이 아닌 여러 가능성을 동시에 탐색
+- **경로 평가**: 각 추론 경로를 평가하여 최적의 경로 선택
+- **백트래킹**: 잘못된 경로를 포기하고 다른 경로 탐색 가능
+
+### 작동 원리
+
+1. **생성**: 각 단계에서 여러 가능한 추론 단계 생성
+2. **평가**: 각 추론 단계의 품질을 평가
+3. **선택**: 가장 유망한 경로를 선택하여 계속 탐색
+4. **반복**: 최종 답에 도달할 때까지 반복
+
+### 예시
+
+```
+문제: 24를 만들 수 있는 세 숫자의 조합을 찾아라 (각 숫자는 1~9)
+
+ToT 접근:
+- 경로 1: 8 + 8 + 8 = 24
+- 경로 2: 6 + 9 + 9 = 24
+- 경로 3: 7 + 8 + 9 = 24
+- 경로 4: 4 × 6 = 24 (두 숫자만 사용)
+
+각 경로를 평가하고 가장 적절한 답을 선택
+```
+
+### ToT 프롬프팅 활용
+
+ToT는 다음과 같은 상황에서 효과적이다:
+
+- 여러 해결책이 가능한 문제
+- 최적화 문제
+- 창의적 문제 해결
+- 게임 전략 수립
+
+## ReAct 프롬프팅
+
+ReAct(Reasoning + Acting)는 추론(Reasoning)과 행동(Acting)을 결합한 프롬프팅 기법이다. 모델이 사고 과정을 명시적으로 보여주면서 동시에 외부 도구나 환경과 상호작용할 수 있도록 한다.
+
+### 특징
+
+- **추론과 행동 결합**: 사고 과정과 실제 행동을 함께 수행
+- **외부 도구 활용**: 검색, 계산기, 데이터베이스 등 외부 도구 사용 가능
+- **반복적 개선**: 행동 결과를 바탕으로 추론을 개선
+
+### 작동 원리
+
+1. **사고(Thought)**: 현재 상황을 분석하고 다음 행동을 계획
+2. **행동(Action)**: 외부 도구를 사용하거나 정보를 검색
+3. **관찰(Observation)**: 행동의 결과를 관찰
+4. **반복**: 목표에 도달할 때까지 반복
+
+### 예시
+
+```
+사용자: "파리의 인구는 얼마인가?"
+
+ReAct 프로세스:
+[사고] 파리의 인구 정보가 필요하다. 최신 데이터를 검색해야 한다.
+[행동] 검색: "파리 인구 2024"
+[관찰] 파리의 인구는 약 210만 명이다.
+[사고] 이 정보가 충분한지 확인하고, 필요하면 더 자세한 정보를 찾아야 한다.
+[행동] 검색: "파리 시 인구 통계"
+[관찰] 파리 시(Paris)의 인구는 약 210만 명이며, 파리 대도시권(Île-de-France)의 인구는 약 1,200만 명이다.
+[답변] 파리 시의 인구는 약 210만 명입니다. 파리 대도시권을 포함하면 약 1,200만 명입니다.
+```
+
+### ReAct 프롬프팅 활용
+
+ReAct는 다음과 같은 상황에서 효과적이다:
+
+- 실시간 정보가 필요한 작업
+- 외부 도구와의 상호작용이 필요한 작업
+- 복잡한 다단계 작업
+- 에이전트 기반 시스템
+
+## 기법 비교
+
+| 기법  | 추론 방식          | 외부 도구 | 복잡도 | 적합한 문제            |
+| ----- | ------------------ | --------- | ------ | ---------------------- |
+| CoT   | 단일 경로, 순차적  | 불필요    | 중간   | 수학, 논리 문제        |
+| ToT   | 다중 경로, 탐색적  | 불필요    | 높음   | 최적화, 창의적 문제    |
+| ReAct | 순환적, 상호작용적 | 필요      | 높음   | 실시간 정보, 도구 활용 |
+
+## 고급 기법 선택 가이드
+
+### CoT를 선택하는 경우
+
+- 문제가 명확한 단계로 나눌 수 있을 때
+- 수학적 계산이나 논리적 추론이 필요할 때
+- 단일 정답이 있는 문제일 때
+
+### ToT를 선택하는 경우
+
+- 여러 해결책이 가능한 문제일 때
+- 최적의 답을 찾아야 할 때
+- 창의적 사고가 필요할 때
+
+### ReAct를 선택하는 경우
+
+- 실시간 정보나 최신 데이터가 필요할 때
+- 외부 도구(검색, 계산기 등)를 활용해야 할 때
+- 복잡한 다단계 작업을 수행해야 할 때
+
+## 실전 활용 팁
+
+1. **CoT 프롬프트 작성**: "단계별로 생각해보자" 또는 "각 단계를 명시하라"와 같은 지시어 사용
+2. **ToT 구현**: 여러 후보를 생성하고 평가하는 반복 과정 설계
+3. **ReAct 구조**: 사고-행동-관찰 패턴을 명확히 정의
+4. **기법 조합**: 필요에 따라 여러 기법을 조합하여 사용
+
+## 참고 자료
+
+- [카카오클라우드 블로그 - 프롬프트 엔지니어링이란 ③](https://blog.kakaocloud.com/87?category=1219445)
+- MIT Sloan EDL. (2024). Effective Prompts: How to Write Prompts That Get Better Results.
+- Zhou, Wang, et al. (2023). A Comprehensive Survey on Prompt Engineering. arXiv:2302.11382.
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

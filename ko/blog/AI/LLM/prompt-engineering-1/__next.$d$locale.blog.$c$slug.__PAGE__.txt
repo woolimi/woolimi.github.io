@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/LLM","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"LLM","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Prompt Engineering"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Prompt Engineering\",\"description\":\"프롬프트 엔지니어링의 개념, 기본 구성 요소, 활용 분야, 그리고 실전 기법을 설명한다. LLM과 효과적으로 소통하기 위한 프롬프트 설계 방법을 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Prompt Engineering\",\"url\":\"https://woolimi.github.io/blog/AI/LLM/prompt-engineering-1\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Prompt Engineering"}]
+9:T1663,
+## 프롬프트 엔지니어링이란?
+
+프롬프트 엔지니어링은 인공지능(AI) 모델, 특히 자연어 처리(NLP) 모델과 효과적으로 소통하기 위해 입력 텍스트(프롬프트)를 설계하고 최적화하는 과정이다. 적절한 프롬프트를 제공하면 일반적인 요청보다 원하는 출력을 얻을 확률이 높아진다.
+
+예를 들어, "코끼리를 그려줘"보다는 "회색에 덩치가 아주 큰 코끼리를 그려줘"라고 하면 더 원하는 결과를 얻을 수 있다.
+
+## 프롬프트 엔지니어링의 중요성
+
+AI 모델이 강력해지고 다양한 분야에서 활용되면서, 효과적으로 사용하기 위한 방법이 필요해졌다. 프롬프트 엔지니어링은 AI 모델의 잠재력을 최대한 끌어내어 사용자가 원하는 결과를 얻을 수 있도록 돕는다. 이를 통해 AI 모델의 성능을 향상시키고, 사용자 경험을 개선하며, 다양한 응용 분야에서 AI 활용을 촉진할 수 있다.
+
+## 프롬프트 엔지니어링의 역사
+
+프롬프트 엔지니어링의 개념은 NLP 연구 초기부터 존재했지만, 최근 대규모 언어 모델(LLM)의 등장과 함께 중요성이 부각되었다. 2020년 OpenAI의 GPT-3 모델 발표 이후, 프롬프트 엔지니어링은 AI 모델의 성능을 극대화하기 위한 핵심 기술로 주목받기 시작했다. 이후 학계와 업계에서 프롬프트 엔지니어링 기법을 개발하고 응용하기 위한 다양한 연구가 이루어지고 있다.
+
+## 프롬프트 엔지니어링의 기본 구성 요소
+
+### 1. 명확성(Clarity)
+
+프롬프트는 AI 모델이 이해하기 쉽도록 명확하고 간결해야 한다.
+
+**예시:**
+
+- 나쁜 예: "부산의 날씨에 대해 알려줘"
+- 좋은 예: "오늘 부산의 날씨가 어떤지 자세히 설명해줘"
+
+### 2. 구체성(Specificity)
+
+프롬프트는 원하는 출력을 얻기 위해 필요한 정보를 구체적으로 제공해야 한다.
+
+**예시:**
+
+- 나쁜 예: "건강한 아침 식단"
+- 좋은 예: "낮은 칼로리, 고단백의 체중 감량을 위한 아침 식단"
+
+### 3. 문맥(Context)
+
+프롬프트는 AI 모델이 적절한 맥락에서 생성할 수 있도록 충분한 배경 정보를 제공해야 한다.
+
+**예시:**
+
+- 나쁜 예: "제주도 여행 계획 세워줘"
+- 좋은 예: "다음 달 제주도로 3박 4일 가족여행을 갈 계획이야. 맛집, 관광지, 숙소 추천해줘"
+
+### 4. 의도(Intent)
+
+프롬프트는 사용자의 의도를 명확히 전달하여 AI 모델이 원하는 방향으로 생성할 수 있도록 해야 한다.
+
+**예시:**
+
+- 나쁜 예: "태백산맥에 대해 설명해줘"
+- 좋은 예: "태백산맥의 지형적 특징과 생태계에 대해 자세히 설명해줘"
+
+이러한 구성 요소들을 고려하여 프롬프트를 설계하면, AI 모델과 더욱 효과적으로 소통할 수 있다. 완벽한 프롬프트를 만드는 것은 쉽지 않으며, 경험과 실험을 통해 지속적으로 개선해 나가는 과정이 필요하다.
+
+## 프롬프트 엔지니어링의 활용 분야
+
+### 챗봇 및 대화형 AI
+
+사용자의 질문이나 요청에 적절한 프롬프트를 제공하여 더욱 자연스럽고 유용한 대화를 생성할 수 있다.
+
+### 콘텐츠 생성
+
+문서, 기사, 광고 카피 등 다양한 콘텐츠 생성에 프롬프트 엔지니어링을 활용하여 창의적이고 고품질의 결과물을 얻을 수 있다.
+
+### 코드 생성
+
+프로그래밍 언어를 이해하는 AI 모델에 적절한 프롬프트를 제공하여 코드 생성, 오류 수정, 최적화 등의 작업을 자동화할 수 있다.
+
+### 언어 번역
+
+프롬프트 엔지니어링을 통해 번역 품질을 향상시키고, 도메인 특화 번역 모델을 개발할 수 있다.
+
+### 교육 및 학습
+
+AI 모델을 활용한 개인화된 학습 콘텐츠 생성, 질의응답 시스템 등에 프롬프트 엔지니어링을 적용할 수 있다.
+
+이 외에도 의료, 금융, 예술 등 다양한 분야에서 프롬프트 엔지니어링의 활용 가능성이 열려 있다. AI 모델의 발전과 함께 프롬프트 엔지니어링의 중요성은 더욱 커질 것으로 예상된다.
+
+## 프롬프트 엔지니어링 시작하기
+
+### 기본 지식 습득
+
+프롬프트 엔지니어링을 시작하기 위해서는 먼저 AI 모델, 특히 자연어 처리 모델에 대한 기본적인 이해가 필요하다. 대표적인 언어 모델인 GPT 시리즈나 BERT, T5 등의 모델 아키텍처와 동작 원리를 공부하는 것이 좋다.
+
+### 실전 연습
+
+실제로 AI 모델을 사용하며 프롬프트를 설계하고 실험해 보는 과정이 필요하다. OpenAI API, Hugging Face 등의 플랫폼을 활용하여 다양한 프롬프트를 테스트하고, 그 결과를 분석하면서 효과적인 프롬프트 설계 방법을 익힐 수 있다.
+
+### 지속적인 학습
+
+프롬프트 엔지니어링 관련 연구 자료, 블로그, 커뮤니티 등을 통해 최신 동향과 기술을 학습하고, 다른 사람들의 경험과 인사이트를 공유하는 것도 도움이 된다. 프롬프트 엔지니어링은 아직 발전 초기 단계에 있는 분야이므로, 지속적인 학습과 실험을 통해 성장해 나갈 수 있다.
+
+## 참고 자료
+
+- [카카오클라우드 블로그 - 프롬프트 엔지니어링이란 ①](https://blog.kakaocloud.com/85?category=1219445)
+- [MIT Sloan EDL. (2024). Effective Prompts: How to Write Prompts That Get Better Results](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/)
+- [Zhou, Wang, et al. (2023). A Comprehensive Survey on Prompt Engineering. arXiv:2302.11382.](https://arxiv.org/abs/2302.11382)
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

@@ -1,0 +1,186 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:Tdfe,
+## 가상환경 커널 설정
+
+### 1. 가상환경 생성 및 활성화
+
+```bash
+# 가상환경 생성
+python -m venv venv_name
+
+# 활성화 (Linux/macOS)
+source venv_name/bin/activate
+
+# 활성화 (Windows)
+venv_name\Scripts\activate
+```
+
+### 2. 커널 등록
+
+```bash
+# ipykernel 설치
+pip install ipykernel
+
+# 커널 등록
+python -m ipykernel install --user --name=venv_name --display-name "Python (venv_name)"
+```
+
+**파라미터:**
+- `--user`: 사용자 레벨 설치
+- `--name`: 커널 내부 이름
+- `--display-name`: 노트북에서 보이는 이름
+
+### 3. 커널 관리
+
+```bash
+# 커널 목록 확인
+jupyter kernelspec list
+
+# 커널 제거
+jupyter kernelspec uninstall kernel_name
+```
+
+### 4. VS Code에서 사용
+
+1. 노트북 파일 열기
+2. 우측 상단 커널 선택 버튼 클릭
+3. 등록한 커널 선택
+
+또는 명령 팔레트(Ctrl+Shift+P) → "Python: Select Interpreter"
+
+---
+
+## Matplotlib 한글 깨짐 해결
+
+### 방법 1: koreanize-matplotlib 사용 (가장 간단, 권장)
+
+```bash
+# 패키지 설치
+pip install koreanize-matplotlib
+```
+
+```python
+import matplotlib.pyplot as plt
+import koreanize_matplotlib  # 한글 폰트 자동 설정
+
+# 이제 바로 한글 사용 가능
+plt.figure(figsize=(8, 6))
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+plt.title('한글 제목 테스트')
+plt.xlabel('x축 레이블')
+plt.ylabel('y축 레이블')
+plt.show()
+```
+
+**장점:**
+- 한 줄 import로 자동 설정
+- 폰트 설치 및 설정 자동 처리
+- 마이너스 기호 깨짐도 자동 해결
+
+---
+
+### 방법 2: 수동 설정 (Ubuntu)
+
+#### 1. 한글 폰트 설치
+
+```bash
+# 나눔 폰트 설치
+sudo apt-get install fonts-nanum fonts-nanum-coding
+
+# 또는 Noto 폰트 설치
+sudo apt-get install fonts-noto-cjk
+
+# 폰트 캐시 삭제 (필요시)
+fc-cache -fv
+```
+
+#### 2. 설치된 폰트 확인
+
+```bash
+# 한글 폰트 목록 확인
+fc-list :lang=ko
+```
+
+#### 3. Matplotlib 설정
+
+**노트북에서 직접 설정**
+
+```python
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
+# 한글 폰트 설정
+plt.rcParams['font.family'] = 'NanumGothic'  # 나눔고딕
+# 또는
+plt.rcParams['font.family'] = 'Noto Sans CJK KR'  # Noto 폰트
+
+# 마이너스 기호 깨짐 방지
+plt.rcParams['axes.unicode_minus'] = False
+
+# 설정 확인
+print(plt.rcParams['font.family'])
+```
+
+**matplotlib 설정 파일 수정**
+
+```python
+import matplotlib
+print(matplotlib.matplotlib_fname())  # 설정 파일 경로 확인
+```
+
+설정 파일(`~/.config/matplotlib/matplotlibrc`)에 추가:
+
+```ini
+font.family : NanumGothic
+axes.unicode_minus : False
+```
+
+**사용 가능한 폰트 확인 후 선택**
+
+```python
+import matplotlib.font_manager as fm
+
+# 사용 가능한 한글 폰트 목록
+font_list = [f.name for f in fm.fontManager.ttflist if 'Nanum' in f.name or 'Noto' in f.name]
+print(font_list)
+
+# 폰트 설정
+plt.rcParams['font.family'] = font_list[0] if font_list else 'DejaVu Sans'
+plt.rcParams['axes.unicode_minus'] = False
+```
+
+#### 4. 완전한 예제
+
+```python
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
+# 한글 폰트 설정
+plt.rcParams['font.family'] = 'NanumGothic'
+plt.rcParams['axes.unicode_minus'] = False
+
+# 테스트
+plt.figure(figsize=(8, 6))
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+plt.title('한글 제목 테스트')
+plt.xlabel('x축 레이블')
+plt.ylabel('y축 레이블')
+plt.show()
+```
+
+### 자주 사용하는 폰트 이름
+
+- `NanumGothic` - 나눔고딕
+- `NanumBarunGothic` - 나눔바른고딕
+- `Noto Sans CJK KR` - Noto Sans 한글
+- `Malgun Gothic` - 맑은 고딕 (Windows)
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/en","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/en/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/en/blog/Jupyter Notebook","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Jupyter Notebook","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"주피터 노트북 설정 가이드"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"주피터 노트북 설정 가이드\",\"description\":\"가상환경 커널 설정 및 matplotlib 한글 깨짐 해결법\",\"image\":\"https://woolimi.github.io/og?title=주피터 노트북 설정 가이드\",\"url\":\"https://woolimi.github.io/blog/Jupyter Notebook/setup.ko.\",\"author\":{\"@type\":\"Person\",\"name\":\"Woolim Park\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"주피터 노트북 설정 가이드"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

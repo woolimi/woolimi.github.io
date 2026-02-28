@@ -1,0 +1,283 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+6:I[64725,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[64725,[],"ViewportBoundary"]
+b:I[64725,[],"MetadataBoundary"]
+d:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","projects","schools","ft_container"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","ft_container","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Le"}]]}]
+f:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+10:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+11:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+17:I[85584,[],"IconMark"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ft_container"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ft_container\",\"description\":\"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=ft_container\",\"url\":\"https://woolimi.github.io/projects/schools/ft_container\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"ft_container"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"C++"}]]}],"$L15"]}],"$L16"]}]}]
+c:[["$","title","0",{"children":"ft_container | 박우림"}],["$","meta","1",{"name":"description","content":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"ft_container"}],["$","meta","6",{"property":"og:description","content":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/ft_container"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=ft_container"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"ft_container"}],["$","meta","12",{"name":"twitter:description","content":"ft_container는 ecole42의 프로젝트로, C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 ft 네임스페이스에서 재구현한 프로젝트. vector, list, map, set 등 9개의 컨테이너를 표준 라이브러리와 동일한 인터페이스로 구현하며, 메모리 관리, 반복자, 템플릿 프로그래밍, RAII 원칙 등 고급 C++ 개념을 학습한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=ft_container"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L17","19",{}]]
+8:null
+19:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+1b:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+18:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z15:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ft_container","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$18","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+1a:T1dc6,
+## 개요
+
+이 프로젝트는 C++ 표준 템플릿 라이브러리(STL)의 컨테이너들을 `ft` 네임스페이스에서 재구현한 것이다. 모든 컨테이너는 표준 라이브러리와 동일한 인터페이스와 동작을 제공하며, 메모리 관리, 반복자, 템플릿 프로그래밍 등의 개념을 학습할 수 있다.
+
+## 구현된 컨테이너
+
+### 시퀀스 컨테이너 (Sequence Containers)
+
+#### 1. **vector** (`Vector.hpp`)
+
+- 동적 배열 컨테이너
+- 연속된 메모리 공간에 요소 저장
+- 랜덤 액세스 반복자 지원
+- 성장 인자: 1.5배 (동적 확장)
+
+#### 2. **list** (`List.hpp`)
+
+- 이중 연결 리스트 컨테이너
+- 양방향 반복자 지원
+- 양쪽 끝에서 O(1) 삽입/삭제
+- 특수 연산: `splice`, `merge`, `sort`, `reverse`, `unique`, `remove`
+
+#### 3. **deque** (`Deque.hpp`)
+
+- 양방향 큐 컨테이너
+- 양쪽 끝에서 O(1) 삽입/삭제
+- 랜덤 액세스 반복자 지원
+
+### 컨테이너 어댑터 (Container Adapters)
+
+#### 4. **stack** (`Stack.hpp`)
+
+- LIFO (Last In First Out) 스택
+- `list` 컨테이너를 기반으로 구현
+- `push`, `pop`, `top` 연산 제공
+
+#### 5. **queue** (`Queue.hpp`)
+
+- FIFO (First In First Out) 큐
+- `list` 컨테이너를 기반으로 구현
+- `push`, `pop`, `front`, `back` 연산 제공
+
+### 연관 컨테이너 (Associative Containers)
+
+#### 6. **map** (`Map.hpp`)
+
+- 키-값 쌍을 저장하는 정렬된 연관 컨테이너
+- 이진 탐색 트리(B-tree) 기반 구현
+- 중복 키 허용 안 함
+- O(log n) 검색, 삽입, 삭제
+
+#### 7. **set** (`Set.hpp`)
+
+- 고유한 요소를 저장하는 정렬된 연관 컨테이너
+- 이진 탐색 트리(B-tree) 기반 구현
+- 중복 값 허용 안 함
+- O(log n) 검색, 삽입, 삭제
+
+#### 8. **multimap** (`MultiMap.hpp`)
+
+- `map`과 유사하지만 중복 키 허용
+- 동일한 키를 가진 여러 요소 저장 가능
+
+#### 9. **multiset** (`MultiSet.hpp`)
+
+- `set`과 유사하지만 중복 값 허용
+- 동일한 값을 가진 여러 요소 저장 가능
+
+## 주요 기능
+
+### 반복자 (Iterators)
+
+- **Forward Iterator**: `list`, `set`, `map` 등
+- **Bidirectional Iterator**: `list`, `set`, `map` 등
+- **Random Access Iterator**: `vector`, `deque`
+- **Reverse Iterator**: 모든 컨테이너 지원
+- **Const Iterator**: 모든 컨테이너 지원
+
+### 메모리 관리
+
+- 커스텀 allocator 지원
+- **RAII 원칙 준수**: 리소스 획득은 초기화(Resource Acquisition Is Initialization)
+  - 객체가 생성될 때 리소스(메모리)를 획득하고, 소멸될 때 자동으로 해제
+  - 소멸자에서 `destroy()`와 `deallocate()`를 호출하여 메모리 누수 방지
+  - 예시: `vector`의 소멸자에서 할당된 모든 요소를 `destroy()`하고 메모리를 `deallocate()`
+- **예외 안전성 보장**: 예외 발생 시에도 리소스가 안전하게 관리된다
+  - `at()`: 범위를 벗어나면 `std::out_of_range` 예외 발생
+  - `reserve()`: 너무 큰 크기 요청 시 `std::length_error` 예외 발생
+  - 예외 발생 시에도 기존 데이터의 무결성 유지 (Basic Guarantee)
+
+### 템플릿 프로그래밍
+
+- SFINAE (Substitution Failure Is Not An Error) 활용
+- `enable_if`를 통한 템플릿 특수화
+- `is_integral` 타입 트레이트
+
+## 파일 구조
+
+```
+ft_containers/
+├── Vector.hpp          # vector 컨테이너 구현
+├── List.hpp            # list 컨테이너 구현
+├── Deque.hpp           # deque 컨테이너 구현
+├── Stack.hpp           # stack 컨테이너 어댑터
+├── Queue.hpp           # queue 컨테이너 어댑터
+├── Map.hpp             # map 연관 컨테이너
+├── Set.hpp             # set 연관 컨테이너
+├── MultiMap.hpp        # multimap 연관 컨테이너
+├── MultiSet.hpp        # multiset 연관 컨테이너
+├── iterator.hpp        # 반복자 베이스 클래스 및 유틸리티
+├── utility.hpp         # 유틸리티 함수 및 타입 트레이트
+├── Btree.hpp           # 이진 탐색 트리 구현 (map/set 기반)
+├── compile.sh          # 컴파일 스크립트
+└── test/               # 테스트 파일들
+    ├── vectorTest.cpp
+    ├── listTest.cpp
+    ├── mapTest.cpp
+    ├── setTest.cpp
+    ├── dequeTest.cpp
+    ├── stackTest.cpp
+    ├── queueTest.cpp
+    ├── multimapTest.cpp
+    ├── multisetTest.cpp
+    └── test.hpp
+```
+
+## 사용 방법
+
+### 기본 사용 예제
+
+```cpp
+#include "Vector.hpp"
+#include "List.hpp"
+#include "Map.hpp"
+#include <iostream>
+
+int main() {
+    // Vector 사용 예제
+    ft::vector<int> vec;
+    vec.push_back(1);
+    vec.push_back(2);
+    vec.push_back(3);
+
+    for (ft::vector<int>::iterator it = vec.begin(); it != vec.end(); ++it) {
+        std::cout << *it << " ";
+    }
+    std::cout << std::endl;
+
+    // List 사용 예제
+    ft::list<std::string> lst;
+    lst.push_back("Hello");
+    lst.push_back("World");
+    lst.push_front("ft");
+
+    // Map 사용 예제
+    ft::map<std::string, int> mp;
+    mp["one"] = 1;
+    mp["two"] = 2;
+    mp["three"] = 3;
+
+    ft::map<std::string, int>::iterator it = mp.find("two");
+    if (it != mp.end()) {
+        std::cout << "Found: " << it->first << " = " << it->second << std::endl;
+    }
+
+    return 0;
+}
+```
+
+### 컴파일
+
+```bash
+# 컴파일 스크립트 사용
+./compile.sh
+
+# 또는 직접 컴파일
+g++ -std=c++98 -Wall -Wextra -Werror your_file.cpp
+```
+
+## 구현 세부사항
+
+### Vector
+
+- **메모리 할당**: 동적 배열 할당
+- **성장 전략**: 현재 크기의 1.5배로 확장
+- **반복자 무효화**: 재할당 시 모든 반복자 무효화
+- **예외 안전성**: 기본 보장 (Basic Guarantee)
+
+### List
+
+- **구조**: 이중 연결 리스트
+- **더미 노드**: 순환 리스트 구조 (`_tip` 노드)
+- **특수 연산**:
+  - `splice`: O(1) 리스트 병합
+  - `merge`: 정렬된 리스트 병합
+  - `sort`: 버블 정렬 알고리즘
+  - `reverse`: O(n) 역순 변환
+
+### Map/Set
+
+- **구조**: 이진 탐색 트리 (B-tree)
+- **균형**: AVL 트리 또는 Red-Black 트리 (구현에 따라 다름)
+- **정렬**: 키/값의 비교 함수를 통한 자동 정렬
+- **반복자**: 중위 순회 (in-order traversal)
+
+### Iterator
+
+- **베이스 클래스**:
+  - `BaseIter<T>`: vector, deque용
+  - `ListBaseIter<T>`: list용
+  - `BtreeBaseIter<E, Compare, isMulti>`: map/set용
+- **역방향 반복자**: `ReverseIterator`, `ConstReverseIterator` 래퍼
+
+### Utility
+
+- **pair**: 키-값 쌍 구조체
+- **less**: 비교 함수 객체
+- **enable_if**: SFINAE를 위한 타입 트레이트
+- **is_integral**: 정수 타입 판별
+- **swap**: 값 교환 함수
+- **distance**: 반복자 간 거리 계산
+
+## Allocator
+
+프로젝트는 표준 `std::allocator`를 사용하며, 커스텀 allocator도 지원한다.
+
+```cpp
+template <class T>
+class allocator
+{
+public:
+    T* allocate(size_t n);           // 메모리 할당
+    void deallocate(T*, size_t);     // 메모리 해제
+    void construct(T*, const T&);    // 객체 생성
+    void destroy(T*);                // 객체 소멸
+};
+```
+
+## 테스트
+
+`test/` 디렉토리에 각 컨테이너별 테스트 파일이 포함되어 있다. 각 테스트는 표준 라이브러리와의 동작 일치성을 검증한다.
+
+## 주의사항
+
+- C++98 표준 준수
+- 표준 라이브러리(`std::`) 사용 금지 (컨테이너 구현 시)
+- 메모리 누수 없이 구현
+- 예외 안전성 보장
+- 반복자 무효화 규칙 준수
+
+## 라이선스
+
+이 프로젝트는 교육 목적으로 작성되었다.
+16:["$","article",null,{"children":["$","$L19",null,{"children":"$1a"}]}]
+13:["$","$L1b",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1b",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/LLM","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"LLM","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Ollama"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Ollama\",\"description\":\"Ollama의 기본 명령어와 모델 관리 방법, Quantize(양자화)를 통한 모델 최적화 기법을 설명한다. 로컬 LLM 모델의 크기와 성능을 조절하는 방법을 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Ollama\",\"url\":\"https://woolimi.github.io/blog/AI/LLM/ollama\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Ollama"}]
+9:Taf4,
+아두이노를 Ollama 로 설치한 로컬 LLM 으로 제어하기
+
+## Ollama
+
+### 기본 명령어
+
+```
+ollama pull [모델명]
+ollama pull [모델명:태그]
+ollama list
+ollama run [모델명]
+ollama show [모델명]
+```
+
+### Quantize (양자화)
+
+Quantize는 모델의 가중치를 낮은 비트로 변환하여 모델 크기를 줄이고 메모리 사용량을 감소시키는 기법이다. 추론 속도를 높이고 더 작은 하드웨어에서도 모델을 실행할 수 있게 해준다.
+
+#### Quantize란?
+
+- **정의**: 모델의 가중치를 높은 정밀도(예: 32비트 float)에서 낮은 정밀도(예: 4비트, 8비트)로 변환하는 과정
+- **목적**: 모델 크기 감소, 메모리 사용량 감소, 추론 속도 향상
+- **트레이드오프**: 정밀도가 낮아질수록 모델 성능이 약간 저하될 수 있지만, 대부분의 경우 실용적인 수준에서 유지됨
+
+#### Quantize 사용 방법
+
+Ollama에서는 모델을 pull할 때 이미 양자화된 버전을 선택할 수 있다. 모델명 뒤에 태그를 붙여 양자화 수준을 지정한다.
+
+```
+# 양자화되지 않은 원본 모델
+ollama pull llama2
+
+# 4비트 양자화 (Q4_0)
+ollama pull llama2:4bit
+
+# 8비트 양자화 (Q8_0)
+ollama pull llama2:8bit
+
+# 특정 양자화 버전 확인
+ollama list
+```
+
+#### 양자화 수준
+
+| 양자화 수준 | 비트 수 | 모델 크기 | 메모리 사용량 | 성능      | 추론 속도 |
+| ----------- | ------- | --------- | ------------- | --------- | --------- |
+| 원본 (FP32) | 32비트  | 매우 큼   | 매우 높음     | 최고      | 느림      |
+| Q8_0        | 8비트   | 작음      | 낮음          | 매우 좋음 | 빠름      |
+| Q4_0        | 4비트   | 매우 작음 | 매우 낮음     | 좋음      | 매우 빠름 |
+| Q2_K        | 2비트   | 극히 작음 | 극히 낮음     | 보통      | 매우 빠름 |
+
+#### Quantize 사용 예시
+
+```bash
+# 4비트 양자화 모델 다운로드 (메모리 절약)
+ollama pull llama2:4bit
+
+# 8비트 양자화 모델 다운로드 (성능과 크기 균형)
+ollama pull llama2:8bit
+
+# 양자화된 모델 실행
+ollama run llama2:4bit
+
+# 설치된 모델 목록 확인
+ollama list
+```
+
+#### Quantize 선택 가이드
+
+- **Q4_0 (4비트)**: 메모리가 제한적인 환경, 빠른 추론이 필요한 경우
+- **Q8_0 (8비트)**: 성능과 크기의 균형이 필요한 경우
+- **원본 (FP32)**: 최고 성능이 필요한 경우, 메모리가 충분한 경우
+
+#### 주의사항
+
+1. **성능 저하**: 양자화 수준이 낮을수록 모델 성능이 약간 저하될 수 있다
+2. **호환성**: 모든 모델이 모든 양자화 수준을 지원하는 것은 아니다
+3. **테스트**: 실제 사용 환경에서 양자화된 모델의 성능을 테스트해보는 것이 좋다
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

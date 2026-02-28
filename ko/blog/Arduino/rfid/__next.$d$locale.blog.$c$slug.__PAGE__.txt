@@ -1,0 +1,494 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T3dd1,
+## 라이브러리 설치
+
+RFID 리더기 사용을 위해 MFRC522 라이브러리가 필요하다.
+
+```
+Arduino IDE > 스케치 > 라이브러리 포함하기 > 라이브러리 관리
+> "MFRC522" 검색 > 설치
+```
+
+## 연결 방법
+
+MFRC522 모듈과 아두이노 연결:
+
+| MFRC522 | Arduino           |
+| ------- | ----------------- |
+| SDA     | 10                |
+| SCK     | 13                |
+| MOSI    | 11                |
+| MISO    | 12                |
+| RST     | 9                 |
+| 3.3V    | 3.3V (안될시 Vin) |
+| GND     | GND               |
+
+## 주요 함수
+
+- **`mfrc522.PCD_Init()`**: MFRC522 RFID 리더기를 초기화하는 함수이다. PCD는 Proximity Coupling Device(근접 결합 장치)의 약자로, RFID 리더기 모듈을 사용하기 전에 반드시 호출해야 한다. 이 함수는 하드웨어를 초기화하고 기본 설정을 구성한다.
+
+- **`mfrc522.PICC_IsNewCardPresent()`**: 리더기 근처에 새로운 카드가 있는지 확인하는 함수이다. PICC는 Proximity Integrated Circuit Card(근접 통합 회로 카드)의 약자이다. 카드가 감지되면 `true`, 없으면 `false`를 반환한다. `loop()` 함수에서 주기적으로 호출하여 카드 감지 여부를 확인한다.
+
+- **`mfrc522.PICC_ReadCardSerial()`**: 카드의 시리얼 번호(UID)를 읽는 함수이다. 카드가 감지된 후 호출하여 `mfrc522.uid` 구조체에 UID 정보를 저장한다. 성공하면 `true`, 실패하면 `false`를 반환한다. 일반적으로 `PICC_IsNewCardPresent()` 다음에 호출한다.
+
+- **`mfrc522.PICC_HaltA()`**: 현재 인식된 카드를 정지(Halt)시키는 함수이다. 카드와의 통신을 종료하고 카드를 대기 상태로 만든다. 카드 작업이 끝난 후 호출하여 다음 카드 감지를 준비한다. 이 함수를 호출하지 않으면 같은 카드가 계속 감지될 수 있다.
+
+- **`mfrc522.PCD_StopCrypto1()`**: 암호화 통신을 종료하는 함수이다. 카드와의 인증된 통신이 끝난 후 호출하여 보안 상태를 해제한다. `PICC_HaltA()` 다음에 호출하는 것이 일반적이다.
+
+## MIFARE Classic 카드 구조
+
+MIFARE Classic 카드는 **16개의 섹터**로 구성되어 있으며, 각 섹터는 **4개의 블록**으로 이루어져 있다.
+
+- **총 블록 수**: 64개 (0~63)
+- **섹터 수**: 16개 (0~15)
+- **각 섹터의 블록 수**: 4개
+- **블록 크기**: 16바이트
+
+| 섹터 | 블록 번호 | 용도                            |
+| ---- | --------- | ------------------------------- |
+| 0    | 0~3       | 블록 0: 제조사 정보 (읽기 전용) |
+| 1    | 4~7       | 블록 7: 섹터 트레일러 (키 저장) |
+| 2    | 8~11      | 블록 11: 섹터 트레일러          |
+| ...  | ...       | ...                             |
+| 15   | 60~63     | 블록 63: 섹터 트레일러          |
+
+각 섹터의 **마지막 블록(3, 7, 11, ..., 63)**은 **섹터 트레일러**로, 키와 접근 권한이 저장된다.
+
+섹터 트레일러 구조 (16바이트) 는 다음과 같은 구조로 되어있다
+
+```
+[키 A (6바이트)] [접근 비트 (4바이트)] [키 B (6바이트)]
+```
+
+- **키 A**: 0~5번째 바이트
+- **접근 비트**: 6~9번째 바이트
+- **키 B**: 10~15번째 바이트
+
+### 키 A와 키 B
+
+섹터 트레일러에는 두 개의 인증 키가 저장되어 있다. 각 키는 6바이트(48비트)로 구성된다.
+
+#### 키 A (Key A)
+
+- **용도**: 기본 인증 키로 가장 많이 사용된다
+- **인증 방법**: `PICC_CMD_MF_AUTH_KEY_A` 사용
+- **기본값**: `0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF` (6바이트)
+- **특징**:
+  - 일반적으로 읽기/쓰기 인증에 사용
+  - 대부분의 경우 키 A만으로 충분
+  - 코드에서 `authenticateSector()` 함수가 키 A로 인증
+
+```c++
+// 키 A로 인증하는 예시
+MFRC522::StatusCode status = mfrc522.PCD_Authenticate(
+  MFRC522::PICC_CMD_MF_AUTH_KEY_A, trailerBlock, &key, &(mfrc522.uid)
+);
+```
+
+#### 키 B (Key B)
+
+- **용도**: 추가 보안용 키 또는 특수 기능용 키
+- **인증 방법**: `PICC_CMD_MF_AUTH_KEY_B` 사용
+- **기본값**: `0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF` (6바이트)
+- **특징**:
+  - 접근 비트(Access Bits) 설정에 따라 사용 여부가 결정됨
+  - 더 높은 보안이 필요한 경우 사용
+  - 값 증가/감소 같은 특수 기능에 사용 가능
+  - 접근 비트 설정에 따라 키 B가 읽기 전용이 되거나 사용 불가능할 수 있음
+
+```c++
+// 키 B로 인증하는 예시
+MFRC522::StatusCode status = mfrc522.PCD_Authenticate(
+  MFRC522::PICC_CMD_MF_AUTH_KEY_B, trailerBlock, &key, &(mfrc522.uid)
+);
+```
+
+#### 키 A와 키 B의 차이
+
+1. **기본값**: 둘 다 `0xFF` 6개로 동일하지만, 실제로는 서로 다른 키 값으로 설정 가능
+2. **용도**: 키 A는 기본 인증, 키 B는 추가 보안/특수 기능
+3. **접근 권한**: 접근 비트 설정에 따라 키 A만 사용하거나 키 B도 함께 사용 가능
+4. **실제 사용**: 대부분의 경우 키 A만 사용하며, 키 B는 고급 보안이 필요한 경우에 사용
+
+#### 기본 키 설정
+
+대부분의 MIFARE Classic 카드는 다음 기본 키를 사용한다:
+
+```c++
+byte defaultKeyA[6] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
+byte defaultKeyB[6] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
+
+// 키 초기화
+MFRC522::MIFARE_Key key;
+for (byte i = 0; i < 6; i++) {
+  key.keyByte[i] = 0xFF;  // 키 A와 키 B 모두 기본값으로 설정
+}
+```
+
+**주의**: 기본 키는 보안이 약하므로, 실제 프로덕션 환경에서는 고유한 키로 변경하는 것이 좋다.
+
+## 주의사항
+
+1. **블록 0은 읽기 전용**: 제조사 정보가 저장되어 있어 수정할 수 없다.
+2. **섹터 트레일러 수정 주의**: 키나 접근 비트를 잘못 수정하면 카드를 사용할 수 없게 된다.
+3. **인증 필요**: 데이터를 읽거나 쓰기 전에 반드시 인증이 필요하다.
+4. **키 관리**: 기본 키 외에 다른 키를 사용하는 경우, 해당 키를 알고 있어야 데이터에 접근할 수 있다.
+5. **블록 선택**: 데이터 저장 시 블록 0과 섹터 트레일러는 반드시 피해야 한다.
+
+## 라이브러리
+
+- RFIDCard.h
+
+```c++
+#ifndef RFID_CARD_H
+#define RFID_CARD_H
+
+#include <Arduino.h>
+#include <SPI.h>
+#include <MFRC522.h>
+
+// UID 구조체 (리스트에 저장하기 위해)
+struct CardUID {
+  byte uidByte[10];  // 최대 10바이트 (일반적으로 4 또는 7바이트)
+  byte size;         // UID 크기
+};
+
+// RFID 카드 관리 함수들 (범용 함수)
+// MFRC522 객체는 외부에서 전역으로 관리됨
+
+// 초기화 (MFRC522 객체와 키 참조 전달)
+void initRFIDCard(MFRC522& mfrc522, MFRC522::MIFARE_Key& key);
+
+// 카드가 감지되었는지 확인
+bool isCardPresent(MFRC522& mfrc522);
+
+// 현재 카드의 UID를 CardUID 구조체로 변환
+CardUID getCurrentCardUID(MFRC522& mfrc522);
+
+// 두 UID가 같은지 비교
+bool compareUIDs(CardUID uid1, CardUID uid2);
+
+// 카드 처리 종료
+void haltCard(MFRC522& mfrc522);
+
+// UID 출력 (디버깅용)
+void printUID(MFRC522& mfrc522);
+
+// ============================================
+// 안전한 블록 체크 함수
+// ============================================
+
+// 안전한 블록인지 확인 (블록 0과 섹터 트레일러 제외)
+// blockAddr: 확인할 블록 주소
+// 반환값: 안전한 블록이면 true, 아니면 false
+bool isSafeBlock(byte blockAddr);
+
+// 다음 안전한 블록 찾기
+// startBlock: 검색을 시작할 블록 주소
+// 반환값: 찾은 블록 주소, 없으면 255
+byte findNextSafeBlock(byte startBlock);
+
+// ============================================
+// 범용 블록 읽기/쓰기 함수 (템플릿)
+// ============================================
+
+// 섹터 트레일러 블록 주소 계산 (헬퍼 함수)
+byte getTrailerBlock(byte blockAddr);
+
+// 섹터 인증 (헬퍼 함수)
+bool authenticateSector(MFRC522& mfrc522, MFRC522::MIFARE_Key& key, byte blockAddr);
+
+// 구조체를 지정된 블록에 쓰기 (템플릿)
+// T: 쓰고자 하는 구조체 타입
+// blockAddr: 시작 블록 주소
+// 반환값: 성공 시 true, 실패 시 false
+template<typename T>
+bool writeToBlock(MFRC522& mfrc522, MFRC522::MIFARE_Key& key, byte blockAddr, const T& data) {
+  size_t dataSize = sizeof(T);
+  size_t numBlocks = (dataSize + 15) / 16;  // 필요한 블록 수 계산 (올림)
+
+  if (numBlocks == 0) {
+    Serial.println("데이터 크기가 0입니다.");
+    return false;
+  }
+
+  // 데이터를 바이트 배열로 변환
+  byte* dataBytes = (byte*)&data;
+
+  // 각 블록에 쓰기
+  for (size_t i = 0; i < numBlocks; i++) {
+    byte currentBlock = blockAddr + i;
+
+    // 섹터 인증 (각 블록이 속한 섹터마다)
+    if (!authenticateSector(mfrc522, key, currentBlock)) {
+      Serial.print("블록 ");
+      Serial.print(currentBlock);
+      Serial.println(" 인증 실패");
+      return false;
+    }
+
+    // 현재 블록에 쓸 데이터 준비 (최대 16바이트)
+    byte blockData[16];
+    size_t offset = i * 16;
+    size_t bytesToWrite = (offset + 16 <= dataSize) ? 16 : (dataSize - offset);
+
+    memcpy(blockData, dataBytes + offset, bytesToWrite);
+    // 나머지 바이트는 0으로 채우기
+    for (size_t j = bytesToWrite; j < 16; j++) {
+      blockData[j] = 0;
+    }
+
+    // 블록에 쓰기
+    MFRC522::StatusCode status = mfrc522.MIFARE_Write(currentBlock, blockData, 16);
+    if (status != MFRC522::STATUS_OK) {
+      Serial.print("블록 ");
+      Serial.print(currentBlock);
+      Serial.println(" 쓰기 실패");
+      return false;
+    }
+  }
+
+  return true;
+}
+
+// 지정된 블록에서 구조체 읽기 (템플릿)
+// T: 읽고자 하는 구조체 타입
+// blockAddr: 시작 블록 주소
+// 반환값: 성공 시 true, 실패 시 false
+template<typename T>
+bool readFromBlock(MFRC522& mfrc522, MFRC522::MIFARE_Key& key, byte blockAddr, T* data) {
+  size_t dataSize = sizeof(T);
+  size_t numBlocks = (dataSize + 15) / 16;  // 필요한 블록 수 계산 (올림)
+
+  if (numBlocks == 0) {
+    Serial.println("데이터 크기가 0입니다.");
+    return false;
+  }
+
+  // 데이터를 저장할 바이트 배열
+  byte* dataBytes = (byte*)data;
+
+  // 각 블록에서 읽기
+  for (size_t i = 0; i < numBlocks; i++) {
+    byte currentBlock = blockAddr + i;
+
+    // 섹터 인증 (각 블록이 속한 섹터마다)
+    if (!authenticateSector(mfrc522, key, currentBlock)) {
+      Serial.print("블록 ");
+      Serial.print(currentBlock);
+      Serial.println(" 인증 실패");
+      return false;
+    }
+
+    // 블록 읽기
+    byte buffer[18];
+    byte size = sizeof(buffer);
+
+    MFRC522::StatusCode status = mfrc522.MIFARE_Read(currentBlock, buffer, &size);
+    if (status != MFRC522::STATUS_OK) {
+      Serial.print("블록 ");
+      Serial.print(currentBlock);
+      Serial.println(" 읽기 실패");
+      return false;
+    }
+
+    // 읽은 데이터 복사 (최대 16바이트)
+    size_t offset = i * 16;
+    size_t bytesToRead = (offset + 16 <= dataSize) ? 16 : (dataSize - offset);
+    memcpy(dataBytes + offset, buffer, bytesToRead);
+  }
+
+  return true;
+}
+
+#endif
+```
+
+- RFIDCard.cpp
+
+```c++
+#include "RFIDCard.h"
+
+// 초기화
+void initRFIDCard(MFRC522& mfrc522, MFRC522::MIFARE_Key& key) {
+  SPI.begin();
+  mfrc522.PCD_Init();
+
+  // 기본 키 설정 (0xFF로 초기화)
+  for (byte i = 0; i < 6; i++) {
+    key.keyByte[i] = 0xFF;
+  }
+}
+
+// 카드가 감지되었는지 확인
+bool isCardPresent(MFRC522& mfrc522) {
+  return mfrc522.PICC_IsNewCardPresent() && mfrc522.PICC_ReadCardSerial();
+}
+
+// 현재 카드의 UID를 CardUID 구조체로 변환
+CardUID getCurrentCardUID(MFRC522& mfrc522) {
+  CardUID cardUID;
+  cardUID.size = mfrc522.uid.size;
+  for (byte i = 0; i < mfrc522.uid.size && i < 10; i++) {
+    cardUID.uidByte[i] = mfrc522.uid.uidByte[i];
+  }
+  return cardUID;
+}
+
+// 두 UID가 같은지 비교
+bool compareUIDs(CardUID uid1, CardUID uid2) {
+  if (uid1.size != uid2.size) {
+    return false;
+  }
+  for (byte i = 0; i < uid1.size; i++) {
+    if (uid1.uidByte[i] != uid2.uidByte[i]) {
+      return false;
+    }
+  }
+  return true;
+}
+
+
+// 카드 처리 종료
+void haltCard(MFRC522& mfrc522) {
+  mfrc522.PICC_HaltA();
+  mfrc522.PCD_StopCrypto1();
+}
+
+// UID 출력 (디버깅용)
+void printUID(MFRC522& mfrc522) {
+  Serial.print("UID: ");
+  for (byte i = 0; i < mfrc522.uid.size; i++) {
+    Serial.print(mfrc522.uid.uidByte[i] < 0x10 ? " 0" : " ");
+    Serial.print(mfrc522.uid.uidByte[i], HEX);
+  }
+  Serial.println();
+}
+
+// 안전한 블록인지 확인 (블록 0과 섹터 트레일러 제외)
+bool isSafeBlock(byte blockAddr) {
+  // 블록 0은 제조사 정보 (읽기 전용)
+  if (blockAddr == 0) return false;
+
+  // 섹터 트레일러는 각 섹터의 마지막 블록 (3, 7, 11, ..., 63)
+  if ((blockAddr + 1) % 4 == 0) return false;
+
+  return true;
+}
+
+// 다음 안전한 블록 찾기
+byte findNextSafeBlock(byte startBlock) {
+  for (byte i = startBlock; i < 64; i++) {
+    if (isSafeBlock(i)) {
+      return i;
+    }
+  }
+  return 255; // 사용 가능한 블록 없음
+}
+
+// 섹터 트레일러 블록 주소 계산
+byte getTrailerBlock(byte blockAddr) {
+  // MIFARE 카드는 16개 섹터로 구성되며, 각 섹터는 4개 블록으로 구성됩니다
+  // 예: 섹터 0 = 블록 0,1,2,3 / 섹터 1 = 블록 4,5,6,7 / 섹터 2 = 블록 8,9,10,11
+  // 각 섹터의 마지막 블록(인덱스 3, 7, 11, ...)은 트레일러 블록으로,
+  // 인증 키와 접근 권한이 저장되어 있어 데이터 블록에 접근하기 전에 인증이 필요합니다
+  byte sector = blockAddr / 4;              // 블록 주소를 4로 나누면 섹터 번호를 얻을 수 있음
+  return (sector * 4) + 3;                   // 섹터 번호 * 4 + 3 = 해당 섹터의 트레일러 블록 주소
+}
+
+// 섹터 인증
+bool authenticateSector(MFRC522& mfrc522, MFRC522::MIFARE_Key& key, byte blockAddr) {
+  byte trailerBlock = getTrailerBlock(blockAddr);
+
+  MFRC522::StatusCode status = mfrc522.PCD_Authenticate(
+    MFRC522::PICC_CMD_MF_AUTH_KEY_A, trailerBlock, &key, &(mfrc522.uid)
+  );
+
+  return (status == MFRC522::STATUS_OK);
+}
+```
+
+- 사용법
+
+```c++
+#include "RFIDCard.h"
+#include <List.hpp>
+
+MFRC522 mfrc522(SS_PIN, RST_PIN);
+MFRC522::MIFARE_Key key;
+
+// 스위치 버튼 객체 생성
+SwitchButton switchButton(SWITCH_PIN, 50);  // 핀 번호, debounce delay (ms)
+// 등록된 카드 UID 리스트
+List<CardUID> registeredUIDs;
+
+void setup() {
+  // RFID 초기화
+  initRFIDCard(mfrc522, key);
+}
+
+void loop() {
+  // 새 카드가 감지되었는지 확인
+  if (!isCardPresent(mfrc522)) {
+    return;
+  }
+
+  Serial.print("\n카드 감지! ");
+  printUID(mfrc522);
+
+  // 현재 카드의 UID 가져오기
+  CardUID currentUID = getCurrentCardUID(mfrc522);
+
+  // ===== writeToBlock / readFromBlock 사용 예시 =====
+
+  // 안전한 블록 찾기
+  byte blockAddr = findNextSafeBlock(1);
+  if (blockAddr == 255) {
+    Serial.println("사용 가능한 블록이 없습니다.");
+    haltCard(mfrc522);
+    return;
+  }
+
+  // 예시 1: 간단한 정수 저장/읽기
+  int score = 100;
+  writeToBlock(mfrc522, key, blockAddr, score);
+
+  int readScore;
+  readFromBlock(mfrc522, key, blockAddr, &readScore);
+  Serial.print("점수: ");
+  Serial.println(readScore);
+
+  // 예시 2: 간단한 구조체 저장/읽기
+  struct {
+    byte age;
+    char name[10];
+  } person = {25, "John"};
+
+  byte nextBlock = findNextSafeBlock(blockAddr + 1);
+  writeToBlock(mfrc522, key, nextBlock, person);
+
+  struct {
+    byte age;
+    char name[10];
+  } readPerson;
+  readFromBlock(mfrc522, key, nextBlock, &readPerson);
+  Serial.print("나이: ");
+  Serial.println(readPerson.age);
+  Serial.print("이름: ");
+  Serial.println(readPerson.name);
+
+  haltCard(mfrc522);
+  Serial.println("\n다음 카드를 태그하세요...");
+  delay(1000);
+}
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Arduino","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Arduino","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Arduino RFID"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Arduino RFID\",\"description\":\"아두이노에서 RFID 리더기 사용법. MIFARE Classic 카드의 섹터, 블록 구조와 키 위치, 데이터 읽기/쓰기 방법 정리.\",\"image\":\"https://woolimi.github.io/og?title=Arduino RFID\",\"url\":\"https://woolimi.github.io/blog/Arduino/rfid\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Arduino RFID"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

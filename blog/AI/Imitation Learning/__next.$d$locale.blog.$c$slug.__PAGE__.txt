@@ -1,0 +1,225 @@
+1:"$Sreact.fragment"
+2:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+3:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+4:I[25417,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlogArticleCard"]
+b:I[64725,[],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T2441,<h2 id="모방학습-주요-학습-방식"><a class="heading-link" aria-hidden="true" href="#모방학습-주요-학습-방식">모방학습 주요 학습 방식</a></h2>
+<h3 id="1-behavioral-cloning-행동-복제"><a class="heading-link" aria-hidden="true" href="#1-behavioral-cloning-행동-복제">1. Behavioral Cloning (행동 복제)</a></h3>
+<p>시연 데이터를 지도학습처럼 학습.</p>
+<ul>
+<li>입력: 상태(state), 출력: 행동(action) → supervised learning</li>
+<li>예: 사람이 조이스틱으로 로봇을 조종한 로그를 그대로 학습</li>
+</ul>
+<h3 id="2-inverse-reinforcement-learning-irl"><a class="heading-link" aria-hidden="true" href="#2-inverse-reinforcement-learning-irl">2. Inverse Reinforcement Learning (IRL)</a></h3>
+<p>시연을 보고 "전문가가 어떤 보상 함수를 최적화하고 있나?"를 역으로 추론.</p>
+<ul>
+<li>전문가의 의도를 수학적으로 복원</li>
+</ul>
+<h3 id="3-apprenticeship-learning-견습-학습"><a class="heading-link" aria-hidden="true" href="#3-apprenticeship-learning-견습-학습">3. Apprenticeship Learning (견습 학습)</a></h3>
+<p>보상 추론 대신 전문가의 정책 자체를 모방.</p>
+<ul>
+<li>IRL보다 단순하고 보상 설계 모호성을 줄임</li>
+</ul>
+<h2 id="학습-절차"><a class="heading-link" aria-hidden="true" href="#학습-절차">학습 절차</a></h2>
+<ol>
+<li>
+<p><strong>데이터 수집</strong>: 사람의 조작, 원격 텔레오퍼레이션, 모션캡처, 시뮬레이션 등으로 시연 데이터 수집</p>
+<ul>
+<li>로그: (상태, 행동) 쌍을 기록 → 데이터셋 구성</li>
+</ul>
+</li>
+<li>
+<p><strong>문제 변환</strong>: 시연 데이터를 지도학습 문제로 전환</p>
+<ul>
+<li>"이 상태에서 사람이 이런 행동을 했다"를 정답 라벨로 둠</li>
+</ul>
+</li>
+<li>
+<p><strong>모델 학습</strong>: 신경망(예: CNN, Transformer, Diffusion Policy 등)을 이용해 상태→행동 매핑을 학습</p>
+</li>
+<li>
+<p><strong>일반화</strong>: 새로운 환경에서도 비슷한 패턴을 인식해 적응 가능</p>
+</li>
+<li>
+<p><strong>실행</strong>: 로봇에 정책을 탑재, 실시간으로 행동 제어</p>
+</li>
+</ol>
+<h2 id="장단점"><a class="heading-link" aria-hidden="true" href="#장단점">장단점</a></h2>
+<table>
+<thead>
+<tr>
+<th>장점</th>
+<th>단점</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>빠른 학습</strong>: 보상설계없이 시연만으로 학습한다</td>
+<td><strong>데이터품질</strong>: 전문가 시연이 부족하거나 잡음이 많으면 성능 저하된다</td>
+</tr>
+<tr>
+<td><strong>사람같은 상호작용</strong>: 더 자연스러운 동작을 따라할 수 있다</td>
+<td><strong>고차원문제</strong>: 다관절로봇(예: 휴머노이드) - 학습에 어려움이 있다</td>
+</tr>
+<tr>
+<td><strong>적응력</strong>: 비정형환경에서도 대응 가능하다</td>
+<td><strong>일반화 한계</strong>: 학습에 없는 환경에서 쉽게 실패가능</td>
+</tr>
+<tr>
+<td><strong>확장성</strong>: 다양한 로봇/작업에 적용 가능하다</td>
+<td><strong>안전문제</strong>: 자율주행/헬스케어처럼 예외 상황 대응이 중요함</td>
+</tr>
+<tr>
+<td><strong>반복개선</strong>: 새로운 시연 데이터로 계속 업데이트 가능하다</td>
+<td><strong>샘플 효율성</strong>: 많은 시연 데이터 필요 - 시뮬레이션과 합성데이터활용이 필요</td>
+</tr>
+</tbody>
+</table>
+<h2 id="모방학습-주요-모델"><a class="heading-link" aria-hidden="true" href="#모방학습-주요-모델">모방학습 주요 모델</a></h2>
+<h3 id="1-bc-behavioral-cloning"><a class="heading-link" aria-hidden="true" href="#1-bc-behavioral-cloning">1. BC (Behavioral Cloning)</a></h3>
+<p><strong>소개</strong></p>
+<p>가장 기본적인 모방학습 방식으로, 전문가의 상태(state)와 행동(action) 데이터를 지도학습 형태로 학습</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>구현이 매우 쉽고 빠름</li>
+<li>보상 설계 없이 시연 데이터만으로 학습 가능</li>
+<li>단점: 작은 에러가 누적되어 covariate shift 발생 → training 분포와 execution 분포가 달라져 일반화가 약해짐</li>
+</ul>
+<h3 id="2-dagger-dataset-aggregation"><a class="heading-link" aria-hidden="true" href="#2-dagger-dataset-aggregation">2. DAgger (Dataset Aggregation)</a></h3>
+<p><strong>소개</strong></p>
+<p>BC의 covariate shift 문제를 해결하기 위한 interactive learning 기법. 에이전트가 직접 환경에서 행동한 후, 전문가에게 그 상황에서 무엇을 했을지 피드백을 받아 데이터를 점진적으로 확장</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>초기 데이터 부족 해결</li>
+<li>distribution mismatch를 줄여 안정성 향상</li>
+<li>전문가의 지속적인 피드백이 필요해 현실 적용 비용이 큼</li>
+</ul>
+<h3 id="3-diffusion-policy"><a class="heading-link" aria-hidden="true" href="#3-diffusion-policy">3. Diffusion Policy</a></h3>
+<p><strong>소개</strong></p>
+<p>Diffusion Model을 행동 시퀀스 예측에 적용. noisy action sequence를 만들고 점진적으로 정제(denoising)하면서 최종 policy를 생성</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>긴 시간 동안 이어지는 복잡한 행동(long-horizon sequence)에 강점</li>
+<li>연속적인 움직임을 매끄럽게 만들어 manipulation 성능이 안정적</li>
+<li>transformer 기반 시퀀스 예측 보다 안정성 향상</li>
+</ul>
+<h3 id="4-act-action-chunking-with-transformers"><a class="heading-link" aria-hidden="true" href="#4-act-action-chunking-with-transformers">4. ACT (Action Chunking with Transformers)</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2304.13705">ACT (Action Chunking with Transformers)</a></p>
+<p>Transformer 기반 imitation learning 기법. 긴 action sequence를 chunk 단위로 묶어 효율적으로 학습</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>저비용 하드웨어 + 짧은 시연(10분)만으로도 bimanual task(양팔 협동 조작)를 높은 성공률로 학습</li>
+<li>WidowX Arm 두 대를 활용한 ALOHA 텔레오퍼레이션 시스템에서 검증</li>
+<li>2024년에는 Mobile ALOHA로 확장 → 이동(base navigation)과 양팔 조작을 동시에 학습 가능</li>
+<li><a href="https://www.youtube.com/watch?v=zMNumQ45pJ8">데모 영상</a></li>
+</ul>
+<h3 id="5-rt-2-robotics-transformer-2"><a class="heading-link" aria-hidden="true" href="#5-rt-2-robotics-transformer-2">5. RT-2 (Robotics Transformer 2)</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2307.15818">RT-2 (Robotics Transformer 2)</a></p>
+<p>Google DeepMind가 발표한 Vision-Language-Action (VLA) 모델. 인터넷 규모의 웹 데이터 + 로봇 시연 데이터를 동시에 학습, 자연어·시각 정보·로봇 행동을 하나의 통합된 정책으로 연결</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>생성된 행동을 토큰화(tokenized action string)하여 언어처럼 표현, transformer으로 예측</li>
+<li>Zero-shot/다단계 추론(chain-of-thought reasoning) 가능, 새로운 지시문에도 대응</li>
+</ul>
+<h3 id="6-π-pi-zero"><a class="heading-link" aria-hidden="true" href="#6-π-pi-zero">6. π₀ (pi-zero)</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://www.physicalintelligence.company/download/pi0.pdf">π₀ (pi-zero)</a></p>
+<p>OpenAI가 발표한 Vision-Language-Action 모델. RT-2와 유사하게 vision + language를 입력받아 policy를 생성하지만, action을 discrete token으로 바꾸지 않고 연속적인 action vector를 직접 출력하는 접근 방식</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>언어 + 비전 입력을 받아 continuous action sequence 산출</li>
+<li>정밀한 manipulation task에서 강점</li>
+</ul>
+<h3 id="7-openvla"><a class="heading-link" aria-hidden="true" href="#7-openvla">7. OpenVLA</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2406.09246">OpenVLA</a></p>
+<p>커뮤니티 오픈소스로 RT-2 계열을 재현한 프로젝트. 누구나 학습·실험할 수 있도록 구현체와 pretrained weight를 공개</p>
+<ul>
+<li>입력: 이미지 + 텍스트 → transformer → 출력: tokenized action sequence (액션을 토큰화)</li>
+</ul>
+<p><strong>특징</strong></p>
+<ul>
+<li>성능은 RT-2보다 낮지만, 접근성 확대에 큰 기여</li>
+<li>범용 로봇 연구를 democratize 하는 역할</li>
+</ul>
+<h3 id="8-smolvla"><a class="heading-link" aria-hidden="true" href="#8-smolvla">8. SmolVLA</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2506.01844">SmolVLA</a></p>
+<p>허깅페이스(Hugging Face)가 발표한 경량화된 VLA 모델. 대규모 GPU 없이도 실험 가능하도록 소규모 파라미터(450M)로 설계</p>
+<ul>
+<li>입력: 이미지 + 텍스트 → 소형 transformer → 출력: action token sequence (토큰 단위로 정의된 action들이 모인 시퀀스)</li>
+</ul>
+<p><strong>특징</strong></p>
+<ul>
+<li>저비용 학습/추론 가능 → 로컬 GPU(CPU, 단일 소비자용 GPU, 맥북 등)에서도 활용 가능</li>
+<li>기본 모델 및 데이터셋 또한 오픈소스(허깅페이스)로 공개</li>
+</ul>0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/AI/Imitation Learning","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Imitation Learning","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}]]}]}],["$","$L3",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"Imitation Learning"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L4","AI/Imitation Learning/concept",{"post":{"metadata":{"title":"모방학습 (Imitation Learning) 개념","summary":"모방학습의 주요 학습 방식, 절차, 장단점, 그리고 주요 모델들을 정리한다.","locale":"ko","createdAt":"2026-01-26T02:12:52.000Z","updatedAt":"2026-01-26T05:13:50.000Z"},"slug":"AI/Imitation Learning/concept","source":"$5","type":"markdown","parentFolder":"Imitation Learning"},"locale":"ko","delay":0.08}],"$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+a:T44da,<h1 id="lerobot-맥-설정-방법"><a class="heading-link" aria-hidden="true" href="#lerobot-맥-설정-방법">LeRobot 맥 설정 방법</a></h1>
+<h2 id="사전-요구사항"><a class="heading-link" aria-hidden="true" href="#사전-요구사항">사전 요구사항</a></h2>
+<h3 id="1-miniforge-설치"><a class="heading-link" aria-hidden="true" href="#1-miniforge-설치">1. Miniforge 설치</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Miniforge 다운로드 및 설치</span></span>
+<span data-line=""><span style="color:#FFC777">wget</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#C3E88D"> -m</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">.sh</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#FFC777">bash</span><span style="color:#C3E88D"> Miniforge3-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#C3E88D"> -m</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">.sh</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Miniforge 다운로드 및 설치
+wget &#x22;https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh&#x22;
+bash Miniforge3-$(uname)-$(uname -m).sh" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="환경-설정"><a class="heading-link" aria-hidden="true" href="#환경-설정">환경 설정</a></h2>
+<h3 id="2-conda-환경-생성-및-활성화"><a class="heading-link" aria-hidden="true" href="#2-conda-환경-생성-및-활성화">2. Conda 환경 생성 및 활성화</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Python 3.10으로 conda 환경 생성</span></span>
+<span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> create</span><span style="color:#C3E88D"> -y</span><span style="color:#C3E88D"> -n</span><span style="color:#C3E88D"> lerobot</span><span style="color:#C3E88D"> python=</span><span style="color:#FF966C">3.10</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 환경 활성화 (매번 터미널 열 때마다 실행 필요)</span></span>
+<span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> activate</span><span style="color:#C3E88D"> lerobot</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Python 3.10으로 conda 환경 생성
+conda create -y -n lerobot python=3.10
+
+# 환경 활성화 (매번 터미널 열 때마다 실행 필요)
+conda activate lerobot" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="3-ffmpeg-설치"><a class="heading-link" aria-hidden="true" href="#3-ffmpeg-설치">3. FFmpeg 설치</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># FFmpeg 설치</span></span>
+<span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> ffmpeg</span><span style="color:#C3E88D"> -c</span><span style="color:#C3E88D"> conda-forge</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# FFmpeg 설치
+conda install ffmpeg -c conda-forge" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="lerobot-설치"><a class="heading-link" aria-hidden="true" href="#lerobot-설치">LeRobot 설치</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 기본 설치</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> lerobot</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 모든 기능 포함</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">lerobot[all]</span><span style="color:#86E1FC">'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 특정 기능만 (예: aloha, pusht)</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">lerobot[aloha,pusht]</span><span style="color:#86E1FC">'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Feetech 모터 지원</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">lerobot[feetech]</span><span style="color:#86E1FC">'</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 기본 설치
+pip install lerobot
+
+# 모든 기능 포함
+pip install &#x27;lerobot[all]&#x27;
+
+# 특정 기능만 (예: aloha, pusht)
+pip install &#x27;lerobot[aloha,pusht]&#x27;
+
+# Feetech 모터 지원
+pip install &#x27;lerobot[feetech]&#x27;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="맥-특화-주의사항"><a class="heading-link" aria-hidden="true" href="#맥-특화-주의사항">맥 특화 주의사항</a></h2>
+<h3 id="카메라-관련"><a class="heading-link" aria-hidden="true" href="#카메라-관련">카메라 관련</a></h3>
+<ul>
+<li><strong>Intel RealSense 카메라</strong>: macOS에서 "failed to set power state" 오류 발생 시 <code>sudo</code> 권한으로 실행</li>
+<li><strong>iPhone 카메라</strong>: macOS 13+, iOS 16+에서 Continuity Camera 지원 (같은 Apple ID 필요)</li>
+<li><strong>RealSense 카메라</strong>: macOS에서 지원이 불안정함</li>
+</ul>
+<h3 id="실험-추적-선택사항"><a class="heading-link" aria-hidden="true" href="#실험-추적-선택사항">실험 추적 (선택사항)</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Weights and Biases 로그인</span></span>
+<span data-line=""><span style="color:#FFC777">wandb</span><span style="color:#C3E88D"> login</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Weights and Biases 로그인
+wandb login" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="참고-링크"><a class="heading-link" aria-hidden="true" href="#참고-링크">참고 링크</a></h2>
+<ul>
+<li><a href="https://huggingface.co/docs/lerobot/so101?example=Linux">LeRobot 공식 문서</a></li>
+<li><a href="https://github.com/huggingface/lerobot">LeRobot GitHub</a></li>
+</ul>6:["$","$L4","AI/Imitation Learning/so-101",{"post":{"metadata":{"title":"LeRobot 맥 설정 방법","summary":"macOS에서 LeRobot 설치 및 설정 방법","locale":"ko","createdAt":"2026-01-26T02:12:52.000Z","updatedAt":"2026-01-26T02:12:52.000Z"},"slug":"AI/Imitation Learning/so-101","source":"$a","type":"markdown","parentFolder":"Imitation Learning"},"locale":"ko","delay":0.13}]
+7:null
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+9:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

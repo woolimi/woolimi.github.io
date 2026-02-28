@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+4:I[12502,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"Image"]
+c:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+e:I[64725,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"tokenizeArt"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"tokenizeArt\",\"description\":\"tokenizeArt는 ecole42의 프로젝트로, Solidity와 Hardhat을 사용하여 ERC721 NFT를 구현한 블록체인 프로젝트. OpenZeppelin의 검증된 컨트랙트를 활용하여 ERC721URIStorage와 Ownable을 확장한 Art42 스마트 컨트랙트를 개발하며, IPFS를 통한 탈중앙화 메타데이터 저장, 순차적 토큰 ID 관리, 소유자 전용 민팅 기능 등을 구현한다. 이더리움 네트워크의 NFT 생성을 통해 블록체인과 스마트 컨트랙트 개발을 학습한다\",\"image\":\"https://woolimi.github.io/tokenizeArt.jpeg\",\"url\":\"https://woolimi.github.io/projects/schools/tokenizeArt\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"tokenizeArt"}],["$","$L4",null,{"src":"/tokenizeArt.jpeg","alt":"tokenizeArt","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],"$L5","$L6","$L7"]}],"$L8"]}]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+5:["$","p",null,{"className":"text-base leading-relaxed","children":"tokenizeArt는 ecole42의 프로젝트로, Solidity와 Hardhat을 사용하여 ERC721 NFT를 구현한 블록체인 프로젝트. OpenZeppelin의 검증된 컨트랙트를 활용하여 ERC721URIStorage와 Ownable을 확장한 Art42 스마트 컨트랙트를 개발하며, IPFS를 통한 탈중앙화 메타데이터 저장, 순차적 토큰 ID 관리, 소유자 전용 민팅 기능 등을 구현한다. 이더리움 네트워크의 NFT 생성을 통해 블록체인과 스마트 컨트랙트 개발을 학습한다"}]
+6:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Solidity"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Hardhat"}],["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Ethereum"}],["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"IPFS"}],["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"OpenZeppelin"}]]}]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z7:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/tokenizeArt","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$b","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+d:T1cc1,
+## 개요
+
+`ART42`는 **Solidity**와 **Hardhat** 프레임워크를 사용하여 개발된 **ERC721 NFT** (대체 불가능 토큰)다. 각 토큰은 아티스트, 이름, 레벨 등의 속성과 함께 이미지를 포함하여 디지털 아트의 소유권을 나타낸다.
+
+### 이더리움 네트워크의 NFT
+
+검증된 신뢰성과 강력한 생태계로 인해 NFT 생성에 이더리움과 Solidity를 선택했다. 이더리움은 탈중앙화 애플리케이션을 위한 선도적인 플랫폼으로, 강력한 보안과 광범위한 채택을 제공한다. Solidity는 이더리움의 목적별 언어로 스마트 컨트랙트 작성에 맞춰져 있어 NFT 개발을 효율적이고 효과적으로 만든다. 또한 활발한 커뮤니티 지원과 다가오는 이더리움 2.0 업그레이드는 확장성과 미래 대비를 보장하여 가치 있고 안전한 NFT를 생성하기에 이상적인 조합이다.
+
+## 주요 기능
+
+- **ERC721 표준**: 주요 마켓플레이스 및 지갑과의 NFT 호환성을 위한 ERC721 표준 준수
+- **ERC721URIStorage**: 메타데이터를 위한 토큰별 URI를 지원하도록 ERC721 확장
+- **Ownable**: 컨트랙트 소유자만 새로운 NFT를 민팅할 수 있다
+- **IPFS 통합**: 메타데이터와 이미지를 IPFS에 저장하여 탈중앙화되고 불변의 저장소 제공
+- **순차적 토큰 ID**: 각 NFT는 0부터 시작하는 고유한 순차적 토큰 ID를 받음
+
+## 프로젝트 구조
+
+```
+tokenizeArt/
+├── code/                    # 메인 프로젝트 디렉토리
+│   ├── contracts/          # Solidity 스마트 컨트랙트
+│   │   └── Art42.sol      # 메인 NFT 컨트랙트
+│   ├── test/              # 테스트 파일
+│   │   └── Art42.test.ts # 컨트랙트 테스트
+│   ├── ignition/          # Hardhat Ignition 배포 스크립트
+│   │   └── modules/
+│   │       └── Art42.ts  # 배포 모듈
+│   ├── artifacts/         # 컴파일된 컨트랙트 아티팩트
+│   └── typechain-types/   # TypeScript 타입 정의
+├── deployment/            # NFT 메타데이터 및 이미지
+│   ├── 42-01.json        # NFT 메타데이터 예제
+│   ├── 42-01.jpeg        # NFT 이미지
+│   └── ...
+└── documentation/        # 프로젝트 문서
+    ├── index.md          # 메인 문서
+    └── metadata.md       # 메타데이터 구조 문서
+```
+
+## 스마트 컨트랙트 상세 정보
+
+### Art42.sol
+
+메인 컨트랙트는 OpenZeppelin의 `ERC721URIStorage`와 `Ownable`을 확장한다:
+
+- **생성자(Constructor)**: 이름 "Art42"와 심볼 "ART42"로 컨트랙트 초기화
+- **mint()**: 토큰 URI와 함께 새로운 NFT를 민팅하는 소유자 전용 함수
+- **tokenId**: 현재 토큰 ID를 추적하는 공개 카운터
+
+```solidity
+contract Art42 is ERC721URIStorage, Ownable {
+    uint256 public tokenId;
+
+    constructor() ERC721("Art42", "ART42") Ownable(msg.sender) {
+        tokenId = 0;
+    }
+
+    function mint(string memory tokenURI) public onlyOwner returns (uint256) {
+        uint256 newItemId = tokenId;
+        _safeMint(msg.sender, newItemId);
+        _setTokenURI(newItemId, tokenURI);
+        tokenId += 1;
+        return newItemId;
+    }
+}
+```
+
+## 사전 요구사항
+
+- Node.js (v16 이상)
+- npm 또는 yarn
+- Git
+
+## 설치
+
+### 1. 저장소 클론:
+
+```bash
+git clone <repository-url>
+cd tokenizeArt
+```
+
+### 2. 의존성 설치:
+
+```bash
+cd code
+npm install
+```
+
+### 3. `code` 디렉토리에 `.env` 파일 생성:
+
+```env
+INFURA_API_KEY=your_infura_api_key
+PRIVATE_KEY=your_private_key
+ETHERSCAN_API_KEY=your_etherscan_api_key
+```
+
+## 사용법
+
+### 컨트랙트 컴파일
+
+```bash
+cd code
+npx hardhat compile
+```
+
+### 테스트 실행
+
+```bash
+npx hardhat test
+```
+
+### 가스 리포트와 함께 테스트 실행:
+
+```bash
+REPORT_GAS=true npx hardhat test
+```
+
+### 로컬 네트워크에 배포
+
+#### 1. 로컬 Hardhat 노드 시작:
+
+```bash
+npx hardhat node
+```
+
+#### 2. 다른 터미널에서 컨트랙트 배포:
+
+```bash
+npx hardhat ignition deploy ./ignition/modules/Art42.ts --network localhost
+```
+
+### Sepolia 테스트넷에 배포
+
+```bash
+npx hardhat ignition deploy ./ignition/modules/Art42.ts --network sepolia --verify
+```
+
+### NFT 민팅
+
+배포 후 메타데이터를 가리키는 IPFS URI와 함께 컨트랙트의 `mint()` 함수를 사용하여 NFT를 민팅할 수 있다:
+
+```javascript
+const tokenURI = 'https://ipfs.io/ipfs/QmRpG448DYs89viUa7X7SXJxCW1qkJLaZ1w5CWK3UniPfE';
+await art42.mint(tokenURI);
+```
+
+## 메타데이터 구조
+
+각 NFT는 추가 속성과 함께 ERC721 메타데이터 표준을 따릅니다:
+
+```json
+{
+  "name": "Art42-01",
+  "external_url": "https://ipfs.io/ipfs/QmRpG448DYs89viUa7X7SXJxCW1qkJLaZ1w5CWK3UniPfE",
+  "image": "ipfs://QmRpG448DYs89viUa7X7SXJxCW1qkJLaZ1w5CWK3UniPfE",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "wpark"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Lv",
+      "value": "4"
+    }
+  ]
+}
+```
+
+## 주요 결정 사항 및 이유
+
+### Hardhat
+
+Hardhat은 Solidity 개발을 위한 유연하고 강력한 환경을 제공한다. 훌륭한 디버깅 도구, 플러그인 지원, 테스트 및 배포를 위한 쉬운 설정을 제공한다. 이를 통해 개발 프로세스를 간소화하는 이상적인 선택이 되었다.
+
+### OpenZeppelin 컨트랙트
+
+검증된 OpenZeppelin의 컨트랙트를 사용하면 보안과 표준화를 보장할 수 있다. `ERC721URIStorage`는 토큰별 URI 기능을 제공하고, `Ownable`은 민팅을 위한 접근 제어를 구현한다.
+
+### IPFS 및 Pinata
+
+**IPFS** (InterPlanetary File System)는 데이터가 단일 중앙화 서버에 보관되는 것이 아니라 노드 네트워크에 분산되도록 보장하는 탈중앙화 저장 프로토콜이다. 이는 Art42 NFT 프로젝트에 다음과 같은 주요 이점을 제공한다:
+
+- **탈중앙화**: 데이터가 단일 장애 지점이 되는 것을 방지하여 보안과 복원력을 향상시킨다
+- **불변성**: 업로드되면 데이터를 변경할 수 없어 시간이 지나도 NFT 콘텐츠의 무결성과 진정성을 보장한다
+- **콘텐츠 주소 지정**: 고유한 해시를 통해 데이터에 액세스하여 특정 파일을 쉽게 확인하고 검색할 수 있다
+
+**Pinata**는 파일이 시간이 지나도 계속 사용 가능하고 접근 가능하도록 보장하는 인기 있는 IPFS 핀닝 서비스다.
+
+## 테스트
+
+프로젝트에는 다음을 포함하는 포괄적인 테스트가 포함되어 있다:
+
+- NFT 민팅 기능
+- 소유자 전용 접근 제어
+- 토큰 ID 증가
+
+테스트 실행:
+
+```bash
+npx hardhat test
+```
+
+## 보안 고려사항
+
+- 컨트랙트는 OpenZeppelin의 감사된 컨트랙트를 사용한다
+- 소유자만 새로운 NFT를 민팅할 수 있다 (접근 제어)
+- 안전한 민팅을 사용하여 비-ERC721Receiver 컨트랙트로의 전송을 방지한다
+- 토큰 URI는 설정되면 불변이다
+
+## 관련 링크
+
+- [ART42 문서](https://woolimi.github.io/tokeniart)
+- [Sepolia ART42 컨트랙트](https://sepolia.etherscan.io/address/0x73dF9A3536A67D159C7A6526734FfD956475cb79)
+- [ART42 Opensea 테스트넷](https://testnets.opensea.io/collection/art42)
+8:["$","article",null,{"children":["$","$Lc",null,{"children":"$d"}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

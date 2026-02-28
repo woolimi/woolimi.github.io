@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+6:I[64725,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[64725,[],"ViewportBoundary"]
+b:I[64725,[],"MetadataBoundary"]
+d:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","projects","schools","red_tetris"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","red_tetris","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Le"}]]}]
+f:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+10:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+11:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+15:I[12502,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"Image"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"red_tetris"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"red_tetris\",\"description\":\"red_tetris는 ecole42의 프로젝트로, 풀스택 JavaScript로 구현된 멀티플레이어 테트리스 게임. 클라이언트는 함수형 프로그래밍 스타일(React), 서버는 객체지향 프로그래밍 스타일(Node.js, Express)로 구현해야하는 제한조건이 있다. Socket.IO를 활용한 실시간 멀티플레이어 게임, 페널티 시스템, 실시간 채팅, 방 시스템 등을 구현하며, 테스트 커버리지는 70% 이상을 달성해야한다\",\"image\":\"https://woolimi.github.io/red_tetris.gif\",\"url\":\"https://woolimi.github.io/projects/schools/red_tetris\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"red_tetris"}],["$","$L15",null,{"src":"/red_tetris.gif","alt":"red_tetris","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],["$","p",null,{"className":"text-base leading-relaxed","children":"red_tetris는 ecole42의 프로젝트로, 풀스택 JavaScript로 구현된 멀티플레이어 테트리스 게임. 클라이언트는 함수형 프로그래밍 스타일(React), 서버는 객체지향 프로그래밍 스타일(Node.js, Express)로 구현해야하는 제한조건이 있다. Socket.IO를 활용한 실시간 멀티플레이어 게임, 페널티 시스템, 실시간 채팅, 방 시스템 등을 구현하며, 테스트 커버리지는 70% 이상을 달성해야한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L16","$L17","$L18","$L19"]}],"$L1a"]}],"$L1b"]}]}]
+1d:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+1f:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+16:["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"React"}]
+17:["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Express.js"}]
+18:["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Socket.IO"}]
+19:["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"JavaScript"}]
+1c:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z1a:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/red_tetris","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$1c","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+1e:T1e7f,
+## 데모
+
+[라이브 데모](https://red-tetris-woolimi.koyeb.app/)
+
+주의: 서버가 sleep 상태라서 로드되는데 시간이 걸린다.
+
+## 개요
+
+Red Tetris는 **풀스택 JavaScript**로 구현된 **멀티플레이어 테트리스 게임**으로, ecole42 커리큘럼의 일부다. 이 프로젝트는 JavaScript의 함수형 프로그래밍, 프로토타입 지향 설계, 동적 타입, 비동기 작업을 배우는데에 목적이 있다.
+
+### 프로젝트 요구사항
+
+- **클라이언트 측**: **함수형 프로그래밍 스타일**로 작성되어야 한다
+- **서버 측**: **객체지향 프로그래밍 스타일**로 작성되어야 한다
+- **테스트 커버리지**: 문장(statements), 함수(functions), 라인(lines)의 최소 70%, 분기(branches)의 최소 50%
+
+## 주요 기능
+
+- 🎮 **멀티플레이어 테트리스** - 최대 3명의 플레이어가 동시에 플레이 가능
+- 💬 **실시간 채팅** - 게임 중 다른 플레이어와 소통
+- 🗺️ **다양한 맵** - 다양한 스테이지 구성 선택 가능
+- ⚡ **페널티 시스템** - 여러 줄을 지워 상대방에게 페널티 전송
+- 🎯 **방 시스템** - 게임 방 생성 및 참가
+- 🎵 **사운드 효과** - 게임 액션에 대한 몰입감 있는 오디오 피드백
+- 📊 **점수 추적** - 모든 플레이어의 실시간 점수 업데이트
+
+## 기술 스택
+
+### 프론트엔드
+
+- **React** (v17.0.1) - UI 프레임워크
+- **React Router DOM** (v5.2.0) - 클라이언트 사이드 라우팅
+- **Styled Components** (v5.2.0) - CSS-in-JS 스타일링
+- **Semantic UI React** (v2.0.0) - UI 컴포넌트 라이브러리
+- **Socket.io Client** (v2.3.1) - 실시간 통신
+
+### 백엔드
+
+- **Node.js** - 런타임 환경
+- **Express** (v4.17.1) - 웹 프레임워크
+- **Socket.io** (v2.3.0) - WebSocket 서버
+- **Lodash** (v4.17.20) - 유틸리티 라이브러리
+
+### 개발 도구
+
+- **Webpack** (v5.1.3) - 모듈 번들러
+- **Babel** - JavaScript 컴파일러
+- **Jest** (v26.6.1) - 테스팅 프레임워크
+- **React Testing Library** (v11.1.0) - 컴포넌트 테스팅
+- **Nodemon** (v2.0.6) - 개발 서버 자동 재시작
+
+## 프로젝트 구조
+
+```
+red_tetris/
+├── src/
+│   ├── client/              # 프론트엔드 React 애플리케이션
+│   │   ├── components/      # React 컴포넌트
+│   │   │   ├── MyTetris.jsx      # 플레이어 자신의 게임 보드
+│   │   │   ├── OthersTetris.jsx  # 다른 플레이어들의 게임 보드
+│   │   │   ├── Chat.jsx          # 채팅 컴포넌트
+│   │   │   ├── Room.jsx          # 메인 게임 방 컴포넌트
+│   │   │   └── ...
+│   │   ├── pages/          # 페이지 컴포넌트
+│   │   │   ├── Home.jsx    # 랜딩 페이지 (방 생성)
+│   │   │   └── Tetris.jsx  # 게임 페이지
+│   │   ├── hooks/          # 커스텀 React 훅
+│   │   │   ├── useSocketEvent.js
+│   │   │   ├── useCheckRoom.js
+│   │   │   └── useInterval.js
+│   │   └── gameHelper.js   # 클라이언트 사이드 게임 유틸리티
+│   │
+│   └── server/              # 백엔드 Node.js 애플리케이션
+│       ├── classes/         # OOP 클래스
+│       │   ├── Game.js      # 게임 방 로직
+│       │   ├── Player.js    # 플레이어 상태 및 액션
+│       │   ├── Piece.js    # 테트리스 조각 정의
+│       │   └── SocketManager.js  # Socket 이벤트 핸들러
+│       ├── api.js           # REST API 라우트
+│       ├── gameHelper.js    # 서버 사이드 게임 유틸리티
+│       ├── ROOMS.js         # 방 저장소 (Map)
+│       └── index.js         # 서버 진입점
+│
+├── test/                    # 테스트 파일
+├── config/                  # Webpack 설정
+└── public/                  # 정적 자산
+```
+
+## 설치
+
+### 필수 요구사항
+
+- Node.js (v14 이상)
+- npm 또는 yarn
+
+### 설정
+
+```bash
+# 저장소 클론
+git clone https://github.com/woolimi/red_tetris.git
+cd red_tetris
+
+# 의존성 설치
+npm install
+# 또는
+yarn install
+```
+
+## 사용 방법
+
+### 개발 모드
+
+핫 리로드가 가능한 개발 서버 실행:
+
+```bash
+# 개발 모드로 클라이언트 빌드
+npm run dev:build
+
+# 서버 시작 (nodemon 사용)
+npm run server
+
+# 다른 터미널에서 클라이언트 개발 서버 시작
+npm run client
+```
+
+클라이언트는 `http://localhost:8080`에서, 서버는 `http://localhost:5000`에서 사용 가능
+
+### 프로덕션 빌드
+
+```bash
+# 프로덕션용 빌드
+npm run build
+
+# 프로덕션 서버 시작
+npm start
+```
+
+### 환경 변수
+
+루트 디렉토리에 `.env` 파일 생성:
+
+```env
+PORT=5000
+DOMAIN=http://localhost:8080
+MODE=dev  # 프로덕션의 경우 'prod'
+```
+
+## 게임 플레이 방법
+
+1. **방 생성/참가**: 홈 페이지에서 방 이름과 사용자 이름 입력
+2. **플레이어 대기**: 최대 3명의 플레이어가 방에 참가 가능
+3. **준비 완료**: 준비되면 준비 버튼 클릭
+4. **게임 시작**: 모든 플레이어가 준비되면 방장이 게임 시작 가능
+5. **플레이**: 화살표 키로 조각 이동 및 회전
+   - `↑` - 조각 회전
+   - `←` / `→` - 좌우 이동
+   - `↓` - 소프트 드롭
+   - `Space` - 하드 드롭
+6. **승리**: 마지막까지 살아남은 플레이어가 승리!
+
+### 게임 규칙
+
+- 줄을 지워 점수 획득 (1줄: 10점, 2줄: 30점, 3줄: 60점, 4줄: 120점)
+- 2줄 이상을 지우면 다른 플레이어에게 페널티 전송 (쓰레기 줄 추가)
+- 마지막까지 남은 플레이어가 게임 승리
+
+## 테스팅
+
+커버리지와 함께 테스트 실행:
+
+```bash
+npm run coverage
+```
+
+테스트 커버리지 요구사항:
+
+- **문장(Statements)**: ≥70%
+- **함수(Functions)**: ≥70%
+- **라인(Lines)**: ≥70%
+- **분기(Branches)**: ≥50%
+
+## API 엔드포인트
+
+### REST API
+
+- `POST /api/room` - 방 생성 또는 입장 검증
+
+  ```json
+  {
+    "roomName": "string",
+    "userName": "string"
+  }
+  ```
+
+- `GET /api/room` - 방 가용성 확인
+  ```
+  ?roomName=string&userName=string
+  ```
+
+### Socket.io 이벤트
+
+#### 클라이언트 → 서버
+
+- `ROOM:ADD_PLAYER` - 방 참가
+- `PLAYER:READY` - 플레이어 준비 완료 표시
+- `GAME:START` - 게임 시작 (방장만 가능)
+- `PLAYER:MOVE` - 조각 좌우 이동
+- `PLAYER:ROTATE` - 조각 회전
+- `PLAYER:DROPDOWN` - 조각 아래로 떨어뜨리기
+- `CHAT` - 채팅 메시지 전송
+- `GAME:CHANGE_MAP` - 맵 변경 (방장만 가능)
+
+#### 서버 → 클라이언트
+
+- `ROOM:PLAYERS` - 플레이어 목록 업데이트
+- `ROOM:OWNER` - 방장 업데이트
+- `GAME:START` - 게임 시작됨
+- `PLAYER:MOVE` - 플레이어 이동
+- `PLAYER:ROTATE` - 플레이어 회전
+- `PLAYER:DROPDOWN` - 플레이어가 조각을 떨어뜨림
+- `PLAYER:GAMEOVER` - 플레이어 패배
+- `GAME:FINISH` - 게임 종료
+- `CHAT` - 채팅 메시지 수신
+
+## 아키텍처
+
+### 클라이언트 아키텍처 (함수형 프로그래밍)
+
+- **함수형 컴포넌트**: 모든 React 컴포넌트는 훅을 사용하는 함수형 컴포넌트
+- **커스텀 훅**: 재사용 가능한 로직을 커스텀 훅으로 추출
+- **Context API**: React Context를 사용한 상태 관리
+- **불변 업데이트**: 상태 업데이트는 함수형 프로그래밍 원칙을 따름
+
+### 서버 아키텍처 (객체지향 프로그래밍)
+
+- **클래스**: Game, Player, Piece, SocketManager가 클래스로 구현됨
+- **캡슐화**: private 메서드 및 속성
+- **상속**: 게임 엔티티를 위한 클래스 기반 구조
+- **다형성**: 메서드 오버라이딩 및 동적 디스패치
+1b:["$","article",null,{"children":["$","$L1d",null,{"children":"$1e"}]}]
+13:["$","$L1f",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1f",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+20:I[85584,[],"IconMark"]
+c:[["$","title","0",{"children":"red_tetris | 박우림"}],["$","meta","1",{"name":"description","content":"red_tetris는 ecole42의 프로젝트로, 풀스택 JavaScript로 구현된 멀티플레이어 테트리스 게임. 클라이언트는 함수형 프로그래밍 스타일(React), 서버는 객체지향 프로그래밍 스타일(Node.js, Express)로 구현해야하는 제한조건이 있다. Socket.IO를 활용한 실시간 멀티플레이어 게임, 페널티 시스템, 실시간 채팅, 방 시스템 등을 구현하며, 테스트 커버리지는 70% 이상을 달성해야한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"red_tetris"}],["$","meta","6",{"property":"og:description","content":"red_tetris는 ecole42의 프로젝트로, 풀스택 JavaScript로 구현된 멀티플레이어 테트리스 게임. 클라이언트는 함수형 프로그래밍 스타일(React), 서버는 객체지향 프로그래밍 스타일(Node.js, Express)로 구현해야하는 제한조건이 있다. Socket.IO를 활용한 실시간 멀티플레이어 게임, 페널티 시스템, 실시간 채팅, 방 시스템 등을 구현하며, 테스트 커버리지는 70% 이상을 달성해야한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/red_tetris"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/red_tetris.gif"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"red_tetris"}],["$","meta","12",{"name":"twitter:description","content":"red_tetris는 ecole42의 프로젝트로, 풀스택 JavaScript로 구현된 멀티플레이어 테트리스 게임. 클라이언트는 함수형 프로그래밍 스타일(React), 서버는 객체지향 프로그래밍 스타일(Node.js, Express)로 구현해야하는 제한조건이 있다. Socket.IO를 활용한 실시간 멀티플레이어 게임, 페널티 시스템, 실시간 채팅, 방 시스템 등을 구현하며, 테스트 커버리지는 70% 이상을 달성해야한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/red_tetris.gif"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L20","19",{}]]
+8:null

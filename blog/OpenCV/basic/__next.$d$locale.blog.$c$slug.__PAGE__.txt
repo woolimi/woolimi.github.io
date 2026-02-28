@@ -1,0 +1,179 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T11f8,
+## 설치
+
+```bash
+# OpenCV 설치
+pip install opencv-python
+```
+
+## 기본 사용법
+
+### 1. 이미지 읽기
+
+```python
+import cv2
+
+# 이미지 읽기 (BGR 형식으로 로드됨)
+# ⚠️ 주의: OpenCV는 RGB가 아닌 BGR(Blue, Green, Red) 순서를 사용합니다
+img = cv2.imread('image.jpg')
+
+# 그레이스케일로 읽기
+img_gray = cv2.imread('image.jpg', cv2.IMREAD_GRAYSCALE)
+
+# 이미지가 제대로 로드되었는지 확인
+if img is None:
+    print("이미지를 읽을 수 없습니다")
+```
+
+### 2. 이미지 표시
+
+```python
+# 이미지 표시
+cv2.imshow('Image', img)
+
+# 키 입력 대기 (0은 무한 대기, 숫자는 밀리초)
+cv2.waitKey(0)
+
+# 모든 창 닫기
+cv2.destroyAllWindows()
+```
+
+### 3. 이미지 저장
+
+```python
+# 이미지 저장
+cv2.imwrite('output.jpg', img)
+
+# 품질 설정 (JPEG의 경우, 0-100)
+cv2.imwrite('output.jpg', img, [cv2.IMWRITE_JPEG_QUALITY, 95])
+```
+
+### 4. 이미지 속성 확인
+
+```python
+# 이미지 크기 (높이, 너비, 채널)
+height, width, channels = img.shape
+print(f"크기: {width}x{height}, 채널: {channels}")
+
+# 이미지 데이터 타입
+print(f"데이터 타입: {img.dtype}")
+
+# 이미지 크기 (픽셀 수)
+print(f"픽셀 수: {img.size}")
+```
+
+### 5. 이미지 데이터 타입 변환
+
+**주요 데이터 타입 (dtype):**
+
+- `uint8`: 0-255 범위의 8비트 부호 없는 정수 (가장 일반적, JPEG/PNG 이미지)
+- `uint16`: 0-65535 범위의 16비트 부호 없는 정수 (고해상도 이미지)
+- `float32`: 32비트 부동소수점 (0.0-1.0 또는 0.0-255.0 범위)
+- `float64`: 64비트 부동소수점 (더 높은 정밀도)
+
+**타입 변환이 필요한 이유:**
+
+1. **수학 연산의 정밀도**: `uint8`은 정수만 표현하므로 나눗셈, 곱셈 등 연산 시 정밀도 손실 발생
+2. **음수 값 처리**: 일부 연산(차분, 필터링)에서 음수 값이 발생할 수 있어 `float` 타입 필요
+3. **값 범위 초과**: 연산 결과가 255를 초과하거나 0 미만이 될 수 있음
+4. **다른 라이브러리 호환**: PyTorch, TensorFlow 등은 `float32`를 기본으로 사용
+5. **정규화**: 머신러닝 모델은 보통 0.0-1.0 범위의 정규화된 값을 요구
+
+```python
+import numpy as np
+
+# uint8 → float32 변환 (0.0-1.0 범위로 정규화)
+img_float = img.astype(np.float32) / 255.0
+
+# float32 → uint8 변환 (0-255 범위로 복원)
+img_uint8 = (img_float * 255).astype(np.uint8)
+
+# uint8 → float32 변환 (0.0-255.0 범위 유지)
+img_float_255 = img.astype(np.float32)
+
+# float32 → uint8 변환 (클리핑 포함)
+img_clipped = np.clip(img_float_255, 0, 255).astype(np.uint8)
+
+# uint16 → uint8 변환 (스케일링)
+img_uint16 = cv2.imread('high_res.jpg', cv2.IMREAD_UNCHANGED)
+img_uint8_from_16 = (img_uint16 / 256).astype(np.uint8)
+```
+
+### 6. 이미지 크기 조정
+
+```python
+# 특정 크기로 조정
+resized = cv2.resize(img, (800, 600))
+
+# 비율 유지하며 조정
+scale = 0.5
+resized = cv2.resize(img, None, fx=scale, fy=scale)
+
+# 보간 방법 지정
+resized = cv2.resize(img, (800, 600), interpolation=cv2.INTER_LINEAR)
+```
+
+### 7. 이미지 회전
+
+```python
+# 90도 회전
+rotated = cv2.rotate(img, cv2.ROTATE_90_CLOCKWISE)
+
+# 특정 각도로 회전
+import numpy as np
+
+height, width = img.shape[:2]
+center = (width // 2, height // 2)
+angle = 45
+scale = 1.0
+
+matrix = cv2.getRotationMatrix2D(center, angle, scale)
+rotated = cv2.warpAffine(img, matrix, (width, height))
+```
+
+### 8. 색상 공간 변환
+
+**⚠️ 중요: OpenCV는 기본적으로 BGR(Blue, Green, Red) 형식을 사용합니다**
+- 대부분의 라이브러리(PIL, matplotlib 등)는 RGB를 사용하지만, OpenCV는 BGR을 사용
+- 다른 라이브러리와 함께 사용할 때는 색상 순서 변환이 필요합니다
+
+```python
+# BGR to RGB (다른 라이브러리와 호환을 위해)
+img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+
+# BGR to Grayscale
+img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+# BGR to HSV
+img_hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+```
+
+### 9. 이미지 그리기
+
+**⚠️ 색상 값은 BGR 순서로 지정합니다: (Blue, Green, Red)**
+
+```python
+# 선 그리기 (색상: (B, G, R) = (0, 255, 0) = 녹색)
+cv2.line(img, (0, 0), (100, 100), (0, 255, 0), 2)
+
+# 사각형 그리기 (색상: (255, 0, 0) = 파란색)
+cv2.rectangle(img, (50, 50), (200, 200), (255, 0, 0), 2)
+
+# 원 그리기 (색상: (0, 0, 255) = 빨간색)
+cv2.circle(img, (100, 100), 50, (0, 0, 255), 2)
+
+# 텍스트 추가 (색상: (255, 255, 255) = 흰색)
+cv2.putText(img, 'Hello', (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)
+```
+
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/OpenCV","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"OpenCV","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"OpenCV 기초 사용법"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"OpenCV 기초 사용법\",\"description\":\"Python에서 OpenCV를 사용한 이미지 처리 기초 정리\",\"image\":\"https://woolimi.github.io/og?title=OpenCV 기초 사용법\",\"url\":\"https://woolimi.github.io/blog/OpenCV/basic\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"OpenCV 기초 사용법"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

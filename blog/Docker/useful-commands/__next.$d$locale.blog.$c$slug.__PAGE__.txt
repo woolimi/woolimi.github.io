@@ -1,0 +1,365 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T268a,
+## 컨테이너 관리
+
+### 컨테이너 목록 확인
+
+```bash
+docker ps                    # 실행 중인 컨테이너
+docker ps -a                 # 모든 컨테이너 (종료된 것 포함)
+docker ps -l                 # 마지막으로 실행한 컨테이너
+docker ps -q                 # 컨테이너 ID만 출력
+docker ps -a -q              # 모든 컨테이너 ID만 출력
+```
+
+### 컨테이너 실행
+
+```bash
+docker run <이미지명>                    # 컨테이너 실행
+docker run -it <이미지명> /bin/bash      # 인터랙티브 모드로 실행
+docker run -d <이미지명>                 # 백그라운드로 실행
+docker run --name <이름> <이미지명>      # 이름 지정하여 실행
+docker run -p 8080:80 <이미지명>         # 포트 매핑 (호스트:컨테이너)
+docker run -v /host:/container <이미지명> # 볼륨 마운트
+```
+
+### 컨테이너 중지/시작/재시작
+
+```bash
+docker stop <컨테이너ID>                 # 컨테이너 중지
+docker start <컨테이너ID>                # 중지된 컨테이너 시작
+docker restart <컨테이너ID>              # 컨테이너 재시작
+docker pause <컨테이너ID>                # 컨테이너 일시정지
+docker unpause <컨테이너ID>              # 일시정지 해제
+```
+
+### 컨테이너 접속
+
+```bash
+docker exec -it <컨테이너ID> /bin/bash   # 실행 중인 컨테이너에 접속
+docker attach <컨테이너ID>               # 컨테이너에 연결 (exit 시 종료됨)
+```
+
+### 컨테이너 삭제
+
+```bash
+docker rm <컨테이너ID>                   # 컨테이너 삭제
+docker rm -f <컨테이너ID>                # 실행 중인 컨테이너 강제 삭제
+docker rm $(docker ps -a -q)             # 모든 컨테이너 삭제
+docker container prune                   # 중지된 모든 컨테이너 삭제
+```
+
+### 컨테이너 정보 확인
+
+```bash
+docker inspect <컨테이너ID>              # 컨테이너 상세 정보
+docker logs <컨테이너ID>                 # 컨테이너 로그 확인
+docker logs -f <컨테이너ID>              # 로그 실시간 확인 (follow)
+docker logs --tail 100 <컨테이너ID>      # 마지막 100줄만 확인
+docker top <컨테이너ID>                  # 컨테이너 내부 프로세스 확인
+docker stats <컨테이너ID>                # 컨테이너 리소스 사용량 확인
+docker stats                              # 모든 컨테이너 리소스 사용량
+```
+
+---
+
+## 이미지 관리
+
+### 이미지 목록 확인
+
+```bash
+docker images                             # 이미지 목록
+docker images -a                          # 모든 이미지 (중간 이미지 포함)
+docker images --filter "dangling=true"    # 태그 없는 이미지만
+```
+
+### 이미지 다운로드
+
+```bash
+docker pull <이미지명>:<태그>             # 이미지 다운로드
+docker pull ubuntu:24.04                 # 예시
+```
+
+### 이미지 삭제
+
+```bash
+docker rmi <이미지ID>                     # 이미지 삭제
+docker rmi <이미지명>:<태그>              # 이름으로 삭제
+docker rmi -f <이미지ID>                  # 강제 삭제
+docker rmi $(docker images -q)            # 모든 이미지 삭제
+docker image prune                        # 사용하지 않는 이미지 삭제
+docker image prune -a                     # 모든 사용하지 않는 이미지 삭제
+```
+
+### 이미지 정보 확인
+
+```bash
+docker inspect <이미지ID>                 # 이미지 상세 정보
+docker history <이미지ID>                 # 이미지 생성 이력
+```
+
+### 이미지 태그/이름 변경
+
+```bash
+docker tag <기존이미지> <새이미지명>:<태그>  # 이미지 태그 생성
+docker tag ubuntu:24.04 my-ubuntu:latest    # 예시
+```
+
+---
+
+## 파일 복사
+
+### 컨테이너 ↔ 호스트 파일 복사
+
+```bash
+# 컨테이너에서 호스트로
+docker cp <컨테이너ID>:<컨테이너경로> <호스트경로>
+docker cp mycontainer:/app/data.txt ./data.txt
+
+# 호스트에서 컨테이너로
+docker cp <호스트경로> <컨테이너ID>:<컨테이너경로>
+docker cp ./data.txt mycontainer:/app/data.txt
+```
+
+---
+
+## 네트워크 관리
+
+### 네트워크 목록 확인
+
+```bash
+docker network ls                         # 네트워크 목록
+docker network inspect <네트워크명>       # 네트워크 상세 정보
+```
+
+### 네트워크 생성/삭제
+
+```bash
+docker network create <네트워크명>        # 네트워크 생성
+docker network rm <네트워크명>            # 네트워크 삭제
+docker network prune                      # 사용하지 않는 네트워크 삭제
+```
+
+### 컨테이너를 네트워크에 연결
+
+```bash
+docker network connect <네트워크명> <컨테이너ID>  # 네트워크 연결
+docker network disconnect <네트워크명> <컨테이너ID> # 네트워크 연결 해제
+```
+
+---
+
+## 볼륨 관리
+
+### 볼륨 목록 확인
+
+```bash
+docker volume ls                          # 볼륨 목록
+docker volume inspect <볼륨명>            # 볼륨 상세 정보
+```
+
+### 볼륨 생성/삭제
+
+```bash
+docker volume create <볼륨명>             # 볼륨 생성
+docker volume rm <볼륨명>                 # 볼륨 삭제
+docker volume prune                       # 사용하지 않는 볼륨 삭제
+```
+
+---
+
+## 시스템 관리
+
+### 시스템 정보 확인
+
+```bash
+docker info                               # Docker 시스템 정보
+docker version                            # Docker 버전 정보
+docker system df                          # 디스크 사용량 확인
+docker system events                      # Docker 이벤트 실시간 확인
+```
+
+### 시스템 정리
+
+```bash
+docker system prune                        # 사용하지 않는 모든 리소스 삭제
+docker system prune -a                     # 모든 사용하지 않는 리소스 삭제 (이미지 포함)
+docker system prune -a --volumes           # 볼륨까지 모두 삭제
+```
+
+---
+
+## 이미지 빌드
+
+### Dockerfile로 이미지 빌드
+
+```bash
+docker build -t <이미지명>:<태그> .       # 현재 디렉토리의 Dockerfile로 빌드
+docker build -t myapp:latest .            # 예시
+docker build -f <Dockerfile경로> -t <이미지명> .  # 특정 Dockerfile 지정
+```
+
+### 빌드 캐시 없이 빌드
+
+```bash
+docker build --no-cache -t <이미지명> .   # 캐시 사용 안 함
+```
+
+---
+
+## 컨테이너 이미지 저장/로드
+
+### 이미지 저장
+
+```bash
+docker save -o <파일명>.tar <이미지명>    # 이미지를 tar 파일로 저장
+docker save ubuntu:24.04 > ubuntu.tar     # 예시
+```
+
+### 이미지 로드
+
+```bash
+docker load -i <파일명>.tar               # tar 파일에서 이미지 로드
+docker load < ubuntu.tar                  # 예시
+```
+
+---
+
+## Docker Compose (참고)
+
+### 기본 명령어
+
+```bash
+docker compose up                         # 서비스 시작
+docker compose up -d                      # 백그라운드로 시작
+docker compose down                       # 서비스 중지 및 삭제
+docker compose ps                         # 실행 중인 서비스 확인
+docker compose logs                       # 로그 확인
+docker compose logs -f                    # 로그 실시간 확인
+docker compose exec <서비스명> <명령어>   # 서비스에 명령 실행
+docker compose build                      # 이미지 빌드
+docker compose pull                       # 이미지 다운로드
+```
+
+---
+
+## 유용한 조합 명령어
+
+### 모든 컨테이너 중지
+
+```bash
+docker stop $(docker ps -q)
+```
+
+### 모든 컨테이너와 이미지 삭제
+
+```bash
+docker rm -f $(docker ps -a -q) && docker rmi -f $(docker images -q)
+```
+
+### 컨테이너 이름으로 실행/삭제
+
+```bash
+docker run --name my-container <이미지명>
+docker rm my-container
+```
+
+### 포트 포워딩 예시
+
+```bash
+docker run -p 8080:80 nginx               # nginx를 8080 포트로 접속
+docker run -p 3000:3000 node-app          # Node.js 앱을 3000 포트로 접속
+```
+
+### 환경 변수 전달
+
+```bash
+docker run -e VAR1=value1 -e VAR2=value2 <이미지명>
+docker run --env-file .env <이미지명>     # .env 파일에서 환경 변수 로드
+```
+
+---
+
+## 디버깅 및 문제 해결
+
+### 컨테이너 내부 프로세스 확인
+
+```bash
+docker top <컨테이너ID>                   # 실행 중인 프로세스 확인
+docker exec <컨테이너ID> ps aux           # 프로세스 목록
+```
+
+### 컨테이너 리소스 모니터링
+
+```bash
+docker stats                              # 모든 컨테이너 리소스 사용량
+docker stats <컨테이너ID>                 # 특정 컨테이너만
+docker stats --no-stream                  # 한 번만 출력
+```
+
+### 컨테이너 상세 정보 확인
+
+```bash
+docker inspect <컨테이너ID> | grep IPAddress  # IP 주소만 확인
+docker inspect --format='{{.NetworkSettings.IPAddress}}' <컨테이너ID>
+```
+
+### 컨테이너 로그 확인
+
+```bash
+docker logs <컨테이너ID>                  # 전체 로그
+docker logs --tail 50 <컨테이너ID>        # 마지막 50줄
+docker logs -f <컨테이너ID>               # 실시간 로그
+docker logs --since 10m <컨테이너ID>      # 10분 전부터의 로그
+```
+
+---
+
+## 팁
+
+### 1. 컨테이너 이름 지정
+
+컨테이너 실행 시 이름을 지정하면 ID 대신 이름으로 관리할 수 있다:
+
+```bash
+docker run --name my-app <이미지명>
+docker stop my-app
+docker rm my-app
+```
+
+### 2. 자동 삭제 옵션
+
+컨테이너 종료 시 자동으로 삭제되도록 설정:
+
+```bash
+docker run --rm <이미지명>
+```
+
+### 3. 포트 매핑 확인
+
+```bash
+docker port <컨테이너ID>                  # 컨테이너 포트 매핑 확인
+```
+
+### 4. 컨테이너 이름 변경
+
+```bash
+docker rename <기존이름> <새이름>
+```
+
+### 5. 이미지 검색
+
+```bash
+docker search <키워드>                    # Docker Hub에서 이미지 검색
+docker search nginx
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Docker","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Docker","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Docker 유용한 명령어"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Docker 유용한 명령어\",\"description\":\"Docker 컨테이너와 이미지를 관리하는 데 유용한 명령어들을 카테고리별로 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=Docker 유용한 명령어\",\"url\":\"https://woolimi.github.io/blog/Docker/useful-commands\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Docker 유용한 명령어"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

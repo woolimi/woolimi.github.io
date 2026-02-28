@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+7:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+9:I[64725,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"DB","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB/MySQL","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"MySQL","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"MySQL JOIN"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"MySQL JOIN\",\"description\":\"여러 테이블을 연결하는 JOIN 정리\",\"image\":\"https://woolimi.github.io/og?title=MySQL JOIN\",\"url\":\"https://woolimi.github.io/blog/DB/MySQL/join\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"MySQL JOIN"}],"$L4"]}]}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+8:Tb9f,
+![join diagram](/join.png)
+
+## JOIN
+
+두 개 이상의 테이블을 연결하여 데이터를 조회하는 방법이다.1
+
+### 기본 문법
+
+```sql
+SELECT 컬럼1, 컬럼2, ...
+FROM 테이블1
+[INNER|LEFT|RIGHT] JOIN 테이블2
+ON 테이블1.컬럼 = 테이블2.컬럼;
+```
+
+## JOIN 종류
+
+| JOIN 종류         | 설명                                      | 결과                           |
+| ----------------- | ----------------------------------------- | ------------------------------ |
+| `INNER JOIN`      | 양쪽 테이블에 모두 존재하는 행만 반환     | 교집합                         |
+| `LEFT JOIN`       | 왼쪽 테이블의 모든 행 + 오른쪽 매칭 행    | 왼쪽 테이블 전체 + 오른쪽 매칭 |
+| `RIGHT JOIN`      | 오른쪽 테이블의 모든 행 + 왼쪽 매칭 행    | 오른쪽 테이블 전체 + 왼쪽 매칭 |
+| `FULL OUTER JOIN` | 양쪽 테이블의 모든 행 반환 (MySQL 미지원) | 합집합 (UNION으로 구현)        |
+
+### INNER JOIN
+
+양쪽 테이블에 모두 존재하는 행만 반환한다.
+
+```sql
+SELECT `users`.`name`, `orders`.`product`
+FROM `users`
+INNER JOIN `orders` ON `users`.`id` = `orders`.`user_id`;
+```
+
+**참고**: `JOIN`만 쓰면 자동으로 `INNER JOIN`으로 처리된다.
+
+### LEFT JOIN
+
+왼쪽 테이블의 모든 행을 반환하고, 오른쪽 테이블에 매칭되는 행이 없으면 NULL을 반환한다.
+
+```sql
+SELECT `users`.`name`, `orders`.`product`
+FROM `users`
+LEFT JOIN `orders` ON `users`.`id` = `orders`.`user_id`;
+```
+
+### RIGHT JOIN
+
+오른쪽 테이블의 모든 행을 반환하고, 왼쪽 테이블에 매칭되는 행이 없으면 NULL을 반환한다.
+
+```sql
+SELECT `users`.`name`, `orders`.`product`
+FROM `users`
+RIGHT JOIN `orders` ON `users`.`id` = `orders`.`user_id`;
+```
+
+### FULL OUTER JOIN (UNION 사용)
+
+MySQL은 FULL OUTER JOIN을 직접 지원하지 않으므로, LEFT JOIN과 RIGHT JOIN을 UNION으로 합쳐서 구현한다.
+
+```sql
+SELECT `users`.`name`, `orders`.`product`
+FROM `users`
+LEFT JOIN `orders` ON `users`.`id` = `orders`.`user_id`
+
+UNION
+
+SELECT `users`.`name`, `orders`.`product`
+FROM `users`
+RIGHT JOIN `orders` ON `users`.`id` = `orders`.`user_id`;
+```
+
+**동작 방식**:
+
+- 첫 번째 SELECT: LEFT JOIN으로 왼쪽 테이블 전체 + 오른쪽 매칭 행
+- 두 번째 SELECT: RIGHT JOIN으로 오른쪽 테이블 전체 + 왼쪽 매칭 행
+- UNION: 두 결과를 합치면서 중복 제거 (양쪽 모두 존재하는 행은 한 번만 포함)
+
+**참고**: 중복을 허용하려면 `UNION ALL`을 사용할 수 있지만, FULL OUTER JOIN의 의미상 `UNION`을 사용하는 것이 일반적이다.
+
+### 암시적 JOIN
+
+FROM 절에 여러 테이블을 나열하고 WHERE 절로 조건을 걸어서 조인하는 방법이다. JOIN 문 없이도 조인을 수행할 수 있다.
+
+```sql
+-- 다른 테이블들 조인
+SELECT `users`.`name`, `orders`.`product`
+FROM `users`, `orders`
+WHERE `users`.`id` = `orders`.`user_id`;
+```
+4:["$","article",null,{"children":["$","$L7",null,{"children":"$8"}]}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

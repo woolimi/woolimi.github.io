@@ -1,0 +1,250 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T1683,
+## 불리언 기본
+
+```python
+True               # 참
+False              # 거짓
+
+type(True)         # <class 'bool'>
+type(False)        # <class 'bool'>
+
+# bool은 int의 서브클래스
+isinstance(True, int)   # True
+True == 1               # True
+False == 0              # True
+True + True             # 2
+```
+
+## Truthy / Falsy
+
+Python에서 모든 값은 불리언 문맥에서 `True` 또는 `False`로 평가됩니다.
+
+### Falsy (거짓으로 평가되는 값)
+
+```python
+bool(False)        # False
+bool(None)         # False
+bool(0)            # False
+bool(0.0)          # False
+bool(0j)           # False (복소수)
+bool("")           # False (빈 문자열)
+bool([])           # False (빈 리스트)
+bool(())           # False (빈 튜플)
+bool({})           # False (빈 딕셔너리)
+bool(set())        # False (빈 집합)
+```
+
+### Truthy (참으로 평가되는 값)
+
+```python
+bool(True)         # True
+bool(1)            # True (0이 아닌 숫자)
+bool(-1)           # True
+bool(3.14)         # True
+bool("hello")      # True (비어있지 않은 문자열)
+bool(" ")          # True (공백도 문자)
+bool([1, 2])       # True (비어있지 않은 리스트)
+bool({"a": 1})     # True
+```
+
+## 조건문에서 활용
+
+```python
+# Pythonic한 방법
+if lst:            # lst가 비어있지 않으면
+    pass
+
+if not lst:        # lst가 비어있으면
+    pass
+
+if name:           # name이 비어있지 않으면
+    pass
+
+# 안 좋은 방법 (불필요한 비교)
+if lst != []:      # ❌
+if len(lst) > 0:   # ❌
+if name != "":     # ❌
+```
+
+## 비교 연산자
+
+```python
+a == b             # 같음
+a != b             # 다름
+a > b              # 초과
+a >= b             # 이상
+a < b              # 미만
+a <= b             # 이하
+
+# 체이닝 비교
+1 < x < 10         # 1 < x and x < 10
+a == b == c        # a == b and b == c
+```
+
+## 동일성 연산자 (is)
+
+```python
+a is b             # 같은 객체인지 (메모리 주소)
+a is not b         # 다른 객체인지
+
+# None 비교는 is 사용
+x is None          # ✅ Pythonic
+x == None          # ❌ 안 좋은 방법
+
+# 작은 정수는 캐싱됨 (-5 ~ 256)
+a = 256
+b = 256
+a is b             # True
+
+a = 257
+b = 257
+a is b             # False (다른 객체)
+```
+
+## 논리 연산자
+
+```python
+# and: 둘 다 True면 True
+True and True      # True
+True and False     # False
+
+# or: 하나라도 True면 True
+True or False      # True
+False or False     # False
+
+# not: 반전
+not True           # False
+not False          # True
+
+# 우선순위: not > and > or
+not True or False          # False
+not (True or False)        # False
+True or False and False    # True (and 먼저)
+```
+
+## 단축 평가 (Short-circuit Evaluation)
+
+논리 연산자는 결과가 확정되면 나머지를 평가하지 않습니다.
+
+```python
+# and: 첫 번째가 False면 바로 반환
+False and expensive_function()   # expensive_function 실행 안됨
+
+# or: 첫 번째가 True면 바로 반환
+True or expensive_function()     # expensive_function 실행 안됨
+
+# 실제 반환값 (불리언이 아닐 수 있음!)
+"" and "hello"     # "" (첫 번째 Falsy)
+"hi" and "hello"   # "hello" (두 번째 값)
+"" or "hello"      # "hello" (첫 번째가 Falsy면 두 번째)
+"hi" or "hello"    # "hi" (첫 번째가 Truthy면 첫 번째)
+```
+
+## 단축 평가 활용
+
+```python
+# 기본값 설정
+name = user_input or "Guest"    # user_input이 Falsy면 "Guest"
+
+# None 체크와 함께
+result = data and data.get("key")  # data가 있을 때만 접근
+
+# 조건부 실행
+debug and print("디버그 메시지")   # debug가 True일 때만 출력
+
+# 삼항 연산자 대체 (주의: 값이 Falsy면 문제)
+value = a if a else b    # ✅ 명확
+value = a or b           # ⚠️ a가 0이면 b 반환
+```
+
+## all() / any()
+
+```python
+# all(): 모두 True인지
+all([True, True, True])    # True
+all([True, False, True])   # False
+all([])                    # True (빈 리스트)
+
+# any(): 하나라도 True인지
+any([False, False, True])  # True
+any([False, False, False]) # False
+any([])                    # False (빈 리스트)
+
+# 실전 활용
+numbers = [2, 4, 6, 8]
+all(n % 2 == 0 for n in numbers)  # True (모두 짝수?)
+any(n > 5 for n in numbers)       # True (5보다 큰 게 있나?)
+
+# 리스트에 특정 값 존재 확인
+any(x == "target" for x in lst)   # "target" in lst 와 동일
+```
+
+## 유용한 패턴
+
+```python
+# 빈 컬렉션 체크
+if not lst:
+    print("리스트가 비어있습니다")
+
+# 여러 조건 중 하나라도 만족
+if any([cond1, cond2, cond3]):
+    pass
+
+# 모든 조건 만족
+if all([cond1, cond2, cond3]):
+    pass
+
+# 조건부 리스트 추가
+result = []
+result.append("a") if condition else None
+# 또는
+condition and result.append("a")
+
+# XOR (둘 중 하나만 True)
+bool(a) != bool(b)         # XOR
+bool(a) ^ bool(b)          # XOR (비트 연산자)
+
+# 불리언 카운팅
+conditions = [True, False, True, True, False]
+sum(conditions)            # 3 (True의 개수)
+conditions.count(True)     # 3
+
+# 조건부 필터링
+[x for x in items if x]    # Truthy 값만
+[x for x in items if not x] # Falsy 값만
+list(filter(None, items))  # Falsy 제거
+```
+
+## 주의사항
+
+```python
+# == True 사용 금지
+if is_valid == True:       # ❌
+if is_valid:               # ✅
+
+# is True는 더 엄격 (값과 타입 모두 확인)
+1 == True                  # True
+1 is True                  # False (다른 객체)
+
+# 빈 문자열 vs None
+name = ""
+if name:                   # False (빈 문자열)
+if name is not None:       # True (None이 아님)
+
+# 0 체크 주의
+count = 0
+if count:                  # False (0은 Falsy)
+if count is not None:      # True (None이 아님)
+if count >= 0:             # True (0 포함)
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Python","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Python","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Python 불리언"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python 불리언\",\"description\":\"Python 불리언(bool)의 Truthy/Falsy, 논리연산, 단축평가\",\"image\":\"https://woolimi.github.io/og?title=Python 불리언\",\"url\":\"https://woolimi.github.io/blog/Python/bool\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Python 불리언"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

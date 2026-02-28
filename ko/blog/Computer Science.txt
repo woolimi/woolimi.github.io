@@ -1,0 +1,639 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+7:I[64725,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[64725,[],"ViewportBoundary"]
+c:I[64725,[],"MetadataBoundary"]
+e:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","blog","Computer%20Science"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","Computer%20Science","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"}]},{"name":"Imitation Learning","type":"folder","path":"AI/Imitation Learning","children":[{"name":"00.concept.ko.md","type":"file","path":"AI/Imitation Learning/00.concept.ko.md","slug":"AI/Imitation Learning/concept","locale":"ko","title":"모방학습 (Imitation Learning) 개념"},{"name":"01.so-101.ko.md","type":"file","path":"AI/Imitation Learning/01.so-101.ko.md","slug":"AI/Imitation Learning/so-101","locale":"ko","title":"LeRobot 맥 설정 방법"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"03.machine-learning.ko.md","type":"file","path":"AI/03.machine-learning.ko.md","slug":"AI/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"},{"name":"06.filter.ko.ipynb","type":"file","path":"AI/06.filter.ko.ipynb","slug":"AI/filter","locale":"ko","title":"신호 필터처리"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"C","type":"folder","path":"C","children":[{"name":"00.literal-vs-string.ko.md","type":"file","path":"C/00.literal-vs-string.ko.md","slug":"C/literal-vs-string","locale":"ko","title":"C 문자열 리터럴과 문자열"},{"name":"01.memory-string-functions.ko.md","type":"file","path":"C/01.memory-string-functions.ko.md","slug":"C/memory-string-functions","locale":"ko","title":"C 메모리 및 문자열 함수"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"00.basic.ko.md","type":"file","path":"ROS/00.basic.ko.md","slug":"ROS/basic","locale":"ko","title":"ROS2 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+14:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+15:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+1a:I[25417,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlogArticleCard"]
+1e:I[85584,[],"IconMark"]
+1b:T42d9,<h2 id="프로세스와-스레드의-기본-개념"><a class="heading-link" aria-hidden="true" href="#프로세스와-스레드의-기본-개념">프로세스와 스레드의 기본 개념</a></h2>
+<p>프로세스와 스레드를 한마디로 정의하면 다음과 같습니다:</p>
+<table>
+<thead>
+<tr>
+<th><strong>프로세스 (Process)</strong></th>
+<th><strong>스레드 (Thread)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>운영체제로부터 자원을 할당받은 <strong>작업의 단위</strong></td>
+<td>프로세스가 할당받은 자원을 이용하는 <strong>실행 흐름의 단위</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="프로그램과-프로세스"><a class="heading-link" aria-hidden="true" href="#프로그램과-프로세스">프로그램과 프로세스</a></h2>
+<h3 id="프로그램-program"><a class="heading-link" aria-hidden="true" href="#프로그램-program">프로그램 (Program)</a></h3>
+<p>프로그램은 윈도우의 <code>*.exe</code> 파일이나 Mac의 <code>*.dmg</code> 파일과 같은 <strong>컴퓨터에서 실행할 수 있는 파일</strong>을 의미합니다. 단, 아직 <strong>파일을 실행하지 않은 상태</strong>이기 때문에 정적 프로그램(Static Program)이라고 부릅니다.</p>
+<ul>
+<li>파일이 저장 장치에 있지만 메모리에는 올라가 있지 않은 정적인 상태</li>
+<li>쉽게 말해 그냥 <strong>코드 덩어리</strong></li>
+</ul>
+<h3 id="프로세스-process"><a class="heading-link" aria-hidden="true" href="#프로세스-process">프로세스 (Process)</a></h3>
+<p>프로세스는 프로그램을 실행시켜 정적인 프로그램이 동적으로 변하여 <strong>프로그램이 돌아가고 있는 상태</strong>를 말합니다. 즉, 컴퓨터에서 <strong>작업 중인 프로그램</strong>을 의미합니다.</p>
+<ul>
+<li>메모리에 적재되고 CPU 자원을 할당받아 프로그램이 실행되고 있는 상태</li>
+<li>그 코드 덩어리를 실행한 것</li>
+</ul>
+<p>모든 프로그램은 운영체제가 실행되기 위한 메모리 공간을 할당해 줘야 실행될 수 있습니다. 프로그램을 실행하는 순간 파일은 컴퓨터 메모리에 올라가게 되고, 운영체제로부터 시스템 자원(CPU)을 할당받아 프로그램 코드를 실행시켜 우리가 서비스를 이용할 수 있게 됩니다.</p>
+<h2 id="프로세스의-자원-구조"><a class="heading-link" aria-hidden="true" href="#프로세스의-자원-구조">프로세스의 자원 구조</a></h2>
+<p>프로그램이 실행되어 프로세스가 만들어지면 운영체제로부터 메모리 공간을 할당받게 됩니다. 이 메모리 공간은 다음과 같은 4가지 영역으로 구성됩니다:</p>
+<h3 id="메모리-영역-구성"><a class="heading-link" aria-hidden="true" href="#메모리-영역-구성">메모리 영역 구성</a></h3>
+<pre><code>높은 주소
+┌─────────────────┐
+│     Stack       │ ← 동적 영역 (함수 호출 시 증가/감소)
+│        ↓        │
+│                 │
+│        ↑        │
+│      Heap       │ ← 동적 영역 (동적 할당 시 증가/감소)
+│                 │
+├─────────────────┤
+│     Data        │ ← 정적 영역 (프로그램 시작 시 크기 결정)
+│   (.data,       │
+│   .rodata,      │
+│   .bss)         │
+├─────────────────┤
+│     Code        │ ← 정적 영역 (프로그램 시작 시 크기 결정)
+│    (Text)       │
+└─────────────────┘
+낮은 주소
+</code></pre>
+<h3 id="1-코드-영역-code--text"><a class="heading-link" aria-hidden="true" href="#1-코드-영역-code--text">1. 코드 영역 (Code / Text)</a></h3>
+<ul>
+<li><strong>역할</strong>: 프로그래머가 작성한 프로그램 함수들의 코드가 CPU가 해석 가능한 기계어 형태로 저장되어 있는 영역</li>
+<li><strong>특징</strong>:
+<ul>
+<li>읽기 전용(Read-Only) 영역</li>
+<li>프로그램 시작 시 크기가 결정되는 정적 영역</li>
+<li>여러 프로세스가 같은 프로그램을 실행하면 코드 영역은 공유될 수 있음</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-데이터-영역-data"><a class="heading-link" aria-hidden="true" href="#2-데이터-영역-data">2. 데이터 영역 (Data)</a></h3>
+<ul>
+<li><strong>역할</strong>: 코드가 실행되면서 사용하는 전역 변수나 각종 데이터들이 모여있는 영역</li>
+<li><strong>특징</strong>: 프로그램 시작 시 크기가 결정되는 정적 영역</li>
+<li><strong>세부 영역</strong>:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>영역</th>
+<th>설명</th>
+<th>예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>.data</strong></td>
+<td>전역 변수 또는 static 변수 등 프로그램이 사용하는 데이터</td>
+<td><code>int global_var = 10;</code></td>
+</tr>
+<tr>
+<td><strong>.bss</strong></td>
+<td>초기값 없는 전역 변수, static 변수가 저장</td>
+<td><code>int uninitialized_var;</code></td>
+</tr>
+<tr>
+<td><strong>.rodata</strong></td>
+<td>const 같은 상수 키워드 선언된 변수나 문자열 상수가 저장</td>
+<td><code>const int MAX_SIZE = 100;</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="3-스택-영역-stack"><a class="heading-link" aria-hidden="true" href="#3-스택-영역-stack">3. 스택 영역 (Stack)</a></h3>
+<ul>
+<li><strong>역할</strong>: 지역 변수와 같은 호출한 함수가 종료되면 되돌아올 임시적인 자료를 저장하는 독립적인 공간</li>
+<li><strong>특징</strong>:
+<ul>
+<li>함수의 호출과 함께 할당되며, 함수의 호출이 완료되면 소멸</li>
+<li>LIFO (Last In First Out) 구조</li>
+<li>스택 포인터가 높은 주소에서 낮은 주소 방향으로 증가</li>
+<li>스택 영역을 초과하면 <strong>Stack Overflow</strong> 에러 발생</li>
+<li>프로세스가 실행되는 동안 크기가 늘어났다 줄어들기도 하는 동적 영역</li>
+</ul>
+</li>
+</ul>
+<p><strong>스택에 저장되는 것들:</strong></p>
+<ul>
+<li>지역 변수</li>
+<li>함수 매개변수</li>
+<li>함수의 반환 주소</li>
+<li>함수 호출 정보</li>
+</ul>
+<h3 id="4-힙-영역-heap"><a class="heading-link" aria-hidden="true" href="#4-힙-영역-heap">4. 힙 영역 (Heap)</a></h3>
+<ul>
+<li><strong>역할</strong>: 생성자, 인스턴스와 같은 동적으로 할당되는 데이터들을 위해 존재하는 공간</li>
+<li><strong>특징</strong>:
+<ul>
+<li>사용자에 의해 메모리 공간이 동적으로 할당되고 해제됨</li>
+<li>프로세스가 실행되는 동안 크기가 늘어났다 줄어들기도 하는 동적 영역</li>
+<li>스택과 반대로 낮은 주소에서 높은 주소 방향으로 증가</li>
+<li>프로그래머가 직접 관리해야 함 (메모리 누수 주의)</li>
+</ul>
+</li>
+</ul>
+<p><strong>힙에 저장되는 것들:</strong></p>
+<ul>
+<li><code>malloc()</code>, <code>new</code> 등으로 동적 할당된 메모리</li>
+<li>객체 인스턴스</li>
+<li>동적 배열</li>
+</ul>
+<h3 id="정적-영역-vs-동적-영역"><a class="heading-link" aria-hidden="true" href="#정적-영역-vs-동적-영역">정적 영역 vs 동적 영역</a></h3>
+<p>위의 그림에서 Stack과 Heap 영역이 위아래로 화살표가 표시된 것을 볼 수 있는데, 이는 다음과 같은 의미입니다:</p>
+<ul>
+<li>
+<p><strong>정적 영역 (Code, Data)</strong>:</p>
+<ul>
+<li>프로그램이 시작될 때 크기가 결정됨</li>
+<li>프로그램 실행 중 크기 변경 불가</li>
+<li>컴파일 타임에 메모리 크기 결정</li>
+</ul>
+</li>
+<li>
+<p><strong>동적 영역 (Stack, Heap)</strong>:</p>
+<ul>
+<li>프로세스가 실행되는 동안 크기가 늘어났다 줄어들기도 함</li>
+<li>런타임에 메모리 크기 결정</li>
+<li>Stack은 함수 호출에 따라, Heap은 동적 할당에 따라 크기 변경</li>
+</ul>
+</li>
+</ul>
+<h3 id="여러-프로세스의-메모리-구조"><a class="heading-link" aria-hidden="true" href="#여러-프로세스의-메모리-구조">여러 프로세스의 메모리 구조</a></h3>
+<p>프로그램이 여러 개 실행된다면 메모리에 프로세스들이 담길 주소 공간이 생성되게 되고, 각 프로세스마다 독립적인 Code, Data, Stack, Heap 공간이 만들어지게 됩니다.</p>
+<pre><code>메모리
+┌─────────────────────────┐
+│   프로세스 A              │
+│   ┌─────────────────┐   │
+│   │     Stack       │   │
+│   │      Heap       │   │
+│   │     Data        │   │
+│   │     Code        │   │
+│   └─────────────────┘   │
+├─────────────────────────┤
+│   프로세스 B              │
+│   ┌─────────────────┐   │
+│   │     Stack       │   │
+│   │      Heap       │   │
+│   │     Data        │   │
+│   │     Code        │   │
+│   └─────────────────┘   │
+└─────────────────────────┘
+</code></pre>
+<p>각 프로세스는 독립적인 메모리 공간을 가지므로, 한 프로세스의 메모리에 다른 프로세스가 직접 접근할 수 없습니다. 이는 프로세스 간 안정성과 보안을 보장합니다.</p>
+<h2 id="스레드-thread"><a class="heading-link" aria-hidden="true" href="#스레드-thread">스레드 (Thread)</a></h2>
+<h3 id="프로세스의-한계"><a class="heading-link" aria-hidden="true" href="#프로세스의-한계">프로세스의 한계</a></h3>
+<p>과거에는 프로그램을 실행할 때 프로세스 하나만을 사용했습니다. 하지만 기술이 발전됨에 따라 프로그램이 복잡해지고 다채로워짐으로써 프로세스 작업 하나만을 사용해서 프로그램을 실행하기에는 한계가 있었습니다.</p>
+<p>동일한 프로그램을 여러 개의 프로세스로 만들게 되면, 그만큼 메모리를 차지하고 CPU에서 할당받는 자원이 중복되게 됩니다. 스레드(Thread)는 이러한 프로세스 특성의 한계를 해결하기 위해 탄생했습니다.</p>
+<h3 id="스레드의-개념"><a class="heading-link" aria-hidden="true" href="#스레드의-개념">스레드의 개념</a></h3>
+<p>스레드란, 하나의 <strong>프로세스 내에서</strong> <strong>동시에 진행되는 작업 갈래, 흐름의 단위</strong>를 말합니다.</p>
+<p>예를 들어, 웹 브라우저에서 파일을 다운로드하면서 동시에 다른 웹페이지를 탐색할 수 있는 것은 하나의 프로세스 내에서 여러 스레드가 동시에 작업을 수행하기 때문입니다.</p>
+<h2 id="프로세스-vs-스레드-비교"><a class="heading-link" aria-hidden="true" href="#프로세스-vs-스레드-비교">프로세스 vs 스레드 비교</a></h2>
+<h3 id="자원-공유"><a class="heading-link" aria-hidden="true" href="#자원-공유">자원 공유</a></h3>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>프로세스</th>
+<th>스레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>메모리 공간</strong></td>
+<td>독립적인 메모리 공간 (별도의 주소 공간)</td>
+<td>프로세스의 메모리 공간 공유</td>
+</tr>
+<tr>
+<td><strong>코드/데이터/힙</strong></td>
+<td>각자 독립적으로 보유</td>
+<td>프로세스 내에서 공유</td>
+</tr>
+<tr>
+<td><strong>스택</strong></td>
+<td>각자 독립적인 스택</td>
+<td>각 스레드마다 독립적인 스택</td>
+</tr>
+<tr>
+<td><strong>레지스터</strong></td>
+<td>각자 독립적인 레지스터</td>
+<td>각 스레드마다 독립적인 레지스터</td>
+</tr>
+<tr>
+<td><strong>파일 디스크립터</strong></td>
+<td>각자 독립적으로 보유</td>
+<td>프로세스 내에서 공유</td>
+</tr>
+<tr>
+<td><strong>전역 변수</strong></td>
+<td>공유 불가</td>
+<td>공유 가능</td>
+</tr>
+</tbody>
+</table>
+<h3 id="통신-방식"><a class="heading-link" aria-hidden="true" href="#통신-방식">통신 방식</a></h3>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>프로세스</th>
+<th>스레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>통신 방법</strong></td>
+<td>IPC (Inter-Process Communication)- 파이프, 소켓, 공유 메모리 등</td>
+<td>공유 메모리 공간을 통한 직접 접근</td>
+</tr>
+<tr>
+<td><strong>통신 비용</strong></td>
+<td>높음 (컨텍스트 스위칭 비용)</td>
+<td>낮음 (같은 주소 공간 사용)</td>
+</tr>
+<tr>
+<td><strong>동기화</strong></td>
+<td>필요 없음 (독립적)</td>
+<td>필요함 (공유 자원 접근 시)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="생성-및-관리"><a class="heading-link" aria-hidden="true" href="#생성-및-관리">생성 및 관리</a></h3>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>프로세스</th>
+<th>스레드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>생성 비용</strong></td>
+<td>높음 (메모리 복사 필요)</td>
+<td>낮음 (기존 프로세스 자원 공유)</td>
+</tr>
+<tr>
+<td><strong>컨텍스트 스위칭</strong></td>
+<td>느림 (메모리 공간 전환)</td>
+<td>빠름 (레지스터만 전환)</td>
+</tr>
+<tr>
+<td><strong>독립성</strong></td>
+<td>높음 (하나가 죽어도 다른 프로세스에 영향 없음)</td>
+<td>낮음 (하나가 죽으면 전체 프로세스 종료 가능)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="멀티프로세스-vs-멀티스레드"><a class="heading-link" aria-hidden="true" href="#멀티프로세스-vs-멀티스레드">멀티프로세스 vs 멀티스레드</a></h2>
+<h3 id="멀티프로세스-multi-process"><a class="heading-link" aria-hidden="true" href="#멀티프로세스-multi-process">멀티프로세스 (Multi-Process)</a></h3>
+<ul>
+<li>여러 개의 프로세스를 동시에 실행</li>
+<li>각 프로세스는 독립적인 메모리 공간을 가짐</li>
+<li>프로세스 간 통신이 어렵고 비용이 높음</li>
+<li>하나의 프로세스가 죽어도 다른 프로세스에 영향 없음</li>
+</ul>
+<p><strong>장점:</strong></p>
+<ul>
+<li>프로세스 간 독립성으로 안정성 높음</li>
+<li>하나의 프로세스 오류가 다른 프로세스에 영향 없음</li>
+</ul>
+<p><strong>단점:</strong></p>
+<ul>
+<li>메모리 사용량이 많음</li>
+<li>컨텍스트 스위칭 비용이 높음</li>
+<li>프로세스 간 통신이 복잡함</li>
+</ul>
+<h3 id="멀티스레드-multi-thread"><a class="heading-link" aria-hidden="true" href="#멀티스레드-multi-thread">멀티스레드 (Multi-Thread)</a></h3>
+<ul>
+<li>하나의 프로세스 내에서 여러 스레드를 동시에 실행</li>
+<li>스레드 간 메모리 공간을 공유</li>
+<li>스레드 간 통신이 쉽고 비용이 낮음</li>
+<li>하나의 스레드 오류가 전체 프로세스에 영향 줄 수 있음</li>
+</ul>
+<p><strong>장점:</strong></p>
+<ul>
+<li>메모리 사용량이 적음</li>
+<li>컨텍스트 스위칭이 빠름</li>
+<li>스레드 간 통신이 쉬움</li>
+<li>자원 공유가 효율적</li>
+</ul>
+<p><strong>단점:</strong></p>
+<ul>
+<li>동기화 문제 발생 가능 (Race Condition, Deadlock)</li>
+<li>하나의 스레드 오류가 전체 프로세스에 영향</li>
+<li>디버깅이 어려움</li>
+</ul>
+<h2 id="실제-사용-예시"><a class="heading-link" aria-hidden="true" href="#실제-사용-예시">실제 사용 예시</a></h2>
+<h3 id="멀티프로세스-사용-사례"><a class="heading-link" aria-hidden="true" href="#멀티프로세스-사용-사례">멀티프로세스 사용 사례</a></h3>
+<ul>
+<li>웹 브라우저의 탭 (각 탭이 독립적인 프로세스)</li>
+<li>운영체제의 여러 프로그램 동시 실행</li>
+<li>서버의 여러 워커 프로세스</li>
+</ul>
+<h3 id="멀티스레드-사용-사례"><a class="heading-link" aria-hidden="true" href="#멀티스레드-사용-사례">멀티스레드 사용 사례</a></h3>
+<ul>
+<li>웹 브라우저 내에서 파일 다운로드와 웹페이지 탐색 동시 수행</li>
+<li>워드 프로세서에서 타이핑과 자동 저장 동시 수행</li>
+<li>게임에서 렌더링과 물리 엔진 동시 처리</li>
+<li>웹 서버의 요청 처리 (각 요청을 스레드로 처리)</li>
+</ul>
+<h2 id="정리"><a class="heading-link" aria-hidden="true" href="#정리">정리</a></h2>
+<ol>
+<li><strong>프로세스</strong>: 운영체제로부터 자원을 할당받은 작업의 단위로, 독립적인 메모리 공간을 가짐</li>
+<li><strong>스레드</strong>: 프로세스 내에서 실행되는 흐름의 단위로, 프로세스의 메모리 공간을 공유</li>
+<li><strong>자원 공유</strong>: 프로세스는 독립적, 스레드는 공유 메모리 공간 사용</li>
+<li><strong>통신</strong>: 프로세스는 IPC 필요, 스레드는 공유 메모리로 직접 접근</li>
+<li><strong>선택 기준</strong>: 안정성이 중요하면 멀티프로세스, 성능과 효율성이 중요하면 멀티스레드</li>
+</ol>6:["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L16"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L17"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}]]}]}],["$","$L19",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"Computer Science"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L1a","Computer Science/process-vs-thread",{"post":{"metadata":{"title":"프로세스와 스레드","summary":"프로세스와 스레드의 개념, 차이점, 자원 공유 방식에 대한 완전 정리","locale":"ko","createdAt":"2026-02-28T15:00:00.000Z","updatedAt":"2026-01-05T08:42:29.000Z"},"slug":"Computer Science/process-vs-thread","source":"$1b","type":"markdown","notebookData":"$undefined","parentFolder":"Computer Science"},"locale":"ko","delay":0.08}],"$L1c"]}],"$L1d"]}]
+d:[["$","title","0",{"children":"Computer Science - Blog | 박우림"}],["$","meta","1",{"name":"description","content":"Posts in Computer Science category"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"박우림"}],["$","meta","6",{"property":"og:description","content":"Frontend Developer"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io"}],["$","meta","8",{"property":"og:site_name","content":"박우림"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://woolimi.github.io/og-image.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"박우림"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"박우림"}],["$","meta","17",{"name":"twitter:description","content":"Frontend Developer"}],["$","meta","18",{"name":"twitter:image","content":"https://woolimi.github.io/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","20",{"rel":"icon","href":"/favicon.ico"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","22",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","23",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1e","24",{}]]
+9:null
+20:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+1f:T8f4f,<h2 id="엔디안이란"><a class="heading-link" aria-hidden="true" href="#엔디안이란">엔디안이란?</a></h2>
+<p><strong>엔디안</strong>은 메모리에 저장된 <strong>멀티바이트 데이터의 바이트 순서</strong>(Byte Order)를 나타내는 개념이다. 같은 데이터를 저장할 때 바이트를 어떤 순서로 배치하느냐에 따라 해석이 달라진다.</p>
+<h2 id="엔디안이-적용되는-데이터-타입"><a class="heading-link" aria-hidden="true" href="#엔디안이-적용되는-데이터-타입">엔디안이 적용되는 데이터 타입</a></h2>
+<h3 id="적용되는-데이터-타입"><a class="heading-link" aria-hidden="true" href="#적용되는-데이터-타입">적용되는 데이터 타입</a></h3>
+<p>엔디안은 <strong>1바이트보다 큰 데이터 타입</strong>에만 적용된다:</p>
+<table>
+<thead>
+<tr>
+<th>데이터 타입</th>
+<th>크기</th>
+<th>엔디안 적용 여부</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>char</code></td>
+<td>1바이트</td>
+<td>❌ 적용 안 된다</td>
+</tr>
+<tr>
+<td><code>short</code></td>
+<td>2바이트</td>
+<td>✅ 적용됨</td>
+</tr>
+<tr>
+<td><code>int</code></td>
+<td>4바이트</td>
+<td>✅ 적용됨</td>
+</tr>
+<tr>
+<td><code>long</code></td>
+<td>4바이트 (32비트) / 8바이트 (64비트)</td>
+<td>✅ 적용됨</td>
+</tr>
+<tr>
+<td><code>long long</code></td>
+<td>8바이트</td>
+<td>✅ 적용됨</td>
+</tr>
+<tr>
+<td><code>float</code></td>
+<td>4바이트</td>
+<td>✅ 적용됨</td>
+</tr>
+<tr>
+<td><code>double</code></td>
+<td>8바이트</td>
+<td>✅ 적용됨</td>
+</tr>
+<tr>
+<td><code>pointer</code></td>
+<td>4바이트 (32비트) / 8바이트 (64비트)</td>
+<td>✅ 적용됨</td>
+</tr>
+</tbody>
+</table>
+<h3 id="핵심-원리"><a class="heading-link" aria-hidden="true" href="#핵심-원리">핵심 원리</a></h3>
+<ul>
+<li><strong>1바이트 데이터</strong>: 엔디안 문제가 없다. 바이트가 하나뿐이므로 순서가 의미가 없다.</li>
+<li><strong>멀티바이트 데이터</strong>: 2바이트 이상의 데이터는 바이트 순서에 따라 해석이 달라진다.</li>
+</ul>
+<h2 id="엔디안의-종류"><a class="heading-link" aria-hidden="true" href="#엔디안의-종류">엔디안의 종류</a></h2>
+<h3 id="big-endian-빅-엔디안"><a class="heading-link" aria-hidden="true" href="#big-endian-빅-엔디안">Big Endian (빅 엔디안)</a></h3>
+<p><strong>바이트를 낮은 주소부터 저장</strong>하는 방식이다.</p>
+<pre><code>메모리 주소:  [0x1000] [0x1001] [0x1002] [0x1003]
+데이터:      [  0x12] [  0x34] [  0x56] [  0x78]
+            ↑ 여기서 시작
+</code></pre>
+<ul>
+<li><strong>사람이 읽기 쉬운 순서</strong>: 왼쪽에서 오른쪽으로 읽으면 자연스럽다.</li>
+<li><strong>사용 예시</strong>: 네트워크 프로토콜(IP 주소 등), 일부 프로세서(ARM의 일부 모드, PowerPC 등)</li>
+</ul>
+<h3 id="little-endian-리틀-엔디안"><a class="heading-link" aria-hidden="true" href="#little-endian-리틀-엔디안">Little Endian (리틀 엔디안)</a></h3>
+<p><strong>바이트를 높은 주소부터 저장</strong>하는 방식이다.</p>
+<pre><code>메모리 주소:  [0x1000] [0x1001] [0x1002] [0x1003]
+데이터:      [  0x78] [  0x56] [  0x34] [  0x12]
+                                       ↑ 여기서 시작
+</code></pre>
+<ul>
+<li><strong>메모리 효율성</strong>: 산술연산은 하위 바이트에서 시작하기 때문에 리틀 엔디안 방식은 cpu 연산에 유리하다.</li>
+<li><strong>사용 예시</strong>: x86/x64 아키텍처, 대부분의 개인용 컴퓨터</li>
+</ul>
+<h2 id="뒤집는-단위와-범위"><a class="heading-link" aria-hidden="true" href="#뒤집는-단위와-범위">뒤집는 단위와 범위</a></h2>
+<h3 id="뒤집는-단위-바이트byte-단위"><a class="heading-link" aria-hidden="true" href="#뒤집는-단위-바이트byte-단위">뒤집는 단위: <strong>바이트(Byte) 단위</strong></a></h3>
+<p>엔디안은 <strong>바이트 단위로 뒤집힌다</strong>. 비트 단위가 아니다.</p>
+<h4 id="예시-0x12345678-4바이트-정수"><a class="heading-link" aria-hidden="true" href="#예시-0x12345678-4바이트-정수">예시: 0x12345678 (4바이트 정수)</a></h4>
+<p><strong>Big Endian:</strong></p>
+<pre><code>메모리 주소:  0x1000  0x1001  0x1002  0x1003
+바이트 값:    0x12    0x34    0x56    0x78
+</code></pre>
+<p><strong>Little Endian:</strong></p>
+<pre><code>메모리 주소:  0x1000  0x1001  0x1002  0x1003
+바이트 값:    0x78    0x56    0x34    0x12
+</code></pre>
+<p>각 바이트 내부의 비트 순서는 <strong>변하지 않는다</strong>. 바이트 단위로만 순서가 바뀐다.</p>
+<h3 id="뒤집는-범위-전체-데이터-타입의-크기"><a class="heading-link" aria-hidden="true" href="#뒤집는-범위-전체-데이터-타입의-크기">뒤집는 범위: <strong>전체 데이터 타입의 크기</strong></a></h3>
+<p>엔디안 변환은 <strong>데이터 타입의 전체 크기 범위</strong>에 적용된다.</p>
+<h4 id="2바이트-데이터-short"><a class="heading-link" aria-hidden="true" href="#2바이트-데이터-short">2바이트 데이터 (short)</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c" data-theme="moonlight-ii"><code data-language="c" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">short</span><span style="color:#C8D3F5"> value </span><span style="color:#86E1FC">=</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">1234</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // 2바이트</span></span><button type="button" title="Copy code" aria-label="Copy code" data="short value = 0x1234;  // 2바이트" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>Big Endian:</strong></p>
+<pre><code>[0x12] [0x34]
+</code></pre>
+<p><strong>Little Endian:</strong></p>
+<pre><code>[0x34] [0x12]
+</code></pre>
+<h4 id="4바이트-데이터-int"><a class="heading-link" aria-hidden="true" href="#4바이트-데이터-int">4바이트 데이터 (int)</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c" data-theme="moonlight-ii"><code data-language="c" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">int</span><span style="color:#C8D3F5"> value </span><span style="color:#86E1FC">=</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">12345678</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // 4바이트</span></span><button type="button" title="Copy code" aria-label="Copy code" data="int value = 0x12345678;  // 4바이트" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>Big Endian:</strong></p>
+<pre><code>[0x12] [0x34] [0x56] [0x78]
+</code></pre>
+<p><strong>Little Endian:</strong></p>
+<pre><code>[0x78] [0x56] [0x34] [0x12]
+</code></pre>
+<h4 id="8바이트-데이터-long-long"><a class="heading-link" aria-hidden="true" href="#8바이트-데이터-long-long">8바이트 데이터 (long long)</a></h4>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c" data-theme="moonlight-ii"><code data-language="c" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">long</span><span style="color:#FFC777"> long</span><span style="color:#C8D3F5"> value </span><span style="color:#86E1FC">=</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">1234567890ABCDEF</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // 8바이트</span></span><button type="button" title="Copy code" aria-label="Copy code" data="long long value = 0x1234567890ABCDEF;  // 8바이트" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>Big Endian:</strong></p>
+<pre><code>[0x12] [0x34] [0x56] [0x78] [0x90] [0xAB] [0xCD] [0xEF]
+</code></pre>
+<p><strong>Little Endian:</strong></p>
+<pre><code>[0xEF] [0xCD] [0xAB] [0x90] [0x78] [0x56] [0x34] [0x12]
+</code></pre>
+<h2 id="실제-예제"><a class="heading-link" aria-hidden="true" href="#실제-예제">실제 예제</a></h2>
+<h3 id="c-코드로-확인하기"><a class="heading-link" aria-hidden="true" href="#c-코드로-확인하기">C 코드로 확인하기</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c" data-theme="moonlight-ii"><code data-language="c" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">stdio.h</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">int</span><span style="color:#82AAFF"> main</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">    int</span><span style="color:#B4C2F0"> value </span><span style="color:#86E1FC">=</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">12345678</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    unsigned</span><span style="color:#FFC777"> char</span><span style="color:#86E1FC"> *</span><span style="color:#B4C2F0">bytes </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> (</span><span style="color:#FFC777">unsigned</span><span style="color:#FFC777"> char</span><span style="color:#86E1FC"> *)&#x26;</span><span style="color:#B4C2F0">value</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#65BCFF">    printf</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">Value: 0x</span><span style="color:#C8D3F5">%08X</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">,</span><span style="color:#B4C2F0"> value</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#65BCFF">    printf</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">Memory layout:</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#86E1FC">    for</span><span style="color:#86E1FC"> (</span><span style="color:#FFC777">int</span><span style="color:#B4C2F0"> i </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span><span style="color:#B4C2F0"> i </span><span style="color:#86E1FC">&#x3C;</span><span style="color:#86E1FC"> sizeof(</span><span style="color:#FFC777">int</span><span style="color:#86E1FC">);</span><span style="color:#B4C2F0"> i</span><span style="color:#86E1FC">++)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#65BCFF">        printf</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">  [</span><span style="color:#C8D3F5">%p</span><span style="color:#C3E88D">]: 0x</span><span style="color:#C8D3F5">%02X</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#C8D3F5">bytes</span><span style="color:#86E1FC">[</span><span style="color:#B4C2F0">i</span><span style="color:#86E1FC">],</span><span style="color:#C8D3F5"> bytes</span><span style="color:#86E1FC">[</span><span style="color:#B4C2F0">i</span><span style="color:#86E1FC">]);</span></span>
+<span data-line=""><span style="color:#86E1FC">    }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">    return</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include <stdio.h>
+
+int main() {
+    int value = 0x12345678;
+    unsigned char *bytes = (unsigned char *)&#x26;value;
+
+    printf(&#x22;Value: 0x%08X\n&#x22;, value);
+    printf(&#x22;Memory layout:\n&#x22;);
+    for (int i = 0; i < sizeof(int); i++) {
+        printf(&#x22;  [%p]: 0x%02X\n&#x22;, &#x26;bytes[i], bytes[i]);
+    }
+
+    return 0;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="4바이트-int를-little-endian으로-변환하는-tobytes-함수"><a class="heading-link" aria-hidden="true" href="#4바이트-int를-little-endian으로-변환하는-tobytes-함수">4바이트 int를 Little Endian으로 변환하는 toBytes 함수</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c" data-theme="moonlight-ii"><code data-language="c" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">stdio.h</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">stdint.h</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">void</span><span style="color:#82AAFF"> toBytes</span><span style="color:#86E1FC">(</span><span style="color:#FFC777">uint32_t</span><span style="color:#FCA7EA"> value</span><span style="color:#86E1FC">,</span><span style="color:#FFC777"> unsigned</span><span style="color:#FFC777"> char</span><span style="color:#86E1FC"> *</span><span style="color:#FCA7EA">bytes</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#858AA6">    // Little Endian: 낮은 주소부터 LSB부터 저장</span></span>
+<span data-line=""><span style="color:#C8D3F5">    bytes</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">value </span><span style="color:#86E1FC">>></span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">FF</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // LSB (0x78)</span></span>
+<span data-line=""><span style="color:#C8D3F5">    bytes</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">value </span><span style="color:#86E1FC">>></span><span style="color:#FF966C"> 8</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">FF</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // 0x56</span></span>
+<span data-line=""><span style="color:#C8D3F5">    bytes</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">value </span><span style="color:#86E1FC">>></span><span style="color:#FF966C"> 16</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">FF</span><span style="color:#86E1FC">;</span><span style="color:#858AA6"> // 0x34</span></span>
+<span data-line=""><span style="color:#C8D3F5">    bytes</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> (</span><span style="color:#B4C2F0">value </span><span style="color:#86E1FC">>></span><span style="color:#FF966C"> 24</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">FF</span><span style="color:#86E1FC">;</span><span style="color:#858AA6"> // MSB (0x12)</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">int</span><span style="color:#82AAFF"> main</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">    uint32_t</span><span style="color:#B4C2F0"> value </span><span style="color:#86E1FC">=</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">12345678</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">    unsigned</span><span style="color:#FFC777"> char</span><span style="color:#C8D3F5"> bytes</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">4</span><span style="color:#86E1FC">];</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#65BCFF">    toBytes</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">value</span><span style="color:#86E1FC">,</span><span style="color:#B4C2F0"> bytes</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#65BCFF">    printf</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">Value: 0x</span><span style="color:#C8D3F5">%08X</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">,</span><span style="color:#B4C2F0"> value</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#65BCFF">    printf</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">Little Endian bytes:</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#86E1FC">    for</span><span style="color:#86E1FC"> (</span><span style="color:#FFC777">int</span><span style="color:#B4C2F0"> i </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span><span style="color:#B4C2F0"> i </span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FF966C"> 4</span><span style="color:#86E1FC">;</span><span style="color:#B4C2F0"> i</span><span style="color:#86E1FC">++)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#65BCFF">        printf</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">  bytes[</span><span style="color:#C8D3F5">%d</span><span style="color:#C3E88D">] = 0x</span><span style="color:#C8D3F5">%02X</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">,</span><span style="color:#B4C2F0"> i</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> bytes</span><span style="color:#86E1FC">[</span><span style="color:#B4C2F0">i</span><span style="color:#86E1FC">]);</span></span>
+<span data-line=""><span style="color:#86E1FC">    }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">    // 출력:</span></span>
+<span data-line=""><span style="color:#858AA6">    // Value: 0x12345678</span></span>
+<span data-line=""><span style="color:#858AA6">    // Little Endian bytes:</span></span>
+<span data-line=""><span style="color:#858AA6">    //   bytes[0] = 0x78</span></span>
+<span data-line=""><span style="color:#858AA6">    //   bytes[1] = 0x56</span></span>
+<span data-line=""><span style="color:#858AA6">    //   bytes[2] = 0x34</span></span>
+<span data-line=""><span style="color:#858AA6">    //   bytes[3] = 0x12</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">    return</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include <stdio.h>
+#include <stdint.h>
+
+void toBytes(uint32_t value, unsigned char *bytes) {
+    // Little Endian: 낮은 주소부터 LSB부터 저장
+    bytes[0] = (value >> 0) &#x26; 0xFF;  // LSB (0x78)
+    bytes[1] = (value >> 8) &#x26; 0xFF;  // 0x56
+    bytes[2] = (value >> 16) &#x26; 0xFF; // 0x34
+    bytes[3] = (value >> 24) &#x26; 0xFF; // MSB (0x12)
+}
+
+int main() {
+    uint32_t value = 0x12345678;
+    unsigned char bytes[4];
+
+    toBytes(value, bytes);
+
+    printf(&#x22;Value: 0x%08X\n&#x22;, value);
+    printf(&#x22;Little Endian bytes:\n&#x22;);
+    for (int i = 0; i < 4; i++) {
+        printf(&#x22;  bytes[%d] = 0x%02X\n&#x22;, i, bytes[i]);
+    }
+
+    // 출력:
+    // Value: 0x12345678
+    // Little Endian bytes:
+    //   bytes[0] = 0x78
+    //   bytes[1] = 0x56
+    //   bytes[2] = 0x34
+    //   bytes[3] = 0x12
+
+    return 0;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="엔디안이-중요한-상황"><a class="heading-link" aria-hidden="true" href="#엔디안이-중요한-상황">엔디안이 중요한 상황</a></h2>
+<h3 id="1-네트워크-통신"><a class="heading-link" aria-hidden="true" href="#1-네트워크-통신">1. 네트워크 통신</a></h3>
+<p>네트워크 프로토콜은 **Big Endian(Network Byte Order)**을 표준으로 사용한다. 서로 다른 엔디안을 가진 시스템 간 통신 시 변환이 필요하다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="c" data-theme="moonlight-ii"><code data-language="c" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6">// 네트워크 바이트 순서로 변환</span></span>
+<span data-line=""><span style="color:#FFC777">uint32_t</span><span style="color:#C8D3F5"> host_value </span><span style="color:#86E1FC">=</span><span style="color:#FC7B7B"> 0x</span><span style="color:#FF966C">12345678</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">uint32_t</span><span style="color:#C8D3F5"> network_value </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> htonl</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">host_value</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">  // Host TO Network Long</span></span><button type="button" title="Copy code" aria-label="Copy code" data="// 네트워크 바이트 순서로 변환
+uint32_t host_value = 0x12345678;
+uint32_t network_value = htonl(host_value);  // Host TO Network Long" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="2-파일-포맷"><a class="heading-link" aria-hidden="true" href="#2-파일-포맷">2. 파일 포맷</a></h3>
+<p>바이너리 파일 포맷은 특정 엔디안을 가정한다. 예를 들어:</p>
+<ul>
+<li><strong>PNG</strong>: Big Endian</li>
+<li><strong>GIF</strong>: Little Endian</li>
+<li><strong>JPEG</strong>: Big Endian</li>
+</ul>
+<h3 id="3-프로세서-간-데이터-공유"><a class="heading-link" aria-hidden="true" href="#3-프로세서-간-데이터-공유">3. 프로세서 간 데이터 공유</a></h3>
+<p>서로 다른 엔디안을 가진 프로세서 간 데이터를 공유할 때 변환이 필요하다.</p>
+<h3 id="4-디버깅"><a class="heading-link" aria-hidden="true" href="#4-디버깅">4. 디버깅</a></h3>
+<p>메모리 덤프를 읽을 때 엔디안을 고려해야 올바르게 해석할 수 있다.</p>
+<h2 id="요약"><a class="heading-link" aria-hidden="true" href="#요약">요약</a></h2>
+<table>
+<thead>
+<tr>
+<th>항목</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>적용 데이터 타입</strong></td>
+<td>1바이트보다 큰 모든 멀티바이트 데이터 타입 (short, int, long, float, double, pointer 등)</td>
+</tr>
+<tr>
+<td><strong>뒤집는 단위</strong></td>
+<td><strong>바이트(Byte) 단위</strong> (비트 단위 아님)</td>
+</tr>
+<tr>
+<td><strong>뒤집는 범위</strong></td>
+<td><strong>데이터 타입의 전체 크기</strong> (2바이트면 2바이트 전체, 4바이트면 4바이트 전체)</td>
+</tr>
+<tr>
+<td><strong>핵심 원리</strong></td>
+<td>각 바이트 내부의 비트 순서는 변하지 않고, 바이트들의 순서만 바뀜</td>
+</tr>
+</tbody>
+</table>
+<h2 id="추가-참고사항"><a class="heading-link" aria-hidden="true" href="#추가-참고사항">추가 참고사항</a></h2>
+<ul>
+<li><strong>엔디안 중립 코드 작성</strong>: 네트워크 통신이나 파일 I/O 시에는 항상 엔디안 변환 함수(<code>htonl</code>, <code>ntohl</code> 등)를 사용해야 한다.</li>
+<li><strong>현대 시스템</strong>: 대부분의 개인용 컴퓨터는 Little Endian을 사용하지만, 네트워크 표준은 Big Endian이므로 변환이 필요하다.</li>
+</ul>1c:["$","$L1a","Computer Science/endian",{"post":{"metadata":{"title":"엔디안","summary":"엔디안의 개념, 적용되는 데이터 타입, 바이트 순서 뒤집기 단위와 범위 정리","locale":"ko","createdAt":"2026-01-06T05:32:18.000Z","updatedAt":"2026-01-06T06:40:14.000Z"},"slug":"Computer Science/endian","source":"$1f","type":"markdown","notebookData":"$undefined","parentFolder":"Computer Science"},"locale":"ko","delay":0.13}]
+1d:null
+16:["$","$L20",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+17:["$","$L20",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$16:props:localeCookie","children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+18:["$","$L20",null,{"ref":null,"href":"/ko/blog/Computer Science","locale":"$undefined","localeCookie":"$16:props:localeCookie","children":"Computer Science","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

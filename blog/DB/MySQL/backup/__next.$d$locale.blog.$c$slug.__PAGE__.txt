@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"DB","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB/MySQL","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"MySQL","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"MySQL mysqldump 백업 및 복원"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"MySQL mysqldump 백업 및 복원\",\"description\":\"mysqldump로 DB 전체, 특정 DB, 특정 테이블(데이터/스키마만) 백업 및 import 방법\",\"image\":\"https://woolimi.github.io/og?title=MySQL mysqldump 백업 및 복원\",\"url\":\"https://woolimi.github.io/blog/DB/MySQL/backup\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"MySQL mysqldump 백업 및 복원"}]
+9:T949,
+## mysqldump 기본
+
+`mysqldump`는 MySQL 데이터를 SQL 덤프 파일로 내보내는 클라이언트 도구다. 백업 후 `mysql` 클라이언트로 import 한다.
+
+---
+
+## 1. DB 전체 백업
+
+서버에 있는 모든 데이터베이스를 백업한다.
+
+```bash
+mysqldump -u 사용자명 -p --all-databases > backup_all.sql
+```
+
+- `--all-databases`: 모든 DB 포함
+- `-p`: 비밀번호 입력 프롬프트
+
+**복원**
+
+```bash
+mysql -u 사용자명 -p < backup_all.sql
+```
+
+---
+
+## 2. 특정 DB 백업
+
+하나의 데이터베이스만 백업한다.
+
+```bash
+mysqldump -u 사용자명 -p 데이터베이스명 > backup_db.sql
+```
+
+**복원**
+
+```bash
+mysql -u 사용자명 -p 데이터베이스명 < backup_db.sql
+```
+
+복원 전에 해당 DB가 없으면 생성해야 한다.
+
+```bash
+mysql -u 사용자명 -p -e "CREATE DATABASE IF NOT EXISTS 데이터베이스명;"
+mysql -u 사용자명 -p 데이터베이스명 < backup_db.sql
+```
+
+---
+
+## 3. 특정 테이블 + 데이터 백업
+
+한 DB 안의 특정 테이블과 데이터만 백업한다.
+
+```bash
+mysqldump -u 사용자명 -p 데이터베이스명 테이블1 테이블2 > backup_tables.sql
+```
+
+**복원**
+
+```bash
+mysql -u 사용자명 -p 데이터베이스명 < backup_tables.sql
+```
+
+---
+
+## 4. 특정 테이블 스키마만 백업 (데이터 제외)
+
+테이블 구조만 필요할 때는 `--no-data` 옵션을 사용한다.
+
+```bash
+mysqldump -u 사용자명 -p --no-data 데이터베이스명 테이블명 > backup_schema.sql
+```
+
+여러 테이블도 가능하다.
+
+```bash
+mysqldump -u 사용자명 -p --no-data 데이터베이스명 테이블1 테이블2 > backup_schema.sql
+```
+
+**복원**
+
+```bash
+mysql -u 사용자명 -p 데이터베이스명 < backup_schema.sql
+```
+
+---
+
+## 옵션 정리
+
+| 옵션 | 설명 |
+|------|------|
+| `--all-databases` | 모든 DB 백업 |
+| `--no-data` | 스키마만 백업, 데이터 제외 |
+| `--single-transaction` | InnoDB 일관 스냅샷 (락 최소화) |
+| `--routines` | 저장 프로시저/함수 포함 |
+| `--triggers` | 트리거 포함 (기본 ON) |
+| `-h 호스트` | 원격 호스트 지정 |
+| `-P 포트` | 포트 지정 |
+
+DB 서버를 중단하지 않고 **실행 중인 상태에서** InnoDB를 백업할 때는 다음처럼 쓰면 좋다.
+
+```bash
+mysqldump -u 사용자명 -p --single-transaction --routines 데이터베이스명 > backup.sql
+```
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

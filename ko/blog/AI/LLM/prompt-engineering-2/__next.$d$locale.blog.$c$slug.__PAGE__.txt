@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/LLM","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"LLM","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Prompt Engineering 기초 기법"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Prompt Engineering 기초 기법\",\"description\":\"제로샷 프롬프팅, 퓨샷 프롬프팅, 프롬프트 체이닝 등 프롬프트 엔지니어링의 기본 기법을 실제 예시와 함께 설명한다.\",\"image\":\"https://woolimi.github.io/og?title=Prompt Engineering 기초 기법\",\"url\":\"https://woolimi.github.io/blog/AI/LLM/prompt-engineering-2\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Prompt Engineering 기초 기법"}]
+9:T1781,
+## 제로샷 프롬프팅 (Zero-shot Prompting)
+
+제로샷 프롬프팅은 사전에 특정 작업에 대한 예제나 데이터를 모델에게 학습시키지 않고, 모델이 이전에 학습한 일반적인 지식만을 활용하여 새로운 작업을 수행하는 방법이다. 모델이 특정 도메인이나 작업에 대해 특별히 훈련되지 않았을 때 사용되며, 다양한 작업에 모델의 일반화 능력을 테스트하는 데 유용하다.
+
+### 특징
+
+- **범용성**: 모델이 특정 작업에 대한 사전 지식 없이도 적절한 답변을 생성할 수 있어야 한다. 이는 모델의 범용성과 유연성을 평가하는 데 중요하다.
+- **프롬프트 디자인**: 성공적인 제로샷 프롬프팅을 위해서는 모델이 이해하고 반응할 수 있는 방식으로 질문이나 명령을 구성하는 것이 중요하다. 프롬프트가 모델의 성능에 큰 영향을 미칠 수 있다.
+- **응용 가능성**: 다양한 유형의 언어 작업에서 사용될 수 있으며, 특히 새로운 도메인이나 예상치 못한 시나리오에 대응해야 할 때 유용하다.
+
+### 예시
+
+```
+다음 문장의 감성이 어떤지 긍정, 부정, 중립으로 분류해줘:
+'이 영화는 정말 실망스러웠어. 기대했던 것보다 훨씬 지루했어.'
+```
+
+이 프롬프트는 아무런 사전 정보를 주지 않고도, 모델이 이전에 학습한 일반적인 지식에 기반해서 문장의 내용을 충분히 이해하고 감성을 분류할 수 있다.
+
+제로샷 프롬프팅은 다양한 과제에 빠르게 적용할 수 있다는 장점이 있지만, 모델의 성능이 프롬프트에 크게 의존하므로 프롬프트 설계에 주의가 필요하다.
+
+## 퓨샷 프롬프팅 (Few-shot Prompting)
+
+퓨샷 프롬프팅은 제로샷 프롬프팅에 매우 제한된 수(일반적으로 1~5개)의 예제를 추가하여 해당 작업에 대한 모델의 성능을 향상시키는 기법이다. 모델이 과제를 더 잘 이해하고, 예시를 통해 학습할 수 있도록 도와준다.
+
+### 특징
+
+- **데이터 효율성**: 퓨샷 학습은 많은 데이터를 필요로 하지 않는다. 대신, 몇 개의 학습 예제만을 사용하여 모델의 학습을 유도한다.
+- **적응성**: 소수의 예제를 통해 새로운 도메인이나 작업에 대해 빠르게 적응할 수 있는 능력을 평가할 수 있다.
+- **프롬프트 디자인**: 효과적인 퓨샷 학습을 위해선, 모델이 이해하고 반응할 수 있는 방식으로 명확하고 정확한 프롬프트 디자인이 필요하다.
+
+### 예시
+
+```
+다음은 영화 리뷰 문장과 그에 대한 감성 분류 예시야:
+'이 영화는 정말 최고였어! 연기, 연출, 음악 모두 완벽했어.' - 긍정
+'영화는 나쁘지 않았지만, 좀 더 긴장감이 있었으면 좋았을 거야.' - 중립
+이제 이 문장의 감성을 분류해봐:
+'이 영화는 정말 실망스러웠어. 기대했던 것보다 훨씬 지루했어.'
+```
+
+이렇게 실제 원하는 작업 요청 앞에 몇 개의 예시를 제공하면 모델은 과제를 더 명확히 이해하고, 유사한 패턴을 학습하여 더 나은 성능을 보일 수 있다.
+
+## 프롬프트 체이닝 (Prompt Chaining)
+
+프롬프트 체이닝은 복잡한 과제를 여러 개의 하위 과제로 나누어 순차적으로 처리하는 기법이다. 각 단계에서 모델이 더 잘 수행할 수 있는 작은 과제를 제시하여, 전체 과제의 성능을 향상시킬 수 있다.
+
+### 특징
+
+- **단계별 처리**: 복잡한 문제를 작은 단계로 분해하여 순차적으로 해결
+- **명확성 향상**: 각 단계에서 구체적이고 명확한 지시 사항 제공
+- **품질 개선**: 포괄적인 요청보다 최종 결과물의 품질을 높일 수 있음
+
+### 예시
+
+"서울에서 부산까지 가는 최적의 여행 경로를 알려줘"라는 과제를 프롬프트 체이닝으로 해결한다면:
+
+```
+아래 과제들을 각 단계 별로 수행해줘.
+1단계: 서울과 부산 사이의 주요 도시들을 나열해줘
+2단계: 각 도시의 주요 관광지와 명소를 3개씩 추천해줘
+3단계: 서울에서 출발하여 추천된 도시와 관광지를 경유하여 부산까지 가는 효율적인 경로를 제안해줘
+4단계: 제안된 경로에 대해 예상 소요 시간, 교통수단, 숙박 옵션 등을 고려하여 자세히 설명해줘
+```
+
+이렇게 단계별로 과제를 나눠 수행을 요청하면, 모델은 각 단계에서 더 구체적이고 명확한 지시 사항을 받게 되기 때문에 포괄적인 요청보다 최종 결과물의 품질을 높일 수 있다.
+
+## 기법 비교
+
+| 기법   | 예제 필요 | 복잡도 | 적합한 상황                    |
+| ------ | --------- | ------ | ------------------------------ |
+| 제로샷 | 없음      | 낮음   | 간단한 작업, 빠른 프로토타이핑 |
+| 퓨샷   | 1~5개     | 중간   | 특정 패턴 학습이 필요한 작업   |
+| 체이닝 | 없음      | 높음   | 복잡하고 다단계가 필요한 작업  |
+
+## 실전 활용 팁
+
+1. **제로샷부터 시작**: 새로운 작업에 대해 먼저 제로샷 프롬프팅을 시도해보고, 성능이 부족하면 퓨샷으로 전환
+2. **예제 선택**: 퓨샷 프롬프팅에서 사용하는 예제는 다양하고 대표적인 것을 선택
+3. **단계 분해**: 프롬프트 체이닝에서 각 단계는 독립적으로 수행 가능하도록 설계
+4. **반복 개선**: 각 기법을 실험하며 프롬프트를 지속적으로 개선
+
+## 참고 자료
+
+- [카카오클라우드 블로그 - 프롬프트 엔지니어링이란 ②](https://blog.kakaocloud.com/86?category=1219445)
+- [MIT Sloan EDL. (2024). Effective Prompts: How to Write Prompts That Get Better Results](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/)
+- [Zhou, Wang, et al. (2023). A Comprehensive Survey on Prompt Engineering. arXiv:2302.11382.](https://arxiv.org/abs/2302.11382)
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

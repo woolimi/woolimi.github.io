@@ -1,0 +1,184 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+4:I[12502,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"Image"]
+c:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+e:I[64725,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"cloud-1"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"cloud-1\",\"description\":\"cloud-1은 ecole42의 DevOps 프로젝트로, Ansible과 Docker를 사용하여 WordPress 웹사이트를 클라우드 서비스에 배포하는 프로젝트. MariaDB, WordPress 인스턴스 2개, Nginx 로드 밸런서, phpMyAdmin을 Docker 컨테이너로 구성하며, Ansible Playbook을 통해 자동화된 배포와 관리를 구현한다. Let's Encrypt를 통한 SSL 인증서 발급, 로드 밸런싱, 데이터베이스 관리 등을 통해 인프라 자동화와 클라우드 배포 기술을 학습한다\",\"image\":\"https://woolimi.github.io/cloud-1.png\",\"url\":\"https://woolimi.github.io/projects/schools/cloud-1\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"cloud-1"}],["$","$L4",null,{"src":"/cloud-1.png","alt":"cloud-1","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],"$L5","$L6","$L7"]}],"$L8"]}]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+5:["$","p",null,{"className":"text-base leading-relaxed","children":"cloud-1은 ecole42의 DevOps 프로젝트로, Ansible과 Docker를 사용하여 WordPress 웹사이트를 클라우드 서비스에 배포하는 프로젝트. MariaDB, WordPress 인스턴스 2개, Nginx 로드 밸런서, phpMyAdmin을 Docker 컨테이너로 구성하며, Ansible Playbook을 통해 자동화된 배포와 관리를 구현한다. Let's Encrypt를 통한 SSL 인증서 발급, 로드 밸런싱, 데이터베이스 관리 등을 통해 인프라 자동화와 클라우드 배포 기술을 학습한다"}]
+6:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Ansible"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Docker"}],["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Nginx"}],["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"MariaDB"}]]}]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z7:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/cloud-1","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$b","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+d:T119a,
+## 개요
+
+cloud-1은 ecole42의 DevOps 프로젝트로, Ansible과 Docker를 사용하여 WordPress 웹사이트를 클라우드 서비스에 배포하는 프로젝트다.
+
+## 시스템 구성
+
+이 프로젝트는 다음 서비스들을 Docker 컨테이너로 구성한다:
+
+- **MariaDB**: WordPress 데이터베이스
+- **WordPress**: 웹사이트 인스턴스 2개 (로드 밸런싱용)
+- **LoadBalancer**: Nginx 기반 로드 밸런서 (포트 80, 443)
+- **phpMyAdmin**: 데이터베이스 관리 도구 (포트 9090)
+
+## Ansible이란?
+
+Ansible은 인프라 자동화 및 구성 관리 도구로 SSH를 통해 원격 서버에 접속하여 소프트웨어 설치, 설정, 배포 등의 작업을 자동화할 수 있다. Playbook이라는 YAML 형식의 파일을 작성하여 반복적인 작업을 정의하고, 여러 서버에 동일한 설정을 일괄 적용할 수 있다. 에이전트 설치가 필요 없고, 선언적 방식으로 원하는 상태를 정의하면 Ansible이 자동으로 해당 상태로 만들어준다.
+
+## 사전 요구사항
+
+- Vagrant
+- VirtualBox
+- Ansible
+- SSH 키 설정
+
+## 로컬 개발 환경 설정
+
+### 1. Vagrant 가상머신 시작
+
+```bash
+vagrant up
+```
+
+### 2. 서비스 실행
+
+```bash
+ansible-playbook ./playbooks/run.yml --limit local
+```
+
+### 3. 서비스 중지
+
+```bash
+ansible-playbook ./playbooks/stop.yml --limit local
+```
+
+## SSH 설정
+
+### SSH 키 생성 및 복사
+
+```bash
+# SSH 키 생성
+ssh-keygen -t ed25519 -C "your comment on this key"
+
+# 서버에 공개키 복사 (서버의 ~/.ssh/authorized_keys에 추가)
+ssh-copy-id -i ~/.ssh/id_ed25519.pub [ip_address]
+```
+
+## Ansible 명령어
+
+### 연결 확인
+
+```bash
+# 호스트 연결 확인
+ansible -m ping [hostname]
+
+# 호스트 정보 수집
+ansible -m gather_facts [hostname]
+```
+
+### Playbook 실행
+
+```bash
+# 로컬 환경에 배포
+ansible-playbook ./playbooks/run.yml --limit local
+
+# 원격 서버에 배포
+ansible-playbook ./playbooks/run.yml --limit remote
+```
+
+## 인증서 관리
+
+### SSL 인증서 발급 (Let's Encrypt)
+
+원격 서버에 SSL 인증서를 발급하려면:
+
+```bash
+ansible-playbook ./playbooks/cert.yml
+```
+
+이 명령은 다음 작업을 수행한다:
+
+- Nginx 설치 및 설정
+- Let's Encrypt 인증서 발급
+- 인증서를 LoadBalancer에 복사
+
+## WordPress 접속 정보
+
+- **사용자 ID**: kychoi
+- **비밀번호**: KyubongTest123
+
+## MariaDB 접속
+
+### 명령줄에서 접속
+
+```bash
+mysql -u wp_user -pWpPassword wordpress
+```
+
+### 데이터베이스 덤프 (백업)
+
+```bash
+mysqldump -u [username] -p[password] [database_name] > db_backup.sql
+```
+
+## 원격 서버에서 파일 복사
+
+원격 서버의 파일을 로컬로 복사:
+
+```bash
+scp user@remote_host:/root/inception/backup.sql /Users/yourname/Downloads/
+```
+
+## 프로젝트 구조
+
+```
+cloud-1/
+├── ansible.cfg              # Ansible 설정 파일
+├── inventory.yml            # 호스트 인벤토리 (로컬/원격 서버 정보)
+├── Vagrantfile              # Vagrant 설정 파일
+├── playbooks/
+│   ├── run.yml              # 서비스 실행 Playbook
+│   ├── stop.yml             # 서비스 중지 Playbook
+│   └── cert.yml             # SSL 인증서 발급 Playbook
+└── roles/
+    ├── init/                # 초기 설정 역할
+    ├── docker/              # Docker 설치 역할
+    ├── inception/           # WordPress 스택 배포 역할
+    └── cert/                # SSL 인증서 관리 역할
+```
+
+## 환경 변수 설정
+
+`roles/inception/files/example.env` 파일을 참고하여 환경 변수를 설정한다:
+
+- `MYSQL_WP_PASSWORD`: WordPress 데이터베이스 비밀번호
+- `MYSQL_ROOT_PASSWORD`: MariaDB root 비밀번호
+- `WP_DOMAIN`: WordPress 도메인
+- `PMA_HOST`: phpMyAdmin 호스트
+- `PMA_USER`: phpMyAdmin 사용자
+- `PMA_PASSWORD`: phpMyAdmin 비밀번호
+- `PMA_DATABASE`: phpMyAdmin 데이터베이스
+
+## Vagrant 명령어
+
+```bash
+vagrant box list              # 사용 가능한 박스 목록
+vagrant box remove [box_name] # 박스 제거
+vagrant validate              # Vagrantfile 검증
+vagrant up                    # 가상머신 시작
+vagrant halt                  # 가상머신 중지
+vagrant destroy               # 가상머신 삭제
+vagrant ssh                   # 가상머신 SSH 접속
+vagrant ssh-config            # SSH 설정 확인
+```
+
+## 참고 자료
+
+- [Ansible 튜토리얼](https://youtu.be/3RiVKs8GHYQ?si=kbrnWH_QItYJZ8Gs)
+8:["$","article",null,{"children":["$","$Lc",null,{"children":"$d"}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

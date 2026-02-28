@@ -1,0 +1,388 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+b:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+d:I[64725,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ft_services"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ft_services\",\"description\":\"ft_services는 ecole42의 프로젝트로, Kubernetes를 사용하여 Nginx, MySQL, WordPress, phpMyAdmin, FTPS, InfluxDB, Grafana, Telegraf 등 8개의 서비스를 통합한 마이크로서비스 환경을 구축하는 프로젝트. Minikube를 활용한 로컬 Kubernetes 클러스터에서 모든 서비스를 Pod로 배포하며, PersistentVolume을 통한 데이터 영속성, Kustomize를 통한 리소스 관리, 모니터링 스택 구축 등 Kubernetes와 DevOps의 핵심 개념을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=ft_services\",\"url\":\"https://woolimi.github.io/projects/schools/ft_services\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"ft_services"}],"$undefined","$L4","$L5","$L6"]}],"$L7"]}]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+4:["$","p",null,{"className":"text-base leading-relaxed","children":"ft_services는 ecole42의 프로젝트로, Kubernetes를 사용하여 Nginx, MySQL, WordPress, phpMyAdmin, FTPS, InfluxDB, Grafana, Telegraf 등 8개의 서비스를 통합한 마이크로서비스 환경을 구축하는 프로젝트. Minikube를 활용한 로컬 Kubernetes 클러스터에서 모든 서비스를 Pod로 배포하며, PersistentVolume을 통한 데이터 영속성, Kustomize를 통한 리소스 관리, 모니터링 스택 구축 등 Kubernetes와 DevOps의 핵심 개념을 학습한다"}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Kubernetes"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Docker"}],["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Nginx"}],["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"MySQL"}],["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Grafana"}],["$","div","5",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"InfluxDB"}]]}]
+a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z6:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ft_services","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$a","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+c:T2d80,
+## 개요
+
+이 프로젝트는 Kubernetes를 사용하여 다음 서비스들을 통합한 마이크로서비스 환경을 제공한다:
+
+- **웹 서버**: Nginx (HTTP/HTTPS, SSL/TLS 지원)
+- **데이터베이스**: MySQL
+- **CMS**: WordPress
+- **데이터베이스 관리**: phpMyAdmin
+- **파일 전송**: FTPS (FTP over SSL)
+- **모니터링 스택**: InfluxDB, Grafana, Telegraf
+
+모든 서비스는 Kubernetes Pod로 배포되며, PersistentVolume을 사용하여 데이터 영속성을 보장한다.
+
+## 아키텍처
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    Minikube Cluster                     │
+│                                                         │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐           │
+│  │  Nginx   │───▶│ WordPress│───▶│  MySQL   │           │
+│  │ (Ingress)│    │          │    │          │           │
+│  └──────────┘    └──────────┘    └──────────┘           │
+│       │                                                 │
+│       ├───▶ phpMyAdmin ────┐                            │
+│       │                    │                            │
+│       ├───▶ FTPS           │                            │
+│       │                    │                            │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐           │
+│  │ Telegraf │───▶│ InfluxDB │◀───│ Grafana  │           │
+│  │          │    │          │    │          │           │
+│  └──────────┘    └──────────┘    └──────────┘           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## 서비스 구성
+
+### 1. Nginx
+
+- **역할**: 리버스 프록시 및 웹 서버
+- **포트**:
+  - HTTP: 80
+  - HTTPS: 443
+  - SSH: 30022 (NodePort)
+- **기능**:
+  - SSL/TLS 인증서 지원
+  - Ingress Controller로 사용
+  - SSH 서버 포함
+
+### 2. MySQL
+
+- **역할**: 관계형 데이터베이스
+- **포트**: 3306 (ClusterIP)
+- **영속성**: PersistentVolume 사용 (1Gi)
+- **용도**: WordPress 데이터 저장
+
+### 3. WordPress
+
+- **역할**: 콘텐츠 관리 시스템
+- **포트**: 5050 (NodePort)
+- **영속성**: PersistentVolume 사용 (1Gi)
+- **연결**: MySQL 서비스와 연결
+
+### 4. phpMyAdmin
+
+- **역할**: MySQL 웹 기반 관리 도구
+- **포트**: 5000 (NodePort)
+- **연결**: MySQL 서비스와 연결
+
+### 5. FTPS
+
+- **역할**: SSL/TLS를 통한 파일 전송 서버
+- **포트**:
+  - 21 (FTP 제어)
+  - 20 (FTP 데이터)
+  - 30020-30021 (Passive 모드)
+- **프로토콜**: vsftpd 사용
+
+### 6. InfluxDB
+
+- **역할**: 시계열 데이터베이스
+- **포트**: 8086 (ClusterIP)
+- **영속성**: PersistentVolume 사용 (1Gi)
+- **용도**: 모니터링 메트릭 저장
+
+### 7. Grafana
+
+- **역할**: 모니터링 대시보드
+- **포트**: 3000 (NodePort)
+- **연결**: InfluxDB와 연결
+- **인증**: 익명 접근 활성화
+
+### 8. Telegraf
+
+- **역할**: 메트릭 수집 에이전트
+- **기능**:
+  - Kubernetes 클러스터 메트릭 수집
+  - InfluxDB로 메트릭 전송
+  - RBAC 권한 사용 (cluster-admin)
+
+## 사전 요구사항
+
+- **Docker**: 컨테이너 런타임
+- **Minikube**: 로컬 Kubernetes 클러스터
+- **kubectl**: Kubernetes CLI 도구
+- **VirtualBox** (또는 다른 VM 드라이버)
+
+### 42 Mac 사용자
+
+42 Mac 환경에서는 다음 환경 변수를 설정해야 한다:
+
+```bash
+export MINIKUBE_HOME="/sgoinfre/goinfre/Perso/[your-id]/ft_service/minikube/"
+```
+
+## 설치 및 실행
+
+### 1. 프로젝트 클론
+
+```bash
+git clone <repository-url>
+cd ft_services
+```
+
+### 2. 서비스 시작
+
+```bash
+./setup.sh
+```
+
+이 스크립트는 다음 작업을 수행한다:
+
+1. Docker와 Minikube 설치 확인
+2. Minikube 클러스터 시작 (VirtualBox 드라이버 사용)
+   - CPU: 3 cores
+   - 메모리: 3000MB
+   - 디스크: 30000MB
+   - NodePort 범위: 1-31000
+3. Ingress Controller 활성화
+4. Metrics Server 활성화
+5. Minikube IP를 설정 파일에 주입
+6. 커스텀 Docker 이미지 빌드:
+   - `my-nginx`
+   - `my-ftps`
+   - `my-mysql`
+   - `my-phpmyadmin`
+   - `my-wordpress`
+   - `my-grafana`
+7. Kubernetes 리소스 배포 (Kustomize 사용)
+
+### 3. 서비스 삭제
+
+```bash
+./setup.sh delete
+```
+
+### 4. 서비스 재배포
+
+```bash
+./setup.sh apply
+```
+
+## 접근 방법
+
+### Minikube IP 확인
+
+```bash
+minikube ip
+```
+
+### 서비스 접근
+
+각 서비스는 다음 포트로 접근할 수 있다:
+
+| 서비스        | 포트  | URL                                      |
+| ------------- | ----- | ---------------------------------------- |
+| Nginx (HTTP)  | 80    | `http://$(minikube ip)`                  |
+| Nginx (HTTPS) | 443   | `https://$(minikube ip)`                 |
+| WordPress     | 5050  | `http://$(minikube ip):5050`             |
+| phpMyAdmin    | 5000  | `http://$(minikube ip):5000`             |
+| Grafana       | 3000  | `http://$(minikube ip):3000`             |
+| FTPS          | 21    | `ftp://$(minikube ip):21`                |
+| SSH           | 30022 | `ssh $(user-id)@$(minikube ip) -p 30022` |
+
+### SSH 접속
+
+```bash
+minikube ip  # IP 주소 확인
+ssh $(user-id)@$(minikube_ip) -p 30022
+```
+
+**기본 인증 정보** (kustomization.yaml에서 확인):
+
+- SSH 사용자명: `wpark`
+- SSH 비밀번호: `1234`
+- MySQL 사용자명: `root`
+- MySQL 비밀번호: `1234`
+- FTPS 사용자명: `wpark`
+- FTPS 비밀번호: `1234`
+
+⚠️ **보안 주의**: 프로덕션 환경에서는 반드시 기본 비밀번호를 변경해야 한다!
+
+## 주요 기능
+
+### 1. Kubernetes 리소스 관리
+
+프로젝트는 **Kustomize**를 사용하여 Kubernetes 리소스를 관리한다:
+
+- **Secret 생성**: SSH, MySQL, FTPS 인증 정보
+- **ConfigMap 생성**: Telegraf 설정 파일
+- **리소스 배포**: 모든 서비스의 Deployment, Service, PVC 등
+
+### 2. 데이터 영속성
+
+다음 서비스들은 PersistentVolume을 사용하여 데이터를 영속적으로 저장한다:
+
+- MySQL: `/data/mysql`
+- WordPress: `/var/www/html`
+- InfluxDB: `/var/lib/influxdb`
+
+### 3. 모니터링
+
+- **Telegraf**: Kubernetes 클러스터 메트릭 수집
+- **InfluxDB**: 시계열 데이터 저장
+- **Grafana**: 시각화 대시보드
+
+### 4. SSL/TLS 지원
+
+- Nginx는 SSL 인증서를 사용하여 HTTPS 연결 지원
+- FTPS는 SSL/TLS를 통한 암호화된 파일 전송 지원
+
+## Kubernetes 기본 개념
+
+### Minikube란?
+
+- Minikube는 로컬에서 Kubernetes를 쉽게 실행할 수 있게 해주는 도구다.
+- Minikube는 노트북의 VM 내부에 단일 노드 Kubernetes 클러스터를 실행한다.
+- Kubernetes를 시도하거나 일상적인 개발에 사용하기에 적합하다.
+
+**주요 명령어:**
+
+```bash
+minikube start          # 클러스터 시작
+minikube dashboard      # 웹 대시보드 열기
+minikube ip            # 클러스터 IP 확인
+minikube service list   # 서비스 목록 확인
+minikube ssh           # 클러스터에 SSH 접속
+```
+
+### Kubernetes란?
+
+- Kubernetes는 컨테이너화된 워크로드와 서비스를 관리하기 위한 오케스트레이션 플랫폼이다.
+
+**주요 명령어:**
+
+```bash
+kubectl get pods        # Pod 목록 확인
+kubectl get services    # Service 목록 확인
+kubectl logs [pod-id]   # Pod 로그 확인
+kubectl exec -it [pod-id] -- /bin/bash  # Pod에 접속
+```
+
+### Node (노드)
+
+- Node는 Kubernetes의 워커 머신이다.
+- Node는 VM 또는 물리적 머신일 수 있으며, 클러스터에 따라 다르다.
+- 각 Node는 Pod를 실행하는 데 필요한 서비스를 가지고 있으며, 마스터 컴포넌트에 의해 관리된다.
+- Node의 서비스에는 Docker, kubelet, kube-proxy가 포함된다.
+
+### Pod (파드)
+
+- Kubernetes는 애플리케이션 인스턴스를 호스팅하기 위해 Pod를 생성한다.
+- Pod는 고유한 클러스터 IP 주소를 가진다 (무작위로 할당됨).
+- Pod 내의 컨테이너는 IP 주소와 포트 공간을 공유하며, 항상 같은 Node에 위치하고 함께 스케줄링되며, 같은 컨텍스트에서 실행된다.
+
+**이 프로젝트의 Pod:**
+
+- telegraf
+- FTPS
+- grafana
+- influxdb
+- mysql
+- nginx
+- phpmyadmin
+- wordpress
+
+총 8개의 Pod가 "default" 네임스페이스에 배포된다.
+
+### Service (서비스)
+
+- Service는 Pod의 논리적 집합과 이들에 접근하는 정책을 정의하는 추상화다.
+- Service가 타겟으로 하는 Pod 집합은 일반적으로 selector에 의해 결정된다.
+
+**Service 타입:**
+
+1. **ClusterIP** (기본 설정)
+   - 클러스터 내부에서만 접근 가능
+
+2. **NodePort**
+   - VM(Node)에 포트를 열어 외부 접근 가능
+
+3. **LoadBalancer**
+   - LoadBalancer로 노출된 각 서비스는 자체 IP 주소를 받는다.
+
+더 자세한 설명: [Kubernetes Service Types 비교](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+
+## 파일 구조
+
+```
+ft_services/
+├── README.md
+├── setup.sh                    # 배포 스크립트
+└── srcs/
+    ├── kustomization.yaml      # Kustomize 설정
+    ├── ingress.yaml            # Ingress 리소스
+    ├── nginx/                  # Nginx 서비스
+    │   ├── Dockerfile
+    │   ├── entrypoint
+    │   ├── nginx.conf
+    │   ├── ssh/                # SSH 키 및 설정
+    │   └── ssl/                # SSL 인증서
+    ├── mysql/                  # MySQL 서비스
+    │   ├── Dockerfile
+    │   ├── entrypoint
+    │   └── my.cnf
+    ├── wordpress/              # WordPress 서비스
+    │   ├── Dockerfile
+    │   ├── entrypoint
+    │   ├── nginx.conf
+    │   └── wordpress_dump.sql
+    ├── phpmyadmin/            # phpMyAdmin 서비스
+    │   ├── Dockerfile
+    │   ├── entrypoint
+    │   └── nginx.conf
+    ├── ftps/                  # FTPS 서비스
+    │   ├── Dockerfile
+    │   ├── entrypoint
+    │   ├── vsftpd.conf
+    │   └── vsftpd_sub.conf
+    ├── influxdb.yaml          # InfluxDB 리소스
+    ├── grafana/               # Grafana 서비스
+    │   ├── Dockerfile
+    │   └── grafana.db
+    └── telegraf/             # Telegraf 설정
+        ├── telegraf.conf
+        └── telegraf-target.conf
+```
+
+## 문제 해결
+
+### Pod가 실행되지 않는 경우
+
+```bash
+kubectl get pods                    # Pod 상태 확인
+kubectl describe pod [pod-name]    # Pod 상세 정보 확인
+kubectl logs [pod-name]            # 로그 확인
+```
+
+### 서비스에 접근할 수 없는 경우
+
+```bash
+minikube service list              # 서비스 목록 확인
+minikube service [service-name]    # 서비스 URL 확인
+```
+
+### 이미지 빌드 문제
+
+```bash
+eval $(minikube docker-env)       # Minikube Docker 환경 설정
+docker images                      # 이미지 목록 확인
+```
+7:["$","article",null,{"children":["$","$Lb",null,{"children":"$c"}]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

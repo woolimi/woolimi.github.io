@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+7:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+9:I[64725,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"DB","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB/MySQL","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"MySQL","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"MySQL 테이블 관리"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"MySQL 테이블 관리\",\"description\":\"MySQL에서 테이블 생성, 수정, 삭제 및 구조 변경 방법 정리\",\"image\":\"https://woolimi.github.io/og?title=MySQL 테이블 관리\",\"url\":\"https://woolimi.github.io/blog/DB/MySQL/table\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"MySQL 테이블 관리"}],"$L4"]}]}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+8:T17c8,
+## 테이블 관리
+
+```sql
+# 테이블 생성
+CREATE TABLE 테이블명 (
+  컬럼명1 데이터타입,
+  컬럼명2 데이터타입,
+  컬럼명3 데이터타입
+);
+CREATE TABLE animal (
+  name VARCHAR(16),
+  type VARCHAR(16)
+);
+CREATE TABLE IF NOT EXISTS 테이블명 (...);
+
+# 테이블 목록 확인
+SHOW TABLES;
+SHOW TABLES LIKE '패턴';
+
+# 테이블 구조 확인
+DESC 테이블명;
+DESCRIBE 테이블명;
+SHOW COLUMNS FROM 테이블명;
+SHOW CREATE TABLE 테이블명;  # 생성 쿼리 확인
+
+# 컬럼 추가
+ALTER TABLE 테이블명 ADD 컬럼명 데이터타입;
+ALTER TABLE animal ADD age INT;
+ALTER TABLE animal ADD old INT;
+ALTER TABLE 테이블명 ADD 컬럼명 데이터타입 AFTER 기존컬럼명;  # 특정 위치에 추가
+ALTER TABLE 테이블명 ADD 컬럼명 데이터타입 FIRST;  # 첫 번째 위치에 추가
+
+# 컬럼 삭제
+ALTER TABLE 테이블명 DROP COLUMN 컬럼명;
+ALTER TABLE animal DROP COLUMN age;
+
+# 컬럼 이름 및 데이터 타입 변경
+ALTER TABLE 테이블명 CHANGE 기존컬럼명 새컬럼명 새데이터타입;
+ALTER TABLE animal CHANGE old sex CHAR(1);
+ALTER TABLE 테이블명 MODIFY 컬럼명 새데이터타입;  # 타입만 변경
+ALTER TABLE 테이블명 RENAME COLUMN 기존컬럼명 TO 새컬럼명;  # 이름만 변경 (MySQL 8.0)
+
+# 컬럼 위치 변경
+ALTER TABLE 테이블명 MODIFY 컬럼명 데이터타입 AFTER 기존컬럼명;
+ALTER TABLE 테이블명 MODIFY 컬럼명 데이터타입 FIRST;
+
+# 테이블 이름 변경
+ALTER TABLE 기존테이블명 RENAME TO 새테이블명;
+RENAME TABLE 기존테이블명 TO 새테이블명;
+
+# 테이블 삭제
+DROP TABLE 테이블명;
+DROP TABLE animal;
+DROP TABLE IF EXISTS 테이블명;
+DROP TABLE 테이블명1, 테이블명2;  # 여러 테이블 동시 삭제
+
+# 테이블 구조 복사 (데이터 없이)
+CREATE TABLE 새테이블명 LIKE 기존테이블명;
+
+# 테이블 구조 및 데이터 복사
+CREATE TABLE 새테이블명 AS SELECT * FROM 기존테이블명;
+```
+
+## 주요 데이터 타입
+
+### 숫자 타입
+
+- **INT**: 정수 (-2,147,483,648 ~ 2,147,483,647)
+- **BIGINT**: 큰 정수
+- **TINYINT**: 작은 정수 (-128 ~ 127)
+- **SMALLINT**: 작은 정수 (-32,768 ~ 32,767)
+- **MEDIUMINT**: 중간 정수
+- **FLOAT**: 부동소수점
+- **DOUBLE**: 배정밀도 부동소수점
+- **DECIMAL(M, D)**: 고정소수점 (M: 전체 자릿수, D: 소수점 자릿수)
+
+### 문자열 타입
+
+- **CHAR(N)**: 고정 길이 문자열 (최대 255)
+- **VARCHAR(N)**: 가변 길이 문자열 (최대 65,535)
+- **TEXT**: 긴 텍스트 (최대 65,535)
+- **MEDIUMTEXT**: 중간 텍스트 (최대 16,777,215)
+- **LONGTEXT**: 매우 긴 텍스트 (최대 4,294,967,295)
+
+### 날짜/시간 타입
+
+- **DATE**: 날짜 (YYYY-MM-DD)
+- **TIME**: 시간 (HH:MM:SS)
+- **DATETIME**: 날짜와 시간 (YYYY-MM-DD HH:MM:SS)
+- **TIMESTAMP**: 타임스탬프 (1970-01-01 00:00:01 ~ 2038-01-19 03:14:07)
+- **YEAR**: 연도
+
+### 기타 타입
+
+- **BOOLEAN** / **BOOL**: 불린 (TINYINT(1)과 동일)
+- **ENUM**: 열거형
+- **SET**: 집합
+- **JSON**: JSON 데이터 (MySQL 5.7.8+)
+
+## 제약 조건
+
+```sql
+# PRIMARY KEY (기본 키)
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY,
+  name VARCHAR(50)
+);
+CREATE TABLE 테이블명 (
+  id INT,
+  name VARCHAR(50),
+  PRIMARY KEY (id)
+);
+
+# FOREIGN KEY (외래 키)
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY,
+  user_id INT,
+  FOREIGN KEY (user_id) REFERENCES users(id)
+);
+
+# UNIQUE (고유 제약)
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY,
+  email VARCHAR(100) UNIQUE
+);
+
+# NOT NULL (NULL 금지)
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY,
+  name VARCHAR(50) NOT NULL
+);
+
+# DEFAULT (기본값)
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY,
+  created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
+# AUTO_INCREMENT (자동 증가)
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(50)
+);
+
+# CHECK (조건 검사) - MySQL 8.0.16+
+CREATE TABLE 테이블명 (
+  id INT PRIMARY KEY,
+  age INT CHECK (age >= 0 AND age <= 150)
+);
+```
+
+## 제약 조건 관리
+
+```sql
+# 제약 조건 추가
+ALTER TABLE 테이블명 ADD PRIMARY KEY (컬럼명);
+ALTER TABLE 테이블명 ADD UNIQUE (컬럼명);
+ALTER TABLE 테이블명 ADD FOREIGN KEY (컬럼명) REFERENCES 참조테이블(참조컬럼);
+ALTER TABLE 테이블명 ADD CONSTRAINT 제약조건명 UNIQUE (컬럼명);
+
+# 제약 조건 삭제
+ALTER TABLE 테이블명 DROP PRIMARY KEY;
+ALTER TABLE 테이블명 DROP INDEX 제약조건명;
+ALTER TABLE 테이블명 DROP FOREIGN KEY 제약조건명;
+```
+
+## 인덱스 관리
+
+```sql
+# 인덱스 생성
+CREATE INDEX 인덱스명 ON 테이블명 (컬럼명);
+CREATE INDEX idx_name ON animal (name);
+CREATE UNIQUE INDEX 인덱스명 ON 테이블명 (컬럼명);  # 고유 인덱스
+CREATE INDEX 인덱스명 ON 테이블명 (컬럼명1, 컬럼명2);  # 복합 인덱스
+
+# 인덱스 확인
+SHOW INDEX FROM 테이블명;
+
+# 인덱스 삭제
+DROP INDEX 인덱스명 ON 테이블명;
+ALTER TABLE 테이블명 DROP INDEX 인덱스명;
+```
+
+## 실전 예제
+
+```sql
+# animal 테이블 생성 및 확인
+CREATE TABLE animal (
+  name VARCHAR(16),
+  type VARCHAR(16)
+);
+DESC animal;
+
+# age 컬럼 추가 및 확인
+ALTER TABLE animal ADD age INT;
+DESC animal;
+
+# old 컬럼 추가 및 확인
+ALTER TABLE animal ADD old INT;
+DESC animal;
+
+# age 컬럼 삭제 및 확인
+ALTER TABLE animal DROP COLUMN age;
+DESC animal;
+
+# old 컬럼을 sex로 변경 및 확인
+ALTER TABLE animal CHANGE old sex CHAR(1);
+DESC animal;
+
+# 테이블 삭제 및 확인
+DROP TABLE animal;
+SHOW TABLES;
+```
+
+## 주의사항
+
+1. **데이터 손실**: 컬럼 삭제나 타입 변경 시 데이터가 손실될 수 있음
+2. **타입 호환성**: 데이터 타입 변경 시 기존 데이터와 호환되는지 확인 필요
+3. **제약 조건**: 외래 키가 있는 컬럼은 삭제 전 참조 관계 확인 필요
+4. **인덱스**: 컬럼 삭제 시 해당 컬럼의 인덱스도 함께 삭제됨
+5. **성능**: 대용량 테이블의 구조 변경은 시간이 오래 걸릴 수 있음
+6. **백업**: 구조 변경 전 데이터 백업 권장
+4:["$","article",null,{"children":["$","$L7",null,{"children":"$8"}]}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

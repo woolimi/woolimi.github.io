@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T96b,
+## Chapter 1: Functional vs Imperative
+
+명령형 스타일로 된 코드를 함수형 스타일로 바꾸어 보기
+
+```js
+const products = [
+  { id: 'candy', name: 'Candy', price: 10, onSale: true },
+  { id: 'ice-cream', name: 'Ice cream', price: 20, onSale: true },
+  { id: 'cake', name: 'Cake', price: 30, onSale: false },
+  { id: 'donuts', name: 'Donuts', price: 12, onSale: true },
+  { id: 'chocolate', name: 'Chocolate', price: 15, onSale: false },
+  { id: 'flower', name: 'Flower', price: 40, onSale: false },
+  { id: 'sofa', name: 'Sofa', price: 120, onSale: true },
+  { id: 'bed', name: 'Bed', price: 400, onSale: true },
+];
+```
+
+### 1. Imperative
+
+가격이 30 이하인 제품 중에서 3개를 뽑고 그 가격들의 총합을 구하기.
+
+```js
+// Imperative
+function imperative() {
+  let total = 0;
+  let count = 0;
+  for (const a of products) {
+    if (a.price < 30) {
+      total += a.price;
+      count++;
+    }
+    if (count === 3) break;
+  }
+  console.log(total);
+}
+```
+
+### 2. Functional
+
+```js
+const isIterable = (iter) => typeof iter[Symbol.iterator] === 'function';
+const curry =
+  (f) =>
+  (a, ...args) =>
+    args.length ? f(a, ...args) : (...args2) => f(a, ...args2);
+
+const map = curry(function* (f, iter) {
+  for (const a of iter) {
+    yield f(a);
+  }
+});
+
+const filter = curry(function* (f, iter) {
+  for (const a of iter) {
+    if (f(a)) yield a;
+  }
+});
+
+const take = curry((length, iter) => {
+  const res = [];
+  for (const a of iter) {
+    res.push(a);
+    if (res.length === length) return res;
+  }
+});
+
+const reduce = curry((f, acc, iter) => {
+  if (!iter && isIterable(acc)) {
+    iter = acc[Symbol.iterator]();
+    acc = iter.next().value;
+  }
+
+  for (const a of iter) {
+    acc = f(acc, a);
+  }
+
+  return acc;
+});
+
+const add = curry((a, b) => a + b);
+
+const pipe = (...args) => reduce((a, f) => f(a), args);
+
+// Functional
+pipe(
+  products,
+  map((a) => a.price),
+  filter((p) => p < 30),
+  take(3),
+  reduce(add),
+  console.log,
+);
+```
+
+### 3. Generator 와 Lazy Evaluation(지연평가)
+
+```js
+pipe(
+  products,
+  map((a) => a.price), // Lazy
+  filter((p) => p < 30), // Lazy
+  take(3),
+  reduce(add),
+  console.log,
+);
+```
+
+해당 코드에서 map, filter는 Generator 를 사용하였기 때문에 take가 3개를 만족하게 되면 더이상 실행되지 않는다.
+
+### 4. 함수형의 장점
+
+- 가독성이 좋음
+- 재사용성이 좋음
+- 수정이 용이함
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Functional Programming","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Functional Programming","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"FP Workshop - 1. Functional vs Imperative"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"FP Workshop - 1. Functional vs Imperative\",\"description\":\"명령형 스타일로 된 코드를 함수형 스타일로 바꾸어 보기\",\"image\":\"https://woolimi.github.io/og?title=FP Workshop - 1. Functional vs Imperative\",\"url\":\"https://woolimi.github.io/blog/Functional Programming/functional-vs-imperative\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"FP Workshop - 1. Functional vs Imperative"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

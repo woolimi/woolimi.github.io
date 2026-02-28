@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T1344,
+## 왜 dataclass?
+
+```python
+# 기존 방식: 보일러플레이트 코드가 많음
+class User:
+    def __init__(self, name, age, email=""):
+        self.name = name
+        self.age = age
+        self.email = email
+
+    def __repr__(self):
+        return f"User(name={self.name!r}, age={self.age!r}, email={self.email!r})"
+
+    def __eq__(self, other):
+        if not isinstance(other, User):
+            return False
+        return self.name == other.name and self.age == other.age and self.email == other.email
+
+# dataclass: 위 코드와 동일한 기능, 단 4줄
+@dataclass
+class User:
+    name: str
+    age: int
+    email: str = ""
+```
+
+| 장점          | 설명                                       |
+| ------------- | ------------------------------------------ |
+| **간결함**    | `__init__`, `__repr__`, `__eq__` 자동 생성 |
+| **타입 힌트** | 필드 타입 명시로 가독성/IDE 지원 향상      |
+| **불변성**    | `frozen=True`로 쉽게 불변 객체 생성        |
+| **비교/정렬** | `order=True`로 비교 연산자 자동 생성       |
+| **유틸리티**  | `asdict()`, `replace()` 등 편의 함수 제공  |
+
+## 기본 사용법
+
+```python
+from dataclasses import dataclass
+
+@dataclass
+class User:
+    name: str
+    age: int
+    email: str = ""  # 기본값
+
+# __init__, __repr__, __eq__ 자동 생성
+user = User("Alice", 25)
+user    # User(name='Alice', age=25, email='')
+
+user1 = User("Alice", 25)
+user2 = User("Alice", 25)
+user1 == user2  # True (__eq__ 자동 생성)
+```
+
+## field 옵션
+
+```python
+from dataclasses import dataclass, field
+
+@dataclass
+class Post:
+    title: str
+    content: str
+    tags: list = field(default_factory=list)  # 가변 객체 기본값
+    views: int = field(default=0, repr=False)  # repr에서 제외
+    _id: int = field(default=0, compare=False)  # 비교에서 제외
+
+# field 주요 옵션
+field(
+    default=...,           # 기본값
+    default_factory=...,   # 가변 객체 기본값 (list, dict 등)
+    repr=True,             # __repr__에 포함 여부
+    compare=True,          # __eq__에 포함 여부
+    hash=None,             # __hash__에 포함 여부
+    init=True,             # __init__에 포함 여부
+)
+```
+
+## 불변 객체 (frozen)
+
+```python
+@dataclass(frozen=True)
+class Point:
+    x: float
+    y: float
+
+p = Point(1.0, 2.0)
+p.x = 3.0  # FrozenInstanceError! (수정 불가)
+
+# frozen=True → __hash__ 자동 생성 (딕셔너리 키로 사용 가능)
+points = {Point(0, 0): "origin"}
+```
+
+## **post_init**
+
+```python
+@dataclass
+class Rectangle:
+    width: float
+    height: float
+    area: float = field(init=False)  # __init__에서 제외
+
+    def __post_init__(self):
+        self.area = self.width * self.height
+
+rect = Rectangle(3, 4)
+rect.area  # 12
+```
+
+## 상속
+
+```python
+@dataclass
+class Person:
+    name: str
+    age: int
+
+@dataclass
+class Employee(Person):
+    employee_id: str
+    department: str = "General"
+
+emp = Employee("Alice", 30, "E001")
+emp  # Employee(name='Alice', age=30, employee_id='E001', department='General')
+```
+
+## 데코레이터 옵션
+
+```python
+@dataclass(
+    init=True,        # __init__ 생성
+    repr=True,        # __repr__ 생성
+    eq=True,          # __eq__ 생성
+    order=False,      # __lt__, __le__, __gt__, __ge__ 생성
+    frozen=False,     # 불변 객체
+    slots=False,      # __slots__ 사용 (Python 3.10+)
+    kw_only=False,    # 모든 필드를 키워드 전용으로 (Python 3.10+)
+)
+class MyClass:
+    ...
+
+# order=True 예시
+@dataclass(order=True)
+class Version:
+    major: int
+    minor: int
+    patch: int
+
+Version(2, 0, 0) > Version(1, 9, 9)  # True
+```
+
+## 유틸리티 함수
+
+```python
+from dataclasses import asdict, astuple, fields, replace
+
+@dataclass
+class User:
+    name: str
+    age: int
+
+user = User("Alice", 25)
+
+# 딕셔너리/튜플 변환
+asdict(user)   # {'name': 'Alice', 'age': 25}
+astuple(user)  # ('Alice', 25)
+
+# 필드 정보 조회
+fields(user)   # (Field(name='name',...), Field(name='age',...))
+
+# 복사 후 일부 값 변경
+new_user = replace(user, age=26)
+new_user  # User(name='Alice', age=26)
+```
+
+## slots (Python 3.10+)
+
+```python
+@dataclass(slots=True)
+class Point:
+    x: float
+    y: float
+
+# 장점: 메모리 절약, 속성 접근 속도 향상
+# 단점: 동적 속성 추가 불가
+p = Point(1.0, 2.0)
+p.z = 3.0  # AttributeError!
+```
+
+## 실전 패턴
+
+```python
+# 설정 객체
+@dataclass(frozen=True)
+class Config:
+    host: str = "localhost"
+    port: int = 8080
+    debug: bool = False
+
+# DTO (Data Transfer Object)
+@dataclass
+class UserDTO:
+    id: int
+    username: str
+    email: str
+
+    @classmethod
+    def from_dict(cls, data: dict):
+        return cls(**data)
+
+    def to_dict(self):
+        return asdict(self)
+
+# JSON 직렬화
+import json
+
+@dataclass
+class Item:
+    name: str
+    price: float
+
+item = Item("Book", 29.99)
+json.dumps(asdict(item))  # '{"name": "Book", "price": 29.99}'
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Python","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Python","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Python 데이터클래스"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python 데이터클래스\",\"description\":\"dataclass 데코레이터, field 옵션, 불변 객체 등 데이터클래스 핵심 문법 정리\",\"image\":\"https://woolimi.github.io/og?title=Python 데이터클래스\",\"url\":\"https://woolimi.github.io/blog/Python/dataclass\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Python 데이터클래스"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

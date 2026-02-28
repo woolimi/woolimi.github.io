@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+b:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+d:I[64725,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"python-for-data-science"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"python-for-data-science\",\"description\":\"python-for-data-science는 ecole42의 Python 데이터 사이언스 학습 프로젝트로, 기본 Python 문법부터 NumPy, Pandas를 활용한 데이터 처리, 객체지향 프로그래밍까지 단계별로 학습한다. 4개 모듈을 통해 Python 기초, NumPy 배열 처리 및 이미지 처리, Pandas 데이터 분석 및 시각화, 객체지향 프로그래밍(추상 클래스, 다중 상속, 연산자 오버로딩), 함수형 프로그래밍(클로저, 데코레이터) 등을 실습한다\",\"image\":\"https://woolimi.github.io/og?title=python-for-data-science\",\"url\":\"https://woolimi.github.io/projects/schools/python-for-data-science\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"python-for-data-science"}],"$undefined","$L4","$L5","$L6"]}],"$L7"]}]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+4:["$","p",null,{"className":"text-base leading-relaxed","children":"python-for-data-science는 ecole42의 Python 데이터 사이언스 학습 프로젝트로, 기본 Python 문법부터 NumPy, Pandas를 활용한 데이터 처리, 객체지향 프로그래밍까지 단계별로 학습한다. 4개 모듈을 통해 Python 기초, NumPy 배열 처리 및 이미지 처리, Pandas 데이터 분석 및 시각화, 객체지향 프로그래밍(추상 클래스, 다중 상속, 연산자 오버로딩), 함수형 프로그래밍(클로저, 데코레이터) 등을 실습한다"}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Python"}]]}]
+a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z6:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/python-for-data-science","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$a","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+c:T11c5,
+## 개요
+
+Python 데이터 사이언스를 위한 학습 프로젝트다. 기본 Python 문법부터 NumPy, Pandas를 활용한 데이터 처리, 객체지향 프로그래밍까지 단계별로 학습할 수 있도록 구성되어 있다.
+
+## 프로젝트 구조
+
+### Python - 0 Starting
+
+Python 기초 문법과 자료구조를 다루는 모듈이다.
+
+- **ex00**: 리스트, 튜플, 집합, 딕셔너리 등 기본 자료구조 사용법
+- **ex01**: 시간 포맷팅 (`format_ft_time.py`)
+- **ex02**: 타입 검사 (`find_ft_type.py`)
+- **ex03**: NULL 값 처리 (`NULL_not_found.py`)
+- **ex04**: 타입 판별 (`whatis.py`)
+- **ex05**: 빌딩 클래스 (`building.py`)
+- **ex06**: 문자열 필터링 (`filterstring.py`, `ft_filter.py`)
+- **ex07**: SOS 모스 부호 변환 (`sos.py`)
+- **ex08**: 데이터 로딩 (`Loading.py`)
+- **ex09**: Python 패키지 빌드 및 배포 (`setup.py`, `ft_package`)
+
+### Python - 1 Array
+
+NumPy를 활용한 배열 처리 및 이미지 처리 모듈이다.
+
+- **ex00**: BMI 계산 (`give_bmi.py`) - 키와 몸무게 리스트를 받아 BMI를 계산하고 제한값을 적용
+- **ex01**: 2D 배열 슬라이싱 (`array2D.py`) - NumPy를 사용한 2차원 배열 처리
+- **ex02**: 이미지 로딩 (`load_image.py`) - NumPy를 사용한 이미지 파일 로딩
+- **ex03**: 이미지 줌 (`zoom.py`) - 이미지 확대/축소 처리
+- **ex04**: 이미지 회전 (`rotate.py`) - 이미지 회전 처리
+- **ex05**: 이미지 필터링 (`pimp_image.py`) - 이미지에 다양한 효과 적용
+
+### Python - 2 DataTable
+
+Pandas를 활용한 CSV 데이터 처리 및 시각화 모듈이다.
+
+- **ex00**: CSV 파일 로딩 (`load_csv.py`) - Pandas를 사용한 CSV 파일 읽기
+- **ex01**: 기대 수명 시각화 (`aff_life.py`) - Matplotlib을 사용한 국가별 기대 수명 그래프
+- **ex02**: 인구 데이터 처리 (`aff_pop.py`) - 인구 데이터 분석 및 시각화
+- **ex03**: 기대 수명 예측 (`projection_life.py`) - 소득과 기대 수명 데이터를 활용한 예측
+
+### Python - 3 OOP
+
+객체지향 프로그래밍 개념을 다루는 모듈이다.
+
+- **ex00**: 추상 클래스와 인터페이스 (`S1E9.py`) - ABC 모듈을 사용한 추상 클래스 구현
+- **ex01**: 다중 상속 (`S1E7.py`, `S1E9.py`) - 다중 상속과 메서드 해결 순서(MRO)
+- **ex02**: 다이아몬드 문제 (`DiamondTrap.py`) - 다중 상속에서 발생하는 다이아몬드 문제 해결
+- **ex03**: 연산자 오버로딩 (`ft_calculator.py`) - 매직 메서드를 사용한 연산자 오버로딩
+- **ex04**: 고급 연산자 오버로딩 (`ft_calculator.py`) - 더 복잡한 연산자 오버로딩 예제
+
+### Python - 4 Dod
+
+기타 고급 Python 개념들을 다루는 모듈이다.
+
+- **ex00**: 통계 함수 (`statistics.py`) - 평균, 중앙값, 사분위수, 표준편차, 분산 계산
+- **ex01**: 클로저와 함수형 프로그래밍 (`in_out.py`) - 외부 함수와 내부 함수를 사용한 클로저 구현
+- **ex02**: 데코레이터와 호출 제한 (`callLimit.py`) - 함수 호출 횟수 제한 데코레이터
+- **ex03**: 학생 관리 시스템 (`new_student.py`) - 클래스를 활용한 학생 정보 관리
+
+## 주요 기능
+
+### 데이터 처리
+
+- NumPy를 활용한 다차원 배열 처리
+- Pandas를 활용한 CSV 데이터 로딩 및 분석
+- 이미지 처리 및 변환
+
+### 통계 분석
+
+- 기본 통계량 계산 (평균, 중앙값, 표준편차 등)
+- 데이터 시각화 (Matplotlib)
+
+### 객체지향 프로그래밍
+
+- 추상 클래스와 인터페이스
+- 다중 상속 및 MRO
+- 연산자 오버로딩
+- 클로저와 데코레이터
+
+## 사용된 주요 라이브러리
+
+- **NumPy**: 배열 처리 및 수치 연산
+- **Pandas**: 데이터프레임 처리 및 CSV 파일 읽기
+- **Matplotlib**: 데이터 시각화
+
+## 실행 방법
+
+각 모듈의 `tester.py` 파일을 실행하여 해당 연습 문제를 테스트할 수 있다.
+
+```bash
+# 예시: BMI 계산 모듈 테스트
+cd "Python - 1 Array/ex00"
+python tester.py
+```
+
+## 학습 목표
+
+이 프로젝트를 통해 다음을 학습할 수 있다:
+
+1. Python 기본 문법 및 자료구조
+2. NumPy를 활용한 배열 처리
+3. Pandas를 활용한 데이터 분석
+4. 객체지향 프로그래밍 개념
+5. 함수형 프로그래밍 기법
+6. Python 패키지 빌드 및 배포
+
+## 참고사항
+
+- 각 모듈은 독립적으로 실행 가능하다
+- `tester.py` 파일을 통해 각 모듈의 기능을 테스트할 수 있다
+- 일부 모듈은 CSV 파일이나 이미지 파일이 필요하다
+7:["$","article",null,{"children":["$","$Lb",null,{"children":"$c"}]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

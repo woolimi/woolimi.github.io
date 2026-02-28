@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T1058,
+::ExportRamda
+::
+
+## Chapter 3: Monad
+
+### 1. Monad(모나드)와 Promise
+
+모나드란 함수합성을 안전하게 해주는 장치.
+
+함수 f와 g를 합성한다고 할때, 수학적인 기호로는 다음과 같이 표시한다.
+
+```
+f * g
+```
+
+이론적으로는 f(g(x)) 를 합성한 결과는 언제 어디서 실행하든지 항상 f(g(x))가 되어야 하지만, 현실 에서는 **여러가지 외부적인 요인(메모리누수, API 서버 고장 등)으로 인해 같지 않을 수 있다**.
+
+```
+f(g(x)) == f(g(x)) // 이론
+f(g(x)) != f(g(x)) // 현실
+```
+
+모나드는 함수합성을 안전하게 하기위한 목적을 가지고 만든 객체(Object)다. 이 객체가 map을 메소드로 가지고 있으면 functor(함수자), map과 flatMap을 메소드로 가지고 있으면 monad라고 정의하였지만 이것은 그냥 정의일 뿐. **모나드가 우리에게 어떤 가치가 있는지 이해하는것이 중요**하다.
+
+#### 1) Array
+
+Array를 일종의 모나드로 생각해볼 수 있다.
+
+```
+f(g(x)) == f(g(x))     // 일반적인 경우
+f(g(x)) == 실행안함      // 비어있는 배열인 경우
+```
+
+Array 모나드는 다음과 같은 목적으로 만들어진 모나드
+
+- Array가 비어있다면 함수합성을 하지 않는다.
+- 여러 요소의 함수합성을 가능하게 해준다.
+
+```js
+const g = (a) => a + 1;
+const f = (a) => a * a;
+
+[1]
+  .map(g)
+  .map(f)
+  .forEach((a) => console.log(a)); // 4
+
+[1, 2, 3]
+  .map(g)
+  .map(f)
+  .forEach((a) => console.log(a)); // 4, 9, 16
+
+[]
+  .map(g)
+  .map(f)
+  .forEach((a) => console.log(a)); // 아무일도 안함
+```
+
+#### 2) Promise
+
+Promise 도 Monad의 관점에서 바라본다면 다음과 같다
+
+```
+f(g(x)) == f(g(x))     // 일반적인 경우
+f(g(x)) == g(x)        // 비동기중 오류가 발생했을때 합성을 중지
+```
+
+```js
+const g = JSON.parse;
+const f = ({ k }) => k;
+
+Promise.resolve('{"k": 1}').then(g).then(f).then(log).catch(log);
+```
+
+### 2. Monad의 활용
+
+예시로 활용할 products 리스트
+
+```js
+const products = [
+  { id: 'candy', name: 'Candy', price: 10, onSale: true },
+  { id: 'ice-cream', name: 'Ice cream', price: 20, onSale: true },
+  { id: 'cake', name: 'Cake', price: 30, onSale: false },
+  { id: 'donuts', name: 'Donuts', price: 15, onSale: true },
+  { id: 'chocolate', name: 'Chocolate', price: 12, onSale: false },
+  { id: 'flower', name: 'Flower', price: 40, onSale: false },
+  { id: 'sofa', name: 'Sofa', price: 120, onSale: true },
+  { id: 'bed', name: 'Bed', price: 400, onSale: true },
+];
+```
+
+#### 1) Maybe
+
+함수 합성중 에러가 발생할 시 우회하기 위한 모나드
+
+```js
+// 정의
+class Maybe {
+  constructor(value) {
+    this.$value = value;
+  }
+
+  static of(value) {
+    return new Maybe(value);
+  }
+
+  get isNothing() {
+    return this.$value === null || this.$value === undefined;
+  }
+
+  map(fn) {
+    return this.isNothing ? this : Maybe.of(fn(this.$value));
+  }
+
+  toString() {
+    return this.isNothing ? 'Nothing' : `Just(${this.$value})`;
+  }
+
+  chain(fn) {
+    return fn(this.$value);
+  }
+}
+
+// 활용
+Maybe.of(products)
+  .map(find((p) => p.id === 'candy'))
+  .map(prop('price'))
+  .chain((p) => p);
+```
+
+#### 2) Either
+
+값에 따라 어떤 함수를 합성할지 선택하는 모나드
+
+```js
+class Either {
+  constructor(value) {
+    this.$value = value;
+  }
+
+  static right(value) {
+    return new Right(value);
+  }
+
+  static left(value) {
+    return new Left(value);
+  }
+}
+
+class Right extends Either {
+  get isRight() {
+    return true;
+  }
+
+  get isLeft() {
+    return false;
+  }
+
+  map(fn) {
+    return new Right(fn(this.$value));
+  }
+
+  chain(fn) {
+    return fn(this.$value);
+  }
+}
+
+class Left extends Either {
+  get isRight() {
+    return false;
+  }
+
+  get isLeft() {
+    return true;
+  }
+
+  map(fn) {
+    return this;
+  }
+
+  chain(fn) {
+    return this;
+  }
+}
+
+const either = curry((l, r, e) => {
+  return e.isLeft ? l(e.$value) : r(e.$value);
+});
+
+pipe(
+  find((p) => p.id === 'candy'),
+  (product) => (!product ? Either.left('Sorry!') : Either.right(product)),
+  either(
+    (l) => console.log('Product not found', l),
+    (r) => console.log('Product : ', r),
+  ),
+)(products);
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Functional Programming","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Functional Programming","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"FP Workshop - 3. Monad"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"FP Workshop - 3. Monad\",\"description\":\"함수합성을 안전하게 해주는 모나드의 개념을 이해하고 Array, Promise, Maybe, Either 모나드를 활용하기\",\"image\":\"https://woolimi.github.io/og?title=FP Workshop - 3. Monad\",\"url\":\"https://woolimi.github.io/blog/Functional Programming/monad\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"FP Workshop - 3. Monad"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

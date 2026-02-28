@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/Imitation Learning","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Imitation Learning","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"모방학습 (Imitation Learning) 개념"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"모방학습 (Imitation Learning) 개념\",\"description\":\"모방학습의 주요 학습 방식, 절차, 장단점, 그리고 주요 모델들을 정리한다.\",\"image\":\"https://woolimi.github.io/og?title=모방학습 (Imitation Learning) 개념\",\"url\":\"https://woolimi.github.io/blog/AI/Imitation Learning/concept\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"모방학습 (Imitation Learning) 개념"}]
+9:T18a7,
+## 모방학습 주요 학습 방식
+
+### 1. Behavioral Cloning (행동 복제)
+
+시연 데이터를 지도학습처럼 학습.
+
+- 입력: 상태(state), 출력: 행동(action) → supervised learning
+- 예: 사람이 조이스틱으로 로봇을 조종한 로그를 그대로 학습
+
+### 2. Inverse Reinforcement Learning (IRL)
+
+시연을 보고 "전문가가 어떤 보상 함수를 최적화하고 있나?"를 역으로 추론.
+
+- 전문가의 의도를 수학적으로 복원
+
+### 3. Apprenticeship Learning (견습 학습)
+
+보상 추론 대신 전문가의 정책 자체를 모방.
+
+- IRL보다 단순하고 보상 설계 모호성을 줄임
+
+## 학습 절차
+
+1. **데이터 수집**: 사람의 조작, 원격 텔레오퍼레이션, 모션캡처, 시뮬레이션 등으로 시연 데이터 수집
+   - 로그: (상태, 행동) 쌍을 기록 → 데이터셋 구성
+
+2. **문제 변환**: 시연 데이터를 지도학습 문제로 전환
+   - "이 상태에서 사람이 이런 행동을 했다"를 정답 라벨로 둠
+
+3. **모델 학습**: 신경망(예: CNN, Transformer, Diffusion Policy 등)을 이용해 상태→행동 매핑을 학습
+
+4. **일반화**: 새로운 환경에서도 비슷한 패턴을 인식해 적응 가능
+
+5. **실행**: 로봇에 정책을 탑재, 실시간으로 행동 제어
+
+## 장단점
+
+| 장점 | 단점 |
+|------|------|
+| **빠른 학습**: 보상설계없이 시연만으로 학습한다 | **데이터품질**: 전문가 시연이 부족하거나 잡음이 많으면 성능 저하된다 |
+| **사람같은 상호작용**: 더 자연스러운 동작을 따라할 수 있다 | **고차원문제**: 다관절로봇(예: 휴머노이드) - 학습에 어려움이 있다 |
+| **적응력**: 비정형환경에서도 대응 가능하다 | **일반화 한계**: 학습에 없는 환경에서 쉽게 실패가능 |
+| **확장성**: 다양한 로봇/작업에 적용 가능하다 | **안전문제**: 자율주행/헬스케어처럼 예외 상황 대응이 중요함 |
+| **반복개선**: 새로운 시연 데이터로 계속 업데이트 가능하다 | **샘플 효율성**: 많은 시연 데이터 필요 - 시뮬레이션과 합성데이터활용이 필요 |
+
+## 모방학습 주요 모델
+
+### 1. BC (Behavioral Cloning)
+
+**소개**
+
+가장 기본적인 모방학습 방식으로, 전문가의 상태(state)와 행동(action) 데이터를 지도학습 형태로 학습
+
+**특징**
+
+- 구현이 매우 쉽고 빠름
+- 보상 설계 없이 시연 데이터만으로 학습 가능
+- 단점: 작은 에러가 누적되어 covariate shift 발생 → training 분포와 execution 분포가 달라져 일반화가 약해짐
+
+### 2. DAgger (Dataset Aggregation)
+
+**소개**
+
+BC의 covariate shift 문제를 해결하기 위한 interactive learning 기법. 에이전트가 직접 환경에서 행동한 후, 전문가에게 그 상황에서 무엇을 했을지 피드백을 받아 데이터를 점진적으로 확장
+
+**특징**
+
+- 초기 데이터 부족 해결
+- distribution mismatch를 줄여 안정성 향상
+- 전문가의 지속적인 피드백이 필요해 현실 적용 비용이 큼
+
+### 3. Diffusion Policy
+
+**소개**
+
+Diffusion Model을 행동 시퀀스 예측에 적용. noisy action sequence를 만들고 점진적으로 정제(denoising)하면서 최종 policy를 생성
+
+**특징**
+
+- 긴 시간 동안 이어지는 복잡한 행동(long-horizon sequence)에 강점
+- 연속적인 움직임을 매끄럽게 만들어 manipulation 성능이 안정적
+- transformer 기반 시퀀스 예측 보다 안정성 향상
+
+### 4. ACT (Action Chunking with Transformers)
+
+**소개**
+
+[ACT (Action Chunking with Transformers)](https://arxiv.org/pdf/2304.13705)
+
+Transformer 기반 imitation learning 기법. 긴 action sequence를 chunk 단위로 묶어 효율적으로 학습
+
+**특징**
+
+- 저비용 하드웨어 + 짧은 시연(10분)만으로도 bimanual task(양팔 협동 조작)를 높은 성공률로 학습
+- WidowX Arm 두 대를 활용한 ALOHA 텔레오퍼레이션 시스템에서 검증
+- 2024년에는 Mobile ALOHA로 확장 → 이동(base navigation)과 양팔 조작을 동시에 학습 가능
+- [데모 영상](https://www.youtube.com/watch?v=zMNumQ45pJ8)
+
+### 5. RT-2 (Robotics Transformer 2)
+
+**소개**
+
+[RT-2 (Robotics Transformer 2)](https://arxiv.org/pdf/2307.15818)
+
+Google DeepMind가 발표한 Vision-Language-Action (VLA) 모델. 인터넷 규모의 웹 데이터 + 로봇 시연 데이터를 동시에 학습, 자연어·시각 정보·로봇 행동을 하나의 통합된 정책으로 연결
+
+**특징**
+
+- 생성된 행동을 토큰화(tokenized action string)하여 언어처럼 표현, transformer으로 예측
+- Zero-shot/다단계 추론(chain-of-thought reasoning) 가능, 새로운 지시문에도 대응
+
+### 6. π₀ (pi-zero)
+
+**소개**
+
+[π₀ (pi-zero)](https://www.physicalintelligence.company/download/pi0.pdf)
+
+OpenAI가 발표한 Vision-Language-Action 모델. RT-2와 유사하게 vision + language를 입력받아 policy를 생성하지만, action을 discrete token으로 바꾸지 않고 연속적인 action vector를 직접 출력하는 접근 방식
+
+**특징**
+
+- 언어 + 비전 입력을 받아 continuous action sequence 산출
+- 정밀한 manipulation task에서 강점
+
+### 7. OpenVLA
+
+**소개**
+
+[OpenVLA](https://arxiv.org/pdf/2406.09246)
+
+커뮤니티 오픈소스로 RT-2 계열을 재현한 프로젝트. 누구나 학습·실험할 수 있도록 구현체와 pretrained weight를 공개
+
+- 입력: 이미지 + 텍스트 → transformer → 출력: tokenized action sequence (액션을 토큰화)
+
+**특징**
+
+- 성능은 RT-2보다 낮지만, 접근성 확대에 큰 기여
+- 범용 로봇 연구를 democratize 하는 역할
+
+### 8. SmolVLA
+
+**소개**
+
+[SmolVLA](https://arxiv.org/pdf/2506.01844)
+
+허깅페이스(Hugging Face)가 발표한 경량화된 VLA 모델. 대규모 GPU 없이도 실험 가능하도록 소규모 파라미터(450M)로 설계
+
+- 입력: 이미지 + 텍스트 → 소형 transformer → 출력: action token sequence (토큰 단위로 정의된 action들이 모인 시퀀스)
+
+**특징**
+
+- 저비용 학습/추론 가능 → 로컬 GPU(CPU, 단일 소비자용 GPU, 맥북 등)에서도 활용 가능
+- 기본 모델 및 데이터셋 또한 오픈소스(허깅페이스)로 공개
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

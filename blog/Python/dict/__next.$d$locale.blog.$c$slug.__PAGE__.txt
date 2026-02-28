@@ -1,0 +1,256 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T156f,
+## 딕셔너리란?
+
+- **키-값 쌍**으로 데이터를 저장하는 자료형
+- 키는 불변(immutable) 타입만 가능: 문자열, 숫자, 튜플
+- 값은 모든 타입 가능
+- Python 3.7+부터 **삽입 순서 유지**
+
+## 딕셔너리 생성
+
+```python
+d = {"a": 1, "b": 2}
+d = dict(a=1, b=2)              # 키가 문자열일 때
+d = dict([("a", 1), ("b", 2)])  # 튜플 리스트에서
+d = dict(zip(["a", "b"], [1, 2]))  # zip으로 생성
+d = {}                          # 빈 딕셔너리
+d = dict()
+
+# 컴프리헨션
+d = {x: x**2 for x in range(5)}  # {0: 0, 1: 1, 2: 4, 3: 9, 4: 16}
+```
+
+## 접근 (Read)
+
+```python
+d = {"name": "Alice", "age": 25}
+
+# 기본 접근
+d["name"]           # "Alice"
+d["city"]           # KeyError!
+
+# get() - 안전한 접근
+d.get("name")       # "Alice"
+d.get("city")       # None (에러 없음)
+d.get("city", "Seoul")  # "Seoul" (기본값 지정)
+
+# 키 존재 여부
+"name" in d         # True
+"city" not in d     # True
+
+# 키, 값, 쌍 가져오기
+d.keys()            # dict_keys(['name', 'age'])
+d.values()          # dict_values(['Alice', 25])
+d.items()           # dict_items([('name', 'Alice'), ('age', 25)])
+
+# 리스트로 변환
+list(d.keys())      # ['name', 'age']
+```
+
+## 추가/수정 (Create/Update)
+
+```python
+d = {"a": 1}
+
+# 기본 추가/수정
+d["b"] = 2          # 추가: {"a": 1, "b": 2}
+d["a"] = 10         # 수정: {"a": 10, "b": 2}
+
+# update() - 여러 개 추가/수정
+d.update({"c": 3, "d": 4})
+d.update(e=5, f=6)  # 키가 문자열일 때
+d.update([("g", 7)])
+
+# setdefault() - 없을 때만 추가
+d.setdefault("new", 100)  # "new" 없으면 추가, 있으면 유지
+# 값 반환: 기존 값 또는 새로 설정된 값
+```
+
+## 삭제 (Delete)
+
+```python
+d = {"a": 1, "b": 2, "c": 3}
+
+# pop() - 키로 삭제 후 값 반환
+d.pop("a")          # 1 반환, {"b": 2, "c": 3}
+d.pop("x", None)    # 없으면 None 반환 (에러 방지)
+
+# popitem() - 마지막 쌍 삭제 후 반환
+d.popitem()         # ("c", 3) 반환
+
+# del
+del d["b"]          # {"c": 3}
+
+# clear()
+d.clear()           # {}
+```
+
+## 순회 (Iteration)
+
+```python
+d = {"a": 1, "b": 2, "c": 3}
+
+# 키 순회 (기본)
+for key in d:
+    print(key)
+
+# 값 순회
+for value in d.values():
+    print(value)
+
+# 키-값 쌍 순회
+for key, value in d.items():
+    print(key, value)
+
+# enumerate와 함께
+for i, (key, value) in enumerate(d.items()):
+    print(i, key, value)
+```
+
+## 딕셔너리 컴프리헨션
+
+```python
+# 기본
+{x: x**2 for x in range(5)}
+# {0: 0, 1: 1, 2: 4, 3: 9, 4: 16}
+
+# 조건 필터링
+{x: x**2 for x in range(10) if x % 2 == 0}
+# {0: 0, 2: 4, 4: 16, 6: 36, 8: 64}
+
+# 키-값 변환
+d = {"a": 1, "b": 2}
+{v: k for k, v in d.items()}  # {1: "a", 2: "b"} (키↔값 교환)
+
+# 리스트에서 딕셔너리 생성
+names = ["Alice", "Bob", "Charlie"]
+{name: len(name) for name in names}
+# {'Alice': 5, 'Bob': 3, 'Charlie': 7}
+
+# 두 리스트 합치기
+keys = ["a", "b", "c"]
+values = [1, 2, 3]
+{k: v for k, v in zip(keys, values)}
+# dict(zip(keys, values))  # 더 간단
+```
+
+## 병합 (Merge)
+
+```python
+a = {"x": 1, "y": 2}
+b = {"y": 3, "z": 4}
+
+# | 연산자 (Python 3.9+)
+a | b               # {'x': 1, 'y': 3, 'z': 4}
+b | a               # {'y': 2, 'z': 4, 'x': 1}
+
+# |= 연산자 (원본 수정)
+a |= b
+
+# ** 언패킹 (Python 3.5+)
+{**a, **b}          # {'x': 1, 'y': 3, 'z': 4}
+
+# update() (원본 수정)
+a.update(b)
+```
+
+## defaultdict
+
+```python
+from collections import defaultdict
+
+# 기본값이 있는 딕셔너리
+d = defaultdict(int)      # 기본값 0
+d["a"] += 1               # {"a": 1} (KeyError 없음)
+
+d = defaultdict(list)     # 기본값 []
+d["a"].append(1)          # {"a": [1]}
+
+d = defaultdict(set)      # 기본값 set()
+d["a"].add(1)
+
+# 그룹핑에 활용
+data = [("fruit", "apple"), ("fruit", "banana"), ("veg", "carrot")]
+d = defaultdict(list)
+for category, item in data:
+    d[category].append(item)
+# {'fruit': ['apple', 'banana'], 'veg': ['carrot']}
+
+# 단어 빈도 세기
+text = "hello world hello"
+d = defaultdict(int)
+for word in text.split():
+    d[word] += 1
+# {'hello': 2, 'world': 1}
+```
+
+## Counter
+
+```python
+from collections import Counter
+
+# 빈도 세기
+c = Counter("hello")         # {'l': 2, 'h': 1, 'e': 1, 'o': 1}
+c = Counter([1, 1, 2, 3, 3, 3])  # {3: 3, 1: 2, 2: 1}
+
+# 메서드
+c.most_common(2)             # [('l', 2), ('h', 1)] 상위 2개
+c.elements()                 # 요소 반복자
+c.update([1, 1])             # 빈도 추가
+c.subtract([1])              # 빈도 감소
+
+# 연산
+Counter("aab") + Counter("bcc")  # Counter({'b': 2, 'a': 2, 'c': 2})
+Counter("aab") - Counter("ab")   # Counter({'a': 1})
+```
+
+## 유용한 패턴
+
+```python
+# 중첩 딕셔너리 안전 접근
+d = {"a": {"b": {"c": 1}}}
+d.get("a", {}).get("b", {}).get("c")  # 1
+d.get("x", {}).get("y", {}).get("z")  # None
+
+# 조건부 키 존재시 처리
+if "key" in d:
+    value = d["key"]
+# 또는
+value = d.get("key")
+if value is not None:
+    pass
+
+# 딕셔너리 정렬
+d = {"c": 3, "a": 1, "b": 2}
+
+# 키 기준 정렬
+dict(sorted(d.items()))              # {'a': 1, 'b': 2, 'c': 3}
+
+# 값 기준 정렬
+dict(sorted(d.items(), key=lambda x: x[1]))
+
+# 역정렬
+dict(sorted(d.items(), reverse=True))
+
+# 딕셔너리 뒤집기 (키↔값)
+{v: k for k, v in d.items()}
+
+# 여러 딕셔너리에서 공통 키 찾기
+a = {"x": 1, "y": 2}
+b = {"y": 3, "z": 4}
+common_keys = a.keys() & b.keys()    # {'y'}
+
+# 딕셔너리 값으로 필터링
+{k: v for k, v in d.items() if v > 1}
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Python","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Python","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Python 딕셔너리"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python 딕셔너리\",\"description\":\"Python 딕셔너리(dict)의 CRUD, 컴프리헨션, defaultdict 활용법\",\"image\":\"https://woolimi.github.io/og?title=Python 딕셔너리\",\"url\":\"https://woolimi.github.io/blog/Python/dict\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Python 딕셔너리"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+7:I[64725,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[64725,[],"ViewportBoundary"]
+c:I[64725,[],"MetadataBoundary"]
+e:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","en","blog","Jupyter%20Notebook","setup.ko."],"q":"","i":false,"f":[[["",{"children":[["locale","en","d"],{"children":["blog",{"children":[["slug","Jupyter%20Notebook/setup.ko.","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeDesktop"]
+11:I[73783,["9991","static/chunks/9991-ccaf069d2d1a3394.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","2936","static/chunks/2936-79b886c79e72a7d3.js","2809","static/chunks/app/%5Blocale%5D/blog/layout-0237bbe7cf07f1d6.js"],"BlogContentTreeMobile"]
+4:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]}],"locale":"en","className":"hidden w-64 shrink-0 lg:block"}],["$","div",null,{"className":"lg:hidden","children":["$","$L11",null,{"tree":"$5:props:children:1:props:tree","locale":"en"}]}]]}]
+12:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+13:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+14:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+f:["$","$L12",null,{"formats":"$undefined","locale":"en","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"Projects I've worked on during my professional career.","viewAll":"View All","noProjects":"No projects yet."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"Personal projects I've built in my spare time. Here are a few of my favorites.","viewAll":"View All","noProjects":"No projects yet.","pageTitle":"Personal Projects"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"Projects I've worked on during my academic journey.","viewAll":"View All","noProjects":"No projects yet."},"AboutEcole42":{"title":"What is Ecole42?","description":"Ecole42 is a programming education institution located in Paris, France, that adopts a peer-to-peer learning approach without traditional classes or professors. Students autonomously learn various fields from C programming to the fundamentals of AI, developing practical skills through project-based education. Students from diverse nationalities around the world study together, emphasizing collaboration and knowledge sharing in this unique learning environment."},"Projects":{"pageTitle":"Projects","description":"Browse projects by category"},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"Projects I've worked on during hackathons.","viewAll":"View All","noHackathons":"No hackathons yet.","pageTitle":"Hackathons"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L13",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L14",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[85584,[],"IconMark"]
+16:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+1a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+d:[["$","title","0",{"children":"주피터 노트북 설정 가이드 | Woolim Park"}],["$","meta","1",{"name":"description","content":"가상환경 커널 설정 및 matplotlib 한글 깨짐 해결법"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"주피터 노트북 설정 가이드"}],["$","meta","6",{"property":"og:description","content":"가상환경 커널 설정 및 matplotlib 한글 깨짐 해결법"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/Jupyter%20Notebook/setup.ko."}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=%EC%A3%BC%ED%94%BC%ED%84%B0%20%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%84%A4%EC%A0%95%20%EA%B0%80%EC%9D%B4%EB%93%9C"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"주피터 노트북 설정 가이드"}],["$","meta","12",{"name":"twitter:description","content":"가상환경 커널 설정 및 matplotlib 한글 깨짐 해결법"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=%EC%A3%BC%ED%94%BC%ED%84%B0%20%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%84%A4%EC%A0%95%20%EA%B0%80%EC%9D%B4%EB%93%9C"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L15","19",{}]]
+9:null
+1b:Tdfe,
+## 가상환경 커널 설정
+
+### 1. 가상환경 생성 및 활성화
+
+```bash
+# 가상환경 생성
+python -m venv venv_name
+
+# 활성화 (Linux/macOS)
+source venv_name/bin/activate
+
+# 활성화 (Windows)
+venv_name\Scripts\activate
+```
+
+### 2. 커널 등록
+
+```bash
+# ipykernel 설치
+pip install ipykernel
+
+# 커널 등록
+python -m ipykernel install --user --name=venv_name --display-name "Python (venv_name)"
+```
+
+**파라미터:**
+- `--user`: 사용자 레벨 설치
+- `--name`: 커널 내부 이름
+- `--display-name`: 노트북에서 보이는 이름
+
+### 3. 커널 관리
+
+```bash
+# 커널 목록 확인
+jupyter kernelspec list
+
+# 커널 제거
+jupyter kernelspec uninstall kernel_name
+```
+
+### 4. VS Code에서 사용
+
+1. 노트북 파일 열기
+2. 우측 상단 커널 선택 버튼 클릭
+3. 등록한 커널 선택
+
+또는 명령 팔레트(Ctrl+Shift+P) → "Python: Select Interpreter"
+
+---
+
+## Matplotlib 한글 깨짐 해결
+
+### 방법 1: koreanize-matplotlib 사용 (가장 간단, 권장)
+
+```bash
+# 패키지 설치
+pip install koreanize-matplotlib
+```
+
+```python
+import matplotlib.pyplot as plt
+import koreanize_matplotlib  # 한글 폰트 자동 설정
+
+# 이제 바로 한글 사용 가능
+plt.figure(figsize=(8, 6))
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+plt.title('한글 제목 테스트')
+plt.xlabel('x축 레이블')
+plt.ylabel('y축 레이블')
+plt.show()
+```
+
+**장점:**
+- 한 줄 import로 자동 설정
+- 폰트 설치 및 설정 자동 처리
+- 마이너스 기호 깨짐도 자동 해결
+
+---
+
+### 방법 2: 수동 설정 (Ubuntu)
+
+#### 1. 한글 폰트 설치
+
+```bash
+# 나눔 폰트 설치
+sudo apt-get install fonts-nanum fonts-nanum-coding
+
+# 또는 Noto 폰트 설치
+sudo apt-get install fonts-noto-cjk
+
+# 폰트 캐시 삭제 (필요시)
+fc-cache -fv
+```
+
+#### 2. 설치된 폰트 확인
+
+```bash
+# 한글 폰트 목록 확인
+fc-list :lang=ko
+```
+
+#### 3. Matplotlib 설정
+
+**노트북에서 직접 설정**
+
+```python
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
+# 한글 폰트 설정
+plt.rcParams['font.family'] = 'NanumGothic'  # 나눔고딕
+# 또는
+plt.rcParams['font.family'] = 'Noto Sans CJK KR'  # Noto 폰트
+
+# 마이너스 기호 깨짐 방지
+plt.rcParams['axes.unicode_minus'] = False
+
+# 설정 확인
+print(plt.rcParams['font.family'])
+```
+
+**matplotlib 설정 파일 수정**
+
+```python
+import matplotlib
+print(matplotlib.matplotlib_fname())  # 설정 파일 경로 확인
+```
+
+설정 파일(`~/.config/matplotlib/matplotlibrc`)에 추가:
+
+```ini
+font.family : NanumGothic
+axes.unicode_minus : False
+```
+
+**사용 가능한 폰트 확인 후 선택**
+
+```python
+import matplotlib.font_manager as fm
+
+# 사용 가능한 한글 폰트 목록
+font_list = [f.name for f in fm.fontManager.ttflist if 'Nanum' in f.name or 'Noto' in f.name]
+print(font_list)
+
+# 폰트 설정
+plt.rcParams['font.family'] = font_list[0] if font_list else 'DejaVu Sans'
+plt.rcParams['axes.unicode_minus'] = False
+```
+
+#### 4. 완전한 예제
+
+```python
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
+# 한글 폰트 설정
+plt.rcParams['font.family'] = 'NanumGothic'
+plt.rcParams['axes.unicode_minus'] = False
+
+# 테스트
+plt.figure(figsize=(8, 6))
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+plt.title('한글 제목 테스트')
+plt.xlabel('x축 레이블')
+plt.ylabel('y축 레이블')
+plt.show()
+```
+
+### 자주 사용하는 폰트 이름
+
+- `NanumGothic` - 나눔고딕
+- `NanumBarunGothic` - 나눔바른고딕
+- `Noto Sans CJK KR` - Noto Sans 한글
+- `Malgun Gothic` - 맑은 고딕 (Windows)
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L16",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L17"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"주피터 노트북 설정 가이드"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"주피터 노트북 설정 가이드\",\"description\":\"가상환경 커널 설정 및 matplotlib 한글 깨짐 해결법\",\"image\":\"https://woolimi.github.io/og?title=주피터 노트북 설정 가이드\",\"url\":\"https://woolimi.github.io/blog/Jupyter Notebook/setup.ko.\",\"author\":{\"@type\":\"Person\",\"name\":\"Woolim Park\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"주피터 노트북 설정 가이드"}],["$","article",null,{"children":["$","$L1a",null,{"children":"$1b"}]}]]}]}]
+1c:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+17:["$","$L1c",null,{"ref":null,"href":"/en","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+18:["$","$L1c",null,{"ref":null,"href":"/en/blog","locale":"$undefined","localeCookie":"$17:props:localeCookie","children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+19:["$","$L1c",null,{"ref":null,"href":"/en/blog/Jupyter Notebook","locale":"$undefined","localeCookie":"$17:props:localeCookie","children":"Jupyter Notebook","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

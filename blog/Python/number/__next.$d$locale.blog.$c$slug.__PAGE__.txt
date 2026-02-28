@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:Tbd2,
+## 숫자형 종류
+
+```python
+a = 123           # 정수형 (int)
+a = 1.23          # 실수형 (float)
+a = 4.24E10       # 지수형
+a = 4.24e-10      # 지수형
+a = 0o177         # 8진수
+a = 0x8ff         # 16진수
+a = 0b1010        # 2진수
+a = 3 + 4j        # 복소수 (complex)
+```
+
+## 산술 연산자
+
+```python
+a + b     # 덧셈
+a - b     # 뺄셈
+a * b     # 곱셈
+a / b     # 나눗셈 (실수)
+a // b    # 몫 (정수 나눗셈)
+a % b     # 나머지
+a ** b    # 거듭제곱
+-a        # 부호 반전
+
+# divmod: 몫과 나머지 동시에
+q, r = divmod(10, 3)  # (3, 1)
+```
+
+## 내장 함수
+
+```python
+# 절댓값
+abs(-5)               # 5
+abs(-3.14)            # 3.14
+
+# 반올림
+round(3.14159)        # 3
+round(3.14159, 2)     # 3.14 (소수점 2자리)
+round(2.5)            # 2 (은행가 반올림: 짝수로)
+round(3.5)            # 4
+
+# 거듭제곱
+pow(2, 3)             # 8
+pow(2, 3, 5)          # 3 (2^3 % 5)
+
+# 최대/최소
+max(1, 2, 3)          # 3
+min(1, 2, 3)          # 1
+max([1, 2, 3])        # 리스트도 가능
+
+# 합계
+sum([1, 2, 3, 4])     # 10
+sum([1, 2, 3], 10)    # 16 (시작값 10)
+```
+
+## 진법 변환
+
+```python
+# 10진수 → 다른 진법 (문자열 반환)
+bin(10)       # '0b1010' (2진수)
+oct(10)       # '0o12'   (8진수)
+hex(10)       # '0xa'    (16진수)
+
+# 다른 진법 → 10진수
+int('1010', 2)    # 10 (2진수 → 10진수)
+int('12', 8)      # 10 (8진수 → 10진수)
+int('a', 16)      # 10 (16진수 → 10진수)
+
+# 접두사 없이 변환
+format(10, 'b')   # '1010'
+format(10, 'o')   # '12'
+format(10, 'x')   # 'a'
+```
+
+## math 모듈
+
+```python
+import math
+
+# 올림/내림/버림
+math.ceil(3.2)        # 4 (올림)
+math.floor(3.8)       # 3 (내림)
+math.trunc(-3.8)      # -3 (버림, 0 방향)
+
+# 제곱근/로그
+math.sqrt(16)         # 4.0
+math.log(10)          # 2.302... (자연로그)
+math.log10(100)       # 2.0
+math.log2(8)          # 3.0
+
+# 삼각함수
+math.sin(math.pi / 2) # 1.0
+math.cos(0)           # 1.0
+math.tan(math.pi / 4) # 1.0
+
+# 상수
+math.pi               # 3.141592...
+math.e                # 2.718281...
+math.inf              # 무한대
+math.nan              # Not a Number
+
+# 팩토리얼/조합
+math.factorial(5)     # 120
+math.comb(5, 2)       # 10 (5C2)
+math.perm(5, 2)       # 20 (5P2)
+
+# 최대공약수/최소공배수
+math.gcd(12, 8)       # 4
+math.lcm(12, 8)       # 24 (Python 3.9+)
+
+# 기타
+math.fabs(-3.14)      # 3.14 (실수 절댓값)
+math.copysign(1, -3)  # -1.0 (부호 복사)
+math.isnan(x)         # NaN 체크
+math.isinf(x)         # 무한대 체크
+```
+
+## 유용한 패턴
+
+```python
+# 소수점 자릿수 제한 출력
+print(f"{3.14159:.2f}")   # "3.14"
+
+# 천 단위 구분자
+print(f"{1000000:,}")     # "1,000,000"
+
+# 정수 나눗셈 vs 실수 나눗셈
+7 // 2    # 3 (정수)
+7 / 2     # 3.5 (실수)
+
+# 음수 나눗셈 주의
+-7 // 2   # -4 (내림)
+int(-7 / 2)  # -3 (버림)
+
+# 부동소수점 비교 주의
+0.1 + 0.2 == 0.3          # False!
+math.isclose(0.1 + 0.2, 0.3)  # True
+```
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Python","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Python","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Python 숫자형"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Python 숫자형\",\"description\":\"Python 숫자 자료형(int, float)의 연산자, 내장 함수, math 모듈 활용법\",\"image\":\"https://woolimi.github.io/og?title=Python 숫자형\",\"url\":\"https://woolimi.github.io/blog/Python/number\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Python 숫자형"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

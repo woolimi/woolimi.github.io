@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+c:I[64725,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"computorv1"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"computorv1\",\"description\":\"computorv1은 ecole42의 프로젝트로, 다항식 방정식 해결기를 구현한 프로그램. TypeScript로 작성되었으며, 최대 2차 방정식까지 해를 구할 수 있다. 방정식을 파싱하고 표준형으로 축약한 후 0차, 1차, 2차 방정식의 해를 계산하며, 복소수 해도 지원한다. 함수형 프로그래밍 패러다임을 활용하여 방정식 처리 로직을 구현하였다\",\"image\":\"https://woolimi.github.io/og?title=computorv1\",\"url\":\"https://woolimi.github.io/projects/schools/computorv1\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"computorv1"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"computorv1은 ecole42의 프로젝트로, 다항식 방정식 해결기를 구현한 프로그램. TypeScript로 작성되었으며, 최대 2차 방정식까지 해를 구할 수 있다. 방정식을 파싱하고 표준형으로 축약한 후 0차, 1차, 2차 방정식의 해를 계산하며, 복소수 해도 지원한다. 함수형 프로그래밍 패러다임을 활용하여 방정식 처리 로직을 구현하였다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"TypeScript"}]]}]
+9:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/computorv1","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$9","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+b:Td56,
+## 개요
+
+이 프로젝트는 ecole42의 ComputorV1 과제를 구현한 다항식 방정식 해결기(Polynomial Equation Solver)다. 최대 2차 방정식까지 해를 구할 수 있으며, 방정식을 파싱하고 표준형으로 축약한 후 해를 계산한다.
+
+## 기능
+
+- 다항식 방정식 파싱 및 검증
+- 방정식을 표준형으로 축약 (reduced form)
+- 다항식 차수(degree) 계산
+- 0차, 1차, 2차 방정식 해 구하기
+- 복소수 해 지원 (2차 방정식의 판별식 < 0인 경우)
+
+## 설치
+
+```bash
+npm install
+```
+
+## 사용법
+
+### 기본 실행
+
+```bash
+npm start "5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0"
+```
+
+또는
+
+```bash
+tsx ./index.ts "5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0"
+```
+
+### 개발 모드 (파일 변경 감지)
+
+```bash
+npm run dev
+```
+
+### 테스트 실행
+
+```bash
+npm test
+```
+
+## 방정식 형식
+
+방정식은 다음 형식을 따라야 한다:
+
+- 항(term) 형식: `[+/-]숫자 * X^숫자`
+- 등호(`=`)를 포함해야 한다
+- 공백은 자동으로 제거된다
+
+### 예시
+
+```
+5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0
+2 * X^1 = 3
+1 * X^2 - 4 * X^1 + 3 = 0
+```
+
+## 출력 예시
+
+```
+Input:
+5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0
+Reduced form:
+4 * X^0 + 4 * X^1 - 9.3 * X^2 = 0
+Polynomial degree:
+2
+Result:
+Discriminant > 0, the equation has two solution: x1 = -0.47513146390886934, x2 = 0.9052389907905898
+```
+
+## 지원하는 방정식 타입
+
+### 0차 방정식 (상수 방정식)
+
+- 예: `5 * X^0 = 5 * X^0`
+- 해가 없거나 모든 실수가 해인 경우를 판단한다
+
+### 1차 방정식 (선형 방정식)
+
+- 예: `2 * X^1 = 3`
+- `ax + b = 0` 형태로 변환하여 해를 구한다
+- `a = 0`인 경우 특수 케이스를 처리한다
+
+### 2차 방정식 (이차 방정식)
+
+- 예: `1 * X^2 - 4 * X^1 + 3 = 0`
+- `ax² + bx + c = 0` 형태로 변환
+- 판별식(discriminant)에 따라:
+  - **판별식 > 0**: 두 개의 실수 해
+  - **판별식 = 0**: 하나의 실수 해 (중근)
+  - **판별식 < 0**: 두 개의 복소수 해
+
+### 3차 이상 방정식
+
+- 해를 구할 수 없다는 메시지를 출력한다
+
+## 프로젝트 구조
+
+```
+computorv1/
+├── index.ts              # 메인 진입점
+├── lib/
+│   └── useEquation.ts   # 방정식 처리 로직
+├── tests/                # 테스트 파일들
+│   ├── basic.test.ts
+│   ├── 1-degree.test.ts
+│   ├── 2-degree.test.ts
+│   └── ...
+└── package.json
+```
+
+## 주요 함수
+
+### `useEquation()`
+
+방정식 처리를 위한 함수들을 반환한다:
+
+- `strToEquation(s: string)`: 문자열을 Equation 객체로 변환
+- `printInput(s: string)`: 입력 방정식 출력
+- `printReducedForm(e: Equation)`: 축약된 형태 출력
+- `printDegree(e: Equation)`: 다항식 차수 출력
+- `printSolution(e: Equation)`: 해 출력
+
+## 기술 스택
+
+- **TypeScript**: 타입 안정성
+- **@fxts/core**: 함수형 프로그래밍 (pipe)
+- **console-log-colors**: 컬러 출력
+- **Jest**: 테스트 프레임워크
+- **tsx**: TypeScript 실행 환경
+
+## 테스트
+
+프로젝트에는 다음 테스트가 포함되어 있다:
+
+- 기본 방정식 테스트 (`basic.test.ts`)
+- 0차 방정식 테스트 (`0-degree.test.ts`)
+- 1차 방정식 테스트 (`1-degree.test.ts`)
+- 2차 방정식 테스트 (`2-degree.test.ts`)
+- 3차 이상 방정식 테스트 (`3+degree.test.ts`)
+- 파싱 테스트 (`parsing.test.ts`)
+6:["$","article",null,{"children":["$","$La",null,{"children":"$b"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

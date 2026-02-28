@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:Te11,
+## 개념 정리
+
+| 개념 | 설명 |
+|------|------|
+| **Node** | 실행 단위. 하나의 프로세스. 퍼블리셔/서브스크라이버/서비스 서버·클라이언트 등을 포함해 **토픽·서비스·액션**으로 통신한다. |
+| **Topic** | **비동기** 메시지 스트림. 퍼블리셔가 계속 보내고, 서브스크라이버가 구독한다. 1:N, N:1, N:N 가능. (예: 센서 데이터, 속도 명령) |
+| **Service** | **동기** 요청–응답. 클라이언트가 한 번 요청하면 서버가 한 번 응답한다. (예: 파라미터 조회, 상태 한 번 가져오기) |
+| **Action** | **비동기** 장시간 작업. 목표 전송 → 진행 피드백 수신 → 결과 수신. (예: 네비게이션, 그리퍼 제어) |
+| **Interface** | Topic/Service/Action에서 주고받는 **데이터 형식** 정의. `.msg`, `.srv`, `.action` 파일로 정의된다. |
+
+- **Topic** ↔ 메시지 타입(interface)  
+- **Service** ↔ 서비스 타입(요청/응답 interface)
+- **Action** ↔ 액션 타입(목표/피드백/결과 interface)
+
+---
+
+## 서비스 관련 명령어
+
+```bash
+ros2 service list 
+# /clear
+# /kill
+# /reset
+# /spawn
+# /turtle1/set_pen
+# /turtle1/teleport_absolute
+# /turtle1/teleport_relative
+# /turtlesim/describe_parameters
+# /turtlesim/get_parameter_types
+# /turtlesim/get_parameters
+# /turtlesim/get_type_description
+# /turtlesim/list_parameters
+# /turtlesim/set_parameters
+# /turtlesim/set_parameters_atomically
+
+ros2 service type [서비스명]
+ros2 service type /turtle1/teleport_absolute
+# turtlesim/srv/TeleportAbsolute
+
+ros2 interface show [service type]
+ros2 interface show turtlesim/srv/TeleportAbsolute
+# 
+# float32 x
+# float32 y
+# float32 theta
+# ---
+
+ros2 service call [서비스명] [Interface] "{ ... }"
+ros2 service call /turtle1/teleport_absolute turtlesim/srv/TeleportAbsolute "{x: 2, y: 2, theta: 1.57}"
+```
+
+## Topic
+
+![ros2 topic](/ros2-topic.gif)
+
+센서와 같은 데이터들 (계속 보내지는 데이터)를 값이 필요할때만 구독하고 해지하는 방식으로 사용할때.
+
+```bash
+ros2 topic list -t # -t: 타입까지 한번에 알려주는 옵션
+# /parameter_events [rcl_interfaces/msg/ParameterEvent]
+# /rosout [rcl_interfaces/msg/Log]
+# /turtle1/cmd_vel [geometry_msgs/msg/Twist]
+# /turtle1/color_sensor [turtlesim/msg/Color]
+# /turtle1/pose [turtlesim/msg/Pose]
+
+ros2 topic list -v # type, interface, publisher, subscriber 보여주기
+# Published topics:
+#  * /parameter_events [rcl_interfaces/msg/ParameterEvent] 2 publishers
+#  * /rosout [rcl_interfaces/msg/Log] 2 publishers
+#  * /turtle1/color_sensor [turtlesim/msg/Color] 1 publisher
+#  * /turtle1/pose [turtlesim/msg/Pose] 1 publisher
+
+# Subscribed topics:
+#  * /parameter_events [rcl_interfaces/msg/ParameterEvent] 2 subscribers
+#  * /turtle1/cmd_vel [geometry_msgs/msg/Twist] 1 subscriber
+
+ros2 interface show [topic_interface]
+ros2 interface show turtlesim/msg/Pose
+# float32 x
+# float32 y
+# float32 theta
+# 
+# float32 linear_velocity
+# float32 angular_velocity
+
+
+# 토픽에서 나오는 데이터를 출력하는 명령어
+ros2 topic echo [topic_type]
+ros2 topic echo /turtle1/pose
+```
+
+## Action
+
+![ros2 action](/ros2-action.gif)
+
+```bash
+ros2 action list -t
+#
+# /turtle1/rotate_absolute [turtlesim/action/RotateAbsolute]
+
+ros2 interface show turtlesim/action/RotateAbsolute
+# float32 theta
+# ---
+# # The angular displacement in radians to the starting position
+# float32 delta
+# ---
+# # The remaining rotation in radians
+# float32 remaining
+
+ros2 action send_goal /turtle1/rotate_absolute turtlesim/action/RotateAbsolute "{theta: 3.14}"
+```0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ROS2 기본 개념"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"ROS2 기본 개념\",\"description\":\"ROS2의 node, topic, service, action, interface 개념을 간단히 정리합니다.\",\"image\":\"https://woolimi.github.io/og?title=ROS2 기본 개념\",\"url\":\"https://woolimi.github.io/blog/ROS/basic\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"ROS2 기본 개념"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+a:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+c:I[64725,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ft_turing"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ft_turing\",\"description\":\"ft_turing은 ecole42의 OCaml 프로젝트로, JSON 형식으로 정의된 튜링 머신을 읽어 실행하고 실행 과정을 단계별로 시각화하며 시간 복잡도를 분석하는 도구. OCaml의 함수형 프로그래밍 특성을 활용하여 튜링 머신의 상태 전이, 테이프 조작, 무한 루프 감지 등을 구현하며, 계산 이론과 알고리즘 복잡도 분석을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=ft_turing\",\"url\":\"https://woolimi.github.io/projects/schools/ft_turing\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"ft_turing"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"ft_turing은 ecole42의 OCaml 프로젝트로, JSON 형식으로 정의된 튜링 머신을 읽어 실행하고 실행 과정을 단계별로 시각화하며 시간 복잡도를 분석하는 도구. OCaml의 함수형 프로그래밍 특성을 활용하여 튜링 머신의 상태 전이, 테이프 조작, 무한 루프 감지 등을 구현하며, 계산 이론과 알고리즘 복잡도 분석을 학습한다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"OCaml"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Functional Programming"}]]}]
+9:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/ft_turing","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$9","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+b:T1582,
+## 개요
+
+`ft_turing`은 JSON 형식으로 정의된 튜링 머신을 읽어 실행하고, 실행 과정을 단계별로 시각화하며, 시간 복잡도를 분석하는 도구다.
+
+## 주요 기능
+
+- **튜링 머신 시뮬레이션**: JSON 파일로 정의된 튜링 머신을 실행
+- **실행 과정 시각화**: 각 단계에서 현재 상태, 테이프 내용, 헤드 위치를 표시
+- **무한 루프 감지**: 동일한 상태 구성을 반복하거나 무한 실행을 감지하여 중단
+- **시간 복잡도 분석**: 실행 결과를 바탕으로 시간 복잡도를 자동 계산
+- **상태 방문 통계**: 각 상태의 방문 횟수를 추적하여 분석
+
+## 요구사항
+
+- OCaml (4.08 이상)
+- opam (OCaml 패키지 관리자)
+- dune (빌드 시스템)
+- yojson (JSON 파싱 라이브러리)
+
+## 설치
+
+### 1. 의존성 설치
+
+```bash
+make check_deps
+```
+
+또는 수동으로:
+
+```bash
+opam install ocamlfind yojson dune
+```
+
+### 2. 빌드
+
+```bash
+make
+```
+
+또는 dune을 사용하여:
+
+```bash
+dune build
+```
+
+## 사용법
+
+```bash
+./ft_turing <jsonfile> <input>
+```
+
+또는:
+
+```bash
+dune exec bin/main.exe -- <jsonfile> <input>
+```
+
+### 옵션
+
+- `-h, --help`: 도움말 메시지 출력
+
+### 예제
+
+```bash
+./ft_turing res/0.unary_sub.json "111-11="
+```
+
+## 튜링 머신 JSON 형식
+
+튜링 머신은 다음 형식의 JSON 파일로 정의된다:
+
+```json
+{
+  "name": "머신 이름",
+  "alphabet": ["문자1", "문자2", ...],
+  "blank": "빈 칸 문자",
+  "states": ["상태1", "상태2", ...],
+  "initial": "초기 상태",
+  "finals": ["최종 상태1", "최종 상태2", ...],
+  "transitions": {
+    "상태1": [
+      {
+        "read": "읽을 문자",
+        "to_state": "다음 상태",
+        "write": "쓸 문자",
+        "action": "LEFT" 또는 "RIGHT"
+      },
+      ...
+    ],
+    ...
+  }
+}
+```
+
+### 필드 설명
+
+- `name`: 튜링 머신의 이름
+- `alphabet`: 머신이 사용할 수 있는 모든 문자 목록
+- `blank`: 빈 칸을 나타내는 문자 (반드시 alphabet에 포함되어야 함)
+- `states`: 모든 상태 목록
+- `initial`: 초기 상태 (반드시 states에 포함되어야 함)
+- `finals`: 최종 상태 목록 (최소 하나 이상 필요, 모두 states에 포함되어야 함)
+- `transitions`: 상태별 전이 규칙
+  - `read`: 현재 헤드 위치의 문자를 읽음
+  - `to_state`: 전이할 다음 상태
+  - `write`: 테이프에 쓸 문자
+  - `action`: 헤드를 이동할 방향 ("LEFT" 또는 "RIGHT")
+
+## 출력 형식
+
+프로그램 실행 시 다음과 같은 정보가 출력된다:
+
+1. **머신 정보**: 이름, 알파벳, 상태, 초기 상태, 최종 상태, 전이 규칙
+2. **실행 과정**: 각 단계마다
+   - 현재 테이프 내용 (헤드 위치는 하이라이트됨)
+   - 현재 상태
+   - 읽은 문자
+   - 전이 정보 (다음 상태, 쓸 문자, 이동 방향)
+3. **실행 결과**:
+   - 총 실행 단계 수
+   - 최대 방문 횟수를 가진 상태와 방문 횟수
+   - 시간 복잡도 분석
+
+## 시간 복잡도 계산
+
+프로그램은 실행 결과를 바탕으로 다음과 같은 규칙으로 시간 복잡도를 계산한다:
+
+1. **Infinite (무한)**: 실행 단계가 1,000,000 이상인 경우
+2. **Linear (O(n))**: 총 단계 수와 테이프 길이가 비슷한 경우
+3. **Exponential (O(2^n))**: 특정 상태의 방문 횟수가 테이프 길이의 두 배 이상인 경우
+4. **Quadratic (O(n²))**: 특정 상태의 방문 횟수가 테이프 길이 이상인 경우
+5. **Constant (O(1))**: 위의 조건을 만족하지 않는 단순한 상태 변화
+
+## 에러 처리
+
+프로그램은 다음 상황에서 에러를 감지하고 중단합니다:
+
+- **무한 루프**: 동일한 (상태, 테이프, 헤드 위치) 구성을 반복하는 경우
+- **무한 실행**: 빈 칸을 읽으면서 같은 상태에 머무는 경우가 연속으로 20회 이상 발생
+- **잘못된 문자**: 테이프에 알파벳에 없는 문자가 발견된 경우
+- **전이 규칙 없음**: 현재 상태와 읽은 문자에 대한 전이 규칙이 없는 경우
+
+## 프로젝트 구조
+
+```
+ft_turing/
+├── bin/                    # 실행 파일 소스 코드
+│   ├── main.ml            # 메인 진입점 및 명령줄 인자 처리
+│   ├── types.ml           # 튜링 머신 타입 정의
+│   ├── parser.ml          # JSON 파싱 및 검증
+│   ├── executer.ml        # 튜링 머신 실행 로직
+│   └── print_machine.ml   # 머신 정보 출력
+├── res/                    # 예제 튜링 머신 정의 파일
+│   ├── 0.unary_sub.json   # 단항 뺄셈 예제
+│   ├── 1.unary_add.json   # 단항 덧셈 예제
+│   ├── 2.palindrome.json  # 회문 검사 예제
+│   └── ...
+├── test/                   # 테스트 파일
+├── Makefile               # 빌드 스크립트
+├── dune-project           # Dune 프로젝트 설정
+└── ft_turing.opam        # OPAM 패키지 정의
+```
+
+## 예제 튜링 머신
+
+프로젝트에는 여러 예제 튜링 머신이 포함되어 있다:
+
+- `0.unary_sub.json`: 단항 표기법 뺄셈
+- `1.unary_add.json`: 단항 표기법 덧셈
+- `2.palindrome.json`: 회문 검사
+- `3.zero_n_one_n.json`: 0^n1^n 패턴 인식
+- `4.zero_2n.json`: 0^2n 패턴 인식
+- `5.utm_unary.json`: 범용 튜링 머신 (단항 입력)
+
+## 참고 자료
+
+- [Designing a universal Turing machine](https://ftlsid.com/Computation/Designing+a+universal+Turing+machine)
+6:["$","article",null,{"children":["$","$La",null,{"children":"$b"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

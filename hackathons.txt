@@ -1,0 +1,357 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+6:I[64725,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[64725,[],"ViewportBoundary"]
+b:I[64725,[],"MetadataBoundary"]
+d:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","hackathons"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["hackathons",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Le"}]]}]
+f:I[29773,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","4204","static/chunks/app/%5Blocale%5D/hackathons/page-8a66cdbaef5f16d0.js"],"default"]
+10:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+11:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[85584,[],"IconMark"]
+c:[["$","title","0",{"children":"해커톤 | 박우림"}],["$","meta","1",{"name":"description","content":"해커톤에서 진행한 프로젝트들입니다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"박우림"}],["$","meta","6",{"property":"og:description","content":"Frontend Developer"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io"}],["$","meta","8",{"property":"og:site_name","content":"박우림"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://woolimi.github.io/og-image.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"박우림"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"박우림"}],["$","meta","17",{"name":"twitter:description","content":"Frontend Developer"}],["$","meta","18",{"name":"twitter:image","content":"https://woolimi.github.io/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","20",{"rel":"icon","href":"/favicon.ico"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","22",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","23",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L12","24",{}]]
+8:null
+13:I[26334,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","4204","static/chunks/app/%5Blocale%5D/hackathons/page-8a66cdbaef5f16d0.js"],"BlurFade"]
+15:I[49210,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","4204","static/chunks/app/%5Blocale%5D/hackathons/page-8a66cdbaef5f16d0.js"],"HackathonArticleCard"]
+16:T8b51,<h2 id="intro"><a class="heading-link" aria-hidden="true" href="#intro">Intro</a></h2>
+<p>2026년 2월 7일, 창원대학교에서 열리는 Physical AI 해커톤에 다녀왔다.</p>
+<p>Lerobot SO-ARM 101 과 모방학습을 이용해서 붕어빵 5마리를 제한 시간안에 얼마나 빨리 집는지 겨루는 대회였다. AI 해커톤은 처음이고, 모방학습도 처음이고, 로봇팔도 처음이었지만 어찌어찌 <strong>2등을 해서 상금도 탔다</strong>. 대회를 나가게 된 계기는 단순했다. Physical AI 국비 교육을 듣고 있는 와중에 해당 대회가 있다는 것을 알게 되었고, 팀을 모아 출전했다.</p>
+<p>사실 처음에는 대회의 참가에 의의를 두자는 마음이었다.</p>
+<p>그러나 하다보니 흥미가 생겼고 욕심이 났다. 어떻게 하면 더 효율적으로 학습을 하고, 더 정확하게 집을 수 있을까를 고민하며 팀원들과 많은 시간을 보냈다. 심지어 대회 심사 시작 30분 전, 마지막의 마지막까지 시간을 사용하여 모델을 훈련시켰다. 조금이라도 더 나은 퍼포먼스를 보이는 모델을 만들기 위해서...!</p>
+<p>이후에 자세히 설명하겠지만 우리는 모델을 만들고 훈련시킬 시간이 많이 없었다. 아마 국비교육을 들어본 사람이라면 공감하겠지. 학원에서 하는 수업량과 프로젝트가 만만치 않다. 학원 프로젝트는 최대한 프로젝트를 위해 할당해 준 수업 시간을 활용하였고, 수업이 끝나는 저녁 6시 이후와 주말을 이용해서 해커톤 준비를 했다. 그럼에도 불구하고 시간이 없었다. 로봇을 설치하고 세팅하는데만 10분이 걸리고, 에피소드를 녹화해서 괜찮은 모델을 뽑아내는 데 걸리는 시간만 최소 6시간이 걸린다. 대회 3일 전에도 만족할 만한 모델을 만들지 못해서 결국 팀원들에게 양해를 구하고 로봇을 집에 가져가 밤을 새며 테스트를 했다. 그만큼 열심히 준비했고 또 그만큼의 결과를 얻었다고 생각한다.</p>
+<h2 id="대회-준비"><a class="heading-link" aria-hidden="true" href="#대회-준비">대회 준비</a></h2>
+<p>대회 2주 전, 국비교육을 담당해주시는 <strong>핑크랩(Pinklab) 민형기 교수님</strong>께서 피지컬 ai 모방학습 해커톤이 있다고 알려주셨다. Physical AI 와 해커톤의 조합이라니, 가당키나 한가? 하루만에 모델 훈련을 시키고 시연이 된다고? 지금까지 내가 알고 있던 해커톤과는 뭔가 다른거 같았다. 알고보니 해당 해커톤은 미리 준비하는 시간이 있었다. 주최측에서 로봇을 미리 나누어 주고, 우리가 직접 조립하고 훈련시켜서 가지고 오면 된다고 하셨다.</p>
+<p>내심 마음은 있었지만 팀을 모아야 하기에 주저하고 있었는데, 마침 어떤 분께서 학원 슬랙에 하고싶은 사람들을 모아서 출전한다는 소식을 듣고 지원을 하였다. 8명이나 되는 꽤나 많은 학생들이 모였고, 사다리 타기(?)를 통해 2팀으로 나뉘게 되었다.</p>
+<p>참가 신청을 하고 얼마 뒤,</p>
+<p>대회 참가자들을 대상으로 한 온라인 orientation이 있었다. 앞으로 남은 기간동안 <strong>Lerobot soarm-101</strong>을 받아서 로봇을 조립하고 훈련을 시켜야 한댄다. 주어지는 물품은 붕어빵 5마리 인형, 바구니, 깔판, 리더암 / 팔로워암 로봇 2대, 카메라 2개, 그리고 셀카봉. 카메라를 설치하는 장소와 바구니의 위치는 마음대로 정할 수 있었다. 누가누가 빨리 붕어빵 5마리를 바구니에 집어넣을 수 있는지 랩타임을 측정해서 순위를 매긴다고 했다. 앞으로 2주 동안은 바구니 위치랑 적절한 카메라 위치를 실험을 해봐야겠구나.</p>
+<p>마침내 학원으로 로봇이 배달이 왔다. 메뉴얼도 pdf 파일로 제공이 되었다.</p>
+<h3 id="1-로봇-조립"><a class="heading-link" aria-hidden="true" href="#1-로봇-조립">1. 로봇 조립</a></h3>
+<p>메뉴얼에는 로봇 조립에 관해서는 공식 홈페이지를 참조해서 만들거나 유투브를 참고하라고 되어있었다. lerobot 공식 홈페이지에 조립에 대한 메뉴얼이 자세히 나와 있어 그것을 참고했다. 로봇을 조립할 때 주의해야할 점은 리더암과 팔로워암에 사용해야할 모터가 다르다는 것이었다. 우리는 이 부분을 제대로 읽지 않아서 조립이후 해체를 해야하는 불상사가 있었다.</p>
+<p><img src="https://images.prismic.io/woolimi/aaJ0kMFoBIGEg8tZ_Screenshot2026-02-28at13.51.31.png?auto=format%2Ccompress&#x26;h=186&#x26;dpr=2" alt="lerobot motor specs"></p>
+<p>공식문서에는 팔로워암은 기어비가 1:345 인 모터를 써야하지만, 리더암은 다른 모터를 써야한다고 명시되어 있었다. 그러나 우리가 받은 모터는 2종류의 모터였기에 공식문서처럼 리더암의 기어비가 다 다른 모터를 사용하지는 않았다. 리더암에 부위별 어떤 기어비의 모터를 쓰는지는 그리 중요하지 않은 것 같았다. 리더암이야 어쨌든 팔로워암 만큼은 힘을 쓰는 부분이므로 반드시 기어비 1:345 을 써야만 한다.</p>
+<h3 id="2-calibration"><a class="heading-link" aria-hidden="true" href="#2-calibration">2. Calibration</a></h3>
+<p>로봇을 조립하고 나면 Calibration 이라는 것을 하게 된다. 캘리브레이션이란 로봇 팔의 물리적 위치와 소프트웨어상의 관절 값을 일치시키는 과정이다. 각 관절의 가동범위의 최소 최대를 알기 위해 리더암/팔로워암을 스트레칭 시켜줘야한다.</p>
+<p>캘리브레이션을 하다가 알게된 사실. 리더암과 팔로워암에는 쓰이는 전원이 다르다는 것이다.</p>
+<p>리더암은 5v, 팔로워암은 12v 전원을 사용해야한다. 만약 전원을 잘못 꽂으면 모터에 불이 깜박거린다. 모터에 불이 깜박거리면 Calibration 시에 어느 부위에 모터 인식이 안되었다고 메세지가 뜬다. 아아 어쩐지 전원이 다르게 생겼더라.</p>
+<h3 id="3-teleoperation"><a class="heading-link" aria-hidden="true" href="#3-teleoperation">3. Teleoperation</a></h3>
+<p>리더암을 움직여서 팔로워암을 움직이는 것을 teleoperation (원격조작) 이라고 한다. 이를 이용해서 나중에 에피소드 동영상을 찍고, 녹화해서 모델 훈련을 시키게 된다. 즉, 모방학습에서 "모방" 을 하기 위한 단계이다.</p>
+<p>모방학습을 처음해보는 입장에서 이때가 가장 짜릿한 순간이었다. 고작 로봇팔 하나지만 움직이는게 다른 쪽에서도 똑같이 움직인다니!</p>
+<p><img src="https://woolimi.cdn.prismic.io/woolimi/aaKvxcFoBIGEg8x8_teleop.mp4" alt="teleop 원격조작"></p>
+<p>일단 모방학습이라는 것을 처음부터 끝까지 경험을 해봐야 겠다는 생각이 들어 teleop 이 작동하는 날에 바로 에피소드를 몇개 녹화했다. 일단 완벽하지 않아도 시도를 해봐야 그 과정에서 개선점을 찾을 수 있을것 같았으니까.</p>
+<p>바로 집에 와서 ACT 로 훈련을 3만 스텝 정도 시킨 뒤, 다음날 학원에서 수업이 끝난 후 두근거리는 마음으로 모델을 돌려보았다.</p>
+<p><img src="https://woolimi.cdn.prismic.io/woolimi/aaK6aMFoBIGEg8zE_first_model.mp4" alt="첫 시도"></p>
+<p>처음으로 훈련 시킨 모델에서는 그리퍼가 붕어빵을 집지는 못해도 붕어빵 쪽으로 가는 경향성을 보였다. 로봇팔이 부들부들 떨면서도 자기가 할 일을 하려고 움직이는게 안쓰럽고 기특하다.</p>
+<h3 id="4-policy"><a class="heading-link" aria-hidden="true" href="#4-policy">4. Policy</a></h3>
+<p>Lerobot 에는 다양한 policy 들이 있는데, policy 는 쉽게 말해 훈련 알고리즘이라고 생각하면 된다. <strong>ACT, SmolVLA, Pi0</strong> 등이 있는데 자료조사를 해보니 <strong>ACT</strong> 가 가장 학습 속도가 빠르고 무난하다고 한다. 2주라는 짧은 시간의 준비 속에서 로봇 조립만으로 며칠을 까먹은 우리는 policy 여러개를 시도해볼 생각조차 하지 못했다. 지금와서 생각해보면 참 아쉽다.</p>
+<p>시간만 좀 더 있었더라면 여러가지 모델을 음미해보았을 텐데... 카메라도 2대가 아니라 3대도 써봐서 비교해봤을텐데... 훈련도 그냥 클라우드 서버 대여해서 여러개 돌려봤을 텐데...</p>
+<h3 id="5-환경-구성"><a class="heading-link" aria-hidden="true" href="#5-환경-구성">5. 환경 구성</a></h3>
+<p>모방학습에서 훈련시킨 모델이 제대로된 퍼포먼스를 내려면 훈련시켰던 환경과 동작환경을 완전히 일치시키는 것이 중요하다고 한다. 우리는 서울에서 창원으로 로봇을 가져가야 하는 상황이라, 세팅을 철거하고 설치하기 용이하면서도 그때 마다 동일한 세팅이 필요했다.</p>
+<p>그 결과, 우리의 최종 세팅은 다음과 같다. <del>다이소가 큰 활약을 했다</del></p>
+<ul>
+<li><strong>핸드폰 거치대</strong> - 탑 카메라 고정용</li>
+<li><strong>쿠팡 박스와 다이소 시트지로 만든 칸막이</strong> - 탑 카메라에서 보이는 주변 배경을 일정하게 하게 하고 빛을 가리기 위해</li>
+<li><strong>다이소 골무</strong> - 그리퍼에 끼워서 더 잘 집게 하기 위함</li>
+<li><strong>우상단에 배치하는 바구니</strong> - 자유롭게 움직일 수 있는 중앙공간을 확보하고, 백보드가 2개인 구석의 장점을 최대한 활용하기 위함</li>
+</ul>
+<p>우리는 학원생 신분이기에 공용공간인 학원에서 테스트를 해야했다. 공용공간이기에 매일 매일 세팅을 설치하고 철거하고 반복해야만 했다. 매번 설치할 때마다 항상 일관된 세팅을 유지하기 위해 펜으로 일일이 위치를 다 표시하였다. 그 결과 아래와 같은 최종 세팅이 완성되었다.</p>
+<p><img src="https://images.prismic.io/woolimi/aaK0N8FoBIGEg8yt_Screenshot2026-02-28at18.23.50.png?auto=format,compress" alt="final setting"></p>
+<h3 id="6-에피소드-녹화와-학습"><a class="heading-link" aria-hidden="true" href="#6-에피소드-녹화와-학습">6. 에피소드 녹화와 학습</a></h3>
+<p>모방학습을 할때 일관된 세팅은 노이즈를 줄여준다. 하지만 이것만으로는 뭔가 부족하다.</p>
+<p>우리는 카메라로 찍어들이는 영상들을 <strong>객체와 로봇팔만 추출해서 학습</strong>하면 더 효율이 좋지 않을까 생각했다. 역시나! 실시간으로 배경을 제거해 학습해서 효율을 높이는 연구결과들이 있었다. 이를 구현하기 위해 lerobot 리포지토리를 직접 수정하여 opencv 코드에 yolo 를 적용해보았다. 대회까지 남은 일주일을 전부 써서 말이다. 일단 실시간 이미지 마스킹은 성공했다. 나머지는 다 없애고 객체와 팔로워 암만 남기고 다 검은색 처리를 할 수 있었다.</p>
+<p><img src="https://images.prismic.io/woolimi/aaK_FMFoBIGEg8z4_image.png?auto=format,compress" alt="이미지 마스킹"></p>
+<p>하지만 팔로워암이 움직일 때 마다 객체와 카메라사이의 거리가 달라지게 되면서 마스킹된 배경이 깜박이는 현상이 있었다. 이런 동영상으로도 훈련이 될까? 일단 한번 훈련을 돌려보자.</p>
+<p>테스트 결과는 처참했다.</p>
+<p>일단 첫번째 문제는 녹화였다. 실시간으로 yolo 를 적용해 에피소드 녹화를 시도하면 <strong>팔로워암이 버벅이며 움직이는 증상</strong>이 있었다. 두번째로 이렇게 <strong>버벅이며 녹화된 동영상은 실제로 녹화한 시간보다 짧았다</strong>. 녹화한 시간이 10초라면 녹화된 영상은 5초였다. 마치 빨리 감기가 된것 같았다. 원인을 찾아보니 녹화된 에피소드의 프레임이 유실되는 현상이 있었다. 이렇게 빨리감기처럼 보이는 영상으로 학습을 하게되면 로봇팔이 미친듯이(?) 빨리 움직이는 것을 볼 수 있었다. 해당 영상의 제목은 "Crazy Arm" 이라고 명명했다.</p>
+<p><img src="https://woolimi.cdn.prismic.io/woolimi/aaLBl8FoBIGEg80H_crazyarm.mp4" alt="크레이지 암"></p>
+<p>교육이 이렇게 중요하구나. 부모는 자식의 거울이었다. 로봇이라도 내가 낳은 모델이다. 내가 잘못했다.</p>
+<p>나의 어머니는 이 영상을 보고 "<strong>로봇이 공격할 까봐 무섭다</strong>" 라고 하셨고, 누나는 "<strong>붕어빵을 안 줍는 대회에 나가는 거였냐</strong>" 라고 하였다. 가족들의 조롱 속에서 대회 전날 새벽 4시까지 해당 프레임 드랍 현상을 고쳐볼려고 했지만 잘 되지 않았다. 결국 밤을 샌 체로 아무런 수확도 없이 고속버스에 몸을 실었다.</p>
+<h2 id="대회당일"><a class="heading-link" aria-hidden="true" href="#대회당일">대회당일</a></h2>
+<p>쿠팡박스와 로봇이 담긴 캐리어를 싸들고 팀원들과 함께 고속버스를 탔다. 밤을 샌 탓인지 자고 일어나니 창원이었다. 점심은 간단하게 창원대학교 근처에서 해결 후 대회가 열리는 강의실에서 짐을 풀었다.</p>
+<p>14시, 드디어 본격적인 해커톤이 시작되었다.</p>
+<p>주최측에서 대회의 취지와 사전 공지사항을 알려주셨고 준비해주신 간식을 먹으면서 각 팀마다 해야할 일들을 시작했다. 우리팀은 준비기간동안 테스트만 진행했고 확정된 에피소드 녹화 전략과 모델이 없었기 때문에 할 일이 많았다. 우선 일주일 내내 우리를 괴롭혔던 이미지 전처리를 매듭지어야 했다.</p>
+<h3 id="1-이미지-전처리-마무리"><a class="heading-link" aria-hidden="true" href="#1-이미지-전처리-마무리">1. 이미지 전처리 마무리</a></h3>
+<p>프레임 드랍이 발생하는 마스킹은 포기하고 명암과 대조를 살짝 조절한 이미지를 쓰기로 했다. 이 정도의 명도/대조 조절은 프레임을 드랍시키는 일 없이 괜찮게 에피소드 녹화가 되는 것을 확인했다.</p>
+<p><img src="https://images.prismic.io/woolimi/aaLzdMFoBIGEg84F_Screenshot2026-02-28at22.53.17.png?auto=format,compress" alt="dark top camera"></p>
+<p>이미지 전처리를 사용한 것이 과연 효과가 있었나? 라는 질문에는 솔직히 답변을 못하겠다. 처리를 한 것과 안 한것 두 경우를 비교해볼 시간이 없었기 때문이다. 하지만 이렇게 하면 외부의 밝기에 영향을 받지 않고, 가림판은 거의 검은색으로 처리되어 쓸데없는 이미지 정보가 적어져서 학습에 도움이 될 거라 생각했다.</p>
+<h3 id="2-클라우드-서버-runpod-사용설정"><a class="heading-link" aria-hidden="true" href="#2-클라우드-서버-runpod-사용설정">2. 클라우드 서버 runpod 사용설정</a></h3>
+<p>나의 맥북으로 에피소드 녹화와 훈련을 동시에 할 수 없었기 때문에 클라우드 gpu 서버를 대여하기로 했다. runpod.io 에서 Pytorch 2.4 버전을 사용할 수 있는 RTX 6000 Ada 를 사용하기로 했다. lerobot 을 사용하기 위해서는 Pytorch 2.4 버전이 필수였기 때문이다. 시간 당 약 90센트의 비용으로 서버를 대여하였고, 대회기간 동안 총 약 20달러를 사용했다.</p>
+<h3 id="3-스크립트-만들기"><a class="heading-link" aria-hidden="true" href="#3-스크립트-만들기">3. 스크립트 만들기</a></h3>
+<p>대회를 준비하면서 명령어를 꽤나 많이 쳐야 했기에 각각의 경우에 써야하는 명령어들을 스크립트로 만들어두었다.</p>
+<p><img src="https://images.prismic.io/woolimi/aaL48cFoBIGEg84a_Screenshot2026-02-28at23.17.11.png?auto=format,compress" alt="scripts"></p>
+<p>스크립트 중에 몇개만 살펴보면, <code>merge.sh</code> 의 경우, 선택한 여러 에피소드들을 하나로 합쳐준다. <code>train_new.sh</code> 는 에피소드를 선택하면 스크립트에 기본으로 설정된 것들(모델, 스텝수, 체크포인트, wandb 사용여부 등)을 바탕으로 새로운 모델을 만든다. <code>train_resume.sh</code> 는 기존에 훈련된 모델위에 새로운 에피소드를 선택 또는 그냥 이어서 훈련을 시킬 수 있다. 마지막으로 <code>demo.sh</code> 는 추론할때 사용하는 스크립트다. 대회 규정상 랩타임 측정이 시작되면 컴퓨터를 조작하지 못하므로 대회 맞춤형 스크립트를 만들어야했다.</p>
+<p><strong>Lerobot 기본 추론 스크립트는 lerobot-record 를 사용하기 때문에 쓸데없이 녹화로 리소스가 낭비된다</strong>. 또한 <strong>에피소드 추론 제한 시간이 있어서 끝나고 재시작 할 때마다 추론이 멈추는 현상</strong>이 있다. 이를 방지하기위해 <code>demo.sh</code> 는 추론을 시작하면 녹화를 하지 않고 멈추지 않으면 무제한으로 추론을 한다. 그리고 1초라도 시작 시간을 아끼기 위해 스크립트를 실행하면 모델을 미리 로드하고 enter 키 입력을 대기하게 했다. 랩타입 시작 신호에 맞춰 enter 를 누르면 바로 추론을 시작하기 위해서였다.</p>
+<h3 id="4-에피소드-전략"><a class="heading-link" aria-hidden="true" href="#4-에피소드-전략">4. 에피소드 전략</a></h3>
+<p>대회 규정상 붕어빵을 바구니에 넣으면 그것을 심사위원이 바로 꺼낸다는 것을 알았기에 우리는 에피소드 구성을 붕어빵을 바구니에 넣으면 시작위치로 그리퍼가 돌아오기로 했다. 그래서 우리의 모든 녹화본은 짧게 구성되었다.</p>
+<p>예를들어 붕어빵 5개를 깔고 1개를 집어 바구니에 넣고 돌아오는 것을 20개 찍는다. 같은 방법으로 붕어빵을 개수를 달리하여 4개 깔고 찍고, 3개 깔고 찍고, 2개 깔고 찍고, 1개 깔고 찍는 식 이었다.</p>
+<p>우리는 처음엔 데이터의 질보다는 양이 먼저라고 생각했기에 위의 방법대로 에피소드를 400개 찍어보았다. 단순히 많이 녹화해서 훈련시키면 성능이 좋아지겠지. 하지만 예상과는 달리 훈련을 아무리 시켜도 붕어빵을 잘 집지 못했다. 붕어빵의 위치가 바뀌어도 그리퍼는 붕어빵과는 계속 한 지역만을 집중적으로 집는 경향이 있었다.</p>
+<p>솔직히 이때는 조금 막막했다. 위와 같은 과적합 문제가 발생해도 훈련과 더 많은 에피소드가 해결해주리라 생각해서 계속 찍고 이어서 훈련시키는 것을 반복했다. 하지만 조금도 나아지지 않고 어느덧 저녁 11시를 향해갔다. 훈련을 한번 하고 유의미한 결과를 내려면 4시간정도는 기다려야하기에 아무런 구체적인 전략 없이 찍고 훈련을 반복하는 걸 계속하기에는 리스크가 너무 컸다.</p>
+<p>해결책을 찾아보던 중, 어느 블로그에서 흥미로운 글을 보게되었다. 그 사람도 우리와 같이 픽엔플레이스를 모방학습으로 훈련시키다가 과적합 문제가 발생했는데, 자기가 찍은 에피소드의 물건 위치를 관찰해보니 무의식적으로 자주 놓던 위치가 있더라는 것이다. 나름 랜덤하게 위치를 정했다고 생각했는데 랜덤이 아니라는 것이다. <strong>사람의 직관을 믿으면 안된다. 에피소드는 반드시 "모든 경우의 수" 를 포함해야한다.</strong></p>
+<p>그 순간 우리 팀원들은 모두 깨달음을 얻은 표정이었다. 바로 이거다 라고 깨달음을 얻은 우리는 깔판을 10개의 구역으로 나누어 붕어빵을 배치해 녹화하기로 했다.</p>
+<blockquote>
+<p>붕어빵 개수별 10개 구역에 놓는 경우의 수</p>
+<ul>
+<li>붕어빵 1개 경우의 수: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mn>10</mn></msub><msub><mi>C</mi><mn>1</mn></msub><mo>=</mo><mn>10</mn></mrow><annotation encoding="application/x-tex">{}_{10}C_1 = 10</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">10</span></span></span></span></li>
+<li>붕어빵 2개 경우의 수: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mn>10</mn></msub><msub><mi>C</mi><mn>2</mn></msub><mo>=</mo><mn>45</mn></mrow><annotation encoding="application/x-tex">{}_{10}C_2 = 45</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">45</span></span></span></span></li>
+<li>붕어빵 3개 경우의 수: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mn>10</mn></msub><msub><mi>C</mi><mn>3</mn></msub><mo>=</mo><mn>120</mn></mrow><annotation encoding="application/x-tex">{}_{10}C_3 = 120</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">120</span></span></span></span></li>
+<li>붕어빵 4개 경우의 수: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mn>10</mn></msub><msub><mi>C</mi><mn>4</mn></msub><mo>=</mo><mn>210</mn></mrow><annotation encoding="application/x-tex">{}_{10}C_4 = 210</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">4</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">210</span></span></span></span></li>
+<li>붕어빵 5개 경우의 수: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mn>10</mn></msub><msub><mi>C</mi><mn>5</mn></msub><mo>=</mo><mn>252</mn></mrow><annotation encoding="application/x-tex">{}_{10}C_5 = 252</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">252</span></span></span></span></li>
+</ul>
+</blockquote>
+<p>녹화를 용이하게 하기 위해 붕어빵 위치를 그림으로 표시한 프로그램을 만들었다. 그림만 보고 다음 경우의 수 위치를 알 수 있게 하기 위해서였다. 프로그램은 붕어빵 3개를 10칸에 놓는 경우의 수의 그림을 다음과 같이 만들어주었다.</p>
+<ul>
+<li>붕어빵 3개 - 케이스 1
+<img src="https://images.prismic.io/woolimi/aaMATcFoBIGEg84w_case3-1.png?auto=format,compress" alt="case3-1"></li>
+<li>붕어빵 3개 - 케이스 2
+<img src="https://images.prismic.io/woolimi/aaMATsFoBIGEg84x_case3-2.png?auto=format,compress" alt="case3-1"></li>
+<li>붕어빵 3개 - 케이스 3
+<img src="https://images.prismic.io/woolimi/aaMAT8FoBIGEg84y_case3-3.png?auto=format,compress" alt="case3-1"></li>
+</ul>
+<p>그러나 아쉽게도 시간이 많이 없어 에피소드는 붕어빵 1개, 2개, 3개 일때만 찍었고, 여기에 1개 짜리 부분에 붕어빵 종류가 2개이므로 10개를 더 보강해 총 10 + 10 + 45 + 120 = 185개의 에피소드로 만들었다. 2개, 3개 짜리에는 흰색/노란색을 그냥 적절히 섞어서 찍었다.</p>
+<p>우리팀은 에피소드를 완전히 랜덤으로 구성하는 것에 더해 한 가지 더 디테일을 추가했다. 그건 바로 <strong>붕어빵의 꼬리를 보고 그리퍼가 방향을 틀도록</strong> 한 것이었다. 이러한 디테일은 우리를 2등으로 만들어 주는데 큰 공헌을 했다.</p>
+<p>에피소드를 완성한 시각은 새벽 3시였고, 이제 마지막 훈련을 시작했다. 마지막 훈련은 40만 스텝으로 절대 시간안에 완료를 하지 못하는 스탭으로 정했다. 랩타임 측정 전까지 최대한 많은 훈련을 시키기 위해서였다.</p>
+<p>주사위는 던져졌다.</p>
+<p>이제 잠깐 눈을 붙이고 6시 정도에 일어나서 테스트를 해보면 된다.</p>
+<h2 id="랩타임-측정"><a class="heading-link" aria-hidden="true" href="#랩타임-측정">랩타임 측정</a></h2>
+<p>랩타임 측정은 다음날 10시에 하기로 되어있어서 우리의 정제된 에피소드로 훈련된 모델을 테스트해볼 시간이 아직 있었다.</p>
+<p>아침 6시에 27000 스텝짜리가 나와서 테스트를 해보았다. 결과는 성공적이었다! 전보다 훨씬 붕어빵을 잘 찾고 또 잘 집었다. 움직임은 아직 조금 덜덜거리고 어색하지만 그래도 괜찮았다. 게다가 <strong>붕어빵을 분명 3개까지만 훈련을 시켰는데도 불구하고 5개가 깔려있어도 잘 찾아낸다</strong>는 것이 신기했다. 역시 올바른 데이터의 힘인가?</p>
+<p>그 후로 10시가 되기 전까지 30000, 33000, 34000, 35000 버전이 나왔고, 최종적으로 36000 스텝 버젼이 나왔다.</p>
+<p>대회 심사위원 민형기 교수님께서 랩타임 측정을 시작하기 위해 모든 팀들의 순서를 정했고, 한 팀씩 심사를 시작했다. 팀마다 2번의 기회가 있으며 그 중 가장 좋은 기록이 최종 기록이 된다.</p>
+<p>우리팀의 차례가 왔을때, 첫번째 시도에서 정말 어처구니 없는 경우가 벌어졌다. 한번도 이런 적이 없었는데 그리퍼가 그만 붕어빵을 벽과 바구니 사이에 걸쳐서 놓아버린 것이다!</p>
+<p><img src="https://images.prismic.io/woolimi/aaMUWMFoBIGEg87N_4%E1%84%8C%E1%85%A91%E1%84%8E%E1%85%A1.gif?auto=format,compress" alt="왜 거기에 있는거니"></p>
+<p>이런 붕어빵의 위치를 본 적이 없는 그리퍼는 그때부터 당황했는지 허우적거리며 헛발질을 계속했다. 모방학습의 뒷모습이랄까. 5분동안 이 녀석의 의미없는 헛발질을 보는 것은 매우 괴로웠다. 최종기록은 붕어빵 1개, 소요시간 5분의 처참한 기록이었다.</p>
+<p>하지만 우리는 알고 있었다. 연습때 처럼만 한다면 <strong>이 녀석은 첫 번째에 성공을 한다면 나머지는 꼭 넣어준다</strong>. 우리는 붕어빵을 3개가 깔려있을 때 까지를 훈련시켰기 때문에 붕어빵이 줄어들 수록 성공률이 높았다.</p>
+<p>마지막 2차시기, 드디어 이 녀석이 자신의 존재 가치를 증명해냈다...!</p>
+<p><img src="https://woolimi.cdn.prismic.io/woolimi/aaMQ2sFoBIGEg862_4%E1%84%8C%E1%85%A9_2%E1%84%8E%E1%85%A1.mp4" alt="4조 2차"></p>
+<p>최종 결과는 붕어빵 5개 02:13:043 로 3등과 겨우 3초 차이로 2등이 되었다.</p>
+<h2 id="회고-그리고-아쉬운점"><a class="heading-link" aria-hidden="true" href="#회고-그리고-아쉬운점">회고 그리고 아쉬운점</a></h2>
+<ul>
+<li>
+<p>모방학습에서 <strong>데이터의 질</strong>이 얼마나 중요한지 뼈저리게 느꼈다. 좋은 에피소드가 좋은 모델을 만든다!</p>
+</li>
+<li>
+<p>우리가 훈련시킨 모델은 회복력이 부족했다. 붕어빵 집기에 실패하면 바구니로 가지 않고 바로 다시 집는 에피소드를 추가했어야 했다.</p>
+</li>
+<li>
+<p>Lerobot에서 ACT 모델에 대한 이해도가 조금 더 있었더라면, 움직임을 더 부드럽게 하기 위해 <code>chunk_size</code>나 <code>n_action_steps</code>를 키워 보는 실험을 해볼 수 있었을 텐데 아쉽다. 대회가 끝나고서야 해당 옵션의 존재를 알게 되었다.</p>
+</li>
+</ul>
+<blockquote>
+<ul>
+<li><strong>chunk_size</strong> (청크 크기): 모델이 한 번의 추론으로 예측하는 미래 동작의 총 단계 수. 예를 들어 50으로 설정하면 약 1.66초 앞을 예측한다.</li>
+<li><strong>n_action_steps</strong> (행동 스텝 수): 예측된 청크 중에서 실제로 로봇이 실행할 스텝 수. 보통 <code>chunk_size</code>보다 작게 두고, 겹치는 구간을 두어 움직임을 부드럽게 한다 (예: chunk_size=100, n_action_steps=50).</li>
+</ul>
+</blockquote>
+<p>처음 참가한 해커톤이었지만 최선을 다했기에 후회는 없다. 긴박한 상황에서 해결책을 찾아 구현해냈을 때 느끼는 카타르시스! 이런 성취감은 해커톤만이 줄 수 있는 특권인 것 같다.</p>17:T5c9e,
+## Intro
+
+2026년 2월 7일, 창원대학교에서 열리는 Physical AI 해커톤에 다녀왔다.
+
+Lerobot SO-ARM 101 과 모방학습을 이용해서 붕어빵 5마리를 제한 시간안에 얼마나 빨리 집는지 겨루는 대회였다. AI 해커톤은 처음이고, 모방학습도 처음이고, 로봇팔도 처음이었지만 어찌어찌 **2등을 해서 상금도 탔다**. 대회를 나가게 된 계기는 단순했다. Physical AI 국비 교육을 듣고 있는 와중에 해당 대회가 있다는 것을 알게 되었고, 팀을 모아 출전했다.
+
+사실 처음에는 대회의 참가에 의의를 두자는 마음이었다. 
+
+그러나 하다보니 흥미가 생겼고 욕심이 났다. 어떻게 하면 더 효율적으로 학습을 하고, 더 정확하게 집을 수 있을까를 고민하며 팀원들과 많은 시간을 보냈다. 심지어 대회 심사 시작 30분 전, 마지막의 마지막까지 시간을 사용하여 모델을 훈련시켰다. 조금이라도 더 나은 퍼포먼스를 보이는 모델을 만들기 위해서...!
+
+이후에 자세히 설명하겠지만 우리는 모델을 만들고 훈련시킬 시간이 많이 없었다. 아마 국비교육을 들어본 사람이라면 공감하겠지. 학원에서 하는 수업량과 프로젝트가 만만치 않다. 학원 프로젝트는 최대한 프로젝트를 위해 할당해 준 수업 시간을 활용하였고, 수업이 끝나는 저녁 6시 이후와 주말을 이용해서 해커톤 준비를 했다. 그럼에도 불구하고 시간이 없었다. 로봇을 설치하고 세팅하는데만 10분이 걸리고, 에피소드를 녹화해서 괜찮은 모델을 뽑아내는 데 걸리는 시간만 최소 6시간이 걸린다. 대회 3일 전에도 만족할 만한 모델을 만들지 못해서 결국 팀원들에게 양해를 구하고 로봇을 집에 가져가 밤을 새며 테스트를 했다. 그만큼 열심히 준비했고 또 그만큼의 결과를 얻었다고 생각한다.
+
+## 대회 준비
+
+대회 2주 전, 국비교육을 담당해주시는 **핑크랩(Pinklab) 민형기 교수님**께서 피지컬 ai 모방학습 해커톤이 있다고 알려주셨다. Physical AI 와 해커톤의 조합이라니, 가당키나 한가? 하루만에 모델 훈련을 시키고 시연이 된다고? 지금까지 내가 알고 있던 해커톤과는 뭔가 다른거 같았다. 알고보니 해당 해커톤은 미리 준비하는 시간이 있었다. 주최측에서 로봇을 미리 나누어 주고, 우리가 직접 조립하고 훈련시켜서 가지고 오면 된다고 하셨다.
+
+내심 마음은 있었지만 팀을 모아야 하기에 주저하고 있었는데, 마침 어떤 분께서 학원 슬랙에 하고싶은 사람들을 모아서 출전한다는 소식을 듣고 지원을 하였다. 8명이나 되는 꽤나 많은 학생들이 모였고, 사다리 타기(?)를 통해 2팀으로 나뉘게 되었다. 
+
+참가 신청을 하고 얼마 뒤,
+
+대회 참가자들을 대상으로 한 온라인 orientation이 있었다. 앞으로 남은 기간동안 **Lerobot soarm-101**을 받아서 로봇을 조립하고 훈련을 시켜야 한댄다. 주어지는 물품은 붕어빵 5마리 인형, 바구니, 깔판, 리더암 / 팔로워암 로봇 2대, 카메라 2개, 그리고 셀카봉. 카메라를 설치하는 장소와 바구니의 위치는 마음대로 정할 수 있었다. 누가누가 빨리 붕어빵 5마리를 바구니에 집어넣을 수 있는지 랩타임을 측정해서 순위를 매긴다고 했다. 앞으로 2주 동안은 바구니 위치랑 적절한 카메라 위치를 실험을 해봐야겠구나. 
+
+마침내 학원으로 로봇이 배달이 왔다. 메뉴얼도 pdf 파일로 제공이 되었다. 
+
+### 1. 로봇 조립
+
+메뉴얼에는 로봇 조립에 관해서는 공식 홈페이지를 참조해서 만들거나 유투브를 참고하라고 되어있었다. lerobot 공식 홈페이지에 조립에 대한 메뉴얼이 자세히 나와 있어 그것을 참고했다. 로봇을 조립할 때 주의해야할 점은 리더암과 팔로워암에 사용해야할 모터가 다르다는 것이었다. 우리는 이 부분을 제대로 읽지 않아서 조립이후 해체를 해야하는 불상사가 있었다. 
+
+![lerobot motor specs](https://images.prismic.io/woolimi/aaJ0kMFoBIGEg8tZ_Screenshot2026-02-28at13.51.31.png?auto=format%2Ccompress&h=186&dpr=2)
+
+공식문서에는 팔로워암은 기어비가 1:345 인 모터를 써야하지만, 리더암은 다른 모터를 써야한다고 명시되어 있었다. 그러나 우리가 받은 모터는 2종류의 모터였기에 공식문서처럼 리더암의 기어비가 다 다른 모터를 사용하지는 않았다. 리더암에 부위별 어떤 기어비의 모터를 쓰는지는 그리 중요하지 않은 것 같았다. 리더암이야 어쨌든 팔로워암 만큼은 힘을 쓰는 부분이므로 반드시 기어비 1:345 을 써야만 한다.
+
+### 2. Calibration
+
+로봇을 조립하고 나면 Calibration 이라는 것을 하게 된다. 캘리브레이션이란 로봇 팔의 물리적 위치와 소프트웨어상의 관절 값을 일치시키는 과정이다. 각 관절의 가동범위의 최소 최대를 알기 위해 리더암/팔로워암을 스트레칭 시켜줘야한다. 
+
+캘리브레이션을 하다가 알게된 사실. 리더암과 팔로워암에는 쓰이는 전원이 다르다는 것이다. 
+
+리더암은 5v, 팔로워암은 12v 전원을 사용해야한다. 만약 전원을 잘못 꽂으면 모터에 불이 깜박거린다. 모터에 불이 깜박거리면 Calibration 시에 어느 부위에 모터 인식이 안되었다고 메세지가 뜬다. 아아 어쩐지 전원이 다르게 생겼더라.
+
+### 3. Teleoperation
+
+리더암을 움직여서 팔로워암을 움직이는 것을 teleoperation (원격조작) 이라고 한다. 이를 이용해서 나중에 에피소드 동영상을 찍고, 녹화해서 모델 훈련을 시키게 된다. 즉, 모방학습에서 "모방" 을 하기 위한 단계이다.
+
+모방학습을 처음해보는 입장에서 이때가 가장 짜릿한 순간이었다. 고작 로봇팔 하나지만 움직이는게 다른 쪽에서도 똑같이 움직인다니!
+
+![teleop 원격조작](https://woolimi.cdn.prismic.io/woolimi/aaKvxcFoBIGEg8x8_teleop.mp4)
+
+일단 모방학습이라는 것을 처음부터 끝까지 경험을 해봐야 겠다는 생각이 들어 teleop 이 작동하는 날에 바로 에피소드를 몇개 녹화했다. 일단 완벽하지 않아도 시도를 해봐야 그 과정에서 개선점을 찾을 수 있을것 같았으니까. 
+
+바로 집에 와서 ACT 로 훈련을 3만 스텝 정도 시킨 뒤, 다음날 학원에서 수업이 끝난 후 두근거리는 마음으로 모델을 돌려보았다.
+
+![첫 시도](https://woolimi.cdn.prismic.io/woolimi/aaK6aMFoBIGEg8zE_first_model.mp4)
+
+처음으로 훈련 시킨 모델에서는 그리퍼가 붕어빵을 집지는 못해도 붕어빵 쪽으로 가는 경향성을 보였다. 로봇팔이 부들부들 떨면서도 자기가 할 일을 하려고 움직이는게 안쓰럽고 기특하다.
+
+### 4. Policy
+
+Lerobot 에는 다양한 policy 들이 있는데, policy 는 쉽게 말해 훈련 알고리즘이라고 생각하면 된다. **ACT, SmolVLA, Pi0** 등이 있는데 자료조사를 해보니 **ACT** 가 가장 학습 속도가 빠르고 무난하다고 한다. 2주라는 짧은 시간의 준비 속에서 로봇 조립만으로 며칠을 까먹은 우리는 policy 여러개를 시도해볼 생각조차 하지 못했다. 지금와서 생각해보면 참 아쉽다. 
+
+시간만 좀 더 있었더라면 여러가지 모델을 음미해보았을 텐데... 카메라도 2대가 아니라 3대도 써봐서 비교해봤을텐데... 훈련도 그냥 클라우드 서버 대여해서 여러개 돌려봤을 텐데...
+
+### 5. 환경 구성
+
+모방학습에서 훈련시킨 모델이 제대로된 퍼포먼스를 내려면 훈련시켰던 환경과 동작환경을 완전히 일치시키는 것이 중요하다고 한다. 우리는 서울에서 창원으로 로봇을 가져가야 하는 상황이라, 세팅을 철거하고 설치하기 용이하면서도 그때 마다 동일한 세팅이 필요했다. 
+
+그 결과, 우리의 최종 세팅은 다음과 같다. ~~다이소가 큰 활약을 했다~~
+
+* **핸드폰 거치대** - 탑 카메라 고정용
+* **쿠팡 박스와 다이소 시트지로 만든 칸막이** - 탑 카메라에서 보이는 주변 배경을 일정하게 하게 하고 빛을 가리기 위해
+* **다이소 골무** - 그리퍼에 끼워서 더 잘 집게 하기 위함
+* **우상단에 배치하는 바구니** - 자유롭게 움직일 수 있는 중앙공간을 확보하고, 백보드가 2개인 구석의 장점을 최대한 활용하기 위함
+
+우리는 학원생 신분이기에 공용공간인 학원에서 테스트를 해야했다. 공용공간이기에 매일 매일 세팅을 설치하고 철거하고 반복해야만 했다. 매번 설치할 때마다 항상 일관된 세팅을 유지하기 위해 펜으로 일일이 위치를 다 표시하였다. 그 결과 아래와 같은 최종 세팅이 완성되었다. 
+
+![final setting](https://images.prismic.io/woolimi/aaK0N8FoBIGEg8yt_Screenshot2026-02-28at18.23.50.png?auto=format,compress)
+
+### 6. 에피소드 녹화와 학습
+
+모방학습을 할때 일관된 세팅은 노이즈를 줄여준다. 하지만 이것만으로는 뭔가 부족하다.
+
+우리는 카메라로 찍어들이는 영상들을 **객체와 로봇팔만 추출해서 학습**하면 더 효율이 좋지 않을까 생각했다. 역시나! 실시간으로 배경을 제거해 학습해서 효율을 높이는 연구결과들이 있었다. 이를 구현하기 위해 lerobot 리포지토리를 직접 수정하여 opencv 코드에 yolo 를 적용해보았다. 대회까지 남은 일주일을 전부 써서 말이다. 일단 실시간 이미지 마스킹은 성공했다. 나머지는 다 없애고 객체와 팔로워 암만 남기고 다 검은색 처리를 할 수 있었다.
+
+![이미지 마스킹](https://images.prismic.io/woolimi/aaK_FMFoBIGEg8z4_image.png?auto=format,compress)
+
+하지만 팔로워암이 움직일 때 마다 객체와 카메라사이의 거리가 달라지게 되면서 마스킹된 배경이 깜박이는 현상이 있었다. 이런 동영상으로도 훈련이 될까? 일단 한번 훈련을 돌려보자.
+
+테스트 결과는 처참했다. 
+
+일단 첫번째 문제는 녹화였다. 실시간으로 yolo 를 적용해 에피소드 녹화를 시도하면 **팔로워암이 버벅이며 움직이는 증상**이 있었다. 두번째로 이렇게 **버벅이며 녹화된 동영상은 실제로 녹화한 시간보다 짧았다**. 녹화한 시간이 10초라면 녹화된 영상은 5초였다. 마치 빨리 감기가 된것 같았다. 원인을 찾아보니 녹화된 에피소드의 프레임이 유실되는 현상이 있었다. 이렇게 빨리감기처럼 보이는 영상으로 학습을 하게되면 로봇팔이 미친듯이(?) 빨리 움직이는 것을 볼 수 있었다. 해당 영상의 제목은 "Crazy Arm" 이라고 명명했다.
+
+![크레이지 암](https://woolimi.cdn.prismic.io/woolimi/aaLBl8FoBIGEg80H_crazyarm.mp4)
+
+교육이 이렇게 중요하구나. 부모는 자식의 거울이었다. 로봇이라도 내가 낳은 모델이다. 내가 잘못했다. 
+
+나의 어머니는 이 영상을 보고 "**로봇이 공격할 까봐 무섭다**" 라고 하셨고, 누나는 "**붕어빵을 안 줍는 대회에 나가는 거였냐**" 라고 하였다. 가족들의 조롱 속에서 대회 전날 새벽 4시까지 해당 프레임 드랍 현상을 고쳐볼려고 했지만 잘 되지 않았다. 결국 밤을 샌 체로 아무런 수확도 없이 고속버스에 몸을 실었다.
+
+## 대회당일
+
+쿠팡박스와 로봇이 담긴 캐리어를 싸들고 팀원들과 함께 고속버스를 탔다. 밤을 샌 탓인지 자고 일어나니 창원이었다. 점심은 간단하게 창원대학교 근처에서 해결 후 대회가 열리는 강의실에서 짐을 풀었다. 
+
+14시, 드디어 본격적인 해커톤이 시작되었다. 
+
+주최측에서 대회의 취지와 사전 공지사항을 알려주셨고 준비해주신 간식을 먹으면서 각 팀마다 해야할 일들을 시작했다. 우리팀은 준비기간동안 테스트만 진행했고 확정된 에피소드 녹화 전략과 모델이 없었기 때문에 할 일이 많았다. 우선 일주일 내내 우리를 괴롭혔던 이미지 전처리를 매듭지어야 했다.
+
+### 1. 이미지 전처리 마무리
+
+프레임 드랍이 발생하는 마스킹은 포기하고 명암과 대조를 살짝 조절한 이미지를 쓰기로 했다. 이 정도의 명도/대조 조절은 프레임을 드랍시키는 일 없이 괜찮게 에피소드 녹화가 되는 것을 확인했다. 
+
+![dark top camera](https://images.prismic.io/woolimi/aaLzdMFoBIGEg84F_Screenshot2026-02-28at22.53.17.png?auto=format,compress)
+
+ 이미지 전처리를 사용한 것이 과연 효과가 있었나? 라는 질문에는 솔직히 답변을 못하겠다. 처리를 한 것과 안 한것 두 경우를 비교해볼 시간이 없었기 때문이다. 하지만 이렇게 하면 외부의 밝기에 영향을 받지 않고, 가림판은 거의 검은색으로 처리되어 쓸데없는 이미지 정보가 적어져서 학습에 도움이 될 거라 생각했다.
+
+### 2. 클라우드 서버 runpod 사용설정
+
+나의 맥북으로 에피소드 녹화와 훈련을 동시에 할 수 없었기 때문에 클라우드 gpu 서버를 대여하기로 했다. runpod.io 에서 Pytorch 2.4 버전을 사용할 수 있는 RTX 6000 Ada 를 사용하기로 했다. lerobot 을 사용하기 위해서는 Pytorch 2.4 버전이 필수였기 때문이다. 시간 당 약 90센트의 비용으로 서버를 대여하였고, 대회기간 동안 총 약 20달러를 사용했다. 
+
+### 3. 스크립트 만들기
+
+대회를 준비하면서 명령어를 꽤나 많이 쳐야 했기에 각각의 경우에 써야하는 명령어들을 스크립트로 만들어두었다. 
+
+![scripts](https://images.prismic.io/woolimi/aaL48cFoBIGEg84a_Screenshot2026-02-28at23.17.11.png?auto=format,compress)
+
+스크립트 중에 몇개만 살펴보면, `merge.sh` 의 경우, 선택한 여러 에피소드들을 하나로 합쳐준다. `train_new.sh` 는 에피소드를 선택하면 스크립트에 기본으로 설정된 것들(모델, 스텝수, 체크포인트, wandb 사용여부 등)을 바탕으로 새로운 모델을 만든다. `train_resume.sh` 는 기존에 훈련된 모델위에 새로운 에피소드를 선택 또는 그냥 이어서 훈련을 시킬 수 있다. 마지막으로 `demo.sh` 는 추론할때 사용하는 스크립트다. 대회 규정상 랩타임 측정이 시작되면 컴퓨터를 조작하지 못하므로 대회 맞춤형 스크립트를 만들어야했다. 
+
+**Lerobot 기본 추론 스크립트는 lerobot-record 를 사용하기 때문에 쓸데없이 녹화로 리소스가 낭비된다**. 또한 **에피소드 추론 제한 시간이 있어서 끝나고 재시작 할 때마다 추론이 멈추는 현상**이 있다. 이를 방지하기위해 `demo.sh` 는 추론을 시작하면 녹화를 하지 않고 멈추지 않으면 무제한으로 추론을 한다. 그리고 1초라도 시작 시간을 아끼기 위해 스크립트를 실행하면 모델을 미리 로드하고 enter 키 입력을 대기하게 했다. 랩타입 시작 신호에 맞춰 enter 를 누르면 바로 추론을 시작하기 위해서였다. 
+
+### 4. 에피소드 전략
+
+대회 규정상 붕어빵을 바구니에 넣으면 그것을 심사위원이 바로 꺼낸다는 것을 알았기에 우리는 에피소드 구성을 붕어빵을 바구니에 넣으면 시작위치로 그리퍼가 돌아오기로 했다. 그래서 우리의 모든 녹화본은 짧게 구성되었다. 
+
+예를들어 붕어빵 5개를 깔고 1개를 집어 바구니에 넣고 돌아오는 것을 20개 찍는다. 같은 방법으로 붕어빵을 개수를 달리하여 4개 깔고 찍고, 3개 깔고 찍고, 2개 깔고 찍고, 1개 깔고 찍는 식 이었다.
+
+우리는 처음엔 데이터의 질보다는 양이 먼저라고 생각했기에 위의 방법대로 에피소드를 400개 찍어보았다. 단순히 많이 녹화해서 훈련시키면 성능이 좋아지겠지. 하지만 예상과는 달리 훈련을 아무리 시켜도 붕어빵을 잘 집지 못했다. 붕어빵의 위치가 바뀌어도 그리퍼는 붕어빵과는 계속 한 지역만을 집중적으로 집는 경향이 있었다. 
+
+솔직히 이때는 조금 막막했다. 위와 같은 과적합 문제가 발생해도 훈련과 더 많은 에피소드가 해결해주리라 생각해서 계속 찍고 이어서 훈련시키는 것을 반복했다. 하지만 조금도 나아지지 않고 어느덧 저녁 11시를 향해갔다. 훈련을 한번 하고 유의미한 결과를 내려면 4시간정도는 기다려야하기에 아무런 구체적인 전략 없이 찍고 훈련을 반복하는 걸 계속하기에는 리스크가 너무 컸다.
+
+해결책을 찾아보던 중, 어느 블로그에서 흥미로운 글을 보게되었다. 그 사람도 우리와 같이 픽엔플레이스를 모방학습으로 훈련시키다가 과적합 문제가 발생했는데, 자기가 찍은 에피소드의 물건 위치를 관찰해보니 무의식적으로 자주 놓던 위치가 있더라는 것이다. 나름 랜덤하게 위치를 정했다고 생각했는데 랜덤이 아니라는 것이다. **사람의 직관을 믿으면 안된다. 에피소드는 반드시 "모든 경우의 수" 를 포함해야한다.** 
+
+그 순간 우리 팀원들은 모두 깨달음을 얻은 표정이었다. 바로 이거다 라고 깨달음을 얻은 우리는 깔판을 10개의 구역으로 나누어 붕어빵을 배치해 녹화하기로 했다.
+
+> 붕어빵 개수별 10개 구역에 놓는 경우의 수
+> - 붕어빵 1개 경우의 수: ${}_{10}C_1 = 10$
+> - 붕어빵 2개 경우의 수: ${}_{10}C_2 = 45$
+> - 붕어빵 3개 경우의 수: ${}_{10}C_3 = 120$
+> - 붕어빵 4개 경우의 수: ${}_{10}C_4 = 210$
+> - 붕어빵 5개 경우의 수: ${}_{10}C_5 = 252$ 
+
+녹화를 용이하게 하기 위해 붕어빵 위치를 그림으로 표시한 프로그램을 만들었다. 그림만 보고 다음 경우의 수 위치를 알 수 있게 하기 위해서였다. 프로그램은 붕어빵 3개를 10칸에 놓는 경우의 수의 그림을 다음과 같이 만들어주었다.
+
+- 붕어빵 3개 - 케이스 1
+![case3-1](https://images.prismic.io/woolimi/aaMATcFoBIGEg84w_case3-1.png?auto=format,compress)
+- 붕어빵 3개 - 케이스 2
+![case3-1](https://images.prismic.io/woolimi/aaMATsFoBIGEg84x_case3-2.png?auto=format,compress)
+- 붕어빵 3개 - 케이스 3
+![case3-1](https://images.prismic.io/woolimi/aaMAT8FoBIGEg84y_case3-3.png?auto=format,compress)
+
+그러나 아쉽게도 시간이 많이 없어 에피소드는 붕어빵 1개, 2개, 3개 일때만 찍었고, 여기에 1개 짜리 부분에 붕어빵 종류가 2개이므로 10개를 더 보강해 총 10 + 10 + 45 + 120 = 185개의 에피소드로 만들었다. 2개, 3개 짜리에는 흰색/노란색을 그냥 적절히 섞어서 찍었다.
+
+우리팀은 에피소드를 완전히 랜덤으로 구성하는 것에 더해 한 가지 더 디테일을 추가했다. 그건 바로 **붕어빵의 꼬리를 보고 그리퍼가 방향을 틀도록** 한 것이었다. 이러한 디테일은 우리를 2등으로 만들어 주는데 큰 공헌을 했다.
+
+에피소드를 완성한 시각은 새벽 3시였고, 이제 마지막 훈련을 시작했다. 마지막 훈련은 40만 스텝으로 절대 시간안에 완료를 하지 못하는 스탭으로 정했다. 랩타임 측정 전까지 최대한 많은 훈련을 시키기 위해서였다. 
+
+주사위는 던져졌다. 
+
+이제 잠깐 눈을 붙이고 6시 정도에 일어나서 테스트를 해보면 된다.
+
+## 랩타임 측정
+
+랩타임 측정은 다음날 10시에 하기로 되어있어서 우리의 정제된 에피소드로 훈련된 모델을 테스트해볼 시간이 아직 있었다. 
+
+아침 6시에 27000 스텝짜리가 나와서 테스트를 해보았다. 결과는 성공적이었다! 전보다 훨씬 붕어빵을 잘 찾고 또 잘 집었다. 움직임은 아직 조금 덜덜거리고 어색하지만 그래도 괜찮았다. 게다가 **붕어빵을 분명 3개까지만 훈련을 시켰는데도 불구하고 5개가 깔려있어도 잘 찾아낸다**는 것이 신기했다. 역시 올바른 데이터의 힘인가? 
+
+그 후로 10시가 되기 전까지 30000, 33000, 34000, 35000 버전이 나왔고, 최종적으로 36000 스텝 버젼이 나왔다. 
+
+대회 심사위원 민형기 교수님께서 랩타임 측정을 시작하기 위해 모든 팀들의 순서를 정했고, 한 팀씩 심사를 시작했다. 팀마다 2번의 기회가 있으며 그 중 가장 좋은 기록이 최종 기록이 된다.
+
+우리팀의 차례가 왔을때, 첫번째 시도에서 정말 어처구니 없는 경우가 벌어졌다. 한번도 이런 적이 없었는데 그리퍼가 그만 붕어빵을 벽과 바구니 사이에 걸쳐서 놓아버린 것이다!
+
+![왜 거기에 있는거니](https://images.prismic.io/woolimi/aaMUWMFoBIGEg87N_4%E1%84%8C%E1%85%A91%E1%84%8E%E1%85%A1.gif?auto=format,compress)
+
+이런 붕어빵의 위치를 본 적이 없는 그리퍼는 그때부터 당황했는지 허우적거리며 헛발질을 계속했다. 모방학습의 뒷모습이랄까. 5분동안 이 녀석의 의미없는 헛발질을 보는 것은 매우 괴로웠다. 최종기록은 붕어빵 1개, 소요시간 5분의 처참한 기록이었다.
+
+하지만 우리는 알고 있었다. 연습때 처럼만 한다면 **이 녀석은 첫 번째에 성공을 한다면 나머지는 꼭 넣어준다**. 우리는 붕어빵을 3개가 깔려있을 때 까지를 훈련시켰기 때문에 붕어빵이 줄어들 수록 성공률이 높았다.
+
+마지막 2차시기, 드디어 이 녀석이 자신의 존재 가치를 증명해냈다...!
+
+![4조 2차](https://woolimi.cdn.prismic.io/woolimi/aaMQ2sFoBIGEg862_4%E1%84%8C%E1%85%A9_2%E1%84%8E%E1%85%A1.mp4)
+
+최종 결과는 붕어빵 5개 02:13:043 로 3등과 겨우 3초 차이로 2등이 되었다. 
+
+## 회고 그리고 아쉬운점
+
+- 모방학습에서 **데이터의 질**이 얼마나 중요한지 뼈저리게 느꼈다. 좋은 에피소드가 좋은 모델을 만든다!
+
+- 우리가 훈련시킨 모델은 회복력이 부족했다. 붕어빵 집기에 실패하면 바구니로 가지 않고 바로 다시 집는 에피소드를 추가했어야 했다.
+
+- Lerobot에서 ACT 모델에 대한 이해도가 조금 더 있었더라면, 움직임을 더 부드럽게 하기 위해 `chunk_size`나 `n_action_steps`를 키워 보는 실험을 해볼 수 있었을 텐데 아쉽다. 대회가 끝나고서야 해당 옵션의 존재를 알게 되었다.
+
+> * **chunk_size** (청크 크기): 모델이 한 번의 추론으로 예측하는 미래 동작의 총 단계 수. 예를 들어 50으로 설정하면 약 1.66초 앞을 예측한다.
+>* **n_action_steps** (행동 스텝 수): 예측된 청크 중에서 실제로 로봇이 실행할 스텝 수. 보통 `chunk_size`보다 작게 두고, 겹치는 구간을 두어 움직임을 부드럽게 한다 (예: chunk_size=100, n_action_steps=50).
+
+처음 참가한 해커톤이었지만 최선을 다했기에 후회는 없다. 긴박한 상황에서 해결책을 찾아 구현해냈을 때 느끼는 카타르시스! 이런 성취감은 해커톤만이 줄 수 있는 특권인 것 같다. 
+5:["$","main",null,{"className":"mx-auto max-w-[900px] px-4 pt-20 pb-40","children":[["$","$L13",null,{"delay":0.04,"children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Hackathons"}]}]]}]}],["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"Hackathons"}]]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 md:grid-cols-2","children":[["$","$L15","physical-ai-hackathon",{"hackathon":{"metadata":{"title":"Physical AI 로봇팔 모방학습 해커톤","summary":"","locale":"ko","createdAt":"2026-02-23T00:15:29.000Z","updatedAt":"2026-02-28T16:28:12.000Z","eventStartDate":"2026-02-07","eventEndDate":"2026-02-08","image":"https://images.prismic.io/woolimi/aZsuJcFoBIGEgoOr_changwon-hackathon.jpeg?auto=format%2Ccompress&dpr=2","skills":["lerobot"]},"id":"physical-ai-hackathon","type":"markdown","source":"$16","rawContent":"$17","originalFileName":"01.physical-ai-hackathon.ko.md"},"locale":"ko","delay":0.08}]]}]]}]
+18:I[935,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","4204","static/chunks/app/%5Blocale%5D/hackathons/page-8a66cdbaef5f16d0.js"],"default"]
+14:["$","$L18",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

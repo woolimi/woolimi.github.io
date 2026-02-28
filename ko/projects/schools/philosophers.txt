@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[27160,[],""]
+3:I[41422,[],""]
+6:I[64725,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[64725,[],"ViewportBoundary"]
+b:I[64725,[],"MetadataBoundary"]
+d:I[51732,[],""]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87345b8e40306950.css","style"]
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"P":null,"b":"7wrLch1PHmN9S3I0q82uc","c":["","ko","projects","schools","philosophers"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","philosophers","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87345b8e40306950.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased __variable_5d3d4e","children":"$Le"}]]}]
+f:I[29773,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+10:I[80481,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"TooltipProvider"]
+11:I[20698,["9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","4807","static/chunks/4807-190236097785308d.js","4993","static/chunks/4993-6f49cb433c12a05b.js","8450","static/chunks/app/%5Blocale%5D/layout-f161d414236aefb9.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"BlurFade"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L12",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L13"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"philosophers"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"philosophers\",\"description\":\"philosophers는 ecole42의 프로젝트로, 식사하는 철학자 문제를 세 가지 다른 동기화 메커니즘(mutex, semaphore, process)으로 해결하는 프로젝트. 동시성 프로그래밍에서 자원 공유와 데드락 방지를 다루는 고전적인 문제를 통해 스레드, 프로세스, 동기화 기법 등 시스템 프로그래밍의 핵심 개념을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=philosophers\",\"url\":\"https://woolimi.github.io/projects/schools/philosophers\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"philosophers"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"philosophers는 ecole42의 프로젝트로, 식사하는 철학자 문제를 세 가지 다른 동기화 메커니즘(mutex, semaphore, process)으로 해결하는 프로젝트. 동시성 프로그래밍에서 자원 공유와 데드락 방지를 다루는 고전적인 문제를 통해 스레드, 프로세스, 동기화 기법 등 시스템 프로그래밍의 핵심 개념을 학습한다"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"C"}]]}],"$L15"]}],"$L16"]}]}]
+18:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"MarkdownContent",1]
+1a:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","8634","static/chunks/8634-41f00eb732804d51.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","4848","static/chunks/app/%5Blocale%5D/projects/schools/%5Bid%5D/page-1700be87c12c054d.js"],"default"]
+17:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z15:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","a",null,{"href":"https://github.com/woolimi/philosophers","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-1.5 rounded-md bg-black px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-gray-800 ","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"size-4","children":["$undefined",[["$","path","0",{"d":"$17","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"GitHub"]}]]}]
+19:T1844,
+## 개요
+
+식사하는 철학자 문제는 동시성 프로그래밍에서 자원 공유와 데드락 방지를 다루는 고전적인 문제다. 이 프로젝트는 세 가지 다른 동기화 메커니즘을 사용하여 이 문제를 해결한다:
+
+1. **philo_one**: pthread와 mutex를 사용한 구현
+2. **philo_two**: pthread와 semaphore를 사용한 구현
+3. **philo_three**: 프로세스(fork)와 semaphore를 사용한 구현
+
+## 프로젝트 구조
+
+```
+philosophers/
+├── philo_one/      # pthread + mutex 버전
+├── philo_two/      # pthread + semaphore 버전
+└── philo_three/    # process + semaphore 버전
+```
+
+각 디렉토리는 독립적인 프로젝트로 구성되어 있으며, 각각의 Makefile을 가지고 있다.
+
+## 각 버전별 특징
+
+### philo_one
+
+- **동기화 메커니즘**: pthread mutex
+- **특징**:
+  - 각 포크에 대해 개별 mutex 사용
+  - 홀수/짝수 철학자를 분리하여 데드락 방지
+  - 각 철학자마다 모니터링 스레드 생성
+  - `pickup`과 `putdown` mutex로 포크 집기/놓기 동작 동기화
+
+### philo_two
+
+- **동기화 메커니즘**: pthread + semaphore
+- **특징**:
+  - named semaphore를 사용하여 포크 관리
+  - semaphore를 통한 동시성 제어
+  - 각 철학자마다 개별 eating semaphore 사용
+  - `pickup`과 `putdown` semaphore로 포크 집기/놓기 동작 동기화
+
+### philo_three
+
+- **동기화 메커니즘**: process (fork) + semaphore
+- **특징**:
+  - 각 철학자가 별도의 프로세스로 실행
+  - 프로세스 간 통신을 위해 named semaphore 사용
+  - 부모 프로세스가 자식 프로세스들을 관리
+  - 철학자가 죽으면 모든 프로세스를 종료
+
+## 빌드 및 실행
+
+### 빌드
+
+각 디렉토리에서 개별적으로 빌드할 수 있다:
+
+```bash
+# philo_one 빌드
+cd philo_one
+make
+
+# philo_two 빌드
+cd philo_two
+make
+
+# philo_three 빌드
+cd philo_three
+make
+```
+
+### 정리
+
+```bash
+# 오브젝트 파일 삭제
+make clean
+
+# 실행 파일까지 삭제
+make fclean
+
+# 재빌드
+make re
+```
+
+## 사용법
+
+### 실행 형식
+
+```bash
+./philo_[one|two|three] number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
+```
+
+### 매개변수 설명
+
+1. **number_of_philosophers**: 철학자의 수 (최소 2명)
+2. **time_to_die**: 밀리초 단위. 철학자가 마지막 식사 후 이 시간 동안 식사를 하지 않으면 죽는다
+3. **time_to_eat**: 밀리초 단위. 철학자가 식사하는 데 걸리는 시간
+4. **time_to_sleep**: 밀리초 단위. 철학자가 잠을 자는 데 걸리는 시간
+5. **number_of_times_each_philosopher_must_eat** (선택): 각 철학자가 최소한 먹어야 하는 식사 횟수. 이 매개변수가 제공되면 모든 철학자가 이 횟수만큼 식사를 완료하면 시뮬레이션이 종료된다.
+
+### 실행 예제
+
+```bash
+# 기본 실행 (5명의 철학자, 800ms 내에 식사하지 않으면 죽음, 200ms 식사, 200ms 수면)
+./philo_one 5 800 200 200
+
+# 각 철학자가 7번씩 식사해야 하는 경우
+./philo_one 5 800 200 200 7
+
+# 다른 버전 실행
+./philo_two 4 410 200 200
+./philo_three 3 400 200 200 5
+```
+
+### 출력 형식
+
+프로그램은 다음과 같은 형식으로 상태를 출력한다:
+
+```
+[timestamp_in_ms] [philosopher_number] [status]
+```
+
+상태 종류:
+
+- `is thinking`: 철학자가 생각 중
+- `has taken a fork`: 포크를 집음
+- `is eating`: 식사 중
+- `is sleeping`: 잠자는 중
+- `died`: 죽음
+
+예시:
+
+```
+0 1 is thinking
+0 2 is thinking
+200 1 has taken a fork
+200 1 has taken a fork
+200 1 is eating
+400 1 is sleeping
+```
+
+## 프로젝트 구조 상세
+
+### 공통 파일 구조
+
+각 버전은 다음과 같은 파일 구조를 가지고 있다:
+
+- `main.c`: 프로그램 진입점, 인자 파싱, 초기화
+- `philo.c`: 철학자 로직 구현
+- `print.c`: 상태 출력 함수
+- `error.c`: 에러 처리 함수
+- `utils_1.c`, `utils_2.c`: 유틸리티 함수들
+- `inc/philosophers.h`: 메인 헤더 파일
+- `inc/struct.h`: 데이터 구조 정의
+
+### 주요 데이터 구조
+
+#### t_philo (철학자 구조체)
+
+```c
+typedef struct s_philo
+{
+    int             index;          // 철학자 인덱스
+    pthread_t       thread;         // 메인 스레드
+    pthread_t       mthread;        // 모니터링 스레드 (philo_one, philo_two)
+    int             num_eat;        // 식사 횟수
+    unsigned long   start_time;     // 시작 시간
+    unsigned long   last_eat_time;  // 마지막 식사 시간
+} t_philo;
+```
+
+#### t_global (전역 구조체)
+
+각 버전마다 약간씩 다르지만, 공통적으로 포함하는 필드:
+
+- `num_philo`: 철학자 수
+- `time_to_die`, `time_to_eat`, `time_to_sleep`: 시간 설정
+- `num_must_eat`: 필수 식사 횟수
+- `philos`: 철학자 배열
+- 동기화 객체들 (mutex 또는 semaphore)
+
+### 동기화 메커니즘 비교
+
+| 버전        | 동기화 방식         | 장점               | 단점                      |
+| ----------- | ------------------- | ------------------ | ------------------------- |
+| philo_one   | Mutex               | 간단하고 직관적    | 많은 mutex 필요           |
+| philo_two   | Semaphore           | 유연한 동시성 제어 | Named semaphore 관리 필요 |
+| philo_three | Process + Semaphore | 프로세스 격리      | 프로세스 관리 오버헤드    |
+
+## 주의사항
+
+1. **Named Semaphore 정리**: `philo_two`와 `philo_three`는 named semaphore를 사용하므로, 프로그램이 비정상 종료되면 semaphore가 남을 수 있다. 필요시 수동으로 정리해야 한다:
+
+   ```bash
+   # macOS/Linux에서 semaphore 확인 및 정리
+   ipcs -s  # semaphore 목록 확인
+   ipcrm -s <semid>  # 특정 semaphore 삭제
+   ```
+
+2. **타이밍**: 프로그램은 `usleep()`을 사용하여 시간을 제어하므로, 실제 시간은 시스템 부하에 따라 약간 다를 수 있다.
+
+3. **데드락 방지**: 각 버전은 서로 다른 방식으로 데드락을 방지한다:
+   - `philo_one`: 홀수/짝수 철학자 분리 및 `pickup` mutex 사용
+   - `philo_two`: `pickup` semaphore 사용
+   - `philo_three`: `pickup` semaphore 사용
+16:["$","article",null,{"children":["$","$L18",null,{"children":"$19"}]}]
+13:["$","$L1a",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+14:["$","$L1a",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$13:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:I[85584,[],"IconMark"]
+c:[["$","title","0",{"children":"philosophers | 박우림"}],["$","meta","1",{"name":"description","content":"philosophers는 ecole42의 프로젝트로, 식사하는 철학자 문제를 세 가지 다른 동기화 메커니즘(mutex, semaphore, process)으로 해결하는 프로젝트. 동시성 프로그래밍에서 자원 공유와 데드락 방지를 다루는 고전적인 문제를 통해 스레드, 프로세스, 동기화 기법 등 시스템 프로그래밍의 핵심 개념을 학습한다"}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"philosophers"}],["$","meta","6",{"property":"og:description","content":"philosophers는 ecole42의 프로젝트로, 식사하는 철학자 문제를 세 가지 다른 동기화 메커니즘(mutex, semaphore, process)으로 해결하는 프로젝트. 동시성 프로그래밍에서 자원 공유와 데드락 방지를 다루는 고전적인 문제를 통해 스레드, 프로세스, 동기화 기법 등 시스템 프로그래밍의 핵심 개념을 학습한다"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/philosophers"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=philosophers"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"philosophers"}],["$","meta","12",{"name":"twitter:description","content":"philosophers는 ecole42의 프로젝트로, 식사하는 철학자 문제를 세 가지 다른 동기화 메커니즘(mutex, semaphore, process)으로 해결하는 프로젝트. 동시성 프로그래밍에서 자원 공유와 데드락 방지를 다루는 고전적인 문제를 통해 스레드, 프로세스, 동기화 기법 등 시스템 프로그래밍의 핵심 개념을 학습한다"}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=philosophers"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?e3def52d4ef9a976","type":"image/x-icon","sizes":"16x16"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1b","19",{}]]
+8:null

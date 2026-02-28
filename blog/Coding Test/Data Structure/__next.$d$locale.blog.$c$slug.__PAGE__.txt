@@ -1,0 +1,806 @@
+1:"$Sreact.fragment"
+2:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"default"]
+3:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlurFade"]
+4:I[25417,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-6139f8dec0b22e57.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-b33400911b20deaf.js"],"BlogArticleCard"]
+9:I[64725,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T19c71,<h2 id="배열-array"><a class="heading-link" aria-hidden="true" href="#배열-array">배열 (Array)</a></h2>
+<p>배열은 연속된 메모리 공간에 저장된 동일한 타입의 데이터 집합이다. 인덱스를 통해 O(1) 시간에 접근할 수 있지만, 삽입/삭제 시 O(n) 시간이 걸린다.</p>
+<h3 id="특징"><a class="heading-link" aria-hidden="true" href="#특징">특징</a></h3>
+<ul>
+<li><strong>접근</strong>: O(1) - 인덱스로 직접 접근</li>
+<li><strong>검색</strong>: O(n) - 선형 검색 필요</li>
+<li><strong>삽입</strong>: O(n) - 요소 이동 필요</li>
+<li><strong>삭제</strong>: O(n) - 요소 이동 필요</li>
+</ul>
+<h3 id="python-예제"><a class="heading-link" aria-hidden="true" href="#python-예제">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Python 리스트는 동적 배열로 구현됨</span></span>
+<span data-line=""><span style="color:#C8D3F5">arr </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> [</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 2</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 3</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 4</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 5</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 접근: O(1)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">arr</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">])</span><span style="color:#858AA6">  # 1</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 삽입: O(n)</span></span>
+<span data-line=""><span style="color:#C8D3F5">arr</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # [1, 2, 10, 3, 4, 5]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 삭제: O(n)</span></span>
+<span data-line=""><span style="color:#C8D3F5">arr</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">remove</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">10</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # [1, 2, 3, 4, 5]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 검색: O(n)</span></span>
+<span data-line=""><span style="color:#C8D3F5">index </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> arr</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">index</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 2</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Python 리스트는 동적 배열로 구현됨
+arr = [1, 2, 3, 4, 5]
+
+# 접근: O(1)
+print(arr[0])  # 1
+
+# 삽입: O(n)
+arr.insert(2, 10)  # [1, 2, 10, 3, 4, 5]
+
+# 삭제: O(n)
+arr.remove(10)  # [1, 2, 3, 4, 5]
+
+# 검색: O(n)
+index = arr.index(3)  # 2" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="링크드리스트-linked-list"><a class="heading-link" aria-hidden="true" href="#링크드리스트-linked-list">링크드리스트 (Linked List)</a></h2>
+<p>링크드리스트는 노드들이 포인터로 연결된 자료구조이다. 각 노드는 데이터와 다음 노드를 가리키는 포인터를 포함한다. 삽입/삭제는 O(1)이지만 접근은 O(n)이다.</p>
+<h3 id="특징-1"><a class="heading-link" aria-hidden="true" href="#특징-1">특징</a></h3>
+<ul>
+<li><strong>접근</strong>: O(n) - 순차 탐색 필요</li>
+<li><strong>검색</strong>: O(n) - 순차 탐색 필요</li>
+<li><strong>삽입</strong>: O(1) - 포인터만 변경</li>
+<li><strong>삭제</strong>: O(1) - 포인터만 변경</li>
+</ul>
+<h3 id="python-예제-1"><a class="heading-link" aria-hidden="true" href="#python-예제-1">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Node</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> data</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next </span><span style="color:#86E1FC">=</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> LinkedList</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head </span><span style="color:#86E1FC">=</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> append</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        new_node </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> Node</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#86E1FC"> not</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> new_node</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span></span>
+<span data-line=""><span style="color:#C8D3F5">        current </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span></span>
+<span data-line=""><span style="color:#86E1FC">        while</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">            current </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span></span>
+<span data-line=""><span style="color:#C8D3F5">        current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> new_node</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> prepend</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        new_node </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> Node</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">        new_node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> new_node</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> delete</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#86E1FC"> not</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data </span><span style="color:#86E1FC">==</span><span style="color:#C8D3F5"> data</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span></span>
+<span data-line=""><span style="color:#C8D3F5">        current </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span></span>
+<span data-line=""><span style="color:#86E1FC">        while</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data </span><span style="color:#86E1FC">==</span><span style="color:#C8D3F5"> data</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">                current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span></span>
+<span data-line=""><span style="color:#86E1FC">                return</span></span>
+<span data-line=""><span style="color:#C8D3F5">            current </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> display</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        elements </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> []</span></span>
+<span data-line=""><span style="color:#C8D3F5">        current </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">head</span></span>
+<span data-line=""><span style="color:#86E1FC">        while</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">            elements</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">            current </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> current</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">next</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#C8D3F5"> elements</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 사용 예제</span></span>
+<span data-line=""><span style="color:#C8D3F5">ll </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> LinkedList</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">prepend</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">display</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">  # [0, 1, 2, 3]</span></span>
+<span data-line=""><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">delete</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">ll</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">display</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">  # [0, 1, 3]</span></span><button type="button" title="Copy code" aria-label="Copy code" data="class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        current = self.head
+        while current.next:
+            current = current.next
+        current.next = new_node
+
+    def prepend(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+
+    def delete(self, data):
+        if not self.head:
+            return
+        if self.head.data == data:
+            self.head = self.head.next
+            return
+        current = self.head
+        while current.next:
+            if current.next.data == data:
+                current.next = current.next.next
+                return
+            current = current.next
+
+    def display(self):
+        elements = []
+        current = self.head
+        while current:
+            elements.append(current.data)
+            current = current.next
+        return elements
+
+# 사용 예제
+ll = LinkedList()
+ll.append(1)
+ll.append(2)
+ll.append(3)
+ll.prepend(0)
+print(ll.display())  # [0, 1, 2, 3]
+ll.delete(2)
+print(ll.display())  # [0, 1, 3]" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="스택-stack"><a class="heading-link" aria-hidden="true" href="#스택-stack">스택 (Stack)</a></h2>
+<p>스택은 LIFO(Last In First Out) 원칙을 따르는 자료구조이다. 한쪽 끝에서만 삽입과 삭제가 이루어진다.</p>
+<h3 id="특징-2"><a class="heading-link" aria-hidden="true" href="#특징-2">특징</a></h3>
+<ul>
+<li><strong>push</strong>: O(1) - 맨 위에 추가</li>
+<li><strong>pop</strong>: O(1) - 맨 위에서 제거</li>
+<li><strong>peek</strong>: O(1) - 맨 위 요소 확인</li>
+</ul>
+<h3 id="python-예제-2"><a class="heading-link" aria-hidden="true" href="#python-예제-2">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Stack</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> []</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> push</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> item</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">item</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> pop</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">is_empty</span><span style="color:#86E1FC">():</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">pop</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> peek</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">is_empty</span><span style="color:#86E1FC">():</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">[-</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> is_empty</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#65BCFF"> len</span><span style="color:#86E1FC">(</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> ==</span><span style="color:#FF966C"> 0</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> size</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#65BCFF"> len</span><span style="color:#86E1FC">(</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 사용 예제</span></span>
+<span data-line=""><span style="color:#C8D3F5">stack </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> Stack</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">stack</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">push</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">stack</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">push</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">stack</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">push</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">stack</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">peek</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">  # 3</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">stack</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">pop</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">   # 3</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">stack</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">pop</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">   # 2</span></span><button type="button" title="Copy code" aria-label="Copy code" data="class Stack:
+    def __init__(self):
+        self.items = []
+
+    def push(self, item):
+        self.items.append(item)
+
+    def pop(self):
+        if self.is_empty():
+            return None
+        return self.items.pop()
+
+    def peek(self):
+        if self.is_empty():
+            return None
+        return self.items[-1]
+
+    def is_empty(self):
+        return len(self.items) == 0
+
+    def size(self):
+        return len(self.items)
+
+# 사용 예제
+stack = Stack()
+stack.push(1)
+stack.push(2)
+stack.push(3)
+print(stack.peek())  # 3
+print(stack.pop())   # 3
+print(stack.pop())   # 2" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="큐-queue"><a class="heading-link" aria-hidden="true" href="#큐-queue">큐 (Queue)</a></h2>
+<p>큐는 FIFO(First In First Out) 원칙을 따르는 자료구조이다. 한쪽 끝에서 삽입, 다른 쪽 끝에서 삭제가 이루어진다.</p>
+<h3 id="특징-3"><a class="heading-link" aria-hidden="true" href="#특징-3">특징</a></h3>
+<ul>
+<li><strong>enqueue</strong>: O(1) - 뒤에 추가</li>
+<li><strong>dequeue</strong>: O(1) - 앞에서 제거</li>
+<li><strong>front</strong>: O(1) - 앞 요소 확인</li>
+</ul>
+<h3 id="python-예제-3"><a class="heading-link" aria-hidden="true" href="#python-예제-3">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Queue</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> []</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> enqueue</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> item</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">item</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> dequeue</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">is_empty</span><span style="color:#86E1FC">():</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">pop</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> front</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">is_empty</span><span style="color:#86E1FC">():</span></span>
+<span data-line=""><span style="color:#86E1FC">            return</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> is_empty</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#65BCFF"> len</span><span style="color:#86E1FC">(</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> ==</span><span style="color:#FF966C"> 0</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> size</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#65BCFF"> len</span><span style="color:#86E1FC">(</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">items</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 사용 예제</span></span>
+<span data-line=""><span style="color:#C8D3F5">queue </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> Queue</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">enqueue</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">enqueue</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">enqueue</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">front</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">  # 1</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">dequeue</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">  # 1</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">dequeue</span><span style="color:#86E1FC">())</span><span style="color:#858AA6">  # 2</span></span><button type="button" title="Copy code" aria-label="Copy code" data="class Queue:
+    def __init__(self):
+        self.items = []
+
+    def enqueue(self, item):
+        self.items.append(item)
+
+    def dequeue(self):
+        if self.is_empty():
+            return None
+        return self.items.pop(0)
+
+    def front(self):
+        if self.is_empty():
+            return None
+        return self.items[0]
+
+    def is_empty(self):
+        return len(self.items) == 0
+
+    def size(self):
+        return len(self.items)
+
+# 사용 예제
+queue = Queue()
+queue.enqueue(1)
+queue.enqueue(2)
+queue.enqueue(3)
+print(queue.front())  # 1
+print(queue.dequeue())  # 1
+print(queue.dequeue())  # 2" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="트리-tree"><a class="heading-link" aria-hidden="true" href="#트리-tree">트리 (Tree)</a></h2>
+<p>트리는 노드들이 계층 구조로 연결된 자료구조이다. 루트 노드에서 시작하여 각 노드는 여러 자식 노드를 가질 수 있다.</p>
+<h3 id="이진-트리-binary-tree"><a class="heading-link" aria-hidden="true" href="#이진-트리-binary-tree">이진 트리 (Binary Tree)</a></h3>
+<p>각 노드가 최대 2개의 자식을 가지는 트리이다.</p>
+<h3 id="특징-4"><a class="heading-link" aria-hidden="true" href="#특징-4">특징</a></h3>
+<ul>
+<li><strong>검색</strong>: O(log n) - 균형 트리인 경우</li>
+<li><strong>삽입</strong>: O(log n) - 균형 트리인 경우</li>
+<li><strong>삭제</strong>: O(log n) - 균형 트리인 경우</li>
+</ul>
+<h3 id="python-예제-4"><a class="heading-link" aria-hidden="true" href="#python-예제-4">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> TreeNode</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> data</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left </span><span style="color:#86E1FC">=</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right </span><span style="color:#86E1FC">=</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> BinaryTree</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root </span><span style="color:#86E1FC">=</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> insert</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#86E1FC"> not</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> TreeNode</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">        else:</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">_insert</span><span style="color:#86E1FC">(</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> _insert</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> node</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> data</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#C8D3F5"> data </span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C8D3F5"> node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left </span><span style="color:#86E1FC">is</span><span style="color:#FF98A4"> None</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">                node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> TreeNode</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">            else:</span></span>
+<span data-line=""><span style="color:#FF757F">                self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">_insert</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">        else:</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right </span><span style="color:#86E1FC">is</span><span style="color:#FF98A4"> None</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">                node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> TreeNode</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">            else:</span></span>
+<span data-line=""><span style="color:#FF757F">                self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">_insert</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> data</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> inorder</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> node</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#C8D3F5"> node</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">inorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">            print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">inorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> preorder</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> node</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#C8D3F5"> node</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#65BCFF">            print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">preorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">preorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> postorder</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> node</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#C8D3F5"> node</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">postorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">left</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">            self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">postorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">right</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">            print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 사용 예제</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> BinaryTree</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">5</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">7</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">4</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">6</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">8</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">Inorder:</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">inorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 2 3 4 5 6 7 8</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"\n</span><span style="color:#C3E88D">Preorder:</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">preorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 5 3 2 4 7 6 8</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"\n</span><span style="color:#C3E88D">Postorder:</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">postorder</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">tree</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">root</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 2 4 3 6 8 7 5</span></span><button type="button" title="Copy code" aria-label="Copy code" data="class TreeNode:
+    def __init__(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
+
+class BinaryTree:
+    def __init__(self):
+        self.root = None
+
+    def insert(self, data):
+        if not self.root:
+            self.root = TreeNode(data)
+        else:
+            self._insert(self.root, data)
+
+    def _insert(self, node, data):
+        if data < node.data:
+            if node.left is None:
+                node.left = TreeNode(data)
+            else:
+                self._insert(node.left, data)
+        else:
+            if node.right is None:
+                node.right = TreeNode(data)
+            else:
+                self._insert(node.right, data)
+
+    def inorder(self, node):
+        if node:
+            self.inorder(node.left)
+            print(node.data, end=&#x27; &#x27;)
+            self.inorder(node.right)
+
+    def preorder(self, node):
+        if node:
+            print(node.data, end=&#x27; &#x27;)
+            self.preorder(node.left)
+            self.preorder(node.right)
+
+    def postorder(self, node):
+        if node:
+            self.postorder(node.left)
+            self.postorder(node.right)
+            print(node.data, end=&#x27; &#x27;)
+
+# 사용 예제
+tree = BinaryTree()
+tree.insert(5)
+tree.insert(3)
+tree.insert(7)
+tree.insert(2)
+tree.insert(4)
+tree.insert(6)
+tree.insert(8)
+
+print(&#x22;Inorder:&#x22;, end=&#x27; &#x27;)
+tree.inorder(tree.root)  # 2 3 4 5 6 7 8
+print(&#x22;\nPreorder:&#x22;, end=&#x27; &#x27;)
+tree.preorder(tree.root)  # 5 3 2 4 7 6 8
+print(&#x22;\nPostorder:&#x22;, end=&#x27; &#x27;)
+tree.postorder(tree.root)  # 2 4 3 6 8 7 5" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="힙-heap"><a class="heading-link" aria-hidden="true" href="#힙-heap">힙 (Heap)</a></h2>
+<p>힙은 완전 이진 트리 기반의 우선순위 큐 자료구조이다. 최소 힙은 부모가 자식보다 작고, 최대 힙은 부모가 자식보다 크다.</p>
+<h3 id="특징-5"><a class="heading-link" aria-hidden="true" href="#특징-5">특징</a></h3>
+<ul>
+<li><strong>삽입</strong>: O(log n)</li>
+<li><strong>삭제</strong>: O(log n)</li>
+<li><strong>최소/최대값 접근</strong>: O(1)</li>
+</ul>
+<h3 id="python-예제-5"><a class="heading-link" aria-hidden="true" href="#python-예제-5">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> heapq</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Python의 heapq 모듈은 최소 힙을 제공</span></span>
+<span data-line=""><span style="color:#C8D3F5">heap </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> []</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 삽입: O(log n)</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 5</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 7</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 1</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # [1, 3, 7, 5] - 최소값이 맨 앞</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 최소값 제거: O(log n)</span></span>
+<span data-line=""><span style="color:#C8D3F5">min_val </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappop</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">min_val</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 1</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # [3, 5, 7]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 최소값 확인: O(1)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">heap</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">])</span><span style="color:#858AA6">  # 3</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 최대 힙 구현 (음수 사용)</span></span>
+<span data-line=""><span style="color:#C8D3F5">max_heap </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> []</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">max_heap</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> -</span><span style="color:#FF966C">5</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">max_heap</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> -</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappush</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">max_heap</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> -</span><span style="color:#FF966C">7</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">max_val </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> -</span><span style="color:#C8D3F5">heapq</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">heappop</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">max_heap</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">max_val</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 7</span></span><button type="button" title="Copy code" aria-label="Copy code" data="import heapq
+
+# Python의 heapq 모듈은 최소 힙을 제공
+heap = []
+
+# 삽입: O(log n)
+heapq.heappush(heap, 5)
+heapq.heappush(heap, 3)
+heapq.heappush(heap, 7)
+heapq.heappush(heap, 1)
+
+print(heap)  # [1, 3, 7, 5] - 최소값이 맨 앞
+
+# 최소값 제거: O(log n)
+min_val = heapq.heappop(heap)
+print(min_val)  # 1
+print(heap)  # [3, 5, 7]
+
+# 최소값 확인: O(1)
+print(heap[0])  # 3
+
+# 최대 힙 구현 (음수 사용)
+max_heap = []
+heapq.heappush(max_heap, -5)
+heapq.heappush(max_heap, -3)
+heapq.heappush(max_heap, -7)
+max_val = -heapq.heappop(max_heap)
+print(max_val)  # 7" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="해시-hash"><a class="heading-link" aria-hidden="true" href="#해시-hash">해시 (Hash)</a></h2>
+<p>해시 테이블은 키-값 쌍을 저장하는 자료구조이다. 해시 함수를 사용하여 키를 인덱스로 변환하여 O(1) 평균 시간에 접근할 수 있다.</p>
+<h3 id="특징-6"><a class="heading-link" aria-hidden="true" href="#특징-6">특징</a></h3>
+<ul>
+<li><strong>삽입</strong>: O(1) 평균, O(n) 최악</li>
+<li><strong>검색</strong>: O(1) 평균, O(n) 최악</li>
+<li><strong>삭제</strong>: O(1) 평균, O(n) 최악</li>
+</ul>
+<h3 id="python-예제-6"><a class="heading-link" aria-hidden="true" href="#python-예제-6">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Python의 dict는 해시 테이블로 구현됨</span></span>
+<span data-line=""><span style="color:#C8D3F5">hash_map </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> {}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 삽입: O(1)</span></span>
+<span data-line=""><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">apple</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 5</span></span>
+<span data-line=""><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">banana</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 3</span></span>
+<span data-line=""><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">cherry</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 8</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 검색: O(1)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">apple</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">])</span><span style="color:#858AA6">  # 5</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">banana</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">))</span><span style="color:#858AA6">  # 3</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">grape</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">))</span><span style="color:#858AA6">  # 0 (키가 없으면 기본값 반환)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 삭제: O(1)</span></span>
+<span data-line=""><span style="color:#86E1FC">del</span><span style="color:#C8D3F5"> hash_map</span><span style="color:#86E1FC">[</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">cherry</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">hash_map</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # {'apple': 5, 'banana': 3}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 해시 충돌 처리 예제 (체이닝 방식)</span></span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> HashTable</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> size</span><span style="color:#86E1FC">=</span><span style="color:#FF966C">10</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">size </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> size</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">table </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> [[]</span><span style="color:#86E1FC"> for</span><span style="color:#C8D3F5"> _ </span><span style="color:#86E1FC">in</span><span style="color:#65BCFF"> range</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">size</span><span style="color:#86E1FC">)]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> _hash</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> key</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#65BCFF"> hash</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">key</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> %</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">size</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> insert</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> key</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> value</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        index </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">_hash</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">key</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">        for</span><span style="color:#C8D3F5"> pair </span><span style="color:#86E1FC">in</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">table</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">index</span><span style="color:#86E1FC">]:</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> pair</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> ==</span><span style="color:#C8D3F5"> key</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">                pair</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> =</span><span style="color:#C8D3F5"> value</span></span>
+<span data-line=""><span style="color:#86E1FC">                return</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">table</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">index</span><span style="color:#86E1FC">].</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">([</span><span style="color:#C8D3F5">key</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> value</span><span style="color:#86E1FC">])</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> get</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> key</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        index </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">_hash</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">key</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">        for</span><span style="color:#C8D3F5"> pair </span><span style="color:#86E1FC">in</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">table</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">index</span><span style="color:#86E1FC">]:</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> pair</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> ==</span><span style="color:#C8D3F5"> key</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#86E1FC">                return</span><span style="color:#C8D3F5"> pair</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""><span style="color:#86E1FC">        return</span><span style="color:#FF98A4"> None</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> delete</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> key</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        index </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">_hash</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">key</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">        for</span><span style="color:#C8D3F5"> i</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> pair </span><span style="color:#86E1FC">in</span><span style="color:#65BCFF"> enumerate</span><span style="color:#86E1FC">(</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">table</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">index</span><span style="color:#86E1FC">]):</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> pair</span><span style="color:#86E1FC">[</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">]</span><span style="color:#86E1FC"> ==</span><span style="color:#C8D3F5"> key</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#86E1FC">                del</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">table</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">index</span><span style="color:#86E1FC">][</span><span style="color:#C8D3F5">i</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""><span style="color:#86E1FC">                return</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 사용 예제</span></span>
+<span data-line=""><span style="color:#C8D3F5">ht </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> HashTable</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">ht</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">apple</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 5</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">ht</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">insert</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">banana</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">ht</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">apple</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">))</span><span style="color:#858AA6">  # 5</span></span>
+<span data-line=""><span style="color:#C8D3F5">ht</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">delete</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">banana</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">ht</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">banana</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">))</span><span style="color:#858AA6">  # None</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Python의 dict는 해시 테이블로 구현됨
+hash_map = {}
+
+# 삽입: O(1)
+hash_map[&#x27;apple&#x27;] = 5
+hash_map[&#x27;banana&#x27;] = 3
+hash_map[&#x27;cherry&#x27;] = 8
+
+# 검색: O(1)
+print(hash_map[&#x27;apple&#x27;])  # 5
+print(hash_map.get(&#x27;banana&#x27;))  # 3
+print(hash_map.get(&#x27;grape&#x27;, 0))  # 0 (키가 없으면 기본값 반환)
+
+# 삭제: O(1)
+del hash_map[&#x27;cherry&#x27;]
+print(hash_map)  # {&#x27;apple&#x27;: 5, &#x27;banana&#x27;: 3}
+
+# 해시 충돌 처리 예제 (체이닝 방식)
+class HashTable:
+    def __init__(self, size=10):
+        self.size = size
+        self.table = [[] for _ in range(size)]
+
+    def _hash(self, key):
+        return hash(key) % self.size
+
+    def insert(self, key, value):
+        index = self._hash(key)
+        for pair in self.table[index]:
+            if pair[0] == key:
+                pair[1] = value
+                return
+        self.table[index].append([key, value])
+
+    def get(self, key):
+        index = self._hash(key)
+        for pair in self.table[index]:
+            if pair[0] == key:
+                return pair[1]
+        return None
+
+    def delete(self, key):
+        index = self._hash(key)
+        for i, pair in enumerate(self.table[index]):
+            if pair[0] == key:
+                del self.table[index][i]
+                return
+
+# 사용 예제
+ht = HashTable()
+ht.insert(&#x27;apple&#x27;, 5)
+ht.insert(&#x27;banana&#x27;, 3)
+print(ht.get(&#x27;apple&#x27;))  # 5
+ht.delete(&#x27;banana&#x27;)
+print(ht.get(&#x27;banana&#x27;))  # None" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="그래프-graph"><a class="heading-link" aria-hidden="true" href="#그래프-graph">그래프 (Graph)</a></h2>
+<p>그래프는 정점(Vertex)과 간선(Edge)으로 구성된 자료구조이다. 정점들 간의 관계를 표현하는 조직도로 그래프는 정점마다 간선이 없을수도 있고 있을수도 있으며 루트 노드, 부모와 자식이라는 개념이 존재하지 않는 부분에서 트리와 다르다.</p>
+<ul>
+<li>정점(Vertex): 노드(node)라고도 하며, 정점에는 데이터가 저장된다.</li>
+<li>간선(Edge): 노드간의 관계를 나타낸다.</li>
+</ul>
+<h3 id="특징-7"><a class="heading-link" aria-hidden="true" href="#특징-7">특징</a></h3>
+<ul>
+<li><strong>인접 리스트</strong>: 공간 O(V + E), 간선 확인 O(degree)</li>
+<li><strong>인접 행렬</strong>: 공간 O(V²), 간선 확인 O(1)</li>
+</ul>
+<h3 id="python-예제-7"><a class="heading-link" aria-hidden="true" href="#python-예제-7">Python 예제</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> collections </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> defaultdict</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Graph</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">graph </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> defaultdict</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">list</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> add_edge</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> u</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> v</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">graph</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">u</span><span style="color:#86E1FC">].</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">v</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#858AA6">        # 무방향 그래프인 경우</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">graph</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">v</span><span style="color:#86E1FC">].</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">u</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> dfs</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> start</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> visited</span><span style="color:#86E1FC">=</span><span style="color:#FF98A4">None</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#86E1FC">        if</span><span style="color:#C8D3F5"> visited </span><span style="color:#86E1FC">is</span><span style="color:#FF98A4"> None</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">            visited </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> set</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">        visited</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">start</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">        print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">start</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">        for</span><span style="color:#C8D3F5"> neighbor </span><span style="color:#86E1FC">in</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">graph</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">start</span><span style="color:#86E1FC">]:</span></span>
+<span data-line=""><span style="color:#86E1FC">            if</span><span style="color:#C8D3F5"> neighbor </span><span style="color:#86E1FC">not</span><span style="color:#86E1FC"> in</span><span style="color:#C8D3F5"> visited</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#FF757F">                self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">dfs</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">neighbor</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> visited</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> bfs</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> start</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        visited </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> set</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">        queue </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> [</span><span style="color:#C8D3F5">start</span><span style="color:#86E1FC">]</span></span>
+<span data-line=""><span style="color:#C8D3F5">        visited</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">start</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">        while</span><span style="color:#C8D3F5"> queue</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">            vertex </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">pop</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#65BCFF">            print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">vertex</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">            for</span><span style="color:#C8D3F5"> neighbor </span><span style="color:#86E1FC">in</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">graph</span><span style="color:#86E1FC">[</span><span style="color:#C8D3F5">vertex</span><span style="color:#86E1FC">]:</span></span>
+<span data-line=""><span style="color:#86E1FC">                if</span><span style="color:#C8D3F5"> neighbor </span><span style="color:#86E1FC">not</span><span style="color:#86E1FC"> in</span><span style="color:#C8D3F5"> visited</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">                    visited</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">neighbor</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">                    queue</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">append</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">neighbor</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 사용 예제</span></span>
+<span data-line=""><span style="color:#C8D3F5">g </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> Graph</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add_edge</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 1</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add_edge</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add_edge</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 2</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add_edge</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">2</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 3</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">add_edge</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">3</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 4</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">DFS:</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">dfs</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 0 1 2 3 4</span></span>
+<span data-line=""><span style="color:#65BCFF">print</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"\n</span><span style="color:#C3E88D">BFS:</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> end</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC"> '</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">g</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">bfs</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">0</span><span style="color:#86E1FC">)</span><span style="color:#858AA6">  # 0 1 2 3 4</span></span><button type="button" title="Copy code" aria-label="Copy code" data="from collections import defaultdict
+
+class Graph:
+    def __init__(self):
+        self.graph = defaultdict(list)
+
+    def add_edge(self, u, v):
+        self.graph[u].append(v)
+        # 무방향 그래프인 경우
+        self.graph[v].append(u)
+
+    def dfs(self, start, visited=None):
+        if visited is None:
+            visited = set()
+        visited.add(start)
+        print(start, end=&#x27; &#x27;)
+
+        for neighbor in self.graph[start]:
+            if neighbor not in visited:
+                self.dfs(neighbor, visited)
+
+    def bfs(self, start):
+        visited = set()
+        queue = [start]
+        visited.add(start)
+
+        while queue:
+            vertex = queue.pop(0)
+            print(vertex, end=&#x27; &#x27;)
+
+            for neighbor in self.graph[vertex]:
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    queue.append(neighbor)
+
+# 사용 예제
+g = Graph()
+g.add_edge(0, 1)
+g.add_edge(0, 2)
+g.add_edge(1, 2)
+g.add_edge(2, 3)
+g.add_edge(3, 4)
+
+print(&#x22;DFS:&#x22;, end=&#x27; &#x27;)
+g.dfs(0)  # 0 1 2 3 4
+print(&#x22;\nBFS:&#x22;, end=&#x27; &#x27;)
+g.bfs(0)  # 0 1 2 3 4" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="자료구조-비교"><a class="heading-link" aria-hidden="true" href="#자료구조-비교">자료구조 비교</a></h2>
+<table>
+<thead>
+<tr>
+<th>자료구조</th>
+<th>접근</th>
+<th>검색</th>
+<th>삽입</th>
+<th>삭제</th>
+<th>공간 복잡도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>배열</td>
+<td>O(1)</td>
+<td>O(n)</td>
+<td>O(n)</td>
+<td>O(n)</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>링크드리스트</td>
+<td>O(n)</td>
+<td>O(n)</td>
+<td>O(1)</td>
+<td>O(1)</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>스택</td>
+<td>O(n)</td>
+<td>O(n)</td>
+<td>O(1)</td>
+<td>O(1)</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>큐</td>
+<td>O(n)</td>
+<td>O(n)</td>
+<td>O(1)</td>
+<td>O(1)</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>이진 트리</td>
+<td>O(log n)</td>
+<td>O(log n)</td>
+<td>O(log n)</td>
+<td>O(log n)</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>힙</td>
+<td>O(1)*</td>
+<td>O(n)</td>
+<td>O(log n)</td>
+<td>O(log n)</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>해시 테이블</td>
+<td>O(1)*</td>
+<td>O(1)*</td>
+<td>O(1)*</td>
+<td>O(1)*</td>
+<td>O(n)</td>
+</tr>
+<tr>
+<td>그래프</td>
+<td>O(V+E)</td>
+<td>O(V+E)</td>
+<td>O(1)</td>
+<td>O(1)</td>
+<td>O(V+E)</td>
+</tr>
+</tbody>
+</table>
+<p>*평균 시간 복잡도</p>0:{"buildId":"7wrLch1PHmN9S3I0q82uc","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/Coding Test","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Coding Test","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/Coding Test/Data Structure","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Data Structure","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}]]}]}],["$","$L3",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"Data Structure"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L4","Coding Test/Data Structure/intro",{"post":{"metadata":{"title":"자료구조 개념정리","summary":"배열, 링크드리스트, 스택, 큐, 트리, 힙, 해시, 그래프 등 주요 자료구조의 개념과 Python 구현 예제를 정리한다.","locale":"ko","createdAt":"2026-01-05T22:52:52.000Z","updatedAt":"2026-01-05T22:52:52.000Z"},"slug":"Coding Test/Data Structure/intro","source":"$5","type":"markdown","parentFolder":"Data Structure"},"locale":"ko","delay":0.08}]]}],"$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+6:null
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
