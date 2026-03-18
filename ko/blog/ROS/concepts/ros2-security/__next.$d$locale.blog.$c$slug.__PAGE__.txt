@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"intermediate - ros2 security"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"intermediate - ros2 security\",\"description\":\"ROS 2 보안(암호화·인증·접근 제어), Security Enclave·보안 파일 6종, 환경 변수(ROS_SECURITY_ENABLE·STRATEGY) 정리\",\"image\":\"https://woolimi.github.io/og?title=intermediate - ros2 security\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/ros2-security\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"intermediate - ros2 security"}]
+9:T10fe,
+## Overview
+
+ROS 2는 **ROS 2 계산 그래프 안의 노드 간 통신**을 보호할 수 있다. 디스커버리처럼 **미들웨어**를 통해 동작하며(해당 보안 플러그인을 지원하는 경우), **추가 소프트웨어 설치 없이** 설정만으로 활성화할 수 있다. 대신 **그래프 참여자마다 설정 파일**이 필요하다. 이 파일들로 **암호화·인증**을 켜고, **노드 단위·전체 그래프** 정책을 정의한다. 보안 동작을 켜고 끄는 **마스터 온/오프 스위치**도 있다.
+
+신뢰 기준(trust anchor)은 ROS 유틸로 만들거나 **외부 인증 기관(CA)** 를 쓸 수 있다. 제공되는 기능: 통신 **암호화**, 참여자 **인증**, 데이터 **무결성**, **도메인 전체 접근 제어**.
+
+보안 서비스는 노드 간 통신에 쓰이는 **DDS(Data Distribution Service)** 가 제공한다. DDS Security 사양에 따라 보안 플러그인이 포함되며, ROS는 이 플러그인을 이용해 **정책 기반 암호화·인증·접근 제어**를 한다. **설정 파일**과 **환경 변수**로 활성화한다.
+
+## The Security Enclave (보안 엔클레이브)
+
+**Security Enclave**는 ROS 통신을 보호하기 위한 **단일 정책**을 담는 단위다. 한 엔클레이브가 **여러 노드**, **전체 ROS 그래프**, 또는 보호할 프로세스·기기의 **조합**에 정책을 적용할 수 있다. 배포 시 **프로세스·사용자·기기**에 유연하게 매핑할 수 있다. 자세한 설계는 [ROS 2 Security Enclaves](https://design.ros.org/articles/ros2_security_enclaves.html) 문서 참고.
+
+## Security Files (보안 파일)
+
+DDS 사양에 따라 한 엔클레이브는 **6개 파일**로 정의된다. **3개는 엔클레이브 신원(identity)**, **3개는 권한(permissions)** 이다. 6개 모두 **한 디렉터리**에 두고, 엔클레이브 경로를 지정하지 않고 띄운 노드는 **기본 루트 엔클레이브**의 파일을 사용한다.
+
+### Enclave Identity (신원)
+
+| 파일 | 역할 |
+|------|------|
+| **identity_ca.cert.pem** | 참여자 **식별**용 **신뢰 기준(Trust Anchor)**. |
+| **cert.pem** | 이 엔클레이브의 **고유 인증서**. Identity CA로 서명됨. |
+| **key.pem** | 위 인증서에 대응하는 **비밀키**. 공유하지 않고, 복호화·서명에만 사용. |
+
+참여자가 `cert.pem`을 제시하면, 다른 참여자는 자신이 가진 Identity CA로 **신원을 검증**할 수 있다. 이렇게 신뢰된 통신이 수립된다.
+
+### Enclave Permissions (권한)
+
+| 파일 | 역할 |
+|------|------|
+| **permissions_ca.cert.pem** | 권한 부여용 **신뢰 기준**. |
+| **governance.p7s** | **도메인 전체** 보호 정책이 담긴 서명된 XML. Permissions CA로 서명. |
+| **permissions.p7s** | **이 엔클레이브**의 권한이 담긴 서명된 XML. Permissions CA로 서명. |
+
+도메인 참여자는 Permissions CA 사본으로 이 서명된 파일들을 검증해 요청된 접근을 허용한다. 실무에서는 **동일한 인증서**가 Identity CA와 Permissions CA 둘 다로 쓰이는 경우가 많다.
+
+### Private Keys (비밀키)
+
+Identity·Permissions 인증서에는 각각 **비밀키**가 있다. 새 엔클레이브를 추가할 때: **Identity CA 비밀키**로 CSR(Certificate Signing Request)에 서명하고, **Permissions CA 비밀키**로 권한 XML에 서명해 권한을 부여한다.
+
+## Security Environment Variables (환경 변수)
+
+| 변수 | 설명 |
+|------|------|
+| **ROS_SECURITY_ENABLE** | 보안 기능 **온/오프**. 기본값은 꺼짐. 켜려면 `true`(대소문자 구분). |
+| **ROS_SECURITY_STRATEGY** | 보안이 켜진 뒤, **설정이 잘못된 참여자**를 어떻게 할지. 기본은 **설정 오류여도 기동은 허용**(보안만 비활성). **엄격히 맞추려면** `Enforce`로 설정해, 비준수 엔클레이브는 **기동 실패**하게 할 수 있다. |
+
+그 외 엔클레이브·보안 파일 경로 관련 변수는 [ROS 2 DDS-Security Integration](https://design.ros.org/articles/ros2_dds_security.html) 설계 문서 참고.
+
+## Learn More
+
+실습: [Setting up security](https://docs.ros.org/en/jazzy/How-To-Guides/Setting-Up-Security.html).
+
+---
+
+**참고**: [ROS 2 Security — ROS 2 Jazzy](https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Security.html)
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

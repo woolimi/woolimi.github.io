@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"intermediate - Logging and logger configuration"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"intermediate - Logging and logger configuration\",\"description\":\"ROS 2 로깅 개요, 심각도 레벨·로거 계층, C++/Python API, 환경 변수·노드 옵션 설정, 로깅 서브시스템 구조 요약\",\"image\":\"https://woolimi.github.io/og?title=intermediate - Logging and logger configuration\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/logging\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"intermediate - Logging and logger configuration"}]
+9:T128f,
+ROS 2 로깅은 메시지를 **콘솔**(연결된 경우), **디스크 로그 파일**(저장 공간이 있는 경우), **`/rosout` 토픽**(ROS 2 네트워크) 등 여러 대상으로 보낸다. 기본적으로 노드의 로그는 콘솔(stderr), 디스크 로그 파일, `/rosout` 세 곳 모두로 나가며, **노드 단위로** 각 대상을 켜거나 끌 수 있다.
+
+> 공식 개념 문서: [Logging and logger configuration](https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Logging.html) (Jazzy)
+
+## 심각도 레벨(Severity level)
+
+로그 메시지에는 **심각도**가 붙는다: `DEBUG`, `INFO`, `WARN`, `ERROR`, `FATAL`(낮은 순).
+
+로거는 **그 로거에 설정된 레벨 이상**의 심각도 메시지만 처리한다. 각 노드에는 노드 이름·네임스페이스를 포함한 로거가 붙고, 노드 이름이 리매핑되면 로거 이름에도 반영된다. 노드가 아닌 독립 로거도 이름을 지정해 만들 수 있다.
+
+로거 이름은 **계층**을 이룬다. 예: `abc.def`의 레벨이 없으면 부모 `abc`를 보고, `abc`도 없으면 기본 로거 레벨을 쓴다. `abc`의 레벨을 바꾸면 자손(`abc.def`, `abc.ghi.jkl` 등)도 영향받되, **명시적으로 레벨이 설정된** 자손은 그대로다.
+
+## API (클라이언트 라이브러리별)
+
+**C++ (rclcpp)**  
+- `RCLCPP_{DEBUG,INFO,WARN,ERROR,FATAL}`: printf 스타일, 매번 출력  
+- `_ONCE`, `_THROTTLE`(ms), `_EXPRESSION`, `_FUNCTION`, `_SKIPFIRST` 등 변형  
+- `_STREAM` 계열: C++ 스트림 스타일  
+- 첫 인자로 `rclcpp::Logger`를 받으며, `node->get_logger()`로 얻는 것을 권장  
+
+**Python (rclpy)**  
+- `logger.debug`, `logger.info`, `logger.warning`, `logger.error`, `logger.fatal`  
+- 키워드 인자: `throttle_duration_sec`, `skip_first`, `once`  
+- `rclpy.logging.set_logger_level`, `rclpy.logging.get_logger_effective_level`  
+
+C++·Python 모두 **동일한 하부 로깅 인프라**를 쓰므로 설정은 공통이다.
+
+## 설정(Configuration)
+
+### 환경 변수
+
+**프로세스 전체**에 적용된다(한 프로세스 안의 모든 노드에 동일).
+
+| 변수 | 역할 |
+|------|------|
+| `ROS_LOG_DIR` | 디스크 로그 디렉터리. 비어 있으면 `ROS_HOME`으로 `$ROS_HOME/.log` 경로 구성 |
+| `ROS_HOME` | 로그·설정 등 ROS 관련 파일의 홈. `~`는 사용자 HOME으로 확장 |
+| `RCUTILS_LOGGING_USE_STDOUT` | 0 또는 미설정이면 stderr, 1이면 stdout |
+| `RCUTILS_LOGGING_BUFFERED_STREAM` | 0=unbuffered, 1=line buffered |
+| `RCUTILS_COLORIZED_OUTPUT` | 0=색 비활성, 1=색 활성. 미설정 시 TTY 등에 따라 자동 |
+| `RCUTILS_CONSOLE_OUTPUT_FORMAT` | 출력 형식. `{severity}`, `{name}`, `{message}`, `{function_name}`, `{file_name}`, `{time}`, `{date_time_with_ms}`, `{line_number}` 등 사용. 미설정 시 기본: `[{severity}] [{time}] [{name}]: {message}` |
+
+### 노드 생성 시 옵션
+
+**노드별**로 다르게 줄 수 있다(한 프로세스에 여러 노드가 있어도 노드마다 설정 가능).
+
+- **로거 레벨**: `ros2 run demo_nodes_cpp talker --ros-args --log-level talker:=DEBUG`
+- **외부 로그 설정 파일**: `--log-config-file log-config.txt` (백엔드별 형식, 기본 spdlog 백엔드는 미구현)
+- **콘솔 출력 끄기**: `--disable-stdout-logs`
+- **`/rosout` 끄기**: `--disable-rosout-logs` (대역폭 절약, 외부에서 로그 구독 불가)
+- **외부 로거(디스크 기록) 끄기**: `--disable-external-lib-logs` (일부 경우 더 빠르지만 디스크에 안 씀)
+
+## 로깅 서브시스템 구조
+
+- **rcutils**: 메시지 포맷·콘솔 출력. **프로세스 단위** 로깅. 상위 레이어가 주입되는 구조.
+- **rcl_logging_spdlog**: `rcl_logging_interface` 구현. 포맷된 로그를 **디스크 파일**에 기록(spdlog 사용, 기본 `~/.ros/log` 부근, 설정 가능).
+- **rcl**: rcutils·rcl_logging_spdlog를 사용해 로그를 **콘솔 / 디스크 / `/rosout`(RMW 경유)** 중 설정된 곳으로 전달. 노드마다 조합 다르게 가능.
+- **rclcpp / rclpy**: 사용자 API(매크로·logger 메서드). 메시지 심각도가 노드 로거 레벨 이상일 때만 포맷·출력. rclcpp는 로그 호출에 전역 뮤텍스를 써서 한 프로세스 내 로깅은 직렬화된다.
+
+## 사용 예시
+
+- C++: [rclcpp logging demo](https://github.com/ros2/demos/blob/jazzy/rclcpp_demos/src/logging_demo), [logging demo](https://github.com/ros2/demos/blob/jazzy/logging_demo)
+- Python: [rclpy examples](https://github.com/ros2/examples/blob/jazzy/rclpy/services/minimal_client/examples_rclpy_minimal_client/client.py), [rclpy tests](https://github.com/ros2/rclpy/blob/jazzy/rclpy/test/test_logging.py) (예: `skip_first`, `once` 등 키워드 인자)
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

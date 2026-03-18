@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"basic - services"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"basic - services\",\"description\":\"ROS 2 서비스(RPC)의 개념, Server/Client 구조, 사용 시점(서비스 vs 액션), 서비스 관련 CLI 명령어를 정리\",\"image\":\"https://woolimi.github.io/og?title=basic - services\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/services\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"basic - services"}]
+9:T9e9,
+ROS 2에서 **서비스(Service)**는 **원격 프로시저 호출(RPC)**을 의미한다. 한 노드가 다른 노드에게 계산을 요청하고, 그 노드가 연산을 수행한 뒤 **결과를 한 번 반환**하는 구조다.
+
+> **RPC(Remote Procedure Call)**  
+> 네트워크로 연결된 다른 프로세스의 함수를 로컬 함수처럼 호출하는 기술. 클라이언트가 요청을 보내면 서버가 계산 후 응답을 돌려준다.
+
+서비스 메시지 정의는 **요청(request)**과 **응답(response)** 두 부분으로 나뉜다.
+
+```
+uint32 a
+uint32 b
+---
+uint32 sum
+```
+
+ROS 2에서는 **클라이언트가 결과를 기다리는** 방식이므로, 서비스는 **빠르게 응답하는 작업**에 쓴다. 오래 걸리거나 중간에 취소·선점이 필요하거나 진행 피드백이 필요한 작업에는 **액션**을 사용한다. 서비스를 쓰면 안 되는 경우 예: 긴 계산, 로봇 이동, 취소(preempt) 가능 작업, 상태 피드백이 필요한 작업.
+
+서비스는 **서비스 이름**(토픽 이름과 비슷하지만 별도 네임스페이스)으로 식별된다. 서비스는 **Service Server**와 **Service Client** 두 부분으로 구성된다.
+
+## Service Server
+
+**Service Server**는 원격 프로시저 **요청을 받아 연산을 수행하고 결과를 반환하는** 쪽이다. 위 예에서 서버는 `a`와 `b`를 받아 더한 뒤 `sum`을 반환한다.
+
+> 하나의 서비스 이름에는 **Service Server는 하나만** 있어야 한다. 같은 이름에 서버가 여러 개면 어떤 서버가 요청을 받을지 정의되지 않는다.
+
+## Service Client
+
+**Service Client**는 Service Server에게 **연산을 요청하는** 쪽이다. 위 예에서 클라이언트는 `a`, `b`를 담은 요청을 보내고, 서버가 `sum`을 계산해 돌려줄 때까지 대기한다. **Service Client는 동일 서비스 이름에 여러 개** 존재할 수 있다.
+
+## Service 명령어
+
+```bash
+# 서비스 목록 확인
+ros2 service list
+
+# 서비스 타입 확인
+ros2 service type /turtle1/teleport_absolute
+# turtlesim/srv/TeleportAbsolute
+
+# 서비스 인터페이스(요청/응답 필드) 확인
+ros2 interface show turtlesim/srv/TeleportAbsolute
+# float32 x
+# float32 y
+# float32 theta
+# ---
+
+# 서비스 호출 (x, y, theta 값 전달)
+ros2 service call /turtle1/teleport_absolute turtlesim/srv/TeleportAbsolute "{x: 2, y: 2, theta: 1.57}"
+```
+
+---
+
+**참고**: [Services — ROS 2 Jazzy](https://docs.ros.org/en/jazzy/Concepts/Basic/About-Services.html)
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

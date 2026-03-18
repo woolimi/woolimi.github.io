@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"intermediate - Quality of Service settings"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"intermediate - Quality of Service settings\",\"description\":\"ROS 2 QoS 정책·프로파일, 퍼블리셔/서브스크립션 호환(Request vs Offered), QoS 이벤트·Matched 이벤트 요약\",\"image\":\"https://woolimi.github.io/og?title=intermediate - Quality of Service settings\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/qos\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"intermediate - Quality of Service settings"}]
+9:T2994,
+ROS 2는 **Quality of Service(QoS)** 정책으로 노드 간 통신을 조정한다. 설정에 따라 TCP처럼 **신뢰(reliable)** 하게 할 수도, UDP처럼 **최선 노력(best effort)** 으로 할 수도 있고, 그 사이 다양한 조합이 가능하다. ROS 1이 주로 TCP에 의존한 것과 달리, ROS 2는 DDS 전송의 유연성을 활용해 손실이 있는 무선 환경에서는 best effort가, 실시간 시스템에서는 적절한 QoS 프로파일이 쓰인다.
+
+여러 **QoS 정책(policies)** 이 모여 **QoS 프로파일(profile)** 을 이룬다. 시나리오에 맞는 정책 선택이 복잡하므로 ROS 2는 센서 데이터 등 **자주 쓰는 용도별 기본 프로파일**을 제공하고, 필요 시 개별 정책을 덮어쓸 수 있다. QoS 프로파일은 **퍼블리셔·서브스크립션·서비스 서버·클라이언트** 각각에 지정할 수 있다. 서로 다른 프로파일을 쓰면 **호환되지 않아** 메시지가 전달되지 않을 수 있다.
+
+> 공식 개념 문서: [Quality of Service settings](https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Quality-of-Service-Settings.html) (Jazzy)
+
+## QoS 정책(Policies)
+
+기본 QoS 프로파일에 포함되는 정책은 다음과 같다.
+
+| 정책 | 옵션 | 설명 |
+|------|------|------|
+| **History** | Keep last / Keep all | Keep last: 최대 N개 샘플만 유지(depth로 N 설정). Keep all: 모두 유지(미들웨어 리소스 한도 내). |
+| **Depth** | Queue size | History가 "keep last"일 때만 적용. |
+| **Reliability** | Best effort / Reliable | Best effort: 전달 시도하나 손실 가능. Reliable: 전달 보장, 재시도 가능. |
+| **Durability** | Transient local / Volatile | Transient local: 늦게 붙는 서브스크립션을 위해 퍼블리셔가 샘플 유지. Volatile: 유지 안 함. |
+| **Deadline** | Duration | 토픽에 연속 메시지가 나갈 때 **기대하는 최대 간격**. |
+| **Lifespan** | Duration | 발행 후 수신까지 이 시간을 넘기면 **만료**로 간주하고 조용히 버림. |
+| **Liveliness** | Automatic / Manual by topic | Automatic: 노드의 퍼블리셔 중 하나만 메시지를 보내도 노드가 살아 있다고 간주. Manual by topic: 퍼블리셔 API로 수동으로 liveliness 선언. |
+| **Lease Duration** | Duration | 퍼블리셔가 이 시간 안에 liveliness를 알리지 않으면 **liveliness 상실**로 간주(장애 징후일 수 있음). |
+
+Duration이 아닌 정책에는 **system default**(미들웨어 기본값) 옵션이 있고, Duration 정책에는 **default**(미지정, 보통 무한대로 해석)가 있다.
+
+## QoS 프로파일(Profiles)
+
+프로파일은 특정 용도에 맞게 잘 맞춰진 정책 묶음이다.
+
+- **퍼블리셔·서브스크립션 default**: ROS 1과 비슷한 동작을 위해 history keep last(depth 10), reliable, volatile, liveliness system default. Deadline·lifespan·lease duration은 default.
+- **서비스**: 신뢰성이 중요. **Durability는 volatile**이어야 하며, 그렇지 않으면 재시작한 서버가 오래된 요청을 받을 수 있다(클라이언트는 중복 응답으로 보호되지만 서버는 아님).
+- **센서 데이터**: 적시에 최신 샘플을 받는 것이 더 중요하므로 **best effort**와 **작은 queue**를 쓰는 프로파일.
+- **파라미터**: 서비스 기반이므로 비슷한 프로파일이지만, 요청이 유실되지 않도록 **큰 queue depth**를 쓴다.
+- **System default**: 모든 정책을 RMW 구현체 기본값으로 둔다. RMW마다 기본값이 다를 수 있다.
+
+상세 정책 값은 [원문 프로파일 링크](https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Quality-of-Service-Settings.html)를 참고한다.
+
+## QoS 호환(Compatibilities)
+
+아래 내용은 퍼블리셔·서브스크립션 기준이며, **서비스 서버·클라이언트**에도 동일하게 적용된다.
+
+퍼블리셔와 서브스크립션은 **각각** QoS 프로파일을 가진다. **Request vs Offered** 모델로 호환 여부가 정해진다. 서브스크립션은 받아들일 **최소 품질(requested)** 를, 퍼블리셔는 제공할 **최대 품질(offered)** 를 낸다. **요청이 제안보다 더 엄격하지 않을 때만** 연결이 성립한다. 한 퍼블리셔에 여러 서브스크립션이 붙을 수 있고 요청 프로파일이 서로 달라도 되며, 다른 퍼블리셔·서브스크립션 존재 여부는 이 쌍의 호환에 영향을 주지 않는다.
+
+**Reliability 호환**
+
+| 퍼블리셔 | 서브스크립션 | 호환 |
+|----------|--------------|------|
+| Best effort | Best effort | 예 |
+| Best effort | Reliable | 아니오 |
+| Reliable | Best effort | 예 |
+| Reliable | Reliable | 예 |
+
+**Durability 호환**
+
+| 퍼블리셔 | 서브스크립션 | 호환 | 결과 |
+|----------|--------------|------|------|
+| Volatile | Volatile | 예 | 새 메시지만 |
+| Volatile | Transient local | 아니오 | 통신 없음 |
+| Transient local | Volatile | 예 | 새 메시지만 |
+| Transient local | Transient local | 예 | 새·이전 메시지 모두 |
+
+늦게 붙는 서브스크립터도 마지막 메시지를 보려면(latched 토픽처럼) **퍼블리셔와 서브스크립션 모두 Transient local**이어야 한다.
+
+**Deadline / Lease duration 호환**  
+_x_, _y_를 임의의 유효한 duration이라 하면: 퍼블리셔 default + 서브스크립션 _x_ 요청 → 호환 안 됨. 퍼블리셔 _x_ + 서브스크립션 default → 호환. 퍼블리셔 _x_ + 서브스크립션 _y_ 에서 _y_ > _x_ 이면 호환, _y_ < _x_ 이면 비호환.
+
+**Liveliness 호환**
+
+| 퍼블리셔 | 서브스크립션 | 호환 |
+|----------|--------------|------|
+| Automatic | Automatic | 예 |
+| Automatic | Manual by topic | 아니오 |
+| Manual by topic | Automatic | 예 |
+| Manual by topic | Manual by topic | 예 |
+
+연결이 되려면 **호환에 관여하는 모든 정책**이 호환되어야 한다. Reliability는 맞아도 Durability가 맞지 않으면 연결되지 않는다. 연결이 안 되면 메시지는 전달되지 않으며, 이 상황을 감지하는 메커니즘이 있다(아래 QoS 이벤트).
+
+### ROS 1과 비교
+
+ROS 1에서는 같은 토픽·같은 메시지 타입이면 퍼블리셔와 서브스크라이버가 연결되었다. ROS 2에서는 **요청·제공 QoS가 호환되지 않으면 연결되지 않는다**는 점을 유의해야 한다.
+
+## QoS 이벤트(Events)
+
+일부 QoS 정책과 연관된 **이벤트**가 있으며, 퍼블리셔·서브스크립션에 **콜백**을 등록해 처리할 수 있다(토픽 메시지 콜백과 유사).
+
+**퍼블리셔 쪽 이벤트**
+
+- **Offered deadline missed**: deadline QoS에 정한 간격 안에 메시지를 발행하지 못함.
+- **Liveliness lost**: lease duration 안에 liveliness를 알리지 못함.
+- **Offered incompatible QoS**: 같은 토픽의 서브스크립션이 요청한 QoS를 제가 제공하는 QoS로 만족할 수 없어 연결되지 않음.
+
+**서브스크립션 쪽 이벤트**
+
+- **Requested deadline missed**: deadline QoS에 정한 간격 안에 메시지를 받지 못함.
+- **Liveliness changed**: 구독 중인 토픽의 퍼블리셔 중 하나 이상이 lease duration 안에 liveliness를 알리지 못함.
+- **Requested incompatible QoS**: 같은 토픽의 퍼블리셔가 제공하는 QoS가 내가 요청한 QoS를 만족하지 않아 연결되지 않음.
+
+## Matched 이벤트
+
+QoS 이벤트 외에, **퍼블리셔와 서브스크립션이 연결되거나 끊어질 때** **Matched 이벤트**가 발생한다. 퍼블리셔·서브스크립션 각각에 콜백을 달 수 있다.
+
+- **퍼블리셔**: 토픽이 같고 QoS가 호환되는 서브스크립션을 찾았을 때, 또는 이미 연결된 서브스크립션이 끊어졌을 때.
+- **서브스크립션**: 토픽이 같고 QoS가 호환되는 퍼블리셔를 찾았을 때, 또는 이미 연결된 퍼블리셔가 끊어졌을 때.
+
+이벤트 사용 예시는 [rclcpp demo](httphttps://github.com/ros2/demos/blob/jazzy/demo_nodes_cpp/src/events/matched_event_detect.cpp), [rclpy demo](https://github.com/ros2/demos/blob/jazzy/demo_nodes_py/demo_nodes_py/events/matched_event_detect.py)를 참고하면 된다.
+
+## Python(rclpy) QoS 설정 예시
+
+### 기본·센서 데이터 프로파일 사용
+
+```python
+import rclpy
+from rclpy.node import Node
+from rclpy.qos import QoSProfile, qos_profile_default, qos_profile_sensor_data
+from std_msgs.msg import String
+
+class ExampleNode(Node):
+    def __init__(self):
+        super().__init__('example_qos_node')
+        # 기본 프로파일: reliable, volatile, depth 10
+        self.pub_default = self.create_publisher(String, 'topic_default', qos_profile_default)
+        # 센서 데이터용: best effort, 작은 queue (적시성 우선)
+        self.sub_sensor = self.create_subscription(
+            String, 'topic_sensor', self.sensor_callback, qos_profile_sensor_data
+        )
+
+    def sensor_callback(self, msg):
+        self.get_logger().info(f'Received: {msg.data}')
+```
+
+### 커스텀 QoS 프로파일 (직접 정책 지정)
+
+```python
+from rclpy.qos import (
+    QoSProfile,
+    QoSReliabilityPolicy,
+    QoSDurabilityPolicy,
+    QoSHistoryPolicy,
+)
+
+# 예: reliable + transient local (늦게 붙는 구독자도 마지막 메시지 수신, latched 유사)
+qos_latched = QoSProfile(
+    reliability=QoSReliabilityPolicy.RELIABLE,
+    durability=QoSDurabilityPolicy.TRANSIENT_LOCAL,
+    history=QoSHistoryPolicy.KEEP_LAST,
+    depth=1,
+)
+self.pub = self.create_publisher(String, 'topic_latched', qos_latched)
+self.sub = self.create_subscription(String, 'topic_latched', self.cb, qos_latched)
+
+# 예: best effort + volatile, depth 5 (손실 허용·작은 버퍼)
+qos_best_effort = QoSProfile(
+    reliability=QoSReliabilityPolicy.BEST_EFFORT,
+    durability=QoSDurabilityPolicy.VOLATILE,
+    history=QoSHistoryPolicy.KEEP_LAST,
+    depth=5,
+)
+self.sub_best_effort = self.create_subscription(String, 'topic_fast', self.cb, qos_best_effort)
+```
+
+### 프로파일 복사 후 일부만 변경
+
+```python
+from rclpy.qos import QoSProfile, QoSHistoryPolicy, QoSReliabilityPolicy, QoSDurabilityPolicy
+
+# 센서 데이터와 비슷하되 depth만 3으로
+qos = QoSProfile(
+    history=QoSHistoryPolicy.KEEP_LAST,
+    depth=3,
+    reliability=QoSReliabilityPolicy.BEST_EFFORT,
+    durability=QoSDurabilityPolicy.VOLATILE,
+)
+self.sub = self.create_subscription(String, 'topic', self.cb, qos)
+```
+
+퍼블리셔와 서브스크립션의 QoS가 **호환**되어야 연결되므로, 같은 토픽을 쓰는 쌍은 위 호환 표를 참고해 맞춰 주면 된다.
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

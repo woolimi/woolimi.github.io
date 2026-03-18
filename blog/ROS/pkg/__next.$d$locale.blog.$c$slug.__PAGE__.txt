@@ -1,0 +1,288 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+4:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"MarkdownContent",1]
+8:I[64725,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T247b,
+## 목표 구조 
+
+```
+workspace/
+├── build/
+│   └── ...
+├── install/
+│   ├── local_setup.bash
+│   ├── setup.bash
+│   └── ...
+├── log/
+│   └── ...
+└── src/
+    ├── my_pkg/
+    │   ├── my_pkg/
+    │   │   ├── __init__.py
+    │   │   ├── publisher_node.py
+    │   │   └── subscriber_node.py
+    │   ├── resource/
+    │   │   └── my_pkg
+    │   ├── package.xml
+    │   ├── setup.cfg
+    │   ├── setup.py
+    │   └── test/
+    │       └── ...
+    └── my_pkg_msgs/
+        ├── msg/
+        │   └── MyMessage.msg
+        ├── CMakeLists.txt
+        └── package.xml
+```
+
+- **my_pkg/my_pkg/**: Python 패키지 코드와 노드(publisher_node, subscriber_node).
+- **my_pkg_msgs/msg/**: 커스텀 메시지 정의(.msg).
+
+---
+
+## 1. 워크스페이스 폴더 만들기
+
+워크스페이스 루트 폴더 이름을 **`workspace`**로 하고, 그 안에 **소스용** `src` 폴더를 만든다.
+
+```bash
+mkdir -p workspace/src
+cd workspace
+```
+
+## 2. colcon build로 install, build, log 생성
+
+`workspace` 폴더에서 `colcon build`를 실행하면 **install**, **build**, **log** 폴더가 생성된다. (처음에는 `src`가 비어 있어도 빌드할 패키지가 없어 곧 끝난다.)
+
+```bash
+cd workspace
+colcon build
+```
+
+이후 `workspace` 아래에 `install/`, `build/`, `log/` 디렉터리가 생긴다.
+
+## 3. src 안에서 ROS 2 패키지 만들기 (ament_python)
+
+`src`로 들어가서 `ros2 pkg create`로 **Python 패키지**를 만든다. 빌드 타입은 **ament_python**으로 한다.
+
+```bash
+cd workspace/src
+ros2 pkg create my_pkg --build-type ament_python
+```
+
+의존성이 필요하면 `--dependencies`로 지정한다.
+
+```bash
+ros2 pkg create my_pkg --build-type ament_python --dependencies rclpy std_msgs
+```
+
+C++ 등 다른 빌드 타입이 필요하면 `--build-type ament_cmake`를 사용하면 된다.
+
+## 4. 다시 colcon build 후 환경 로드
+
+패키지를 추가했으면 워크스페이스 루트에서 다시 빌드하고, 사용 전에 `install`을 source 한다.
+
+```bash
+cd workspace
+colcon build
+source install/setup.bash   # Linux/macOS
+# Windows: install\setup.bat
+```
+
+> **`setup.bash` vs `local_setup.bash`**
+> - **setup.bash**: 이 워크스페이스 + **언더레이(이 워크스페이스를 빌드할 때 기반으로 한 워크스페이스, 예: 시스템 ROS 2)** 까지 모두 source 한다. 보통 이 워크스페이스에서 작업할 때 한 번만 쓰면 된다.
+> - **local_setup.bash**: **이 워크스페이스만** source 한다. 언더레이는 건드리지 않는다. 워크스페이스를 겹쳐 쓸 때(예: A 위에 B를 올려 빌드한 뒤, B의 setup을 쓸 때 A는 이미 로드된 상태) 아래쪽 워크스페이스는 `local_setup`만 쓰는 식으로 구분할 수 있다.
+
+## 5. 메시지 패키지 만들기 ([package_name]_msgs)
+
+**메시지 타입**을 정의하려면 별도 패키지를 만든다. 관례상 이름은 **`<패키지명>_msgs`** (예: `my_pkg_msgs`)로 둔다.
+
+> **msg 패키지를 왜 ament_cmake로 만드나?**  
+> `.msg`·`.srv`·`.action` 파일은 **rosidl**(ROS Interface Definition Language)로 처리된다. rosidl이 C++/Python 등 **여러 언어용 코드를 생성**하는데, 이 코드 생성·설치가 **CMake 쪽**에 통합되어 있다. `rosidl_generate_interfaces()` 같은 함수는 ament_cmake에서 제공하므로, **인터페이스(메시지) 전용 패키지는 ament_cmake**로 두는 것이 ROS 2의 표준 방식이다. ament_python에는 .msg 정의부터 빌드까지 넣는 공식 흐름이 없고, 메시지 패키지는 한 번 ament_cmake로 빌드해 두면 **생성된 Python 바인딩**을 ament_python 노드에서 `from my_pkg_msgs.msg import MyMessage`처럼 그대로 쓸 수 있다.
+
+```bash
+cd workspace/src
+ros2 pkg create my_pkg_msgs --build-type ament_cmake
+```
+
+**msg 디렉터리와 메시지 파일**을 만든다.
+
+```bash
+mkdir -p my_pkg_msgs/msg
+```
+
+`my_pkg_msgs/msg/MyMessage.msg` 예시:
+
+```
+string name
+int32 count
+float32 value
+```
+
+
+**package.xml**에 다음 의존성을 추가한다.
+
+```xml
+<build_depend>rosidl_default_generators</build_depend>
+<exec_depend>rosidl_default_runtime</exec_depend>
+<member_of_group>rosidl_interface_packages</member_of_group>
+```
+
+> **package.xml**은 ROS 2 패키지의 **메타데이터**를 담는 파일이다. 패키지 이름·버전·설명, **빌드 시 필요한 의존성**(`build_depend`), **실행 시 필요한 의존성**(`exec_depend`), 빌드 도구·export 정보 등을 정의한다. colcon이 이 파일을 읽어 의존 순서를 정하고, 다른 패키지가 이 패키지를 찾을 때도 사용한다.
+
+**CMakeLists.txt**에서 기존 내용을 정리하고, 다음을 넣는다.
+
+```cmake
+find_package(ament_cmake REQUIRED)
+find_package(rosidl_default_generators REQUIRED)
+rosidl_generate_interfaces(${PROJECT_NAME}
+  "msg/MyMessage.msg"
+)
+ament_export_dependencies(rosidl_default_runtime)
+```
+
+이후 워크스페이스에서 `colcon build`하면 `my_pkg_msgs`에서 `my_pkg_msgs/msg/MyMessage` 메시지 타입을 쓸 수 있다. 사용하는 패키지(예: `my_pkg`)의 **package.xml**에 `<depend>my_pkg_msgs</depend>**, **setup.py**의 `install_requires`에 `'my_pkg_msgs'`를 넣고, 노드에서 `from my_pkg_msgs.msg import MyMessage`로 가져온다.
+
+## 6. 퍼블리셔·서브스크라이버 노드 예제 (토픽 발행)
+
+`my_pkg`에 **토픽을 발행하는 노드**와 **구독하는 노드**를 추가한다. 여기서는 표준 메시지 `std_msgs/String`을 사용한다.
+
+**퍼블리셔 노드** `my_pkg/my_pkg/publisher_node.py`:
+
+```python
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+
+class PublisherNode(Node):
+    def __init__(self):
+        super().__init__('publisher_node')
+        self.publisher_ = self.create_publisher(String, 'chatter', 10)
+        self.timer = self.create_timer(1.0, self.timer_callback)
+        self.count = 0
+
+    def timer_callback(self):
+        msg = String()
+        msg.data = f'Hello, ROS 2! ({self.count})'
+        self.publisher_.publish(msg)
+        self.get_logger().info(f'Publishing: "{msg.data}"')
+        self.count += 1
+
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = PublisherNode()
+    try:
+        rclpy.spin(node)
+    finally:
+        node.destroy_node()
+        rclpy.shutdown()
+
+
+if __name__ == '__main__':
+    main()
+```
+
+**서브스크라이버 노드** `my_pkg/my_pkg/subscriber_node.py`:
+
+```python
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+
+class SubscriberNode(Node):
+    def __init__(self):
+        super().__init__('subscriber_node')
+        self.subscription = self.create_subscription(
+            String, 'chatter', self.callback, 10)
+
+    def callback(self, msg):
+        self.get_logger().info(f'Received: "{msg.data}"')
+
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = SubscriberNode()
+    try:
+        rclpy.spin(node)
+    finally:
+        node.destroy_node()
+        rclpy.shutdown()
+
+
+if __name__ == '__main__':
+    main()
+```
+
+**setup.py**의 `entry_points`에 노드를 등록한다.
+
+```python
+entry_points={
+    'console_scripts': [
+        'publisher_node = my_pkg.publisher_node:main',
+        'subscriber_node = my_pkg.subscriber_node:main',
+    ],
+},
+```
+
+빌드 후 **두 터미널**에서 각각 실행한다.
+
+```bash
+source install/setup.bash
+ros2 run my_pkg publisher_node   # 터미널 1
+ros2 run my_pkg subscriber_node  # 터미널 2
+```
+
+퍼블리셔가 `chatter` 토픽에 1초마다 메시지를 보내고, 서브스크라이버가 그 메시지를 출력한다. 커스텀 메시지를 쓰려면 먼저 `my_pkg_msgs`를 빌드하고, 위 노드에서 `std_msgs.msg.String` 대신 `my_pkg_msgs.msg.MyMessage`를 사용하면 된다.
+
+**예: MyMessage 사용 (퍼블리셔)**
+
+```python
+from my_pkg_msgs.msg import MyMessage
+
+# 퍼블리셔 생성
+self.publisher_ = self.create_publisher(MyMessage, 'chatter', 10)
+
+# 타이머 콜백에서 발행
+def timer_callback(self):
+    msg = MyMessage()
+    msg.name = 'robot'
+    msg.count = self.count
+    msg.value = 3.14
+    self.publisher_.publish(msg)
+    self.count += 1
+```
+
+**예: MyMessage 사용 (서브스크라이버)**
+
+```python
+from my_pkg_msgs.msg import MyMessage
+
+self.subscription = self.create_subscription(
+    MyMessage, 'chatter', self.callback, 10)
+
+def callback(self, msg):
+    self.get_logger().info(f'Received: name={msg.name}, count={msg.count}, value={msg.value}')
+```
+
+---
+
+**요약**
+
+| 단계 | 명령/위치 |
+|------|-----------|
+| 목표 구조 | 문서 상단 **목표 구조 (최종 폴더 모습)** 참고 |
+| 워크스페이스 | `mkdir -p workspace/src` → `cd workspace` |
+| install/build/log 생성 | `colcon build` (workspace에서) |
+| 패키지 생성 | `cd src` → `ros2 pkg create my_pkg --build-type ament_python` |
+| 메시지 패키지 | `ros2 pkg create my_pkg_msgs --build-type ament_cmake` → `msg/`에 `.msg` 정의, package.xml·CMakeLists 수정 |
+| 퍼블리셔/서브스크라이버 | `my_pkg` 안에 노드 스크립트 추가 → `setup.py` entry_points 등록 |
+| 빌드·환경 로드 | `colcon build` → `source install/setup.bash` |
+0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"workspace & package"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"workspace & package\",\"description\":\"ROS 2 워크스페이스 생성, ament_python 패키지·메시지 패키지(my_pkg_msgs)·퍼블리셔/서브스크라이버 예제, 폴더 구조 정리\",\"image\":\"https://woolimi.github.io/og?title=workspace & package\",\"url\":\"https://woolimi.github.io/blog/ROS/pkg\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"workspace & package"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+3:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+8:I[68708,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"MarkdownContent",1]
+a:I[64725,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"basic - topics"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"basic - topics\",\"description\":\"ROS 2 토픽의 용도, Pub/Sub·익명성·강타입 특성, 토픽 관련 CLI 명령어 정리\",\"image\":\"https://woolimi.github.io/og?title=basic - topics\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/topics\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"basic - topics"}]
+9:Taa3,
+**토픽(Topic)**은 ROS 2의 세 가지 주요 통신 방식 중 하나다. **연속적인 데이터 스트림**—센서 데이터, 로봇 상태 등—에 사용한다.
+
+ROS 2는 **강타입(strongly-typed)**이고 **익명(anonymous)**인 **발행/구독(publish/subscribe)** 시스템이다. 아래에서 이 특성을 정리한다.
+
+## Publish/Subscribe
+
+데이터를 **만드는 쪽(Publisher)**과 **받는 쪽(Subscriber)**가 있다. 서로 **토픽(topic)**이라는 공통 이름으로 연결된다. 퍼블리셔를 만들 때 토픽 이름을 지정하고, 같은 토픽 이름으로 구독하는 서브스크라이버와 자동으로 통신한다.
+
+- 한 토픽에 **퍼블리셔 0개 이상, 서브스크라이버 0개 이상** 존재할 수 있다.
+- 어떤 퍼블리셔가 토픽에 데이터를 보내면 **그 토픽을 구독하는 모든 서브스크라이버**가 그 데이터를 받는다.
+- 이 구조를 **버스(bus)**에 비유한다. 퍼블리셔와 서브스크라이버가 필요에 따라 붙었다 떨어졌다 해도 되고, 그래서 디버깅·관측이 자연스럽다. 예: `ros2 bag record`는 지정한 토픽에 **새 서브스크라이버를 하나 더 만드는 것**일 뿐이라, 다른 노드들의 데이터 흐름을 끊지 않는다.
+
+## Anonymous (익명)
+
+**익명**이란, 서브스크라이버가 데이터를 받을 때 **어느 퍼블리셔가 보냈는지 보통은 모르고 알 필요도 없다**는 뜻이다(필요하면 조회는 가능). 그래서 퍼블리셔나 서브스크라이버를 바꿔 끼워도 시스템 나머지에 영향을 주지 않는다.
+
+## Strongly-typed (강타입)
+
+**강타입**은 두 가지 의미가 있다.
+
+1. **필드 타입이 정해져 있고 검사된다.** 메시지에 `uint32 field1`, `string field2`가 있으면, `field1`은 항상 부호 없는 정수, `field2`는 항상 문자열로 다뤄진다.
+2. **필드의 의미(시맨틱)가 정의되어 있다.** 자동으로 강제되지는 않지만, ROS 표준 메시지들은 의미가 명시되어 있다. 예: IMU 메시지의 각속도는 3차원 벡터이고, 단위는 rad/s로 정해져 있다.
+
+## Topic 명령어
+
+```bash
+# 토픽 목록 및 메시지 타입 확인 (-t: with type)
+ros2 topic list -t
+
+# 토픽 상세 정보 (퍼블리셔/서브스크라이버 수 등)
+ros2 topic list -v
+
+# 토픽 메시지 인터페이스(필드) 확인
+ros2 interface show turtlesim/msg/Pose
+# float32 x
+# float32 y
+# float32 theta
+# ...
+# float32 linear_velocity
+# float32 angular_velocity
+
+# 토픽 데이터 실시간 구독·출력
+ros2 topic echo /turtle1/pose
+```
+
+---
+
+**참고**: [Topics — ROS 2 Jazzy](https://docs.ros.org/en/jazzy/Concepts/Basic/About-Topics.html)
+5:["$","article",null,{"children":["$","$L8",null,{"children":"$9"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

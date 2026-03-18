@@ -1,0 +1,862 @@
+1:"$Sreact.fragment"
+2:I[935,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"default"]
+3:I[26334,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlurFade"]
+4:I[25417,["1921","static/chunks/79812939-dd468ad34b0555ab.js","2969","static/chunks/8fdae66b-3313d3073a4d6626.js","9991","static/chunks/9991-ccaf069d2d1a3394.js","650","static/chunks/650-f48a6caa28b58c59.js","7285","static/chunks/7285-e0b078d0c178a272.js","2061","static/chunks/2061-28fac52e9cc6c1cf.js","1283","static/chunks/1283-41499aa8a4a2d40d.js","5441","static/chunks/5441-fdd5bc5dfd5ead2e.js","5784","static/chunks/app/%5Blocale%5D/blog/%5B...slug%5D/page-5e993dac8517bbe5.js"],"BlogArticleCard"]
+1b:I[64725,[],"OutletBoundary"]
+1c:"$Sreact.suspense"
+:HL["/_next/static/css/911e6a603adbdfb3.css","style"]
+5:T3994,<h2 id="1-conda-설치하기"><a class="heading-link" aria-hidden="true" href="#1-conda-설치하기">1. conda 설치하기</a></h2>
+<h2 id="2-robostack-설치"><a class="heading-link" aria-hidden="true" href="#2-robostack-설치">2. RoboStack 설치</a></h2>
+<p><img src="https://robostack.github.io/GettingStarted.html" alt="robostack installation"></p>
+<h2 id="3-설치확인"><a class="heading-link" aria-hidden="true" href="#3-설치확인">3. 설치확인</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> activate</span><span style="color:#C3E88D"> ros_env</span></span>
+<span data-line=""><span style="color:#FFC777">rviz2</span></span><button type="button" title="Copy code" aria-label="Copy code" data="conda activate ros_env
+rviz2" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="4-ros-가상환경-시작시-실행할-스크립트"><a class="heading-link" aria-hidden="true" href="#4-ros-가상환경-시작시-실행할-스크립트">4. ROS 가상환경 시작시 실행할 스크립트</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># activate 시 적용할 스크립트 (ros_env 활성화 후 실행)</span></span>
+<span data-line=""><span style="color:#FFC777">cat</span><span style="color:#86E1FC"> ></span><span style="color:#C8D3F5"> $CONDA_PREFIX</span><span style="color:#C3E88D">/etc/conda/activate.d/env_vars.sh</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#86E1FC"> 'EOF'</span></span>
+<span data-line=""><span style="color:#C3E88D">eval "$(register-python-argcomplete ros2)"</span></span>
+<span data-line=""><span style="color:#C3E88D">eval "$(register-python-argcomplete colcon)"</span></span>
+<span data-line=""><span style="color:#C3E88D">export ROS_DOMAIN_ID=13</span></span>
+<span data-line=""><span style="color:#86E1FC">EOF</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># deactivate 시 적용할 스크립트 (선택)</span></span>
+<span data-line=""><span style="color:#FFC777">cat</span><span style="color:#86E1FC"> ></span><span style="color:#C8D3F5"> $CONDA_PREFIX</span><span style="color:#C3E88D">/etc/conda/deactivate.d/env_vars.sh</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#86E1FC"> 'EOF'</span></span>
+<span data-line=""><span style="color:#C3E88D">unset ROS_DOMAIN_ID</span></span>
+<span data-line=""><span style="color:#86E1FC">EOF</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# activate 시 적용할 스크립트 (ros_env 활성화 후 실행)
+cat > $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh << &#x27;EOF&#x27;
+eval &#x22;$(register-python-argcomplete ros2)&#x22;
+eval &#x22;$(register-python-argcomplete colcon)&#x22;
+export ROS_DOMAIN_ID=13
+EOF
+
+# deactivate 시 적용할 스크립트 (선택)
+cat > $CONDA_PREFIX/etc/conda/deactivate.d/env_vars.sh << &#x27;EOF&#x27;
+unset ROS_DOMAIN_ID
+EOF" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="ubuntu-zshrc"><a class="heading-link" aria-hidden="true" href="#ubuntu-zshrc">Ubuntu .zshrc</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="zsh" data-theme="moonlight-ii"><code data-language="zsh" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C8D3F5">ID</span><span style="color:#86E1FC">=</span><span style="color:#C3E88D">13</span></span>
+<span data-line=""><span style="color:#C099FF">alias</span><span style="color:#C8D3F5"> sz</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">source ~/.zshrc; echo </span><span style="color:#86E1FC">\"</span><span style="color:#C3E88D">Zshrc is reloaded!</span><span style="color:#86E1FC">\""</span></span>
+<span data-line=""><span style="color:#C099FF">alias</span><span style="color:#C8D3F5"> ros_domain</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">export ROS_DOMAIN_ID=</span><span style="color:#86E1FC">\$</span><span style="color:#C3E88D">ID</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#C099FF">alias</span><span style="color:#C8D3F5"> active_venv_jazzy</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">source ~/venv/jazzy/bin/activate</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#C099FF">alias</span><span style="color:#C8D3F5"> jazzy</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">source /opt/ros/jazzy/setup.zsh &#x26;&#x26; ros_domain</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#FFC777">active_venv_jazzy</span></span>
+<span data-line=""><span style="color:#FFC777">jazzy</span></span>
+<span data-line=""><span style="color:#C099FF">alias</span><span style="color:#C8D3F5"> killgazebo</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">killall gzserver gzclient</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#65BCFF">eval</span><span style="color:#86E1FC"> "$(</span><span style="color:#FFC777">register-python-argcomplete</span><span style="color:#C3E88D"> ros2</span><span style="color:#86E1FC">)"</span></span>
+<span data-line=""><span style="color:#65BCFF">eval</span><span style="color:#86E1FC"> "$(</span><span style="color:#FFC777">register-python-argcomplete</span><span style="color:#C3E88D"> colcon</span><span style="color:#86E1FC">)"</span></span>
+<span data-line=""><span style="color:#FFC777">setopt</span><span style="color:#C3E88D"> PROMPT_SUBST</span></span>
+<span data-line=""><span style="color:#82AAFF">ros_domain_prompt</span><span style="color:#86E1FC">()</span><span style="color:#B4C2F0"> {</span></span>
+<span data-line=""><span style="color:#86E1FC">  if</span><span style="color:#86E1FC"> [[</span><span style="color:#86E1FC"> "</span><span style="color:#C8D3F5">$ROS_DOMAIN_ID</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC"> !=</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">0</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC"> ]];</span><span style="color:#86E1FC"> then</span></span>
+<span data-line=""><span style="color:#65BCFF">    echo</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">%F{208}[ID:</span><span style="color:#86E1FC">${</span><span style="color:#C8D3F5">ROS_DOMAIN_ID</span><span style="color:#86E1FC">}</span><span style="color:#C3E88D">]%f </span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#86E1FC">  fi</span></span>
+<span data-line=""><span style="color:#B4C2F0">}</span></span>
+<span data-line=""><span style="color:#C8D3F5">PROMPT</span><span style="color:#86E1FC">=</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">$(ros_domain_prompt)</span><span style="color:#86E1FC">'"</span><span style="color:#C8D3F5">$PROMPT</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#82AAFF">set_ws</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#B4C2F0">{</span></span>
+<span data-line=""><span style="color:#65BCFF">	source</span><span style="color:#86E1FC"> "</span><span style="color:#C8D3F5">$PWD</span><span style="color:#C3E88D">/install/local_setup.zsh</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#B4C2F0">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="ID=13
+alias sz=&#x22;source ~/.zshrc; echo \&#x22;Zshrc is reloaded!\&#x22;&#x22;
+alias ros_domain=&#x22;export ROS_DOMAIN_ID=\$ID&#x22;
+alias active_venv_jazzy=&#x22;source ~/venv/jazzy/bin/activate&#x22;
+alias jazzy=&#x22;source /opt/ros/jazzy/setup.zsh &#x26;&#x26; ros_domain&#x22;
+active_venv_jazzy
+jazzy
+alias killgazebo=&#x22;killall gzserver gzclient&#x22;
+eval &#x22;$(register-python-argcomplete ros2)&#x22;
+eval &#x22;$(register-python-argcomplete colcon)&#x22;
+setopt PROMPT_SUBST
+ros_domain_prompt() {
+  if [[ &#x22;$ROS_DOMAIN_ID&#x22; != &#x22;0&#x22; ]]; then
+    echo &#x22;%F{208}[ID:${ROS_DOMAIN_ID}]%f &#x22;
+  fi
+}
+PROMPT=&#x27;$(ros_domain_prompt)&#x27;&#x22;$PROMPT&#x22;
+set_ws()
+{
+	source &#x22;$PWD/install/local_setup.zsh&#x22;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>0:{"buildId":"Kn4-wMK25QIjerslBJRsN","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}]]}]}],["$","$L3",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"ROS"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L4","ROS/install",{"post":{"metadata":{"title":"맥에서 ros2 설치하기","summary":"Conda와 RoboStack으로 macOS에 ROS2를 설치하고, 가상환경 활성화 시 ros2/colcon 자동완성·ROS_DOMAIN_ID를 적용하는 방법","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/install","source":"$5","type":"markdown","parentFolder":"ROS"},"locale":"ko","delay":0.08}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],["$L10"],"$L11"]}],"loading":null,"isPartial":false}
+12:T10f78,<h2 id="목표-구조"><a class="heading-link" aria-hidden="true" href="#목표-구조">목표 구조</a></h2>
+<pre><code>workspace/
+├── build/
+│   └── ...
+├── install/
+│   ├── local_setup.bash
+│   ├── setup.bash
+│   └── ...
+├── log/
+│   └── ...
+└── src/
+    ├── my_pkg/
+    │   ├── my_pkg/
+    │   │   ├── __init__.py
+    │   │   ├── publisher_node.py
+    │   │   └── subscriber_node.py
+    │   ├── resource/
+    │   │   └── my_pkg
+    │   ├── package.xml
+    │   ├── setup.cfg
+    │   ├── setup.py
+    │   └── test/
+    │       └── ...
+    └── my_pkg_msgs/
+        ├── msg/
+        │   └── MyMessage.msg
+        ├── CMakeLists.txt
+        └── package.xml
+</code></pre>
+<ul>
+<li><strong>my_pkg/my_pkg/</strong>: Python 패키지 코드와 노드(publisher_node, subscriber_node).</li>
+<li><strong>my_pkg_msgs/msg/</strong>: 커스텀 메시지 정의(.msg).</li>
+</ul>
+<hr>
+<h2 id="1-워크스페이스-폴더-만들기"><a class="heading-link" aria-hidden="true" href="#1-워크스페이스-폴더-만들기">1. 워크스페이스 폴더 만들기</a></h2>
+<p>워크스페이스 루트 폴더 이름을 **<code>workspace</code>**로 하고, 그 안에 <strong>소스용</strong> <code>src</code> 폴더를 만든다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mkdir</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> workspace/src</span></span>
+<span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> workspace</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mkdir -p workspace/src
+cd workspace" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="2-colcon-build로-install-build-log-생성"><a class="heading-link" aria-hidden="true" href="#2-colcon-build로-install-build-log-생성">2. colcon build로 install, build, log 생성</a></h2>
+<p><code>workspace</code> 폴더에서 <code>colcon build</code>를 실행하면 <strong>install</strong>, <strong>build</strong>, <strong>log</strong> 폴더가 생성된다. (처음에는 <code>src</code>가 비어 있어도 빌드할 패키지가 없어 곧 끝난다.)</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> workspace</span></span>
+<span data-line=""><span style="color:#FFC777">colcon</span><span style="color:#C3E88D"> build</span></span><button type="button" title="Copy code" aria-label="Copy code" data="cd workspace
+colcon build" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>이후 <code>workspace</code> 아래에 <code>install/</code>, <code>build/</code>, <code>log/</code> 디렉터리가 생긴다.</p>
+<h2 id="3-src-안에서-ros-2-패키지-만들기-ament_python"><a class="heading-link" aria-hidden="true" href="#3-src-안에서-ros-2-패키지-만들기-ament_python">3. src 안에서 ROS 2 패키지 만들기 (ament_python)</a></h2>
+<p><code>src</code>로 들어가서 <code>ros2 pkg create</code>로 <strong>Python 패키지</strong>를 만든다. 빌드 타입은 <strong>ament_python</strong>으로 한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> workspace/src</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> pkg</span><span style="color:#C3E88D"> create</span><span style="color:#C3E88D"> my_pkg</span><span style="color:#C3E88D"> --build-type</span><span style="color:#C3E88D"> ament_python</span></span><button type="button" title="Copy code" aria-label="Copy code" data="cd workspace/src
+ros2 pkg create my_pkg --build-type ament_python" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>의존성이 필요하면 <code>--dependencies</code>로 지정한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> pkg</span><span style="color:#C3E88D"> create</span><span style="color:#C3E88D"> my_pkg</span><span style="color:#C3E88D"> --build-type</span><span style="color:#C3E88D"> ament_python</span><span style="color:#C3E88D"> --dependencies</span><span style="color:#C3E88D"> rclpy</span><span style="color:#C3E88D"> std_msgs</span></span><button type="button" title="Copy code" aria-label="Copy code" data="ros2 pkg create my_pkg --build-type ament_python --dependencies rclpy std_msgs" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>C++ 등 다른 빌드 타입이 필요하면 <code>--build-type ament_cmake</code>를 사용하면 된다.</p>
+<h2 id="4-다시-colcon-build-후-환경-로드"><a class="heading-link" aria-hidden="true" href="#4-다시-colcon-build-후-환경-로드">4. 다시 colcon build 후 환경 로드</a></h2>
+<p>패키지를 추가했으면 워크스페이스 루트에서 다시 빌드하고, 사용 전에 <code>install</code>을 source 한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> workspace</span></span>
+<span data-line=""><span style="color:#FFC777">colcon</span><span style="color:#C3E88D"> build</span></span>
+<span data-line=""><span style="color:#65BCFF">source</span><span style="color:#C3E88D"> install/setup.bash</span><span style="color:#858AA6">   # Linux/macOS</span></span>
+<span data-line=""><span style="color:#858AA6"># Windows: install\setup.bat</span></span><button type="button" title="Copy code" aria-label="Copy code" data="cd workspace
+colcon build
+source install/setup.bash   # Linux/macOS
+# Windows: install\setup.bat" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<blockquote>
+<p><strong><code>setup.bash</code> vs <code>local_setup.bash</code></strong></p>
+<ul>
+<li><strong>setup.bash</strong>: 이 워크스페이스 + <strong>언더레이(이 워크스페이스를 빌드할 때 기반으로 한 워크스페이스, 예: 시스템 ROS 2)</strong> 까지 모두 source 한다. 보통 이 워크스페이스에서 작업할 때 한 번만 쓰면 된다.</li>
+<li><strong>local_setup.bash</strong>: <strong>이 워크스페이스만</strong> source 한다. 언더레이는 건드리지 않는다. 워크스페이스를 겹쳐 쓸 때(예: A 위에 B를 올려 빌드한 뒤, B의 setup을 쓸 때 A는 이미 로드된 상태) 아래쪽 워크스페이스는 <code>local_setup</code>만 쓰는 식으로 구분할 수 있다.</li>
+</ul>
+</blockquote>
+<h2 id="5-메시지-패키지-만들기-package_name_msgs"><a class="heading-link" aria-hidden="true" href="#5-메시지-패키지-만들기-package_name_msgs">5. 메시지 패키지 만들기 ([package_name]_msgs)</a></h2>
+<p><strong>메시지 타입</strong>을 정의하려면 별도 패키지를 만든다. 관례상 이름은 <strong><code>&#x3C;패키지명>_msgs</code></strong> (예: <code>my_pkg_msgs</code>)로 둔다.</p>
+<blockquote>
+<p><strong>msg 패키지를 왜 ament_cmake로 만드나?</strong><br>
+<code>.msg</code>·<code>.srv</code>·<code>.action</code> 파일은 <strong>rosidl</strong>(ROS Interface Definition Language)로 처리된다. rosidl이 C++/Python 등 <strong>여러 언어용 코드를 생성</strong>하는데, 이 코드 생성·설치가 <strong>CMake 쪽</strong>에 통합되어 있다. <code>rosidl_generate_interfaces()</code> 같은 함수는 ament_cmake에서 제공하므로, <strong>인터페이스(메시지) 전용 패키지는 ament_cmake</strong>로 두는 것이 ROS 2의 표준 방식이다. ament_python에는 .msg 정의부터 빌드까지 넣는 공식 흐름이 없고, 메시지 패키지는 한 번 ament_cmake로 빌드해 두면 <strong>생성된 Python 바인딩</strong>을 ament_python 노드에서 <code>from my_pkg_msgs.msg import MyMessage</code>처럼 그대로 쓸 수 있다.</p>
+</blockquote>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#65BCFF">cd</span><span style="color:#C3E88D"> workspace/src</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> pkg</span><span style="color:#C3E88D"> create</span><span style="color:#C3E88D"> my_pkg_msgs</span><span style="color:#C3E88D"> --build-type</span><span style="color:#C3E88D"> ament_cmake</span></span><button type="button" title="Copy code" aria-label="Copy code" data="cd workspace/src
+ros2 pkg create my_pkg_msgs --build-type ament_cmake" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>msg 디렉터리와 메시지 파일</strong>을 만든다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mkdir</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> my_pkg_msgs/msg</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mkdir -p my_pkg_msgs/msg" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><code>my_pkg_msgs/msg/MyMessage.msg</code> 예시:</p>
+<pre><code>string name
+int32 count
+float32 value
+</code></pre>
+<p><strong>package.xml</strong>에 다음 의존성을 추가한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="xml" data-theme="moonlight-ii"><code data-language="xml" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">&#x3C;</span><span style="color:#FF757F">build_depend</span><span style="color:#86E1FC">></span><span style="color:#C8D3F5">rosidl_default_generators</span><span style="color:#86E1FC">&#x3C;/</span><span style="color:#FF757F">build_depend</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#86E1FC">&#x3C;</span><span style="color:#FF757F">exec_depend</span><span style="color:#86E1FC">></span><span style="color:#C8D3F5">rosidl_default_runtime</span><span style="color:#86E1FC">&#x3C;/</span><span style="color:#FF757F">exec_depend</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#86E1FC">&#x3C;</span><span style="color:#FF757F">member_of_group</span><span style="color:#86E1FC">></span><span style="color:#C8D3F5">rosidl_interface_packages</span><span style="color:#86E1FC">&#x3C;/</span><span style="color:#FF757F">member_of_group</span><span style="color:#86E1FC">></span></span><button type="button" title="Copy code" aria-label="Copy code" data="<build_depend>rosidl_default_generators</build_depend>
+<exec_depend>rosidl_default_runtime</exec_depend>
+<member_of_group>rosidl_interface_packages</member_of_group>" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<blockquote>
+<p><strong>package.xml</strong>은 ROS 2 패키지의 <strong>메타데이터</strong>를 담는 파일이다. 패키지 이름·버전·설명, <strong>빌드 시 필요한 의존성</strong>(<code>build_depend</code>), <strong>실행 시 필요한 의존성</strong>(<code>exec_depend</code>), 빌드 도구·export 정보 등을 정의한다. colcon이 이 파일을 읽어 의존 순서를 정하고, 다른 패키지가 이 패키지를 찾을 때도 사용한다.</p>
+</blockquote>
+<p><strong>CMakeLists.txt</strong>에서 기존 내용을 정리하고, 다음을 넣는다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cmake" data-theme="moonlight-ii"><code data-language="cmake" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">find_package</span><span style="color:#C8D3F5">(ament_cmake REQUIRED)</span></span>
+<span data-line=""><span style="color:#C099FF">find_package</span><span style="color:#C8D3F5">(rosidl_default_generators REQUIRED)</span></span>
+<span data-line=""><span style="color:#C8D3F5">rosidl_generate_interfaces(${PROJECT_NAME}</span></span>
+<span data-line=""><span style="color:#C3E88D">  "msg/MyMessage.msg"</span></span>
+<span data-line=""><span style="color:#C8D3F5">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">ament_export_dependencies(rosidl_default_runtime)</span></span><button type="button" title="Copy code" aria-label="Copy code" data="find_package(ament_cmake REQUIRED)
+find_package(rosidl_default_generators REQUIRED)
+rosidl_generate_interfaces(${PROJECT_NAME}
+  &#x22;msg/MyMessage.msg&#x22;
+)
+ament_export_dependencies(rosidl_default_runtime)" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>이후 워크스페이스에서 <code>colcon build</code>하면 <code>my_pkg_msgs</code>에서 <code>my_pkg_msgs/msg/MyMessage</code> 메시지 타입을 쓸 수 있다. 사용하는 패키지(예: <code>my_pkg</code>)의 <strong>package.xml</strong>에 <code>&#x3C;depend>my_pkg_msgs&#x3C;/depend>**, **setup.py**의 </code>install_requires<code>에 </code>'my_pkg_msgs'<code>를 넣고, 노드에서 </code>from my_pkg_msgs.msg import MyMessage`로 가져온다.</p>
+<h2 id="6-퍼블리셔서브스크라이버-노드-예제-토픽-발행"><a class="heading-link" aria-hidden="true" href="#6-퍼블리셔서브스크라이버-노드-예제-토픽-발행">6. 퍼블리셔·서브스크라이버 노드 예제 (토픽 발행)</a></h2>
+<p><code>my_pkg</code>에 <strong>토픽을 발행하는 노드</strong>와 <strong>구독하는 노드</strong>를 추가한다. 여기서는 표준 메시지 <code>std_msgs/String</code>을 사용한다.</p>
+<p><strong>퍼블리셔 노드</strong> <code>my_pkg/my_pkg/publisher_node.py</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> rclpy</span></span>
+<span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">node </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> Node</span></span>
+<span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> std_msgs</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">msg </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> String</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> PublisherNode</span><span style="color:#86E1FC">(</span><span style="color:#C3E88D">Node</span><span style="color:#86E1FC">):</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF966C">        super</span><span style="color:#86E1FC">().</span><span style="color:#65BCFF">__init__</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">publisher_node</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">publisher_ </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">create_publisher</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">String</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">chatter</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">timer </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">create_timer</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1.0</span><span style="color:#86E1FC">,</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">timer_callback</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 0</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> timer_callback</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">        msg </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> String</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">        msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data </span><span style="color:#86E1FC">=</span><span style="color:#C099FF"> f</span><span style="color:#C3E88D">'Hello, ROS 2! (</span><span style="color:#FF98A4">{</span><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count</span><span style="color:#FF98A4">}</span><span style="color:#C3E88D">)'</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">publisher_</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">publish</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get_logger</span><span style="color:#86E1FC">().</span><span style="color:#C8D3F5">info</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">f</span><span style="color:#C3E88D">'Publishing: "</span><span style="color:#FF98A4">{</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#FF98A4">}</span><span style="color:#C3E88D">"'</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count </span><span style="color:#86E1FC">+=</span><span style="color:#FF966C"> 1</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">def</span><span style="color:#82AAFF"> main</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">args</span><span style="color:#86E1FC">=</span><span style="color:#FF98A4">None</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">    rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">init</span><span style="color:#86E1FC">(</span><span style="color:#FCA7EA">args</span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5">args</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">    node </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> PublisherNode</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#86E1FC">    try:</span></span>
+<span data-line=""><span style="color:#C8D3F5">        rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">spin</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">    finally:</span></span>
+<span data-line=""><span style="color:#C8D3F5">        node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">destroy_node</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">        rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">shutdown</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">if</span><span style="color:#C8D3F5"> __name__ </span><span style="color:#86E1FC">==</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">__main__</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">    main</span><span style="color:#86E1FC">()</span></span><button type="button" title="Copy code" aria-label="Copy code" data="import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+
+class PublisherNode(Node):
+    def __init__(self):
+        super().__init__(&#x27;publisher_node&#x27;)
+        self.publisher_ = self.create_publisher(String, &#x27;chatter&#x27;, 10)
+        self.timer = self.create_timer(1.0, self.timer_callback)
+        self.count = 0
+
+    def timer_callback(self):
+        msg = String()
+        msg.data = f&#x27;Hello, ROS 2! ({self.count})&#x27;
+        self.publisher_.publish(msg)
+        self.get_logger().info(f&#x27;Publishing: &#x22;{msg.data}&#x22;&#x27;)
+        self.count += 1
+
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = PublisherNode()
+    try:
+        rclpy.spin(node)
+    finally:
+        node.destroy_node()
+        rclpy.shutdown()
+
+
+if __name__ == &#x27;__main__&#x27;:
+    main()" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>서브스크라이버 노드</strong> <code>my_pkg/my_pkg/subscriber_node.py</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> rclpy</span></span>
+<span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">node </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> Node</span></span>
+<span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> std_msgs</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">msg </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> String</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> SubscriberNode</span><span style="color:#86E1FC">(</span><span style="color:#C3E88D">Node</span><span style="color:#86E1FC">):</span></span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#65BCFF"> __init__</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF966C">        super</span><span style="color:#86E1FC">().</span><span style="color:#65BCFF">__init__</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">'</span><span style="color:#C3E88D">subscriber_node</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">subscription </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">create_subscription</span><span style="color:#86E1FC">(</span></span>
+<span data-line=""><span style="color:#C8D3F5">            String</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">chatter</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">callback</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">    def</span><span style="color:#82AAFF"> callback</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> msg</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">        self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get_logger</span><span style="color:#86E1FC">().</span><span style="color:#C8D3F5">info</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">f</span><span style="color:#C3E88D">'Received: "</span><span style="color:#FF98A4">{</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">data</span><span style="color:#FF98A4">}</span><span style="color:#C3E88D">"'</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">def</span><span style="color:#82AAFF"> main</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">args</span><span style="color:#86E1FC">=</span><span style="color:#FF98A4">None</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">    rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">init</span><span style="color:#86E1FC">(</span><span style="color:#FCA7EA">args</span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5">args</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">    node </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> SubscriberNode</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#86E1FC">    try:</span></span>
+<span data-line=""><span style="color:#C8D3F5">        rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">spin</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">node</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#86E1FC">    finally:</span></span>
+<span data-line=""><span style="color:#C8D3F5">        node</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">destroy_node</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">        rclpy</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">shutdown</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""> </span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">if</span><span style="color:#C8D3F5"> __name__ </span><span style="color:#86E1FC">==</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">__main__</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#C8D3F5">    main</span><span style="color:#86E1FC">()</span></span><button type="button" title="Copy code" aria-label="Copy code" data="import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+
+class SubscriberNode(Node):
+    def __init__(self):
+        super().__init__(&#x27;subscriber_node&#x27;)
+        self.subscription = self.create_subscription(
+            String, &#x27;chatter&#x27;, self.callback, 10)
+
+    def callback(self, msg):
+        self.get_logger().info(f&#x27;Received: &#x22;{msg.data}&#x22;&#x27;)
+
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = SubscriberNode()
+    try:
+        rclpy.spin(node)
+    finally:
+        node.destroy_node()
+        rclpy.shutdown()
+
+
+if __name__ == &#x27;__main__&#x27;:
+    main()" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>setup.py</strong>의 <code>entry_points</code>에 노드를 등록한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C8D3F5">entry_points</span><span style="color:#86E1FC">={</span></span>
+<span data-line=""><span style="color:#86E1FC">    '</span><span style="color:#C3E88D">console_scripts</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">:</span><span style="color:#86E1FC"> [</span></span>
+<span data-line=""><span style="color:#86E1FC">        '</span><span style="color:#C3E88D">publisher_node = my_pkg.publisher_node:main</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span></span>
+<span data-line=""><span style="color:#86E1FC">        '</span><span style="color:#C3E88D">subscriber_node = my_pkg.subscriber_node:main</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span></span>
+<span data-line=""><span style="color:#86E1FC">    ],</span></span>
+<span data-line=""><span style="color:#86E1FC">},</span></span><button type="button" title="Copy code" aria-label="Copy code" data="entry_points={
+    &#x27;console_scripts&#x27;: [
+        &#x27;publisher_node = my_pkg.publisher_node:main&#x27;,
+        &#x27;subscriber_node = my_pkg.subscriber_node:main&#x27;,
+    ],
+}," class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>빌드 후 <strong>두 터미널</strong>에서 각각 실행한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#65BCFF">source</span><span style="color:#C3E88D"> install/setup.bash</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> my_pkg</span><span style="color:#C3E88D"> publisher_node</span><span style="color:#858AA6">   # 터미널 1</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> run</span><span style="color:#C3E88D"> my_pkg</span><span style="color:#C3E88D"> subscriber_node</span><span style="color:#858AA6">  # 터미널 2</span></span><button type="button" title="Copy code" aria-label="Copy code" data="source install/setup.bash
+ros2 run my_pkg publisher_node   # 터미널 1
+ros2 run my_pkg subscriber_node  # 터미널 2" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>퍼블리셔가 <code>chatter</code> 토픽에 1초마다 메시지를 보내고, 서브스크라이버가 그 메시지를 출력한다. 커스텀 메시지를 쓰려면 먼저 <code>my_pkg_msgs</code>를 빌드하고, 위 노드에서 <code>std_msgs.msg.String</code> 대신 <code>my_pkg_msgs.msg.MyMessage</code>를 사용하면 된다.</p>
+<p><strong>예: MyMessage 사용 (퍼블리셔)</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> my_pkg_msgs</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">msg </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> MyMessage</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 퍼블리셔 생성</span></span>
+<span data-line=""><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">publisher_ </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">create_publisher</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">MyMessage</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">chatter</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 타이머 콜백에서 발행</span></span>
+<span data-line=""><span style="color:#C099FF">def</span><span style="color:#82AAFF"> timer_callback</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#C8D3F5">    msg </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> MyMessage</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#C8D3F5">    msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">name </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">robot</span><span style="color:#86E1FC">'</span></span>
+<span data-line=""><span style="color:#C8D3F5">    msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count</span></span>
+<span data-line=""><span style="color:#C8D3F5">    msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">value </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 3.14</span></span>
+<span data-line=""><span style="color:#FF757F">    self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">publisher_</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">publish</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#FF757F">    self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count </span><span style="color:#86E1FC">+=</span><span style="color:#FF966C"> 1</span></span><button type="button" title="Copy code" aria-label="Copy code" data="from my_pkg_msgs.msg import MyMessage
+
+# 퍼블리셔 생성
+self.publisher_ = self.create_publisher(MyMessage, &#x27;chatter&#x27;, 10)
+
+# 타이머 콜백에서 발행
+def timer_callback(self):
+    msg = MyMessage()
+    msg.name = &#x27;robot&#x27;
+    msg.count = self.count
+    msg.value = 3.14
+    self.publisher_.publish(msg)
+    self.count += 1" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>예: MyMessage 사용 (서브스크라이버)</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">from</span><span style="color:#C8D3F5"> my_pkg_msgs</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">msg </span><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> MyMessage</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FF757F">self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">subscription </span><span style="color:#86E1FC">=</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">create_subscription</span><span style="color:#86E1FC">(</span></span>
+<span data-line=""><span style="color:#C8D3F5">    MyMessage</span><span style="color:#86E1FC">,</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">chatter</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span><span style="color:#FF757F"> self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">callback</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">def</span><span style="color:#82AAFF"> callback</span><span style="color:#B4C2F0">(</span><span style="color:#FCA7EA">self</span><span style="color:#86E1FC">,</span><span style="color:#FCA7EA"> msg</span><span style="color:#B4C2F0">):</span></span>
+<span data-line=""><span style="color:#FF757F">    self</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">get_logger</span><span style="color:#86E1FC">().</span><span style="color:#C8D3F5">info</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">f</span><span style="color:#C3E88D">'Received: name=</span><span style="color:#FF98A4">{</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">name</span><span style="color:#FF98A4">}</span><span style="color:#C3E88D">, count=</span><span style="color:#FF98A4">{</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">count</span><span style="color:#FF98A4">}</span><span style="color:#C3E88D">, value=</span><span style="color:#FF98A4">{</span><span style="color:#C8D3F5">msg</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">value</span><span style="color:#FF98A4">}</span><span style="color:#C3E88D">'</span><span style="color:#86E1FC">)</span></span><button type="button" title="Copy code" aria-label="Copy code" data="from my_pkg_msgs.msg import MyMessage
+
+self.subscription = self.create_subscription(
+    MyMessage, &#x27;chatter&#x27;, self.callback, 10)
+
+def callback(self, msg):
+    self.get_logger().info(f&#x27;Received: name={msg.name}, count={msg.count}, value={msg.value}&#x27;)" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<p><strong>요약</strong></p>
+<table>
+<thead>
+<tr>
+<th>단계</th>
+<th>명령/위치</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>목표 구조</td>
+<td>문서 상단 <strong>목표 구조 (최종 폴더 모습)</strong> 참고</td>
+</tr>
+<tr>
+<td>워크스페이스</td>
+<td><code>mkdir -p workspace/src</code> → <code>cd workspace</code></td>
+</tr>
+<tr>
+<td>install/build/log 생성</td>
+<td><code>colcon build</code> (workspace에서)</td>
+</tr>
+<tr>
+<td>패키지 생성</td>
+<td><code>cd src</code> → <code>ros2 pkg create my_pkg --build-type ament_python</code></td>
+</tr>
+<tr>
+<td>메시지 패키지</td>
+<td><code>ros2 pkg create my_pkg_msgs --build-type ament_cmake</code> → <code>msg/</code>에 <code>.msg</code> 정의, package.xml·CMakeLists 수정</td>
+</tr>
+<tr>
+<td>퍼블리셔/서브스크라이버</td>
+<td><code>my_pkg</code> 안에 노드 스크립트 추가 → <code>setup.py</code> entry_points 등록</td>
+</tr>
+<tr>
+<td>빌드·환경 로드</td>
+<td><code>colcon build</code> → <code>source install/setup.bash</code></td>
+</tr>
+</tbody>
+</table>6:["$","$L4","ROS/pkg",{"post":{"metadata":{"title":"workspace & package","summary":"ROS 2 워크스페이스 생성, ament_python 패키지·메시지 패키지(my_pkg_msgs)·퍼블리셔/서브스크라이버 예제, 폴더 구조 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/pkg","source":"$12","type":"markdown","parentFolder":"ROS"},"locale":"ko","delay":0.13}]
+13:T1b9d,<h2 id="nodes-노드"><a class="heading-link" aria-hidden="true" href="#nodes-노드">Nodes (노드)</a></h2>
+<p><strong>노드</strong>는 ROS 2 그래프의 <strong>참여자</strong>로, <strong>클라이언트 라이브러리</strong>를 통해 다른 노드와 통신한다.</p>
+<ul>
+<li><strong>위치</strong>: 같은 프로세스, 다른 프로세스, 다른 기기에서 실행되는 노드와 모두 통신할 수 있다.</li>
+<li><strong>역할</strong>: ROS 그래프에서 <strong>계산의 단위</strong>이며, 각 노드는 <strong>하나의 논리적 일</strong>을 담당하는 것이 좋다.</li>
+<li><strong>통신 방식</strong>
+<ul>
+<li><strong>토픽</strong>: 명명된 토픽에 <strong>발행(publish)</strong> 하거나 <strong>구독(subscribe)</strong> 해서 데이터를 주고받는다.</li>
+<li><strong>서비스</strong>: <strong>서비스 클라이언트</strong>로 다른 노드에 연산을 요청하거나, <strong>서비스 서버</strong>로 다른 노드에 기능을 제공한다.</li>
+<li><strong>액션</strong>: 장시간 작업은 <strong>액션 클라이언트</strong>로 다른 노드에 맡기거나, <strong>액션 서버</strong>로 다른 노드에 기능을 제공한다.</li>
+</ul>
+</li>
+<li><strong>파라미터</strong>: 실행 중 동작을 바꾸기 위해 <strong>구성 가능한 파라미터</strong>를 노출할 수 있다.</li>
+<li><strong>조합</strong>: 한 노드가 발행자·구독자·서비스 서버/클라이언트·액션 서버/클라이언트를 <strong>동시에</strong> 가지는 경우가 많다.</li>
+</ul>
+<p>노드 간 <strong>연결</strong>은 <strong>분산 디스커버리(distributed discovery)</strong> 과정을 통해 이루어진다.</p>
+<h2 id="discovery-디스커버리"><a class="heading-link" aria-hidden="true" href="#discovery-디스커버리">Discovery (디스커버리)</a></h2>
+<p>노드 간 <strong>디스커버리</strong>는 ROS 2 <strong>미들웨어</strong>에 의해 <strong>자동</strong>으로 이루어진다.</p>
+<ol>
+<li><strong>시작 시</strong>: 노드가 시작되면, <strong>같은 ROS 도메인</strong>에 있는 다른 노드들에게 자신의 존재를 <strong>광고</strong>한다. (ROS 도메인은 환경 변수 <code>ROS_DOMAIN_ID</code>로 설정한다.) 다른 노드들은 이 광고에 자신에 대한 정보를 담아 응답하고, 그에 따라 <strong>연결이 맺어져</strong> 통신이 가능해진다.</li>
+<li><strong>주기 광고</strong>: 노드는 <strong>주기적으로</strong> 자신의 존재를 광고한다. 그래서 초기 디스커버리 이후에 나중에 켜진 노드와도 연결할 수 있다.</li>
+<li><strong>종료 시</strong>: 노드가 <strong>오프라인</strong>이 될 때도 다른 노드들에게 알린다.</li>
+</ol>
+<p><strong>연결 조건</strong>: 노드끼리 <strong>Quality of Service(QoS) 설정이 호환</strong>될 때만 실제 연결이 수립된다.</p>
+<p>예: C++ talker를 한 터미널에서, Python listener를 다른 터미널에서 실행하면, 같은 토픽 이름으로 <strong>자동으로 서로를 찾아</strong> 메시지를 주고받기 시작한다.</p>
+<h2 id="node-명령어"><a class="heading-link" aria-hidden="true" href="#node-명령어">Node 명령어</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 실행 중인 노드 목록 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> node</span><span style="color:#C3E88D"> list</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 특정 노드의 퍼블리셔/서브스크라이버/서비스/액션 정보 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> node</span><span style="color:#C3E88D"> info</span><span style="color:#C3E88D"> /turtlesim</span></span>
+<span data-line=""><span style="color:#858AA6"># /turtlesim</span></span>
+<span data-line=""><span style="color:#858AA6">#   Subscribers: ...</span></span>
+<span data-line=""><span style="color:#858AA6">#   Publishers: ...</span></span>
+<span data-line=""><span style="color:#858AA6">#   Service Servers: ...</span></span>
+<span data-line=""><span style="color:#858AA6">#   Action Servers: ...</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 실행 중인 노드 목록 확인
+ros2 node list
+
+# 특정 노드의 퍼블리셔/서브스크라이버/서비스/액션 정보 확인
+ros2 node info /turtlesim
+# /turtlesim
+#   Subscribers: ...
+#   Publishers: ...
+#   Service Servers: ...
+#   Action Servers: ..." class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Nodes.html">Nodes — ROS 2 Jazzy</a> · <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Discovery.html">Discovery — ROS 2 Jazzy</a></p>7:["$","$L4","ROS/concepts/nodes",{"post":{"metadata":{"title":"basic - nodes","summary":"ROS 2 노드의 정의·역할·통신 방식, 분산 디스커버리(Discovery) 동작 방식, 노드 관련 CLI 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/nodes","source":"$13","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.18}]
+14:T184d,<p>ROS 2 애플리케이션은 <strong>토픽</strong>, <strong>서비스</strong>, <strong>액션</strong> 중 하나의 인터페이스로 통신한다. ROS 2는 <strong>인터페이스 정의 언어(IDL)</strong> 로 이 인터페이스를 기술하고, 이 설명을 바탕으로 여러 언어용 소스 코드를 자동 생성한다.</p>
+<p>지원하는 인터페이스 종류는 다음과 같다.</p>
+<table>
+<thead>
+<tr>
+<th>종류</th>
+<th>파일</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>msg</strong></td>
+<td><code>.msg</code></td>
+<td>메시지 필드 정의. 토픽 등에서 “응답 없이” 데이터를 보낼 때 사용</td>
+</tr>
+<tr>
+<td><strong>srv</strong></td>
+<td><code>.srv</code></td>
+<td>서비스 정의. <strong>요청(request)</strong> 과 <strong>응답(response)</strong> 두 부분(각각 메시지 선언), <code>---</code>로 구분</td>
+</tr>
+<tr>
+<td><strong>action</strong></td>
+<td><code>.action</code></td>
+<td>액션 정의. <strong>goal</strong> / <strong>result</strong> / <strong>feedback</strong> 세 부분(각각 메시지 선언), <code>---</code>로 구분</td>
+</tr>
+</tbody>
+</table>
+<h2 id="messages"><a class="heading-link" aria-hidden="true" href="#messages">Messages</a></h2>
+<p><strong>메시지</strong>는 한 노드가 다른 노드에게 <strong>응답을 기대하지 않고</strong> 데이터를 보낼 때 쓰인다. 예: 센서에서 온도 데이터를 읽어 <code>Temperature</code> 메시지로 토픽에 발행하면, 다른 노드가 구독해 그 메시지를 받는다.</p>
+<p>메시지는 패키지의 <code>msg/</code> 디렉터리 안 <code>.msg</code> 파일로 정의한다. <strong>필드(fields)</strong> 와 <strong>상수(constants)</strong> 로 구성된다.</p>
+<h3 id="fields-필드"><a class="heading-link" aria-hidden="true" href="#fields-필드">Fields (필드)</a></h3>
+<p>각 필드는 <strong>타입</strong>과 <strong>이름</strong>을 공백으로 구분해 한 줄에 쓴다.</p>
+<pre><code>fieldtype1 fieldname1
+fieldtype2 fieldname2
+</code></pre>
+<p>예: <code>int32 my_int</code>, <code>string my_string</code></p>
+<ul>
+<li><strong>필드 타입</strong>: (1) <strong>기본 타입</strong> — 아래 표. (2) <strong>다른 메시지 타입</strong> — 예: <code>geometry_msgs/PoseStamped</code>.</li>
+<li><strong>필드 이름</strong>: 소문자·숫자·밑줄(<code>_</code>)만 사용. 알파벳으로 시작하고, 밑줄로 끝나거나 연속 밑줄(<code>__</code>)은 안 됨.</li>
+<li><strong>기본값</strong>: 세 번째 요소로 지정 가능. 예: <code>uint8 x 42</code>, <code>string full_name "John Doe</code>. 문자열/문자열 배열·복합 타입에는 현재 기본값 미지원.</li>
+</ul>
+<p><strong>기본 타입 (Built-in types)</strong></p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>C++</th>
+<th>Python</th>
+<th>DDS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bool</td>
+<td>bool</td>
+<td>builtins.bool</td>
+<td>boolean</td>
+</tr>
+<tr>
+<td>byte</td>
+<td>uint8_t</td>
+<td>builtins.bytes*</td>
+<td>octet</td>
+</tr>
+<tr>
+<td>char</td>
+<td>char</td>
+<td>builtins.int*</td>
+<td>char</td>
+</tr>
+<tr>
+<td>float32</td>
+<td>float</td>
+<td>builtins.float*</td>
+<td>float</td>
+</tr>
+<tr>
+<td>float64</td>
+<td>double</td>
+<td>builtins.float*</td>
+<td>double</td>
+</tr>
+<tr>
+<td>int8~uint64</td>
+<td>int8_t 등</td>
+<td>builtins.int*</td>
+<td>(생략)</td>
+</tr>
+<tr>
+<td>string</td>
+<td>std::string</td>
+<td>builtins.str</td>
+<td>string</td>
+</tr>
+<tr>
+<td>wstring</td>
+<td>std::u16string</td>
+<td>builtins.str</td>
+<td>wstring</td>
+</tr>
+</tbody>
+</table>
+<p>기본 타입은 모두 <strong>배열</strong>로 쓸 수 있다: <code>int32[]</code>(동적 무제한), <code>int32[5]</code>(고정 5개), <code>int32[&#x3C;=5]</code>(최대 5개), <code>string&#x3C;=10</code>(최대 10자 문자열) 등.</p>
+<h3 id="constants-상수"><a class="heading-link" aria-hidden="true" href="#constants-상수">Constants (상수)</a></h3>
+<p>필드와 비슷하지만 <strong>대입 후 변경 불가</strong>하다. <code>=</code> 로 값을 넣고, <strong>이름은 대문자</strong>로 쓴다.</p>
+<pre><code>int32 X=123
+string FOO="foo"
+</code></pre>
+<h2 id="services"><a class="heading-link" aria-hidden="true" href="#services">Services</a></h2>
+<p>서비스는 <strong>요청/응답</strong> 통신이다. 클라이언트가 서버에게 짧은 연산을 요청하고, 서버가 결과를 반환한다.</p>
+<p>서비스는 패키지의 <code>srv/</code> 디렉터리 안 <code>.srv</code> 파일로 정의한다. <strong>요청</strong>과 <strong>응답</strong> 메시지 선언을 <code>---</code> 로 구분한다. <code>---</code> 로 이어진 두 개의 <code>.msg</code> 내용이 곧 유효한 서비스 정의다.</p>
+<p>간단한 예 (문자열 받아 문자열 반환):</p>
+<pre><code>string str
+---
+string str
+</code></pre>
+<p>요청/응답 각각에 상수·필드·다른 패키지 메시지 타입을 쓸 수 있다. <strong>서비스 안에 다른 서비스를 넣을 수는 없다.</strong></p>
+<h2 id="actions"><a class="heading-link" aria-hidden="true" href="#actions">Actions</a></h2>
+<p>액션은 <strong>장시간 요청/응답</strong> 통신이다. 액션 클라이언트가 서버에게 작업을 요청하고, 서버가 진행 중 <strong>피드백</strong>을 보내며 결과를 반환하며, <strong>중단</strong>도 가능하다.</p>
+<p>액션은 <strong>goal</strong> / <strong>result</strong> / <strong>feedback</strong> 세 부분을 <code>---</code> 로 구분해 정의한다. 각 부분은 0개 이상의 필드를 가질 수 있으며, 타입·필드 이름 규칙은 메시지와 동일하다. 액션 정의는 패키지의 <strong><code>action/</code></strong> 폴더에 <code>.action</code> 파일로 둔다</p>
+<p>예 (피보나치 액션):</p>
+<pre><code>int32 order
+---
+int32[] sequence
+---
+int32[] sequence
+</code></pre>
+<p>클라이언트는 <code>order</code>(몇 번째까지 계산할지)를 goal로 보내고, 서버는 최종 수열을 result로, 중간 수열을 feedback으로 보낸다.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Interfaces.html">Interfaces — ROS 2 Jazzy</a></p>8:["$","$L4","ROS/concepts/interfaces",{"post":{"metadata":{"title":"basic - interfaces","summary":"ROS 2 인터페이스 종류(msg/srv/action), IDL 파일 형태, 메시지 필드·상수 규칙 및 기본/배열 타입을 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/interfaces","source":"$14","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.23000000000000004}]
+15:T1d22,<p>**토픽(Topic)**은 ROS 2의 세 가지 주요 통신 방식 중 하나다. <strong>연속적인 데이터 스트림</strong>—센서 데이터, 로봇 상태 등—에 사용한다.</p>
+<p>ROS 2는 **강타입(strongly-typed)**이고 **익명(anonymous)**인 <strong>발행/구독(publish/subscribe)</strong> 시스템이다. 아래에서 이 특성을 정리한다.</p>
+<h2 id="publishsubscribe"><a class="heading-link" aria-hidden="true" href="#publishsubscribe">Publish/Subscribe</a></h2>
+<p>데이터를 **만드는 쪽(Publisher)**과 **받는 쪽(Subscriber)**가 있다. 서로 **토픽(topic)**이라는 공통 이름으로 연결된다. 퍼블리셔를 만들 때 토픽 이름을 지정하고, 같은 토픽 이름으로 구독하는 서브스크라이버와 자동으로 통신한다.</p>
+<ul>
+<li>한 토픽에 <strong>퍼블리셔 0개 이상, 서브스크라이버 0개 이상</strong> 존재할 수 있다.</li>
+<li>어떤 퍼블리셔가 토픽에 데이터를 보내면 <strong>그 토픽을 구독하는 모든 서브스크라이버</strong>가 그 데이터를 받는다.</li>
+<li>이 구조를 **버스(bus)**에 비유한다. 퍼블리셔와 서브스크라이버가 필요에 따라 붙었다 떨어졌다 해도 되고, 그래서 디버깅·관측이 자연스럽다. 예: <code>ros2 bag record</code>는 지정한 토픽에 <strong>새 서브스크라이버를 하나 더 만드는 것</strong>일 뿐이라, 다른 노드들의 데이터 흐름을 끊지 않는다.</li>
+</ul>
+<h2 id="anonymous-익명"><a class="heading-link" aria-hidden="true" href="#anonymous-익명">Anonymous (익명)</a></h2>
+<p><strong>익명</strong>이란, 서브스크라이버가 데이터를 받을 때 <strong>어느 퍼블리셔가 보냈는지 보통은 모르고 알 필요도 없다</strong>는 뜻이다(필요하면 조회는 가능). 그래서 퍼블리셔나 서브스크라이버를 바꿔 끼워도 시스템 나머지에 영향을 주지 않는다.</p>
+<h2 id="strongly-typed-강타입"><a class="heading-link" aria-hidden="true" href="#strongly-typed-강타입">Strongly-typed (강타입)</a></h2>
+<p><strong>강타입</strong>은 두 가지 의미가 있다.</p>
+<ol>
+<li><strong>필드 타입이 정해져 있고 검사된다.</strong> 메시지에 <code>uint32 field1</code>, <code>string field2</code>가 있으면, <code>field1</code>은 항상 부호 없는 정수, <code>field2</code>는 항상 문자열로 다뤄진다.</li>
+<li><strong>필드의 의미(시맨틱)가 정의되어 있다.</strong> 자동으로 강제되지는 않지만, ROS 표준 메시지들은 의미가 명시되어 있다. 예: IMU 메시지의 각속도는 3차원 벡터이고, 단위는 rad/s로 정해져 있다.</li>
+</ol>
+<h2 id="topic-명령어"><a class="heading-link" aria-hidden="true" href="#topic-명령어">Topic 명령어</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 토픽 목록 및 메시지 타입 확인 (-t: with type)</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> topic</span><span style="color:#C3E88D"> list</span><span style="color:#C3E88D"> -t</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 토픽 상세 정보 (퍼블리셔/서브스크라이버 수 등)</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> topic</span><span style="color:#C3E88D"> list</span><span style="color:#C3E88D"> -v</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 토픽 메시지 인터페이스(필드) 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> interface</span><span style="color:#C3E88D"> show</span><span style="color:#C3E88D"> turtlesim/msg/Pose</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 x</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 y</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 theta</span></span>
+<span data-line=""><span style="color:#858AA6"># ...</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 linear_velocity</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 angular_velocity</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 토픽 데이터 실시간 구독·출력</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> topic</span><span style="color:#C3E88D"> echo</span><span style="color:#C3E88D"> /turtle1/pose</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 토픽 목록 및 메시지 타입 확인 (-t: with type)
+ros2 topic list -t
+
+# 토픽 상세 정보 (퍼블리셔/서브스크라이버 수 등)
+ros2 topic list -v
+
+# 토픽 메시지 인터페이스(필드) 확인
+ros2 interface show turtlesim/msg/Pose
+# float32 x
+# float32 y
+# float32 theta
+# ...
+# float32 linear_velocity
+# float32 angular_velocity
+
+# 토픽 데이터 실시간 구독·출력
+ros2 topic echo /turtle1/pose" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Topics.html">Topics — ROS 2 Jazzy</a></p>9:["$","$L4","ROS/concepts/topics",{"post":{"metadata":{"title":"basic - topics","summary":"ROS 2 토픽의 용도, Pub/Sub·익명성·강타입 특성, 토픽 관련 CLI 명령어 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/topics","source":"$15","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.28}]
+16:T1ca8,<p>ROS 2에서 **서비스(Service)**는 **원격 프로시저 호출(RPC)**을 의미한다. 한 노드가 다른 노드에게 계산을 요청하고, 그 노드가 연산을 수행한 뒤 <strong>결과를 한 번 반환</strong>하는 구조다.</p>
+<blockquote>
+<p><strong>RPC(Remote Procedure Call)</strong><br>
+네트워크로 연결된 다른 프로세스의 함수를 로컬 함수처럼 호출하는 기술. 클라이언트가 요청을 보내면 서버가 계산 후 응답을 돌려준다.</p>
+</blockquote>
+<p>서비스 메시지 정의는 **요청(request)**과 <strong>응답(response)</strong> 두 부분으로 나뉜다.</p>
+<pre><code>uint32 a
+uint32 b
+---
+uint32 sum
+</code></pre>
+<p>ROS 2에서는 <strong>클라이언트가 결과를 기다리는</strong> 방식이므로, 서비스는 <strong>빠르게 응답하는 작업</strong>에 쓴다. 오래 걸리거나 중간에 취소·선점이 필요하거나 진행 피드백이 필요한 작업에는 <strong>액션</strong>을 사용한다. 서비스를 쓰면 안 되는 경우 예: 긴 계산, 로봇 이동, 취소(preempt) 가능 작업, 상태 피드백이 필요한 작업.</p>
+<p>서비스는 <strong>서비스 이름</strong>(토픽 이름과 비슷하지만 별도 네임스페이스)으로 식별된다. 서비스는 <strong>Service Server</strong>와 <strong>Service Client</strong> 두 부분으로 구성된다.</p>
+<h2 id="service-server"><a class="heading-link" aria-hidden="true" href="#service-server">Service Server</a></h2>
+<p><strong>Service Server</strong>는 원격 프로시저 <strong>요청을 받아 연산을 수행하고 결과를 반환하는</strong> 쪽이다. 위 예에서 서버는 <code>a</code>와 <code>b</code>를 받아 더한 뒤 <code>sum</code>을 반환한다.</p>
+<blockquote>
+<p>하나의 서비스 이름에는 <strong>Service Server는 하나만</strong> 있어야 한다. 같은 이름에 서버가 여러 개면 어떤 서버가 요청을 받을지 정의되지 않는다.</p>
+</blockquote>
+<h2 id="service-client"><a class="heading-link" aria-hidden="true" href="#service-client">Service Client</a></h2>
+<p><strong>Service Client</strong>는 Service Server에게 <strong>연산을 요청하는</strong> 쪽이다. 위 예에서 클라이언트는 <code>a</code>, <code>b</code>를 담은 요청을 보내고, 서버가 <code>sum</code>을 계산해 돌려줄 때까지 대기한다. <strong>Service Client는 동일 서비스 이름에 여러 개</strong> 존재할 수 있다.</p>
+<h2 id="service-명령어"><a class="heading-link" aria-hidden="true" href="#service-명령어">Service 명령어</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 서비스 목록 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> service</span><span style="color:#C3E88D"> list</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 서비스 타입 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> service</span><span style="color:#C3E88D"> type</span><span style="color:#C3E88D"> /turtle1/teleport_absolute</span></span>
+<span data-line=""><span style="color:#858AA6"># turtlesim/srv/TeleportAbsolute</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 서비스 인터페이스(요청/응답 필드) 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> interface</span><span style="color:#C3E88D"> show</span><span style="color:#C3E88D"> turtlesim/srv/TeleportAbsolute</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 x</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 y</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 theta</span></span>
+<span data-line=""><span style="color:#858AA6"># ---</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 서비스 호출 (x, y, theta 값 전달)</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> service</span><span style="color:#C3E88D"> call</span><span style="color:#C3E88D"> /turtle1/teleport_absolute</span><span style="color:#C3E88D"> turtlesim/srv/TeleportAbsolute</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">{x: 2, y: 2, theta: 1.57}</span><span style="color:#86E1FC">"</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 서비스 목록 확인
+ros2 service list
+
+# 서비스 타입 확인
+ros2 service type /turtle1/teleport_absolute
+# turtlesim/srv/TeleportAbsolute
+
+# 서비스 인터페이스(요청/응답 필드) 확인
+ros2 interface show turtlesim/srv/TeleportAbsolute
+# float32 x
+# float32 y
+# float32 theta
+# ---
+
+# 서비스 호출 (x, y, theta 값 전달)
+ros2 service call /turtle1/teleport_absolute turtlesim/srv/TeleportAbsolute &#x22;{x: 2, y: 2, theta: 1.57}&#x22;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Services.html">Services — ROS 2 Jazzy</a></p>a:["$","$L4","ROS/concepts/services",{"post":{"metadata":{"title":"basic - services","summary":"ROS 2 서비스(RPC)의 개념, Server/Client 구조, 사용 시점(서비스 vs 액션), 서비스 관련 CLI 명령어를 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/services","source":"$16","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.33}]
+17:T1f72,<p>ROS 2에서 **액션(Action)**은 <strong>피드백과 취소·선점(preempt)이 가능한 장시간 원격 프로시저 호출</strong>이다. 예: 상위 상태 기계가 내비게이션에 “웨이포인트까지 이동해라”고 액션을 호출하면, 수 초~수 분 걸리는 동안 진행 상황 피드백을 받고, 필요 시 목표(goal)를 취소하거나 선점할 수 있다.</p>
+<p>액션 메시지 정의는 <strong>요청(goal)</strong> / <strong>응답(result)</strong> / <strong>피드백(feedback)</strong> 세 부분으로 구성된다.</p>
+<pre><code>int32 order        # goal: 요청
+---
+int32[] sequence   # result: 최종 결과
+---
+int32[] sequence   # feedback: 진행 중 피드백
+</code></pre>
+<p>장시간 작업에는 액션을, <strong>짧은 RPC</strong>에는 서비스를 사용한다. 액션은 연결 설정·모니터링 오버헤드가 있으므로 단시간 호출에는 서비스가 적합하다. 액션은 <strong>액션 이름</strong>(토픽 이름과 비슷하지만 별도 네임스페이스)으로 식별된다.</p>
+<h2 id="action-server"><a class="heading-link" aria-hidden="true" href="#action-server">Action Server</a></h2>
+<p><strong>Action Server</strong>는 원격 프로시저 요청(goal)을 <strong>받아 실행하는 쪽</strong>이다. 실행 중 피드백을 보내고, 취소·선점 요청에 반응해야 한다. 예: 피보나치 수열 계산 액션 — <code>order</code>를 받아 수열을 계산하며 중간 <code>sequence</code>를 피드백하고, 최종 결과를 <code>sequence</code>로 반환.</p>
+<blockquote>
+<p>하나의 액션 이름에는 <strong>Action Server는 하나만</strong> 있어야 한다. 같은 이름에 서버가 여러 개면 어떤 서버가 요청을 받을지 정의되지 않는다.</p>
+</blockquote>
+<h2 id="action-client"><a class="heading-link" aria-hidden="true" href="#action-client">Action Client</a></h2>
+<p><strong>Action Client</strong>는 Action Server에게 <strong>작업(goal) 수행을 요청하는 쪽</strong>이다. 위 예에서 클라이언트는 <code>order</code>를 담은 goal을 보내고, 서버가 수열을 계산해 결과(result)와 피드백을 돌려줄 때까지 대기한다. <strong>Action Client는 동일 액션 이름에 여러 개</strong> 존재할 수 있다.</p>
+<h2 id="action-명령어"><a class="heading-link" aria-hidden="true" href="#action-명령어">Action 명령어</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 액션 목록 및 타입 확인 (-t: with type)</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> action</span><span style="color:#C3E88D"> list</span><span style="color:#C3E88D"> -t</span></span>
+<span data-line=""><span style="color:#858AA6"># /turtle1/rotate_absolute [turtlesim/action/RotateAbsolute]</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 액션 인터페이스(Goal/Result/Feedback) 확인</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> interface</span><span style="color:#C3E88D"> show</span><span style="color:#C3E88D"> turtlesim/action/RotateAbsolute</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 theta</span></span>
+<span data-line=""><span style="color:#858AA6"># ---</span></span>
+<span data-line=""><span style="color:#858AA6"># # The angular displacement in radians to the starting position</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 delta</span></span>
+<span data-line=""><span style="color:#858AA6"># ---</span></span>
+<span data-line=""><span style="color:#858AA6"># # The remaining rotation in radians</span></span>
+<span data-line=""><span style="color:#858AA6"># float32 remaining</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Goal 전송 (theta: 목표 각도, 라디안)</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> action</span><span style="color:#C3E88D"> send_goal</span><span style="color:#C3E88D"> /turtle1/rotate_absolute</span><span style="color:#C3E88D"> turtlesim/action/RotateAbsolute</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">{theta: 3.14}</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Goal 전송 + 진행 피드백 실시간 출력</span></span>
+<span data-line=""><span style="color:#FFC777">ros2</span><span style="color:#C3E88D"> action</span><span style="color:#C3E88D"> send_goal</span><span style="color:#C3E88D"> /turtle1/rotate_absolute</span><span style="color:#C3E88D"> turtlesim/action/RotateAbsolute</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">{theta: 3.14}</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D"> --feedback</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 액션 목록 및 타입 확인 (-t: with type)
+ros2 action list -t
+# /turtle1/rotate_absolute [turtlesim/action/RotateAbsolute]
+
+# 액션 인터페이스(Goal/Result/Feedback) 확인
+ros2 interface show turtlesim/action/RotateAbsolute
+# float32 theta
+# ---
+# # The angular displacement in radians to the starting position
+# float32 delta
+# ---
+# # The remaining rotation in radians
+# float32 remaining
+
+# Goal 전송 (theta: 목표 각도, 라디안)
+ros2 action send_goal /turtle1/rotate_absolute turtlesim/action/RotateAbsolute &#x22;{theta: 3.14}&#x22;
+
+# Goal 전송 + 진행 피드백 실시간 출력
+ros2 action send_goal /turtle1/rotate_absolute turtlesim/action/RotateAbsolute &#x22;{theta: 3.14}&#x22; --feedback" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Actions.html">Actions — ROS 2 Jazzy</a></p>b:["$","$L4","ROS/concepts/actions",{"post":{"metadata":{"title":"basic - actions","summary":"ROS 2 액션(장시간 RPC)의 개념, Action Server/Client 구조, 서비스와의 차이, 액션 메시지 형식을 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/actions","source":"$17","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.38000000000000006}]
+18:T1c7d,<p>ROS 2에서 **파라미터(Parameters)**는 <strong>개별 노드에 연결된 설정값</strong>이다. 코드 수정 없이 노드를 시작할 때(및 런타임에) 구성할 수 있으며, 파라미터의 수명은 노드 수명에 묶인다(재시작 후 값을 다시 불러오는 등 persistence는 노드에서 구현 가능).</p>
+<p>파라미터는 <strong>노드 이름, 노드 네임스페이스, 파라미터 이름, 파라미터 네임스페이스</strong>로 지정된다. 파라미터 네임스페이스는 선택 사항이다.</p>
+<p>각 파라미터는 <strong>키(key)</strong>, <strong>값(value)</strong>, **디스크립터(descriptor)**로 구성된다. 키는 문자열이고, 값 타입은 <code>bool</code>, <code>int64</code>, <code>float64</code>, <code>string</code>, <code>byte[]</code>, <code>bool[]</code>, <code>int64[]</code>, <code>float64[]</code>, <code>string[]</code> 중 하나다. 디스크립터는 기본적으로 비어 있으며, 설명·값 범위·타입 정보·제약 조건 등을 넣을 수 있다.</p>
+<blockquote>
+<p>실습 튜토리얼: <a href="https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Parameters/Understanding-ROS2-Parameters.html">Understanding parameters</a> (공식 문서)</p>
+</blockquote>
+<h2 id="parameters-background"><a class="heading-link" aria-hidden="true" href="#parameters-background">Parameters background</a></h2>
+<h3 id="declaring-parameters-선언"><a class="heading-link" aria-hidden="true" href="#declaring-parameters-선언">Declaring parameters (선언)</a></h3>
+<p>기본적으로 노드는 <strong>수명 동안 받아들일 모든 파라미터를 미리 선언</strong>해야 한다. 이렇게 하면 타입과 이름이 노드 시작 시점에 정해져 나중에 잘못된 설정 가능성이 줄어든다. 선언하지 않은 파라미터도 허용하려면 노드 생성 시 <code>allow_undeclared_parameters: true</code>로 설정할 수 있다.</p>
+<h3 id="parameter-types-타입"><a class="heading-link" aria-hidden="true" href="#parameter-types-타입">Parameter types (타입)</a></h3>
+<p>각 파라미터는 위 Overview에 나온 사전 정의 타입 중 하나를 가진다. 기본적으로 <strong>선언된 파라미터의 타입을 런타임에 바꾸려고 하면 실패</strong>한다(예: 정수 파라미터에 불리언 대입 방지). 여러 타입을 허용하려면 선언 시 <code>ParameterDescriptor</code>의 <code>dynamic_typing: true</code>를 사용한다.</p>
+<h3 id="parameter-callbacks-콜백"><a class="heading-link" aria-hidden="true" href="#parameter-callbacks-콜백">Parameter callbacks (콜백)</a></h3>
+<p>누군가 노드의 파라미터를 <strong>바꾸려고 할 때</strong>, 그 전·중·후에 끼어들 수 있는 **세 가지 훅(hook)**이 있다. 모두 선택 사항이다.</p>
+<p><strong>흐름</strong>: (요청 들어옴) → <strong>pre set</strong> → <strong>set</strong> → (실제 반영) → <strong>post set</strong></p>
+<ul>
+<li><strong>pre set</strong> (<code>add_pre_set_parameters_callback</code>): “아직 반영되기 전”에 호출된다. “이번에 바뀌려는 값 목록”을 받아서 <strong>그 목록을 수정</strong>할 수 있다. 예: <code>max_speed</code>가 바뀔 때마다 <code>min_speed</code>도 같이 바꾸고 싶다면, 여기서 목록에 <code>min_speed</code> 변경을 추가하면 된다.</li>
+<li><strong>set</strong> (<code>add_on_set_parameters_callback</code>): “이 값으로 바꿔도 될지” <strong>승인/거부</strong>만 하는 단계다. 받은 값을 검사해서 “허용” 또는 “거부”를 반환한다. 여기서는 <strong>다른 상태를 바리거나 부수 효과를 두면 안 된다</strong> — 여러 콜백이 순서대로 실행되기 때문에, 나중 콜백에서 거부하면 실제로는 반영이 안 되는데 이미 상태만 바뀌어서 어긋날 수 있다.</li>
+<li><strong>post set</strong> (<code>add_post_set_parameters_callback</code>): <strong>실제로 파라미터가 반영된 뒤</strong>에 한 번 호출된다. “값이 바뀌었으니 이제 뭔가 반응해야 할 때” 쓰면 된다. 예: <code>max_speed</code>가 바뀌었으면 내부 제한치를 갱신하거나 로그를 남기는 등.</li>
+</ul>
+<h2 id="interacting-with-parameters"><a class="heading-link" aria-hidden="true" href="#interacting-with-parameters">Interacting with parameters</a></h2>
+<ul>
+<li><strong>노드 내부</strong>: 노드 API로 파라미터 조회·설정 (C++/Python: 공식 튜토리얼 "Using parameters in a class" 참고).</li>
+<li><strong>외부 프로세스</strong>: 노드가 기본으로 생성하는 <strong>파라미터 서비스</strong>를 통해 조회·설정.</li>
+</ul>
+<p>노드가 기본 제공하는 서비스 예:</p>
+<table>
+<thead>
+<tr>
+<th>서비스</th>
+<th>타입</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>~/describe_parameters</code></td>
+<td><code>rcl_interfaces/srv/DescribeParameters</code></td>
+<td>파라미터 이름 목록 → 디스크립터 목록</td>
+</tr>
+<tr>
+<td><code>~/get_parameter_types</code></td>
+<td><code>rcl_interfaces/srv/GetParameterTypes</code></td>
+<td>파라미터 이름 목록 → 타입 목록</td>
+</tr>
+<tr>
+<td><code>~/get_parameters</code></td>
+<td><code>rcl_interfaces/srv/GetParameters</code></td>
+<td>파라미터 이름 목록 → 값 목록</td>
+</tr>
+<tr>
+<td><code>~/list_parameters</code></td>
+<td><code>rcl_interfaces/srv/ListParameters</code></td>
+<td>접두사(선택) → 해당 파라미터 목록 (비우면 전체)</td>
+</tr>
+<tr>
+<td><code>~/set_parameters</code></td>
+<td><code>rcl_interfaces/srv/SetParameters</code></td>
+<td>이름·값 목록으로 설정. 각 파라미터별 성공/실패 결과 반환</td>
+</tr>
+<tr>
+<td><code>~/set_parameters_atomically</code></td>
+<td><code>rcl_interfaces/srv/SetParametersAtomically</code></td>
+<td>한 번에 설정. 하나라도 실패하면 전체 실패</td>
+</tr>
+</tbody>
+</table>
+<p>(<code>~/</code>는 해당 노드 이름 기준, 예: <code>/node_name/...</code>)</p>
+<h2 id="초기값-설정"><a class="heading-link" aria-hidden="true" href="#초기값-설정">초기값 설정</a></h2>
+<ul>
+<li><strong>노드 실행 시</strong>: 커맨드라인 인자 또는 YAML 파일로 초기 파라미터 지정. (공식 문서 "Setting parameters directly from the command line" 참고)</li>
+<li><strong>Launch 시</strong>: ROS 2 launch에서 파라미터 지정. (Launch 문서 참고)</li>
+</ul>
+<h2 id="런타임-조작"><a class="heading-link" aria-hidden="true" href="#런타임-조작">런타임 조작</a></h2>
+<p>이미 동작 중인 노드의 파라미터는 <strong><code>ros2 param</code></strong> CLI로 조회·설정한다. 내부적으로 위 파라미터 서비스 API를 사용한다. 자세한 사용법: <a href="https://docs.ros.org/en/jazzy/How-To-Guides/Using-The-Ros2-Param-Command-Line-Tool.html">Using the ros2 param command-line tool</a>.</p>
+<p>프로그래밍으로는 C++(rclcpp), Python(rclpy) 클라이언트 라이브러리에서 get/set 및 파라미터 변경 감지 API를 제공한다.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Parameters.html">Parameters — ROS 2 Jazzy</a></p>c:["$","$L4","ROS/concepts/parameters",{"post":{"metadata":{"title":"basic - parameters","summary":"ROS 2 파라미터의 개념, 선언·타입·콜백, 파라미터 서비스, 초기값 설정 및 런타임 조작을 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/parameters","source":"$18","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.43000000000000005}]
+19:T6cc,<p>ROS 2 시스템은 보통 <strong>여러 프로세스</strong>(또는 여러 기기)에 걸쳐 <strong>많은 노드</strong>가 동작한다. 노드를 하나씩 수동으로 띄우는 것은 금방 번거로워진다.</p>
+<p><strong>런치(Launch) 시스템</strong>은 <strong>한 번의 명령으로 여러 노드를 자동 실행</strong>하기 위한 것이다. 사용자가 시스템 구성을 기술하면, 그에 맞춰 실행한다.</p>
+<p><strong>구성에 포함되는 내용</strong></p>
+<ul>
+<li><strong>어떤 프로그램</strong>을 실행할지</li>
+<li><strong>어디에서</strong> 실행할지</li>
+<li><strong>어떤 인자</strong>를 넘길지</li>
+<li>ROS 관례에 따른 설정으로, <strong>구성만 바꿔 여러 곳에서 재사용</strong>하기 쉽게 하는 것</li>
+</ul>
+<p>또한 런치 시스템은 <strong>실행된 프로세스의 상태를 모니터링</strong>하고, 상태 변화를 <strong>보고하거나 반응</strong>하는 역할도 한다.</p>
+<p>위 내용은 모두 <strong>런치 파일(launch file)</strong> 에 적는다. 런치 파일은 <strong>XML</strong>, <strong>YAML</strong>, <strong>Python</strong> 중 하나로 작성할 수 있다. <code>ros2 launch</code> 명령으로 이 파일을 실행하면, 파일에 적힌 노드들이 모두 실행된다.</p>
+<p>실습은 공식 <strong>Launch 튜토리얼</strong>(<a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Launch/Creating-Launch-Files.html">Creating a launch file</a> 등)을 참고하고, 상세 사양은 <strong>Launch 문서</strong>를 참고하면 된다.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Launch.html">Launch — ROS 2 Jazzy</a></p>d:["$","$L4","ROS/concepts/launch",{"post":{"metadata":{"title":"basic - launch","summary":"ROS 2 런치 시스템의 역할, 런치 파일로 지정하는 내용(XML/YAML/Python), ros2 launch 사용을 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/launch","source":"$19","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.48000000000000004}]
+1a:T120a,<p>**클라이언트 라이브러리(Client library)**는 사용자가 ROS 2 코드를 작성할 때 쓰는 <strong>API</strong>다. 이를 통해 노드, 토픽, 서비스 등 ROS 2 개념에 접근한다. 여러 언어로 제공되므로, 프로토타입은 Python, 성능이 중요한 부분은 C++처럼 <strong>목적에 맞는 언어</strong>를 선택할 수 있다.</p>
+<p>서로 다른 클라이언트 라이브러리로 만든 노드도 <strong>메시지를 주고받을 수 있다</strong>. 모든 클라이언트 라이브러리가 <strong>인터페이스 파일용 코드 생성기</strong>를 제공해, 각 언어에서 동일한 ROS 2 인터페이스를 사용하기 때문이다.</p>
+<p>클라이언트 라이브러리를 통해 접근하는 <strong>공통 기능</strong> 예: 이름·네임스페이스, 시간(실시간/시뮬), 파라미터, 콘솔 로깅, 스레딩 모델, 프로세스 내 통신 등.</p>
+<h2 id="공식-지원-rclcpp--rclpy"><a class="heading-link" aria-hidden="true" href="#공식-지원-rclcpp--rclpy">공식 지원: rclcpp / rclpy</a></h2>
+<p>C++용 <strong>rclcpp</strong>와 Python용 <strong>rclpy</strong>는 둘 다 <strong>공통 코어 rcl</strong>을 사용하는 공식 클라이언트 라이브러리다.</p>
+<ul>
+<li><strong>rclcpp</strong>: C++ 관용 인터페이스. 노드·퍼블리셔·서브스크라이버 등 ROS 클라이언트 기능 제공. <code>rcl</code>과 <code>rosidl</code> API 위에 구축되며, <code>rosidl_generator_cpp</code>로 생성된 C++ 메시지와 함께 사용. C++17 활용. <a href="https://docs.ros.org/en/jazzy/p/rclcpp/">API 문서</a>.</li>
+<li><strong>rclpy</strong>: Python용. <code>rcl</code> C API 위에 구축, Python 관용 타입·패턴(list, context 등) 제공. 실행 모델은 <code>threading.Thread</code> 등으로 <code>rcl</code> API를 실행. 메시지는 Python 객체로 다루다가 <code>rcl</code> 계층으로 넘길 때 C 메시지로 변환(같은 프로세스 내 통신 시 변환 최소화). <a href="https://docs.ros.org/en/jazzy/p/rclpy/">API 문서</a>.</li>
+</ul>
+<h2 id="공통-코어-rcl"><a class="heading-link" aria-hidden="true" href="#공통-코어-rcl">공통 코어: rcl</a></h2>
+<p>언어에 <strong>종속되지 않는</strong> 동작(파라미터, 네임스페이스 등)은 <strong>rcl</strong>(ROS Client Library)이라는 <strong>공통 C API</strong>에 구현되어 있다. 각 언어용 클라이언트 라이브러리는 이 rcl을 <strong>FFI로 래핑</strong>하는 형태라서, 라이브러리는 얇게 유지되고 동작이 <strong>언어 간에 일관</strong>된다. rcl 쪽 로직을 바꾸면 rcl을 쓰는 모든 클라이언트에 반영되며, 버그 수정도 한 곳에서 하면 된다.</p>
+<p><strong>언어별로만 구현되는 부분</strong>(예: “spin” 함수의 스레딩 모델)은 각 클라이언트 라이브러리에서 따로 구현한다.</p>
+<blockquote>
+<p>**FFI(Foreign Function Interface)**란?
+한 언어에서 <strong>다른 언어로 작성된 함수</strong>를 호출할 수 있게 하는 인터페이스다. 여기서는 C로 구현된 rcl을 Python·C++ 등에서 호출하는 데 쓰인다.</p>
+</blockquote>
+<h2 id="커뮤니티-유지-라이브러리"><a class="heading-link" aria-hidden="true" href="#커뮤니티-유지-라이브러리">커뮤니티 유지 라이브러리</a></h2>
+<p>C++·Python 외에 커뮤니티에서 유지하는 클라이언트 라이브러리 예: <strong>Ada</strong>, <strong>C</strong>(rclc, micro-ROS), <strong>JVM/Android</strong>(Java, Android), <strong>.NET/C#</strong>, <strong>Node.js</strong>(rclnodejs), <strong>Rust</strong>(rclrs), <strong>Flutter/Dart</strong> 등. C#, Objective C/iOS, Zig 등은 구버전·미유지 상태로 문서에 명시되어 있다.</p>
+<h2 id="ros-1과의-차이"><a class="heading-link" aria-hidden="true" href="#ros-1과의-차이">ROS 1과의 차이</a></h2>
+<p>ROS 1에서는 각 클라이언트 라이브러리가 <strong>처음부터 따로</strong> 만들어져, 예를 들어 Python은 순수 Python으로만 구현되는 장점이 있지만, <strong>이름 규칙·동작이 라이브러리마다 다르고</strong>, 버그 수정을 여러 곳에 해야 하며, UDPROS처럼 <strong>한 라이브러리에만 있는 기능</strong>도 많다. ROS 2는 <strong>공통 코어(rcl)</strong> 를 두어 여러 언어용 클라이언트를 더 쉽게 만들고 동작을 맞추었다.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Basic/About-Client-Libraries.html">Client libraries — ROS 2 Jazzy</a></p>e:["$","$L4","ROS/concepts/rcl",{"post":{"metadata":{"title":"basic - rcl","summary":"ROS 2 클라이언트 라이브러리의 역할, 공식 라이브러리(rclcpp/rclpy)와 공통 코어(rcl), 커뮤니티 라이브러리 개요를 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/rcl","source":"$1a","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.53}]
+f:["$","div",null,{"className":"mt-12 flex items-center justify-center gap-2","children":[false,["$","div",null,{"className":"flex items-center gap-1","children":[["$","$L2","1",{"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-primary text-primary-foreground","children":1}],["$","$L2","2",{"href":"/ko/blog/ROS/p/2","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":2}],["$","$L2","3",{"href":"/ko/blog/ROS/p/3","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":3}]]}],["$","$L2",null,{"ref":null,"href":"/ko/blog/ROS/p/2","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 aria-invalid:border-destructive inline-flex shrink-0 items-center justify-center gap-2 rounded-md text-sm font-medium whitespace-nowrap transition-all outline-none focus-visible:ring-[3px] disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 hover:bg-accent hover:text-accent-foreground h-9 px-4 py-2 has-[>svg]:px-3 flex items-center gap-1","children":[["$","span",null,{"children":"다음"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]],"data-slot":"button"}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/911e6a603adbdfb3.css","precedence":"next"}]
+11:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+1d:null
