@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+4:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"MarkdownContent",1]
+d:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+5:Tac9,
+## Behavior Tree란?
+
+**행동 트리(Behavior Tree, BT)**는 로봇·게임 AI에서 **행동 순서와 분기**를 **트리**로 표현하는 방식입니다. 상태 기계(FSM)처럼 상태 전이를 일일이 그리기보다, **모듈화된 행동(리프 노드)** 을 **합성 노드(컴포지트)** 로 묶어 재사용·확장하기 쉽습니다. ROS 2 **Nav2**도 내비게이션 흐름을 BT XML로 정의합니다.
+
+## 구조
+
+- **루트**: 트리 최상단. 여기서 주기적으로 **틱(tick)** 이 내려갑니다.
+- **내부 노드(컴포지트·데코레이터)**: 자식을 어떻게 실행할지 결정.
+- **리프(Leaf)**: 실제 조건·동작(예: `NavigateToPose`, `IsBatteryLow`).
+
+## 노드 실행 결과(3가지)
+
+| 상태 | 의미 |
+|------|------|
+| **Success** | 목표 달성 또는 조건 만족 |
+| **Failure** | 실패 또는 조건 불만족 |
+| **Running** | 아직 진행 중(비동기 작업). 다음 틱까지 같은 노드에서 재개 |
+
+## 대표 컴포지트
+
+### Sequence (순차)
+
+자식을 **왼쪽→오른쪽** 순으로 실행. 한 자식이 **Failure**면 전체 **Failure**, 모두 **Success**면 **Success**. 중간에 **Running**이면 전체 **Running**.
+
+→ “**A 그리고 B 그리고 C**” 모두 성공해야 할 때.
+
+### Selector / Fallback (선택)
+
+자식을 순서대로 실행. 한 자식이 **Success**면 전체 **Success**. 모두 **Failure**면 **Failure**. **Running**이면 **Running**.
+
+→ “**A 아니면 B 아니면 C**” 중 하나만 성공하면 될 때(대안 시도).
+
+### Parallel (병렬)
+
+자식 **여러 개를 동시에** 진행. 정책에 따라 “N개 성공 시 성공” 등으로 종료 조건을 둡니다(Nav2·라이브러리마다 세부 규칙이 다름).
+
+## 틱(Tick)
+
+루트에서 한 번 내려가며 노드를 평가하는 주기를 **틱**이라고 합니다. **Running**인 노드는 다음 틱에서 이어서 실행됩니다. 따라서 BT는 **이벤트 루프**와 잘 맞고, 장시간 동작(경로 추종 등)을 리프에서 **Running**으로 표현합니다.
+
+## 데코레이터(간단히)
+
+한 자식을 감싸 동작을 바꿉니다. 예: **Inverter**(성공↔실패 반전), **Repeat**, **Timeout**, **ForceSuccess** 등.
+
+## FSM과 비교(직관)
+
+- **FSM**: 상태와 전이가 중심. 복잡해지면 전이가 많아짐.
+- **BT**: **계층적 “시도 순서”** 가 중심. 새 행동을 리프·서브트리로 추가하기 쉬움.
+
+## ROS / Nav2와의 연결
+
+Nav2는 **BehaviorTree.CPP** 등으로 BT를 실행하고, XML에 **플래너·컨트롤러·복구 행동**을 노드로 매핑합니다. “목표까지 가기 → 막히면 회전/후진” 같은 흐름을 코드가 아닌 **트리 정의**로 바꿀 수 있습니다.
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Behavior Tree 기본 개념"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Behavior Tree 기본 개념\",\"description\":\"트리 구조로 행동을 조합·실행. Sequence·Selector·Parallel과 Success/Failure/Running 상태, 틱(tick) 흐름 정리\",\"image\":\"https://woolimi.github.io/og?title=Behavior Tree 기본 개념\",\"url\":\"https://woolimi.github.io/blog/ROS/behavior-tree\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"Behavior Tree 기본 개념"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+c:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

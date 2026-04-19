@@ -1,0 +1,330 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"default"]
+e:I[347816,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"ProjectLinkButton"]
+f:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"MarkdownContent",1]
+11:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"webserv"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"webserv\",\"description\":\"C++을 사용하여 HTTP/1.1 표준을 준수하는 웹서버를 처음부터 구현한 프로젝트. select()를 활용한 멀티플렉싱으로 여러 클라이언트를 동시에 처리하며, Nginx 스타일의 설정 파일 파싱, 7가지 HTTP 메서드 지원, CGI 실행, 파일 업로드 등 웹서버의 핵심 기능을 구현한다. 이를 통해 소켓 프로그래밍, 네트워크 프로그래밍, HTTP 프로토콜, 서버 아키텍처 등 시스템 프로그래밍의 고급 개념을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=webserv\",\"url\":\"https://woolimi.github.io/projects/schools/webserv\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"webserv"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"C++을 사용하여 HTTP/1.1 표준을 준수하는 웹서버를 처음부터 구현한 프로젝트. select()를 활용한 멀티플렉싱으로 여러 클라이언트를 동시에 처리하며, Nginx 스타일의 설정 파일 파싱, 7가지 HTTP 메서드 지원, CGI 실행, 파일 업로드 등 웹서버의 핵심 기능을 구현한다. 이를 통해 소켓 프로그래밍, 네트워크 프로그래밍, HTTP 프로토콜, 서버 아키텍처 등 시스템 프로그래밍의 고급 개념을 학습한다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"C++"}]]}]
+5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","$Le",null,{"href":"https://github.com/woolimi/webserv","type":"github"}]]}]
+10:T224b,
+## 개요
+
+WebServ는 ecole42의 프로젝트로, C++을 사용하여 HTTP/1.1 표준을 준수하는 웹서버를 처음부터 구현한 프로젝트다. 이 프로젝트를 통해 소켓 프로그래밍, 멀티플렉싱, HTTP 프로토콜, CGI 등의 개념을 학습한다.
+
+## 주요 기능
+
+### 1. 멀티플렉싱
+
+- `select()` 시스템 콜을 사용한 I/O 멀티플렉싱
+- 단일 스레드에서 여러 클라이언트 동시 처리
+- 읽기/쓰기 이벤트 동시 모니터링
+
+### 2. 설정 파일 파싱
+
+- Nginx 스타일의 설정 파일 지원
+- 여러 서버 블록 설정 가능
+- 각 서버별 포트, 호스트명, 루트 디렉토리 설정
+- Location 블록을 통한 라우팅 설정
+
+### 3. HTTP 메서드 지원
+
+- GET: 리소스 조회
+- POST: 리소스 생성 및 데이터 전송
+- PUT: 리소스 업데이트
+- DELETE: 리소스 삭제
+- OPTIONS: 지원하는 메서드 확인
+- TRACE: 요청 추적
+
+### 4. CGI 지원
+
+- PHP, Python 등 스크립트 언어 실행
+- 확장자별 CGI 프로그램 매핑
+- 환경 변수 전달 및 표준 입출력 처리
+
+### 5. 파일 업로드
+
+- POST/PUT 메서드를 통한 파일 업로드
+- 업로드 폴더 지정 가능
+- 클라이언트 본문 크기 제한
+
+### 6. 에러 처리
+
+- HTTP 상태 코드 처리
+- 커스텀 에러 페이지 설정
+- 타임아웃 처리 (클라이언트: 30초, 서버: 3초)
+
+### 7. 디렉토리 리스팅
+
+- autoindex 옵션을 통한 디렉토리 목록 표시
+- index 파일 자동 검색
+
+## 빌드 및 실행
+
+### 요구사항
+
+- C++ 컴파일러 (clang++ 또는 g++)
+- Make
+- libft 라이브러리 (프로젝트에 포함됨)
+
+### 빌드
+
+```bash
+make
+```
+
+### 실행
+
+```bash
+# 기본 설정 파일 사용
+./webserv
+
+# 커스텀 설정 파일 지정
+./webserv [설정파일경로]
+```
+
+### 정리
+
+```bash
+make clean    # 오브젝트 파일 삭제
+make fclean   # 빌드 파일 모두 삭제
+make re       # 재빌드
+```
+
+## 설정 파일
+
+설정 파일은 Nginx 스타일의 문법을 따른다. 기본 설정 파일은 `webserv.conf`다.
+
+### 기본 구조
+
+```nginx
+server {
+    listen 8080;                    # 포트 번호
+    server_name localhost;          # 서버 이름
+    root ./www/;                    # 루트 디렉토리
+    client_max_body_size 200M;      # 최대 본문 크기
+    error_page ./www/error.html;   # 에러 페이지 경로
+
+    location / {
+        allow GET POST;              # 허용할 HTTP 메서드
+        index index.html index.php; # 기본 인덱스 파일
+        autoindex on;               # 디렉토리 리스팅 활성화
+        root ./www/;                # Location별 루트 디렉토리
+    }
+
+    location /cgi-bin/ {
+        cgi .php /usr/bin/php-cgi;  # CGI 설정 (확장자: 실행파일)
+        root ./www/;
+    }
+
+    location /upload/ {
+        upload_folder ./www/upload/; # 업로드 폴더 지정
+        allow PUT POST;
+        root ./www/;
+    }
+}
+```
+
+### 서버 블록 속성
+
+- `listen`: 포트 번호 (필수)
+- `server_name`: 서버 이름
+- `root`: 루트 디렉토리 경로
+- `client_max_body_size`: 클라이언트 요청 본문 최대 크기
+- `error_page`: 에러 페이지 경로
+
+### Location 블록 속성
+
+- `root`: Location별 루트 디렉토리
+- `autoindex`: 디렉토리 리스팅 활성화 (`on`/`off`)
+- `index`: 기본 인덱스 파일 목록
+- `allow`: 허용할 HTTP 메서드 목록
+- `cgi`: CGI 설정 (`확장자 실행파일경로`)
+- `upload_folder`: 파일 업로드 폴더 경로
+- `client_max_body_size`: Location별 본문 크기 제한
+
+## 지원하는 HTTP 메서드
+
+| 메서드  | 설명                    | 구현 상태 |
+| ------- | ----------------------- | --------- |
+| GET     | 리소스 조회             | ✅        |
+| POST    | 리소스 생성/데이터 전송 | ✅        |
+| PUT     | 리소스 업데이트         | ✅        |
+| DELETE  | 리소스 삭제             | ✅        |
+| OPTIONS | 지원 메서드 확인        | ✅        |
+| TRACE   | 요청 추적               | ✅        |
+| HEAD    | 헤더만 조회             | ✅        |
+
+## 프로젝트 구조
+
+```
+webserv/
+├── srcs/                    # 소스 코드
+│   ├── main.cpp            # 진입점
+│   ├── HTTP.cpp            # HTTP 서버 핵심 로직
+│   ├── HTTP.hpp
+│   ├── ConfigParser.cpp    # 설정 파일 파서
+│   ├── ConfigParser.hpp
+│   ├── webserv.hpp         # 공통 헤더 및 구조체 정의
+│   ├── HttpStatus.hpp      # HTTP 상태 코드 정의
+│   ├── handle_get.cpp      # GET 메서드 핸들러
+│   ├── handle_post.cpp     # POST 메서드 핸들러
+│   ├── handle_put.cpp      # PUT 메서드 핸들러
+│   ├── handle_delete.cpp   # DELETE 메서드 핸들러
+│   ├── handle_options.cpp  # OPTIONS 메서드 핸들러
+│   ├── handle_trace.cpp    # TRACE 메서드 핸들러
+│   ├── req_interpreter.cpp # 요청 파싱
+│   ├── res_generator.cpp   # 응답 생성
+│   ├── res_cgi.cpp         # CGI 처리
+│   ├── res_make.cpp        # 응답 메시지 생성
+│   ├── res_send.cpp        # 응답 전송
+│   ├── mimetype.cpp        # MIME 타입 처리
+│   └── utils.cpp           # 유틸리티 함수
+├── lib/                     # libft 라이브러리
+├── config/                  # 설정 파일 예시
+├── www/                     # 웹 루트 디렉토리
+├── client/                  # 테스트 클라이언트
+├── Makefile                 # 빌드 스크립트
+└── webserv.conf            # 기본 설정 파일
+```
+
+### 주요 구조체
+
+#### `t_server`
+
+서버 설정 및 소켓 정보를 담는 구조체
+
+- `socket`: 서버 소켓 파일 디스크립터
+- `listen`: 포트 번호
+- `server_name`: 서버 이름
+- `root`: 루트 디렉토리
+- `location`: Location 블록 맵
+
+#### `t_client`
+
+클라이언트 연결 정보 및 요청/응답 데이터
+
+- `socket`: 클라이언트 소켓 파일 디스크립터
+- `req`: 요청 정보 (`t_req`)
+- `res`: 응답 정보 (`t_res`)
+- `server`: 연결된 서버 정보
+
+#### `t_req`
+
+HTTP 요청 정보
+
+- `method`: HTTP 메서드
+- `path`: 요청 경로
+- `headers`: HTTP 헤더 맵
+- `body`: 요청 본문
+- `is_cgi`: CGI 요청 여부
+
+#### `t_res`
+
+HTTP 응답 정보
+
+- `status_code`: HTTP 상태 코드
+- `headers`: HTTP 헤더 맵
+- `body`: 응답 본문
+- `is_cgi`: CGI 응답 여부
+
+## 사용 예시
+
+### 기본 실행
+
+```bash
+./webserv
+```
+
+### 커스텀 설정 파일 사용
+
+```bash
+./webserv config/configTest.conf
+```
+
+### curl을 사용한 테스트
+
+```bash
+# GET 요청
+curl http://localhost:8080/
+
+# POST 요청
+curl -X POST http://localhost:8080/post_body --data "test data"
+
+# PUT 요청 (파일 업로드)
+curl -X PUT http://localhost:8080/put_test/file.txt --data-binary @local_file.txt
+
+# DELETE 요청
+curl -X DELETE http://localhost:8080/delete_test/file.txt
+
+# 특정 호스트명으로 요청
+curl --resolve example.com:8080:127.0.0.1 http://example.com:8080/
+```
+
+### 브라우저에서 접속
+
+브라우저에서 `http://localhost:8080`으로 접속하여 웹서버를 테스트할 수 있다.
+
+## 기술 스택
+
+- **언어**: C++98
+- **시스템 콜**:
+  - `socket()`, `bind()`, `listen()`, `accept()` - 소켓 통신
+  - `select()` - I/O 멀티플렉싱
+  - `read()`, `write()` - 데이터 입출력
+  - `fork()`, `execve()` - CGI 실행
+- **라이브러리**:
+  - libft (커스텀 C 라이브러리)
+  - 표준 C++ 라이브러리
+
+## 주요 특징
+
+### 1. 비동기 I/O 처리
+
+- `select()`를 사용하여 단일 스레드에서 여러 클라이언트 처리
+- 논블로킹 소켓 사용
+- 읽기/쓰기 이벤트 분리 처리
+
+### 2. 요청 파싱
+
+- HTTP 요청 라인 파싱
+- 헤더 파싱 및 저장
+- 본문 처리 (Content-Length, Chunked Transfer Encoding)
+
+### 3. 응답 생성
+
+- HTTP 상태 코드에 따른 응답 생성
+- 적절한 헤더 설정
+- 파일 읽기 및 전송
+- 디렉토리 리스팅 HTML 생성
+
+### 4. 에러 처리
+
+- 클라이언트 타임아웃 처리
+- 연결 종료 감지
+- 잘못된 요청 처리
+- 메모리 누수 방지
+
+## 참고 자료
+
+- [RFC 7230](https://tools.ietf.org/html/rfc7230) - HTTP/1.1: Message Syntax and Routing
+- [RFC 7231](https://tools.ietf.org/html/rfc7231) - HTTP/1.1: Semantics and Content
+- [RFC 7232](https://tools.ietf.org/html/rfc7232) - HTTP/1.1: Conditional Requests
+- [RFC 7233](https://tools.ietf.org/html/rfc7233) - HTTP/1.1: Range Requests
+- [RFC 7234](https://tools.ietf.org/html/rfc7234) - HTTP/1.1: Caching
+- [RFC 7235](https://tools.ietf.org/html/rfc7235) - HTTP/1.1: Authentication
+
+## 라이선스
+
+이 프로젝트는 42 Seoul의 교육용 프로젝트다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+a:["$","script","script-2",{"src":"/_next/static/chunks/fc646a1e8cc664ad.js","async":true}]
+b:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+c:["$","script","script-4",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+d:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

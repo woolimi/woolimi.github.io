@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"default"]
+e:I[347816,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"ProjectLinkButton"]
+f:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"MarkdownContent",1]
+11:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"computorv1"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"computorv1\",\"description\":\"computorv1은 ecole42의 프로젝트로, 다항식 방정식 해결기를 구현한 프로그램. TypeScript로 작성되었으며, 최대 2차 방정식까지 해를 구할 수 있다. 방정식을 파싱하고 표준형으로 축약한 후 0차, 1차, 2차 방정식의 해를 계산하며, 복소수 해도 지원한다. 함수형 프로그래밍 패러다임을 활용하여 방정식 처리 로직을 구현하였다\",\"image\":\"https://woolimi.github.io/og?title=computorv1\",\"url\":\"https://woolimi.github.io/projects/schools/computorv1\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"computorv1"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"computorv1은 ecole42의 프로젝트로, 다항식 방정식 해결기를 구현한 프로그램. TypeScript로 작성되었으며, 최대 2차 방정식까지 해를 구할 수 있다. 방정식을 파싱하고 표준형으로 축약한 후 0차, 1차, 2차 방정식의 해를 계산하며, 복소수 해도 지원한다. 함수형 프로그래밍 패러다임을 활용하여 방정식 처리 로직을 구현하였다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"TypeScript"}]]}]
+5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","$Le",null,{"href":"https://github.com/woolimi/computorv1","type":"github"}]]}]
+10:Td56,
+## 개요
+
+이 프로젝트는 ecole42의 ComputorV1 과제를 구현한 다항식 방정식 해결기(Polynomial Equation Solver)다. 최대 2차 방정식까지 해를 구할 수 있으며, 방정식을 파싱하고 표준형으로 축약한 후 해를 계산한다.
+
+## 기능
+
+- 다항식 방정식 파싱 및 검증
+- 방정식을 표준형으로 축약 (reduced form)
+- 다항식 차수(degree) 계산
+- 0차, 1차, 2차 방정식 해 구하기
+- 복소수 해 지원 (2차 방정식의 판별식 < 0인 경우)
+
+## 설치
+
+```bash
+npm install
+```
+
+## 사용법
+
+### 기본 실행
+
+```bash
+npm start "5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0"
+```
+
+또는
+
+```bash
+tsx ./index.ts "5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0"
+```
+
+### 개발 모드 (파일 변경 감지)
+
+```bash
+npm run dev
+```
+
+### 테스트 실행
+
+```bash
+npm test
+```
+
+## 방정식 형식
+
+방정식은 다음 형식을 따라야 한다:
+
+- 항(term) 형식: `[+/-]숫자 * X^숫자`
+- 등호(`=`)를 포함해야 한다
+- 공백은 자동으로 제거된다
+
+### 예시
+
+```
+5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0
+2 * X^1 = 3
+1 * X^2 - 4 * X^1 + 3 = 0
+```
+
+## 출력 예시
+
+```
+Input:
+5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0
+Reduced form:
+4 * X^0 + 4 * X^1 - 9.3 * X^2 = 0
+Polynomial degree:
+2
+Result:
+Discriminant > 0, the equation has two solution: x1 = -0.47513146390886934, x2 = 0.9052389907905898
+```
+
+## 지원하는 방정식 타입
+
+### 0차 방정식 (상수 방정식)
+
+- 예: `5 * X^0 = 5 * X^0`
+- 해가 없거나 모든 실수가 해인 경우를 판단한다
+
+### 1차 방정식 (선형 방정식)
+
+- 예: `2 * X^1 = 3`
+- `ax + b = 0` 형태로 변환하여 해를 구한다
+- `a = 0`인 경우 특수 케이스를 처리한다
+
+### 2차 방정식 (이차 방정식)
+
+- 예: `1 * X^2 - 4 * X^1 + 3 = 0`
+- `ax² + bx + c = 0` 형태로 변환
+- 판별식(discriminant)에 따라:
+  - **판별식 > 0**: 두 개의 실수 해
+  - **판별식 = 0**: 하나의 실수 해 (중근)
+  - **판별식 < 0**: 두 개의 복소수 해
+
+### 3차 이상 방정식
+
+- 해를 구할 수 없다는 메시지를 출력한다
+
+## 프로젝트 구조
+
+```
+computorv1/
+├── index.ts              # 메인 진입점
+├── lib/
+│   └── useEquation.ts   # 방정식 처리 로직
+├── tests/                # 테스트 파일들
+│   ├── basic.test.ts
+│   ├── 1-degree.test.ts
+│   ├── 2-degree.test.ts
+│   └── ...
+└── package.json
+```
+
+## 주요 함수
+
+### `useEquation()`
+
+방정식 처리를 위한 함수들을 반환한다:
+
+- `strToEquation(s: string)`: 문자열을 Equation 객체로 변환
+- `printInput(s: string)`: 입력 방정식 출력
+- `printReducedForm(e: Equation)`: 축약된 형태 출력
+- `printDegree(e: Equation)`: 다항식 차수 출력
+- `printSolution(e: Equation)`: 해 출력
+
+## 기술 스택
+
+- **TypeScript**: 타입 안정성
+- **@fxts/core**: 함수형 프로그래밍 (pipe)
+- **console-log-colors**: 컬러 출력
+- **Jest**: 테스트 프레임워크
+- **tsx**: TypeScript 실행 환경
+
+## 테스트
+
+프로젝트에는 다음 테스트가 포함되어 있다:
+
+- 기본 방정식 테스트 (`basic.test.ts`)
+- 0차 방정식 테스트 (`0-degree.test.ts`)
+- 1차 방정식 테스트 (`1-degree.test.ts`)
+- 2차 방정식 테스트 (`2-degree.test.ts`)
+- 3차 이상 방정식 테스트 (`3+degree.test.ts`)
+- 파싱 테스트 (`parsing.test.ts`)
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+a:["$","script","script-2",{"src":"/_next/static/chunks/fc646a1e8cc664ad.js","async":true}]
+b:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+c:["$","script","script-4",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+d:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

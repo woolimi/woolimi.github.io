@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+d:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"MarkdownContent",1]
+f:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"basic - rcl"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"basic - rcl\",\"description\":\"ROS 2 클라이언트 라이브러리의 역할, 공식 라이브러리(rclcpp/rclpy)와 공통 코어(rcl), 커뮤니티 라이브러리 개요를 정리\",\"image\":\"https://woolimi.github.io/og?title=basic - rcl\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/rcl\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"basic - rcl"}]
+e:Tdec,
+**클라이언트 라이브러리(Client library)**는 사용자가 ROS 2 코드를 작성할 때 쓰는 **API**다. 이를 통해 노드, 토픽, 서비스 등 ROS 2 개념에 접근한다. 여러 언어로 제공되므로, 프로토타입은 Python, 성능이 중요한 부분은 C++처럼 **목적에 맞는 언어**를 선택할 수 있다.
+
+서로 다른 클라이언트 라이브러리로 만든 노드도 **메시지를 주고받을 수 있다**. 모든 클라이언트 라이브러리가 **인터페이스 파일용 코드 생성기**를 제공해, 각 언어에서 동일한 ROS 2 인터페이스를 사용하기 때문이다.
+
+클라이언트 라이브러리를 통해 접근하는 **공통 기능** 예: 이름·네임스페이스, 시간(실시간/시뮬), 파라미터, 콘솔 로깅, 스레딩 모델, 프로세스 내 통신 등.
+
+## 공식 지원: rclcpp / rclpy
+
+C++용 **rclcpp**와 Python용 **rclpy**는 둘 다 **공통 코어 rcl**을 사용하는 공식 클라이언트 라이브러리다.
+
+- **rclcpp**: C++ 관용 인터페이스. 노드·퍼블리셔·서브스크라이버 등 ROS 클라이언트 기능 제공. `rcl`과 `rosidl` API 위에 구축되며, `rosidl_generator_cpp`로 생성된 C++ 메시지와 함께 사용. C++17 활용. [API 문서](https://docs.ros.org/en/jazzy/p/rclcpp/).
+- **rclpy**: Python용. `rcl` C API 위에 구축, Python 관용 타입·패턴(list, context 등) 제공. 실행 모델은 `threading.Thread` 등으로 `rcl` API를 실행. 메시지는 Python 객체로 다루다가 `rcl` 계층으로 넘길 때 C 메시지로 변환(같은 프로세스 내 통신 시 변환 최소화). [API 문서](https://docs.ros.org/en/jazzy/p/rclpy/).
+
+## 공통 코어: rcl
+
+언어에 **종속되지 않는** 동작(파라미터, 네임스페이스 등)은 **rcl**(ROS Client Library)이라는 **공통 C API**에 구현되어 있다. 각 언어용 클라이언트 라이브러리는 이 rcl을 **FFI로 래핑**하는 형태라서, 라이브러리는 얇게 유지되고 동작이 **언어 간에 일관**된다. rcl 쪽 로직을 바꾸면 rcl을 쓰는 모든 클라이언트에 반영되며, 버그 수정도 한 곳에서 하면 된다.
+
+**언어별로만 구현되는 부분**(예: “spin” 함수의 스레딩 모델)은 각 클라이언트 라이브러리에서 따로 구현한다.
+
+> **FFI(Foreign Function Interface)**란? 
+> 한 언어에서 **다른 언어로 작성된 함수**를 호출할 수 있게 하는 인터페이스다. 여기서는 C로 구현된 rcl을 Python·C++ 등에서 호출하는 데 쓰인다.
+
+## 커뮤니티 유지 라이브러리
+
+C++·Python 외에 커뮤니티에서 유지하는 클라이언트 라이브러리 예: **Ada**, **C**(rclc, micro-ROS), **JVM/Android**(Java, Android), **.NET/C#**, **Node.js**(rclnodejs), **Rust**(rclrs), **Flutter/Dart** 등. C#, Objective C/iOS, Zig 등은 구버전·미유지 상태로 문서에 명시되어 있다.
+
+## ROS 1과의 차이
+
+ROS 1에서는 각 클라이언트 라이브러리가 **처음부터 따로** 만들어져, 예를 들어 Python은 순수 Python으로만 구현되는 장점이 있지만, **이름 규칙·동작이 라이브러리마다 다르고**, 버그 수정을 여러 곳에 해야 하며, UDPROS처럼 **한 라이브러리에만 있는 기능**도 많다. ROS 2는 **공통 코어(rcl)** 를 두어 여러 언어용 클라이언트를 더 쉽게 만들고 동작을 맞추었다.
+
+---
+
+**참고**: [Client libraries — ROS 2 Jazzy](https://docs.ros.org/en/jazzy/Concepts/Basic/About-Client-Libraries.html)
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,830 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"default"]
+3:I[555365,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"default"]
+7:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"ViewportBoundary"]
+c:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"MetadataBoundary"]
+e:I[26623,[],"default"]
+:HL["/_next/static/chunks/aeb63cfe4733d84b.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"iTSJCN0o_Zbq4kmLpUtao","c":["","ko","blog","p","7"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":["p",{"children":[["page","7","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/aeb63cfe4733d84b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/5eadb771fab2457a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/055c1225d9635954.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/3f3b70f37bbe6942.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/455d450fcaf55923.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/d8c592bcd862be63.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3410d156ca9f4cc0.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/5ae4e2ef06ddf569.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[95228,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Lf"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L10",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat"}]},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기"}]},{"name":"Imitation Learning","type":"folder","path":"AI/Imitation Learning","children":[{"name":"00.concept.ko.md","type":"file","path":"AI/Imitation Learning/00.concept.ko.md","slug":"AI/Imitation Learning/concept","locale":"ko","title":"모방학습 (Imitation Learning) 개념"},{"name":"01.so-101.ko.md","type":"file","path":"AI/Imitation Learning/01.so-101.ko.md","slug":"AI/Imitation Learning/so-101","locale":"ko","title":"LeRobot 맥 설정 방법"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"CPP","type":"folder","path":"CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"CPP/00.reference.ko.md","slug":"CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)"},{"name":"01.member-access-operator.ko.md","type":"file","path":"CPP/01.member-access-operator.ko.md","slug":"CPP/member-access-operator","locale":"ko","title":"member access operator"},{"name":"02.template.ko.md","type":"file","path":"CPP/02.template.ko.md","slug":"CPP/template","locale":"ko","title":"Template"},{"name":"03.smart-pointer.ko.md","type":"file","path":"CPP/03.smart-pointer.ko.md","slug":"CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"pyqt","type":"folder","path":"pyqt","children":[{"name":"00.settings.ko.md","type":"file","path":"pyqt/00.settings.ko.md","slug":"pyqt/settings","locale":"ko","title":"우분투 PyQT 설치 그리고 기본 개요"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"concepts","type":"folder","path":"ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"ROS/concepts/01.nodes.ko.md","slug":"ROS/concepts/nodes","locale":"ko","title":"basic - nodes"},{"name":"02.interfaces.ko.md","type":"file","path":"ROS/concepts/02.interfaces.ko.md","slug":"ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces"},{"name":"03.topics.ko.md","type":"file","path":"ROS/concepts/03.topics.ko.md","slug":"ROS/concepts/topics","locale":"ko","title":"basic - topics"},{"name":"04.services.ko.md","type":"file","path":"ROS/concepts/04.services.ko.md","slug":"ROS/concepts/services","locale":"ko","title":"basic - services"},{"name":"05.actions.ko.md","type":"file","path":"ROS/concepts/05.actions.ko.md","slug":"ROS/concepts/actions","locale":"ko","title":"basic - actions"},{"name":"06.parameters.ko.md","type":"file","path":"ROS/concepts/06.parameters.ko.md","slug":"ROS/concepts/parameters","locale":"ko","title":"basic - parameters"},{"name":"07.launch.ko.md","type":"file","path":"ROS/concepts/07.launch.ko.md","slug":"ROS/concepts/launch","locale":"ko","title":"basic - launch"},{"name":"08.rcl.ko.md","type":"file","path":"ROS/concepts/08.rcl.ko.md","slug":"ROS/concepts/rcl","locale":"ko","title":"basic - rcl"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"ROS/concepts/09.ros_domain_id.ko.md","slug":"ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"ROS/concepts/10.middleware-vendors.ko.md","slug":"ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors"},{"name":"11.logging.ko.md","type":"file","path":"ROS/concepts/11.logging.ko.md","slug":"ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration"},{"name":"12.qos.ko.md","type":"file","path":"ROS/concepts/12.qos.ko.md","slug":"ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings"},{"name":"13.executors.ko.md","type":"file","path":"ROS/concepts/13.executors.ko.md","slug":"ROS/concepts/executors","locale":"ko","title":"intermediate - executors"},{"name":"14.topic-statistics.ko.md","type":"file","path":"ROS/concepts/14.topic-statistics.ko.md","slug":"ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics"},{"name":"15.rqt.ko.md","type":"file","path":"ROS/concepts/15.rqt.ko.md","slug":"ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt"},{"name":"16.composition.ko.md","type":"file","path":"ROS/concepts/16.composition.ko.md","slug":"ROS/concepts/composition","locale":"ko","title":"intermediate - composition"},{"name":"17.cross-compilation.ko.md","type":"file","path":"ROS/concepts/17.cross-compilation.ko.md","slug":"ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation"},{"name":"18.ros2-security.ko.md","type":"file","path":"ROS/concepts/18.ros2-security.ko.md","slug":"ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security"},{"name":"19.tf2.ko.md","type":"file","path":"ROS/concepts/19.tf2.ko.md","slug":"ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2"}]},{"name":"00.install.ko.md","type":"file","path":"ROS/00.install.ko.md","slug":"ROS/install","locale":"ko","title":"맥에서 ros2 설치하기"},{"name":"01.pkg.ko.md","type":"file","path":"ROS/01.pkg.ko.md","slug":"ROS/pkg","locale":"ko","title":"workspace & package"},{"name":"02.nav2.ko.md","type":"file","path":"ROS/02.nav2.ko.md","slug":"ROS/nav2","locale":"ko","title":"ROS2 Nav2"},{"name":"03.behavior-tree.ko.md","type":"file","path":"ROS/03.behavior-tree.ko.md","slug":"ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]},{"name":"CLAUDE.md","type":"file","path":"CLAUDE.md","slug":"CLAUDE","locale":"$undefined","title":"$undefined"}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L11"]}]
+12:I[95228,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js"],"BlogContentTreeMobile"]
+11:["$","div",null,{"className":"lg:hidden","children":["$","$L12",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+13:I[779615,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js"],"default"]
+14:I[728231,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js"],"TooltipProvider"]
+15:I[663780,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js"],"default"]
+f:["$","$L13",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L14",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L15",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"IconMark"]
+d:[["$","title","0",{"children":"Blog | 박우림"}],["$","meta","1",{"name":"description","content":"My thoughts on software development, life, and more."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"박우림"}],["$","meta","6",{"property":"og:description","content":"Robotics Engineer"}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io"}],["$","meta","8",{"property":"og:site_name","content":"박우림"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://woolimi.github.io/og-image.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"박우림"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"박우림"}],["$","meta","17",{"name":"twitter:description","content":"Robotics Engineer"}],["$","meta","18",{"name":"twitter:image","content":"https://woolimi.github.io/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","20",{"rel":"icon","href":"/favicon.ico"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","22",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","23",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L16","24",{}]]
+9:null
+17:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/5ae4e2ef06ddf569.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+18:I[676913,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/5ae4e2ef06ddf569.js","/_next/static/chunks/59c7092271989d1d.js"],"BlogArticleCard"]
+19:T194d,<h2 id="overview"><a class="heading-link" aria-hidden="true" href="#overview">Overview</a></h2>
+<p>ROS 2는 <strong>ROS 2 계산 그래프 안의 노드 간 통신</strong>을 보호할 수 있다. 디스커버리처럼 <strong>미들웨어</strong>를 통해 동작하며(해당 보안 플러그인을 지원하는 경우), <strong>추가 소프트웨어 설치 없이</strong> 설정만으로 활성화할 수 있다. 대신 <strong>그래프 참여자마다 설정 파일</strong>이 필요하다. 이 파일들로 <strong>암호화·인증</strong>을 켜고, <strong>노드 단위·전체 그래프</strong> 정책을 정의한다. 보안 동작을 켜고 끄는 <strong>마스터 온/오프 스위치</strong>도 있다.</p>
+<p>신뢰 기준(trust anchor)은 ROS 유틸로 만들거나 <strong>외부 인증 기관(CA)</strong> 를 쓸 수 있다. 제공되는 기능: 통신 <strong>암호화</strong>, 참여자 <strong>인증</strong>, 데이터 <strong>무결성</strong>, <strong>도메인 전체 접근 제어</strong>.</p>
+<p>보안 서비스는 노드 간 통신에 쓰이는 <strong>DDS(Data Distribution Service)</strong> 가 제공한다. DDS Security 사양에 따라 보안 플러그인이 포함되며, ROS는 이 플러그인을 이용해 <strong>정책 기반 암호화·인증·접근 제어</strong>를 한다. <strong>설정 파일</strong>과 <strong>환경 변수</strong>로 활성화한다.</p>
+<h2 id="the-security-enclave-보안-엔클레이브"><a class="heading-link" aria-hidden="true" href="#the-security-enclave-보안-엔클레이브">The Security Enclave (보안 엔클레이브)</a></h2>
+<p><strong>Security Enclave</strong>는 ROS 통신을 보호하기 위한 <strong>단일 정책</strong>을 담는 단위다. 한 엔클레이브가 <strong>여러 노드</strong>, <strong>전체 ROS 그래프</strong>, 또는 보호할 프로세스·기기의 <strong>조합</strong>에 정책을 적용할 수 있다. 배포 시 <strong>프로세스·사용자·기기</strong>에 유연하게 매핑할 수 있다. 자세한 설계는 <a href="https://design.ros.org/articles/ros2_security_enclaves.html">ROS 2 Security Enclaves</a> 문서 참고.</p>
+<h2 id="security-files-보안-파일"><a class="heading-link" aria-hidden="true" href="#security-files-보안-파일">Security Files (보안 파일)</a></h2>
+<p>DDS 사양에 따라 한 엔클레이브는 <strong>6개 파일</strong>로 정의된다. <strong>3개는 엔클레이브 신원(identity)</strong>, <strong>3개는 권한(permissions)</strong> 이다. 6개 모두 <strong>한 디렉터리</strong>에 두고, 엔클레이브 경로를 지정하지 않고 띄운 노드는 <strong>기본 루트 엔클레이브</strong>의 파일을 사용한다.</p>
+<h3 id="enclave-identity-신원"><a class="heading-link" aria-hidden="true" href="#enclave-identity-신원">Enclave Identity (신원)</a></h3>
+<table>
+<thead>
+<tr>
+<th>파일</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>identity_ca.cert.pem</strong></td>
+<td>참여자 <strong>식별</strong>용 <strong>신뢰 기준(Trust Anchor)</strong>.</td>
+</tr>
+<tr>
+<td><strong>cert.pem</strong></td>
+<td>이 엔클레이브의 <strong>고유 인증서</strong>. Identity CA로 서명됨.</td>
+</tr>
+<tr>
+<td><strong>key.pem</strong></td>
+<td>위 인증서에 대응하는 <strong>비밀키</strong>. 공유하지 않고, 복호화·서명에만 사용.</td>
+</tr>
+</tbody>
+</table>
+<p>참여자가 <code>cert.pem</code>을 제시하면, 다른 참여자는 자신이 가진 Identity CA로 <strong>신원을 검증</strong>할 수 있다. 이렇게 신뢰된 통신이 수립된다.</p>
+<h3 id="enclave-permissions-권한"><a class="heading-link" aria-hidden="true" href="#enclave-permissions-권한">Enclave Permissions (권한)</a></h3>
+<table>
+<thead>
+<tr>
+<th>파일</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>permissions_ca.cert.pem</strong></td>
+<td>권한 부여용 <strong>신뢰 기준</strong>.</td>
+</tr>
+<tr>
+<td><strong>governance.p7s</strong></td>
+<td><strong>도메인 전체</strong> 보호 정책이 담긴 서명된 XML. Permissions CA로 서명.</td>
+</tr>
+<tr>
+<td><strong>permissions.p7s</strong></td>
+<td><strong>이 엔클레이브</strong>의 권한이 담긴 서명된 XML. Permissions CA로 서명.</td>
+</tr>
+</tbody>
+</table>
+<p>도메인 참여자는 Permissions CA 사본으로 이 서명된 파일들을 검증해 요청된 접근을 허용한다. 실무에서는 <strong>동일한 인증서</strong>가 Identity CA와 Permissions CA 둘 다로 쓰이는 경우가 많다.</p>
+<h3 id="private-keys-비밀키"><a class="heading-link" aria-hidden="true" href="#private-keys-비밀키">Private Keys (비밀키)</a></h3>
+<p>Identity·Permissions 인증서에는 각각 <strong>비밀키</strong>가 있다. 새 엔클레이브를 추가할 때: <strong>Identity CA 비밀키</strong>로 CSR(Certificate Signing Request)에 서명하고, <strong>Permissions CA 비밀키</strong>로 권한 XML에 서명해 권한을 부여한다.</p>
+<h2 id="security-environment-variables-환경-변수"><a class="heading-link" aria-hidden="true" href="#security-environment-variables-환경-변수">Security Environment Variables (환경 변수)</a></h2>
+<table>
+<thead>
+<tr>
+<th>변수</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ROS_SECURITY_ENABLE</strong></td>
+<td>보안 기능 <strong>온/오프</strong>. 기본값은 꺼짐. 켜려면 <code>true</code>(대소문자 구분).</td>
+</tr>
+<tr>
+<td><strong>ROS_SECURITY_STRATEGY</strong></td>
+<td>보안이 켜진 뒤, <strong>설정이 잘못된 참여자</strong>를 어떻게 할지. 기본은 <strong>설정 오류여도 기동은 허용</strong>(보안만 비활성). <strong>엄격히 맞추려면</strong> <code>Enforce</code>로 설정해, 비준수 엔클레이브는 <strong>기동 실패</strong>하게 할 수 있다.</td>
+</tr>
+</tbody>
+</table>
+<p>그 외 엔클레이브·보안 파일 경로 관련 변수는 <a href="https://design.ros.org/articles/ros2_dds_security.html">ROS 2 DDS-Security Integration</a> 설계 문서 참고.</p>
+<h2 id="learn-more"><a class="heading-link" aria-hidden="true" href="#learn-more">Learn More</a></h2>
+<p>실습: <a href="https://docs.ros.org/en/jazzy/How-To-Guides/Setting-Up-Security.html">Setting up security</a>.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Security.html">ROS 2 Security — ROS 2 Jazzy</a></p>6:["$","div",null,{"className":"mb-30","children":[["$","$L17",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"BLOG"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L18","ROS/concepts/ros2-security",{"post":{"metadata":{"title":"intermediate - ros2 security","summary":"ROS 2 보안(암호화·인증·접근 제어), Security Enclave·보안 파일 6종, 환경 변수(ROS_SECURITY_ENABLE·STRATEGY) 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/ros2-security","source":"$19","type":"markdown","notebookData":"$undefined","parentFolder":"concepts"},"locale":"ko","delay":0.08}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}],"$L23"]}]
+24:T197f,<h2 id="overview"><a class="heading-link" aria-hidden="true" href="#overview">Overview</a></h2>
+<p><strong>tf2</strong>는 <strong>좌표 프레임(Coordinate Frame) 변환 라이브러리</strong>다. 여러 좌표계를 <strong>시간에 따라 추적</strong>하고, <strong>두 프레임 사이</strong>에서 원하는 시점의 <strong>점·벡터 등을 변환</strong>할 수 있게 한다. 프레임 간 관계를 <strong>트리 구조</strong>로 유지하며 <strong>시간에 따라 버퍼링</strong>한다.</p>
+<h2 id="properties-of-tf2-특성"><a class="heading-link" aria-hidden="true" href="#properties-of-tf2-특성">Properties of tf2 (특성)</a></h2>
+<p>로봇 시스템에는 world, base, gripper, head 등 <strong>시간에 따라 바뀌는 3D 좌표계</strong>가 많다. tf2는 이들을 추적해 다음 같은 질의를 가능하게 한다.</p>
+<ul>
+<li>5초 전 head 프레임이 world 프레임 기준으로 어디 있었는가?</li>
+<li>그리퍼 안 물체의 pose를 base 기준으로 하면?</li>
+<li>base 프레임의 현재 pose를 map 프레임 기준으로 하면?</li>
+</ul>
+<p><strong>분산 시스템</strong>에서 동작한다. 한 로봇의 모든 좌표 프레임 정보가 <strong>시스템 내 어떤 컴퓨터의 ROS 2 노드</strong>에서든 접근 가능하다. 각 노드가 자체 변환 DB를 만들거나, <strong>중앙 노드</strong>가 변환 정보를 모아 저장하는 방식 모두 가능하다.</p>
+<h3 id="publishing-transforms-변환-발행"><a class="heading-link" aria-hidden="true" href="#publishing-transforms-변환-발행">Publishing transforms (변환 발행)</a></h3>
+<p>변환을 발행할 때는 보통 “한 프레임에서 다른 프레임으로의 변환”으로 생각한다. <strong>데이터를 그 프레임에서 표현</strong>하는 것과 <strong>프레임 자체를 변환</strong>하는 것은 서로 <strong>역관계</strong>다. <code>geometry_msgs/msg/Transform</code> 메시지에 담는 값은 <strong>프레임 표현</strong> 쪽이다. 디버깅 시 발행한 변환은, 트리에서 어느 방향으로 조회하느냐에 따라 <strong>lookup 결과의 역</strong>이 될 수 있음을 염두에 두면 된다. tf2 라이브러리가 트리 탐색 방향에 맞춰 역변환을 처리해 준다.</p>
+<h3 id="position-위치"><a class="heading-link" aria-hidden="true" href="#position-위치">Position (위치)</a></h3>
+<p>한 프레임에서 관측한 점을 다른 프레임으로 옮기려면 <strong>소스 프레임 → 타깃 프레임</strong> 변환을 적용한다. <code>lookupTransform</code>에서 <strong>소스</strong>가 <code>frame_id</code> A, <strong>타깃</strong>이 <code>frame_id</code> B이면, “A에서 본 것을 B에서 본 좌표로” 변환하는 변환이 나온다. 가능하면 <strong><code>transform&#x3C;T>(target_frame, ...)</code></strong> 를 쓰는 것이 좋다. 소스 <code>frame_id</code>는 데이터 타입에서 읽고, 결과의 타깃 <code>frame_id</code>를 채우며, 수식은 내부에서 처리된다.</p>
+<p>예: 루트 프레임 A가 프레임 B보다 1m 아래면, A→B 변환은 양수(위로). <strong>데이터</strong>를 B에서 A로 바꿀 때는 이 변환의 <strong>역</strong>을 써야 한다(기준이 낮아지므로 높이에 더해짐). A에서 B로 변환하면 기준이 높아지므로 높이는 줄어든다.</p>
+<h3 id="velocity-속도"><a class="heading-link" aria-hidden="true" href="#velocity-속도">Velocity (속도)</a></h3>
+<p>속도는 <strong>세 가지 정보</strong>로 표현한다. “움직이는 프레임 대 기준 프레임”의 속도를 <strong>관측 프레임</strong>에서 본 값이다. 예: 자동차 A의 운전자가 “지면 대비 전방 1m/s”를 A에서 관측하면 (1,0,0). 같은 속도를 지면(E)에서 보면 (0,1,0)처럼 다른 벡터가 될 수 있다. tf2 변환으로 두 표현이 동일한 속도임을 맞출 수 있다. 속도는 <strong>같은 관측 프레임</strong>에서만 더하거나 빼야 하고, 비교할 때는 먼저 <strong>같은 관측 프레임</strong>으로 변환해야 한다.</p>
+<h2 id="tutorials-튜토리얼"><a class="heading-link" aria-hidden="true" href="#tutorials-튜토리얼">Tutorials (튜토리얼)</a></h2>
+<p>tf2 사용은 크게 <strong>변환 수신(리스너)</strong> 와 <strong>변환 발행(브로드캐스터)</strong> 두 가지다.</p>
+<ul>
+<li><strong>리스너</strong>: 시스템에서 발행되는 좌표 프레임을 <strong>수신·버퍼</strong>하고, 특정 프레임 간 변환을 <strong>조회</strong>한다. <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Listener-Py.html">Writing a listener</a> (Python / C++) 참고.</li>
+<li><strong>브로드캐스터</strong>: 로봇의 한 부분에 해당하는 <strong>좌표 프레임의 상대 pose</strong>를 시스템에 <strong>발행</strong>한다. <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Broadcaster-Py.html">Writing a broadcaster</a> (Python / C++) 참고.</li>
+<li><strong>정적 브로드캐스터</strong>: <strong>시간에 따라 변하지 않는</strong> 변환은 한 번만 발행하고 이력은 저장하지 않는다. 저장·조회 부담과 발행 오버헤드를 줄인다. <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Static-Broadcaster-Py.html">Writing a static broadcaster</a> (Python / C++) 참고.</li>
+<li><strong>프레임 추가</strong>: <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Adding-A-Frame-Py.html">Adding a frame</a> (Python / C++)에서 고정/동적 프레임을 트리에 넣는 방법을 다룬다.</li>
+<li><strong>tf2와 시간</strong>: <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Using-Time-Py.html">Using time</a>, <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Time-Travel-With-Tf2-Py.html">Traveling in time</a> (C++)에서 과거/미래 시점 조회를 다룬다.</li>
+</ul>
+<p>튜토리얼 목록은 공식 <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2-Py.html">tf2 tutorials</a> 페이지 참고.</p>
+<h2 id="paper"><a class="heading-link" aria-hidden="true" href="#paper">Paper</a></h2>
+<p>tf2의 이론적 배경: <strong>“tf: The transform library”</strong>, TePRA 2013.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Tf2.html">Tf2 — ROS 2 Jazzy</a></p>1a:["$","$L18","ROS/concepts/tf2",{"post":{"metadata":{"title":"intermediate - tf2","summary":"ROS 2 tf2(좌표 변환 라이브러리)의 역할, 프레임 트리·발행/조회 의미, 위치·속도 변환, 리스너/브로드캐스터 튜토리얼 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/tf2","source":"$24","type":"markdown","notebookData":"$undefined","parentFolder":"concepts"},"locale":"ko","delay":0.13}]
+25:T22dd,<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="python" data-theme="moonlight-ii"><code data-language="python" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> mysql</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">connector</span></span>
+<span data-line=""><span style="color:#86E1FC">import</span><span style="color:#C8D3F5"> pandas </span><span style="color:#86E1FC">as</span><span style="color:#C8D3F5"> pd</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">conn </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> mysql</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">connector</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">connect</span><span style="color:#86E1FC">(</span></span>
+<span data-line=""><span style="color:#FCA7EA">    host</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">...</span><span style="color:#86E1FC">'</span><span style="color:#86E1FC">,</span></span>
+<span data-line=""><span style="color:#FCA7EA">    port</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 3306</span><span style="color:#86E1FC">,</span></span>
+<span data-line=""><span style="color:#FCA7EA">    user</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">...</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span></span>
+<span data-line=""><span style="color:#FCA7EA">    password</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">...</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">,</span></span>
+<span data-line=""><span style="color:#FCA7EA">    database</span><span style="color:#86E1FC"> =</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">...</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">df </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> pd</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">read_csv</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">./csvs/my_table.csv</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">sql </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> """</span><span style="color:#C3E88D">INSERT INTO my_table VALUES (</span><span style="color:#FF98A4">%s</span><span style="color:#C3E88D">, </span><span style="color:#FF98A4">%s</span><span style="color:#C3E88D">, </span><span style="color:#FF98A4">%s</span><span style="color:#C3E88D">, </span><span style="color:#FF98A4">%s</span><span style="color:#C3E88D">, </span><span style="color:#FF98A4">%s</span><span style="color:#C3E88D">, </span><span style="color:#FF98A4">%s</span><span style="color:#C3E88D">)</span><span style="color:#86E1FC">"""</span></span>
+<span data-line=""><span style="color:#C8D3F5">cursor </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> conn</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">cursor</span><span style="color:#86E1FC">(</span><span style="color:#FCA7EA">buffered</span><span style="color:#86E1FC">=</span><span style="color:#FF98A4">True</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">for</span><span style="color:#C8D3F5"> i</span><span style="color:#86E1FC">,</span><span style="color:#C8D3F5"> row </span><span style="color:#86E1FC">in</span><span style="color:#C8D3F5"> df</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">iterrows</span><span style="color:#86E1FC">():</span></span>
+<span data-line=""><span style="color:#C8D3F5">    cursor</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">execute</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">sql</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> tuple</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">row</span><span style="color:#86E1FC">))</span></span>
+<span data-line=""><span style="color:#65BCFF">    print</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">tuple</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">row</span><span style="color:#86E1FC">))</span></span>
+<span data-line=""><span style="color:#C8D3F5">    conn</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">commit</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">cursor</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">execute</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">SELECT * FROM movie</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""><span style="color:#C8D3F5">result </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> cursor</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">fetchall</span><span style="color:#86E1FC">()</span></span>
+<span data-line=""><span style="color:#86E1FC">for</span><span style="color:#C8D3F5"> row </span><span style="color:#86E1FC">in</span><span style="color:#C8D3F5"> result</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#65BCFF">    print</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">row</span><span style="color:#86E1FC">)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">conn</span><span style="color:#86E1FC">.</span><span style="color:#C8D3F5">close</span><span style="color:#86E1FC">()</span></span><button type="button" title="Copy code" aria-label="Copy code" data="import mysql.connector
+import pandas as pd
+
+conn = mysql.connector.connect(
+    host = &#x27;...&#x27;,
+    port = 3306,
+    user = &#x22;...&#x22;,
+    password = &#x22;...&#x22;,
+    database = &#x22;...&#x22;
+)
+
+df = pd.read_csv(&#x22;./csvs/my_table.csv&#x22;)
+
+sql = &#x22;&#x22;&#x22;INSERT INTO my_table VALUES (%s, %s, %s, %s, %s, %s)&#x22;&#x22;&#x22;
+cursor = conn.cursor(buffered=True)
+
+for i, row in df.iterrows():
+    cursor.execute(sql, tuple(row))
+    print(tuple(row))
+    conn.commit()
+
+cursor.execute(&#x22;SELECT * FROM movie&#x22;)
+result = cursor.fetchall()
+for row in result:
+    print(row)
+
+conn.close()" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>1b:["$","$L18","DB/MySQL/csv-to-db",{"post":{"metadata":{"title":"csv into db with Python","summray":"python 을 이용해서 csv 데이터를 table 에 import 하는 방법","locale":"ko","createdAt":"2026-02-10T01:31:15.000Z","updatedAt":"2026-02-10T01:31:15.000Z"},"slug":"DB/MySQL/csv-to-db","source":"$25","type":"markdown","notebookData":"$undefined","parentFolder":"MySQL"},"locale":"ko","delay":0.18}]
+26:T5d1d,<h1 id="mysql-집계-함수aggregate-functions-정리"><a class="heading-link" aria-hidden="true" href="#mysql-집계-함수aggregate-functions-정리">MySQL 집계 함수(Aggregate Functions) 정리</a></h1>
+<p>집계 함수는 <strong>여러 행을 묶어 하나의 결과</strong>를 반환합니다. <code>GROUP BY</code>로 그룹을 나누고, <code>HAVING</code>으로 그룹 단위 조건을 걸 수 있다.</p>
+<hr>
+<h2 id="1-집계-함수-aggregate-functions"><a class="heading-link" aria-hidden="true" href="#1-집계-함수-aggregate-functions">1. 집계 함수 (Aggregate Functions)</a></h2>
+<table>
+<thead>
+<tr>
+<th align="left">함수</th>
+<th align="left">설명</th>
+<th align="left">반환 타입</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>COUNT</strong></td>
+<td align="left">행의 개수 (NULL 제외 가능)</td>
+<td align="left">숫자</td>
+</tr>
+<tr>
+<td align="left"><strong>SUM</strong></td>
+<td align="left">합계</td>
+<td align="left">숫자</td>
+</tr>
+<tr>
+<td align="left"><strong>AVG</strong></td>
+<td align="left">평균</td>
+<td align="left">숫자</td>
+</tr>
+<tr>
+<td align="left"><strong>MIN</strong></td>
+<td align="left">최솟값</td>
+<td align="left">해당 컬럼 타입</td>
+</tr>
+<tr>
+<td align="left"><strong>MAX</strong></td>
+<td align="left">최댓값</td>
+<td align="left">해당 컬럼 타입</td>
+</tr>
+</tbody>
+</table>
+<h3 id="기본-사용-예시"><a class="heading-link" aria-hidden="true" href="#기본-사용-예시">기본 사용 예시</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6">-- 샘플 테이블: sales (id, product, category, amount, sale_date)</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#86E1FC"> *</span><span style="color:#C099FF"> FROM</span><span style="color:#C8D3F5"> sales;</span></span>
+<span data-line=""><span style="color:#858AA6">-- | id | product | category | amount | sale_date   |</span></span>
+<span data-line=""><span style="color:#858AA6">-- |  1 | A       | food     | 1000   | 2024-01-01  |</span></span>
+<span data-line=""><span style="color:#858AA6">-- |  2 | B       | food     | 1500   | 2024-01-02  |</span></span>
+<span data-line=""><span style="color:#858AA6">-- |  3 | C       | drink    | 500    | 2024-01-01  |</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- 전체 행 개수</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#65BCFF"> COUNT</span><span style="color:#C8D3F5">(</span><span style="color:#86E1FC">*</span><span style="color:#C8D3F5">) </span><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales;           </span><span style="color:#858AA6">-- 3</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- amount 합계, 평균, 최소, 최대</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#65BCFF"> SUM</span><span style="color:#C8D3F5">(amount), </span><span style="color:#65BCFF">AVG</span><span style="color:#C8D3F5">(amount), </span><span style="color:#65BCFF">MIN</span><span style="color:#C8D3F5">(amount), </span><span style="color:#65BCFF">MAX</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales;</span></span>
+<span data-line=""><span style="color:#858AA6">-- 3000, 1000, 500, 1500</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- NULL은 COUNT에서 제외 (COUNT(컬럼명) 사용 시)</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#65BCFF"> COUNT</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales;      </span><span style="color:#858AA6">-- NULL이 있으면 제외됨</span></span><button type="button" title="Copy code" aria-label="Copy code" data="-- 샘플 테이블: sales (id, product, category, amount, sale_date)
+SELECT * FROM sales;
+-- | id | product | category | amount | sale_date   |
+-- |  1 | A       | food     | 1000   | 2024-01-01  |
+-- |  2 | B       | food     | 1500   | 2024-01-02  |
+-- |  3 | C       | drink    | 500    | 2024-01-01  |
+
+-- 전체 행 개수
+SELECT COUNT(*) FROM sales;           -- 3
+
+-- amount 합계, 평균, 최소, 최대
+SELECT SUM(amount), AVG(amount), MIN(amount), MAX(amount) FROM sales;
+-- 3000, 1000, 500, 1500
+
+-- NULL은 COUNT에서 제외 (COUNT(컬럼명) 사용 시)
+SELECT COUNT(amount) FROM sales;      -- NULL이 있으면 제외됨" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="2-group-by-그룹화"><a class="heading-link" aria-hidden="true" href="#2-group-by-그룹화">2. GROUP BY (그룹화)</a></h2>
+<p>특정 컬럼 값별로 행을 묶어, <strong>그룹 단위로</strong> 집계할 때 사용합니다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6">-- 카테고리별 판매 건수, 합계, 평균</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span></span>
+<span data-line=""><span style="color:#C8D3F5">  category,</span></span>
+<span data-line=""><span style="color:#65BCFF">  COUNT</span><span style="color:#C8D3F5">(</span><span style="color:#86E1FC">*</span><span style="color:#C8D3F5">) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> cnt,</span></span>
+<span data-line=""><span style="color:#65BCFF">  SUM</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> total,</span></span>
+<span data-line=""><span style="color:#65BCFF">  AVG</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> avg_amount</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales</span></span>
+<span data-line=""><span style="color:#C099FF">GROUP BY</span><span style="color:#C8D3F5"> category;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- | category | cnt | total | avg_amount |</span></span>
+<span data-line=""><span style="color:#858AA6">-- | food     | 2   | 2500  | 1250       |</span></span>
+<span data-line=""><span style="color:#858AA6">-- | drink    | 1   | 500   | 500        |</span></span><button type="button" title="Copy code" aria-label="Copy code" data="-- 카테고리별 판매 건수, 합계, 평균
+SELECT
+  category,
+  COUNT(*) AS cnt,
+  SUM(amount) AS total,
+  AVG(amount) AS avg_amount
+FROM sales
+GROUP BY category;
+
+-- | category | cnt | total | avg_amount |
+-- | food     | 2   | 2500  | 1250       |
+-- | drink    | 1   | 500   | 500        |" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>주의:</strong> <code>SELECT</code>에 나오는 컬럼은 <code>GROUP BY</code>에 포함되거나, 집계 함수로 감싸져 있어야 합니다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6">-- 잘못된 예: category로만 묶었는데 product를 그대로 SELECT</span></span>
+<span data-line=""><span style="color:#858AA6">-- SELECT category, product FROM sales GROUP BY category;  -- 에러 가능</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- 올바른 예: product도 그룹 기준에 포함</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> category, product, </span><span style="color:#65BCFF">SUM</span><span style="color:#C8D3F5">(amount)</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales</span></span>
+<span data-line=""><span style="color:#C099FF">GROUP BY</span><span style="color:#C8D3F5"> category, product;</span></span><button type="button" title="Copy code" aria-label="Copy code" data="-- 잘못된 예: category로만 묶었는데 product를 그대로 SELECT
+-- SELECT category, product FROM sales GROUP BY category;  -- 에러 가능
+
+-- 올바른 예: product도 그룹 기준에 포함
+SELECT category, product, SUM(amount)
+FROM sales
+GROUP BY category, product;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="3-having-그룹-조건"><a class="heading-link" aria-hidden="true" href="#3-having-그룹-조건">3. HAVING (그룹 조건)</a></h2>
+<p><code>WHERE</code>는 <strong>행 단위</strong> 필터, <code>HAVING</code>은 <strong>그룹 단위</strong> 필터입니다. 집계 결과에 조건을 걸 때 사용합니다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6">-- 합계가 2000 이상인 카테고리만</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> category, </span><span style="color:#65BCFF">SUM</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> total</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales</span></span>
+<span data-line=""><span style="color:#C099FF">GROUP BY</span><span style="color:#C8D3F5"> category</span></span>
+<span data-line=""><span style="color:#C099FF">HAVING</span><span style="color:#65BCFF"> SUM</span><span style="color:#C8D3F5">(amount) </span><span style="color:#86E1FC">>=</span><span style="color:#FF966C"> 2000</span><span style="color:#C8D3F5">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- | category | total |</span></span>
+<span data-line=""><span style="color:#858AA6">-- | food     | 2500  |</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">-- 별칭(alias) 사용 (MySQL 지원)</span></span>
+<span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> category, </span><span style="color:#65BCFF">SUM</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> total</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales</span></span>
+<span data-line=""><span style="color:#C099FF">GROUP BY</span><span style="color:#C8D3F5"> category</span></span>
+<span data-line=""><span style="color:#C099FF">HAVING</span><span style="color:#C8D3F5"> total </span><span style="color:#86E1FC">>=</span><span style="color:#FF966C"> 2000</span><span style="color:#C8D3F5">;</span></span><button type="button" title="Copy code" aria-label="Copy code" data="-- 합계가 2000 이상인 카테고리만
+SELECT category, SUM(amount) AS total
+FROM sales
+GROUP BY category
+HAVING SUM(amount) >= 2000;
+
+-- | category | total |
+-- | food     | 2500  |
+
+-- 별칭(alias) 사용 (MySQL 지원)
+SELECT category, SUM(amount) AS total
+FROM sales
+GROUP BY category
+HAVING total >= 2000;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="4-order-by와-함께-사용"><a class="heading-link" aria-hidden="true" href="#4-order-by와-함께-사용">4. ORDER BY와 함께 사용</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> category, </span><span style="color:#65BCFF">COUNT</span><span style="color:#C8D3F5">(</span><span style="color:#86E1FC">*</span><span style="color:#C8D3F5">) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> cnt, </span><span style="color:#65BCFF">SUM</span><span style="color:#C8D3F5">(amount) </span><span style="color:#C099FF">AS</span><span style="color:#C8D3F5"> total</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> sales</span></span>
+<span data-line=""><span style="color:#C099FF">GROUP BY</span><span style="color:#C8D3F5"> category</span></span>
+<span data-line=""><span style="color:#C099FF">HAVING</span><span style="color:#C8D3F5"> total </span><span style="color:#86E1FC">></span><span style="color:#FF966C"> 500</span></span>
+<span data-line=""><span style="color:#C099FF">ORDER BY</span><span style="color:#C8D3F5"> total </span><span style="color:#C099FF">DESC</span><span style="color:#C8D3F5">;</span></span><button type="button" title="Copy code" aria-label="Copy code" data="SELECT category, COUNT(*) AS cnt, SUM(amount) AS total
+FROM sales
+GROUP BY category
+HAVING total > 500
+ORDER BY total DESC;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="실행-순서-정리"><a class="heading-link" aria-hidden="true" href="#실행-순서-정리">실행 순서 정리</a></h2>
+<p><code>SELECT</code> 문에서 처리되는 <strong>대략적인 순서</strong>는 다음과 같습니다.</p>
+<ol>
+<li><strong>FROM</strong> — 테이블 선택</li>
+<li><strong>WHERE</strong> — 행 필터</li>
+<li><strong>GROUP BY</strong> — 그룹화</li>
+<li><strong>HAVING</strong> — 그룹 필터</li>
+<li><strong>SELECT</strong> — 컬럼/집계 계산</li>
+<li><strong>ORDER BY</strong> — 정렬</li>
+</ol>
+<blockquote>
+<p><strong>Tip:</strong> <code>WHERE</code>는 그룹 짓기 전에, <code>HAVING</code>은 그룹 짓고 난 뒤에 적용됩니다. 행을 먼저 줄이려면 <code>WHERE</code>를 활용하세요.</p>
+</blockquote>1c:["$","$L18","DB/MySQL/aggregate-func",{"post":{"metadata":{"title":"MySQL Aggregate Functions & GROUP BY","summary":"COUNT, SUM, AVG, MIN, MAX와 GROUP BY, HAVING 정리","locale":"ko","createdAt":"2026-02-10T01:31:15.000Z","updatedAt":"2026-02-10T01:31:15.000Z"},"slug":"DB/MySQL/aggregate-func","source":"$26","type":"markdown","notebookData":"$undefined","parentFolder":"MySQL"},"locale":"ko","delay":0.23000000000000004}]
+27:Tb49,<p>스칼라 함수는 입력된 각 레코드에 대해 <strong>단일 값을 반환</strong>하는 함수</p>
+<h2 id="1-문자열-함수-string-functions"><a class="heading-link" aria-hidden="true" href="#1-문자열-함수-string-functions">1. 문자열 함수 (String Functions)</a></h2>
+<table>
+<thead>
+<tr>
+<th align="left">함수</th>
+<th align="left">설명</th>
+<th align="left">사용 예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>UCASE</strong></td>
+<td align="left">영문자를 모두 <strong>대문자</strong>로 변환합니다.</td>
+<td align="left"><code>SELECT UCASE('mysql');</code></td>
+</tr>
+<tr>
+<td align="left"><strong>LCASE</strong></td>
+<td align="left">영문자를 모두 <strong>소문자</strong>로 변환합니다.</td>
+<td align="left"><code>SELECT LCASE('MYSQL');</code></td>
+</tr>
+<tr>
+<td align="left"><strong>MID</strong></td>
+<td align="left">문자열의 시작 위치부터 지정한 길이만큼 추출 (1부터 시작)</td>
+<td align="left"><code>SELECT MID('Hello World', 1, 5);</code></td>
+</tr>
+<tr>
+<td align="left"><strong>LENGTH</strong></td>
+<td align="left">문자열의 <strong>길이</strong>를 반환합니다.</td>
+<td align="left"><code>SELECT LENGTH('Table');</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-숫자-함수-numeric-functions"><a class="heading-link" aria-hidden="true" href="#2-숫자-함수-numeric-functions">2. 숫자 함수 (Numeric Functions)</a></h2>
+<table>
+<thead>
+<tr>
+<th align="left">함수</th>
+<th align="left">설명</th>
+<th align="left">사용 예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>ROUND</strong></td>
+<td align="left">숫자를 지정된 소수점 자리수에서 <strong>반올림</strong>합니다.</td>
+<td align="left"><code>SELECT ROUND(3.1415, 2);</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-날짜-및-포맷-함수-date--format-functions"><a class="heading-link" aria-hidden="true" href="#3-날짜-및-포맷-함수-date--format-functions">3. 날짜 및 포맷 함수 (Date &#x26; Format Functions)</a></h2>
+<table>
+<thead>
+<tr>
+<th align="left">함수</th>
+<th align="left">설명</th>
+<th align="left">사용 예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>NOW</strong></td>
+<td align="left">현재의 <strong>날짜와 시간</strong>을 반환합니다.</td>
+<td align="left"><code>SELECT NOW();</code></td>
+</tr>
+<tr>
+<td align="left"><strong>FORMAT</strong></td>
+<td align="left">숫자를 <strong>천 단위 콤마</strong>가 포함된 형식으로 변환합니다.</td>
+<td align="left"><code>SELECT FORMAT(1234567, 0);</code></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<blockquote>
+<p><strong>Tip:</strong> <code>UCASE</code>와 <code>LCASE</code>는 각각 <code>UPPER</code>, <code>LOWER</code>와 동일하게 작동하며, <code>MID</code>는 <code>SUBSTRING</code>의 별칭으로 자주 사용됩니다.</p>
+</blockquote>1d:["$","$L18","DB/MySQL/scalar-func",{"post":{"metadata":{"title":"MySQL Scalar Functions Summary","summary":"자주 사용하는 MySQL 스칼라 함수 7가지 정리","locale":"ko","createdAt":"2026-02-10T01:31:15.000Z","updatedAt":"2026-02-10T01:31:15.000Z"},"slug":"DB/MySQL/scalar-func","source":"$27","type":"markdown","notebookData":"$undefined","parentFolder":"MySQL"},"locale":"ko","delay":0.28}]
+28:T2d41,<h2 id="subquery-란"><a class="heading-link" aria-hidden="true" href="#subquery-란">Subquery 란?</a></h2>
+<p>하나의 SQL 문 안에 포함되어 있는 또 다른 SQL문을 말한다.</p>
+<ul>
+<li>메인쿼리가 서브쿼리를 포함하는 종속적인 관계이다.</li>
+<li>서브쿼리는 메인쿼리의 칼럼 사용 가능</li>
+<li>메인쿼리는 서브쿼리의 칼럼 사용 불가</li>
+</ul>
+<p>query 의 실행이 메인에서 먼저 실행되기 때문에 subquery 가 main query 에 접근이 가능한 것.</p>
+<h3 id="subquery-사용시-주의할-점"><a class="heading-link" aria-hidden="true" href="#subquery-사용시-주의할-점">Subquery 사용시 주의할 점</a></h3>
+<ul>
+<li>Subquery 는 괄호로 묶어서 사용</li>
+<li>단일 행 혹은 복수 행 비교 연산자와 함께 사용 가능</li>
+<li>subquery 에서는 order by 를 사용 X</li>
+</ul>
+<h2 id="subquery-종류"><a class="heading-link" aria-hidden="true" href="#subquery-종류">Subquery 종류</a></h2>
+<ul>
+<li>스칼라 서브쿼리 (Scalar Subquery) - SELECT 절에 사용</li>
+<li>인라인 뷰 (Inline View) - FROM 절에 사용</li>
+<li>중첩 서브쿼리 (Nested Subquery) - WHERE 절에 사용</li>
+</ul>
+<h3 id="scalar-subquery"><a class="heading-link" aria-hidden="true" href="#scalar-subquery">Scalar Subquery</a></h3>
+<p>SELECT 절에서 사용하는 서브쿼리. 결과는 하나의 행(Row) 이어야 한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> column1, (</span><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> column2 </span><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> table2 </span><span style="color:#C099FF">WHERE</span><span style="color:#C8D3F5"> condition)</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> table1</span></span>
+<span data-line=""><span style="color:#C099FF">WHERE</span><span style="color:#C8D3F5"> condition;</span></span><button type="button" title="Copy code" aria-label="Copy code" data="SELECT column1, (SELECT column2 FROM table2 WHERE condition)
+FROM table1
+WHERE condition;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="inline-view"><a class="heading-link" aria-hidden="true" href="#inline-view">Inline View</a></h3>
+<p>FROM 절에 사용하는 서브쿼리. 메인쿼리에서는 인라인 뷰에서 조회한 열(Column) 만 사용가능하다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> a.column, b.column</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> table1 a, (</span><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> column1, column2 </span><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> table2) b</span></span>
+<span data-line=""><span style="color:#C099FF">WHERE</span><span style="color:#C8D3F5"> condition;</span></span><button type="button" title="Copy code" aria-label="Copy code" data="SELECT a.column, b.column
+FROM table1 a, (SELECT column1, column2 FROM table2) b
+WHERE condition;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="중첩-서브쿼리-nested-subquery"><a class="heading-link" aria-hidden="true" href="#중첩-서브쿼리-nested-subquery">중첩 서브쿼리 (Nested Subquery)</a></h3>
+<p>WHERE 절에서 사용하는 서브쿼리.</p>
+<h4 id="1-single-row---하나의-행을-검색하는-서브쿼리"><a class="heading-link" aria-hidden="true" href="#1-single-row---하나의-행을-검색하는-서브쿼리">1. Single Row - 하나의 행을 검색하는 서브쿼리</a></h4>
+<p>서브쿼리가 비교연산자( =, >, >=, &#x3C;, &#x3C;=, &#x3C;>, !=)와 사용되는 경우, 서브쿼리의 검색 결과는 한 개 행의 결과값을 가져야 한
+다. (두개 이상인 경우 에러)</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="sql" data-theme="moonlight-ii"><code data-language="sql" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> column_names</span></span>
+<span data-line=""><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> table_name</span></span>
+<span data-line=""><span style="color:#C099FF">WHERE</span><span style="color:#C8D3F5"> column_name </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> (</span><span style="color:#C099FF">SELECT</span><span style="color:#C8D3F5"> column_name </span><span style="color:#C099FF">FROM</span><span style="color:#C8D3F5"> table_name </span><span style="color:#C099FF">WHERE</span><span style="color:#C8D3F5"> condition)</span></span>
+<span data-line=""><span style="color:#C099FF">ORDER BY</span><span style="color:#C8D3F5"> column_name;</span></span><button type="button" title="Copy code" aria-label="Copy code" data="SELECT column_names
+FROM table_name
+WHERE column_name = (SELECT column_name FROM table_name WHERE condition)
+ORDER BY column_name;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ul>
+<li>Multiple Row - 하나 이상의 행을 검색하는 서브쿼리</li>
+<li>Multiple Column - 하나 이상의 열을 검색하는 서브쿼리</li>
+</ul>
+<h4 id="2"><a class="heading-link" aria-hidden="true" href="#2">2.</a></h4>1e:["$","$L18","DB/MySQL/subquery",{"post":{"metadata":{"title":"Subquery","summary":"Subquery 란 무엇인지 그리고 사용법.","locale":"ko","createdAt":"2026-02-10T01:31:15.000Z","updatedAt":"2026-02-10T01:31:15.000Z"},"slug":"DB/MySQL/subquery","source":"$28","type":"markdown","notebookData":"$undefined","parentFolder":"MySQL"},"locale":"ko","delay":0.33}]
+29:T7ffd,<h2 id="mysqldump-기본"><a class="heading-link" aria-hidden="true" href="#mysqldump-기본">mysqldump 기본</a></h2>
+<p><code>mysqldump</code>는 MySQL 데이터를 SQL 덤프 파일로 내보내는 클라이언트 도구다. 백업 후 <code>mysql</code> 클라이언트로 import 한다.</p>
+<hr>
+<h2 id="1-db-전체-백업"><a class="heading-link" aria-hidden="true" href="#1-db-전체-백업">1. DB 전체 백업</a></h2>
+<p>서버에 있는 모든 데이터베이스를 백업한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysqldump</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> --all-databases</span><span style="color:#86E1FC"> ></span><span style="color:#C3E88D"> backup_all.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysqldump -u 사용자명 -p --all-databases > backup_all.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ul>
+<li><code>--all-databases</code>: 모든 DB 포함</li>
+<li><code>-p</code>: 비밀번호 입력 프롬프트</li>
+</ul>
+<p><strong>복원</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysql</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D"> backup_all.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysql -u 사용자명 -p < backup_all.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="2-특정-db-백업"><a class="heading-link" aria-hidden="true" href="#2-특정-db-백업">2. 특정 DB 백업</a></h2>
+<p>하나의 데이터베이스만 백업한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysqldump</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#86E1FC"> ></span><span style="color:#C3E88D"> backup_db.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysqldump -u 사용자명 -p 데이터베이스명 > backup_db.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>복원</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysql</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D"> backup_db.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysql -u 사용자명 -p 데이터베이스명 < backup_db.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>복원 전에 해당 DB가 없으면 생성해야 한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysql</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> -e</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">CREATE DATABASE IF NOT EXISTS 데이터베이스명;</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#FFC777">mysql</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D"> backup_db.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysql -u 사용자명 -p -e &#x22;CREATE DATABASE IF NOT EXISTS 데이터베이스명;&#x22;
+mysql -u 사용자명 -p 데이터베이스명 < backup_db.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="3-특정-테이블--데이터-백업"><a class="heading-link" aria-hidden="true" href="#3-특정-테이블--데이터-백업">3. 특정 테이블 + 데이터 백업</a></h2>
+<p>한 DB 안의 특정 테이블과 데이터만 백업한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysqldump</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#C3E88D"> 테이블1</span><span style="color:#C3E88D"> 테이블2</span><span style="color:#86E1FC"> ></span><span style="color:#C3E88D"> backup_tables.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysqldump -u 사용자명 -p 데이터베이스명 테이블1 테이블2 > backup_tables.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>복원</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysql</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D"> backup_tables.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysql -u 사용자명 -p 데이터베이스명 < backup_tables.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="4-특정-테이블-스키마만-백업-데이터-제외"><a class="heading-link" aria-hidden="true" href="#4-특정-테이블-스키마만-백업-데이터-제외">4. 특정 테이블 스키마만 백업 (데이터 제외)</a></h2>
+<p>테이블 구조만 필요할 때는 <code>--no-data</code> 옵션을 사용한다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysqldump</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> --no-data</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#C3E88D"> 테이블명</span><span style="color:#86E1FC"> ></span><span style="color:#C3E88D"> backup_schema.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysqldump -u 사용자명 -p --no-data 데이터베이스명 테이블명 > backup_schema.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>여러 테이블도 가능하다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysqldump</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> --no-data</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#C3E88D"> 테이블1</span><span style="color:#C3E88D"> 테이블2</span><span style="color:#86E1FC"> ></span><span style="color:#C3E88D"> backup_schema.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysqldump -u 사용자명 -p --no-data 데이터베이스명 테이블1 테이블2 > backup_schema.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p><strong>복원</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysql</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D"> backup_schema.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysql -u 사용자명 -p 데이터베이스명 < backup_schema.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<hr>
+<h2 id="옵션-정리"><a class="heading-link" aria-hidden="true" href="#옵션-정리">옵션 정리</a></h2>
+<table>
+<thead>
+<tr>
+<th>옵션</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--all-databases</code></td>
+<td>모든 DB 백업</td>
+</tr>
+<tr>
+<td><code>--no-data</code></td>
+<td>스키마만 백업, 데이터 제외</td>
+</tr>
+<tr>
+<td><code>--single-transaction</code></td>
+<td>InnoDB 일관 스냅샷 (락 최소화)</td>
+</tr>
+<tr>
+<td><code>--routines</code></td>
+<td>저장 프로시저/함수 포함</td>
+</tr>
+<tr>
+<td><code>--triggers</code></td>
+<td>트리거 포함 (기본 ON)</td>
+</tr>
+<tr>
+<td><code>-h 호스트</code></td>
+<td>원격 호스트 지정</td>
+</tr>
+<tr>
+<td><code>-P 포트</code></td>
+<td>포트 지정</td>
+</tr>
+</tbody>
+</table>
+<p>DB 서버를 중단하지 않고 <strong>실행 중인 상태에서</strong> InnoDB를 백업할 때는 다음처럼 쓰면 좋다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#FFC777">mysqldump</span><span style="color:#C3E88D"> -u</span><span style="color:#C3E88D"> 사용자명</span><span style="color:#C3E88D"> -p</span><span style="color:#C3E88D"> --single-transaction</span><span style="color:#C3E88D"> --routines</span><span style="color:#C3E88D"> 데이터베이스명</span><span style="color:#86E1FC"> ></span><span style="color:#C3E88D"> backup.sql</span></span><button type="button" title="Copy code" aria-label="Copy code" data="mysqldump -u 사용자명 -p --single-transaction --routines 데이터베이스명 > backup.sql" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>1f:["$","$L18","DB/MySQL/backup",{"post":{"metadata":{"title":"MySQL mysqldump 백업 및 복원","summary":"mysqldump로 DB 전체, 특정 DB, 특정 테이블(데이터/스키마만) 백업 및 import 방법","locale":"ko","createdAt":"2026-02-02T01:41:17.000Z","updatedAt":"2026-02-02T01:41:17.000Z"},"slug":"DB/MySQL/backup","source":"$29","type":"markdown","notebookData":"$undefined","parentFolder":"MySQL"},"locale":"ko","delay":0.38000000000000006}]
+2a:T2441,<h2 id="모방학습-주요-학습-방식"><a class="heading-link" aria-hidden="true" href="#모방학습-주요-학습-방식">모방학습 주요 학습 방식</a></h2>
+<h3 id="1-behavioral-cloning-행동-복제"><a class="heading-link" aria-hidden="true" href="#1-behavioral-cloning-행동-복제">1. Behavioral Cloning (행동 복제)</a></h3>
+<p>시연 데이터를 지도학습처럼 학습.</p>
+<ul>
+<li>입력: 상태(state), 출력: 행동(action) → supervised learning</li>
+<li>예: 사람이 조이스틱으로 로봇을 조종한 로그를 그대로 학습</li>
+</ul>
+<h3 id="2-inverse-reinforcement-learning-irl"><a class="heading-link" aria-hidden="true" href="#2-inverse-reinforcement-learning-irl">2. Inverse Reinforcement Learning (IRL)</a></h3>
+<p>시연을 보고 "전문가가 어떤 보상 함수를 최적화하고 있나?"를 역으로 추론.</p>
+<ul>
+<li>전문가의 의도를 수학적으로 복원</li>
+</ul>
+<h3 id="3-apprenticeship-learning-견습-학습"><a class="heading-link" aria-hidden="true" href="#3-apprenticeship-learning-견습-학습">3. Apprenticeship Learning (견습 학습)</a></h3>
+<p>보상 추론 대신 전문가의 정책 자체를 모방.</p>
+<ul>
+<li>IRL보다 단순하고 보상 설계 모호성을 줄임</li>
+</ul>
+<h2 id="학습-절차"><a class="heading-link" aria-hidden="true" href="#학습-절차">학습 절차</a></h2>
+<ol>
+<li>
+<p><strong>데이터 수집</strong>: 사람의 조작, 원격 텔레오퍼레이션, 모션캡처, 시뮬레이션 등으로 시연 데이터 수집</p>
+<ul>
+<li>로그: (상태, 행동) 쌍을 기록 → 데이터셋 구성</li>
+</ul>
+</li>
+<li>
+<p><strong>문제 변환</strong>: 시연 데이터를 지도학습 문제로 전환</p>
+<ul>
+<li>"이 상태에서 사람이 이런 행동을 했다"를 정답 라벨로 둠</li>
+</ul>
+</li>
+<li>
+<p><strong>모델 학습</strong>: 신경망(예: CNN, Transformer, Diffusion Policy 등)을 이용해 상태→행동 매핑을 학습</p>
+</li>
+<li>
+<p><strong>일반화</strong>: 새로운 환경에서도 비슷한 패턴을 인식해 적응 가능</p>
+</li>
+<li>
+<p><strong>실행</strong>: 로봇에 정책을 탑재, 실시간으로 행동 제어</p>
+</li>
+</ol>
+<h2 id="장단점"><a class="heading-link" aria-hidden="true" href="#장단점">장단점</a></h2>
+<table>
+<thead>
+<tr>
+<th>장점</th>
+<th>단점</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>빠른 학습</strong>: 보상설계없이 시연만으로 학습한다</td>
+<td><strong>데이터품질</strong>: 전문가 시연이 부족하거나 잡음이 많으면 성능 저하된다</td>
+</tr>
+<tr>
+<td><strong>사람같은 상호작용</strong>: 더 자연스러운 동작을 따라할 수 있다</td>
+<td><strong>고차원문제</strong>: 다관절로봇(예: 휴머노이드) - 학습에 어려움이 있다</td>
+</tr>
+<tr>
+<td><strong>적응력</strong>: 비정형환경에서도 대응 가능하다</td>
+<td><strong>일반화 한계</strong>: 학습에 없는 환경에서 쉽게 실패가능</td>
+</tr>
+<tr>
+<td><strong>확장성</strong>: 다양한 로봇/작업에 적용 가능하다</td>
+<td><strong>안전문제</strong>: 자율주행/헬스케어처럼 예외 상황 대응이 중요함</td>
+</tr>
+<tr>
+<td><strong>반복개선</strong>: 새로운 시연 데이터로 계속 업데이트 가능하다</td>
+<td><strong>샘플 효율성</strong>: 많은 시연 데이터 필요 - 시뮬레이션과 합성데이터활용이 필요</td>
+</tr>
+</tbody>
+</table>
+<h2 id="모방학습-주요-모델"><a class="heading-link" aria-hidden="true" href="#모방학습-주요-모델">모방학습 주요 모델</a></h2>
+<h3 id="1-bc-behavioral-cloning"><a class="heading-link" aria-hidden="true" href="#1-bc-behavioral-cloning">1. BC (Behavioral Cloning)</a></h3>
+<p><strong>소개</strong></p>
+<p>가장 기본적인 모방학습 방식으로, 전문가의 상태(state)와 행동(action) 데이터를 지도학습 형태로 학습</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>구현이 매우 쉽고 빠름</li>
+<li>보상 설계 없이 시연 데이터만으로 학습 가능</li>
+<li>단점: 작은 에러가 누적되어 covariate shift 발생 → training 분포와 execution 분포가 달라져 일반화가 약해짐</li>
+</ul>
+<h3 id="2-dagger-dataset-aggregation"><a class="heading-link" aria-hidden="true" href="#2-dagger-dataset-aggregation">2. DAgger (Dataset Aggregation)</a></h3>
+<p><strong>소개</strong></p>
+<p>BC의 covariate shift 문제를 해결하기 위한 interactive learning 기법. 에이전트가 직접 환경에서 행동한 후, 전문가에게 그 상황에서 무엇을 했을지 피드백을 받아 데이터를 점진적으로 확장</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>초기 데이터 부족 해결</li>
+<li>distribution mismatch를 줄여 안정성 향상</li>
+<li>전문가의 지속적인 피드백이 필요해 현실 적용 비용이 큼</li>
+</ul>
+<h3 id="3-diffusion-policy"><a class="heading-link" aria-hidden="true" href="#3-diffusion-policy">3. Diffusion Policy</a></h3>
+<p><strong>소개</strong></p>
+<p>Diffusion Model을 행동 시퀀스 예측에 적용. noisy action sequence를 만들고 점진적으로 정제(denoising)하면서 최종 policy를 생성</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>긴 시간 동안 이어지는 복잡한 행동(long-horizon sequence)에 강점</li>
+<li>연속적인 움직임을 매끄럽게 만들어 manipulation 성능이 안정적</li>
+<li>transformer 기반 시퀀스 예측 보다 안정성 향상</li>
+</ul>
+<h3 id="4-act-action-chunking-with-transformers"><a class="heading-link" aria-hidden="true" href="#4-act-action-chunking-with-transformers">4. ACT (Action Chunking with Transformers)</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2304.13705">ACT (Action Chunking with Transformers)</a></p>
+<p>Transformer 기반 imitation learning 기법. 긴 action sequence를 chunk 단위로 묶어 효율적으로 학습</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>저비용 하드웨어 + 짧은 시연(10분)만으로도 bimanual task(양팔 협동 조작)를 높은 성공률로 학습</li>
+<li>WidowX Arm 두 대를 활용한 ALOHA 텔레오퍼레이션 시스템에서 검증</li>
+<li>2024년에는 Mobile ALOHA로 확장 → 이동(base navigation)과 양팔 조작을 동시에 학습 가능</li>
+<li><a href="https://www.youtube.com/watch?v=zMNumQ45pJ8">데모 영상</a></li>
+</ul>
+<h3 id="5-rt-2-robotics-transformer-2"><a class="heading-link" aria-hidden="true" href="#5-rt-2-robotics-transformer-2">5. RT-2 (Robotics Transformer 2)</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2307.15818">RT-2 (Robotics Transformer 2)</a></p>
+<p>Google DeepMind가 발표한 Vision-Language-Action (VLA) 모델. 인터넷 규모의 웹 데이터 + 로봇 시연 데이터를 동시에 학습, 자연어·시각 정보·로봇 행동을 하나의 통합된 정책으로 연결</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>생성된 행동을 토큰화(tokenized action string)하여 언어처럼 표현, transformer으로 예측</li>
+<li>Zero-shot/다단계 추론(chain-of-thought reasoning) 가능, 새로운 지시문에도 대응</li>
+</ul>
+<h3 id="6-π-pi-zero"><a class="heading-link" aria-hidden="true" href="#6-π-pi-zero">6. π₀ (pi-zero)</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://www.physicalintelligence.company/download/pi0.pdf">π₀ (pi-zero)</a></p>
+<p>OpenAI가 발표한 Vision-Language-Action 모델. RT-2와 유사하게 vision + language를 입력받아 policy를 생성하지만, action을 discrete token으로 바꾸지 않고 연속적인 action vector를 직접 출력하는 접근 방식</p>
+<p><strong>특징</strong></p>
+<ul>
+<li>언어 + 비전 입력을 받아 continuous action sequence 산출</li>
+<li>정밀한 manipulation task에서 강점</li>
+</ul>
+<h3 id="7-openvla"><a class="heading-link" aria-hidden="true" href="#7-openvla">7. OpenVLA</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2406.09246">OpenVLA</a></p>
+<p>커뮤니티 오픈소스로 RT-2 계열을 재현한 프로젝트. 누구나 학습·실험할 수 있도록 구현체와 pretrained weight를 공개</p>
+<ul>
+<li>입력: 이미지 + 텍스트 → transformer → 출력: tokenized action sequence (액션을 토큰화)</li>
+</ul>
+<p><strong>특징</strong></p>
+<ul>
+<li>성능은 RT-2보다 낮지만, 접근성 확대에 큰 기여</li>
+<li>범용 로봇 연구를 democratize 하는 역할</li>
+</ul>
+<h3 id="8-smolvla"><a class="heading-link" aria-hidden="true" href="#8-smolvla">8. SmolVLA</a></h3>
+<p><strong>소개</strong></p>
+<p><a href="https://arxiv.org/pdf/2506.01844">SmolVLA</a></p>
+<p>허깅페이스(Hugging Face)가 발표한 경량화된 VLA 모델. 대규모 GPU 없이도 실험 가능하도록 소규모 파라미터(450M)로 설계</p>
+<ul>
+<li>입력: 이미지 + 텍스트 → 소형 transformer → 출력: action token sequence (토큰 단위로 정의된 action들이 모인 시퀀스)</li>
+</ul>
+<p><strong>특징</strong></p>
+<ul>
+<li>저비용 학습/추론 가능 → 로컬 GPU(CPU, 단일 소비자용 GPU, 맥북 등)에서도 활용 가능</li>
+<li>기본 모델 및 데이터셋 또한 오픈소스(허깅페이스)로 공개</li>
+</ul>20:["$","$L18","AI/Imitation Learning/concept",{"post":{"metadata":{"title":"모방학습 (Imitation Learning) 개념","summary":"모방학습의 주요 학습 방식, 절차, 장단점, 그리고 주요 모델들을 정리한다.","locale":"ko","createdAt":"2026-01-26T02:12:52.000Z","updatedAt":"2026-01-26T05:13:50.000Z"},"slug":"AI/Imitation Learning/concept","source":"$2a","type":"markdown","notebookData":"$undefined","parentFolder":"Imitation Learning"},"locale":"ko","delay":0.43000000000000005}]
+2b:T44da,<h1 id="lerobot-맥-설정-방법"><a class="heading-link" aria-hidden="true" href="#lerobot-맥-설정-방법">LeRobot 맥 설정 방법</a></h1>
+<h2 id="사전-요구사항"><a class="heading-link" aria-hidden="true" href="#사전-요구사항">사전 요구사항</a></h2>
+<h3 id="1-miniforge-설치"><a class="heading-link" aria-hidden="true" href="#1-miniforge-설치">1. Miniforge 설치</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Miniforge 다운로드 및 설치</span></span>
+<span data-line=""><span style="color:#FFC777">wget</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#C3E88D"> -m</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">.sh</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""><span style="color:#FFC777">bash</span><span style="color:#C3E88D"> Miniforge3-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">-</span><span style="color:#86E1FC">$(</span><span style="color:#FFC777">uname</span><span style="color:#C3E88D"> -m</span><span style="color:#86E1FC">)</span><span style="color:#C3E88D">.sh</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Miniforge 다운로드 및 설치
+wget &#x22;https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh&#x22;
+bash Miniforge3-$(uname)-$(uname -m).sh" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="환경-설정"><a class="heading-link" aria-hidden="true" href="#환경-설정">환경 설정</a></h2>
+<h3 id="2-conda-환경-생성-및-활성화"><a class="heading-link" aria-hidden="true" href="#2-conda-환경-생성-및-활성화">2. Conda 환경 생성 및 활성화</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Python 3.10으로 conda 환경 생성</span></span>
+<span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> create</span><span style="color:#C3E88D"> -y</span><span style="color:#C3E88D"> -n</span><span style="color:#C3E88D"> lerobot</span><span style="color:#C3E88D"> python=</span><span style="color:#FF966C">3.10</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 환경 활성화 (매번 터미널 열 때마다 실행 필요)</span></span>
+<span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> activate</span><span style="color:#C3E88D"> lerobot</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Python 3.10으로 conda 환경 생성
+conda create -y -n lerobot python=3.10
+
+# 환경 활성화 (매번 터미널 열 때마다 실행 필요)
+conda activate lerobot" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h3 id="3-ffmpeg-설치"><a class="heading-link" aria-hidden="true" href="#3-ffmpeg-설치">3. FFmpeg 설치</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># FFmpeg 설치</span></span>
+<span data-line=""><span style="color:#FFC777">conda</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> ffmpeg</span><span style="color:#C3E88D"> -c</span><span style="color:#C3E88D"> conda-forge</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# FFmpeg 설치
+conda install ffmpeg -c conda-forge" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="lerobot-설치"><a class="heading-link" aria-hidden="true" href="#lerobot-설치">LeRobot 설치</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># 기본 설치</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#C3E88D"> lerobot</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 모든 기능 포함</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">lerobot[all]</span><span style="color:#86E1FC">'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 특정 기능만 (예: aloha, pusht)</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">lerobot[aloha,pusht]</span><span style="color:#86E1FC">'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Feetech 모터 지원</span></span>
+<span data-line=""><span style="color:#FFC777">pip</span><span style="color:#C3E88D"> install</span><span style="color:#86E1FC"> '</span><span style="color:#C3E88D">lerobot[feetech]</span><span style="color:#86E1FC">'</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# 기본 설치
+pip install lerobot
+
+# 모든 기능 포함
+pip install &#x27;lerobot[all]&#x27;
+
+# 특정 기능만 (예: aloha, pusht)
+pip install &#x27;lerobot[aloha,pusht]&#x27;
+
+# Feetech 모터 지원
+pip install &#x27;lerobot[feetech]&#x27;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="맥-특화-주의사항"><a class="heading-link" aria-hidden="true" href="#맥-특화-주의사항">맥 특화 주의사항</a></h2>
+<h3 id="카메라-관련"><a class="heading-link" aria-hidden="true" href="#카메라-관련">카메라 관련</a></h3>
+<ul>
+<li><strong>Intel RealSense 카메라</strong>: macOS에서 "failed to set power state" 오류 발생 시 <code>sudo</code> 권한으로 실행</li>
+<li><strong>iPhone 카메라</strong>: macOS 13+, iOS 16+에서 Continuity Camera 지원 (같은 Apple ID 필요)</li>
+<li><strong>RealSense 카메라</strong>: macOS에서 지원이 불안정함</li>
+</ul>
+<h3 id="실험-추적-선택사항"><a class="heading-link" aria-hidden="true" href="#실험-추적-선택사항">실험 추적 (선택사항)</a></h3>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># Weights and Biases 로그인</span></span>
+<span data-line=""><span style="color:#FFC777">wandb</span><span style="color:#C3E88D"> login</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# Weights and Biases 로그인
+wandb login" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="참고-링크"><a class="heading-link" aria-hidden="true" href="#참고-링크">참고 링크</a></h2>
+<ul>
+<li><a href="https://huggingface.co/docs/lerobot/so101?example=Linux">LeRobot 공식 문서</a></li>
+<li><a href="https://github.com/huggingface/lerobot">LeRobot GitHub</a></li>
+</ul>21:["$","$L18","AI/Imitation Learning/so-101",{"post":{"metadata":{"title":"LeRobot 맥 설정 방법","summary":"macOS에서 LeRobot 설치 및 설정 방법","locale":"ko","createdAt":"2026-01-26T02:12:52.000Z","updatedAt":"2026-01-26T02:12:52.000Z"},"slug":"AI/Imitation Learning/so-101","source":"$2b","type":"markdown","notebookData":"$undefined","parentFolder":"Imitation Learning"},"locale":"ko","delay":0.48000000000000004}]
+2c:T178e,<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="bash" data-theme="moonlight-ii"><code data-language="bash" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#858AA6"># autocrlf 설정 (macOS/Linux)</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> core.autocrlf</span><span style="color:#C3E88D"> input</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 기본 에디터 설정</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> core.editor</span><span style="color:#C3E88D"> vim</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 기본 브랜치를 main으로 설정</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> init.defaultBranch</span><span style="color:#C3E88D"> main</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Username 설정</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> user.name</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">Your Name</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># Email 설정</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> user.email</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">your.email@example.com</span><span style="color:#86E1FC">"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6"># 설정 확인</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> user.name</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> user.email</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> init.defaultBranch</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> core.editor</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --global</span><span style="color:#C3E88D"> -l</span></span>
+<span data-line=""><span style="color:#FFC777">git</span><span style="color:#C3E88D"> config</span><span style="color:#C3E88D"> --list</span><span style="color:#C3E88D"> --show-origin</span></span><button type="button" title="Copy code" aria-label="Copy code" data="# autocrlf 설정 (macOS/Linux)
+git config --global core.autocrlf input
+
+# 기본 에디터 설정
+git config --global core.editor vim
+
+# 기본 브랜치를 main으로 설정
+git config --global init.defaultBranch main
+
+# Username 설정
+git config --global user.name &#x22;Your Name&#x22;
+
+# Email 설정
+git config --global user.email &#x22;your.email@example.com&#x22;
+
+# 설정 확인
+git config --global user.name
+git config --global user.email
+git config --global init.defaultBranch
+git config --global core.editor
+git config --global -l
+git config --list --show-origin" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>22:["$","$L18","git/config",{"post":{"metadata":{"title":"Git Config 설정 정리","summary":"Git 설정 관련 명령어 및 권장 설정","locale":"ko","createdAt":"2026-01-26T01:04:15.000Z","updatedAt":"2026-01-26T02:12:52.000Z"},"slug":"git/config","source":"$2c","type":"markdown","notebookData":"$undefined","parentFolder":"git"},"locale":"ko","delay":0.53}]
+23:["$","div",null,{"className":"mt-12 flex items-center justify-center gap-2","children":["$L2d",["$","div",null,{"className":"flex items-center gap-1","children":["$L2e",null,null,null,["$","span","5",{"className":"text-muted-foreground px-2","children":"..."}],"$L2f","$L30","$L31",["$","span","9",{"className":"text-muted-foreground px-2","children":"..."}],null,null,"$L32"]}],"$L33"]}]
+34:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/5ae4e2ef06ddf569.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+2d:["$","$L34",null,{"ref":null,"href":"/ko/blog/p/6","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 aria-invalid:border-destructive inline-flex shrink-0 items-center justify-center gap-2 rounded-md text-sm font-medium whitespace-nowrap transition-all outline-none focus-visible:ring-[3px] disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 hover:bg-accent hover:text-accent-foreground h-9 px-4 py-2 has-[>svg]:px-3 flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"이전"}]],"data-slot":"button"}]
+2e:["$","$L34","1",{"ref":"$undefined","href":"/ko/blog","locale":"$undefined","localeCookie":"$2d:props:localeCookie","className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":1}]
+2f:["$","$L34","6",{"ref":"$undefined","href":"/ko/blog/p/6","locale":"$undefined","localeCookie":"$2d:props:localeCookie","className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":6}]
+30:["$","$L34","7",{"ref":"$undefined","href":"/ko/blog/p/7","locale":"$undefined","localeCookie":"$2d:props:localeCookie","className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-primary text-primary-foreground","children":7}]
+31:["$","$L34","8",{"ref":"$undefined","href":"/ko/blog/p/8","locale":"$undefined","localeCookie":"$2d:props:localeCookie","className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":8}]
+32:["$","$L34","12",{"ref":"$undefined","href":"/ko/blog/p/12","locale":"$undefined","localeCookie":"$2d:props:localeCookie","className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":12}]
+33:["$","$L34",null,{"ref":null,"href":"/ko/blog/p/8","locale":"$undefined","localeCookie":"$2d:props:localeCookie","className":"focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 aria-invalid:border-destructive inline-flex shrink-0 items-center justify-center gap-2 rounded-md text-sm font-medium whitespace-nowrap transition-all outline-none focus-visible:ring-[3px] disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 hover:bg-accent hover:text-accent-foreground h-9 px-4 py-2 has-[>svg]:px-3 flex items-center gap-1","children":[["$","span",null,{"children":"다음"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]],"data-slot":"button"}]

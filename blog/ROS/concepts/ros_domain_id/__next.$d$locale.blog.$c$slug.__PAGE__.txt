@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+d:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"MarkdownContent",1]
+f:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"intermediate - ROS_DOMAIN_ID"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"intermediate - ROS_DOMAIN_ID\",\"description\":\"ROS 2 도메인 ID의 역할, 안전한 범위(0–101), 플랫폼별·참가자 수 제약, UDP 포트와의 관계 요약\",\"image\":\"https://woolimi.github.io/og?title=intermediate - ROS_DOMAIN_ID\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/ros_domain_id\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"intermediate - ROS_DOMAIN_ID"}]
+e:T11e4,
+ROS 2의 기본 미들웨어인 **DDS**에서는 **Domain ID**로 논리 네트워크를 나눈다. **같은 도메인 ID**를 쓰는 노드끼리는 서로 발견하고 통신할 수 있고, **다른 도메인 ID**를 쓰는 노드끼리는 통신하지 않는다. 기본값은 **0**이다. 같은 물리 네트워크에서 여러 팀/그룹이 ROS 2를 돌릴 때는 그룹마다 서로 다른 도메인 ID를 두면 간섭을 피할 수 있다.
+
+> 공식 개념 문서: [The ROS_DOMAIN_ID](https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Domain-ID.html) (Jazzy)
+
+## 도메인 ID 선택
+
+**안전하게 쓰려면 도메인 ID는 0 이상 101 이하(포함)로 두는 것이 좋다.** 아래는 그 이유(포트 계산, 플랫폼별 일시 포트 범위, 참가자 수 제약)를 정리한 것이다.
+
+## 도메인 ID와 UDP 포트
+
+도메인 ID는 DDS가 **디스커버리·통신용 UDP 포트**를 계산하는 데 쓰인다. UDP 포트는 16비트 부호 없는 정수이므로 상한은 65535이고, 공식 문서의 계산식에 따르면 **도메인 ID는 0~232**까지 쓸 수 있다.
+
+## 플랫폼별 제약 (일시 포트와의 충돌 방지)
+
+OS의 **일시(ephemeral) 포트 범위**와 겹치지 않도록 도메인 ID 범위를 제한하는 것이 좋다.
+
+| 플랫폼   | 일시 포트 범위   | 충돌 없이 쓸 수 있는 도메인 ID |
+|----------|------------------|---------------------------------|
+| Linux    | 32768–60999      | **0–101**, 215–232              |
+| macOS    | 49152–65535      | **0–166**                       |
+| Windows  | 49152–65535      | **0–166**                       |
+
+Linux에서 **모든 플랫폼과의 호환**을 고려하면 **0–101**을 쓰는 것이 안전하다. Linux에서 일시 포트 범위는 `/proc/sys/net/ipv4/ip_local_port_range`로, macOS/Windows에서는 각각 sysctl·netsh로 변경 가능하다. 사용자 정의 범위를 쓰면 위 숫자는 달라질 수 있다.
+
+## 참가자(프로세스) 수 제약
+
+컴퓨터에서 실행되는 ROS 2 프로세스(ros2 run 으로 실행된 실행단위)마다 DDS **참가자(participant)** 하나가 만들어진다. 참가자 하나는 **UDP 포트 2개**를 사용한다. 따라서 **한 컴퓨터에서 ROS 2 프로세스를 120개 넘게 띄우면**, 사용하는 포트가 **다른 도메인 ID용 포트**나 **일시(ephemeral) 포트**와 겹칠 수 있다.
+
+그 이유를 도메인 ID 1과 2로 보면 다음과 같다([원문](https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Domain-ID.html) Participant constraints).
+
+- 도메인 ID 1은 **멀티캐스트**에 포트 7650, 7651을 쓴다.
+- 도메인 ID 2는 **멀티캐스트**에 포트 7900, 7901을 쓴다.
+- 도메인 ID 1에서 **1번째 프로세스(0번째 참가자)**는 **유니캐스트**에 7660, 7661을 쓴다.
+- 도메인 ID 1에서 **120번째 프로세스(119번째 참가자)**는 유니캐스트에 7898, 7899를 쓴다.
+- 도메인 ID 1에서 **121번째 프로세스(120번째 참가자)**는 유니캐스트에 7900, 7901을 쓰게 되는데, 이 포트는 이미 도메인 ID 2의 멀티캐스트용으로 쓰이므로 **겹친다**.
+
+해당 컴퓨터가 **한 번에 하나의 도메인 ID만** 쓰고, 그 도메인 ID가 **충분히 낮으면** 120개를 넘는 ROS 2 프로세스를 띄워도 괜찮다.
+
+도메인 ID를 **플랫폼별 안전 범위의 상단**(예: Linux에서 101, 232, macOS/Windows에서 166)에 두는 경우에는 한 가지를 더 고려해야 한다. 유니캐스트 포트가 큰 번호로 밀리기 때문에, **120개보다 훨씬 적은** 프로세스 수에서부터 **일시(ephemeral) 포트**와 겹치기 시작한다.
+
+예: Linux에서 도메인 ID 101일 때
+
+- 0번째 ROS 2 프로세스: 32650, 32651, 32660, 32661
+- 1번째 프로세스: 32650, 32651, 32662, 32663
+- 53번째 프로세스: 32650, 32651, 32766, 32767
+- **54번째 프로세스**: 32650, 32651, **32768, 32769** → Linux 일시 포트 범위(32768–60999)와 겹친다.
+
+따라서 Linux에서 도메인 ID 101을 쓸 때는 프로세스는 **54개**까지 두는 것이 좋다. Linux에서 도메인 ID 232는 포트 상한 65535 때문에 **63개** 정도가 한계이고, macOS/Windows에서 도메인 ID 166은 **120개**가 한계다.
+
+## 설정 방법
+
+환경 변수 **`ROS_DOMAIN_ID`**를 원하는 값(0–232, 권장 0–101)으로 설정한 뒤 노드를 실행하면 된다.
+
+```bash
+export ROS_DOMAIN_ID=1
+ros2 run <pkg> <node>
+```
+
+또는 한 번만 쓰는 경우:
+
+```bash
+ROS_DOMAIN_ID=1 ros2 run <pkg> <node>
+```
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

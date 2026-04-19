@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+c:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"MarkdownContent",1]
+e:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"DB","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/DB/MySQL","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"MySQL","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"SQL 언어 카테고리"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"SQL 언어 카테고리\",\"description\":\"SQL 언어를 DDL, DML, DCL, TCL로 분류하여 설명\",\"image\":\"https://woolimi.github.io/og?title=SQL 언어 카테고리\",\"url\":\"https://woolimi.github.io/blog/DB/MySQL/sql-language\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"SQL 언어 카테고리"}],"$L4"]}]}],["$L5","$L6","$L7","$L8","$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+d:Tbbb,
+## SQL 언어 카테고리
+
+SQL은 데이터베이스를 다루기 위한 언어로, 목적에 따라 다음과 같이 분류된다.
+
+### DDL (Data Definition Language) - 데이터 정의 언어
+
+데이터베이스 구조를 정의하고 변경하는 언어이다. 스키마, 테이블, 인덱스 등의 구조를 생성, 수정, 삭제한다.
+
+**주요 명령어**:
+
+- `CREATE`: 데이터베이스, 테이블, 인덱스, 뷰 등을 생성
+- `ALTER`: 기존 데이터베이스 객체의 구조를 수정
+- `DROP`: 데이터베이스, 테이블, 인덱스 등을 삭제
+- `TRUNCATE`: 테이블의 모든 데이터를 삭제 (구조는 유지)
+- `RENAME`: 테이블명 변경
+
+**특징**:
+
+- 자동으로 커밋됨 (트랜잭션 롤백 불가)
+- 데이터베이스 구조를 변경하는 작업
+
+**예시**:
+
+```sql
+CREATE TABLE `users` (
+  `id` INT PRIMARY KEY AUTO_INCREMENT,
+  `name` VARCHAR(100) NOT NULL,
+  `email` VARCHAR(255) UNIQUE
+);
+
+ALTER TABLE `users` ADD COLUMN `age` INT;
+DROP TABLE `users`;
+```
+
+### DML (Data Manipulation Language) - 데이터 조작 언어
+
+데이터베이스에 저장된 데이터를 조작하는 언어이다. 데이터의 조회, 삽입, 수정, 삭제를 수행한다.
+
+**주요 명령어**:
+
+- `SELECT`: 데이터 조회
+- `INSERT`: 새로운 데이터 삽입
+- `UPDATE`: 기존 데이터 수정
+- `DELETE`: 데이터 삭제
+
+**특징**:
+
+- 명시적으로 커밋해야 함 (트랜잭션 가능)
+- 데이터의 내용을 변경하는 작업
+
+**예시**:
+
+```sql
+SELECT `name`, `email` FROM `users` WHERE `id` = 1;
+INSERT INTO `users` (`name`, `email`) VALUES ('홍길동', 'hong@example.com');
+UPDATE `users` SET `name` = '김철수' WHERE `id` = 1;
+DELETE FROM `users` WHERE `id` = 1;
+```
+
+**참고**: `SELECT`는 DQL (Data Query Language)로 별도 분류하기도 하지만, 일반적으로 DML에 포함시킨다.
+
+### DCL (Data Control Language) - 데이터 제어 언어
+
+데이터베이스에 대한 접근 권한을 제어하는 언어이다. 사용자 권한을 부여하거나 회수한다.
+
+**주요 명령어**:
+
+- `GRANT`: 사용자에게 권한 부여
+- `REVOKE`: 사용자로부터 권한 회수
+
+**특징**:
+
+- 데이터베이스 보안과 관련된 작업
+- 주로 데이터베이스 관리자(DBA)가 사용
+
+**예시**:
+
+```sql
+GRANT SELECT, INSERT ON `mydb`.`users` TO 'user1'@'localhost';
+REVOKE INSERT ON `mydb`.`users` FROM 'user1'@'localhost';
+FLUSH PRIVILEGES;
+```
+
+### 추가: TCL (Transaction Control Language) - 트랜잭션 제어 언어
+
+트랜잭션을 제어하는 언어이다.
+
+**주요 명령어**:
+
+- `COMMIT`: 트랜잭션을 확정하고 변경사항을 저장
+- `ROLLBACK`: 트랜잭션을 취소하고 변경사항을 되돌림
+- `SAVEPOINT`: 트랜잭션 내 특정 지점을 저장
+
+**예시**:
+
+```sql
+START TRANSACTION;
+UPDATE `users` SET `name` = '김철수' WHERE `id` = 1;
+UPDATE `users` SET `email` = 'kim@example.com' WHERE `id` = 1;
+COMMIT;  -- 변경사항 확정
+
+-- 또는
+ROLLBACK;  -- 변경사항 취소
+```
+4:["$","article",null,{"children":["$","$Lc",null,{"children":"$d"}]}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+8:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+9:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+a:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+b:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

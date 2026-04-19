@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+d:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"MarkdownContent",1]
+f:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/ROS/concepts","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Concepts","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"basic - interfaces"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"basic - interfaces\",\"description\":\"ROS 2 인터페이스 종류(msg/srv/action), IDL 파일 형태, 메시지 필드·상수 규칙 및 기본/배열 타입을 정리\",\"image\":\"https://woolimi.github.io/og?title=basic - interfaces\",\"url\":\"https://woolimi.github.io/blog/ROS/concepts/interfaces\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"basic - interfaces"}]
+e:T10e0,
+ROS 2 애플리케이션은 **토픽**, **서비스**, **액션** 중 하나의 인터페이스로 통신한다. ROS 2는 **인터페이스 정의 언어(IDL)** 로 이 인터페이스를 기술하고, 이 설명을 바탕으로 여러 언어용 소스 코드를 자동 생성한다.
+
+지원하는 인터페이스 종류는 다음과 같다.
+
+| 종류 | 파일 | 설명 |
+|------|------|------|
+| **msg** | `.msg` | 메시지 필드 정의. 토픽 등에서 “응답 없이” 데이터를 보낼 때 사용 |
+| **srv** | `.srv` | 서비스 정의. **요청(request)** 과 **응답(response)** 두 부분(각각 메시지 선언), `---`로 구분 |
+| **action** | `.action` | 액션 정의. **goal** / **result** / **feedback** 세 부분(각각 메시지 선언), `---`로 구분 |
+
+## Messages
+
+**메시지**는 한 노드가 다른 노드에게 **응답을 기대하지 않고** 데이터를 보낼 때 쓰인다. 예: 센서에서 온도 데이터를 읽어 `Temperature` 메시지로 토픽에 발행하면, 다른 노드가 구독해 그 메시지를 받는다.
+
+메시지는 패키지의 `msg/` 디렉터리 안 `.msg` 파일로 정의한다. **필드(fields)** 와 **상수(constants)** 로 구성된다.
+
+### Fields (필드)
+
+각 필드는 **타입**과 **이름**을 공백으로 구분해 한 줄에 쓴다.
+
+```
+fieldtype1 fieldname1
+fieldtype2 fieldname2
+```
+
+예: `int32 my_int`, `string my_string`
+
+- **필드 타입**: (1) **기본 타입** — 아래 표. (2) **다른 메시지 타입** — 예: `geometry_msgs/PoseStamped`.
+- **필드 이름**: 소문자·숫자·밑줄(`_`)만 사용. 알파벳으로 시작하고, 밑줄로 끝나거나 연속 밑줄(`__`)은 안 됨.
+- **기본값**: 세 번째 요소로 지정 가능. 예: `uint8 x 42`, `string full_name "John Doe`. 문자열/문자열 배열·복합 타입에는 현재 기본값 미지원.
+
+**기본 타입 (Built-in types)**
+
+| Type     | C++        | Python        | DDS    |
+|----------|------------|---------------|--------|
+| bool     | bool       | builtins.bool | boolean |
+| byte     | uint8_t    | builtins.bytes* | octet |
+| char     | char       | builtins.int* | char   |
+| float32  | float      | builtins.float* | float |
+| float64  | double     | builtins.float* | double |
+| int8~uint64 | int8_t 등 | builtins.int* | (생략) |
+| string   | std::string| builtins.str  | string |
+| wstring  | std::u16string | builtins.str | wstring |
+
+기본 타입은 모두 **배열**로 쓸 수 있다: `int32[]`(동적 무제한), `int32[5]`(고정 5개), `int32[<=5]`(최대 5개), `string<=10`(최대 10자 문자열) 등.
+
+### Constants (상수)
+
+필드와 비슷하지만 **대입 후 변경 불가**하다. `=` 로 값을 넣고, **이름은 대문자**로 쓴다.
+
+```
+int32 X=123
+string FOO="foo"
+```
+
+## Services
+
+서비스는 **요청/응답** 통신이다. 클라이언트가 서버에게 짧은 연산을 요청하고, 서버가 결과를 반환한다.
+
+서비스는 패키지의 `srv/` 디렉터리 안 `.srv` 파일로 정의한다. **요청**과 **응답** 메시지 선언을 `---` 로 구분한다. `---` 로 이어진 두 개의 `.msg` 내용이 곧 유효한 서비스 정의다.
+
+간단한 예 (문자열 받아 문자열 반환):
+
+```
+string str
+---
+string str
+```
+
+요청/응답 각각에 상수·필드·다른 패키지 메시지 타입을 쓸 수 있다. **서비스 안에 다른 서비스를 넣을 수는 없다.**
+
+## Actions
+
+액션은 **장시간 요청/응답** 통신이다. 액션 클라이언트가 서버에게 작업을 요청하고, 서버가 진행 중 **피드백**을 보내며 결과를 반환하며, **중단**도 가능하다.
+
+액션은 **goal** / **result** / **feedback** 세 부분을 `---` 로 구분해 정의한다. 각 부분은 0개 이상의 필드를 가질 수 있으며, 타입·필드 이름 규칙은 메시지와 동일하다. 액션 정의는 패키지의 **`action/`** 폴더에 `.action` 파일로 둔다
+
+예 (피보나치 액션):
+
+```
+int32 order
+---
+int32[] sequence
+---
+int32[] sequence
+```
+
+클라이언트는 `order`(몇 번째까지 계산할지)를 goal로 보내고, 서버는 최종 수열을 result로, 중간 수열을 feedback으로 보낸다.
+
+---
+
+**참고**: [Interfaces — ROS 2 Jazzy](https://docs.ros.org/en/jazzy/Concepts/Basic/About-Interfaces.html)
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

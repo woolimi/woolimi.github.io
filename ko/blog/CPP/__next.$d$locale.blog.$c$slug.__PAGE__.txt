@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+2:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+3:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+4:I[676913,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlogArticleCard"]
+14:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+5:T231e,<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>포인터</strong> <code>T*</code></th>
+<th><strong>참조</strong> <code>T&#x26;</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>의미</td>
+<td><strong>주소</strong>를 담는 변수</td>
+<td>이미 있는 객체의 <strong>별칭</strong>(다른 이름)</td>
+</tr>
+<tr>
+<td>비어 있음</td>
+<td><code>nullptr</code> 가능</td>
+<td>참조만 쓸 때는 <strong>반드시 유효한 객체</strong>에 연결</td>
+</tr>
+<tr>
+<td>다시 가리키기</td>
+<td>다른 객체 주소로 <strong>바꿀 수 있음</strong></td>
+<td>한 번 붙이면 <strong>다른 객체로 못 바꿈</strong></td>
+</tr>
+<tr>
+<td>문법</td>
+<td><code>*p</code>, <code>p-></code>, <code>&#x26;x</code>로 주소</td>
+<td>그냥 원래 이름처럼 <code>r.</code> 사용</td>
+</tr>
+</tbody>
+</table>
+<h2 id="포인터-예시"><a class="heading-link" aria-hidden="true" href="#포인터-예시">포인터 예시</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">int</span><span style="color:#C8D3F5"> x </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#86E1FC">*</span><span style="color:#C8D3F5"> p </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#C8D3F5">x</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">   // p는 x의 주소를 저장</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#86E1FC">*</span><span style="color:#C8D3F5">p </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 20</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">       // x도 20으로 바뀜 (역참조)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#C8D3F5"> y </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C8D3F5">p </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#C8D3F5">y</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">        // 이제 p는 y를 가리킴 (재지정 가능)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">p </span><span style="color:#86E1FC">=</span><span style="color:#FF98A4"> nullptr</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">   // 아무것도 안 가리키게 할 수 있음</span></span><button type="button" title="Copy code" aria-label="Copy code" data="int x = 10;
+int* p = &#x26;x;   // p는 x의 주소를 저장
+
+*p = 20;       // x도 20으로 바뀜 (역참조)
+
+int y = 0;
+p = &#x26;y;        // 이제 p는 y를 가리킴 (재지정 가능)
+
+p = nullptr;   // 아무것도 안 가리키게 할 수 있음" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="참조-예시"><a class="heading-link" aria-hidden="true" href="#참조-예시">참조 예시</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">int</span><span style="color:#C8D3F5"> x </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 10</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#86E1FC">&#x26;</span><span style="color:#C8D3F5"> r </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> x</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">    // r은 x의 별칭</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">r </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 20</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">        // x도 20 (주소 적을 필요 없음)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#C8D3F5"> y </span><span style="color:#86E1FC">=</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#858AA6">// r = y;      // 이렇게 해도 "r이 y를 가리키게" 되는 게 아니라 x에 y 값이 대입됨</span></span><button type="button" title="Copy code" aria-label="Copy code" data="int x = 10;
+int&#x26; r = x;    // r은 x의 별칭
+
+r = 20;        // x도 20 (주소 적을 필요 없음)
+
+int y = 0;
+// r = y;      // 이렇게 해도 &#x22;r이 y를 가리키게&#x22; 되는 게 아니라 x에 y 값이 대입됨" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/CPP","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"CPP","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}]]}]}],["$","$L3",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"CPP"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L4","CPP/reference",{"post":{"metadata":{"title":"참조(reference)와 포인터(pointer)","summary":"포인터는 주소를 담는 변수, 참조는 기존 객체의 별칭. null·재바인딩·문법 차이를 예제로 정리","locale":"ko","createdAt":"2026-04-19T04:43:21.000Z","updatedAt":"2026-04-19T04:43:21.000Z"},"slug":"CPP/reference","source":"$5","type":"markdown","parentFolder":"CPP"},"locale":"ko","delay":0.08}],"$L6","$L7","$L8"]}],"$L9"]}],["$La","$Lb","$Lc","$Ld","$Le","$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+11:T1815,<h2 id="-와---정리"><a class="heading-link" aria-hidden="true" href="#-와---정리"><code>.</code> 와 <code>-></code> 정리</a></h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>문법</th>
+<th>언제</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>값·참조</strong></td>
+<td><code>obj.member</code></td>
+<td>객체가 직접 있거나 참조 <code>T&#x26;</code>일 때</td>
+</tr>
+<tr>
+<td><strong>포인터</strong></td>
+<td><code>ptr->member</code></td>
+<td><code>T*</code>로 가리킬 때 (<code>(*ptr).member</code>와 동일)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="예시"><a class="heading-link" aria-hidden="true" href="#예시">예시</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">struct</span><span style="color:#FFC777"> Point</span><span style="color:#86E1FC"> {</span><span style="color:#C099FF"> int</span><span style="color:#B4C2F0"> x</span><span style="color:#86E1FC">,</span><span style="color:#B4C2F0"> y</span><span style="color:#86E1FC">;</span><span style="color:#86E1FC"> };</span></span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Counter</span><span style="color:#86E1FC"> {</span><span style="color:#C099FF"> public</span><span style="color:#86E1FC">:</span><span style="color:#C099FF"> int</span><span style="color:#B4C2F0"> n</span><span style="color:#86E1FC">;</span><span style="color:#86E1FC"> };</span></span>
+<span data-line=""><span style="color:#C8D3F5">p</span></span>
+<span data-line=""><span style="color:#C8D3F5">Point p</span><span style="color:#86E1FC">{};</span></span>
+<span data-line=""><span style="color:#C8D3F5">Point</span><span style="color:#86E1FC">*</span><span style="color:#C8D3F5"> pp </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#C8D3F5">p</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">pp</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">x</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 1</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">   // 포인터 → -></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">Counter c</span><span style="color:#86E1FC">{};</span></span>
+<span data-line=""><span style="color:#C8D3F5">Counter</span><span style="color:#86E1FC">*</span><span style="color:#C8D3F5"> pc </span><span style="color:#86E1FC">=</span><span style="color:#86E1FC"> &#x26;</span><span style="color:#C8D3F5">c</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">pc</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">n</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 0</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">   // class도 동일</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C8D3F5">Counter</span><span style="color:#86E1FC">&#x26;</span><span style="color:#C8D3F5"> rc </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> c</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">rc</span><span style="color:#86E1FC">.</span><span style="color:#A9B8E8">n</span><span style="color:#86E1FC"> =</span><span style="color:#FF966C"> 1</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">    // 참조 → .</span></span><button type="button" title="Copy code" aria-label="Copy code" data="struct Point { int x, y; };
+class Counter { public: int n; };
+p
+Point p{};
+Point* pp = &#x26;p;
+pp->x = 1;   // 포인터 → ->
+
+Counter c{};
+Counter* pc = &#x26;c;
+pc->n = 0;   // class도 동일
+
+Counter&#x26; rc = c;
+rc.n = 1;    // 참조 → ." class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<p>C++에서 <code>struct</code>와 <code>class</code>는 기본 접근 권한만 다르고, <strong>멤버 접근 규칙(<code>.</code>, <code>-></code>)은 같습니다.</strong></p>6:["$","$L4","CPP/member-access-operator",{"post":{"metadata":{"title":"member access operator","summary":"->는 구조체 전용이 아니라 포인터로 멤버에 접근할 때 쓰는 연산자. `struct`·`class` 동일","locale":"ko","createdAt":"2026-04-19T04:43:21.000Z","updatedAt":"2026-04-19T04:43:21.000Z"},"slug":"CPP/member-access-operator","source":"$11","type":"markdown","parentFolder":"CPP"},"locale":"ko","delay":0.13}]
+12:T30ad,<h2 id="함수에서-템플릿-사용법"><a class="heading-link" aria-hidden="true" href="#함수에서-템플릿-사용법">함수에서 템플릿 사용법</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">string</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">template</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">typename</span><span style="color:#FFC777"> T</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#FFC777">T</span><span style="color:#82AAFF"> sum</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">const</span><span style="color:#FFC777"> T</span><span style="color:#C099FF">&#x26;</span><span style="color:#FCA7EA"> a</span><span style="color:#86E1FC">,</span><span style="color:#C099FF"> const</span><span style="color:#FFC777"> T</span><span style="color:#C099FF">&#x26;</span><span style="color:#FCA7EA"> b</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#86E1FC">  return</span><span style="color:#C8D3F5"> a </span><span style="color:#86E1FC">+</span><span style="color:#C8D3F5"> b</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">// std::string 만 다르게: "hello" + ", " + "world" 형태</span></span>
+<span data-line=""><span style="color:#C099FF">template</span><span style="color:#86E1FC">&#x3C;></span></span>
+<span data-line=""><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">string </span><span style="color:#82AAFF">sum</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#FFC777">string</span><span style="color:#86E1FC">>(</span><span style="color:#C099FF">const</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">string</span><span style="color:#86E1FC">&#x26;</span><span style="color:#C8D3F5"> a</span><span style="color:#86E1FC">,</span><span style="color:#C099FF"> const</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">string</span><span style="color:#86E1FC">&#x26;</span><span style="color:#C8D3F5"> b</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#86E1FC">  return</span><span style="color:#B4C2F0"> a </span><span style="color:#86E1FC">+</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">, </span><span style="color:#86E1FC">"</span><span style="color:#86E1FC"> +</span><span style="color:#B4C2F0"> b</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">auto</span><span style="color:#C8D3F5"> n </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> sum</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">1</span><span style="color:#86E1FC">,</span><span style="color:#FF966C"> 2</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">                    // int, 3</span></span>
+<span data-line=""><span style="color:#C099FF">auto</span><span style="color:#C8D3F5"> s </span><span style="color:#86E1FC">=</span><span style="color:#82AAFF"> sum</span><span style="color:#86E1FC">(</span><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">string</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">a</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">),</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">string</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">b</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">));</span><span style="color:#858AA6">  // "a, b"</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include <string>
+
+template<typename T>
+T sum(const T&#x26; a, const T&#x26; b) {
+  return a + b;
+}
+
+// std::string 만 다르게: &#x22;hello&#x22; + &#x22;, &#x22; + &#x22;world&#x22; 형태
+template<>
+std::string sum<std::string>(const std::string&#x26; a, const std::string&#x26; b) {
+  return a + &#x22;, &#x22; + b;
+}
+
+auto n = sum(1, 2);                    // int, 3
+auto s = sum(std::string(&#x22;a&#x22;), std::string(&#x22;b&#x22;));  // &#x22;a, b&#x22;" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="클래스에서-템플릿-사용법"><a class="heading-link" aria-hidden="true" href="#클래스에서-템플릿-사용법">클래스에서 템플릿 사용법</a></h2>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#C099FF">template</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">typename</span><span style="color:#FFC777"> T</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#C099FF">class</span><span style="color:#FFC777"> Box</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF"> public</span><span style="color:#86E1FC">:</span></span>
+<span data-line=""><span style="color:#B4C2F0">  T value</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#C099FF">  explicit</span><span style="color:#82AAFF"> Box</span><span style="color:#86E1FC">(</span><span style="color:#C099FF">const</span><span style="color:#FFC777"> T</span><span style="color:#C099FF">&#x26;</span><span style="color:#FCA7EA"> v</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> :</span><span style="color:#82AAFF"> value</span><span style="color:#86E1FC">(</span><span style="color:#B4C2F0">v</span><span style="color:#86E1FC">)</span><span style="color:#86E1FC"> {}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">  T</span><span style="color:#82AAFF"> get</span><span style="color:#86E1FC">()</span><span style="color:#C099FF"> const</span><span style="color:#86E1FC"> {</span><span style="color:#86E1FC"> return</span><span style="color:#B4C2F0"> value</span><span style="color:#86E1FC">;</span><span style="color:#86E1FC"> }</span></span>
+<span data-line=""><span style="color:#86E1FC">};</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">Box</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">int</span><span style="color:#86E1FC">></span><span style="color:#82AAFF"> a</span><span style="color:#86E1FC">(</span><span style="color:#FF966C">10</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#FFC777">Box</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">std</span><span style="color:#86E1FC">::</span><span style="color:#FFC777">string</span><span style="color:#86E1FC">></span><span style="color:#82AAFF"> b</span><span style="color:#86E1FC">(</span><span style="color:#86E1FC">"</span><span style="color:#C3E88D">hello</span><span style="color:#86E1FC">"</span><span style="color:#86E1FC">);</span></span><button type="button" title="Copy code" aria-label="Copy code" data="template<typename T>
+class Box {
+ public:
+  T value;
+  explicit Box(const T&#x26; v) : value(v) {}
+
+  T get() const { return value; }
+};
+
+Box<int> a(10);
+Box<std::string> b(&#x22;hello&#x22;);" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<ul>
+<li><code>Box&#x3C;int></code>, <code>Box&#x3C;std::string></code>처럼 타입을 바꿔 같은 클래스를 재사용합니다.</li>
+<li>템플릿 클래스도 함수 템플릿처럼 <code>typename T</code> 자리에 실제 타입이 들어갑니다.</li>
+</ul>7:["$","$L4","CPP/template",{"post":{"metadata":{"title":"Template","summary":"cpp 에서 템플릿 사용법","locale":"ko","createdAt":"2026-04-19T04:43:21.000Z","updatedAt":"2026-04-19T04:43:21.000Z"},"slug":"CPP/template","source":"$12","type":"markdown","parentFolder":"CPP"},"locale":"ko","delay":0.18}]
+13:T4248,<h2 id="왜-쓰나"><a class="heading-link" aria-hidden="true" href="#왜-쓰나">왜 쓰나?</a></h2>
+<p>스마트 포인터는 <code>new/delete</code>를 직접 관리하는 대신, <strong>수명(lifetime)을 자동으로 관리</strong>해서 메모리 누수와 해제 실수를 줄입니다.</p>
+<h2 id="stdunique_ptr-단독-소유"><a class="heading-link" aria-hidden="true" href="#stdunique_ptr-단독-소유"><code>std::unique_ptr</code> (단독 소유)</a></h2>
+<p>소유권이 <strong>하나의 포인터</strong>에만 존재합니다. 복사는 불가하고 <strong>이동(move)</strong> 만 가능합니다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">memory</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#82AAFF"> main</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">  auto</span><span style="color:#C8D3F5"> p </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">make_unique</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">int</span><span style="color:#86E1FC">>(</span><span style="color:#FF966C">10</span><span style="color:#86E1FC">);</span><span style="color:#858AA6"> // p가 유일하게 소유</span></span>
+<span data-line=""><span style="color:#C099FF">  auto</span><span style="color:#C8D3F5"> q </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">move</span><span style="color:#86E1FC">(</span><span style="color:#C8D3F5">p</span><span style="color:#86E1FC">);</span><span style="color:#858AA6">              // 소유권 이동 (p는 null처럼 비어 있음)</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include <memory>
+
+int main() {
+  auto p = std::make_unique<int>(10); // p가 유일하게 소유
+  auto q = std::move(p);              // 소유권 이동 (p는 null처럼 비어 있음)
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="stdshared_ptr-공유-소유"><a class="heading-link" aria-hidden="true" href="#stdshared_ptr-공유-소유"><code>std::shared_ptr</code> (공유 소유)</a></h2>
+<p>여러 곳에서 같은 객체를 참조하며, 참조 카운트가 0이 되면 자동 해제됩니다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">iostream</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">memory</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#82AAFF"> main</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">  auto</span><span style="color:#C8D3F5"> a </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">make_shared</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#C099FF">int</span><span style="color:#86E1FC">>(</span><span style="color:#FF966C">5</span><span style="color:#86E1FC">);</span></span>
+<span data-line=""><span style="color:#C099FF">  auto</span><span style="color:#C8D3F5"> b </span><span style="color:#86E1FC">=</span><span style="color:#C8D3F5"> a</span><span style="color:#86E1FC">;</span><span style="color:#858AA6"> // 참조 카운트 증가</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">  std</span><span style="color:#86E1FC">::</span><span style="color:#C8D3F5">cout </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> *</span><span style="color:#C8D3F5">a </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">, </span><span style="color:#86E1FC">"</span><span style="color:#86E1FC"> &#x3C;&#x3C;</span><span style="color:#86E1FC"> *</span><span style="color:#C8D3F5">b </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> "\n"</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include <iostream>
+#include <memory>
+
+int main() {
+  auto a = std::make_shared<int>(5);
+  auto b = a; // 참조 카운트 증가
+
+  std::cout << *a << &#x22;, &#x22; << *b << &#x22;\n&#x22;;
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="stdweak_ptr-약한-참조-순환-참조-방지"><a class="heading-link" aria-hidden="true" href="#stdweak_ptr-약한-참조-순환-참조-방지"><code>std::weak_ptr</code> (약한 참조, 순환 참조 방지)</a></h2>
+<p><code>shared_ptr</code>와 함께 쓰이며, <strong>참조 카운트를 늘리지 않습니다.</strong> 그래서 서로가 서로를 들고 있는 **순환 참조(cycle)**를 막을 때 유용합니다.</p>
+<figure data-rehype-pretty-code-figure=""><pre style="background-color:#1F2028;color:#c8d3f5" tabindex="0" data-language="cpp" data-theme="moonlight-ii"><code data-language="cpp" data-theme="moonlight-ii" style="display: grid;"><span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">iostream</span><span style="color:#86E1FC">></span></span>
+<span data-line=""><span style="color:#86E1FC">#include</span><span style="color:#86E1FC"> &#x3C;</span><span style="color:#C3E88D">memory</span><span style="color:#86E1FC">></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">struct</span><span style="color:#FFC777"> Node</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">  std</span><span style="color:#86E1FC">::</span><span style="color:#B4C2F0">weak_ptr</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#B4C2F0">Node</span><span style="color:#86E1FC">></span><span style="color:#B4C2F0"> parent</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">   // weak: 참조 카운트 증가 안 함</span></span>
+<span data-line=""><span style="color:#FFC777">  std</span><span style="color:#86E1FC">::</span><span style="color:#B4C2F0">shared_ptr</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#B4C2F0">Node</span><span style="color:#86E1FC">></span><span style="color:#B4C2F0"> child</span><span style="color:#86E1FC">;</span><span style="color:#858AA6">  // shared: 소유</span></span>
+<span data-line=""><span style="color:#86E1FC">};</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#C099FF">int</span><span style="color:#82AAFF"> main</span><span style="color:#86E1FC">()</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#C099FF">  auto</span><span style="color:#C8D3F5"> root </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">make_shared</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">Node</span><span style="color:#86E1FC">>();</span></span>
+<span data-line=""><span style="color:#C099FF">  auto</span><span style="color:#C8D3F5"> leaf </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> std</span><span style="color:#86E1FC">::</span><span style="color:#82AAFF">make_shared</span><span style="color:#86E1FC">&#x3C;</span><span style="color:#FFC777">Node</span><span style="color:#86E1FC">>();</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#FFC777">  root</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">child</span><span style="color:#86E1FC"> =</span><span style="color:#C8D3F5"> leaf</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#FFC777">  leaf</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">parent</span><span style="color:#86E1FC"> =</span><span style="color:#C8D3F5"> root</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:#858AA6">  // scope 벗어나면 shared는 해제되고, weak은 검사(lock으로 접근)</span></span>
+<span data-line=""><span style="color:#86E1FC">  if</span><span style="color:#86E1FC"> (</span><span style="color:#C099FF">auto</span><span style="color:#C8D3F5"> locked </span><span style="color:#86E1FC">=</span><span style="color:#FFC777"> leaf</span><span style="color:#86E1FC">-></span><span style="color:#A9B8E8">parent</span><span style="color:#86E1FC">.</span><span style="color:#82AAFF">lock</span><span style="color:#86E1FC">())</span><span style="color:#86E1FC"> {</span></span>
+<span data-line=""><span style="color:#FFC777">    std</span><span style="color:#86E1FC">::</span><span style="color:#B4C2F0">cout </span><span style="color:#86E1FC">&#x3C;&#x3C;</span><span style="color:#86E1FC"> "</span><span style="color:#C3E88D">parent exists</span><span style="color:#86E1FC">\n"</span><span style="color:#86E1FC">;</span></span>
+<span data-line=""><span style="color:#86E1FC">  }</span></span>
+<span data-line=""><span style="color:#86E1FC">}</span></span><button type="button" title="Copy code" aria-label="Copy code" data="#include <iostream>
+#include <memory>
+
+struct Node {
+  std::weak_ptr<Node> parent;   // weak: 참조 카운트 증가 안 함
+  std::shared_ptr<Node> child;  // shared: 소유
+};
+
+int main() {
+  auto root = std::make_shared<Node>();
+  auto leaf = std::make_shared<Node>();
+
+  root->child = leaf;
+  leaf->parent = root;
+
+  // scope 벗어나면 shared는 해제되고, weak은 검사(lock으로 접근)
+  if (auto locked = leaf->parent.lock()) {
+    std::cout << &#x22;parent exists\n&#x22;;
+  }
+}" class="rehype-pretty-copy" onclick="navigator.clipboard.writeText(this.attributes.data.value);this.classList.add(&#x27;rehype-pretty-copied&#x27;);window.setTimeout(() => this.classList.remove(&#x27;rehype-pretty-copied&#x27;), 3000);"><span class="ready"></span><span class="success"></span></button><style>:root {--copy-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='%23adadad' d='M16.187 9.5H12.25a1.75 1.75 0 0 0-1.75 1.75v28.5c0 .967.784 1.75 1.75 1.75h23.5a1.75 1.75 0 0 0 1.75-1.75v-28.5a1.75 1.75 0 0 0-1.75-1.75h-3.937a4.25 4.25 0 0 1-4.063 3h-7.5a4.25 4.25 0 0 1-4.063-3M31.813 7h3.937A4.25 4.25 0 0 1 40 11.25v28.5A4.25 4.25 0 0 1 35.75 44h-23.5A4.25 4.25 0 0 1 8 39.75v-28.5A4.25 4.25 0 0 1 12.25 7h3.937a4.25 4.25 0 0 1 4.063-3h7.5a4.25 4.25 0 0 1 4.063 3M18.5 8.25c0 .966.784 1.75 1.75 1.75h7.5a1.75 1.75 0 1 0 0-3.5h-7.5a1.75 1.75 0 0 0-1.75 1.75'/%3E%3C/svg%3E");--success-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%2366ff85' d='M9 16.17L5.53 12.7a.996.996 0 1 0-1.41 1.41l4.18 4.18c.39.39 1.02.39 1.41 0L20.29 7.71a.996.996 0 1 0-1.41-1.41z'/%3E%3C/svg%3E");}pre:has(code) {position: relative;}pre button.rehype-pretty-copy {right: 1px;padding: 0;width: 24px;height: 24px;display: flex;margin-top: 2px;margin-right: 8px;position: absolute;border-radius: 25%;backdrop-filter: blur(3px);& span {width: 100%;aspect-ratio: 1 / 1;}& .ready {background-image: var(--copy-icon);}& .success {display: none; background-image: var(--success-icon);}}&.rehype-pretty-copied {& .success {display: block;} & .ready {display: none;}}pre button.rehype-pretty-copy.rehype-pretty-copied {opacity: 1;& .ready { display: none; }& .success { display: block; }}pre button.rehype-pretty-copy { opacity: 0; }figure[data-rehype-pretty-code-figure]:hover > pre > code button.rehype-pretty-copy {opacity: 1;}</style></code></pre></figure>
+<h2 id="한-줄-요약"><a class="heading-link" aria-hidden="true" href="#한-줄-요약">한 줄 요약</a></h2>
+<ul>
+<li><code>unique_ptr</code>: <strong>단독 소유</strong></li>
+<li><code>shared_ptr</code>: <strong>공유 소유</strong></li>
+<li><code>weak_ptr</code>: <strong>공유 소유를 “안전하게 바라보기”(순환 방지)</strong></li>
+</ul>8:["$","$L4","CPP/smart-pointer",{"post":{"metadata":{"title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)","summary":"소유권/공유/약한 참조를 자동으로 관리해 메모리 누수와 해제를 안전하게 처리하는 스마트 포인터 예제","locale":"ko","createdAt":"2026-04-19T04:43:21.000Z","updatedAt":"2026-04-19T04:43:21.000Z"},"slug":"CPP/smart-pointer","source":"$13","type":"markdown","parentFolder":"CPP"},"locale":"ko","delay":0.23000000000000004}]
+9:null
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+c:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+d:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+e:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+f:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+10:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

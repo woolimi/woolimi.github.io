@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+2:I[531138,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"default"]
+3:I[555365,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"default"]
+6:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"ViewportBoundary"]
+b:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"MetadataBoundary"]
+d:I[26623,[],"default"]
+:HL["/_next/static/chunks/aeb63cfe4733d84b.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"P":null,"b":"iTSJCN0o_Zbq4kmLpUtao","c":["","ko","projects","schools","gesto"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d"],{"children":["projects",{"children":["schools",{"children":[["id","gesto","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/aeb63cfe4733d84b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/5eadb771fab2457a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/055c1225d9635954.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/aed8f62bd843a69b.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/3f3b70f37bbe6942.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/455d450fcaf55923.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/fc646a1e8cc664ad.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$Le"}]]}]
+f:I[779615,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js"],"default"]
+10:I[728231,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js"],"TooltipProvider"]
+11:I[663780,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js"],"default"]
+e:["$","$Lf",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L10",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[817260,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"IconMark"]
+c:[["$","title","0",{"children":"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템 | 박우림"}],["$","meta","1",{"name":"description","content":"Gesto는 카메라로 양손 제스처를 인식해 PPT와 유튜브를 원격 제어하는 MediaPipe + LSTM 기반 핸드 제스처 인식 프로그램입니다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템"}],["$","meta","6",{"property":"og:description","content":"Gesto는 카메라로 양손 제스처를 인식해 PPT와 유튜브를 원격 제어하는 MediaPipe + LSTM 기반 핸드 제스처 인식 프로그램입니다."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/gesto"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.iohttps//images.prismic.io/woolimi/aaUlj8FoBIGEg9yq_ppt-mode.gif?auto=format,compress"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템"}],["$","meta","12",{"name":"twitter:description","content":"Gesto는 카메라로 양손 제스처를 인식해 PPT와 유튜브를 원격 제어하는 MediaPipe + LSTM 기반 핸드 제스처 인식 프로그램입니다."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.iohttps//images.prismic.io/woolimi/aaUlj8FoBIGEg9yq_ppt-mode.gif?auto=format,compress"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.3936b50b.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L12","19",{}]]
+8:null
+13:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"BlurFade"]
+16:I[482279,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"Image"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L13",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L14"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L15"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템\",\"description\":\"Gesto는 카메라로 양손 제스처를 인식해 PPT와 유튜브를 원격 제어하는 MediaPipe + LSTM 기반 핸드 제스처 인식 프로그램입니다.\",\"image\":\"https://woolimi.github.iohttps://images.prismic.io/woolimi/aaUlj8FoBIGEg9yq_ppt-mode.gif?auto=format,compress\",\"url\":\"https://woolimi.github.io/projects/schools/gesto\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"addinedu"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템"}],["$","$L16",null,{"src":"https://images.prismic.io/woolimi/aaUlj8FoBIGEg9yq_ppt-mode.gif?auto=format,compress","alt":"Gesto: MediaPipe + LSTM 기반 핸드 제스처 인식 시스템","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],["$","p",null,{"className":"text-base leading-relaxed","children":"Gesto는 카메라로 양손 제스처를 인식해 PPT와 유튜브를 원격 제어하는 MediaPipe + LSTM 기반 핸드 제스처 인식 프로그램입니다."}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Deep Learning"}],"$L17","$L18","$L19","$L1a"]}],"$L1b"]}],"$L1c"]}]}]
+1d:I[347816,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"ProjectLinkButton"]
+1e:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"MarkdownContent",1]
+20:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"default"]
+17:["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"MediaPipe"}]
+18:["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"LSTM"}]
+19:["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"PyQT"}]
+1a:["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Python"}]
+1b:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","$L1d",null,{"href":"https://github.com/woolimi/gesto","type":"github"}]]}]
+1f:T2f4b,
+## Introduction
+
+- 발표를 해야하는데 ppt 리모컨을 깜박하고 가져오지 않았을 때 있으신가요? 
+- 과자를 먹으며 유튜브를 보는데 키보드에 손을 대기 싫으신가요?
+
+Gesto는 카메라로 손의 제스처를 인식해서 PPT, Youtube 를 조작할 수 있는 프로그램입니다.
+
+## Features
+
+* 동작인식 시작: 양 손바닥을 화면에 보여주기
+* 동작인식 종료: 양 주먹을 화면에 보여주기
+* PPT 모드
+    - 다음 슬라이드: Swipe Left (왼손은 주먹, 오른손은 왼쪽으로 스와이프)
+    - 이전 슬라이드: Swipe Right (오른손은 주먹, 왼손은 오른쪽으로 스와이프)
+    - 최소화: Pinch In (한손은 주먹, 다른 손은 pinch in)
+    - 최대화: Pinch Out (한손은 주먹, 다른 손은 pinch out)
+
+    ![ppt mode](https://images.prismic.io/woolimi/aaUlj8FoBIGEg9yq_ppt-mode.gif?auto=format,compress)
+
+* Youtube 모드
+    - 앞으로 5초: Swipe Left (왼손은 주먹, 오른손은 왼쪽으로 스와이프)
+    - 뒤로 5초: Swipe Right (오른손은 주먹, 왼손은 오른쪽으로 스와이프)
+    - 최소화: Pinch In (한손은 주먹, 다른 손은 pinch in)
+    - 최대화: Pinch Out (한손은 주먹, 다른 손은 pinch out)
+    - 시작: Play (한손은 주먹, 다른손은 클릭하듯이)
+    - 정지: Pause (시작과 동일)
+
+    ![youtube mode](https://images.prismic.io/woolimi/aaUlkMFoBIGEg9yr_youtube-mode.gif?auto=format,compress)
+
+* Always on Top
+    - 검지와 중지로 V자 2초간 유지
+    - 해제시 거꾸로된 V자로 2초간 유지
+
+## Implemetation Processes
+
+### 1. 프로젝트 시작
+
+에드인에듀 Physical AI 과정에서 하게 된 첫번째 그룹 프로젝트. 해당 6개월 과정에는 총 4가지의 굵직한 그룹 프로젝트가 있는데 그 중 첫 번째는 바로 딥러닝을 이용한 서비스를 만드는 것이었다. 조원은 알아서 편하게 구성할 수 있어서 나 포함 4명이 그룹과제를 하게 되었다. 간단한 아이스브레이킹 이후 각자 할 수 있는 일들이 무엇인지 그리고 어떤 주제를 해야할지 의견을 나누었고, 그 결과 우리가 배운 LSTM 모델과 MediaPipe 그리고 PyQT를 이용해서 PPT를 제어하는 프로그램을 만드는 아이디어가 나왔다.
+
+듣자마자 "아 이거다!" 라는 느낌이 왔다. 학원에서 하는 모든 프로젝트들(일일, 개인, 그룹)은 항상 마지막에 결과물을 발표하는 시간을 갖는다. 만약 프로젝트 발표일에 우리가 만든 프로그램으로 발표를 진행한다면 좋겠다. 발표와 시연을 동시에 할 수 있으니까.
+
+### 2. 자료조사 & 기술조사
+
+#### posture vs gesture
+
+움직임에는 posture 와 gesture 두 가지가 있다.
+
+> Posture vs Gesture 
+> * posture: 정지된 동작. 시간과 상관없이 동작이 항상 같음
+> * gesture: 움직이는 동작. 시간에 따라 동작이 달라짐.
+
+**posture 는 정지동작으로 MediaPipe 를 이용하여 관절 위치 계산만으로 동작을 인식할 수 있다.** 반면 **gesture 는 이전 동작 데이터 값과 현재 데이터 값이 모두 고려가 되어야 하는 시계열 데이터(sequential data)** 이므로 RNN (순환 신경망) 을 사용해야한다.
+
+#### MediaPipe
+
+MediaPipe는 구글이 개발한 오픈소스 머신러닝 프레임워크로, 웹, 앱, 데스크톱 등 다양한 플랫폼에서 영상, 오디오, 센서 데이터를 실시간으로 처리할 수 있는 고성능 AI 솔루션이다. 
+
+![MediaPipe](https://images.prismic.io/woolimi/aaWyozPJ2QKSVT-e_mediapipe.png?auto=format,compress)
+
+MediaPipe 는 손의 관절을 21개로 구분하여, 각 관절마다의 x, y, z 좌표값을 반환한다. 이걸 이용하면 손이 어떤 동작을 하는지 알 수 있다. 예를 들어, 네 개의 손가락의 TIP 위치가 MCP 보다 낮은위치에 있고, 엄지 TIP이 손바닥쪽을 향해 있다면 주먹을 쥐었다고 생각할 수 있다. 따라서 posture 와 같은 정지 동작은 MediaPipe 만으로도 구현이 가능하다.
+
+#### LSTM
+
+**LSTM(Long Short-Term Memory)** 은 순환 신경망(RNN)의 한 종류로, **셀(cell) 상태**와 **게이트(gate)** 메커니즘을 도입해 시간이 지날수록 이전 정보가 희석되거나 소실되는 **vanishing gradient** 문제를 해결한 것이 특징이다. 제스처와 같은 **시간에 따라 변하는 시계열 데이터**에서는 “지금 이 순간”뿐 아니라 “그 직전까지의 움직임”이 중요하므로, LSTM을 이용하면 **이전 시점들의 맥락을 기억**하면서 현재 프레임을 해석할 수 있다.
+
+> **RNN(Recurrent Neural Network, 순환 신경망)** 이란?
+> 시퀀스(시간 순서가 있는 데이터)를 다루기 위한 신경망이다. 같은 가중치를 반복 사용하면서 **이전 시점의 은닉 상태**를 현재 입력과 함께 넣어, “과거 맥락”을 어느 정도 기억한다. 그래서 음성·텍스트·동작처럼 순서가 중요한 데이터에 쓰인다.
+
+수업때에는 LSTM 에 대해 배워서 프로젝트에도 LSTM을 사용하였지만, 지금 이 회고를 작성하면서 조사를 해보니 LSTM 보다 가벼운 GRU 라는 것도 있다는 것을 알게되었다. 이미 프로젝트는 끝났지만 한번 LSTM 과 GRU의 성능을 비교해보는 것도 좋을 것 같다.
+
+#### Pynput
+
+인식된 제스처를 바탕으로 키보드 입력을 트리거 할 수 있는 라이브러리로 pynput 을 사용하였다.
+
+### 3. 설계
+
+발표를 하다보면 무의식적으로 손을 사용할 때가 많은데, 그때마다 의도치 않은 동작이 트리거 되지 않기 위해 안전장치가 필요했다. 그래서 우리는 2가지 방법을 쓰기로 했다.
+
+#### (1) 동작감지 시작/종료 트리거 도입
+
+두 손바닥을 2초간 보여주면 MediaPipe 관절의 색이 변하면서 동작 감지가 시작 되었음을 알린다. 반대로 두 주먹을 2초간 보여주면 관절의 색이 회색으로 변하면서 동작 감지가 종료되었음을 알린다. 동작 감지의 시작과 종료를 트리거 하는 동작은 의도적으로 posture 로 설정하였다. 사용자 입장에서 트리거 동작과 조작 동작이 구분되어서 이해하기 쉽기 때문이다.
+
+![trigger|max-width:400px](https://images.prismic.io/woolimi/aaW4RzPJ2QKSVUFp_trigger.gif?auto=format,compress)
+
+#### (2) 동작은 일상에서 자주 사용하지 않는 동작으로 한다.
+
+두 손을 사용해서 동작을 해야만 하는 것으로 동작을 구성하였다. **MediaPipe로 양손이 인식이 되어야 하고, 한 손이 반드시 주먹을 쥐어야지만 Gesture 동작을 판별**하도록 했다.
+
+| 동작감지 X | 동작감지 O |
+| --- | --- |
+| ![not working](https://images.prismic.io/woolimi/aaW4RDPJ2QKSVUFl_gesture-not-working.gif?auto=format,compress) | ![working](https://images.prismic.io/woolimi/aaW4RTPJ2QKSVUFn_gesture-working.gif?auto=format,compress) |
+
+### 4. 데이터셋과 훈련
+
+우리는 촬영자마다 다른 거리와 프레임 문제를 해결하기 위한 자체 수집 framework 를 제작하였다. 제스처를 녹화할 때 다 똑같은 30fps 1초로 녹화를 하기 위해서였다. 또한 녹화본을 저장할 때는 .npy 파일로 저장했다. 이렇게 하면 데이터셋의 용량을 획기적으로 줄일 수 있기 때문이다. 다만 해당 파일은 바이너리 파일이기 때문에 녹화가 잘 되었는지 확인할 길이 없었다. 그래서 디버깅을 위한 visualise 스크립트를 따로 만들었다.
+
+| data framework | visualize npy |
+| --- | --- |
+| ![data framework](https://images.prismic.io/woolimi/aaXGnVxvIZEnjPp__data-framework.gif?auto=format,compress) | ![visualize npy](https://images.prismic.io/woolimi/aaXIKFxvIZEnjPqU_datavisualize.gif?auto=format,compress) |
+
+모델을 훈련시키기 위한 라이브러리는 Tensorflow 를 이용해서 신경망을 구성하였다. 
+
+```python
+SEQUENCE_LENGTH = 30  # 1초 * 30fps
+LANDMARKS_COUNT = 42 # 양손이라서 21 * 2
+COORDS_COUNT = 3 # x, y, z
+INPUT_SHAPE = (SEQUENCE_LENGTH, LANDMARKS_COUNT * COORDS_COUNT)
+
+model = Sequential([
+    # 첫 레이어는 유닛을 넉넉히 주어 특징을 충분히 뽑습니다.
+    LSTM(128, return_sequences=True, input_shape=INPUT_SHAPE),
+    Dropout(0.2),
+    
+    # 두 번째 층은 64개로 줄여 정보를 압축합니다.
+    LSTM(64, return_sequences=False),
+    Dropout(0.2),
+    
+    # Dense 층은 너무 크지 않게 하여 연산 속도를 확보합니다.
+    Dense(32, activation='relu'),
+    # L2 규제는 학습 시 과적합을 막아주지만, 추론 속도에는 영향을 주지 않으므로 유지합니다.
+    Dense(num_classes, activation='softmax')
+])
+```
+
+훈련을 마친 모델을 테스트 했는데 원하는 성능이 나오지 않았다. 조사해보니 아래와 같은 이슈가 있었다.
+
+1. 제스처가 처음과 끝동작으로만 인식이 되는 문제
+
+    예를들어 스와이프의 동작은, 왼쪽에서 오른쪽으로 움직일 때 중간 동작이 있어야 인식이 되어야 한다. 하지만 우리 모델은 처음이나 끝 동작으로도 제스처가 인식이 되었다. 녹화 영상을 살펴보니 제스처의 처음과 끝에 프레임이 많이 집중되어서 생긴 문제였다.
+    
+    해당 문제를 해결하기 위해 **녹화를 할때 최대한 30프레임이 모든 움직임을 담을 수 있도록 했다**. 또한 모든 동작의 처음과 끝을 녹화해서 **No Gesture 라는 클래스를 만들었다**. 이렇게 하면 처음과 끝 동작만으로는 제스처가 감지되지 않는다.
+
+2. MediaPipe 인식이 안되는 프레임이 존재
+
+    손이 움직일때 MediaPipe 인식 문제로 한 순간 손이 사라졌다가 다시 나타나는 현상이 있었다. 그래서 비정상적인 프레임은 앞과 뒤 프레임의 위치를 이용해서 **선형보간**을 했다.
+
+### 5. Feature Engineering
+
+제스처의 인식률은 위의 방법으로 많이 개선이 되었지만 아직도 우리가 원하는 만큼의 퍼포먼스는 아니었다. 예를들어 Pinch 를 했는데 Swipe 로 인식이 된다던지, Play Pause 동작을 했는데 Swipe 가 된다던지 하는 문제가 있었다. 여러가지 자료를 찾아본 결과, 제스처의 인식률을 개선하기 위해 모델에 feature 를 더 추가해서 주입한다는 자료를 보게되었다.
+
+우리가 하는 제스처는 Swipe, Pinch, Play & Pause 의 동작들이고 다른 한 손은 반드시 주먹을 쥐어야 하는 특징이 있다. 그래서 우리는 동작의 기하학적 위치 3채널(x, y, z)에다가 제스처를 구분할 수 있는 특징들을 더해 **11채널**로 만들어 훈련을 시켰다.
+
+```python
+# 왼손 정보
+new_data[i, :, 3] = left_feats[0] # Is_Fist: 주먹인지 아닌지
+new_data[i, :, 4] = left_feats[1] # Pinch_Dist: 엄지와 검지 사이의 거리
+new_data[i, :, 5] = left_feats[2] # Thumb_V: 엄지의 움직임 속도
+new_data[i, :, 6] = left_feats[3] # Index_Z_V: 검지의 Z 방향 움직임 속도
+# 오른손 정보
+new_data[i, :, 7] = right_feats[0] # Is_Fist: 주먹인지 아닌지
+new_data[i, :, 8] = right_feats[1] # Pinch_Dist: 엄지와 검지 사이의 거리
+new_data[i, :, 9] = right_feats[2] # Thumb_V: 엄지의 움직임 속도
+new_data[i, :, 10] = right_feats[3] # Index_Z_V: 검지의 Z 방향 움직임 속도
+```
+
+이렇게 만들어서 훈련을 했더니 인식이 잘되고 동작간의 간섭이 없이 인식률 99% 가 잘 나왔다. 만약 인식이 잘 안되면 임계점을 조절해서 감도 조절을 하려고 했으나 그럴 필요는 없었다.
+
+## 발표영상
+
+[말 한마디 없이 손짓으로 컴퓨터 제어하기 👋 (MediaPipe + LSTM 제스처 인식)](https://www.youtube.com/watch?v=nKU_hdknbqM)
+
+## Contributors
+
+* [송민규](https://github.com/ned-razzz)
+* [최민성](https://github.com/Minssuung)
+* [이정우](https://github.com/joey114132)
+* [박우림](https://github.com/woolimi)
+1c:["$","article",null,{"children":["$","$L1e",null,{"children":"$1f"}]}]
+14:["$","$L20",null,{"ref":null,"href":"/ko/resume","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+15:["$","$L20",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$14:props:localeCookie","children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

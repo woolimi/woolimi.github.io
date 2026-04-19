@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"BlurFade"]
+3:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"default"]
+e:I[347816,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"ProjectLinkButton"]
+f:I[629911,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/fc646a1e8cc664ad.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/529ac1f084e36f1a.js"],"MarkdownContent",1]
+11:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/resume","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Resume","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/schools","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"ft_turing"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"ft_turing\",\"description\":\"ft_turing은 ecole42의 OCaml 프로젝트로, JSON 형식으로 정의된 튜링 머신을 읽어 실행하고 실행 과정을 단계별로 시각화하며 시간 복잡도를 분석하는 도구. OCaml의 함수형 프로그래밍 특성을 활용하여 튜링 머신의 상태 전이, 테이프 조작, 무한 루프 감지 등을 구현하며, 계산 이론과 알고리즘 복잡도 분석을 학습한다\",\"image\":\"https://woolimi.github.io/og?title=ft_turing\",\"url\":\"https://woolimi.github.io/projects/schools/ft_turing\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"ecole42"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"ft_turing"}],"$undefined",["$","p",null,{"className":"text-base leading-relaxed","children":"ft_turing은 ecole42의 OCaml 프로젝트로, JSON 형식으로 정의된 튜링 머신을 읽어 실행하고 실행 과정을 단계별로 시각화하며 시간 복잡도를 분석하는 도구. OCaml의 함수형 프로그래밍 특성을 활용하여 튜링 머신의 상태 전이, 테이프 조작, 무한 루프 감지 등을 구현하며, 계산 이론과 알고리즘 복잡도 분석을 학습한다"}],"$L4","$L5"]}],"$L6"]}]}],["$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"OCaml"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Functional Programming"}]]}]
+5:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","$Le",null,{"href":"https://github.com/woolimi/ft_turing","type":"github"}]]}]
+10:T1582,
+## 개요
+
+`ft_turing`은 JSON 형식으로 정의된 튜링 머신을 읽어 실행하고, 실행 과정을 단계별로 시각화하며, 시간 복잡도를 분석하는 도구다.
+
+## 주요 기능
+
+- **튜링 머신 시뮬레이션**: JSON 파일로 정의된 튜링 머신을 실행
+- **실행 과정 시각화**: 각 단계에서 현재 상태, 테이프 내용, 헤드 위치를 표시
+- **무한 루프 감지**: 동일한 상태 구성을 반복하거나 무한 실행을 감지하여 중단
+- **시간 복잡도 분석**: 실행 결과를 바탕으로 시간 복잡도를 자동 계산
+- **상태 방문 통계**: 각 상태의 방문 횟수를 추적하여 분석
+
+## 요구사항
+
+- OCaml (4.08 이상)
+- opam (OCaml 패키지 관리자)
+- dune (빌드 시스템)
+- yojson (JSON 파싱 라이브러리)
+
+## 설치
+
+### 1. 의존성 설치
+
+```bash
+make check_deps
+```
+
+또는 수동으로:
+
+```bash
+opam install ocamlfind yojson dune
+```
+
+### 2. 빌드
+
+```bash
+make
+```
+
+또는 dune을 사용하여:
+
+```bash
+dune build
+```
+
+## 사용법
+
+```bash
+./ft_turing <jsonfile> <input>
+```
+
+또는:
+
+```bash
+dune exec bin/main.exe -- <jsonfile> <input>
+```
+
+### 옵션
+
+- `-h, --help`: 도움말 메시지 출력
+
+### 예제
+
+```bash
+./ft_turing res/0.unary_sub.json "111-11="
+```
+
+## 튜링 머신 JSON 형식
+
+튜링 머신은 다음 형식의 JSON 파일로 정의된다:
+
+```json
+{
+  "name": "머신 이름",
+  "alphabet": ["문자1", "문자2", ...],
+  "blank": "빈 칸 문자",
+  "states": ["상태1", "상태2", ...],
+  "initial": "초기 상태",
+  "finals": ["최종 상태1", "최종 상태2", ...],
+  "transitions": {
+    "상태1": [
+      {
+        "read": "읽을 문자",
+        "to_state": "다음 상태",
+        "write": "쓸 문자",
+        "action": "LEFT" 또는 "RIGHT"
+      },
+      ...
+    ],
+    ...
+  }
+}
+```
+
+### 필드 설명
+
+- `name`: 튜링 머신의 이름
+- `alphabet`: 머신이 사용할 수 있는 모든 문자 목록
+- `blank`: 빈 칸을 나타내는 문자 (반드시 alphabet에 포함되어야 함)
+- `states`: 모든 상태 목록
+- `initial`: 초기 상태 (반드시 states에 포함되어야 함)
+- `finals`: 최종 상태 목록 (최소 하나 이상 필요, 모두 states에 포함되어야 함)
+- `transitions`: 상태별 전이 규칙
+  - `read`: 현재 헤드 위치의 문자를 읽음
+  - `to_state`: 전이할 다음 상태
+  - `write`: 테이프에 쓸 문자
+  - `action`: 헤드를 이동할 방향 ("LEFT" 또는 "RIGHT")
+
+## 출력 형식
+
+프로그램 실행 시 다음과 같은 정보가 출력된다:
+
+1. **머신 정보**: 이름, 알파벳, 상태, 초기 상태, 최종 상태, 전이 규칙
+2. **실행 과정**: 각 단계마다
+   - 현재 테이프 내용 (헤드 위치는 하이라이트됨)
+   - 현재 상태
+   - 읽은 문자
+   - 전이 정보 (다음 상태, 쓸 문자, 이동 방향)
+3. **실행 결과**:
+   - 총 실행 단계 수
+   - 최대 방문 횟수를 가진 상태와 방문 횟수
+   - 시간 복잡도 분석
+
+## 시간 복잡도 계산
+
+프로그램은 실행 결과를 바탕으로 다음과 같은 규칙으로 시간 복잡도를 계산한다:
+
+1. **Infinite (무한)**: 실행 단계가 1,000,000 이상인 경우
+2. **Linear (O(n))**: 총 단계 수와 테이프 길이가 비슷한 경우
+3. **Exponential (O(2^n))**: 특정 상태의 방문 횟수가 테이프 길이의 두 배 이상인 경우
+4. **Quadratic (O(n²))**: 특정 상태의 방문 횟수가 테이프 길이 이상인 경우
+5. **Constant (O(1))**: 위의 조건을 만족하지 않는 단순한 상태 변화
+
+## 에러 처리
+
+프로그램은 다음 상황에서 에러를 감지하고 중단합니다:
+
+- **무한 루프**: 동일한 (상태, 테이프, 헤드 위치) 구성을 반복하는 경우
+- **무한 실행**: 빈 칸을 읽으면서 같은 상태에 머무는 경우가 연속으로 20회 이상 발생
+- **잘못된 문자**: 테이프에 알파벳에 없는 문자가 발견된 경우
+- **전이 규칙 없음**: 현재 상태와 읽은 문자에 대한 전이 규칙이 없는 경우
+
+## 프로젝트 구조
+
+```
+ft_turing/
+├── bin/                    # 실행 파일 소스 코드
+│   ├── main.ml            # 메인 진입점 및 명령줄 인자 처리
+│   ├── types.ml           # 튜링 머신 타입 정의
+│   ├── parser.ml          # JSON 파싱 및 검증
+│   ├── executer.ml        # 튜링 머신 실행 로직
+│   └── print_machine.ml   # 머신 정보 출력
+├── res/                    # 예제 튜링 머신 정의 파일
+│   ├── 0.unary_sub.json   # 단항 뺄셈 예제
+│   ├── 1.unary_add.json   # 단항 덧셈 예제
+│   ├── 2.palindrome.json  # 회문 검사 예제
+│   └── ...
+├── test/                   # 테스트 파일
+├── Makefile               # 빌드 스크립트
+├── dune-project           # Dune 프로젝트 설정
+└── ft_turing.opam        # OPAM 패키지 정의
+```
+
+## 예제 튜링 머신
+
+프로젝트에는 여러 예제 튜링 머신이 포함되어 있다:
+
+- `0.unary_sub.json`: 단항 표기법 뺄셈
+- `1.unary_add.json`: 단항 표기법 덧셈
+- `2.palindrome.json`: 회문 검사
+- `3.zero_n_one_n.json`: 0^n1^n 패턴 인식
+- `4.zero_2n.json`: 0^2n 패턴 인식
+- `5.utm_unary.json`: 범용 튜링 머신 (단항 입력)
+
+## 참고 자료
+
+- [Designing a universal Turing machine](https://ftlsid.com/Computation/Designing+a+universal+Turing+machine)
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+a:["$","script","script-2",{"src":"/_next/static/chunks/fc646a1e8cc664ad.js","async":true}]
+b:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+c:["$","script","script-4",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+d:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

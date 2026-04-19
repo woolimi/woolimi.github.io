@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[347274,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"default"]
+3:I[783850,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlurFade"]
+4:I[676913,["/_next/static/chunks/5eadb771fab2457a.js","/_next/static/chunks/055c1225d9635954.js","/_next/static/chunks/aed8f62bd843a69b.js","/_next/static/chunks/3f3b70f37bbe6942.js","/_next/static/chunks/455d450fcaf55923.js","/_next/static/chunks/d8c592bcd862be63.js","/_next/static/chunks/3410d156ca9f4cc0.js","/_next/static/chunks/0dfdeee28793dcd4.js","/_next/static/chunks/25cda555832c1292.js","/_next/static/chunks/529ac1f084e36f1a.js","/_next/static/chunks/961ab69a88ed859f.js","/_next/static/chunks/59c7092271989d1d.js"],"BlogArticleCard"]
+12:I[153503,["/_next/static/chunks/9b20b3913495edf7.js","/_next/static/chunks/3340d1d36dfbdbfc.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+:HL["/_next/static/chunks/4057cc9dbcc744c0.css","style"]
+5:T9e3,<h2 id="overview"><a class="heading-link" aria-hidden="true" href="#overview">Overview</a></h2>
+<p>Open Robotics는 여러 플랫폼용 <strong>사전 빌드 ROS 2 패키지</strong>를 제공하지만, 다음 같은 이유로 <strong>크로스 컴파일</strong>을 쓰는 경우가 많다.</p>
+<ul>
+<li><strong>개발 머신과 목표 시스템이 다를 때</strong> (예: x86 PC에서 ARM 보드용 빌드).</li>
+<li><strong>특정 코어 아키텍처에 맞춰 빌드</strong>할 때 (예: Raspberry Pi 3용 <code>-mcpu=cortex-a53 -mfpu=neon-fp-armv8</code>).</li>
+<li>Open Robotics가 제공하는 <strong>사전 빌드 이미지가 지원하지 않는 파일시스템/환경</strong>을 타깃으로 할 때.</li>
+</ul>
+<h2 id="how-does-it-work-동작-방식"><a class="heading-link" aria-hidden="true" href="#how-does-it-work-동작-방식">How does it work? (동작 방식)</a></h2>
+<p><strong>외부 라이브러리에 의존하지 않는</strong> 단순한 소프트웨어는 <strong>네이티브 툴체인 대신 크로스 컴파일 툴체인</strong>만 쓰면 비교적 쉽게 크로스 컴파일할 수 있다.</p>
+<p>다음 요소들이 있으면 <strong>복잡도</strong>가 올라간다.</p>
+<ol>
+<li><strong>타깃 아키텍처 지원</strong>: 빌드 대상 아키텍처를 소프트웨어가 지원해야 하고, <strong>아키텍처별 코드</strong>(예: 어셈블리)는 타깃에 맞게 분리·활성화되어야 한다.</li>
+<li><strong>의존성 선행 준비</strong>: <strong>모든 의존성</strong>(라이브러리 등)이 <strong>사전 빌드</strong>되거나 <strong>크로스 컴파일</strong>된 상태로 있어야, 그걸 쓰는 타깃 소프트웨어를 크로스 컴파일할 수 있다.</li>
+<li><strong>스택/빌드 도구</strong>: <strong>colcon</strong>처럼 여러 패키지를 한꺼번에 빌드할 때는, 빌드 도구가 <strong>각 패키지의 하위 빌드 시스템</strong>에 크로스 컴파일을 넘길 수 있는 <strong>방식</strong>을 제공해야 한다.</li>
+</ol>
+<h2 id="alternatives-대안"><a class="heading-link" aria-hidden="true" href="#alternatives-대안">Alternatives (대안)</a></h2>
+<p>크로스 컴파일 대신 <strong>다중 플랫폼 Docker 이미지</strong>를 쓸 수 있다. <code>docker buildx</code>로 타깃 플랫폼용 이미지를 빌드하는 방식이다.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Cross-Compilation.html">Cross-compilation — ROS 2 Jazzy</a></p>0:{"buildId":"iTSJCN0o_Zbq4kmLpUtao","rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L2",null,{"ref":null,"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"children":"ROS","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}]]}]}],["$","$L3",null,{"delay":0.04,"children":["$","h1",null,{"className":"mb-8 text-2xl font-bold tracking-normal","style":{"fontFamily":"var(--font-playfair), serif"},"children":"ROS"}]}],["$","div",null,{"className":"grid grid-cols-1 gap-4 sm:grid-cols-2","children":[["$","$L4","ROS/concepts/cross-compilation",{"post":{"metadata":{"title":"intermediate - cross compilation","summary":"ROS 2 크로스 컴파일의 필요성, 동작 방식(의존성·아키텍처·빌드 도구), 대안(다중 플랫폼 Docker) 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/cross-compilation","source":"$5","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.08}],"$L6","$L7"]}],"$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"loading":null,"isPartial":false}
+10:T194d,<h2 id="overview"><a class="heading-link" aria-hidden="true" href="#overview">Overview</a></h2>
+<p>ROS 2는 <strong>ROS 2 계산 그래프 안의 노드 간 통신</strong>을 보호할 수 있다. 디스커버리처럼 <strong>미들웨어</strong>를 통해 동작하며(해당 보안 플러그인을 지원하는 경우), <strong>추가 소프트웨어 설치 없이</strong> 설정만으로 활성화할 수 있다. 대신 <strong>그래프 참여자마다 설정 파일</strong>이 필요하다. 이 파일들로 <strong>암호화·인증</strong>을 켜고, <strong>노드 단위·전체 그래프</strong> 정책을 정의한다. 보안 동작을 켜고 끄는 <strong>마스터 온/오프 스위치</strong>도 있다.</p>
+<p>신뢰 기준(trust anchor)은 ROS 유틸로 만들거나 <strong>외부 인증 기관(CA)</strong> 를 쓸 수 있다. 제공되는 기능: 통신 <strong>암호화</strong>, 참여자 <strong>인증</strong>, 데이터 <strong>무결성</strong>, <strong>도메인 전체 접근 제어</strong>.</p>
+<p>보안 서비스는 노드 간 통신에 쓰이는 <strong>DDS(Data Distribution Service)</strong> 가 제공한다. DDS Security 사양에 따라 보안 플러그인이 포함되며, ROS는 이 플러그인을 이용해 <strong>정책 기반 암호화·인증·접근 제어</strong>를 한다. <strong>설정 파일</strong>과 <strong>환경 변수</strong>로 활성화한다.</p>
+<h2 id="the-security-enclave-보안-엔클레이브"><a class="heading-link" aria-hidden="true" href="#the-security-enclave-보안-엔클레이브">The Security Enclave (보안 엔클레이브)</a></h2>
+<p><strong>Security Enclave</strong>는 ROS 통신을 보호하기 위한 <strong>단일 정책</strong>을 담는 단위다. 한 엔클레이브가 <strong>여러 노드</strong>, <strong>전체 ROS 그래프</strong>, 또는 보호할 프로세스·기기의 <strong>조합</strong>에 정책을 적용할 수 있다. 배포 시 <strong>프로세스·사용자·기기</strong>에 유연하게 매핑할 수 있다. 자세한 설계는 <a href="https://design.ros.org/articles/ros2_security_enclaves.html">ROS 2 Security Enclaves</a> 문서 참고.</p>
+<h2 id="security-files-보안-파일"><a class="heading-link" aria-hidden="true" href="#security-files-보안-파일">Security Files (보안 파일)</a></h2>
+<p>DDS 사양에 따라 한 엔클레이브는 <strong>6개 파일</strong>로 정의된다. <strong>3개는 엔클레이브 신원(identity)</strong>, <strong>3개는 권한(permissions)</strong> 이다. 6개 모두 <strong>한 디렉터리</strong>에 두고, 엔클레이브 경로를 지정하지 않고 띄운 노드는 <strong>기본 루트 엔클레이브</strong>의 파일을 사용한다.</p>
+<h3 id="enclave-identity-신원"><a class="heading-link" aria-hidden="true" href="#enclave-identity-신원">Enclave Identity (신원)</a></h3>
+<table>
+<thead>
+<tr>
+<th>파일</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>identity_ca.cert.pem</strong></td>
+<td>참여자 <strong>식별</strong>용 <strong>신뢰 기준(Trust Anchor)</strong>.</td>
+</tr>
+<tr>
+<td><strong>cert.pem</strong></td>
+<td>이 엔클레이브의 <strong>고유 인증서</strong>. Identity CA로 서명됨.</td>
+</tr>
+<tr>
+<td><strong>key.pem</strong></td>
+<td>위 인증서에 대응하는 <strong>비밀키</strong>. 공유하지 않고, 복호화·서명에만 사용.</td>
+</tr>
+</tbody>
+</table>
+<p>참여자가 <code>cert.pem</code>을 제시하면, 다른 참여자는 자신이 가진 Identity CA로 <strong>신원을 검증</strong>할 수 있다. 이렇게 신뢰된 통신이 수립된다.</p>
+<h3 id="enclave-permissions-권한"><a class="heading-link" aria-hidden="true" href="#enclave-permissions-권한">Enclave Permissions (권한)</a></h3>
+<table>
+<thead>
+<tr>
+<th>파일</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>permissions_ca.cert.pem</strong></td>
+<td>권한 부여용 <strong>신뢰 기준</strong>.</td>
+</tr>
+<tr>
+<td><strong>governance.p7s</strong></td>
+<td><strong>도메인 전체</strong> 보호 정책이 담긴 서명된 XML. Permissions CA로 서명.</td>
+</tr>
+<tr>
+<td><strong>permissions.p7s</strong></td>
+<td><strong>이 엔클레이브</strong>의 권한이 담긴 서명된 XML. Permissions CA로 서명.</td>
+</tr>
+</tbody>
+</table>
+<p>도메인 참여자는 Permissions CA 사본으로 이 서명된 파일들을 검증해 요청된 접근을 허용한다. 실무에서는 <strong>동일한 인증서</strong>가 Identity CA와 Permissions CA 둘 다로 쓰이는 경우가 많다.</p>
+<h3 id="private-keys-비밀키"><a class="heading-link" aria-hidden="true" href="#private-keys-비밀키">Private Keys (비밀키)</a></h3>
+<p>Identity·Permissions 인증서에는 각각 <strong>비밀키</strong>가 있다. 새 엔클레이브를 추가할 때: <strong>Identity CA 비밀키</strong>로 CSR(Certificate Signing Request)에 서명하고, <strong>Permissions CA 비밀키</strong>로 권한 XML에 서명해 권한을 부여한다.</p>
+<h2 id="security-environment-variables-환경-변수"><a class="heading-link" aria-hidden="true" href="#security-environment-variables-환경-변수">Security Environment Variables (환경 변수)</a></h2>
+<table>
+<thead>
+<tr>
+<th>변수</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ROS_SECURITY_ENABLE</strong></td>
+<td>보안 기능 <strong>온/오프</strong>. 기본값은 꺼짐. 켜려면 <code>true</code>(대소문자 구분).</td>
+</tr>
+<tr>
+<td><strong>ROS_SECURITY_STRATEGY</strong></td>
+<td>보안이 켜진 뒤, <strong>설정이 잘못된 참여자</strong>를 어떻게 할지. 기본은 <strong>설정 오류여도 기동은 허용</strong>(보안만 비활성). <strong>엄격히 맞추려면</strong> <code>Enforce</code>로 설정해, 비준수 엔클레이브는 <strong>기동 실패</strong>하게 할 수 있다.</td>
+</tr>
+</tbody>
+</table>
+<p>그 외 엔클레이브·보안 파일 경로 관련 변수는 <a href="https://design.ros.org/articles/ros2_dds_security.html">ROS 2 DDS-Security Integration</a> 설계 문서 참고.</p>
+<h2 id="learn-more"><a class="heading-link" aria-hidden="true" href="#learn-more">Learn More</a></h2>
+<p>실습: <a href="https://docs.ros.org/en/jazzy/How-To-Guides/Setting-Up-Security.html">Setting up security</a>.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Security.html">ROS 2 Security — ROS 2 Jazzy</a></p>6:["$","$L4","ROS/concepts/ros2-security",{"post":{"metadata":{"title":"intermediate - ros2 security","summary":"ROS 2 보안(암호화·인증·접근 제어), Security Enclave·보안 파일 6종, 환경 변수(ROS_SECURITY_ENABLE·STRATEGY) 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/ros2-security","source":"$10","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.13}]
+11:T197f,<h2 id="overview"><a class="heading-link" aria-hidden="true" href="#overview">Overview</a></h2>
+<p><strong>tf2</strong>는 <strong>좌표 프레임(Coordinate Frame) 변환 라이브러리</strong>다. 여러 좌표계를 <strong>시간에 따라 추적</strong>하고, <strong>두 프레임 사이</strong>에서 원하는 시점의 <strong>점·벡터 등을 변환</strong>할 수 있게 한다. 프레임 간 관계를 <strong>트리 구조</strong>로 유지하며 <strong>시간에 따라 버퍼링</strong>한다.</p>
+<h2 id="properties-of-tf2-특성"><a class="heading-link" aria-hidden="true" href="#properties-of-tf2-특성">Properties of tf2 (특성)</a></h2>
+<p>로봇 시스템에는 world, base, gripper, head 등 <strong>시간에 따라 바뀌는 3D 좌표계</strong>가 많다. tf2는 이들을 추적해 다음 같은 질의를 가능하게 한다.</p>
+<ul>
+<li>5초 전 head 프레임이 world 프레임 기준으로 어디 있었는가?</li>
+<li>그리퍼 안 물체의 pose를 base 기준으로 하면?</li>
+<li>base 프레임의 현재 pose를 map 프레임 기준으로 하면?</li>
+</ul>
+<p><strong>분산 시스템</strong>에서 동작한다. 한 로봇의 모든 좌표 프레임 정보가 <strong>시스템 내 어떤 컴퓨터의 ROS 2 노드</strong>에서든 접근 가능하다. 각 노드가 자체 변환 DB를 만들거나, <strong>중앙 노드</strong>가 변환 정보를 모아 저장하는 방식 모두 가능하다.</p>
+<h3 id="publishing-transforms-변환-발행"><a class="heading-link" aria-hidden="true" href="#publishing-transforms-변환-발행">Publishing transforms (변환 발행)</a></h3>
+<p>변환을 발행할 때는 보통 “한 프레임에서 다른 프레임으로의 변환”으로 생각한다. <strong>데이터를 그 프레임에서 표현</strong>하는 것과 <strong>프레임 자체를 변환</strong>하는 것은 서로 <strong>역관계</strong>다. <code>geometry_msgs/msg/Transform</code> 메시지에 담는 값은 <strong>프레임 표현</strong> 쪽이다. 디버깅 시 발행한 변환은, 트리에서 어느 방향으로 조회하느냐에 따라 <strong>lookup 결과의 역</strong>이 될 수 있음을 염두에 두면 된다. tf2 라이브러리가 트리 탐색 방향에 맞춰 역변환을 처리해 준다.</p>
+<h3 id="position-위치"><a class="heading-link" aria-hidden="true" href="#position-위치">Position (위치)</a></h3>
+<p>한 프레임에서 관측한 점을 다른 프레임으로 옮기려면 <strong>소스 프레임 → 타깃 프레임</strong> 변환을 적용한다. <code>lookupTransform</code>에서 <strong>소스</strong>가 <code>frame_id</code> A, <strong>타깃</strong>이 <code>frame_id</code> B이면, “A에서 본 것을 B에서 본 좌표로” 변환하는 변환이 나온다. 가능하면 <strong><code>transform&#x3C;T>(target_frame, ...)</code></strong> 를 쓰는 것이 좋다. 소스 <code>frame_id</code>는 데이터 타입에서 읽고, 결과의 타깃 <code>frame_id</code>를 채우며, 수식은 내부에서 처리된다.</p>
+<p>예: 루트 프레임 A가 프레임 B보다 1m 아래면, A→B 변환은 양수(위로). <strong>데이터</strong>를 B에서 A로 바꿀 때는 이 변환의 <strong>역</strong>을 써야 한다(기준이 낮아지므로 높이에 더해짐). A에서 B로 변환하면 기준이 높아지므로 높이는 줄어든다.</p>
+<h3 id="velocity-속도"><a class="heading-link" aria-hidden="true" href="#velocity-속도">Velocity (속도)</a></h3>
+<p>속도는 <strong>세 가지 정보</strong>로 표현한다. “움직이는 프레임 대 기준 프레임”의 속도를 <strong>관측 프레임</strong>에서 본 값이다. 예: 자동차 A의 운전자가 “지면 대비 전방 1m/s”를 A에서 관측하면 (1,0,0). 같은 속도를 지면(E)에서 보면 (0,1,0)처럼 다른 벡터가 될 수 있다. tf2 변환으로 두 표현이 동일한 속도임을 맞출 수 있다. 속도는 <strong>같은 관측 프레임</strong>에서만 더하거나 빼야 하고, 비교할 때는 먼저 <strong>같은 관측 프레임</strong>으로 변환해야 한다.</p>
+<h2 id="tutorials-튜토리얼"><a class="heading-link" aria-hidden="true" href="#tutorials-튜토리얼">Tutorials (튜토리얼)</a></h2>
+<p>tf2 사용은 크게 <strong>변환 수신(리스너)</strong> 와 <strong>변환 발행(브로드캐스터)</strong> 두 가지다.</p>
+<ul>
+<li><strong>리스너</strong>: 시스템에서 발행되는 좌표 프레임을 <strong>수신·버퍼</strong>하고, 특정 프레임 간 변환을 <strong>조회</strong>한다. <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Listener-Py.html">Writing a listener</a> (Python / C++) 참고.</li>
+<li><strong>브로드캐스터</strong>: 로봇의 한 부분에 해당하는 <strong>좌표 프레임의 상대 pose</strong>를 시스템에 <strong>발행</strong>한다. <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Broadcaster-Py.html">Writing a broadcaster</a> (Python / C++) 참고.</li>
+<li><strong>정적 브로드캐스터</strong>: <strong>시간에 따라 변하지 않는</strong> 변환은 한 번만 발행하고 이력은 저장하지 않는다. 저장·조회 부담과 발행 오버헤드를 줄인다. <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Static-Broadcaster-Py.html">Writing a static broadcaster</a> (Python / C++) 참고.</li>
+<li><strong>프레임 추가</strong>: <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Adding-A-Frame-Py.html">Adding a frame</a> (Python / C++)에서 고정/동적 프레임을 트리에 넣는 방법을 다룬다.</li>
+<li><strong>tf2와 시간</strong>: <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Using-Time-Py.html">Using time</a>, <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Time-Travel-With-Tf2-Py.html">Traveling in time</a> (C++)에서 과거/미래 시점 조회를 다룬다.</li>
+</ul>
+<p>튜토리얼 목록은 공식 <a href="https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2-Py.html">tf2 tutorials</a> 페이지 참고.</p>
+<h2 id="paper"><a class="heading-link" aria-hidden="true" href="#paper">Paper</a></h2>
+<p>tf2의 이론적 배경: <strong>“tf: The transform library”</strong>, TePRA 2013.</p>
+<hr>
+<p><strong>참고</strong>: <a href="https://docs.ros.org/en/jazzy/Concepts/Intermediate/About-Tf2.html">Tf2 — ROS 2 Jazzy</a></p>7:["$","$L4","ROS/concepts/tf2",{"post":{"metadata":{"title":"intermediate - tf2","summary":"ROS 2 tf2(좌표 변환 라이브러리)의 역할, 프레임 트리·발행/조회 의미, 위치·속도 변환, 리스너/브로드캐스터 튜토리얼 정리","locale":"ko","createdAt":"2026-03-10T00:44:31.000Z","updatedAt":"2026-03-10T00:44:31.000Z"},"slug":"ROS/concepts/tf2","source":"$11","type":"markdown","parentFolder":"concepts"},"locale":"ko","delay":0.18}]
+8:["$","div",null,{"className":"mt-12 flex items-center justify-center gap-2","children":[["$","$L2",null,{"ref":null,"href":"/ko/blog/ROS/p/2","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 aria-invalid:border-destructive inline-flex shrink-0 items-center justify-center gap-2 rounded-md text-sm font-medium whitespace-nowrap transition-all outline-none focus-visible:ring-[3px] disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 hover:bg-accent hover:text-accent-foreground h-9 px-4 py-2 has-[>svg]:px-3 flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"이전"}]],"data-slot":"button"}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","$L2","1",{"href":"/ko/blog/ROS","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":1}],["$","$L2","2",{"href":"/ko/blog/ROS/p/2","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-background hover:bg-accent","children":2}],["$","$L2","3",{"href":"/ko/blog/ROS/p/3","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"border-border flex h-9 w-9 items-center justify-center rounded-md border text-sm transition-colors bg-primary text-primary-foreground","children":3}]]}],false]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4057cc9dbcc744c0.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/0dfdeee28793dcd4.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/25cda555832c1292.js","async":true}]
+c:["$","script","script-2",{"src":"/_next/static/chunks/529ac1f084e36f1a.js","async":true}]
+d:["$","script","script-3",{"src":"/_next/static/chunks/961ab69a88ed859f.js","async":true}]
+e:["$","script","script-4",{"src":"/_next/static/chunks/59c7092271989d1d.js","async":true}]
+f:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null
