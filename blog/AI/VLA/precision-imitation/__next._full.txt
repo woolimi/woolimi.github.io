@@ -1,0 +1,328 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/2tlxvxm6wa1ik.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","AI","VLA","precision-imitation"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","AI/VLA/precision-imitation","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2tlxvxm6wa1ik.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3get_lhqa15rg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1h5524slst_qv.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0gu-kwreyedfq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2evnbn3j6stft.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"daYSb-F_eN6guYM3z_tND"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat"}]},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측"}]},{"name":"VLA","type":"folder","path":"AI/VLA","children":[{"name":"00.intro.ko.md","type":"file","path":"AI/VLA/00.intro.ko.md","slug":"AI/VLA/intro","locale":"ko","title":"VLA 학습 로드맵 — 이야기로 따라가는 발전사"},{"name":"01.before-vla-practice.ko.md","type":"file","path":"AI/VLA/01.before-vla-practice.ko.md","slug":"AI/VLA/before-vla-practice","locale":"ko","title":"[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기"},{"name":"01.before-vla.ko.md","type":"file","path":"AI/VLA/01.before-vla.ko.md","slug":"AI/VLA/before-vla","locale":"ko","title":"VLA 이전의 시간 — Transformer·ViT·CLIP·Decision Transformer"},{"name":"02.imitation-learning-foundations.ko.md","type":"file","path":"AI/VLA/02.imitation-learning-foundations.ko.md","slug":"AI/VLA/imitation-learning-foundations","locale":"ko","title":"모방학습의 시작 — BC-Z, Gato, RT-1"},{"name":"03.precision-imitation-practice.ko.md","type":"file","path":"AI/VLA/03.precision-imitation-practice.ko.md","slug":"AI/VLA/precision-imitation-practice","locale":"ko","title":"[실습] 정밀 모방학습 — ACT·Diffusion Policy를 LeRobot으로"},{"name":"03.precision-imitation.ko.md","type":"file","path":"AI/VLA/03.precision-imitation.ko.md","slug":"AI/VLA/precision-imitation","locale":"ko","title":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"},{"name":"04.vla-is-born.ko.md","type":"file","path":"AI/VLA/04.vla-is-born.ko.md","slug":"AI/VLA/vla-is-born","locale":"ko","title":"VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat"},{"name":"05.opensource-wave-practice.ko.md","type":"file","path":"AI/VLA/05.opensource-wave-practice.ko.md","slug":"AI/VLA/opensource-wave-practice","locale":"ko","title":"[실습] OpenVLA로 VLA 직접 만져보기"},{"name":"05.opensource-wave.ko.md","type":"file","path":"AI/VLA/05.opensource-wave.ko.md","slug":"AI/VLA/opensource-wave","locale":"ko","title":"오픈소스가 따라잡다 — Open X-Embodiment, Octo, OpenVLA, RDT-1B"},{"name":"06.pi-series-practice.ko.md","type":"file","path":"AI/VLA/06.pi-series-practice.ko.md","slug":"AI/VLA/pi-series-practice","locale":"ko","title":"[실습] π₀ 행동 생성을 LeRobot으로"},{"name":"06.pi-series.ko.md","type":"file","path":"AI/VLA/06.pi-series.ko.md","slug":"AI/VLA/pi-series","locale":"ko","title":"π 시리즈와 산업화의 시작 — π₀, π₀-FAST, π₀.₅"},{"name":"07.humanoid-frontier-practice.ko.md","type":"file","path":"AI/VLA/07.humanoid-frontier-practice.ko.md","slug":"AI/VLA/humanoid-frontier-practice","locale":"ko","title":"[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA"},{"name":"07.humanoid-frontier.ko.md","type":"file","path":"AI/VLA/07.humanoid-frontier.ko.md","slug":"AI/VLA/humanoid-frontier","locale":"ko","title":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"claude","type":"folder","path":"claude","children":[{"name":"00.setup.md","type":"file","path":"claude/00.setup.md","slug":"claude/setup","locale":"$undefined","title":"claude 코드로 sudo"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"CPP","type":"folder","path":"CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"CPP/00.reference.ko.md","slug":"CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)"},{"name":"01.member-access-operator.ko.md","type":"file","path":"CPP/01.member-access-operator.ko.md","slug":"CPP/member-access-operator","locale":"ko","title":"member access operator"},{"name":"02.template.ko.md","type":"file","path":"CPP/02.template.ko.md","slug":"CPP/template","locale":"ko","title":"Template"},{"name":"03.smart-pointer.ko.md","type":"file","path":"CPP/03.smart-pointer.ko.md","slug":"CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"concepts","type":"folder","path":"ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"ROS/concepts/01.nodes.ko.md","slug":"ROS/concepts/nodes","locale":"ko","title":"basic - nodes"},{"name":"02.interfaces.ko.md","type":"file","path":"ROS/concepts/02.interfaces.ko.md","slug":"ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces"},{"name":"03.topics.ko.md","type":"file","path":"ROS/concepts/03.topics.ko.md","slug":"ROS/concepts/topics","locale":"ko","title":"basic - topics"},{"name":"04.services.ko.md","type":"file","path":"ROS/concepts/04.services.ko.md","slug":"ROS/concepts/services","locale":"ko","title":"basic - services"},{"name":"05.actions.ko.md","type":"file","path":"ROS/concepts/05.actions.ko.md","slug":"ROS/concepts/actions","locale":"ko","title":"basic - actions"},{"name":"06.parameters.ko.md","type":"file","path":"ROS/concepts/06.parameters.ko.md","slug":"ROS/concepts/parameters","locale":"ko","title":"basic - parameters"},{"name":"07.launch.ko.md","type":"file","path":"ROS/concepts/07.launch.ko.md","slug":"ROS/concepts/launch","locale":"ko","title":"basic - launch"},{"name":"08.rcl.ko.md","type":"file","path":"ROS/concepts/08.rcl.ko.md","slug":"ROS/concepts/rcl","locale":"ko","title":"basic - rcl"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"ROS/concepts/09.ros_domain_id.ko.md","slug":"ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"ROS/concepts/10.middleware-vendors.ko.md","slug":"ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors"},{"name":"11.logging.ko.md","type":"file","path":"ROS/concepts/11.logging.ko.md","slug":"ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration"},{"name":"12.qos.ko.md","type":"file","path":"ROS/concepts/12.qos.ko.md","slug":"ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings"},{"name":"13.executors.ko.md","type":"file","path":"ROS/concepts/13.executors.ko.md","slug":"ROS/concepts/executors","locale":"ko","title":"intermediate - executors"},{"name":"14.topic-statistics.ko.md","type":"file","path":"ROS/concepts/14.topic-statistics.ko.md","slug":"ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics"},{"name":"15.rqt.ko.md","type":"file","path":"ROS/concepts/15.rqt.ko.md","slug":"ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt"},{"name":"16.composition.ko.md","type":"file","path":"ROS/concepts/16.composition.ko.md","slug":"ROS/concepts/composition","locale":"ko","title":"intermediate - composition"},{"name":"17.cross-compilation.ko.md","type":"file","path":"ROS/concepts/17.cross-compilation.ko.md","slug":"ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation"},{"name":"18.ros2-security.ko.md","type":"file","path":"ROS/concepts/18.ros2-security.ko.md","slug":"ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security"},{"name":"19.tf2.ko.md","type":"file","path":"ROS/concepts/19.tf2.ko.md","slug":"ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2"}]},{"name":"00.install.ko.md","type":"file","path":"ROS/00.install.ko.md","slug":"ROS/install","locale":"ko","title":"맥에서 ros2 설치하기"},{"name":"01.pkg.ko.md","type":"file","path":"ROS/01.pkg.ko.md","slug":"ROS/pkg","locale":"ko","title":"workspace & package"},{"name":"02.nav2.ko.md","type":"file","path":"ROS/02.nav2.ko.md","slug":"ROS/nav2","locale":"ko","title":"ROS2 Nav2"},{"name":"03.behavior-tree.ko.md","type":"file","path":"ROS/03.behavior-tree.ko.md","slug":"ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+1d:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+1f:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+1e:T47e9,
+## 들어가며
+
+[지난 글](/blog/AI/VLA/imitation-learning-foundations)에서는 BC-Z, Gato, RT-1을 통해 모방학습이 어떻게 트랜스포머와 손을 잡고 대규모로 자라났는지 봤습니다.
+
+그런데 RT-1까지의 모방학습에는 두 가지 큰 숙제가 남아 있었습니다.
+
+1. **정밀한 양손 작업이 어렵습니다.** RT-1의 11-DoF 행동을 256단계로 양자화하는 방식은 굵직한 동작에는 잘 통하지만, 셔츠 단추를 잠그거나 신발끈을 묶는 정밀 작업에는 양자화 오차가 너무 큽니다.
+2. **사람의 시연이 다양합니다.** 같은 task("컵을 집어")라도 사람마다, 또는 같은 사람이라도 매번 다른 경로로 손이 움직입니다. 표준적인 BC는 이 다양한 시연을 평균낸 어색한 행동(두 경로의 가운데 어디쯤)을 출력해버립니다. 이걸 **multimodal action distribution** 문제라고 부릅니다.
+
+이번 글에서 다룰 세 편의 논문이 바로 이 숙제를 정면으로 푸는 시도입니다.
+
+- **ACT (2023)** — Action Chunking과 CVAE로 정밀한 양손 작업을 가능하게 한 논문
+- **Diffusion Policy (2023)** — 이미지 생성에 쓰던 diffusion을 행동 생성에 가져온 논문
+- **Mobile ALOHA (2024)** — ALOHA 하드웨어에 바퀴를 달아 가사 작업까지 확장한 후속 연구
+
+이 세 편은 모방학습을 "되긴 한다"의 단계에서 "꽤 쓸 만하다"의 단계로 끌어올린 핵심 작업입니다.
+
+> 이 글은 [VLA 학습 로드맵](/blog/AI/VLA/intro) 시리즈의 세 번째 글입니다.
+
+---
+
+## 0. 알아두면 좋은 사전 용어
+
+> [!TERM]
+>
+> **자유도 (DoF, Degrees of Freedom)**
+>
+> 로봇이 독립적으로 움직일 수 있는 축의 수입니다. 7-DoF 팔이라고 하면 관절 7개를 따로 제어할 수 있다는 뜻입니다. 양팔 14-DoF에 그리퍼 2-DoF를 더하면 16차원 행동 공간이 됩니다.
+
+> [!TERM]
+>
+> **Multimodal Distribution**
+>
+> 한 분포 안에 여러 봉우리가 있는 분포입니다. 사람 시연 데이터는 거의 항상 multimodal입니다. 평균을 내면 봉우리 사이의 골짜기로 가버려 어색해집니다.
+
+> [!TERM]
+>
+> **Receding Horizon Control**
+>
+> 매 step마다 앞으로의 k step을 예측하지만, 그 중 처음 1~2 step만 실행하고 다음 step에서 다시 새로 예측하는 제어 방식입니다. 모델 예측 제어(MPC)에서 가져온 발상입니다.
+
+> [!TERM]
+>
+> **Visuomotor Policy**
+>
+> 시각(visuo) 입력을 받아 모터(motor) 행동을 출력하는 정책을 가리키는 용어입니다. Diffusion Policy 논문 제목에도 들어 있습니다. "이미지 → 행동"이라는 단순한 의미인데, 로봇 분야에서는 비전 입력 + 모터 제어를 한 모델로 끝까지 학습한다는 점을 강조하기 위해 자주 쓰입니다.
+
+---
+
+## 1. ACT — Action Chunking으로 정밀 양손 작업을
+
+📄 [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705) — Zhao 외, Stanford (2023)
+
+### 어떤 문제를 풀려고 했나
+
+Stanford의 Tony Zhao가 던진 질문은 이랬습니다.
+
+> "고가의 산업용 로봇 없이도, 저가 양팔 하드웨어와 사람 시연만으로 신발끈 묶기 같은 정밀 작업을 학습시킬 수 있을까?"
+
+이 질문 안에 두 개의 챌린지가 들어 있습니다.
+
+1. **하드웨어 챌린지** — 한 대에 수천만 원 하는 산업용 로봇 대신, 1만 달러 미만의 저가 양팔 시스템(ALOHA)을 직접 만듭니다.
+2. **알고리즘 챌린지** — 작은 오차가 누적돼 폭주하는 covariate shift 문제, 그리고 정밀 작업의 양자화 오차 문제를 해결합니다.
+
+ALOHA는 사람이 leader 팔 두 개를 직접 손으로 움직이면 follower 팔 두 개가 그대로 따라 움직이는 puppeteering 시스템입니다. 시연 수집이 빠르고 자연스러워, 50회 시연만으로도 task를 학습시킬 수 있는 데이터 효율을 만들어냈습니다.
+
+### 핵심 발상 1 — Action Chunking
+
+기존 BC는 "현재 관측 → 다음 1 step 행동"을 학습합니다. ACT는 이걸 바꿉니다.
+
+> "현재 관측 → **다음 k step 행동을 한꺼번에**"
+
+k는 보통 100 (50Hz 기준 약 2초). 즉 모델이 매번 100개의 행동을 한 번에 출력합니다. 이걸 **action chunking**이라 부릅니다.
+
+이게 어떻게 covariate shift를 줄여주냐면, BC는 매 step 작은 오차를 누적시키며 분포 밖으로 흘러가는 게 문제였습니다. 여러 step을 한꺼번에 예측하면 "한 번 결정한 짧은 계획대로 일단 끝까지 실행"하는 효과가 생기죠. 모델이 매 step마다 결정을 내리지 않으니 오차가 쌓이는 패턴 자체가 달라집니다.
+
+```mermaid
+flowchart LR
+    O["현재 관측<br/>(이미지·관절 상태)"] --> M["Transformer<br/>Encoder-Decoder"]
+    M --> A["다음 100 step의<br/>행동 시퀀스"]
+```
+
+### 핵심 발상 2 — Temporal Ensembling
+
+매 step마다 새로 100개를 예측하면, 시간 t에 대해 여러 번의 예측이 겹칩니다. (t-50 시점에서 예측한 t의 행동, t-49 시점의 예측, …, t 시점의 예측) ACT는 이 겹친 예측을 **지수가중평균**으로 합쳐 부드러운 행동을 만듭니다. 이게 **temporal ensembling**입니다.
+
+이 트릭이 두 가지를 동시에 해결합니다 — 행동의 지터(jitter)를 줄이고, 잘못된 예측 한 번에 휘둘리지 않게 합니다.
+
+### 핵심 발상 3 — CVAE로 시연의 다양성 흡수
+
+같은 task에 대한 사람의 시연도 매번 조금씩 다릅니다. ACT는 이 다양성을 학습 시점에 **CVAE(Conditional Variational AutoEncoder)** 의 latent variable로 흡수합니다.
+
+CVAE를 입문자 눈높이로 풀어보면 이렇습니다.
+
+> [!TERM]
+>
+> **VAE(Variational AutoEncoder)**
+>
+> 데이터를 잠재 변수(latent variable, z)라는 작은 벡터로 압축했다가 다시 복원하는 생성 모델입니다. z의 분포를 표준 정규분포에 맞추도록 학습해, 학습 후에는 z를 무작위로 뽑아 새로운 샘플을 생성할 수 있습니다.
+
+> [!TERM]
+>
+> **CVAE**
+>
+> VAE에 조건(condition) c를 추가한 버전입니다. p(x | c, z) 형태로, "조건 c가 주어졌을 때 z에 따라 다양한 x를 생성"합니다.
+
+ACT에서는 학습 시 시연의 행동 시퀀스를 z로 인코딩한 뒤, "관측 + z → 행동 시퀀스" 형태로 디코더를 학습합니다. **추론 시에는 z = 0으로 두고 가장 가능성 높은 행동만 뽑습니다.** z를 학습 단계에서만 쓰는 일종의 "다양성 흡수 장치"인 셈입니다. 덕분에 평균 행동의 어색함을 피하면서, 추론은 단순하게 유지됩니다.
+
+### 결과와 의의
+
+ALOHA + ACT는 50회 시연만으로 신발 신기기, AAA 배터리 끼우기, 컵 쌓기 같은 정밀 양손 작업을 80~90% 성공률로 해냈습니다. 이전까지 "고가 시뮬레이션과 거대 데이터가 필요하다"고 여겨지던 정밀 모방학습이 갑자기 손에 잡히는 영역으로 들어왔습니다.
+
+### VLA가 여기서 받은 것
+
+ACT의 두 핵심 — **action chunking**과 **k-step 예측** — 은 이후 거의 모든 VLA의 표준 옵션이 됩니다. π₀, OpenVLA-OFT 등이 다 chunk 기반 출력을 사용합니다. ACT가 없었다면 정밀 양손 VLA는 한참 더 늦었을 겁니다.
+
+또 ALOHA 하드웨어 자체가 오픈소스가 되면서, 이후 모든 양팔 VLA 연구의 사실상 표준 플랫폼이 됐습니다.
+
+> **요점**
+>
+> ACT는 "k step을 한꺼번에 예측해 covariate shift를 줄이고, CVAE로 시연 다양성을 흡수한다"는 두 트릭으로 정밀 모방학습의 문을 열었습니다.
+
+---
+
+## 2. Diffusion Policy — 행동 생성으로 다시 정의하다
+
+📄 [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) — Chi 외, Columbia·MIT·Toyota Research (2023)
+
+### 어떤 문제를 풀려고 했나
+
+ACT가 CVAE로 다양성을 흡수했다면, Diffusion Policy는 더 정면으로 질문을 던집니다.
+
+> "이미지 생성에서 잘 통한 diffusion model을 행동 생성에 그대로 가져오면 어떨까?"
+
+핵심은 같은 multimodal 문제입니다. 사람 시연이 여러 모드를 가질 때, 그 분포 자체를 학습해서 샘플링 시 적절한 모드를 골라 출력하자는 것입니다.
+
+### 핵심 발상 — Diffusion이 뭔가요
+
+Diffusion model을 입문자 눈높이로 풀어보면 이렇습니다.
+
+> [!TERM]
+>
+> **Diffusion Process**
+>
+> 깨끗한 데이터 x_0에 단계적으로 노이즈를 더해 결국 완전한 가우시안 노이즈 x_T로 만드는 forward 과정과, 그 반대로 노이즈에서 데이터를 단계적으로 복원하는 reverse 과정의 쌍입니다.
+
+> [!TERM]
+>
+> **학습**
+>
+> 모델은 "현재 노이즈 낀 데이터 x_t와 단계 정보 t가 주어졌을 때, 어떤 노이즈가 섞여 있는지" 또는 "노이즈를 한 단계 제거한 결과"를 예측하도록 학습합니다.
+
+> [!TERM]
+>
+> **샘플링**
+>
+> 무작위 노이즈 x_T에서 시작해, 학습된 모델로 t = T → 0까지 점진적으로 노이즈를 제거해 나가면 데이터 x_0이 만들어집니다. Stable Diffusion 같은 이미지 생성 모델이 정확히 이 방식으로 작동합니다.
+
+Diffusion Policy는 이 방식을 행동 시퀀스에 적용합니다.
+
+```mermaid
+flowchart LR
+    N["무작위 노이즈<br/>(행동 모양)"] --> D1["Denoise step 1"]
+    D1 --> D2["Denoise step 2"]
+    D2 --> Dot["..."]
+    Dot --> DT["Denoise step T"]
+    DT --> A["행동 시퀀스"]
+    O["관측<br/>(이미지·상태)"] -.조건.- D1
+    O -.조건.- D2
+    O -.조건.- DT
+```
+
+각 denoise step은 신경망 한 번의 forward pass입니다. 보통 50~100 step 정도로 추론합니다. 모델은 1D U-Net 또는 트랜스포머 구조를 씁니다.
+
+### 알아둘 용어 — U-Net과 1D U-Net
+
+**U-Net**은 의료 영상 분할용으로 2015년 등장한 신경망 구조로, 이름 그대로 U자 모양입니다. 입력을 점점 작은 해상도로 압축(downsample)했다가 다시 원래 크기로 펼치며(upsample), 같은 해상도의 압축·복원 단계 사이에 직접 연결(skip connection)을 두는 게 핵심입니다. Stable Diffusion 같은 이미지 diffusion 모델의 표준 구조이기도 합니다.
+
+**1D U-Net**은 이걸 1차원 시퀀스에 맞춰 변형한 버전입니다. 행동 시퀀스(예: T 시점 × N 차원의 시간축 데이터)를 시간 방향으로 압축·복원합니다. 시간적으로 가까운 행동들이 서로 영향을 주고받는 구조라, 부드러운 행동 시퀀스 생성에 잘 맞습니다.
+
+### 어떻게 multimodal이 자연스럽게 풀리는가
+
+Diffusion model의 손실 함수는 "노이즈를 잘 예측해라"입니다. 평균을 강제하지 않습니다. 학습된 후 다른 noise 시드로 샘플링하면 다른 모드의 행동이 자연스럽게 튀어나옵니다. 사람이 시연한 여러 경로를 평균내지 않고, 각 경로를 따로 살리며 그 중 하나를 뽑는 것이라고 보시면 됩니다.
+
+### 알아둘 용어 — Receding Horizon Control과의 결합
+
+Diffusion Policy도 ACT처럼 한 번에 k step의 행동을 출력합니다. 그리고 그 중 처음 몇 step만 실행하고 다시 새 관측으로 새로 샘플링합니다. **action chunking + receding horizon control** 조합이 여기서도 쓰입니다.
+
+### 알아둘 용어 — DDPM vs DDIM
+
+Diffusion Policy 코드를 읽다 보면 **DDPM**(Denoising Diffusion Probabilistic Models)과 **DDIM**(Denoising Diffusion Implicit Models)이라는 이름이 자주 등장합니다.
+
+- **DDPM** — 원조 diffusion 알고리즘. 학습 시 사용됩니다.
+- **DDIM** — 추론 속도를 높이는 변종. 학습 시 100 step으로 했던 denoising을 추론 시 10~20 step으로 압축할 수 있게 해줍니다. 실시간 로봇 제어에서 거의 항상 DDIM을 씁니다.
+
+### 알아둘 용어 — BeT와 LSTM-GMM
+
+논문이 비교한 두 baseline을 짚어 둡니다.
+
+- **BeT (Behavior Transformer)** — 2022년 NYU·Meta가 발표한 모델. 행동을 k개 클러스터로 묶어 "어느 클러스터의 행동인지(분류) + 클러스터 내 미세 보정(회귀)"의 두 단계로 출력합니다. 평균 행동의 어색함을 클러스터 단위로 푸는 한 시도입니다.
+- **LSTM-GMM** — LSTM(시계열 신경망)이 행동을 출력하되, 단일 평균 대신 여러 가우시안의 혼합(Gaussian Mixture Model)을 출력해 multimodal을 표현하는 방식입니다.
+
+두 방법 모두 multimodal에 신경 썼지만, 실제 정밀 작업에서는 분포를 직접 학습하는 diffusion에 미치지 못했습니다.
+
+### 결과와 의의
+
+Diffusion Policy는 11개 task에서 state-of-the-art를 큰 폭으로 갱신했습니다. 특히 사람의 미세한 손목 회전이나 두 손이 협동하는 정교한 task에서 BC·BeT·LSTM-GMM 같은 기존 방법을 압도했습니다.
+
+### VLA가 여기서 받은 것
+
+Diffusion Policy의 영향은 정말 깊고 넓습니다.
+
+- **Octo (2024)** — Diffusion Policy의 action head를 generalist 정책에 그대로 채택
+- **RDT-1B (2024)** — diffusion 기반의 1B 양팔 VLA
+- **π₀ (2024)** — diffusion의 사촌인 **flow matching**을 action expert에 사용
+
+VLA 분야에서 "행동을 어떻게 출력할 것인가"의 답은 크게 두 흐름으로 갈리는데, 하나가 RT-1·RT-2·OpenVLA의 **discrete token** 방식이고 다른 하나가 Diffusion Policy의 직계인 **denoising / flow** 방식입니다. 후자의 출발점이 바로 이 논문입니다.
+
+> **요점**
+>
+> Diffusion Policy는 "행동 분포 자체를 생성 모델로 학습한다"는 발상을 모방학습에 처음 본격적으로 도입한 논문입니다.
+
+---
+
+## 3. Mobile ALOHA — 가사 작업까지 데려가다
+
+📄 [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://arxiv.org/abs/2401.02117) — Fu 외, Stanford (2024)
+
+### 어떤 문제를 풀려고 했나
+
+ALOHA는 책상 위 작업에 한정됐습니다. 그런데 사람의 일상은 책상 위에서만 일어나지 않습니다 — 부엌에서 새우를 볶고, 거실 의자를 옮기고, 엘리베이터 버튼을 누릅니다. 이런 **mobile manipulation**(이동하면서 조작)으로 모방학습을 확장하려면 새로운 하드웨어와 새로운 데이터 수집 방법이 필요합니다.
+
+### 핵심 발상 — Whole-Body Teleoperation
+
+Mobile ALOHA는 ALOHA 양팔 시스템에 바퀴 베이스를 달고, 사람이 양팔을 puppeteering 하는 동안 발로 베이스 이동까지 제어할 수 있게 만들었습니다. **상반신과 하반신을 한 사람이 동시에 시연**하는 시스템이죠.
+
+이 한 가지 변경이 데이터 수집의 차원을 바꿔놓습니다. 이제 부엌을 돌아다니며 새우를 볶는 것 같은 long-horizon mobile task도 자연스럽게 시연할 수 있게 됐습니다.
+
+### 핵심 발상 — Co-training
+
+Mobile ALOHA는 정책 학습에서 또 한 가지 중요한 트릭을 보여줍니다. **기존 ALOHA의 정적 task 데이터와 새로 수집한 mobile task 데이터를 함께 학습(co-training)** 하는 것입니다.
+
+새 task의 데이터는 보통 적은데(~50회), 기존 데이터를 함께 보면 정적 양팔 조작에 대한 사전 지식이 새 task에도 전이됩니다. Mobile ALOHA는 50회 시연만으로 새우 볶기, 의자 옮기기 같은 작업을 90% 성공률로 해냈습니다.
+
+### VLA가 여기서 받은 것
+
+Mobile ALOHA의 영향은 두 가지입니다.
+
+1. **데이터 수집의 패러다임을 확장**했습니다. 모방학습이 더 이상 책상 위 작업에 갇힌 분야가 아니라는 것을 보여줬습니다.
+2. **co-training**이라는 트릭이 이후 π₀.₅의 핵심 학습 전략 중 하나가 됩니다. 한 모델 안에 다양한 출처의 데이터를 함께 부어 일반화를 끌어내는 방식이 표준이 되어 갑니다.
+
+또 SNS에서 Mobile ALOHA가 새우를 볶는 영상이 화제가 되면서, "모방학습이 진짜 가능하구나"의 공감대를 일반 대중까지 넓힌 시점이기도 합니다.
+
+> **요점**
+>
+> Mobile ALOHA는 ALOHA를 mobile로 확장하면서, co-training이라는 다음 단계로 가는 학습 전략까지 함께 제시한 논문입니다.
+
+---
+
+## 정리 — 모방학습의 두 길
+
+이 시기 모방학습에서 "행동을 어떻게 출력할 것인가"에 대한 답이 둘로 갈라집니다.
+
+| 접근 | 대표 모델 | 핵심 발상 | 장단점 |
+|---|---|---|---|
+| Action Chunking + 회귀 | ACT | k step 행동을 한 번에, CVAE로 다양성 흡수 | 추론이 빠름, multimodal은 약함 |
+| Diffusion / Generation | Diffusion Policy | 행동 분포 자체를 생성 모델로 학습 | multimodal에 강함, 추론이 느림 |
+
+이후 VLA들은 두 길을 다양하게 변주합니다. RT-2·OpenVLA는 ACT 계열을 변형한 discrete token 방식, π₀·RDT-1B는 Diffusion Policy 계열을 변형한 generation 방식입니다.
+
+```mermaid
+flowchart LR
+    AC["Action Chunking 길<br/>(ACT)"] --> RT2["RT-2, OpenVLA<br/>(discrete token)"]
+    DP["Diffusion 길<br/>(Diffusion Policy)"] --> PI["π₀, RDT-1B<br/>(continuous generation)"]
+    AC --> ML["Mobile ALOHA<br/>(co-training 도입)"]
+    ML --> PIH["π₀.₅<br/>(co-training 핵심)"]
+```
+
+### 한 줄 요약
+
+> **이 시기에 모방학습은 "정밀하게 만든다"와 "행동 분포를 잘 표현한다"는 두 숙제를 동시에 풀었고, 그 답이 오늘날 VLA의 두 갈래 길이 됐습니다.**
+
+이제 무대가 한 번 더 바뀝니다. 다음 글에서는 이 모방학습의 토대 위에 **거대 VLM의 인터넷 지식**이 합류하면서 본격적으로 "VLA"라는 이름이 자리잡는 순간을 살펴봅니다.
+
+---
+
+## 다음 글 안내
+
+- 짝꿍 실습 → [[실습] ACT·Diffusion Policy를 LeRobot으로](/blog/AI/VLA/precision-imitation-practice)
+- 다음 글 → [VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat](/blog/AI/VLA/vla-is-born)
+- 이전 글 → [모방학습의 시작 — BC-Z, Gato, RT-1](/blog/AI/VLA/imitation-learning-foundations)
+- 시리즈 전체 지도 → [VLA 학습 로드맵](/blog/AI/VLA/intro)
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA\",\"description\":\"RT-1 시기까지의 모방학습이 풀지 못한 정밀한 양손 작업과 행동 다양성 문제를, ACT와 Diffusion Policy가 어떻게 푸는지 살펴봅니다.\",\"image\":\"https://woolimi.github.io/og?title=정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA\",\"url\":\"https://woolimi.github.io/blog/AI/VLA/precision-imitation\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"}],["$","article",null,{"children":["$","$L1d",null,{"children":"$1e"}]}]]}]}]
+9:null
+e:[["$","title","0",{"children":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA | 박우림"}],["$","meta","1",{"name":"description","content":"RT-1 시기까지의 모방학습이 풀지 못한 정밀한 양손 작업과 행동 다양성 문제를, ACT와 Diffusion Policy가 어떻게 푸는지 살펴봅니다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"}],["$","meta","6",{"property":"og:description","content":"RT-1 시기까지의 모방학습이 풀지 못한 정밀한 양손 작업과 행동 다양성 문제를, ACT와 Diffusion Policy가 어떻게 푸는지 살펴봅니다."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/AI/VLA/precision-imitation"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=%EC%A0%95%EB%B0%80%20%EB%AA%A8%EB%B0%A9%ED%95%99%EC%8A%B5%EC%9D%98%20%EB%91%90%20%EA%B8%B8%20%E2%80%94%20ACT,%20Diffusion%20Policy,%20Mobile%20ALOHA"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"}],["$","meta","12",{"name":"twitter:description","content":"RT-1 시기까지의 모방학습이 풀지 못한 정밀한 양손 작업과 행동 다양성 문제를, ACT와 Diffusion Policy가 어떻게 푸는지 살펴봅니다."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=%EC%A0%95%EB%B0%80%20%EB%AA%A8%EB%B0%A9%ED%95%99%EC%8A%B5%EC%9D%98%20%EB%91%90%20%EA%B8%B8%20%E2%80%94%20ACT,%20Diffusion%20Policy,%20Mobile%20ALOHA"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1f","19",{}]]
+20:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+19:["$","$L20",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L20",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L20",null,{"ref":null,"href":"/ko/blog/AI","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L20",null,{"ref":null,"href":"/ko/blog/AI/VLA","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

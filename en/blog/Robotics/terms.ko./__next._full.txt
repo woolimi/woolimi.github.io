@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/2tlxvxm6wa1ik.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","en","blog","Robotics","terms.ko."],"q":"","i":false,"f":[[["",{"children":[["locale","en","d",null],{"children":["blog",{"children":[["slug","Robotics/terms.ko.","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2tlxvxm6wa1ik.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3get_lhqa15rg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1h5524slst_qv.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0gu-kwreyedfq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2evnbn3j6stft.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"daYSb-F_eN6guYM3z_tND"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeDesktop"]
+13:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeMobile"]
+4:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"}]},{"name":"claude","type":"folder","path":"claude","children":[{"name":"00.setup.md","type":"file","path":"claude/00.setup.md","slug":"claude/setup","locale":"$undefined","title":"claude 코드로 sudo"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]}],"locale":"en","className":"hidden w-64 shrink-0 lg:block"}],["$","div",null,{"className":"lg:hidden","children":["$","$L13",null,{"tree":"$5:props:children:1:props:tree","locale":"en"}]}]]}]
+14:I[333052,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+15:I[728231,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+16:I[663780,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+17:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+1b:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+11:["$","$L14",null,{"formats":"$undefined","locale":"en","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"Projects I've worked on during my professional career.","viewAll":"View All","noProjects":"No projects yet."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"Personal projects I've built in my spare time. Here are a few of my favorites.","viewAll":"View All","noProjects":"No projects yet.","pageTitle":"Personal Projects"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"Projects I've worked on during my academic journey.","viewAll":"View All","noProjects":"No projects yet."},"AboutEcole42":{"title":"What is Ecole42?","description":"Ecole42 is a programming education institution located in Paris, France, that adopts a peer-to-peer learning approach without traditional classes or professors. Students autonomously learn various fields from C programming to the fundamentals of AI, developing practical skills through project-based education. Students from diverse nationalities around the world study together, emphasizing collaboration and knowledge sharing in this unique learning environment."},"Projects":{"pageTitle":"Projects","description":"Browse projects by category"},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"Projects I've worked on during hackathons.","viewAll":"View All","noHackathons":"No hackathons yet.","pageTitle":"Hackathons"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L15",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L16",null,{}]]}]}]
+1c:T2a93,
+## 기구학 (Kinematics)
+
+- **manipulators**: 인간의 팔과 유사하게 관절과 링크로 연결되어 물체를 잡거나 이동시키는 기계적 장치(로봇 팔)
+- **end-effector (끝단 장치)**: 로봇 팔의 맨 끝에 달리는 툴. 그리퍼, 용접 토치, 드릴 등 작업 목적에 따라 교체
+- **DOF — Degrees of Freedom (자유도)**: 로봇이 독립적으로 움직일 수 있는 방향의 수. 6-DOF 팔은 3차원 공간에서 위치(x,y,z)와 방향(roll,pitch,yaw) 모두 제어 가능
+- **joint space (관절 공간)**: 각 관절의 회전 각도나 이동 거리로 로봇 상태를 표현하는 공간. 모터가 실제로 제어하는 공간
+- **Cartesian space (직교 좌표 공간)**: end-effector의 위치(x,y,z)와 방향(roll,pitch,yaw)으로 상태를 표현하는 공간. 사람이 명령을 내릴 때 쓰는 직관적 공간
+- **forward kinematics — FK (순기구학)**: 관절 각도를 알 때 end-effector의 위치/방향을 계산. 입력 → 관절값, 출력 → 끝단 자세. 항상 유일한 해가 존재
+- **inverse kinematics — IK (역기구학)**: end-effector의 목표 위치/방향을 알 때 필요한 관절 각도를 역으로 계산. 해가 여러 개이거나 없을 수 있어 FK보다 어려움
+- **workspace (작업 공간)**: 로봇 팔이 도달할 수 있는 3차원 공간의 범위
+- **singularity (특이점)**: 특정 자세에서 Jacobian 행렬의 행렬식이 0이 되어 역기구학 해가 무한히 많거나 존재하지 않는 상태. 이 자세 근처에서 모터 토크가 급격히 커짐
+- **Jacobian matrix (야코비안 행렬)**: 관절 속도와 end-effector 속도 사이의 선형 변환 행렬. 역기구학, 특이점 분석, 힘 전달 계산에 핵심
+- **DH parameters (Denavit-Hartenberg 파라미터)**: 연속된 관절과 링크의 기하학적 관계를 4개 파라미터(a, d, α, θ)로 표준화해 표현하는 방법
+
+---
+
+## 동역학 (Dynamics)
+
+- **torque (토크)**: 회전축에 작용하는 회전력. 단위 Nm. 다관절 로봇에서 모터가 각 관절에 가하는 힘
+- **inertia / moment of inertia (관성 모멘트)**: 물체가 회전 운동을 유지하려는 저항. 질량이 회전축으로부터 멀수록 커짐. 빠른 움직임을 위해서는 링크 설계 시 관성 최소화 필요
+- **center of mass — CoM (무게중심)**: 물체의 질량이 균등하게 분포한다고 볼 수 있는 가상의 점. 중력보상 계산의 기준점
+- **gravity torque (중력 토크)**: 각 관절에서 중력이 만들어내는 회전력. τ = mgl·cos(θ). 자세마다 값이 달라짐
+- **gravity compensation (중력보상)**: 관절에 걸리는 중력 토크를 기계적 장치나 제어 알고리즘으로 상쇄하는 기술
+- **Newton-Euler equation**: 힘과 토크의 균형 방정식으로 각 링크에 작용하는 힘과 모멘트를 재귀적으로 계산하는 동역학 공식
+- **Lagrangian dynamics (라그랑지안 동역학)**: 운동에너지와 위치에너지의 차(라그랑지안)를 이용해 로봇의 운동 방정식을 유도하는 방법. Newton-Euler 대비 수식이 체계적
+- **equation of motion (운동방정식)**: `M(q)q̈ + C(q,q̇)q̇ + G(q) = τ`. M=관성행렬, C=코리올리/원심력, G=중력 항, τ=관절 토크
+- **Coriolis force (코리올리 힘)**: 회전하는 좌표계에서 운동하는 물체에 작용하는 가상의 힘. 빠르게 움직이는 다관절 로봇에서 무시할 수 없는 동역학 항
+
+---
+
+## 제어 이론 (Control)
+
+- **PID control**: 위치 오차(P), 오차 적분(I), 오차 미분(D)을 조합한 고전 제어기. 단순하고 강건하지만 비선형 동역학에는 한계
+- **PD control**: PID에서 I 항을 제거한 제어기. 로봇 관절 제어에서 정착 시간을 짧게 유지하면서 안정적으로 사용. 중력보상과 함께 쓰이면 정적 오차도 제거 가능
+- **feedforward control (피드포워드)**: 센서 피드백 없이 미리 알고 있는 모델(중력, 마찰 등)을 기반으로 제어 입력을 사전에 추가하는 방식. 반응 속도가 빠름
+- **feedback control (피드백)**: 센서로 현재 상태를 측정해 목표값과의 오차를 줄이는 방향으로 제어 입력을 조정하는 방식. 모델 오차와 외란에 강건
+- **MIT hybrid control**: 위치 오차에 대한 PD 제어와 피드포워드 토크를 결합한 구조. `τ = Kp(θ_des−θ) + Kd(θ̇_des−θ̇) + τ_ff`. MIT Mini Cheetah에서 사용
+- **impedance control (임피던스 제어)**: 로봇 end-effector가 환경과 접촉할 때 힘과 변위의 관계(강성·감쇠·관성)를 제어하는 방식. 유연한 물리적 상호작용에 적합
+- **admittance control (어드미턴스 제어)**: 외부에서 가해진 힘을 입력받아 원하는 움직임을 생성하는 제어. 임피던스 제어의 쌍대(dual). 힘 센서 대신 모터 전류로 구현하기도 함
+- **compliance control (컴플라이언스 제어)**: 로봇이 외부 힘에 유연하게 반응하도록 강성(stiffness)을 의도적으로 낮추는 제어 방식. 사람과 협동 로봇에서 안전성 확보에 핵심
+- **stiffness (강성) Kp**: 스프링 상수와 유사. 위치 오차 1rad당 발생시키는 토크(Nm/rad). 높을수록 정확하지만 충격에 취약
+- **damping (감쇠) Kd**: 속도 오차에 비례해 브레이크처럼 작용하는 계수. 진동 억제와 안정성 확보. MIT 제어기에서 Kd에 해당
+- **state space (상태 공간)**: 시스템의 현재 상태를 벡터(위치, 속도 등)로 표현하고 상태 전이를 행렬 방정식으로 나타내는 현대 제어 이론의 기반
+- **Lyapunov stability (리아푸노프 안정성)**: 에너지 함수(Lyapunov function)를 이용해 시스템이 평형점으로 수렴하는지 수학적으로 증명하는 안정성 분석 기법
+
+---
+
+## 기계 설계 (Mechanical Design)
+
+- **actuators (액추에이터)**: 전기·공압·유압 에너지를 받아 기계적 움직임과 힘으로 변환하는 구동 장치. 로봇의 '근육' 역할
+- **gear ratio (감속비)**: 모터 회전수를 줄이고 토크를 높이는 비율. 100:1이면 모터가 100회전할 때 출력축 1회전, 토크는 100배
+- **backdrivability (백드라이빙)**: 외부 힘으로 모터를 역방향으로 돌릴 수 있는 특성. 감속비가 낮을수록 좋음. 중력보상·충돌감지·햅틱에 필수
+- **Quasi-Direct Drive — QDD (준직접구동)**: 감속비를 극히 낮게(약 6:1) 설계해 높은 백드라이빙과 힘 투명성을 확보한 구동 방식. MIT Mini Cheetah의 핵심
+- **harmonic drive (하모닉 드라이브)**: 유연한 금속 컵(flexspline)의 탄성 변형을 이용한 감속기. 감속비 50~300:1, 백래시 거의 0, 고정밀. 하지만 백드라이빙 불량
+- **planetary gear (유성기어)**: 선기어·유성기어·링기어로 구성된 컴팩트한 감속기. 토크 전달 효율 높고 동심축 구조. 산업용 로봇에 광범위하게 사용
+- **backlash (백래시)**: 기어 이빨 사이의 유격. 방향 전환 시 미세한 위치 오차 발생. 정밀 제어의 적
+- **series elastic actuator — SEA**: 모터와 출력축 사이에 스프링을 삽입한 액추에이터. 스프링 변형으로 힘을 간접 측정하고 유연성 확보. 착용 로봇·재활 로봇에 적합
+- **parallel mechanism (병렬 기구)**: 고정 베이스와 end-effector를 여러 개의 팔(다리)로 동시에 연결한 구조. 강성 높고 고속·고정밀에 유리. 예: 델타 로봇
+- **serial mechanism (직렬 기구)**: 관절-링크가 순차적으로 연결된 일반적인 로봇 팔 구조. 작업 공간 넓고 구조 단순하지만 강성은 병렬보다 낮음
+
+---
+
+## 센서 (Sensors)
+
+- **encoder (엔코더)**: 모터 샤프트의 회전각과 속도를 측정하는 센서. 절대형(absolute)과 증분형(incremental)으로 구분. 관절 제어의 핵심 피드백 소스
+- **IMU — Inertial Measurement Unit (관성 측정 장치)**: 3축 가속도계 + 3축 자이로스코프 조합. 기울기·각속도·선가속도 측정. 이족보행·드론 자세 추정에 필수
+- **force/torque sensor (힘/토크 센서)**: end-effector에 가해지는 3축 힘(Fx,Fy,Fz)과 3축 모멘트(Mx,My,Mz)를 측정. 조립·연마·햅틱 피드백에 사용. 고가
+- **LiDAR**: 레이저 펄스를 발사하고 반사 시간을 측정해 주변 환경의 3D 포인트 클라우드 생성. 자율주행·이동 로봇의 지도 작성(SLAM)에 핵심
+- **depth camera (뎁스 카메라)**: 구조광 또는 ToF(Time of Flight) 방식으로 각 픽셀의 거리를 측정해 RGB+Depth 이미지 생성. Intel RealSense, Azure Kinect 등
+- **load cell (로드셀)**: 변형 게이지(strain gauge)를 이용해 압축·인장 방향의 힘을 측정하는 센서. 그리퍼 파지력 측정, 착용 로봇 지면 반력 측정에 사용
+
+---
+
+## 모빌리티 / 이동 (Mobility)
+
+- **odometry (오도메트리)**: 바퀴 회전량이나 관절 변화량을 누적해 로봇 위치를 추정하는 방법. 누적 오차(drift) 발생
+- **SLAM — Simultaneous Localization and Mapping**: 미지의 환경에서 로봇이 자신의 위치를 추정(localization)하면서 동시에 지도를 작성(mapping)하는 기술
+- **gait (걸음걸이)**: 이족·사족 보행 로봇의 발 디딤 순서와 타이밍 패턴. trot(대각선 동시), gallop, walk 등. 속도와 안정성 트레이드오프
+- **ZMP — Zero Moment Point (영모멘트점)**: 지면 반력의 합력이 작용하는 점. ZMP가 지지 다각형(support polygon) 안에 있을 때 정적 안정. 이족보행 제어의 고전적 기준
+- **support polygon (지지 다각형)**: 지면과 접촉하는 발 위치를 꼭짓점으로 하는 다각형. CoM의 투영점이 이 안에 있어야 넘어지지 않음
+
+---
+
+## 파라미터 식별 (Parameter Identification)
+
+- **parameter identification (파라미터 식별)**: 로봇의 질량·무게중심·관성 모멘트·마찰 계수 등 동역학 파라미터를 실측 데이터로부터 역산하는 과정
+- **regressor matrix (레그레서 행렬)**: 로봇 동역학 방정식을 `Y(q,q̇,q̈)·π = τ` 형태로 변환한 행렬. Y는 측정 가능한 운동학 항, π는 식별할 파라미터 벡터
+- **least squares — LS (최소자승법)**: 측정값과 모델 예측값 사이의 오차 제곱합을 최소화해 최적 파라미터를 추정하는 방법. `π = (AᵀA)⁻¹AᵀY`
+- **weighted least squares — WLS (가중 최소자승법)**: 신뢰도 낮은 측정값에 낮은 가중치를 부여해 아웃라이어 영향을 억제한 최소자승법
+- **excitation trajectory (가진 궤적)**: 동적 식별에서 모든 동역학 파라미터가 잘 드러나도록 설계된 최적 운동 경로. 정현파 조합으로 구성
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L17",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L18"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"용어정리"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"용어정리\",\"description\":\"로보틱스 주요 용어 정리.\",\"image\":\"https://woolimi.github.io/og?title=용어정리\",\"url\":\"https://woolimi.github.io/blog/Robotics/terms.ko.\",\"author\":{\"@type\":\"Person\",\"name\":\"Woolim Park\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"용어정리"}],["$","article",null,{"children":["$","$L1b",null,{"children":"$1c"}]}]]}]}]
+1d:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+18:["$","$L1d",null,{"ref":null,"href":"/en","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+19:["$","$L1d",null,{"ref":null,"href":"/en/blog","locale":"$undefined","localeCookie":"$18:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L1d",null,{"ref":null,"href":"/en/blog/Robotics","locale":"$undefined","localeCookie":"$18:props:localeCookie","prefetch":false,"children":"Robotics","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"용어정리 | Woolim Park"}],["$","meta","1",{"name":"description","content":"로보틱스 주요 용어 정리."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"용어정리"}],["$","meta","6",{"property":"og:description","content":"로보틱스 주요 용어 정리."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/Robotics/terms.ko."}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"용어정리"}],["$","meta","12",{"name":"twitter:description","content":"로보틱스 주요 용어 정리."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1e","19",{}]]

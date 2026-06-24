@@ -1,0 +1,226 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+d:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+f:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/VLA","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기\",\"description\":\"1편에서 다룬 Transformer·ViT·CLIP을 PyTorch와 HuggingFace로 직접 실행해 봅니다. 모델 다운로드부터 결과 해석까지.\",\"image\":\"https://woolimi.github.io/og?title=[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기\",\"url\":\"https://woolimi.github.io/blog/AI/VLA/before-vla-practice\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"daYSb-F_eN6guYM3z_tND"}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기"}]
+e:T1c98,
+## 들어가며
+
+[1편](/blog/AI/VLA/before-vla)에서 다룬 네 편의 논문 중 셋(Transformer, ViT, CLIP)은 사전학습 모델이 잘 풀려 있어 누구나 노트북에서 돌려볼 수 있습니다. 이 실습 글은 1편의 개념을 손에 잡히는 코드로 옮겨 보는 자리입니다.
+
+이번 글에서 직접 굴려볼 세 가지는 다음과 같습니다.
+
+1. **Self-Attention 직접 구현** — Q·K·V 한 줄 수식이 정말 그렇게 작동하는지 PyTorch 30줄로 확인
+2. **ViT로 이미지 분류** — 사전학습된 ViT-Base 모델로 ImageNet 클래스 추론
+3. **CLIP zero-shot 분류** — 학습 없이 임의의 분류 문제 풀어보기
+
+> GPU 없어도 OK입니다. CPU만으로도 모두 돌아갑니다 (조금 느릴 뿐).
+
+---
+
+## 0. 환경 준비
+
+Python 3.10 이상 환경에서 다음 패키지를 설치합니다.
+
+```bash
+pip install torch torchvision transformers Pillow requests
+```
+
+설치 확인:
+
+```python
+import torch
+print(torch.__version__)          # 2.x
+print(torch.cuda.is_available())  # GPU 있으면 True
+```
+
+CPU만 있어도 이 글의 코드는 모두 작동합니다.
+
+---
+
+## 1. Self-Attention 30줄로 직접 만들기
+
+[1편의 핵심 수식 한 줄](/blog/AI/VLA/before-vla)을 PyTorch로 옮겨봅니다.
+
+```python
+import torch
+import torch.nn.functional as F
+from math import sqrt
+
+def self_attention(x, W_q, W_k, W_v):
+    """
+    x: (batch, seq_len, d_model) — 입력 토큰
+    W_q, W_k, W_v: (d_model, d_k) — Query·Key·Value 변환 행렬
+    반환: (batch, seq_len, d_k) — attention 적용된 새 표현
+    """
+    Q = x @ W_q  # (batch, seq_len, d_k)
+    K = x @ W_k
+    V = x @ W_v
+
+    d_k = K.shape[-1]
+    scores = Q @ K.transpose(-2, -1) / sqrt(d_k)  # (batch, seq_len, seq_len)
+    weights = F.softmax(scores, dim=-1)
+    return weights @ V
+
+# 길이 4의 시퀀스, 차원 8로 테스트
+torch.manual_seed(0)
+x = torch.randn(1, 4, 8)
+W_q = torch.randn(8, 8)
+W_k = torch.randn(8, 8)
+W_v = torch.randn(8, 8)
+
+out = self_attention(x, W_q, W_k, W_v)
+print(out.shape)  # torch.Size([1, 4, 8])
+```
+
+### 결과 해석
+
+`scores`는 `(seq_len, seq_len)` 행렬입니다 — 각 토큰이 다른 모든 토큰과 얼마나 관련 있는지의 점수표입니다. softmax로 합 1로 만들면 attention 가중치가 되고, 이 가중치로 Value를 합하면 새 토큰 표현이 나옵니다.
+
+이게 1편에서 본 수식 그대로입니다. 30줄로 트랜스포머의 심장이 끝납니다.
+
+> 한 단계 더 들어가 보고 싶다면 `weights`를 출력해 보세요. (4, 4) 행렬에서 각 행은 한 토큰이 다른 토큰들에 얼마나 주의를 기울이는지의 분포입니다.
+
+---
+
+## 2. ViT로 이미지 분류
+
+이번엔 사전학습된 ViT-Base 모델로 실제 이미지를 분류합니다.
+
+```python
+from transformers import ViTImageProcessor, ViTForImageClassification
+from PIL import Image
+import requests
+
+# 사전학습 모델 다운로드 (첫 실행 시 ~350MB)
+processor = ViTImageProcessor.from_pretrained("google/vit-base-patch16-224")
+model = ViTForImageClassification.from_pretrained("google/vit-base-patch16-224")
+
+# 테스트 이미지 (COCO val에서)
+url = "http://images.cocodataset.org/val2017/000000039769.jpg"
+image = Image.open(requests.get(url, stream=True).raw)
+
+# 전처리 → 추론
+inputs = processor(images=image, return_tensors="pt")
+with torch.no_grad():
+    outputs = model(**inputs)
+
+# 결과 해석
+predicted_idx = outputs.logits.argmax(-1).item()
+print(model.config.id2label[predicted_idx])
+```
+
+상위 5개도 함께 봅니다.
+
+```python
+probs = F.softmax(outputs.logits, dim=-1)
+top5 = probs[0].topk(5)
+for p, idx in zip(top5.values, top5.indices):
+    print(f"{p.item()*100:5.1f}% — {model.config.id2label[idx.item()]}")
+```
+
+### 결과 해석
+
+이미지가 16×16 패치 196개로 잘려 토큰 시퀀스가 되고, 12층의 트랜스포머를 거쳐 1,000개 ImageNet 클래스 중 하나로 분류됩니다. CNN 없이 순수 트랜스포머만으로 작동하죠.
+
+상위 5개를 보면 모델이 비슷한 카테고리(예: 여러 종류의 고양이) 사이에서 어떻게 망설이는지 보입니다. 이게 모델의 "확신 정도"를 가늠하는 단서입니다.
+
+---
+
+## 3. CLIP Zero-shot 분류
+
+이번엔 학습 없이 임의의 분류 문제를 풀어봅니다. CLIP의 진짜 강점입니다.
+
+```python
+from transformers import CLIPProcessor, CLIPModel
+
+processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
+model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
+
+# 같은 이미지, 임의의 후보 텍스트
+candidates = [
+    "a photo of a cat",
+    "a photo of a dog",
+    "a photo of a robot arm",
+    "a photo of a sandwich",
+]
+
+inputs = processor(
+    text=candidates,
+    images=image,
+    return_tensors="pt",
+    padding=True,
+)
+with torch.no_grad():
+    outputs = model(**inputs)
+
+# logits_per_image: (1, len(candidates))
+probs = outputs.logits_per_image.softmax(dim=-1)
+for label, p in zip(candidates, probs[0]):
+    print(f"{p.item()*100:5.1f}% — {label}")
+```
+
+### 결과 해석
+
+CLIP은 ImageNet의 고정된 1,000개 클래스에 묶여 있지 않습니다. **여러분이 원하는 텍스트면 무엇이든** 후보로 줄 수 있습니다. 결과는 대략 이런 모양이 됩니다.
+
+```
+85.2% — a photo of a cat
+12.3% — a photo of a dog
+ 1.8% — a photo of a robot arm
+ 0.7% — a photo of a sandwich
+```
+
+이 결과가 나오는 이유는 CLIP이 4억 쌍의 (이미지, 캡션)으로 학습되면서 이미지 인코더와 텍스트 인코더가 같은 의미 공간을 공유하게 됐기 때문입니다. "cat" 텍스트의 임베딩이 고양이 사진의 임베딩과 가까워서, 코사인 유사도로 자연스럽게 매칭됩니다.
+
+### 응용 — 로봇 장면에 적용해 보기
+
+후보 텍스트를 로봇 작업 장면으로 바꿔 실험해 볼 수 있습니다.
+
+```python
+candidates = [
+    "a robot arm picking up an object",
+    "a robot arm placing an object",
+    "a robot arm idle",
+    "an empty workspace",
+]
+```
+
+이 발상이 그대로 VLA의 "자연어로 시각을 제어한다"는 능력의 출발점입니다. CLIP의 텍스트 인코더가 만든 의미 공간이 후속 VLM, 그리고 VLA의 백본으로 이어집니다.
+
+---
+
+## 정리
+
+이 한 시간의 실습으로 1편의 개념을 손으로 만져봤습니다.
+
+| 실습 | 손에 잡힌 개념 |
+|---|---|
+| Self-attention 30줄 | Q·K·V 수식 한 줄의 정체 |
+| ViT 추론 | 이미지를 패치 토큰으로 다룬다 |
+| CLIP zero-shot | 텍스트와 이미지가 같은 의미 공간 |
+
+Transformer·ViT·CLIP의 동작이 손에 잡히면, 이 셋 위에 쌓이는 RT-2·OpenVLA·π₀의 코드도 훨씬 친숙하게 읽힙니다.
+
+다음 실습 글에서는 [3편 — 정밀 모방학습](/blog/AI/VLA/precision-imitation)의 ACT·Diffusion Policy를 LeRobot으로 굴려봅니다. PushT 시뮬레이션에서 사전학습 모델로 행동을 생성하는 흐름입니다.
+
+---
+
+## 다음 글 안내
+
+- 다음 실습 → [[실습] 정밀 모방학습 — ACT·Diffusion Policy를 LeRobot으로](/blog/AI/VLA/precision-imitation-practice)
+- 본문 글 → [VLA 이전의 시간](/blog/AI/VLA/before-vla)
+- 시리즈 전체 지도 → [VLA 학습 로드맵](/blog/AI/VLA/intro)
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

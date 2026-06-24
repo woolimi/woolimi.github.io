@@ -1,0 +1,291 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+6:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+c:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+e:I[705972,[],"default",1]
+:HL["/_next/static/chunks/2tlxvxm6wa1ik.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","projects","schools","shoppinkki"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["projects",{"children":["schools",{"children":[["id","shoppinkki","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2tlxvxm6wa1ik.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3get_lhqa15rg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1h5524slst_qv.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1lpn1mp4sio72.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0-ovh1y-z2kw9.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1yqggallc2eph.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/05delksreef4f.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null]},null,false,"$@9"],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"daYSb-F_eN6guYM3z_tND"}
+f:[]
+9:"$Wf"
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L10"}]]}]
+11:I[333052,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+12:I[728231,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+13:I[663780,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+10:["$","$L11",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L12",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L13",null,{}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1lpn1mp4sio72.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js"],"BlurFade"]
+17:I[729227,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1lpn1mp4sio72.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js"],"Image"]
+5:["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L14",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L15"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L16"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트\",\"description\":\"쑈삥끼는 Pinky Pro 로봇이 고객을 인식·추종하고 LLM 기반 상품 안내, QR 결제, 자동 도크 복귀까지 처리하는 미니어처 마트용 자율주행 스마트 카트입니다.\",\"image\":\"https://woolimi.github.iohttps://images.prismic.io/woolimi/ad2s651ZCF7ETKAw_shoppinkki-main.png?auto=format,compress\",\"url\":\"https://woolimi.github.io/projects/schools/shoppinkki\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"focus:ring-ring rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none text-foreground mb-2 inline-flex w-fit items-center gap-1.5","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-graduation-cap size-3.5","aria-hidden":"true","children":[["$","path","j76jl0",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}],["$","path","1lu8f3",{"d":"M22 10v6"}],["$","path","1r8lef",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5"}],"$undefined"]}],["$","span",null,{"children":"addinedu"}]]}],false,["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트"}],["$","$L17",null,{"src":"https://images.prismic.io/woolimi/ad2s651ZCF7ETKAw_shoppinkki-main.png?auto=format,compress","alt":"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],["$","p",null,{"className":"text-base leading-relaxed","children":"쑈삥끼는 Pinky Pro 로봇이 고객을 인식·추종하고 LLM 기반 상품 안내, QR 결제, 자동 도크 복귀까지 처리하는 미니어처 마트용 자율주행 스마트 카트입니다."}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"ROS 2 Jazzy"}],"$L18","$L19","$L1a","$L1b","$L1c"]}],"$L1d"]}],"$L1e"]}]}]
+1f:I[347816,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1lpn1mp4sio72.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js"],"ProjectLinkButton"]
+20:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1lpn1mp4sio72.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js"],"MarkdownContent",1]
+18:["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Nav2"}]
+19:["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"SLAM Toolbox"}]
+1a:["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"YOLOv8"}]
+1b:["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"PostgreSQL"}]
+1c:["$","div","5",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Docker"}]
+1d:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":["$undefined",["$","$L1f",null,{"href":"https://github.com/woolimi/shoppinkki","type":"github"}]]}]
+21:T4056,
+## 최종 데모
+
+[final demo](https://woolimi.cdn.prismic.io/woolimi/aee1FsBOoF08xL-c_final-demo.mp4)
+
+📊 발표 자료: [shoppinkki-presentation.netlify.app](https://shoppinkki-presentation.netlify.app/)
+
+## Introduction
+
+쑈삥끼(ShopPinkki)는 에드인에듀 _실물 로봇 기반 VLA 모방학습 피지컬 AI 양성과정_ 의 2차 프로젝트로, **Pinky Pro 로봇**을 활용한 미니어처 마트용 **자율주행 스마트 쇼핑 카트** 입니다.
+
+> **Shopping Pinky = Shoppinkki**
+>
+> 고객을 따라다니고(Follow), 매장을 안내하며(Guide), 결제까지 처리하는(Pay) 스마트 카트.
+
+## Map
+
+![매장 구역 맵](https://images.prismic.io/woolimi/ad5Y051ZCF7ETL0w_shop-map2.png?auto=format,compress)
+
+- 미니어처 매장 188 × 141 cm — 로봇 2대 동시 운용
+- 상품 구역 8개 (가전, 과자, 해산물, 육류, 채소, 음료, 베이커리, 즉석식품)
+- 특수 구역 5개 (화장실, 입구, 출구, 결제구역, 충전소 P1/P2)
+
+## Hardware
+
+| 항목        | 사양                             |
+| ----------- | -------------------------------- |
+| 로봇 플랫폼 | Pinky Pro × 2대 (#54, #18)       |
+| 컴퓨팅      | Raspberry Pi 5 (8GB) on each     |
+| 센서        | RPLiDAR A1, Pi Camera, IMU       |
+| 구동        | Dynamixel 2륜 + LCD + LED + 부저 |
+| 크기        | 110 × 150 × 142 mm               |
+
+## Implementation
+
+### 1. 시스템 아키텍처 + 통신 프레임워크 설계
+
+![system architecture](https://images.prismic.io/woolimi/aeCHS51ZCF7ETPHW_Screenshot2026-04-16at15.52.31.png?auto=format,compress)
+
+프로젝트 리딩을 맡으면서 가장 먼저 한 일은 **컴포넌트 경계와 통신 채널을 정하는 것**이었다. 이 결정이 흔들리면 5명이 동시에 작업할 수 없기 때문에, 초반에 인터페이스 명세에 시간을 충분히 투자했다.
+
+#### 네트워크 구성
+
+노트북 한 대로 로봇 2대를 제어해야 하고 SSH 접속을 원활하게 하기 위해 **고정 IP** 로 구성했다. 로봇은 각각 `192.168.102.18` (Pinky #18), `192.168.102.54` (Pinky #54), 노트북은 `192.168.102.100`. 로봇 번호 18, 54 는 그대로 **ROS namespace** 로 활용해서 토픽 충돌을 방지했다.
+
+### 2. Finite State Machine
+
+![state machine](https://images.prismic.io/woolimi/ae3OI8BOoF08xTT5_Screenshot2026-04-26at17.34.33.png?auto=format,compress)
+
+사용 시나리오를 그대로 상태 다이어그램으로 옮겼다. **CHARGING** 에서 배터리 80% 이상이 되면 **IDLE** 로, 사용자가 등록되면 **TRACKING** 으로, 가이드 요청이 오면 **GUIDING** 으로 전이한다. 추종 중 사용자를 놓치면 **LOST**, 결제가 완료되면 **TRACKING_CHECKOUT**, 쇼핑 종료 후 도크로 돌아갈 때는 **RETURNING** 상태에 들어간다.
+
+상태별 메모리 변수(`is_locked_return`, `previous_tracking_state`)로 **결제 미완료 시 출구 차단**, 가이드 도중 추종 모드로 복귀 시 직전 상태 복원 같은 미묘한 제약을 표현했다. 각 상태 안에서 BT 1~5 가 세부 동작(Nav2 호출, 키퍼아웃 필터 활성화, LCD/LED 피드백 등)을 분기한다.
+
+## 주요 기능
+
+### 1. 카트 시작 — QR 스캔에서 TRACKING 까지
+
+쇼핑 시작은 4단계로 일관된 UX 를 따른다.
+
+**Step 1 — QR 스캔**
+
+로봇 LCD 의 QR 코드를 스마트폰으로 스캔하면 해당 로봇 전용 웹앱으로 이동한다. 로봇별 다른 URL 이라 두 대가 동시에 운용되어도 사용자는 자기 로봇만 바라본다.
+
+![QR 스캔](https://images.prismic.io/woolimi/ad9RnJ1ZCF7ETM8K_IMG_0714.jpeg?auto=format,compress)
+
+**Step 2 — 고객 웹앱 접속**
+
+웹앱에 로그인하면 카트 이용이 시작된다. 로봇 상태 (CHARGING / IDLE / TRACKING / WAITING / GUIDING / PAYMENT / RETURNING) 가 SocketIO 로 실시간 표시된다.
+
+**Step 3 — 인형 등록**
+
+로봇 카메라에 본인(데모에서는 인형) 모습을 등록한다. 이때 ReID 임베딩과 HSV 히스토그램을 추출해 "주인 시그니처" 를 만든다. 이후 추종 단계에서 이 시그니처와 매 프레임 비교한다.
+
+![인형 등록](https://images.prismic.io/woolimi/ad9i4J1ZCF7ETNOV_register.gif?auto=format,compress)
+
+**Step 4 — TRACKING 전환**
+
+등록 완료 시 IDLE → TRACKING 으로 상태가 자동 전환되고 로봇이 주인을 따라가기 시작한다.
+
+### 2. 인형 추종 파이프라인 — YOLOv8 + ByteTracker + ReID/HSV
+
+여러 인형이 한 화면에 등장하는 환경에서 **자기 주인만 따라가야 한다**는 제약이 있다. 그래서 인식·식별·제어를 4단계 파이프라인으로 나눠 풀었다.
+
+[tracking overview demo](https://woolimi.cdn.prismic.io/woolimi/ad-Dd51ZCF7ETNkJ_tracking_muted.mp4)
+
+#### (1) 커스텀 YOLOv8 — 인형 인식
+
+인형 클래스를 인식하는 공개 모델이 없어서 직접 학습시킬 수 밖에 없었다. **Meta의 SAM3 (Segment Anything Model)** 으로 라벨링을 보조해 `red_clown` 같은 키워드만 입력하면 마스크가 자동 생성되는 환경을 만들고, 이렇게 라벨링한 **300장**으로 인형 전용 YOLOv8 모델을 학습시켰다.
+
+#### (2) ByteTracker — 프레임 간 동일 객체 이어붙이기
+
+YOLO 는 프레임마다 독립적으로 검출만 하기 때문에, "같은 인형"인지를 모른다. **ByteTracker** 는 프레임 간 동일 객체에 `track_id` 를 부여하는 다중 객체 추적 알고리즘이고, Ultralytics 에서 `model.track(img, persist=True)` 한 줄로 활성화된다.
+
+```python
+results = model.track(img, persist=True)
+track_id = int(det.boxes.id[0])
+```
+
+다만 화면을 벗어났다 들어오면 새로운 `track_id` 가 발급되기 때문에, **변하는 track_id 사이에서 주인을 다시 찾는** 추가 단계가 필요했다.
+
+#### (3) ReID + HSV 히스토그램 상관계수 — 주인 식별
+
+- **ReID (Re-Identification)**: torchreid 의 **OSNet x0.25** 를 사용해 bbox 영역을 **512차원 특징 벡터** 로 변환하고, 등록된 주인 임베딩과 코사인 유사도로 비교한다. 모델이 가벼워 Pi 5 에서도 실시간으로 돌릴 수 있다.
+- **HSV 히스토그램 상관계수**: ReID 만으로는 비슷하게 생긴 다른 인형에서 오인식이 날 수 있어서, HSV 색상 히스토그램 상관계수를 보조로 썼다. HSV 는 명도(V) 가 분리되어 조명 변화에 강하다. 임계값 ≥ 0.25 로 컷.
+
+> 즉, **"특징도 비슷하고 색도 비슷하면 같은 인형"** 이라고 판정한다. 매 프레임마다 track_id 가 바뀌어도 주인을 잃지 않는다.
+
+[tracking demo](https://woolimi.cdn.prismic.io/woolimi/ad_Me51ZCF7ETObD_yolo_reid_bytetracker.mp4)
+
+> 데모에서 표시되는 ID 는 ByteTracker 의 `track_id` 이고, 화면을 들락날락하면 새 ID 로 갱신된다. ReID + HSV 가 그 변화를 흡수해 동일 인물(인형)을 추적한다.
+
+#### (4) bbox 기반 PI/P 제어
+
+주인을 찾았으면 따라가야 한다. **bbox 의 크기와 위치만 보고** 로봇 속도를 결정했다.
+
+**선속도 (linear_x) — PI 제어**
+
+```text
+linear_x = KP_DIST × error + KI_DIST × ∫error·dt
+```
+
+- bbox 크기가 `TARGET_SIZE` 보다 작으면 → 멀다 → 전진
+- bbox 크기가 `TARGET_SIZE` 보다 크면 → 가깝다 → 감속·정지
+- **I 를 넣은 이유**: P 만 쓰면 가까워질수록 오차가 작아져서 속도도 작아지고, 결국 바닥 마찰을 못 이기고 TARGET 직전에 멈춰버린다(정상상태 오차). I 가 작은 오차를 시간에 따라 누적해 마찰을 이긴다.
+- **D 를 뺀 이유**: bbox 크기는 프레임마다 노이즈가 크다. D 가 노이즈에 반응해 속도가 진동하기 때문에 의도적으로 PI 만 썼다.
+
+**각속도 (angular_z) — P 제어 + deadzone**
+
+```text
+angular_z = KP_ANGLE × (화면중심X − bbox중심X)
+```
+
+- bbox 중심 X 가 화면 중앙에서 벗어난 만큼 회전
+- **deadzone ±45px**: 중앙 근처에서 bbox 가 몇 픽셀씩 흔들려도 회전 명령을 보내지 않음 → 좌우 떨림 방지
+- **I 를 뺀 이유**: 각도 오차가 누적되면 목표 방향을 지나쳐 오버슈팅하고, 반대 방향으로 또 오버슈팅하며 진동이 이어진다.
+- **Low-pass 스무딩**: D 대신 출력값에 `new × 0.3 + prev × 0.7` 로 저역 통과 필터를 걸어 부드럽게 변하도록 했다.
+
+### 3. 가이드 — 자연어 검색 + Fleet 자율주행
+
+가이드는 사용자가 "음료수 어디 있어?" 라고 입력하면 그 구역까지 자율주행으로 데려다주는 기능이다. 텍스트 → LLM/벡터 분석 → `zone_id` → Nav2 자율주행으로 동작한다.
+
+[guide demo](https://woolimi.cdn.prismic.io/woolimi/aeY-iMBOoF08xJCI_llm-guide.mp4)
+
+#### 검색 파이프라인 — 우선순위 분기
+
+비싼 LLM 호출을 **마지막 fallback** 으로 두기 위해 4단계 우선순위로 입력을 처리했다.
+
+| 우선순위 | 단계            | 처리                                                           |
+| -------- | --------------- | -------------------------------------------------------------- |
+| 0        | **입력 방어**   | 매장 안내 범위 밖 발화는 즉시 거절 응답 (LLM 비용·오답 차단)   |
+| 1        | **키워드 매핑** | "목말라" → 음료 구역 같은 직역 매핑이 있으면 즉시 hit          |
+| 2        | **LLM + 벡터**  | Ollama Qwen2.5 3B 로 키워드 추출 → pgvector 코사인 유사도 검색 |
+| 3        | **구역 안내**   | 결과 `zone_id` → DB 좌표 조회 → Nav2 목표로 전달               |
+
+> "매운 라면 어디 있어?" 처럼 키워드 매핑이 안 되는 자유 발화도 LLM + pgvector 로 의미적으로 가까운 구역(과자 옆 즉석식품 등)으로 안내된다.
+
+#### Fleet 라우팅 — Open-RMF 도입에서 자체 구현으로 전환
+
+가이드 자율주행에는 처음 **Open-RMF** 를 도입했다가, 결국 자체 **Fleet Router** 로 전환했다.
+
+> **Open-RMF란?** 제조사가 달라도 여러 로봇을 하나의 시스템으로 묶어 관리하는 오픈소스 플랫폼. 경로 충돌 방지, 작업 자동 할당, 이기종 로봇 통합, 인프라(엘리베이터·자동문) 연동을 지원한다.
+
+처음 해보는 다중 로봇 경로 계획이라 "Open-RMF 쓰면 자동으로 쉽게 되겠지" 하고 시작했지만 막상 써보니 **Ubuntu 에서만 동작**, **노드 기동에만 수십 초**, **고작 2대를 위한 런타임 오버헤드가 과하다**는 문제가 있었다. 결국 의존성은 제거하되 Open-RMF 의 **Nav Graph YAML 포맷은 그대로 재활용** 했다.
+
+#### Nav Graph — 점과 선으로 표현한 지도
+
+![fleet waypoints](https://images.prismic.io/woolimi/aeGAUZ1ZCF7ETRan_Screenshot2026-04-17at09.34.57.png?auto=format,compress)
+
+- **Vertex (점)**: 로봇이 도달 가능한 위치 단위. 모든 경로는 vertex 에서 시작·종료
+- **Lane (선)**: vertex 를 잇는 주행 경로. 단방향 lane 으로 일방통행 표현 가능
+- 매장 맵은 **39 vertices + lanes** 로 정의해 `shop_nav_graph.yaml` 에 저장, DB `fleet_waypoint` / `fleet_lane` 테이블로 시딩
+
+#### 경로 조율 방식 — Open-RMF vs 자체 Fleet Router
+
+| 항목      | Open-RMF (Traffic Schedule + Negotiation) | 자체 Fleet Router (Graph Routing + Lane Lock) |
+| --------- | ----------------------------------------- | --------------------------------------------- |
+| 예약 차원 | **시공간 4D** — 궤적 + 시간축             | **공간** — 그래프 lane 선점                   |
+| 충돌 해결 | 로봇 간 협상 프로토콜로 궤적 수정         | Dijkstra **페널티 가중치** 로 자동 우회       |
+| 아키텍처  | **분산** — Fleet Adapter + Schedule 노드  | **중앙 집중** — FleetRouter 단일 노드         |
+| 강점      | 대규모·이기종 fleet                       | 2대 규모에 단순·충분                          |
+
+자체 구현의 핵심은 **Dijkstra 페널티 가중치** 다. 다른 로봇이 이미 점유한 lane 에 큰 가중치를 더하면 Dijkstra 가 알아서 우회 경로를 찾아오기 때문에, 별도 협상 프로토콜이 필요 없다.
+
+단, 시간축이 없기 때문에 다음과 같은 단점이 있다.
+
+1. 한 로봇이 lane 을 다 통과할 때까지 다른 로봇 대기
+2. 좁은 통로에서 같은 lane 을 동시에 노리면 데드락 가능
+3. 중앙집중이라 FleetRouter 가 죽으면 전체 정지·로봇 수가 늘면 병목.
+
+본 프로젝트는 2대 규모라 이 단점을 감수할 만했다.
+
+#### 가이드 자율주행 데모
+
+[guide autonomous driving demo](https://woolimi.cdn.prismic.io/woolimi/aeezmMBOoF08xL92_guide-demo.mp4)
+
+### 4. 장바구니 — QR 스캔 + WebSocket 실시간 동기화
+
+장바구니는 사용자가 휴대폰으로 직접 관리한다. **QR 스캔으로 추가**, **목록에서 직접 삭제**, **WebSocket 실시간 동기화** 세 가지 동작이 핵심이다.
+
+- 상품 박스의 QR 을 스캔하면 즉시 장바구니에 담기고 web 앱에 반영
+- 잘못 담은 항목은 목록에서 직접 삭제
+- 한 사용자가 여러 디바이스를 써도 SocketIO 로 모든 디바이스가 동기화
+
+[shopping cart demo](https://woolimi.cdn.prismic.io/woolimi/aeB4WJ1ZCF7ETPD6_shopping-list.mp4)
+
+### 5. 대기 — TRACKING ↔ WAITING 토글
+
+추종 중에 사용자가 잠깐 따로 움직이고 싶을 때를 위한 기능이다. 웹앱의 **[따라가기] / [대기하기]** 탭으로 상태를 직접 토글할 수 있다.
+
+- **[대기하기]** 탭 → `TRACKING → WAITING` 전이, 로봇은 그 자리에 정지
+- **[따라가기]** 탭 → `WAITING → TRACKING` 복귀
+- WAITING 상태에는 **시간 제한** 이 있고, 초과되면 자동으로 충전소로 복귀한다 (방치된 카트가 통로를 막는 것 방지)
+
+[waiting demo](https://woolimi.cdn.prismic.io/woolimi/aeFIHJ1ZCF7ETRBu_waiting-demo.mp4)
+
+### 6. 결제 — SM 차원 출구 차단
+
+결제 구역에 진입하면 사용자 휴대폰에 **결제 팝업이 자동으로 뜬다**. 출구 차단은 **State Machine 분기** 로 구현된다 — 별도의 Nav2 keepout 필터 없이 상태값 자체로 결제구역 통과 가능 여부를 결정한다.
+
+| 상태                | 결제구역 통과 | 진입 조건                             |
+| ------------------- | :-----------: | ------------------------------------- |
+| `TRACKING`          |      ❌       | 쇼핑 중 기본 상태                     |
+| `TRACKING_CHECKOUT` |      ✅       | 결제 완료 (`enter_tracking_checkout`) |
+
+즉, **결제하지 않으면 카트가 출구로 향하는 경로 자체를 따라가지 않는다**. 결제 완료 시 `TRACKING_CHECKOUT` 으로 전이되어 결제구역 통과가 허용된다.
+
+미결제 채로 사용자가 "보내주기" 를 누르면 → **`LOCKED`** 상태로 전이된다. LOCKED 는 BT 5 를 공유해 자동으로 충전 스테이션으로 귀환하며 (`is_locked_return=True` 플래그 유지), 도크 도착 후 LED 로 잠금 신호를 띄워 **스태프가 직접 해제** 해야 정상 운영으로 돌아온다.
+
+[payment demo](https://woolimi.cdn.prismic.io/woolimi/aeFOLp1ZCF7ETRDK_payment-demo.mp4)
+
+### 7. 복귀 — 빈 충전 슬롯 자동 탐색
+
+쇼핑이 끝나면 로봇은 **빈 충전 슬롯을 조회**해 도크로 자율 복귀한다.
+
+```
+쇼핑 종료 → 빈 충전 슬롯 조회 → RETURNING → 충전소 도착 → 세션 종료
+```
+
+- 쇼핑 도중이든 종료 후든 **언제든 복귀 명령** 가능
+- **미결제 항목이 남은 채로 복귀하면 LOST 상태** 로 전환된다. 충전소 도착 후 직원이 직접 해제해야 정상 운영으로 돌아오기 때문에, 도난 시도 같은 비정상 시나리오를 자연스럽게 차단한다.
+
+[return demo](https://woolimi.cdn.prismic.io/woolimi/aeeisMBOoF08xL04_return-demo.mp4)
+
+## Tech Stack
+
+- **OS / ROS**: Ubuntu 24.04, ROS 2 Jazzy Jalisco
+- **추종 비전**: YOLOv8 (SAM3 라벨링), ByteTracker, torchreid (OSNet x0.25), HSV 히스토그램
+- **제어**: PI(선속도) + P(각속도, deadzone ±45px), Low-pass 스무딩
+- **Navigation**: Nav2, SLAM Toolbox, 자체 Fleet Router (Dijkstra + lane lock)
+- **LLM**: Ollama (Qwen 2.5 3B) + pgvector
+- **통신**: ROS 2 DDS (CycloneDDS), Flask, SocketIO, TCP/UDP
+- **DB**: PostgreSQL 17 (Docker)
+- **UI**: PyQt5 (Admin), Flask (Customer Web)
+1e:["$","article",null,{"children":["$","$L20",null,{"children":"$21"}]}]
+22:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1lpn1mp4sio72.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js"],"default"]
+15:["$","$L22",null,{"ref":null,"href":"/ko/about-me","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"About me","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+16:["$","$L22",null,{"ref":null,"href":"/ko/projects/schools","locale":"$undefined","localeCookie":"$15:props:localeCookie","prefetch":false,"children":"Academic Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+23:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트 | 박우림"}],["$","meta","1",{"name":"description","content":"쑈삥끼는 Pinky Pro 로봇이 고객을 인식·추종하고 LLM 기반 상품 안내, QR 결제, 자동 도크 복귀까지 처리하는 미니어처 마트용 자율주행 스마트 카트입니다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트"}],["$","meta","6",{"property":"og:description","content":"쑈삥끼는 Pinky Pro 로봇이 고객을 인식·추종하고 LLM 기반 상품 안내, QR 결제, 자동 도크 복귀까지 처리하는 미니어처 마트용 자율주행 스마트 카트입니다."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/projects/schools/shoppinkki"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.iohttps//images.prismic.io/woolimi/ad2s651ZCF7ETKAw_shoppinkki-main.png?auto=format,compress"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"쑈삥끼: Pinky Pro 기반 자율주행 스마트 쇼핑 카트"}],["$","meta","12",{"name":"twitter:description","content":"쑈삥끼는 Pinky Pro 로봇이 고객을 인식·추종하고 LLM 기반 상품 안내, QR 결제, 자동 도크 복귀까지 처리하는 미니어처 마트용 자율주행 스마트 카트입니다."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.iohttps//images.prismic.io/woolimi/ad2s651ZCF7ETKAw_shoppinkki-main.png?auto=format,compress"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L23","19",{}]]

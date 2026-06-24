@@ -1,0 +1,250 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/2tlxvxm6wa1ik.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","Robotics","gravity-compensation"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","Robotics/gravity-compensation","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2tlxvxm6wa1ik.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3get_lhqa15rg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1h5524slst_qv.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0gu-kwreyedfq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2evnbn3j6stft.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"daYSb-F_eN6guYM3z_tND"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat"}]},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측"}]},{"name":"VLA","type":"folder","path":"AI/VLA","children":[{"name":"00.intro.ko.md","type":"file","path":"AI/VLA/00.intro.ko.md","slug":"AI/VLA/intro","locale":"ko","title":"VLA 학습 로드맵 — 이야기로 따라가는 발전사"},{"name":"01.before-vla-practice.ko.md","type":"file","path":"AI/VLA/01.before-vla-practice.ko.md","slug":"AI/VLA/before-vla-practice","locale":"ko","title":"[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기"},{"name":"01.before-vla.ko.md","type":"file","path":"AI/VLA/01.before-vla.ko.md","slug":"AI/VLA/before-vla","locale":"ko","title":"VLA 이전의 시간 — Transformer·ViT·CLIP·Decision Transformer"},{"name":"02.imitation-learning-foundations.ko.md","type":"file","path":"AI/VLA/02.imitation-learning-foundations.ko.md","slug":"AI/VLA/imitation-learning-foundations","locale":"ko","title":"모방학습의 시작 — BC-Z, Gato, RT-1"},{"name":"03.precision-imitation-practice.ko.md","type":"file","path":"AI/VLA/03.precision-imitation-practice.ko.md","slug":"AI/VLA/precision-imitation-practice","locale":"ko","title":"[실습] 정밀 모방학습 — ACT·Diffusion Policy를 LeRobot으로"},{"name":"03.precision-imitation.ko.md","type":"file","path":"AI/VLA/03.precision-imitation.ko.md","slug":"AI/VLA/precision-imitation","locale":"ko","title":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"},{"name":"04.vla-is-born.ko.md","type":"file","path":"AI/VLA/04.vla-is-born.ko.md","slug":"AI/VLA/vla-is-born","locale":"ko","title":"VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat"},{"name":"05.opensource-wave-practice.ko.md","type":"file","path":"AI/VLA/05.opensource-wave-practice.ko.md","slug":"AI/VLA/opensource-wave-practice","locale":"ko","title":"[실습] OpenVLA로 VLA 직접 만져보기"},{"name":"05.opensource-wave.ko.md","type":"file","path":"AI/VLA/05.opensource-wave.ko.md","slug":"AI/VLA/opensource-wave","locale":"ko","title":"오픈소스가 따라잡다 — Open X-Embodiment, Octo, OpenVLA, RDT-1B"},{"name":"06.pi-series-practice.ko.md","type":"file","path":"AI/VLA/06.pi-series-practice.ko.md","slug":"AI/VLA/pi-series-practice","locale":"ko","title":"[실습] π₀ 행동 생성을 LeRobot으로"},{"name":"06.pi-series.ko.md","type":"file","path":"AI/VLA/06.pi-series.ko.md","slug":"AI/VLA/pi-series","locale":"ko","title":"π 시리즈와 산업화의 시작 — π₀, π₀-FAST, π₀.₅"},{"name":"07.humanoid-frontier-practice.ko.md","type":"file","path":"AI/VLA/07.humanoid-frontier-practice.ko.md","slug":"AI/VLA/humanoid-frontier-practice","locale":"ko","title":"[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA"},{"name":"07.humanoid-frontier.ko.md","type":"file","path":"AI/VLA/07.humanoid-frontier.ko.md","slug":"AI/VLA/humanoid-frontier","locale":"ko","title":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"claude","type":"folder","path":"claude","children":[{"name":"00.setup.md","type":"file","path":"claude/00.setup.md","slug":"claude/setup","locale":"$undefined","title":"claude 코드로 sudo"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"CPP","type":"folder","path":"CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"CPP/00.reference.ko.md","slug":"CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)"},{"name":"01.member-access-operator.ko.md","type":"file","path":"CPP/01.member-access-operator.ko.md","slug":"CPP/member-access-operator","locale":"ko","title":"member access operator"},{"name":"02.template.ko.md","type":"file","path":"CPP/02.template.ko.md","slug":"CPP/template","locale":"ko","title":"Template"},{"name":"03.smart-pointer.ko.md","type":"file","path":"CPP/03.smart-pointer.ko.md","slug":"CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"concepts","type":"folder","path":"ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"ROS/concepts/01.nodes.ko.md","slug":"ROS/concepts/nodes","locale":"ko","title":"basic - nodes"},{"name":"02.interfaces.ko.md","type":"file","path":"ROS/concepts/02.interfaces.ko.md","slug":"ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces"},{"name":"03.topics.ko.md","type":"file","path":"ROS/concepts/03.topics.ko.md","slug":"ROS/concepts/topics","locale":"ko","title":"basic - topics"},{"name":"04.services.ko.md","type":"file","path":"ROS/concepts/04.services.ko.md","slug":"ROS/concepts/services","locale":"ko","title":"basic - services"},{"name":"05.actions.ko.md","type":"file","path":"ROS/concepts/05.actions.ko.md","slug":"ROS/concepts/actions","locale":"ko","title":"basic - actions"},{"name":"06.parameters.ko.md","type":"file","path":"ROS/concepts/06.parameters.ko.md","slug":"ROS/concepts/parameters","locale":"ko","title":"basic - parameters"},{"name":"07.launch.ko.md","type":"file","path":"ROS/concepts/07.launch.ko.md","slug":"ROS/concepts/launch","locale":"ko","title":"basic - launch"},{"name":"08.rcl.ko.md","type":"file","path":"ROS/concepts/08.rcl.ko.md","slug":"ROS/concepts/rcl","locale":"ko","title":"basic - rcl"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"ROS/concepts/09.ros_domain_id.ko.md","slug":"ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"ROS/concepts/10.middleware-vendors.ko.md","slug":"ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors"},{"name":"11.logging.ko.md","type":"file","path":"ROS/concepts/11.logging.ko.md","slug":"ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration"},{"name":"12.qos.ko.md","type":"file","path":"ROS/concepts/12.qos.ko.md","slug":"ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings"},{"name":"13.executors.ko.md","type":"file","path":"ROS/concepts/13.executors.ko.md","slug":"ROS/concepts/executors","locale":"ko","title":"intermediate - executors"},{"name":"14.topic-statistics.ko.md","type":"file","path":"ROS/concepts/14.topic-statistics.ko.md","slug":"ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics"},{"name":"15.rqt.ko.md","type":"file","path":"ROS/concepts/15.rqt.ko.md","slug":"ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt"},{"name":"16.composition.ko.md","type":"file","path":"ROS/concepts/16.composition.ko.md","slug":"ROS/concepts/composition","locale":"ko","title":"intermediate - composition"},{"name":"17.cross-compilation.ko.md","type":"file","path":"ROS/concepts/17.cross-compilation.ko.md","slug":"ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation"},{"name":"18.ros2-security.ko.md","type":"file","path":"ROS/concepts/18.ros2-security.ko.md","slug":"ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security"},{"name":"19.tf2.ko.md","type":"file","path":"ROS/concepts/19.tf2.ko.md","slug":"ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2"}]},{"name":"00.install.ko.md","type":"file","path":"ROS/00.install.ko.md","slug":"ROS/install","locale":"ko","title":"맥에서 ros2 설치하기"},{"name":"01.pkg.ko.md","type":"file","path":"ROS/01.pkg.ko.md","slug":"ROS/pkg","locale":"ko","title":"workspace & package"},{"name":"02.nav2.ko.md","type":"file","path":"ROS/02.nav2.ko.md","slug":"ROS/nav2","locale":"ko","title":"ROS2 Nav2"},{"name":"03.behavior-tree.ko.md","type":"file","path":"ROS/03.behavior-tree.ko.md","slug":"ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+1c:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+1e:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+1d:T230b,
+## 중력보상이란
+
+중력보상(Gravity Compensation)이란 로봇 관절에 걸리는 중력 토크를 기계 장치나 제어 알고리즘으로 상쇄해 동작 안정성과 에너지 효율을 높이는 기술.
+
+주요 효과:
+
+- **에너지 절감** (기계식): 스프링·카운터웨이트가 중력을 대신 버텨 정지 중 모터 전력 불필요
+- **모터 부담 감소** (기계식): 모터는 움직일 때만 힘을 씀 → 같은 모터로 더 큰 하중 처리 가능
+- **제어 단순화** (제어식): 제어기가 중력 항을 미리 계산해 깔아줌 → 상위 명령은 순수 운동 토크만 다루면 됨
+
+활용 분야: 산업용 로봇 팔, 외골격(웨어러블) 로봇, 휴머노이드
+
+---
+
+## 중력보상 유무 비교 — 관절 토크 기준
+
+```remotion
+GravityComparison
+```
+
+다관절 로봇에서 중력보상 효과를 비교하는 가장 직관적인 지표는 **관절 토크(또는 모터 전류)**.
+
+| 상태 | 중력보상 없음 | 중력보상 있음 |
+|---|---|---|
+| 정지 | 자세 유지용 정적 토크 지속 출력 | 토크 ≈ 0 (중력 항 상쇄) |
+| 운동 | 중력 대항 토크 + 가속 토크 동시 출력 | 순수 가속 토크만 출력 |
+| 전류 | 높음 | 낮음 |
+
+---
+
+## 기계식 vs 제어식
+
+### 기계식 중력보상
+
+스프링, 와이어, 카운터 웨이트 등 물리적 장치가 중력을 대신 버팀.
+
+- 전원을 꺼도 팔이 허공에 정지
+- 모터는 오직 '움직일 때'만 힘을 씀
+- 코라스로보틱스의 CBM(CounterBalance Mechanism) 등이 대표 사례
+
+### 제어식 중력보상
+
+센서(엔코더)로 현재 관절 각도를 실시간 측정 → 컴퓨터가 중력 토크를 계산 → 모터에 피드포워드로 더해줌.
+
+- 모터가 전기적으로 중력을 버팀 (전원 차단 시 팔 낙하)
+- 제어기가 중력 항을 미리 계산해 베이스로 깔아줌
+- 제어기 입장에서는 마치 무중력 상태처럼 순수 운동 명령만 다루면 됨
+
+---
+
+## MIT 하이브리드 제어기의 중력보상
+
+MIT Mini Cheetah 계열에서 사용하는 하이브리드 제어 구조.
+
+### 토크 수식 비교
+
+**중력보상 없을 때 (PD 제어만)**
+
+$$\tau_{cmd} = K_p(\theta_{des} - \theta) + K_d(\dot{\theta}_{des} - \dot{\theta}) + \tau_{ff}$$
+
+**중력보상 있을 때**
+
+$$\tau_{cmd} = K_p(\theta_{des} - \theta) + K_d(\dot{\theta}_{des} - \dot{\theta}) + \tau_{ff} + G(\theta)$$
+
+$G(\theta)$: 현재 자세에서의 중력 토크 항 (실시간 계산)
+
+### 사용자 입장에서의 차이
+
+중력보상 없을 때 팔을 공중에 정지시키려면 `τ_ff = 10 Nm` 명령을 직접 계속 넣어야 함. 위로 움직이려면 `12 Nm`.
+
+중력보상 있을 때 G(θ)가 자동으로 10 Nm를 베이스로 깔아줌. 정지는 `τ_ff = 0`, 움직임은 순수 `2 Nm`만 입력.
+
+### MIT QDD 모터와의 시너지
+
+MIT 치타 계열 모터는 감속비가 낮은 준직접구동(Quasi-Direct Drive) 방식. 이로 인해:
+
+- **백드라이빙(Backdrivability)**: 중력보상 ON 상태에서 손으로 밀면 무중력처럼 부드럽게 밀림
+- **외력 측정**: 최종 토크 − G(θ) = 외부 접촉력. 별도 토크 센서 없이 충돌 감지 가능
+
+---
+
+## 자세별로 중력 토크가 다른 이유
+
+```remotion
+GravityTorque
+```
+
+지구가 로봇을 당기는 힘(무게) 자체는 고정이지만, 관절에서 무게중심까지의 **수평 거리(모멘트 팔)**가 자세마다 달라짐.
+
+```
+수평 자세 → 모멘트 팔 최대 → 토크 최대
+수직 자세 → 모멘트 팔 0    → 토크 0
+```
+
+1축 로봇 팔의 중력 토크 수식:
+
+$$G(\theta) = m \cdot g \cdot l \cdot \cos(\theta)$$
+
+- $m$: 링크 질량
+- $g$: 중력가속도 (9.81 m/s²)
+- $l$: 관절에서 무게중심까지 거리
+- $\theta$: 현재 관절 각도 (엔코더 실시간 측정)
+
+제어 컴퓨터는 1 kHz 이상으로 이 수식을 재계산해 매 순간 변하는 중력 토크를 모터에 피드포워드.
+
+다관절 로봇은 관절이 여러 개이므로 각 관절의 각도 조합에 따라 전체 무게중심 위치가 변하고, 동역학 모델(링크 길이·질량·무게중심 위치가 내장된 행렬 방정식)로 계산.
+
+---
+
+## 파라미터 식별 (Parameter Identification)
+
+중력 토크 계산에 필요한 $m$, $l$ 값을 실제 로봇에서 찾아내는 과정.
+
+CAD 도면의 수치는 배선·볼트 등 실물 오차로 실제와 어긋남. 이 오차가 중력보상 정밀도에 직접 영향.
+
+### 정적 식별 vs 동적 식별
+
+| 항목 | 정적 (Static) | 동적 (Dynamic) |
+|---|---|---|
+| 로봇 상태 | 여러 자세에서 정지 측정 | 복잡한 경로로 움직이며 측정 |
+| 식별 파라미터 | 질량 $m$, 무게중심 위치 $l$ | 질량·무게중심 + 관성 모멘트 + 관절 마찰력 |
+| 수식 난이도 | 낮음 (삼각함수 연립) | 높음 (미분 방정식·대형 행렬) |
+| 노이즈 영향 | 적음 | 큼 (가속도 노이즈 필터링 필수) |
+| 주 용도 | 기본 중력보상 구현 | 고속 주행·고성능 동역학 제어 |
+
+### 정적 식별 원리 (최소자승법)
+
+```remotion
+LeastSquares
+```
+
+$$\tau = m \cdot g \cdot l \cdot \cos(\theta)$$
+
+$\theta$, $\tau$는 센서로 측정 가능 → 미지수는 $mgl$ 하나.
+
+여러 자세(30°, 60°, 90° …)에서 측정한 데이터를 쌓으면 연립방정식 형태가 됨. 최소자승법(Least Squares)으로 노이즈를 억제하면서 $mgl$의 최적 추정치를 산출. 자세한 원리는 아래 [최소자승법](#최소자승법-least-squares-method) 섹션 참고.
+
+### 동적 식별 4단계
+
+1. **궤적 설계**: 관성·마찰 정보가 잘 나타나도록 최적화된 정현파 조합 궤적 생성
+2. **데이터 수집**: 각도·속도·전류를 1 kHz로 로깅
+3. **행렬 연산**: 레그레서 행렬로 변환 후 최소자승법 적용 → 질량·무게중심·관성 모멘트·마찰력 계수 추출
+4. **검증 및 반영**: 추출 값을 제어기 동역학 파라미터에 덮어씌움
+
+식별 완료 후 효과: 팔을 어느 위치에 놓아도 그 자리에 정지, 손가락으로 밀면 부드럽게 이동 (무중력 감각).
+
+---
+
+## 최소자승법 (Least Squares Method)
+
+측정값들과 수학 모델 사이의 **오차 제곱합을 최소로 만드는 최적 파라미터**를 찾는 방법.
+
+### 문제 상황 — 노이즈가 있으면 답이 여러 개
+
+1축 로봇 팔 수식: $\tau = X \cdot \cos(\theta)$, 구하려는 미지수 $X = mgl$
+
+두 번 측정했다고 가정:
+
+| 측정 | 각도 | 토크 | $X$ 추정값 |
+|---|---|---|---|
+| ① | $0°$ ($\cos = 1$) | 10.2 Nm | $X = 10.2$ |
+| ② | $60°$ ($\cos = 0.5$) | 4.9 Nm | $X = 9.8$ |
+
+센서 노이즈 때문에 같은 $X$를 구해도 10.2와 9.8로 다르게 나옴. 1,000번 측정하면 1,000개의 서로 다른 $X$가 나옴.
+
+최소자승법: 1,000개 데이터를 동시에 고려해 **모든 측정값과의 오차 제곱합이 가장 작은 단 하나의 $X$** 를 찾아냄.
+
+### 행렬 정규방정식 (Normal Equation)
+
+데이터가 $n$개일 때 연립방정식을 행렬로 묶으면:
+
+$$Y = A \cdot X$$
+
+- $Y$ ($n \times 1$): 측정된 토크 벡터
+- $A$ ($n \times 1$): 각 자세의 $\cos\theta$ 값을 쌓은 레그레서 행렬
+- $X$: 구하려는 미지수 ($mgl$)
+
+$A$가 정사각 행렬이 아니므로 역행렬을 바로 쓸 수 없음. 정규방정식으로 최적해를 구함:
+
+$$X = (A^T A)^{-1} A^T Y$$
+
+- $A^T$: $A$의 전치행렬 (가로·세로 교환)
+- $(A^T A)^{-1} A^T$: 의사역행렬(Pseudoinverse) — 오차 제곱합 최소화를 보장
+
+### Python 구현
+
+```python
+import numpy as np
+
+# 수집 데이터: 각도(rad), 측정 토크(Nm)
+angles = np.array([0.0, np.pi/6, np.pi/4, np.pi/3])   # 0°, 30°, 45°, 60°
+taus   = np.array([10.1, 8.7, 7.2, 4.9])               # 노이즈 포함 측정값
+
+# 레그레서 행렬 A = cos(θ) — n×1 열벡터
+A = np.cos(angles).reshape(-1, 1)
+Y = taus.reshape(-1, 1)
+
+# 방법 1: 정규방정식 직접 계산  X = (A^T A)^{-1} A^T Y
+X_manual = np.linalg.inv(A.T @ A) @ A.T @ Y
+print(f"정규방정식 mgl = {X_manual[0, 0]:.4f} Nm")
+
+# 방법 2: numpy lstsq (수치적으로 더 안정적 — 권장)
+X_lstsq, _, _, _ = np.linalg.lstsq(A, Y, rcond=None)
+print(f"lstsq      mgl = {X_lstsq[0, 0]:.4f} Nm")
+```
+
+두 방법의 결과는 동일하지만, `lstsq`는 행렬이 거의 특이(Singular)할 때도 수치적으로 안정적이라 실무에서 권장.
+
+### 주의사항
+
+- **데이터 많을수록 정확**: 측정 횟수가 늘수록 노이즈 평균이 0에 수렴해 추정 오차 감소
+- **아웃라이어(이상치)에 취약**: 튀는 측정값 하나가 제곱으로 가중되어 결과를 크게 왜곡. 데이터 필터링 필수
+- **가중 최소자승법(WLS)**: 신뢰도가 낮은 측정값에 낮은 가중치를 부여해 아웃라이어 영향 억제. 각 데이터 포인트마다 가중치 $w_i$를 곱한 행렬 $W$를 추가:
+
+$$X = (A^T W A)^{-1} A^T W Y$$
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"중력보상 (Gravity Compensation)"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"중력보상 (Gravity Compensation)\",\"description\":\"다관절 로봇에서 중력 토크를 상쇄하는 원리 — 기계식 vs 제어식 비교, MIT 하이브리드 제어, 자세별 토크 계산, 파라미터 식별까지 정리.\",\"image\":\"https://woolimi.github.io/og?title=중력보상 (Gravity Compensation)\",\"url\":\"https://woolimi.github.io/blog/Robotics/gravity-compensation\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"중력보상 (Gravity Compensation)"}],["$","article",null,{"children":["$","$L1c",null,{"children":"$1d"}]}]]}]}]
+9:null
+e:[["$","title","0",{"children":"중력보상 (Gravity Compensation) | 박우림"}],["$","meta","1",{"name":"description","content":"다관절 로봇에서 중력 토크를 상쇄하는 원리 — 기계식 vs 제어식 비교, MIT 하이브리드 제어, 자세별 토크 계산, 파라미터 식별까지 정리."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"중력보상 (Gravity Compensation)"}],["$","meta","6",{"property":"og:description","content":"다관절 로봇에서 중력 토크를 상쇄하는 원리 — 기계식 vs 제어식 비교, MIT 하이브리드 제어, 자세별 토크 계산, 파라미터 식별까지 정리."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/Robotics/gravity-compensation"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=%EC%A4%91%EB%A0%A5%EB%B3%B4%EC%83%81%20(Gravity%20Compensation)"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"중력보상 (Gravity Compensation)"}],["$","meta","12",{"name":"twitter:description","content":"다관절 로봇에서 중력 토크를 상쇄하는 원리 — 기계식 vs 제어식 비교, MIT 하이브리드 제어, 자세별 토크 계산, 파라미터 식별까지 정리."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=%EC%A4%91%EB%A0%A5%EB%B3%B4%EC%83%81%20(Gravity%20Compensation)"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L1e","19",{}]]
+1f:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+19:["$","$L1f",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L1f",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L1f",null,{"ref":null,"href":"/ko/blog/Robotics","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Robotics","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]

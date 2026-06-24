@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+4:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+5:T230b,
+## 중력보상이란
+
+중력보상(Gravity Compensation)이란 로봇 관절에 걸리는 중력 토크를 기계 장치나 제어 알고리즘으로 상쇄해 동작 안정성과 에너지 효율을 높이는 기술.
+
+주요 효과:
+
+- **에너지 절감** (기계식): 스프링·카운터웨이트가 중력을 대신 버텨 정지 중 모터 전력 불필요
+- **모터 부담 감소** (기계식): 모터는 움직일 때만 힘을 씀 → 같은 모터로 더 큰 하중 처리 가능
+- **제어 단순화** (제어식): 제어기가 중력 항을 미리 계산해 깔아줌 → 상위 명령은 순수 운동 토크만 다루면 됨
+
+활용 분야: 산업용 로봇 팔, 외골격(웨어러블) 로봇, 휴머노이드
+
+---
+
+## 중력보상 유무 비교 — 관절 토크 기준
+
+```remotion
+GravityComparison
+```
+
+다관절 로봇에서 중력보상 효과를 비교하는 가장 직관적인 지표는 **관절 토크(또는 모터 전류)**.
+
+| 상태 | 중력보상 없음 | 중력보상 있음 |
+|---|---|---|
+| 정지 | 자세 유지용 정적 토크 지속 출력 | 토크 ≈ 0 (중력 항 상쇄) |
+| 운동 | 중력 대항 토크 + 가속 토크 동시 출력 | 순수 가속 토크만 출력 |
+| 전류 | 높음 | 낮음 |
+
+---
+
+## 기계식 vs 제어식
+
+### 기계식 중력보상
+
+스프링, 와이어, 카운터 웨이트 등 물리적 장치가 중력을 대신 버팀.
+
+- 전원을 꺼도 팔이 허공에 정지
+- 모터는 오직 '움직일 때'만 힘을 씀
+- 코라스로보틱스의 CBM(CounterBalance Mechanism) 등이 대표 사례
+
+### 제어식 중력보상
+
+센서(엔코더)로 현재 관절 각도를 실시간 측정 → 컴퓨터가 중력 토크를 계산 → 모터에 피드포워드로 더해줌.
+
+- 모터가 전기적으로 중력을 버팀 (전원 차단 시 팔 낙하)
+- 제어기가 중력 항을 미리 계산해 베이스로 깔아줌
+- 제어기 입장에서는 마치 무중력 상태처럼 순수 운동 명령만 다루면 됨
+
+---
+
+## MIT 하이브리드 제어기의 중력보상
+
+MIT Mini Cheetah 계열에서 사용하는 하이브리드 제어 구조.
+
+### 토크 수식 비교
+
+**중력보상 없을 때 (PD 제어만)**
+
+$$\tau_{cmd} = K_p(\theta_{des} - \theta) + K_d(\dot{\theta}_{des} - \dot{\theta}) + \tau_{ff}$$
+
+**중력보상 있을 때**
+
+$$\tau_{cmd} = K_p(\theta_{des} - \theta) + K_d(\dot{\theta}_{des} - \dot{\theta}) + \tau_{ff} + G(\theta)$$
+
+$G(\theta)$: 현재 자세에서의 중력 토크 항 (실시간 계산)
+
+### 사용자 입장에서의 차이
+
+중력보상 없을 때 팔을 공중에 정지시키려면 `τ_ff = 10 Nm` 명령을 직접 계속 넣어야 함. 위로 움직이려면 `12 Nm`.
+
+중력보상 있을 때 G(θ)가 자동으로 10 Nm를 베이스로 깔아줌. 정지는 `τ_ff = 0`, 움직임은 순수 `2 Nm`만 입력.
+
+### MIT QDD 모터와의 시너지
+
+MIT 치타 계열 모터는 감속비가 낮은 준직접구동(Quasi-Direct Drive) 방식. 이로 인해:
+
+- **백드라이빙(Backdrivability)**: 중력보상 ON 상태에서 손으로 밀면 무중력처럼 부드럽게 밀림
+- **외력 측정**: 최종 토크 − G(θ) = 외부 접촉력. 별도 토크 센서 없이 충돌 감지 가능
+
+---
+
+## 자세별로 중력 토크가 다른 이유
+
+```remotion
+GravityTorque
+```
+
+지구가 로봇을 당기는 힘(무게) 자체는 고정이지만, 관절에서 무게중심까지의 **수평 거리(모멘트 팔)**가 자세마다 달라짐.
+
+```
+수평 자세 → 모멘트 팔 최대 → 토크 최대
+수직 자세 → 모멘트 팔 0    → 토크 0
+```
+
+1축 로봇 팔의 중력 토크 수식:
+
+$$G(\theta) = m \cdot g \cdot l \cdot \cos(\theta)$$
+
+- $m$: 링크 질량
+- $g$: 중력가속도 (9.81 m/s²)
+- $l$: 관절에서 무게중심까지 거리
+- $\theta$: 현재 관절 각도 (엔코더 실시간 측정)
+
+제어 컴퓨터는 1 kHz 이상으로 이 수식을 재계산해 매 순간 변하는 중력 토크를 모터에 피드포워드.
+
+다관절 로봇은 관절이 여러 개이므로 각 관절의 각도 조합에 따라 전체 무게중심 위치가 변하고, 동역학 모델(링크 길이·질량·무게중심 위치가 내장된 행렬 방정식)로 계산.
+
+---
+
+## 파라미터 식별 (Parameter Identification)
+
+중력 토크 계산에 필요한 $m$, $l$ 값을 실제 로봇에서 찾아내는 과정.
+
+CAD 도면의 수치는 배선·볼트 등 실물 오차로 실제와 어긋남. 이 오차가 중력보상 정밀도에 직접 영향.
+
+### 정적 식별 vs 동적 식별
+
+| 항목 | 정적 (Static) | 동적 (Dynamic) |
+|---|---|---|
+| 로봇 상태 | 여러 자세에서 정지 측정 | 복잡한 경로로 움직이며 측정 |
+| 식별 파라미터 | 질량 $m$, 무게중심 위치 $l$ | 질량·무게중심 + 관성 모멘트 + 관절 마찰력 |
+| 수식 난이도 | 낮음 (삼각함수 연립) | 높음 (미분 방정식·대형 행렬) |
+| 노이즈 영향 | 적음 | 큼 (가속도 노이즈 필터링 필수) |
+| 주 용도 | 기본 중력보상 구현 | 고속 주행·고성능 동역학 제어 |
+
+### 정적 식별 원리 (최소자승법)
+
+```remotion
+LeastSquares
+```
+
+$$\tau = m \cdot g \cdot l \cdot \cos(\theta)$$
+
+$\theta$, $\tau$는 센서로 측정 가능 → 미지수는 $mgl$ 하나.
+
+여러 자세(30°, 60°, 90° …)에서 측정한 데이터를 쌓으면 연립방정식 형태가 됨. 최소자승법(Least Squares)으로 노이즈를 억제하면서 $mgl$의 최적 추정치를 산출. 자세한 원리는 아래 [최소자승법](#최소자승법-least-squares-method) 섹션 참고.
+
+### 동적 식별 4단계
+
+1. **궤적 설계**: 관성·마찰 정보가 잘 나타나도록 최적화된 정현파 조합 궤적 생성
+2. **데이터 수집**: 각도·속도·전류를 1 kHz로 로깅
+3. **행렬 연산**: 레그레서 행렬로 변환 후 최소자승법 적용 → 질량·무게중심·관성 모멘트·마찰력 계수 추출
+4. **검증 및 반영**: 추출 값을 제어기 동역학 파라미터에 덮어씌움
+
+식별 완료 후 효과: 팔을 어느 위치에 놓아도 그 자리에 정지, 손가락으로 밀면 부드럽게 이동 (무중력 감각).
+
+---
+
+## 최소자승법 (Least Squares Method)
+
+측정값들과 수학 모델 사이의 **오차 제곱합을 최소로 만드는 최적 파라미터**를 찾는 방법.
+
+### 문제 상황 — 노이즈가 있으면 답이 여러 개
+
+1축 로봇 팔 수식: $\tau = X \cdot \cos(\theta)$, 구하려는 미지수 $X = mgl$
+
+두 번 측정했다고 가정:
+
+| 측정 | 각도 | 토크 | $X$ 추정값 |
+|---|---|---|---|
+| ① | $0°$ ($\cos = 1$) | 10.2 Nm | $X = 10.2$ |
+| ② | $60°$ ($\cos = 0.5$) | 4.9 Nm | $X = 9.8$ |
+
+센서 노이즈 때문에 같은 $X$를 구해도 10.2와 9.8로 다르게 나옴. 1,000번 측정하면 1,000개의 서로 다른 $X$가 나옴.
+
+최소자승법: 1,000개 데이터를 동시에 고려해 **모든 측정값과의 오차 제곱합이 가장 작은 단 하나의 $X$** 를 찾아냄.
+
+### 행렬 정규방정식 (Normal Equation)
+
+데이터가 $n$개일 때 연립방정식을 행렬로 묶으면:
+
+$$Y = A \cdot X$$
+
+- $Y$ ($n \times 1$): 측정된 토크 벡터
+- $A$ ($n \times 1$): 각 자세의 $\cos\theta$ 값을 쌓은 레그레서 행렬
+- $X$: 구하려는 미지수 ($mgl$)
+
+$A$가 정사각 행렬이 아니므로 역행렬을 바로 쓸 수 없음. 정규방정식으로 최적해를 구함:
+
+$$X = (A^T A)^{-1} A^T Y$$
+
+- $A^T$: $A$의 전치행렬 (가로·세로 교환)
+- $(A^T A)^{-1} A^T$: 의사역행렬(Pseudoinverse) — 오차 제곱합 최소화를 보장
+
+### Python 구현
+
+```python
+import numpy as np
+
+# 수집 데이터: 각도(rad), 측정 토크(Nm)
+angles = np.array([0.0, np.pi/6, np.pi/4, np.pi/3])   # 0°, 30°, 45°, 60°
+taus   = np.array([10.1, 8.7, 7.2, 4.9])               # 노이즈 포함 측정값
+
+# 레그레서 행렬 A = cos(θ) — n×1 열벡터
+A = np.cos(angles).reshape(-1, 1)
+Y = taus.reshape(-1, 1)
+
+# 방법 1: 정규방정식 직접 계산  X = (A^T A)^{-1} A^T Y
+X_manual = np.linalg.inv(A.T @ A) @ A.T @ Y
+print(f"정규방정식 mgl = {X_manual[0, 0]:.4f} Nm")
+
+# 방법 2: numpy lstsq (수치적으로 더 안정적 — 권장)
+X_lstsq, _, _, _ = np.linalg.lstsq(A, Y, rcond=None)
+print(f"lstsq      mgl = {X_lstsq[0, 0]:.4f} Nm")
+```
+
+두 방법의 결과는 동일하지만, `lstsq`는 행렬이 거의 특이(Singular)할 때도 수치적으로 안정적이라 실무에서 권장.
+
+### 주의사항
+
+- **데이터 많을수록 정확**: 측정 횟수가 늘수록 노이즈 평균이 0에 수렴해 추정 오차 감소
+- **아웃라이어(이상치)에 취약**: 튀는 측정값 하나가 제곱으로 가중되어 결과를 크게 왜곡. 데이터 필터링 필수
+- **가중 최소자승법(WLS)**: 신뢰도가 낮은 측정값에 낮은 가중치를 부여해 아웃라이어 영향 억제. 각 데이터 포인트마다 가중치 $w_i$를 곱한 행렬 $W$를 추가:
+
+$$X = (A^T W A)^{-1} A^T W Y$$
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Robotics","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Robotics","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"중력보상 (Gravity Compensation)"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"중력보상 (Gravity Compensation)\",\"description\":\"다관절 로봇에서 중력 토크를 상쇄하는 원리 — 기계식 vs 제어식 비교, MIT 하이브리드 제어, 자세별 토크 계산, 파라미터 식별까지 정리.\",\"image\":\"https://woolimi.github.io/og?title=중력보상 (Gravity Compensation)\",\"url\":\"https://woolimi.github.io/blog/Robotics/gravity-compensation\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"중력보상 (Gravity Compensation)"}],["$","article",null,{"children":["$","$L4",null,{"children":"$5"}]}]]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"daYSb-F_eN6guYM3z_tND"}
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true}]
+c:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

@@ -1,0 +1,277 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+d:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+f:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/VLA","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"모방학습의 시작 — BC-Z, Gato, RT-1"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"모방학습의 시작 — BC-Z, Gato, RT-1\",\"description\":\"사람의 시연을 따라하는 로봇 정책이 어떻게 트랜스포머와 결합해 점점 더 일반화 가능한 정책으로 자라났는지를 세 편의 논문으로 따라갑니다.\",\"image\":\"https://woolimi.github.io/og?title=모방학습의 시작 — BC-Z, Gato, RT-1\",\"url\":\"https://woolimi.github.io/blog/AI/VLA/imitation-learning-foundations\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"daYSb-F_eN6guYM3z_tND"}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"모방학습의 시작 — BC-Z, Gato, RT-1"}]
+e:T3f5a,
+## 들어가며
+
+[지난 글](/blog/AI/VLA/before-vla)에서는 트랜스포머·ViT·CLIP·Decision Transformer가 비전·언어·행동을 같은 토큰 형식으로 올려놓는 토대를 만들었다는 이야기를 했습니다.
+
+이제 무대가 로봇으로 옮겨갑니다. 시뮬레이션의 강화학습이 한참 화제가 되던 시기, 로봇 분야에서는 조용히 다른 흐름이 자라고 있었습니다 — **모방학습(Imitation Learning)** 입니다. 사람이 직접 로봇을 조종한 데이터를 정답으로 두고, 로봇이 그걸 따라하도록 학습시키는 방식입니다.
+
+이번 글에서 다룰 세 편의 논문이 모방학습이 점점 더 큰 그림으로 자라는 과정을 보여줍니다.
+
+- **BC-Z (2021)** — 한 모델이 여러 task를 처리하도록 만든 첫 본격적인 시도
+- **Gato (2022)** — "한 모델이 모든 걸 한다"는 generalist의 첫 데모
+- **RT-1 (2022)** — 대규모 로봇 시연 데이터를 트랜스포머로 학습한 VLA의 직접적 원형
+
+이 세 편이 없었다면 이후의 RT-2도, OpenVLA도, π₀도 등장할 수 없었습니다.
+
+> 이 글은 [VLA 학습 로드맵](/blog/AI/VLA/intro) 시리즈의 두 번째 글입니다.
+
+---
+
+## 0. 알아두면 좋은 사전 용어
+
+본문에 반복해서 등장할 핵심 개념 네 가지를 먼저 정리합니다.
+
+> [!TERM]
+> **모방학습(Imitation Learning, IL)**
+>
+> "보상을 최대화해라"가 아니라 "전문가(사람)의 시연을 따라해라"를 학습 목표로 삼는 분야입니다. 보상 함수를 설계할 필요가 없어서 실제 로봇 학습에서 사실상 표준입니다.
+
+> [!TERM]
+>
+> **시연 데이터(demonstration)**
+>
+> 사람이 로봇을 직접 조종한 기록입니다. 시간 순서대로 (관측, 행동) 쌍이 나열됩니다. 한 번의 task 수행이 한 trajectory가 됩니다.
+
+> [!TERM]
+>
+> **Behavioral Cloning (BC)**
+>
+> (관측, 행동) 쌍을 지도학습 문제로 보는 가장 단순한 모방학습 방식입니다. "이 그림이 나오면 이 행동을 해라"를 외우게 하는 거라고 이해하시면 됩니다.
+
+> [!TERM]
+>
+> **Covariate Shift**
+>
+> BC의 가장 큰 한계입니다. 학습 데이터의 분포와 실제 작동할 때 마주치는 분포가 어긋나는 현상으로, 작은 오차가 누적돼 모델이 점점 본 적 없는 상태로 흘러가다 결국 폭주합니다. 이 단계 발전의 거의 전부가 covariate shift를 어떻게 줄일지에 대한 이야기입니다.
+
+> [!TERM]
+>
+> **DAgger (Dataset Aggregation)**
+>
+> BC-Z 이전 시기에 covariate shift를 푸는 표준 방법이었습니다. 학습된 정책을 굴려 보고, 분포 밖으로 흘러간 상태에서 사람이 다시 정답 행동을 알려준 데이터를 모아 재학습하는 반복 루프입니다. 효과는 좋지만 매번 사람이 실시간 교정을 해야 하니 비싸고 번거롭습니다. 이 글의 BC-Z·Gato·RT-1은 모두 "DAgger 없이도 충분한 데이터 다양성으로 covariate shift를 흡수하자"는 다른 방향을 택합니다.
+
+> [!TERM]
+>
+> **Multi-task Imitation Learning**
+>
+> 여러 task의 시연을 한 모델로 함께 학습하는 방식입니다. 각 task마다 따로 정책을 학습하던 single-task IL과 대비됩니다. 한 모델이 여러 task의 공통 구조를 학습하면 데이터 효율이 좋아지고, 학습에 없던 task도 일반화가 가능해집니다. BC-Z가 이 방향의 본격적 시작입니다.
+
+---
+
+## 1. BC-Z — 한 모델로 여러 task를 처리하다
+
+📄 [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://arxiv.org/abs/2202.02005) — Jang 외, Google·Everyday Robots·UC Berkeley (2021, CoRL)
+
+### 어떤 문제를 풀려고 했나
+
+2020년경까지 모방학습은 거의 다 **task별로 따로 학습한 정책**이었습니다. "컵 집기" 정책 따로, "서랍 열기" 정책 따로. 이 방식에는 두 가지 한계가 있었습니다.
+
+1. **Task가 늘어나면 모델도 늘어납니다.** 100개 task면 100개 모델. 운영도 힘들고 데이터 효율도 나쁩니다.
+2. **새로운 task에 일반화가 안 됩니다.** 학습 시 못 본 task가 들어오면 처음부터 다시 학습해야 합니다.
+
+BC-Z의 질문은 이랬습니다.
+
+> "한 모델이 task description을 입력으로 받아 여러 task를 다루게 하면 어떨까? 그리고 학습 때 못 본 task도 description만 보고 처리할 수 있을까?"
+
+### 핵심 발상 — Task Conditioning
+
+BC-Z의 입력은 두 가지입니다.
+
+1. **현재 카메라 이미지** — 무엇이 보이는지
+2. **task description** — 무엇을 해야 하는지 (자연어 또는 시연 영상)
+
+description을 임베딩 벡터로 만들어 시각 특징과 결합한 뒤, 행동을 출력하는 신경망에 통과시킵니다. 이렇게 모델 입력에 "어떤 task인지"를 명시적으로 끼워넣는 걸 **task conditioning**이라 부릅니다.
+
+```mermaid
+flowchart LR
+    I["이미지"] --> M["정책 신경망"]
+    T["Task description<br/>(자연어 / 시연 영상)"] --> E["임베딩"]
+    E --> M
+    M --> A["행동 출력"]
+```
+
+이 단순한 구조 변경 하나로 **한 모델이 여러 task를 다루는 것**과 **학습에 없던 task에 zero-shot 일반화**가 동시에 가능해졌습니다.
+
+### 알아둘 용어 — Language Conditioning
+
+자연어 task description을 모델 입력으로 쓰는 방식을 특별히 **language conditioning**이라 부릅니다. BC-Z는 자연어와 시연 영상 두 가지를 모두 실험했고, 자연어가 더 깔끔하게 작동했습니다. 이 발상이 RT-1·RT-2·OpenVLA의 자연어 명령 처리 방식의 직계 조상입니다.
+
+### VLA가 여기서 받은 것
+
+VLA의 정의 자체가 "비전 + 언어 → 행동"입니다. BC-Z는 이 정의를 처음으로 실제 로봇에서 의미 있는 규모로 구현한 논문입니다. RT-1이 BC-Z의 후속 논문이라고 봐도 무방할 정도로 직계 라인입니다.
+
+> **요점**
+>
+> BC-Z는 "task description을 입력으로 받는 정책"이라는 형식을 제시한 논문입니다. VLA의 가장 직접적인 조상입니다.
+
+---
+
+## 2. Gato — 한 모델이 모든 걸 하는 첫 데모
+
+📄 [A Generalist Agent](https://arxiv.org/abs/2205.06175) — Reed 외, DeepMind (2022)
+
+### 어떤 문제를 풀려고 했나
+
+GPT-3가 NLP에서 보여준 "한 모델이 수많은 task를 zero-shot으로 처리한다"는 그림이 너무 강렬해서, 다른 분야에도 같은 그림이 가능할지 다들 궁금해하던 시기였습니다.
+
+DeepMind의 질문은 이랬습니다.
+
+> "GPT 같은 거대 트랜스포머 하나가 텍스트·이미지·게임·로봇 제어를 전부 다 하면 어떨까?"
+
+### 핵심 발상 — 모든 걸 토큰으로
+
+Gato의 발상은 단순합니다. **모든 입력과 출력을 토큰으로 변환해 한 시퀀스로 펼친다.**
+
+- 텍스트 → 단어 토큰
+- 이미지 → 패치 토큰 (ViT 방식)
+- 게임 화면 → 패치 토큰 + 행동 토큰
+- 로봇 상태/행동 → 양자화된 토큰
+
+이 토큰 시퀀스를 1.2B 파라미터의 트랜스포머 디코더 하나로 학습합니다. 학습 task는 무려 604개 — Atari 게임, 캡션 생성, 로봇 팔 제어, 채팅 등이 한 모델 안에 다 들어갑니다.
+
+```mermaid
+flowchart LR
+    A["텍스트<br/>이미지<br/>게임<br/>로봇 시연"] --> B["전부 토큰화"]
+    B --> C["1.2B Transformer Decoder"]
+    C --> D["다음 토큰 예측<br/>(텍스트, 게임 행동,<br/>로봇 행동, 캡션, ...)"]
+```
+
+### 알아둘 용어 — Generalist vs Specialist
+
+**Generalist** 는 한 모델이 여러 task를 다 처리하는 모델, **specialist** 는 한 task에만 특화된 모델입니다. Gato 시기까지는 거의 모든 로봇 모델이 specialist였습니다. Gato는 generalist가 가능하다는 첫 본격 데모이지만, 솔직히 각 task의 성능은 그 분야 specialist에 한참 못 미쳤습니다. "되긴 된다"의 증명에 가깝습니다.
+
+### 알아둘 용어 — Tokenization
+
+연속적인 값(이미지 픽셀, 로봇 관절 각도)을 정수 토큰 ID로 변환하는 과정을 **tokenization**이라 부릅니다. Gato는 연속 값을 정해진 구간으로 나눠 (예: 1024개 bin) 각 bin에 정수 ID를 부여하는 방식을 썼습니다. 이 양자화 방식이 RT-1의 행동 토큰화와 거의 같은 발상입니다.
+
+### VLA가 여기서 받은 것
+
+Gato는 "로봇 행동도 텍스트와 같은 시퀀스 안에서 다음 토큰 예측으로 학습할 수 있다"는 사실을 가장 큰 규모로 보여준 논문입니다. 성능 자체는 평범했지만, **이 방향이 가능하다는 증명**의 무게가 컸습니다. 이후 RT-1, RT-2, OpenVLA 모두가 이 길을 더 깊이 파고들었습니다.
+
+또 하나 — Gato는 "여러 종류의 로봇을 한 모델이 다룬다"는 **multi-embodiment** 발상의 출발점이기도 합니다. 이 발상은 나중에 Open X-Embodiment·Octo·OpenVLA로 이어집니다.
+
+> **요점**
+>
+> Gato는 "한 트랜스포머가 모든 걸 한다"의 첫 본격적 시도입니다. 성능보다 발상이 남긴 영향이 큰 논문입니다.
+
+---
+
+## 3. RT-1 — VLA의 직접적인 원형
+
+📄 [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817) — Brohan 외, Google (2022)
+
+### 어떤 문제를 풀려고 했나
+
+BC-Z가 한 모델로 여러 task를 다루는 그림을 보여줬고, Gato가 트랜스포머로 모든 걸 한다는 그림을 보여줬습니다. 그러면 둘을 합쳐 — **로봇에 특화된 대규모 트랜스포머 정책**을 만들면 어떨까?
+
+Google Robotics의 질문은 이랬습니다.
+
+> "13개월 동안 13대의 로봇을 굴려 모은 13만 건의 시연 데이터를 트랜스포머 하나에 통째로 부어 보면 어떨까?"
+
+### 핵심 발상 — 행동 토큰화 + Transformer
+
+RT-1의 입력은 두 가지입니다.
+
+1. 최근 6장의 카메라 이미지 (시간적 맥락)
+2. 자연어 task instruction (예: "pick up the apple")
+
+이걸 처리하는 흐름은 다음과 같습니다.
+
+```mermaid
+flowchart LR
+    I["이미지 6장"] --> EN["EfficientNet<br/>(이미지 특징)"]
+    T["자연어<br/>instruction"] --> USE["Universal<br/>Sentence Encoder"]
+    EN --> FILM["FiLM<br/>(언어로 시각을<br/>변조)"]
+    USE --> FILM
+    FILM --> TT["TokenLearner<br/>(토큰 압축)"]
+    TT --> TR["Transformer<br/>Decoder"]
+    TR --> A["행동 토큰<br/>(11차원 × 256단계)"]
+```
+
+가장 중요한 것은 **행동 출력**입니다. RT-1은 7-DoF 팔, 그리퍼, 모바일 베이스를 합친 11차원 연속 행동을 **각 차원당 256단계로 양자화**해서 정수 토큰으로 출력합니다. 즉 "다음에 어느 방향으로 얼마만큼 움직일지"를 256개 토큰 중 하나를 고르는 분류 문제로 푸는 셈입니다.
+
+이 양자화 방식이 Decision Transformer·Gato의 발상을 로봇 제어에 그대로 적용한 사례입니다. 그리고 이 방식이 RT-2·OpenVLA의 행동 출력 방식과 본질적으로 같습니다.
+
+### 알아둘 용어 — EfficientNet과 Universal Sentence Encoder
+
+도식에 등장한 두 모듈을 짚고 넘어갑니다.
+
+- **EfficientNet** — Google이 2019년 발표한 CNN 계열 이미지 인코더입니다. 모델 깊이·너비·해상도를 균형 있게 키우는 "compound scaling" 발상으로, 같은 성능을 더 적은 파라미터로 달성합니다. RT-1은 ViT 대신 이 가벼운 EfficientNet을 비전 인코더로 써서 실시간 로봇 제어 속도를 확보했습니다.
+- **Universal Sentence Encoder (USE)** — Google이 2018년 공개한 문장 임베딩 모델입니다. 짧은 문장이나 명령을 고정 길이의 의미 벡터로 바꿔줍니다. RT-1은 자연어 instruction을 USE로 임베딩한 뒤, 다음 단계 FiLM에서 시각 특징과 결합합니다.
+
+두 선택 모두 "사전학습된 가벼운 인코더를 가져와 robot transformer 앞에 붙인다"는 실용적 결정입니다. 이후 RT-2·OpenVLA에서는 더 큰 ViT·CLIP 계열로 갈아끼우게 됩니다.
+
+### 알아둘 용어 — FiLM (Feature-wise Linear Modulation)
+
+언어 임베딩으로 시각 특징을 변조하는 기법입니다. 시각 특징의 각 채널에 언어 임베딩으로부터 계산된 scale·shift 값을 곱하고 더해서, 시각 표현이 task에 맞춰 살짝 다르게 보이게 만듭니다. "사과를 집어"라는 명령이 들어오면, 같은 이미지라도 사과 영역의 특징이 강조되도록 시각 표현을 살짝 비트는 거라고 보시면 됩니다.
+
+### 알아둘 용어 — TokenLearner
+
+이미지 토큰의 수를 모델이 적응적으로 줄여주는 모듈입니다. ViT가 만든 수백 개의 패치 토큰을 그대로 쓰면 트랜스포머 연산이 너무 무거워지므로, TokenLearner가 학습 가능한 attention으로 "중요한 정보만 담은" 8개 정도의 토큰으로 압축합니다. 실시간 로봇 제어의 추론 속도를 위한 트릭입니다.
+
+### 알아둘 용어 — 행동 양자화 (Action Discretization)
+
+연속적인 행동 값을 정해진 개수의 구간으로 나눠 정수 토큰으로 만드는 방식입니다. RT-1은 각 차원의 값 범위를 256개 구간으로 균등하게 나눴습니다. 이렇게 하면 회귀(regression)가 아니라 분류(classification) 문제로 풀 수 있어, 트랜스포머의 cross-entropy loss와 자연스럽게 맞물립니다. 다만 양자화 오차가 발생하므로 정밀한 제어에는 한계가 있습니다 — 이 한계를 푸는 게 나중에 ACT·Diffusion Policy·π₀가 하는 일입니다.
+
+### 결과와 의의
+
+RT-1은 700개 이상의 task에서 97%의 성공률을 달성했습니다. 더 인상적인 건 **데이터를 늘릴수록 성능이 계속 좋아진다**는 scaling 패턴을 로봇에서도 보여줬다는 점입니다. NLP에서 일어난 일이 로봇에서도 일어날 수 있다는 첫 강력한 신호였습니다.
+
+### VLA가 여기서 받은 것
+
+RT-1은 사실상 **VLA의 첫 모델**입니다. "VLA"라는 이름은 후속작 RT-2 시점에서 본격적으로 자리잡지만, 그 형식 — 비전 입력 + 자연어 명령 + 행동 토큰 출력 + 트랜스포머 백본 — 은 RT-1에서 완성됐습니다. 이후 모든 VLA 모델이 RT-1의 이 청사진을 변형한 것이라고 봐도 무방합니다.
+
+> **요점**
+>
+> RT-1은 "대규모 로봇 시연 + 트랜스포머 + 행동 토큰화"의 청사진을 처음으로 굴려낸 모델입니다. VLA의 직접적인 원형이라 보시면 됩니다.
+
+---
+
+## 정리 — 이 3편이 만든 흐름
+
+세 편이 차곡차곡 쌓이며 VLA의 형식이 완성되어 갑니다.
+
+| 논문 | 핵심 기여 | 다음 단계로 넘어간 자리 |
+|---|---|---|
+| BC-Z (2021) | task conditioning · 한 모델 다중 task | "어떤 task인지"를 입력으로 받는 형식 |
+| Gato (2022) | 모든 모달리티를 토큰으로 통합 | "로봇 행동도 토큰"의 개념 정당성 |
+| RT-1 (2022) | 대규모 시연 + 행동 토큰 양자화 | VLA의 형식 완성 |
+
+```mermaid
+flowchart LR
+    BC["BC-Z<br/>task conditioning"] --> RT1["RT-1<br/>대규모 시연 + 트랜스포머"]
+    GATO["Gato<br/>모든 게 토큰"] --> RT1
+    RT1 --> RT2["다음 단계<br/>(RT-2, VLA 등장)"]
+```
+
+### 한 줄 요약
+
+> **BC-Z가 형식을 제안하고, Gato가 정당성을 주고, RT-1이 청사진을 완성했습니다. 이 셋이 모이면서 비로소 VLA가 등장할 무대가 마련됐습니다.**
+
+다만 이 시기 모방학습에는 여전히 풀리지 않은 큰 숙제가 있었습니다 — **정밀한 양손 작업**과 **multimodal 행동 분포**의 표현입니다. 다음 글에서 이 숙제를 푸는 ACT와 Diffusion Policy 이야기를 풀어 갑니다.
+
+---
+
+## 다음 글 안내
+
+- 다음 글 → [정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA](/blog/AI/VLA/precision-imitation)
+- 이전 글 → [VLA 이전의 시간 — Transformer·ViT·CLIP·Decision Transformer](/blog/AI/VLA/before-vla)
+- 시리즈 전체 지도 → [VLA 학습 로드맵](/blog/AI/VLA/intro)
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

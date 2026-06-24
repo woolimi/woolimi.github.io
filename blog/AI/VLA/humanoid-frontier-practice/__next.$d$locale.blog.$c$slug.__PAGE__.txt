@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+d:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+f:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/VLA","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA\",\"description\":\"7편의 SmolVLA를 LeRobot으로 직접 굴려봅니다. 450M 파라미터의 작은 모델이 노트북에서 어떻게 작동하는지 확인하고, LeRobot 데이터셋으로 finetune까지 해봅니다.\",\"image\":\"https://woolimi.github.io/og?title=[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA\",\"url\":\"https://woolimi.github.io/blog/AI/VLA/humanoid-frontier-practice\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"daYSb-F_eN6guYM3z_tND"}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA"}]
+e:T185e,
+## 들어가며
+
+[7편](/blog/AI/VLA/humanoid-frontier)의 SmolVLA는 450M 파라미터로 맥북·라즈베리파이에서도 작동합니다. 이 실습 글은 "GPU 없이도 VLA를 가질 수 있다"는 명제를 직접 확인하는 자리입니다.
+
+이번 글에서 다룰 두 가지는 다음과 같습니다.
+
+1. **SmolVLA 추론** — LeRobot에 통합된 사전학습 모델로 시뮬레이션 task 수행
+2. **자기 데이터로 finetune** — LeRobot Hub의 데이터셋으로 SmolVLA를 적응
+
+GR00T N1(NVIDIA Isaac Sim 필요)은 환경 설치가 무거워 별도로 다룹니다. 글 끝에 진입점만 안내합니다.
+
+---
+
+## 0. 환경 준비
+
+```bash
+git clone https://github.com/huggingface/lerobot.git
+cd lerobot
+pip install -e ".[smolvla,aloha]"
+```
+
+설치 확인:
+
+```python
+from lerobot.common.policies.smolvla.modeling_smolvla import SmolVLAPolicy
+print("smolvla available")
+```
+
+CPU만 있어도 추론은 가능합니다. M-series 맥북에서는 MPS로 가속됩니다.
+
+---
+
+## 1. SmolVLA 추론
+
+```python
+import torch
+import gym_aloha
+import gymnasium as gym
+import imageio
+
+from lerobot.common.policies.smolvla.modeling_smolvla import SmolVLAPolicy
+
+# Apple Silicon이면 MPS, 그 외엔 CUDA / CPU
+device = (
+    "mps" if torch.backends.mps.is_available()
+    else "cuda" if torch.cuda.is_available()
+    else "cpu"
+)
+
+# 사전학습 SmolVLA (~1GB)
+policy = SmolVLAPolicy.from_pretrained("lerobot/smolvla_base")
+policy.to(device).eval()
+
+env = gym.make(
+    "gym_aloha/AlohaTransferCube-v0",
+    obs_type="pixels_agent_pos",
+    max_episode_steps=400,
+)
+
+obs, info = env.reset(seed=42)
+frames = [env.render()]
+done = False
+total_reward = 0
+
+while not done:
+    state = torch.from_numpy(obs["agent_pos"]).float().to(device).unsqueeze(0)
+    images = {
+        f"observation.images.{cam}":
+            torch.from_numpy(obs["pixels"][cam])
+                .float().permute(2, 0, 1).unsqueeze(0).to(device) / 255.0
+        for cam in obs["pixels"]
+    }
+    observation = {
+        "observation.state": state,
+        **images,
+        "task": "transfer the cube",
+    }
+    with torch.no_grad():
+        action = policy.select_action(observation)
+
+    obs, reward, terminated, truncated, info = env.step(action.squeeze(0).cpu().numpy())
+    done = terminated or truncated
+    frames.append(env.render())
+    total_reward += reward
+
+print(f"reward: {total_reward:.2f}, success: {info.get('is_success', False)}")
+imageio.mimsave("smolvla_aloha.mp4", frames, fps=50)
+```
+
+### 결과 해석
+
+이 코드를 맥북에서 돌리면 한 episode가 5~10분 정도 걸립니다. SmolVLA는 π₀의 ⅙ 크기지만 task description을 받아 적절한 양팔 행동을 만들어냅니다.
+
+추론 속도가 부족하면 `policy.async_inference = True`를 활성화해 다음 chunk를 미리 계산하게 할 수 있습니다 (LeRobot ≥ 0.10).
+
+---
+
+## 2. 자기 데이터로 SmolVLA Finetune
+
+LeRobot Hub에는 [SO-100·SO-101](https://huggingface.co/datasets?other=lerobot) 같은 저가 양팔 시스템으로 수집한 공개 데이터셋이 많습니다. 이걸로 SmolVLA를 자기 task에 적응시킬 수 있습니다.
+
+### 2-1. 데이터셋 받기
+
+```bash
+# Hugging Face에서 LeRobot 데이터셋 다운로드 (예: 양말 정리 task)
+huggingface-cli download lerobot/koch_sock_pickup --repo-type dataset
+```
+
+[RoboCasa](https://robocasa.ai/) 같은 시뮬레이션 데이터셋도 같은 형식으로 사용할 수 있습니다.
+
+### 2-2. 학습 스크립트
+
+```bash
+python lerobot/scripts/train.py \
+  --dataset.repo_id=lerobot/koch_sock_pickup \
+  --policy.path=lerobot/smolvla_base \
+  --output_dir=outputs/smolvla_koch_sock \
+  --job_name=smolvla_koch_sock \
+  --policy.device=cuda \
+  --batch_size=64 \
+  --steps=20000 \
+  --eval_freq=2500 \
+  --wandb.enable=false
+```
+
+핵심 인자:
+- `--batch_size=64` — 24GB GPU 기준. 8GB라면 16~32로 낮춥니다.
+- `--steps=20000` — SmolVLA는 작아서 짧게 학습해도 충분합니다.
+- `--policy.path=lerobot/smolvla_base` — 사전학습 체크포인트에서 출발.
+
+학습 시간은 RTX 4090 기준 약 2~4시간입니다.
+
+### 2-3. Finetuned 모델로 추론
+
+```python
+policy = SmolVLAPolicy.from_pretrained(
+    "outputs/smolvla_koch_sock/checkpoints/last"
+)
+```
+
+이전 코드에서 모델 경로만 바꾸면 됩니다.
+
+### 결과 해석
+
+자기 task에 맞춘 SmolVLA는 base보다 훨씬 정밀하게 작동합니다. 다만 SmolVLA의 한계는 명확합니다 — 학습 task의 다양성이 부족하면 일반화가 약합니다. SO-100·SO-101 같은 저가 하드웨어로 모은 다양한 task를 함께 학습하면 더 좋아집니다.
+
+---
+
+## 3. (옵션) GR00T N1 — 휴머노이드를 다루고 싶다면
+
+GR00T N1은 NVIDIA Isaac Sim과 묶인 휴머노이드 전용 generalist입니다. 환경 설치가 무겁습니다(NVIDIA Isaac, Omniverse).
+
+진입점만 안내하면:
+
+- [GR00T N1 GitHub](https://github.com/NVIDIA/Isaac-GR00T) — 사전학습 체크포인트와 추론 가이드
+- [Isaac Lab](https://github.com/isaac-sim/IsaacLab) — 시뮬레이션 환경
+- 권장 사양: RTX 4090 이상 + 64GB RAM + Linux (또는 WSL2)
+
+휴머노이드 전체 시뮬레이션은 무거우므로, 본격적으로 들어가기 전에 SmolVLA·OpenVLA로 충분히 익숙해지신 다음을 권합니다.
+
+---
+
+## 정리
+
+| 실습 | 손에 잡힌 개념 |
+|---|---|
+| SmolVLA + ALOHA sim | 작은 VLA가 노트북에서 작동하는 모습 |
+| SmolVLA finetune | 저가 데이터셋으로 자기 task에 적응 |
+
+이 시리즈의 마지막 실습입니다. SmolVLA는 [SO-100·SO-101 같은 저가 양팔](https://huggingface.co/lerobot)과 묶여 진짜 책상 위 로봇 실험으로 자연스럽게 연결됩니다.
+
+읽어 주셔서 감사합니다. 시리즈를 처음부터 끝까지 따라오신 분이라면, 이제 어떤 VLA 논문이나 코드를 만나도 그것이 어느 단계의 어떤 흐름에 속하는지 감을 잡으실 수 있을 겁니다.
+
+---
+
+## 다음 글 안내
+
+- 이전 실습 → [[실습] π₀](/blog/AI/VLA/pi-series-practice)
+- 본문 글 → [휴머노이드와 최전선](/blog/AI/VLA/humanoid-frontier)
+- 시리즈 전체 지도 → [VLA 학습 로드맵](/blog/AI/VLA/intro)
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

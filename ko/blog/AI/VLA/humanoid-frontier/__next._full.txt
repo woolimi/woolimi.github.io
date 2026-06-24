@@ -1,0 +1,395 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/2tlxvxm6wa1ik.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","AI","VLA","humanoid-frontier"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","AI/VLA/humanoid-frontier","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2tlxvxm6wa1ik.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3get_lhqa15rg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1h5524slst_qv.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0gu-kwreyedfq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2evnbn3j6stft.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"daYSb-F_eN6guYM3z_tND"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat"}]},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기"}]},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법"}]},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측"}]},{"name":"VLA","type":"folder","path":"AI/VLA","children":[{"name":"00.intro.ko.md","type":"file","path":"AI/VLA/00.intro.ko.md","slug":"AI/VLA/intro","locale":"ko","title":"VLA 학습 로드맵 — 이야기로 따라가는 발전사"},{"name":"01.before-vla-practice.ko.md","type":"file","path":"AI/VLA/01.before-vla-practice.ko.md","slug":"AI/VLA/before-vla-practice","locale":"ko","title":"[실습] VLA 이전의 시간 — Self-Attention·ViT·CLIP을 직접 굴려보기"},{"name":"01.before-vla.ko.md","type":"file","path":"AI/VLA/01.before-vla.ko.md","slug":"AI/VLA/before-vla","locale":"ko","title":"VLA 이전의 시간 — Transformer·ViT·CLIP·Decision Transformer"},{"name":"02.imitation-learning-foundations.ko.md","type":"file","path":"AI/VLA/02.imitation-learning-foundations.ko.md","slug":"AI/VLA/imitation-learning-foundations","locale":"ko","title":"모방학습의 시작 — BC-Z, Gato, RT-1"},{"name":"03.precision-imitation-practice.ko.md","type":"file","path":"AI/VLA/03.precision-imitation-practice.ko.md","slug":"AI/VLA/precision-imitation-practice","locale":"ko","title":"[실습] 정밀 모방학습 — ACT·Diffusion Policy를 LeRobot으로"},{"name":"03.precision-imitation.ko.md","type":"file","path":"AI/VLA/03.precision-imitation.ko.md","slug":"AI/VLA/precision-imitation","locale":"ko","title":"정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA"},{"name":"04.vla-is-born.ko.md","type":"file","path":"AI/VLA/04.vla-is-born.ko.md","slug":"AI/VLA/vla-is-born","locale":"ko","title":"VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat"},{"name":"05.opensource-wave-practice.ko.md","type":"file","path":"AI/VLA/05.opensource-wave-practice.ko.md","slug":"AI/VLA/opensource-wave-practice","locale":"ko","title":"[실습] OpenVLA로 VLA 직접 만져보기"},{"name":"05.opensource-wave.ko.md","type":"file","path":"AI/VLA/05.opensource-wave.ko.md","slug":"AI/VLA/opensource-wave","locale":"ko","title":"오픈소스가 따라잡다 — Open X-Embodiment, Octo, OpenVLA, RDT-1B"},{"name":"06.pi-series-practice.ko.md","type":"file","path":"AI/VLA/06.pi-series-practice.ko.md","slug":"AI/VLA/pi-series-practice","locale":"ko","title":"[실습] π₀ 행동 생성을 LeRobot으로"},{"name":"06.pi-series.ko.md","type":"file","path":"AI/VLA/06.pi-series.ko.md","slug":"AI/VLA/pi-series","locale":"ko","title":"π 시리즈와 산업화의 시작 — π₀, π₀-FAST, π₀.₅"},{"name":"07.humanoid-frontier-practice.ko.md","type":"file","path":"AI/VLA/07.humanoid-frontier-practice.ko.md","slug":"AI/VLA/humanoid-frontier-practice","locale":"ko","title":"[실습] SmolVLA로 시작하기 — 맥북에서도 도는 작은 VLA"},{"name":"07.humanoid-frontier.ko.md","type":"file","path":"AI/VLA/07.humanoid-frontier.ko.md","slug":"AI/VLA/humanoid-frontier","locale":"ko","title":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}]},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가"}]},{"name":"Arduino","type":"folder","path":"Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Arduino/00.arduino.ko.md","slug":"Arduino/arduino","locale":"ko","title":"Arduino 기본 지식"},{"name":"01.switch.ko.md","type":"file","path":"Arduino/01.switch.ko.md","slug":"Arduino/switch","locale":"ko","title":"Arduino Switch"},{"name":"02.serial.ko.md","type":"file","path":"Arduino/02.serial.ko.md","slug":"Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기"},{"name":"03.led.ko..md","type":"file","path":"Arduino/03.led.ko..md","slug":"Arduino/led.ko.","locale":"$undefined","title":"Arduino LED"},{"name":"04.rfid.ko.md","type":"file","path":"Arduino/04.rfid.ko.md","slug":"Arduino/rfid","locale":"ko","title":"Arduino RFID"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Arduino/05.arduino-llm.ko.md","slug":"Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기"}]},{"name":"claude","type":"folder","path":"claude","children":[{"name":"00.setup.md","type":"file","path":"claude/00.setup.md","slug":"claude/setup","locale":"$undefined","title":"claude 코드로 sudo"}]},{"name":"Coding Test","type":"folder","path":"Coding Test","children":[{"name":"Brute-Force Search","type":"folder","path":"Coding Test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"Coding Test/Brute-Force Search/01.problem1.ko.ipynb","slug":"Coding Test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기"}]},{"name":"Data Structure","type":"folder","path":"Coding Test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"Coding Test/Data Structure/00.intro.ko.md","slug":"Coding Test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리"}]},{"name":"Sort","type":"folder","path":"Coding Test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"Coding Test/Sort/00.intro.ko.ipynb","slug":"Coding Test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리"}]},{"name":"SQL","type":"folder","path":"Coding Test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"Coding Test/SQL/00.order-by.ko.md","slug":"Coding Test/SQL/order-by","locale":"ko","title":null},{"name":"01.string.ko.md","type":"file","path":"Coding Test/SQL/01.string.ko.md","slug":"Coding Test/SQL/string","locale":"ko","title":null}]}]},{"name":"Computer Science","type":"folder","path":"Computer Science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"Computer Science/00.process-vs-thread.ko.md","slug":"Computer Science/process-vs-thread","locale":"ko","title":"프로세스와 스레드"},{"name":"01.endian.ko.md","type":"file","path":"Computer Science/01.endian.ko.md","slug":"Computer Science/endian","locale":"ko","title":"엔디안"}]},{"name":"CPP","type":"folder","path":"CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"CPP/00.reference.ko.md","slug":"CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)"},{"name":"01.member-access-operator.ko.md","type":"file","path":"CPP/01.member-access-operator.ko.md","slug":"CPP/member-access-operator","locale":"ko","title":"member access operator"},{"name":"02.template.ko.md","type":"file","path":"CPP/02.template.ko.md","slug":"CPP/template","locale":"ko","title":"Template"},{"name":"03.smart-pointer.ko.md","type":"file","path":"CPP/03.smart-pointer.ko.md","slug":"CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)"}]},{"name":"DB","type":"folder","path":"DB","children":[{"name":"MySQL","type":"folder","path":"DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"DB/MySQL/00.install.ko.md","slug":"DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행"},{"name":"01.sql-language.ko.md","type":"file","path":"DB/MySQL/01.sql-language.ko.md","slug":"DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리"},{"name":"02.user-management.ko.md","type":"file","path":"DB/MySQL/02.user-management.ko.md","slug":"DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리"},{"name":"03.table.ko.md","type":"file","path":"DB/MySQL/03.table.ko.md","slug":"DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리"},{"name":"04.dml.ko.md","type":"file","path":"DB/MySQL/04.dml.ko.md","slug":"DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)"},{"name":"05.operators.ko.md","type":"file","path":"DB/MySQL/05.operators.ko.md","slug":"DB/MySQL/operators","locale":"ko","title":"MySQL 연산자"},{"name":"06.union.ko.md","type":"file","path":"DB/MySQL/06.union.ko.md","slug":"DB/MySQL/union","locale":"ko","title":"MySQL UNION"},{"name":"07.join.ko.md","type":"file","path":"DB/MySQL/07.join.ko.md","slug":"DB/MySQL/join","locale":"ko","title":"MySQL JOIN"},{"name":"08.result-control.ko.md","type":"file","path":"DB/MySQL/08.result-control.ko.md","slug":"DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어"},{"name":"09.backup.ko.md","type":"file","path":"DB/MySQL/09.backup.ko.md","slug":"DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원"},{"name":"10.csv-to-db.ko.md","type":"file","path":"DB/MySQL/10.csv-to-db.ko.md","slug":"DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python"},{"name":"11.aggregate-func.ko.md","type":"file","path":"DB/MySQL/11.aggregate-func.ko.md","slug":"DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY"},{"name":"12.scalar-func.ko.md","type":"file","path":"DB/MySQL/12.scalar-func.ko.md","slug":"DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary"},{"name":"13.subquery.ko.md","type":"file","path":"DB/MySQL/13.subquery.ko.md","slug":"DB/MySQL/subquery","locale":"ko","title":"Subquery"}]}]},{"name":"Docker","type":"folder","path":"Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"Docker/00.basic.ko.md","slug":"Docker/basic","locale":"ko","title":"Docker 기본"},{"name":"01.create-image.ko.md","type":"file","path":"Docker/01.create-image.ko.md","slug":"Docker/create-image","locale":"ko","title":"Docker 이미지 생성"},{"name":"02.docker-hub.ko.md","type":"file","path":"Docker/02.docker-hub.ko.md","slug":"Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push"},{"name":"03.useful-commands.ko.md","type":"file","path":"Docker/03.useful-commands.ko.md","slug":"Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어"}]},{"name":"Functional Programming","type":"folder","path":"Functional Programming","children":[{"name":"00.basic.ko.md","type":"file","path":"Functional Programming/00.basic.ko.md","slug":"Functional Programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"Functional Programming/01.functional-vs-imperative.ko.md","slug":"Functional Programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative"},{"name":"02.fxts.ko.md","type":"file","path":"Functional Programming/02.fxts.ko.md","slug":"Functional Programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs"},{"name":"03.monad.ko.md","type":"file","path":"Functional Programming/03.monad.ko.md","slug":"Functional Programming/monad","locale":"ko","title":"FP Workshop - 3. Monad"}]},{"name":"git","type":"folder","path":"git","children":[{"name":"00.config.ko.md","type":"file","path":"git/00.config.ko.md","slug":"git/config","locale":"ko","title":"Git Config 설정 정리"}]},{"name":"Jupyter Notebook","type":"folder","path":"Jupyter Notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"Jupyter Notebook/00.setup.ko..md","slug":"Jupyter Notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드"}]},{"name":"OpenCV","type":"folder","path":"OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"OpenCV/00.basic.ko.md","slug":"OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법"},{"name":"01.camera.ko.md","type":"file","path":"OpenCV/01.camera.ko.md","slug":"OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리"},{"name":"02.filtering.ko.md","type":"file","path":"OpenCV/02.filtering.ko.md","slug":"OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법"},{"name":"03.histogram.ko.ipynb","type":"file","path":"OpenCV/03.histogram.ko.ipynb","slug":"OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"OpenCV/04.mediapipe.ko.ipynb","slug":"OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정"}]},{"name":"Python","type":"folder","path":"Python","children":[{"name":"00.settings.ko.md","type":"file","path":"Python/00.settings.ko.md","slug":"Python/settings","locale":"ko","title":"Python 개발환경 설정"},{"name":"01.number.ko.md","type":"file","path":"Python/01.number.ko.md","slug":"Python/number","locale":"ko","title":"Python 숫자형"},{"name":"02.string.ko.md","type":"file","path":"Python/02.string.ko.md","slug":"Python/string","locale":"ko","title":"Python 문자열"},{"name":"03.list.ko.md","type":"file","path":"Python/03.list.ko.md","slug":"Python/list","locale":"ko","title":"Python 리스트"},{"name":"04.tuple.ko.md","type":"file","path":"Python/04.tuple.ko.md","slug":"Python/tuple","locale":"ko","title":"Python 튜플"},{"name":"05.dict.ko.md","type":"file","path":"Python/05.dict.ko.md","slug":"Python/dict","locale":"ko","title":"Python 딕셔너리"},{"name":"06.set.ko.md","type":"file","path":"Python/06.set.ko.md","slug":"Python/set","locale":"ko","title":"Python 집합"},{"name":"07.bool.ko.md","type":"file","path":"Python/07.bool.ko.md","slug":"Python/bool","locale":"ko","title":"Python 불리언"},{"name":"08.statement.ko.md","type":"file","path":"Python/08.statement.ko.md","slug":"Python/statement","locale":"ko","title":"Python 제어문"},{"name":"09.function.ko.md","type":"file","path":"Python/09.function.ko.md","slug":"Python/function","locale":"ko","title":"Python 함수"},{"name":"10.pythonic.ko.md","type":"file","path":"Python/10.pythonic.ko.md","slug":"Python/pythonic","locale":"ko","title":"Pythonic Code"},{"name":"11.class.ko.md","type":"file","path":"Python/11.class.ko.md","slug":"Python/class","locale":"ko","title":"Python 클래스"},{"name":"12.dataclass.ko.md","type":"file","path":"Python/12.dataclass.ko.md","slug":"Python/dataclass","locale":"ko","title":"Python 데이터클래스"},{"name":"13.package.ko.md","type":"file","path":"Python/13.package.ko.md","slug":"Python/package","locale":"ko","title":"Python 패키지와 모듈"}]},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)"}]},{"name":"ROS","type":"folder","path":"ROS","children":[{"name":"concepts","type":"folder","path":"ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"ROS/concepts/01.nodes.ko.md","slug":"ROS/concepts/nodes","locale":"ko","title":"basic - nodes"},{"name":"02.interfaces.ko.md","type":"file","path":"ROS/concepts/02.interfaces.ko.md","slug":"ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces"},{"name":"03.topics.ko.md","type":"file","path":"ROS/concepts/03.topics.ko.md","slug":"ROS/concepts/topics","locale":"ko","title":"basic - topics"},{"name":"04.services.ko.md","type":"file","path":"ROS/concepts/04.services.ko.md","slug":"ROS/concepts/services","locale":"ko","title":"basic - services"},{"name":"05.actions.ko.md","type":"file","path":"ROS/concepts/05.actions.ko.md","slug":"ROS/concepts/actions","locale":"ko","title":"basic - actions"},{"name":"06.parameters.ko.md","type":"file","path":"ROS/concepts/06.parameters.ko.md","slug":"ROS/concepts/parameters","locale":"ko","title":"basic - parameters"},{"name":"07.launch.ko.md","type":"file","path":"ROS/concepts/07.launch.ko.md","slug":"ROS/concepts/launch","locale":"ko","title":"basic - launch"},{"name":"08.rcl.ko.md","type":"file","path":"ROS/concepts/08.rcl.ko.md","slug":"ROS/concepts/rcl","locale":"ko","title":"basic - rcl"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"ROS/concepts/09.ros_domain_id.ko.md","slug":"ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"ROS/concepts/10.middleware-vendors.ko.md","slug":"ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors"},{"name":"11.logging.ko.md","type":"file","path":"ROS/concepts/11.logging.ko.md","slug":"ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration"},{"name":"12.qos.ko.md","type":"file","path":"ROS/concepts/12.qos.ko.md","slug":"ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings"},{"name":"13.executors.ko.md","type":"file","path":"ROS/concepts/13.executors.ko.md","slug":"ROS/concepts/executors","locale":"ko","title":"intermediate - executors"},{"name":"14.topic-statistics.ko.md","type":"file","path":"ROS/concepts/14.topic-statistics.ko.md","slug":"ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics"},{"name":"15.rqt.ko.md","type":"file","path":"ROS/concepts/15.rqt.ko.md","slug":"ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt"},{"name":"16.composition.ko.md","type":"file","path":"ROS/concepts/16.composition.ko.md","slug":"ROS/concepts/composition","locale":"ko","title":"intermediate - composition"},{"name":"17.cross-compilation.ko.md","type":"file","path":"ROS/concepts/17.cross-compilation.ko.md","slug":"ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation"},{"name":"18.ros2-security.ko.md","type":"file","path":"ROS/concepts/18.ros2-security.ko.md","slug":"ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security"},{"name":"19.tf2.ko.md","type":"file","path":"ROS/concepts/19.tf2.ko.md","slug":"ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2"}]},{"name":"00.install.ko.md","type":"file","path":"ROS/00.install.ko.md","slug":"ROS/install","locale":"ko","title":"맥에서 ros2 설치하기"},{"name":"01.pkg.ko.md","type":"file","path":"ROS/01.pkg.ko.md","slug":"ROS/pkg","locale":"ko","title":"workspace & package"},{"name":"02.nav2.ko.md","type":"file","path":"ROS/02.nav2.ko.md","slug":"ROS/nav2","locale":"ko","title":"ROS2 Nav2"},{"name":"03.behavior-tree.ko.md","type":"file","path":"ROS/03.behavior-tree.ko.md","slug":"ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념"}]},{"name":"Terminator","type":"folder","path":"Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"Terminator/00.shortcuts.md","slug":"Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키"}]},{"name":"Web","type":"folder","path":"Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"Web/00.cloudflared.ko.md","slug":"Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법"}]}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+1d:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+1e:T55d5,
+## 들어가며
+
+[지난 글](/blog/AI/VLA/pi-series)에서는 π 시리즈가 VLA를 산업화 단계로 끌어올린 과정을 봤습니다. 하지만 2025년의 VLA 풍경은 π 시리즈만 있는 게 아닙니다. 같은 시기에 전혀 다른 방향으로 가는 작업들이 동시에 등장했습니다.
+
+이번 글에서 다룰 네 작업이 그 풍경을 보여줍니다.
+
+- **Helix (2025, Figure AI)** — 휴머노이드 전신 제어. **System 1 / System 2 dual-system** 으로 "느린 사고 + 빠른 반응".
+- **Gemini Robotics (2025, Google DeepMind)** — Gemini 2.0 위에 robotics tuning. spatial reasoning이 한 단계 위.
+- **GR00T N1 (2025, NVIDIA)** — 휴머노이드 전용 오픈소스 generalist. Isaac 시뮬레이터 통합.
+- **SmolVLA (2025, Hugging Face)** — 450M 파라미터, 맥북에서도 작동. 모두를 위한 VLA.
+
+이 네 작업이 각자 다른 방향으로 VLA의 경계를 밀어내고 있습니다. **"한 모델로 통일"이 아니라 "다양한 niche로 분화"** 가 지금의 풍경입니다.
+
+> 이 글은 [VLA 학습 로드맵](/blog/AI/VLA/intro) 시리즈의 마지막 글입니다.
+
+---
+
+## 0. 알아두면 좋은 사전 용어
+
+> [!TERM]
+>
+> **휴머노이드 (Humanoid Robot)**
+>
+> 사람의 형태(두 다리, 두 팔, 머리)를 모방한 로봇입니다. 양팔 매니퓰레이터에 비해 자유도가 훨씬 많고(보통 30+ DoF), 균형·보행 같은 추가 챌린지가 있습니다. Figure 02, Tesla Optimus, NVIDIA가 협력하는 Unitree H1 등이 있습니다.
+
+> [!TERM]
+>
+> **System 1 / System 2**
+>
+> 노벨상 수상 심리학자 Daniel Kahneman의 이중 처리 이론에서 빌려온 용어입니다. System 1은 빠르고 직관적인 처리(예: 운전 중 핸들 조작), System 2는 느리고 숙고적인 처리(예: 어려운 수학 문제 풀기)입니다. AI에서는 빠른 반응 모듈과 느린 추론 모듈을 분리하는 설계 패턴으로 자주 쓰입니다.
+
+> [!TERM]
+>
+> **Sim-to-Real**
+>
+> 시뮬레이션에서 학습한 정책을 실제 로봇으로 옮기는 과정입니다. 시뮬레이터의 물리·시각이 현실과 완전히 같지 않아서, 그 격차(reality gap)를 메우는 게 큰 챌린지입니다. NVIDIA의 Isaac Sim이 이 분야의 대표 도구입니다.
+
+> [!TERM]
+>
+> **Edge Inference**
+>
+> 클라우드 GPU가 아닌, 로봇이나 PC 같은 종단 디바이스에서 모델을 추론하는 것입니다. 통신 지연이 없고 프라이버시도 좋지만, 디바이스 메모리·연산 한계 때문에 모델이 작아야 합니다.
+
+> [!TERM]
+>
+> **World Model (세계 모델)**
+>
+> "어떤 행동을 하면 세상이 어떻게 변할지"를 예측하는 모델입니다. 정책이 "지금 무엇을 할지"를 답한다면, world model은 "그 결과 환경이 어떻게 변할지"를 답합니다. 머릿속에 시뮬레이션을 돌리는 것과 같아서, 행동을 실제로 해 보지 않고도 결과를 예상할 수 있습니다. NVIDIA의 Cosmos가 대표적이고, world model이 충분히 정확해지면 강화학습·계획 수립의 강력한 도구가 됩니다.
+
+> [!TERM]
+>
+> **Synthetic Data (합성 데이터)**
+>
+> 시뮬레이션이나 생성 모델로 만들어낸 가짜 학습 데이터입니다. 실제 로봇으로 시연을 모으는 것보다 비용이 훨씬 적게 들고, 무한히 다양한 상황을 만들어낼 수 있습니다. 단점은 시뮬레이션과 현실 사이의 reality gap. 현대의 휴머노이드 학습은 거의 합성 데이터에 의존하기 때문에, 이 격차를 줄이는 기법(domain randomization, 시각 augmentation, sim-to-real transfer)이 핵심 화두가 됩니다.
+
+---
+
+## 1. Helix — 휴머노이드를 위한 dual-system 설계
+
+📄 [Helix: A Vision-Language-Action Model for Humanoid Control](https://www.figure.ai/news/helix) — Figure AI (2025)
+
+### 어떤 문제를 풀려고 했나
+
+Figure AI는 2024~2025년 폭발적으로 자라난 휴머노이드 회사 중 하나입니다. Figure 02라는 자체 휴머노이드를 만들고, 이 로봇을 가정과 공장에서 작동시키는 게 목표입니다.
+
+그런데 휴머노이드 제어는 양팔 매니퓰레이터와 다른 챌린지가 있습니다.
+
+1. **자유도가 압도적으로 많습니다.** 양팔 14-DoF + 손가락 + 허리 + 다리 + 머리 — 35-DoF 이상입니다.
+2. **빠른 반응이 필요합니다.** 균형을 잡거나, 들고 가던 물건이 미끄러질 때 ms 단위로 반응해야 합니다. 50Hz로는 부족합니다.
+3. **동시에 추론도 필요합니다.** "주방 정리"같은 long-horizon task는 plan을 짜야 합니다.
+
+빠른 반응과 느린 추론은 양립하기 어렵습니다. 거대 모델은 추론은 잘하지만 느리고, 작은 모델은 빠르지만 추론이 약합니다.
+
+Figure AI의 답은 이랬습니다.
+
+> "두 모델을 조합하자. 느린 추론 모델(System 2)과 빠른 반응 모델(System 1)이 협력하게."
+
+### 핵심 발상 — System 1 / System 2 Dual-System
+
+Helix의 구조를 한눈에 보면 이렇습니다.
+
+```mermaid
+flowchart LR
+    I["이미지<br/>(머리·손목 카메라)"] --> S2["System 2<br/>(7B VLM)<br/>~9Hz"]
+    L["언어 명령"] --> S2
+    S2 --> LATENT["고차원 latent<br/>(이해 결과)"]
+    LATENT --> S1["System 1<br/>(80M Transformer)<br/>200Hz"]
+    P["로봇 자기상태<br/>(35+ DoF)"] --> S1
+    S1 --> A["전신 행동<br/>(35+ DoF, 200Hz)"]
+```
+
+- **System 2 — 7B VLM, ~9Hz** — 느리고 똑똑합니다. 이미지와 언어를 깊이 이해해 task의 high-level latent를 만듭니다. 9Hz면 약 110ms 한 번씩 갱신됩니다.
+- **System 1 — 80M 트랜스포머, 200Hz** — 빠르고 단순합니다. System 2의 latent와 현재 로봇 상태를 받아 200Hz로 전신 행동을 출력합니다.
+
+이 분리의 핵심은 **각 모듈이 자기 사이즈에 맞는 일에 집중**한다는 점입니다. System 2는 빠를 필요가 없으니 천천히 깊이 생각하고, System 1은 똑똑할 필요가 없으니 단순히 정해진 latent에 따라 빠르게 반응합니다.
+
+### 이 분리가 결정적인 이유
+
+휴머노이드의 균형 잡기, 손에서 미끄러진 물체를 잡기 같은 반사적 동작은 단일 거대 모델로는 불가능합니다. 200Hz가 안 나오면 로봇이 균형을 잃습니다. Helix는 이 한계를 dual-system 구조로 우회합니다.
+
+### Helix가 보여준 시연
+
+Figure AI 시연 영상에서 두 대의 Figure 02가 함께 식료품을 정리합니다. 한 대가 봉지에서 물건을 꺼내고, 다른 대가 그것을 받아 선반에 올립니다. 두 로봇 모두 같은 Helix 모델로 작동합니다. 협력·전신 제어·자연어 이해가 한 모델 안에 들어 있습니다.
+
+### 알아둘 용어 — Latent Conditioning
+
+System 2가 만드는 latent는 자연어가 아니라 고차원 벡터입니다. System 1은 이 벡터에 조건화된(conditioned) 행동을 출력합니다. **자연어로 두 모듈을 연결하지 않고 벡터로 연결**하는 게 핵심 디자인 결정입니다. 자연어는 정보 손실이 있고 토큰 단위 처리가 느립니다. 벡터는 풍부한 정보를 빠르게 전달할 수 있습니다.
+
+### VLA가 여기서 받은 것
+
+Helix의 dual-system 설계는 휴머노이드 VLA의 표준 패턴이 되어 가고 있습니다. 단일 모델로 모든 걸 하는 게 아니라, **속도-깊이 trade-off를 두 모듈로 나눠 푼다**는 발상이 강력합니다. 이후 다른 휴머노이드 회사들의 VLA 설계도 비슷한 방향으로 갑니다.
+
+> **요점**
+>
+> Helix는 휴머노이드의 빠른 반응 + 느린 추론 요구를 dual-system으로 분리해 푼 설계입니다. 산업용 휴머노이드 VLA의 한 표준이 됩니다.
+
+---
+
+## 2. Gemini Robotics — 빅테크의 차세대 멀티모달이 로봇과 만나다
+
+📄 [Gemini Robotics: Bringing AI into the Physical World](https://arxiv.org/abs/2503.20020) — Google DeepMind (2025)
+
+### 어떤 문제를 풀려고 했나
+
+PaLM-E와 RT-2 이후로 Google이 한동안 조용했습니다. 그동안 Gemini라는 차세대 거대 멀티모달 모델을 만들었고, 2025년 이를 로봇으로 확장한 게 Gemini Robotics입니다.
+
+핵심 질문은 이렇습니다.
+
+> "PaLM 시대에 만들었던 PaLM-E·RT-2를, 한 단계 위의 Gemini 2.0 위에 다시 만들면 어떨까?"
+
+### 핵심 발상 — Gemini의 spatial reasoning + long-context
+
+Gemini 2.0은 두 가지 면에서 PaLM·PaLI보다 한 단계 위입니다.
+
+1. **Spatial reasoning** — 이미지의 공간 관계를 정확히 이해합니다. "왼쪽에서 세 번째 컵", "사과 뒤에 있는 책" 같은 공간 표현을 정확히 처리합니다.
+2. **Long context** — 백만 토큰 수준의 긴 컨텍스트를 다룹니다. 긴 영상, 다중 카메라, 복잡한 명령을 한 번에 처리할 수 있습니다.
+
+Gemini Robotics는 이 두 강점을 그대로 로봇에 가져옵니다. 학습 데이터에 새 종류의 spatial reasoning task와 long-horizon task를 풍부하게 섞어, 모델이 이 능력을 행동으로도 표현할 수 있게 합니다.
+
+### 두 변종
+
+Gemini Robotics 보고서에는 두 모델이 있습니다.
+
+- **Gemini Robotics-ER** — Embodied Reasoning. 행동은 출력하지 않고 spatial reasoning과 plan만 생성. PaLM-E와 같은 위치.
+- **Gemini Robotics** — 본격 VLA. 행동까지 직접 출력. RT-2와 같은 위치.
+
+이렇게 plan 모델과 행동 모델을 별도로 두는 패턴은 모듈 분리의 또 다른 형태로 볼 수 있습니다.
+
+### 결과 — Dexterous Manipulation에 강점
+
+Gemini Robotics가 시연에서 보여준 능력에는 다음이 있습니다.
+
+- 종이접기 (정밀한 양손 협응)
+- 카드 뽑기 (미세한 손가락 제어)
+- 색깔 분류 + 공간 명령 ("빨간 블록을 가장 큰 컵 안에")
+- 새 환경에 zero-shot 적응
+
+Spatial reasoning이 강하다는 게 시연에서 명확히 드러납니다. "X 옆에 있는 Y" 같은 표현 처리가 다른 VLA보다 안정적입니다.
+
+### VLA가 여기서 받은 것
+
+Gemini Robotics는 두 가지 신호입니다.
+
+1. **빅테크가 다시 본격적으로 들어왔습니다.** Google이 RT 시리즈 이후 한동안 조용했다가, Gemini라는 더 강한 백본으로 돌아왔습니다.
+2. **Spatial reasoning이 차세대 차별화 포인트**임을 명확히 했습니다. 다음 세대 VLA들이 이 방향에 더 신경 쓰게 만들었습니다.
+
+다만 Gemini Robotics도 여전히 비공개입니다. RT-2가 비공개였던 것과 같은 패턴이 반복됩니다 — 빅테크의 SOTA가 학계와 분리되어 있는 구조.
+
+> **요점**
+>
+> Gemini Robotics는 Gemini 2.0의 spatial reasoning과 long-context 강점을 로봇에 그대로 가져온 차세대 빅테크 VLA입니다.
+
+---
+
+## 3. GR00T N1 — 휴머노이드 전용 오픈소스 generalist
+
+📄 [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734) — NVIDIA (2025)
+
+### 어떤 문제를 풀려고 했나
+
+NVIDIA는 GPU 회사이지만, 동시에 로봇 시뮬레이션과 학습 도구의 핵심 공급자(Isaac Sim, Isaac Lab, Cosmos)이기도 합니다. 휴머노이드 시대가 열리면서 NVIDIA는 더 깊이 들어옵니다 — **휴머노이드 전용 오픈소스 foundation model**을 직접 만들어 공개합니다.
+
+그게 GR00T N1입니다. (GR00T는 "Generalist Robot 00 Technology"의 약자, 영화 가디언즈 오브 갤럭시의 그루트에서 따온 이름)
+
+### 핵심 발상 — Helix를 닮은 dual-system + 오픈
+
+GR00T N1의 구조는 사실 Helix와 매우 비슷합니다. **System 2(VLM)와 System 1(빠른 행동)** 의 dual-system입니다.
+
+```mermaid
+flowchart LR
+    V["여러 카메라"] --> S2["System 2<br/>(VLM)<br/>~10Hz"]
+    L["언어"] --> S2
+    S2 --> LAT["latent"]
+    LAT --> S1["System 1<br/>(Diffusion Transformer)<br/>~120Hz"]
+    P["proprioception"] --> S1
+    S1 --> A["전신 행동"]
+```
+
+차이는 두 가지입니다.
+
+1. **오픈소스** — 코드, weight, 학습 스크립트, 평가 코드 모두 공개. 누구나 자기 휴머노이드에 적용 가능.
+2. **NVIDIA 생태계 통합** — Isaac Sim 시뮬레이터와 묶어 sim-to-real 파이프라인을 한 번에 제공.
+
+### 핵심 발상 — 시뮬레이션 + 실제 데이터 혼합 학습
+
+휴머노이드는 데이터가 너무 부족합니다. 양팔 매니퓰레이터처럼 puppeteering 시연도 어렵고(전신을 한 사람이 동시에 시연하기 힘듦), 비싼 휴머노이드를 굴려야 데이터가 나옵니다.
+
+GR00T N1은 이 문제를 **시뮬레이션 데이터 대량 합성**으로 풉니다.
+
+- Isaac Sim에서 다양한 휴머노이드 task를 수만~수십만 시간 분량 합성
+- 이걸 실제 휴머노이드 시연 데이터와 함께 학습 (co-training)
+- domain randomization과 visual augmentation으로 sim-to-real 격차를 줄임
+
+이 접근은 NVIDIA의 강점과 정확히 맞물립니다. GPU와 시뮬레이터가 충분하면, 데이터 부족이 더 이상 핵심 병목이 아닙니다.
+
+### 알아둘 용어 — Domain Randomization
+
+시뮬레이션 환경의 다양한 속성(조명, 텍스처, 마찰 계수, 카메라 각도 등)을 무작위로 바꿔가며 학습 데이터를 만드는 기법입니다. 이렇게 다양한 시뮬레이션을 본 모델은 실제 환경의 변화에도 더 잘 적응합니다. sim-to-real의 핵심 트릭입니다.
+
+### 알아둘 용어 — Cosmos World Foundation Model
+
+NVIDIA가 발표한 또 다른 모델로, 비디오를 생성하는 거대 모델입니다. GR00T N1과 결합해 "어떤 행동을 했을 때 어떤 영상이 나올지"를 미리 시뮬레이션하는 데 쓰입니다. 즉 **세계 모델(world model)** 의 역할입니다.
+
+학습 시에는 Cosmos로 만든 영상이 추가 시뮬레이션 데이터로 들어갑니다. 추론 시에는 후보 행동들의 결과 영상을 미리 만들어 보고 가장 좋아 보이는 행동을 고르는 식으로도 쓸 수 있습니다 — 머릿속 시뮬레이션으로 의사결정을 보조하는 셈이죠. 이 발상은 강화학습의 model-based RL 흐름과 자연스럽게 연결됩니다.
+
+### VLA가 여기서 받은 것
+
+GR00T N1의 영향은 두 가지입니다.
+
+1. **휴머노이드 VLA의 오픈 표준** — Helix·Tesla 등이 비공개로 가는 동안, GR00T N1이 학계·스타트업의 휴머노이드 연구 기반이 됩니다.
+2. **시뮬레이션 데이터 활용의 표준화** — sim-to-real 파이프라인이 한 묶음으로 제공되면서, 휴머노이드 진입장벽이 한 번에 낮아집니다.
+
+> **요점**
+>
+> GR00T N1은 NVIDIA가 자기 강점(GPU·시뮬레이터·생태계)으로 휴머노이드 VLA의 오픈 기반을 만든 작업입니다.
+
+---
+
+## 4. SmolVLA — 450M 파라미터, 맥북에서도
+
+📄 [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics](https://arxiv.org/abs/2506.01844) — Shukor 외, Hugging Face (2025)
+
+### 어떤 문제를 풀려고 했나
+
+VLA의 발전이 점점 거대 모델 방향으로 가는 동안, Hugging Face가 던진 질문은 정반대였습니다.
+
+> "VLA를 RTX 4090이나 A100 없이도 굴릴 수 있을까? 맥북에서, 라즈베리파이에서, 누구나 가진 디바이스에서?"
+
+이건 단순히 작게 만드는 문제가 아닙니다. **누가 VLA를 쓸 수 있는가**의 문제입니다. 거대 모델만 있으면 결국 큰 GPU를 가진 회사·연구실만 VLA를 쓸 수 있습니다. SmolVLA의 목표는 이 진입장벽을 한 번 더 낮추는 것입니다.
+
+### 핵심 발상 — 작지만 잘 작동하는 VLA
+
+SmolVLA의 사양은 다음과 같습니다.
+
+- **450M 파라미터** — OpenVLA의 1/15 크기.
+- **SmolLM2 백본** — Hugging Face의 작은 LLM
+- **CPU 추론 가능** — Apple M-series 맥북에서 실시간 작동
+- **Open-X로 학습 + 자체 LeRobot 데이터셋**
+
+> [!TERM]
+>
+> **SmolLM 시리즈가 어떤 모델인가**
+>
+> Hugging Face가 2024년부터 공개해 온 작은 LLM 시리즈로, 135M·360M·1.7B 등의 사이즈가 있습니다. 데이터·구조 모두 공개되어 있고, 같은 사이즈 대비 성능이 뛰어난 게 특징입니다. SmolVLA는 이 SmolLM2를 백본으로 써서 거대 LLM 없이도 자연어 이해를 갖춥니다. "큰 모델이 항상 답이 아니다"라는 메시지를 LLM 분야에서 먼저 보였고, SmolVLA가 그걸 VLA로 가져온 셈입니다.
+
+### 핵심 발상 — Asynchronous Inference
+
+작은 모델이라도 휴머노이드처럼 200Hz를 요구하지는 않지만, 그래도 빠른 반응이 필요합니다. SmolVLA는 **async inference**라는 트릭을 사용합니다.
+
+```mermaid
+flowchart LR
+    A["행동 chunk N개 출력"] --> EX["로봇이 실행<br/>(시간이 걸림)"]
+    EX --> B["다음 chunk 출력 시작"]
+    B -.병렬.- EX
+```
+
+행동 chunk를 출력하는 동안, 다음 chunk를 미리 예측해 둡니다. 다음 chunk가 필요할 때 이미 준비되어 있어 대기 시간이 없습니다. 작은 모델이지만 추론 latency가 사용자에게는 0인 것처럼 보이게 됩니다.
+
+### LeRobot 생태계와의 결합
+
+SmolVLA는 단독 모델이 아니라 **LeRobot 라이브러리** 의 핵심 모델로 등장했습니다. LeRobot은 Hugging Face가 만든 오픈 로봇 학습 라이브러리로, **SO-101 같은 100~200달러대 저가 양팔 시스템**을 함께 제공합니다.
+
+- SO-101 양팔 (~$300) + 맥북 + SmolVLA → 누구나 자기 책상에서 모방학습 실험 가능
+- LeRobot 데이터셋으로 시연 수집 → SmolVLA finetune → 자기 task 작동
+
+이 조합이 만든 진입장벽은 **거의 없는 수준**입니다. 1년 전만 해도 VLA 실습은 H100이 필요한 작업이었습니다. 지금은 맥북과 SO-101만 있으면 됩니다.
+
+### VLA가 여기서 받은 것
+
+SmolVLA는 분야의 풍경을 바꿨습니다.
+
+1. **VLA 실습이 학부생도 할 수 있는 일이 됐습니다.** 교육·취미·소규모 스타트업의 진입을 한 번 더 낮췄습니다.
+2. **"작지만 잘 작동하는 VLA가 가능하다"** 는 증명. 항상 거대 모델만이 답이 아니라는 메시지입니다.
+3. **Hugging Face가 로봇 분야의 핵심 플레이어로 자리잡았습니다.** LeRobot은 이제 VLA 실험의 사실상 표준 라이브러리입니다.
+
+> **요점**
+>
+> SmolVLA는 "작은 모델 + 저가 하드웨어 + 오픈 라이브러리"로 VLA의 진입장벽을 한 번 더 낮춘 작업입니다.
+
+---
+
+## 정리 — 2025년의 풍경
+
+이번 글의 네 작업이 보여주는 풍경은 한 줄로 요약하기 어렵습니다. 한 방향이 아니라 **여러 방향으로 동시에 분화**하고 있기 때문입니다.
+
+| 작업 | 누구 | 방향 |
+|---|---|---|
+| Helix | Figure AI | 휴머노이드 산업 제품화 (비공개) |
+| Gemini Robotics | Google DeepMind | 빅테크 차세대 SOTA (비공개) |
+| GR00T N1 | NVIDIA | 휴머노이드 오픈 + 시뮬레이션 통합 |
+| SmolVLA | Hugging Face | 누구나 쓸 수 있는 작은 VLA |
+
+```mermaid
+flowchart TD
+    VLA["2025년 VLA"] --> H["휴머노이드 방향"]
+    VLA --> B["빅테크 SOTA 방향"]
+    VLA --> S["접근성 방향"]
+    H --> HX["Helix"]
+    H --> GR["GR00T N1"]
+    B --> GR2["Gemini Robotics"]
+    S --> SV["SmolVLA"]
+```
+
+### VLA 분야의 큰 흐름 정리
+
+이 시리즈가 다룬 5단계의 흐름을 마지막으로 한 번 더 짚어봅니다.
+
+| 단계 | 시기 | 키워드 | 대표 작업 |
+|---|---|---|---|
+| 0. 배경 | 2017~2021 | 같은 형식의 토큰화 | Transformer, ViT, CLIP, DT |
+| 2-1. 모방학습 시작 | 2021~2022 | task conditioning + 트랜스포머 | BC-Z, Gato, RT-1 |
+| 2-2. 정밀 모방학습 | 2023 | action chunking, diffusion | ACT, Diffusion Policy, Mobile ALOHA |
+| 3. VLA 등장 | 2023 | 거대 VLM의 인터넷 지식 | PaLM-E, RT-2, RoboCat |
+| 4. 오픈소스 | 2024 | 데이터·모델·코드 공개 | Open-X, Octo, OpenVLA, RDT-1B |
+| 5-1. 산업화 | 2024~2025 | 모듈 분리, flow matching, co-training | π₀, π₀-FAST, π₀.₅ |
+| 5-2. 분화 | 2025 | 휴머노이드 / 빅테크 / 접근성 | Helix, Gemini Robotics, GR00T N1, SmolVLA |
+
+### 한 줄 요약
+
+> **VLA는 2017년 Transformer 한 편에서 출발해 8년 만에 휴머노이드 전신 제어부터 맥북에서 도는 작은 모델까지 분화한, 매우 빠르게 자라고 있는 분야입니다.**
+
+이 시리즈를 처음부터 끝까지 따라오신 분이라면, 이제 어떤 VLA 논문을 만나도 그것이 어느 단계의 어떤 흐름에 속하는지 감을 잡으실 수 있을 겁니다. 새 논문이 나올 때마다 "이건 RT-2 계열인가, π 계열인가, dual-system인가"를 가늠하실 수 있다면, 이 시리즈의 목표는 충분히 달성된 것입니다.
+
+직접 손으로 만져보고 싶으시다면, 이 글의 짝꿍 [[실습] SmolVLA로 시작하기](/blog/AI/VLA/humanoid-frontier-practice)를 따라가 보시기 바랍니다. 읽기와 실습은 다른 종류의 이해를 줍니다.
+
+읽어주셔서 감사합니다.
+
+---
+
+## 시리즈 전체
+
+- 0. [VLA 학습 로드맵](/blog/AI/VLA/intro) — 시리즈 전체 지도
+- 1. [VLA 이전의 시간](/blog/AI/VLA/before-vla) — Transformer·ViT·CLIP·Decision Transformer
+- 2. [모방학습의 시작](/blog/AI/VLA/imitation-learning-foundations) — BC-Z, Gato, RT-1
+- 3. [정밀 모방학습의 두 길](/blog/AI/VLA/precision-imitation) — ACT, Diffusion Policy, Mobile ALOHA
+- 4. [VLA가 정식으로 등장하다](/blog/AI/VLA/vla-is-born) — PaLM-E, RT-2, RoboCat
+- 5. [오픈소스가 따라잡다](/blog/AI/VLA/opensource-wave) — Open X-Embodiment, Octo, OpenVLA, RDT-1B
+- 6. [π 시리즈와 산업화의 시작](/blog/AI/VLA/pi-series) — π₀, π₀-FAST, π₀.₅
+- 7. **휴머노이드와 최전선** — Helix, Gemini Robotics, GR00T N1, SmolVLA *(이 글)*
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA\",\"description\":\"VLA가 휴머노이드 전신 제어로, 빅테크의 차세대 모델로, 그리고 맥북에서도 돌아가는 작은 모델로 동시에 갈라져 나간 2025년의 풍경을 정리합니다.\",\"image\":\"https://woolimi.github.io/og?title=휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA\",\"url\":\"https://woolimi.github.io/blog/AI/VLA/humanoid-frontier\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}],["$","article",null,{"children":["$","$L1d",null,{"children":"$1e"}]}]]}]}]
+1f:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+19:["$","$L1f",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L1f",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L1f",null,{"ref":null,"href":"/ko/blog/AI","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L1f",null,{"ref":null,"href":"/ko/blog/AI/VLA","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+20:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA | 박우림"}],["$","meta","1",{"name":"description","content":"VLA가 휴머노이드 전신 제어로, 빅테크의 차세대 모델로, 그리고 맥북에서도 돌아가는 작은 모델로 동시에 갈라져 나간 2025년의 풍경을 정리합니다."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"property":"og:title","content":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}],["$","meta","6",{"property":"og:description","content":"VLA가 휴머노이드 전신 제어로, 빅테크의 차세대 모델로, 그리고 맥북에서도 돌아가는 작은 모델로 동시에 갈라져 나간 2025년의 풍경을 정리합니다."}],["$","meta","7",{"property":"og:url","content":"https://woolimi.github.io/blog/AI/VLA/humanoid-frontier"}],["$","meta","8",{"property":"og:image","content":"https://woolimi.github.io/og?title=%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C%EC%99%80%20%EC%B5%9C%EC%A0%84%EC%84%A0%20%E2%80%94%20Helix,%20Gemini%20Robotics,%20GR00T%20N1,%20SmolVLA"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"휴머노이드와 최전선 — Helix, Gemini Robotics, GR00T N1, SmolVLA"}],["$","meta","12",{"name":"twitter:description","content":"VLA가 휴머노이드 전신 제어로, 빅테크의 차세대 모델로, 그리고 맥북에서도 돌아가는 작은 모델로 동시에 갈라져 나간 2025년의 풍경을 정리합니다."}],["$","meta","13",{"name":"twitter:image","content":"https://woolimi.github.io/og?title=%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C%EC%99%80%20%EC%B5%9C%EC%A0%84%EC%84%A0%20%E2%80%94%20Helix,%20Gemini%20Robotics,%20GR00T%20N1,%20SmolVLA"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","17",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","18",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L20","19",{}]]

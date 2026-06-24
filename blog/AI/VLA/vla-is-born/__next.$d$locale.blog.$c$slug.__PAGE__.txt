@@ -1,0 +1,312 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"default"]
+d:I[629911,["/_next/static/chunks/3get_lhqa15rg.js","/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/1h5524slst_qv.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/0gu-kwreyedfq.js","/_next/static/chunks/2evnbn3j6stft.js","/_next/static/chunks/3m0fjc5603mr1.js","/_next/static/chunks/13v-4n-qhtbpf.js","/_next/static/chunks/05delksreef4f.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/0heh8229j57ve.js"],"MarkdownContent",1]
+f:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/VLA","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat\",\"description\":\"거대 VLM의 인터넷 지식이 로봇 정책에 흘러들어오면서 VLA라는 이름이 자리잡는 순간을, 세 편의 2023년 논문으로 짚어봅니다.\",\"image\":\"https://woolimi.github.io/og?title=VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat\",\"url\":\"https://woolimi.github.io/blog/AI/VLA/vla-is-born\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],"$L4","$L5"]}]}],["$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"daYSb-F_eN6guYM3z_tND"}
+4:["$","h1",null,{"className":"text-3xl mb-4 md:mb-10 leading-none font-semibold tracking-tight sm:text-4xl sm:leading-none md:text-5xl md:leading-none lg:text-6xl lg:leading-none","children":"VLA가 정식으로 등장하다 — PaLM-E, RT-2, RoboCat"}]
+e:T4314,
+## 들어가며
+
+[지난 글](/blog/AI/VLA/precision-imitation)에서는 ACT와 Diffusion Policy가 모방학습의 정밀도를 끌어올린 과정을 봤습니다. 그런데 모방학습에는 여전히 결정적 한계가 있었습니다 — **인터넷 지식이 들어가지 않습니다.**
+
+RT-1이 학습한 데이터는 13만 trajectory입니다. ChatGPT가 학습한 텍스트는 수조 토큰입니다. 차이가 너무 큽니다. 로봇이 "사과를 집어"는 처리해도 "공룡을 집어"(학습 데이터에 없는 단어)는 처리하지 못합니다. 사람의 상식·세계 지식·언어 추론이 모두 빠진 정책인 거죠.
+
+2023년, Google과 DeepMind가 같은 질문을 던집니다.
+
+> "GPT-4 같은 거대 VLM이 가진 인터넷 지식을 로봇 정책에 그대로 흘려넣을 수 없을까?"
+
+이번 글에서 다룰 세 편의 논문이 이 질문에 각자 다른 답을 내놓습니다. 그리고 이 시기를 기점으로 **"VLA"라는 이름이 분야의 표준 용어로 자리잡습니다.**
+
+- **PaLM-E (2023)** — 562B LLM에 카메라 이미지를 토큰으로 주입한 첫 본격 시도
+- **RT-2 (2023)** — VLM을 그대로 가져와 행동을 텍스트 토큰처럼 출력하게 만든 결정타. **"VLA"라는 용어가 자리잡은 논문**
+- **RoboCat (2023)** — 다양한 로봇 임베디먼트에서 작동하는 generalist + self-improvement 루프
+
+> 이 글은 [VLA 학습 로드맵](/blog/AI/VLA/intro) 시리즈의 네 번째 글입니다.
+
+---
+
+## 0. 알아두면 좋은 사전 용어
+
+> [!TERM]
+>
+> **LLM (Large Language Model)**
+>
+> 수십억~수천억 파라미터의 텍스트 생성 모델입니다. GPT-4, PaLM, LLaMA 등이 여기 속합니다. 인터넷 텍스트로 사전학습되어 광범위한 세계 지식과 언어 추론 능력을 갖춥니다.
+
+> [!TERM]
+>
+> **VLM (Vision-Language Model)**
+>
+> LLM에 이미지 처리 능력을 더한 모델입니다. GPT-4V, PaLI, PaliGemma, LLaVA 등이 있습니다. 이미지를 받아 자연어로 설명하거나 질문에 답할 수 있습니다.
+
+> [!TERM]
+>
+> **VLA (Vision-Language-Action Model)**
+>
+> VLM에 행동 출력을 더한 모델입니다. 이번 글의 주인공인 RT-2 시점부터 이 이름이 분야의 표준이 됐습니다.
+
+> [!TERM]
+>
+> **Embodied AI**
+>
+> 물리적 몸체(로봇)를 가지고 환경과 상호작용하는 AI를 가리키는 용어입니다. PaLM-E의 'E'가 바로 embodied입니다.
+
+> [!TERM]
+>
+> **Emergent Capability (창발적 능력)**
+>
+> 모델이 일정 규모 이상으로 커지면, 작은 모델에서는 보이지 않던 능력이 갑자기 나타나는 현상입니다. GPT-3에서 처음 명확히 관찰됐고, RT-2에서 로봇 분야에도 등장합니다.
+
+---
+
+## 1. PaLM-E — LLM의 머릿속에 카메라를 끼우다
+
+📄 [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) — Driess 외, Google·TU Berlin (2023)
+
+### 어떤 문제를 풀려고 했나
+
+LLM은 텍스트로 plan을 잘 짭니다. 예를 들어 GPT-4에게 "주방에서 라면을 끓이는 단계"를 물어보면 합리적인 plan을 출력합니다. 그런데 이 plan을 실제 로봇이 실행하려면 두 가지가 더 필요합니다.
+
+1. **현재 환경 상태를 LLM이 인지해야 합니다.** "라면이 어디 있는지", "물이 끓고 있는지"를 카메라로 봐야 합니다.
+2. **plan의 각 step을 실제 로봇 행동으로 변환해야 합니다.**
+
+PaLM-E는 1번에 집중합니다. 질문은 이렇습니다.
+
+> "562B 거대 LLM(PaLM)에 카메라 이미지를 토큰으로 주입하면, 그 LLM이 환경을 보면서 plan을 짤 수 있지 않을까?"
+
+### 핵심 발상 — 이미지를 LLM의 입력 토큰으로
+
+PaLM-E는 ViT 같은 비전 인코더가 만든 이미지 임베딩을 LLM의 token embedding 공간에 **선형 투영(linear projection)** 으로 끼워넣습니다. LLM 입장에서는 텍스트 토큰 사이에 이미지 토큰이 자연스럽게 섞여 있는 한 시퀀스를 받는 셈입니다.
+
+```mermaid
+flowchart LR
+    I["이미지"] --> VIT["ViT"]
+    VIT --> P["선형 투영<br/>(LLM 임베딩 공간으로)"]
+    T["텍스트 prompt<br/>(예: 'pick up the')"] --> TE["텍스트 임베딩"]
+    P --> MIX["섞인 토큰 시퀀스"]
+    TE --> MIX
+    MIX --> LLM["562B LLM<br/>(PaLM)"]
+    LLM --> OUT["다음 텍스트 토큰<br/>(plan, 답변, action label)"]
+```
+
+이 단순한 구조 하나로 PaLM-E는 다음을 해냅니다.
+
+- 사진을 보고 자연어로 설명
+- VQA (Visual Question Answering) — 사진 보고 질문에 답
+- **로봇 plan 생성** — "긴 task를 단계별로 어떻게 수행할지" 자연어로 출력
+- 학습된 task 외의 새 task에도 zero-shot 일반화
+
+### 알아둘 용어 — Multimodal Sentence
+
+PaLM-E의 입력 형식을 가리키는 용어입니다. 토큰 시퀀스 안에 텍스트와 이미지 임베딩이 섞여 있는 구조로, 후속 모든 멀티모달 LLM의 표준이 됐습니다. GPT-4V도 본질적으로 같은 형식입니다.
+
+### 알아둘 용어 — PaLM·PaLI·PaliGemma 계보
+
+이 글과 다음 글들에서 자주 등장하는 Google 모델들의 관계를 짚어둡니다.
+
+- **PaLM (2022)** — Google이 만든 540B 거대 LLM. 텍스트만 다룹니다. PaLM-E의 'PaLM'이 이것입니다.
+- **PaLI (2022)** — Pathways Language and Image. PaLM에 이미지 인코더를 붙여 멀티모달로 확장한 VLM입니다. RT-2가 사용한 PaLI-X(55B)가 이 계열입니다.
+- **PaliGemma (2024)** — PaLI의 발상을 더 작고 오픈된 형태(3B)로 다시 만든 모델. 다음 글의 OpenVLA·π₀가 백본으로 사용합니다.
+
+이름이 비슷해 헷갈리지만, 한 줄로 보면 **"PaLM(텍스트) → PaLI(시각 추가) → PaliGemma(작고 오픈)"** 의 흐름입니다.
+
+### PaLM-E의 한계
+
+PaLM-E는 "plan을 자연어로 출력"하는 데까지만 합니다. 그 plan의 각 step을 실제 로봇 행동으로 바꾸는 일은 별도의 정책에 맡깁니다. 즉 **"head"는 LLM이지만 "hands"는 따로**입니다.
+
+이 한계를 정면으로 푸는 게 다음 주인공 RT-2입니다.
+
+### VLA가 여기서 받은 것
+
+PaLM-E는 두 가지를 증명했습니다.
+
+1. **거대 LLM이 시각을 보면서 로봇 plan을 짤 수 있다.** 이게 가능하다는 증명만으로도 분야 전체에 큰 자극이 됐습니다.
+2. **시각 정보를 토큰으로 LLM에 주입하는 형식**이 표준이 됐습니다. 이 형식이 그대로 RT-2의 입력 형식으로 이어집니다.
+
+> **요점**
+>
+> PaLM-E는 "거대 LLM에 카메라를 끼운다"는 발상을 처음 본격적으로 작동시킨 논문입니다. 다만 행동 출력은 별도 정책에 맡겨, 진짜 의미의 end-to-end VLA는 RT-2에서 완성됩니다.
+
+---
+
+## 2. RT-2 — VLA라는 이름이 자리잡은 논문
+
+📄 [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) — Brohan 외, Google DeepMind (2023)
+
+### 어떤 문제를 풀려고 했나
+
+PaLM-E는 plan만 출력하고 행동은 별도 정책에 맡겼습니다. 그러면 LLM의 인터넷 지식이 행동까지 직접 흘러들어가지는 못합니다.
+
+RT-2 저자들의 질문은 이랬습니다.
+
+> "거대 VLM이 행동을 직접 출력하게 만들면 어떨까? 행동을 텍스트 토큰처럼 다루면 가능하지 않을까?"
+
+### 핵심 발상 1 — 행동을 텍스트 토큰처럼
+
+RT-2는 PaLI-X(55B) 또는 PaLM-E(562B) 같은 사전학습된 VLM을 가져옵니다. 그리고 RT-1처럼 7-DoF 행동을 256단계로 양자화합니다. 이 양자화된 행동 정수를 **VLM의 토크나이저가 이미 알고 있는 정수 텍스트 토큰** (예: "128", "47" 같은 토큰)에 매핑합니다.
+
+> [!TERM]
+>
+> **토크나이저(tokenizer)와 어휘(vocabulary)**
+>
+> LLM이 텍스트를 처리하기 위해 미리 정해둔 "한 토큰 = 한 정수 ID" 사전입니다. PaLI-X 같은 VLM은 보통 수만 개의 토큰을 어휘로 갖고 있고, 그 안에는 "128", "47" 같은 정수 문자열도 이미 한 토큰씩 차지하고 있습니다. RT-2는 이 빈 자리를 빌려 행동 토큰으로 재활용합니다 — 새 토큰을 만들지 않고도 VLM의 학습된 가중치를 그대로 쓸 수 있는 깔끔한 트릭입니다.
+
+이렇게 하면 VLM 입장에서는 행동이 그냥 또 다른 텍스트 토큰입니다. 학습은 인터넷 데이터(VLM의 사전학습 데이터)와 RT-1 시연 데이터를 함께 보는 **co-finetuning**으로 합니다.
+
+```mermaid
+flowchart LR
+    I["이미지"] --> VLM
+    T["What should the<br/>robot do to ..."] --> VLM["거대 VLM<br/>(PaLI-X / PaLM-E)"]
+    VLM --> OUT["출력: '128 47 23 ...'<br/>(양자화된 행동 토큰)"]
+    OUT --> A["로봇 행동으로 디코딩"]
+```
+
+VLM은 인터넷 지식과 행동 데이터를 동시에 봤기 때문에, 둘이 자연스럽게 섞인 출력을 만들 수 있습니다. 학습에 없던 단어("rainbow")가 명령에 들어와도, VLM이 인터넷에서 본 '무지개'의 시각적 특성을 살려 적절한 행동을 출력합니다.
+
+### 핵심 발상 2 — Chain-of-Thought 활용
+
+RT-2는 더 나아가 **Chain-of-Thought (CoT)** 를 로봇 제어에 가져옵니다.
+
+> [!TERM]
+>
+> **Chain-of-Thought**
+>
+> LLM이 답을 바로 내지 않고 중간 추론 과정을 텍스트로 풀어 쓰며 결론에 도달하는 방식입니다. 복잡한 추론 task에서 정확도를 크게 높여주는 trick으로, GPT 시대에 널리 알려졌습니다.
+
+RT-2는 학습 시 일부 데이터에 "Plan: pick up the apple. Action: 128 47 ..." 같은 형식의 CoT 데이터를 섞습니다. 추론 시 모델이 plan을 먼저 자연어로 출력한 뒤 그에 맞는 행동을 출력하도록 유도합니다. 이게 "공룡을 가장 똑똑한 동물 옆에 놓아라" 같은 다단계 명령을 처리하는 핵심 메커니즘입니다.
+
+### 결과 — Emergent Capabilities
+
+RT-2의 가장 인상적인 결과는 **emergent capability**입니다. 학습 데이터에 명시적으로 등장하지 않은 능력이 모델 규모와 함께 나타납니다.
+
+- "테일러 스위프트의 사진을 집어"가 작동합니다 (학습 데이터에는 테일러 스위프트가 없음)
+- "독일 자동차 회사의 로고를 가리켜"가 작동합니다 (추론 + 시각 인식 결합)
+- "이 동물 중 가장 빠른 것을 가리켜"가 작동합니다 (상식 + 시각 인식)
+
+이 emergent capability는 RT-1에서는 전혀 보이지 않던 현상입니다. VLM의 인터넷 지식이 정말로 행동에까지 흘러들어왔다는 강력한 증거입니다.
+
+### 알아둘 용어 — In-context Learning
+
+LLM이 추가 학습 없이, **prompt 안에 넣어준 몇 개의 예시만 보고** 새 task를 처리하는 능력입니다. GPT-3에서 처음 명확히 관찰됐습니다. 예를 들어 "사과 → red, 바나나 → yellow, 포도 → ?"라는 prompt를 주면 모델이 학습 없이 "purple"을 출력하는 식입니다.
+
+RT-2의 emergent capability는 이 in-context learning이 시각·행동 영역으로도 흘러나온 결과로 볼 수 있습니다. 학습 시 명시적으로 "테일러 스위프트"로 라벨된 행동 데이터는 없지만, VLM이 인터넷에서 본 문맥과 시각 정보를 조합해 적절한 행동을 추론하는 것이죠.
+
+### 알아둘 용어 — Co-Finetuning
+
+서로 다른 종류의 데이터를 한 번의 학습에서 함께 사용하는 방식입니다. RT-2는 인터넷 vision-language 데이터와 로봇 시연 데이터를 같은 batch에 섞어 학습합니다. 이렇게 하면 모델이 사전학습으로 얻은 능력을 잊지 않으면서 새로운 능력(행동 출력)을 학습합니다. **catastrophic forgetting**(이전 능력을 잊어버리는 현상)을 막는 표준 기법이 됐습니다.
+
+### 알아둘 용어 — VLA라는 이름
+
+이 논문의 부제가 "Vision-Language-Action Models"입니다. 이전에도 비슷한 시도는 있었지만, RT-2가 워낙 큰 임팩트를 만들면서 **"VLA"라는 약어가 분야의 표준 용어로 자리잡았습니다.** 이 글의 시리즈 제목인 "VLA 학습 로드맵"의 'VLA'도 이 논문에서 비롯됩니다.
+
+### RT-2의 한계
+
+RT-2는 두 가지 큰 한계를 남겼습니다.
+
+1. **공개되지 않았습니다.** 코드도 weight도 비공개. Google 내부에서만 굴러갔습니다.
+2. **추론이 느립니다.** 55B~562B의 거대 모델이라 추론 속도가 1~3Hz 수준. 정밀 작업에는 부족합니다.
+
+이 두 한계를 푸는 게 다음 단계의 OpenVLA(공개 + 7B)와 π₀(50Hz 정밀 제어)의 과제가 됩니다.
+
+> **요점**
+>
+> RT-2는 "거대 VLM이 행동을 직접 토큰으로 출력하면, 인터넷 지식이 로봇에까지 흘러들어 emergent capability가 나타난다"는 결정적 증명을 한 논문입니다. 분야의 이름을 VLA로 굳힌 논문이기도 합니다.
+
+---
+
+## 3. RoboCat — 다양한 로봇으로 일반화하다
+
+📄 [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706) — Bousmalis 외, DeepMind (2023)
+
+### 어떤 문제를 풀려고 했나
+
+RT-2가 한 종류의 로봇(Google의 양손 모바일 매니퓰레이터)에 집중했다면, RoboCat은 다른 방향을 봅니다.
+
+> "팔 모양도, 자유도도, 그리퍼도 다 다른 여러 종류의 로봇을 한 모델이 다 다룰 수 있을까? 그리고 그 모델이 새 task를 만나면 스스로 데이터를 만들어 점점 더 잘하게 할 수 있을까?"
+
+### 핵심 발상 1 — Multi-Embodiment
+
+**Embodiment** 는 로봇의 물리적 형태(팔의 길이, 관절 수, 그리퍼 종류 등)를 가리킵니다. 각 embodiment는 행동 공간 차원도 다르고, 카메라 위치도 다릅니다. 보통 한 모델은 한 embodiment에만 학습됩니다.
+
+RoboCat은 4개 embodiment(KUKA, Sawyer, Panda, Jaco)의 데이터를 한 모델에 다 부어 학습합니다. 행동 차원은 패딩과 마스킹으로 통일하고, embodiment 정보를 prompt로 넣어 모델이 어떤 로봇인지 알게 합니다.
+
+### 핵심 발상 2 — Self-Improvement Loop
+
+새 task에 적응시키는 흐름이 흥미롭습니다.
+
+1. 새 task 시연 100~1000개를 모읍니다.
+2. RoboCat을 그 데이터로 finetune합니다.
+3. **finetuned 모델로 같은 task를 자율 실행해 새 trajectory를 만듭니다.**
+4. 성공한 trajectory만 골라 다시 학습 데이터에 추가합니다.
+5. 다음 finetuning 라운드에서 사용합니다.
+
+이렇게 모델이 자기 데이터를 스스로 만들며 점점 강해지는 루프가 **self-improvement**입니다. 사람 시연만으로는 닿기 어려운 데이터 양까지 끌어올려 주는 트릭이죠.
+
+```mermaid
+flowchart LR
+    H["사람 시연<br/>(100~1000개)"] --> FT1["Finetune"]
+    FT1 --> M["Finetuned 모델"]
+    M --> EX["자율 실행"]
+    EX --> S["성공한 trajectory<br/>수집"]
+    S --> FT2["다음 Finetune<br/>(데이터 더 많음)"]
+    FT2 -.반복.- M
+```
+
+### VLA가 여기서 받은 것
+
+RoboCat의 두 발상은 이후 VLA 분야의 핵심 화두가 됩니다.
+
+- **Multi-embodiment** → Open X-Embodiment 데이터셋·OpenVLA·GR00T로 직접 이어집니다.
+- **Self-improvement** → 데이터의 한계를 푸는 핵심 전략으로, 이후 모든 generalist VLA 연구에서 다양한 변형으로 등장합니다.
+
+다만 RoboCat 역시 비공개 모델이라 학계의 자율적 검증이 어려웠고, 이게 다음 단계 오픈소스 운동의 주된 동기가 됩니다.
+
+> **요점**
+>
+> RoboCat은 "한 모델이 여러 로봇을, 그리고 자기 데이터로 점점 더 잘"이라는 두 화두를 분야에 던진 논문입니다.
+
+---
+
+## 정리 — 2023년에 일어난 일
+
+이 한 해 동안 VLA 분야의 형태가 거의 굳었습니다.
+
+| 논문 | 핵심 기여 | 남긴 한계 |
+|---|---|---|
+| PaLM-E | 거대 LLM에 시각 주입, 자연어 plan 생성 | 행동은 별도 정책 |
+| RT-2 | VLM이 행동 토큰을 직접 출력, emergent capability | 비공개, 느림 |
+| RoboCat | multi-embodiment generalist, self-improvement | 비공개 |
+
+```mermaid
+flowchart LR
+    PE["PaLM-E<br/>(LLM에 시각)"] --> RT2["RT-2<br/>(VLA의 결정타)"]
+    RT1["RT-1<br/>(이전 글)"] --> RT2
+    RC["RoboCat<br/>(generalist 화두)"] --> NEXT["다음 단계<br/>오픈소스 운동"]
+    RT2 --> NEXT
+```
+
+### 한 줄 요약
+
+> **2023년에 거대 VLM이 본격적으로 로봇과 만나면서 'VLA'라는 분야가 모양을 갖췄지만, 비공개·느림이라는 한계가 다음 단계의 동력이 됐습니다.**
+
+다음 글에서는 학계와 오픈소스 커뮤니티가 RT-2를 어떻게 따라잡으며 VLA를 모두의 것으로 만들었는지를 살펴봅니다.
+
+---
+
+## 다음 글 안내
+
+- 다음 글 → [오픈소스가 따라잡다 — Open X-Embodiment, Octo, OpenVLA, RDT-1B](/blog/AI/VLA/opensource-wave)
+- 이전 글 → [정밀 모방학습의 두 길 — ACT, Diffusion Policy, Mobile ALOHA](/blog/AI/VLA/precision-imitation)
+- 시리즈 전체 지도 → [VLA 학습 로드맵](/blog/AI/VLA/intro)
+5:["$","article",null,{"children":["$","$Ld",null,{"children":"$e"}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/3m0fjc5603mr1.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/13v-4n-qhtbpf.js","async":true}]
+9:["$","script","script-2",{"src":"/_next/static/chunks/05delksreef4f.js","async":true}]
+a:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+b:["$","script","script-4",{"src":"/_next/static/chunks/0heh8229j57ve.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null
