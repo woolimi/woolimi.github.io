@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot\",\"description\":\"손목에 어안 카메라만 달고 맨손으로 시연하면 생성 모델이 그 영상을 집게가 일하는 영상으로 바꿔주는 RwoR를, 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2507.03930/x1.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/rwor\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T02:13:34.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"6편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot"}]
+10:T2ec3,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)의 출발점은 "로봇을 데이터 수집에서 떼어낸다"였습니다. 그런데 UMI도 완전히 맨손은 아닙니다. 780 g짜리 집게를 손에 들어야 하고, 그 집게는 3D 프린트로 만들어야 하며, 시연자는 그 무게와 형태에 손을 맞춰야 합니다.
+
+RwoR는 한 걸음 더 나갑니다. **집게조차 들지 말고 맨손으로 시연하자.** 대신 맨손 영상을 집게 영상으로 바꿔주는 생성 모델을 학습시켜, 사람 손과 로봇 관측 사이의 시각 격차를 소프트웨어로 메웁니다.
+
+📄 [RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot](https://arxiv.org/abs/2507.03930) — Liang Heng, Xiaoqi Li (공동 1저자), Shangqing Mao, Jiaming Liu, Ruolin Liu, Jingli Wei, Yu-Kai Wang, Yueru Jia, Chenyang Gu, Rui Zhao, Shanghang Zhang, Hao Dong / 베이징대학교 CFCS·PKU-Agibot Lab, Tencent Robotics X Laboratory, 2025-07-05, cs.RO, arxiv 식별자 2507.03930
+
+프로젝트 페이지는 [rwor.github.io](https://rwor.github.io/)입니다.
+
+### 초록 요약
+
+모방학습(imitation learning)은 데이터 수집이 병목입니다. 전용 원격조작(teleoperation) 장치 방식은 로봇 시스템과 숙련 조작자가 둘 다 필요해 확장성이 낮고, 사람 맨손 시연을 직접 쓰는 방식은 사람 손과 실제 배치 로봇 관측 사이의 **시각 격차(visual gap)** 를 맞추기 어렵습니다. 이 논문은 **사람 손 데이터 수집 시스템과 손→집게 생성 모델(hand-to-gripper generative model)** 을 제안해 관측 격차를 메웁니다. 손목에 GoPro 어안(fisheye) 카메라를 달아 맨손 시연을 찍고, 짝지어 자체 수집한 손↔UMI 집게 데이터셋으로 생성 모델을 학습합니다. 그 결과 맨손 시연만 있어도 대응하는 SE(3) 행동을 자동 추출하고, 생성된 로봇 시연으로 정책을 학습할 수 있습니다.
+
+---
+
+## 1. 전체 그림
+
+![그림 1 — RwoR 데이터 수집 파이프라인 전경](https://arxiv.org/html/2507.03930/x1.png)
+
+*그림 1 — 윗부분은 맨손 시연에서 행동을 추출하고 생성 모델을 학습시켜 시연을 UMI 집게 시연으로 바꾸는 흐름, 아랫부분은 수집된 맨손 시연과 실제 로봇 배포 시의 대응 실행입니다.*
+
+```flow
+{
+  "nodes": [
+    {"id": "hand", "label": "맨손 시연", "sub": "손목 어안 카메라"},
+    {"id": "slam", "label": "SE(3) 행동 추출", "sub": "ORB-SLAM3 + 관성 센서", "color": "blue"},
+    {"id": "prep", "label": "짝 데이터 전처리", "sub": "단계 분류 · 관측 정렬", "color": "orange"},
+    {"id": "gen", "label": "손→집게 생성", "sub": "InstructPix2Pix 확산", "color": "orange"},
+    {"id": "demo", "label": "로봇 집게 시연", "sub": "생성된 관측 영상", "color": "green"},
+    {"id": "pol", "label": "정책 학습", "sub": "Diffusion Policy", "color": "green"}
+  ],
+  "edges": [
+    {"from": "hand", "to": "slam"},
+    {"from": "hand", "to": "prep"},
+    {"from": "prep", "to": "gen"},
+    {"from": "gen", "to": "demo"},
+    {"from": "slam", "to": "pol", "label": "행동"},
+    {"from": "demo", "to": "pol", "label": "관측"}
+  ],
+  "height": 290
+}
+```
+
+핵심 통찰은 이렇습니다. UMI에서 영감을 받아 손목에 GoPro 어안 카메라를 달지만, 찍히는 것은 사람 손입니다. 그대로 학습하면 로봇 시험 시점에 도메인 격차가 생깁니다. 그래서 짝지은 손↔집게 데이터를 타임스탬프와 관측 기준으로 정렬해 손→집게 생성 모델을 학습시키고, 이 모델로 맨손 시연을 집게 시연으로 변환합니다.
+
+---
+
+## 2. 전처리 — 무엇을 바꾸고 무엇을 남길 것인가
+
+![그림 2 — 전체 파이프라인(전처리 + 생성 모델 + 정책)](https://arxiv.org/html/2507.03930/x2.png)
+
+*그림 2 — 손→집게 생성 모델을 학습시키기 위한 데이터 전처리 전략입니다. 맨손 시연이 주어지면 먼저 대응하는 집게 자세를 추출하고, 생성 모델로 시연을 집게 시연으로 변환합니다.*
+
+전처리가 이 논문의 숨은 주역입니다. 타임스탬프를 맞춰도 카메라 각도 차이와 실행 궤적 차이 때문에, 같은 시각 $t$ 의 손 프레임 $h_t$ 와 집게 프레임 $r_t$ 사이에는 관측 어긋남이 남습니다. 그림 속 빨간 원과 초록 원이 그 불일치입니다. 이 어긋남을 그대로 학습하면 생성 모델이 헷갈립니다.
+
+목표는 명확합니다. **손이 물체와 상호작용하는 장면을 집게가 같은 물체와 상호작용하는 장면으로만 바꾸고, 배경은 손 시연 그대로 둔다.** 이를 위해 프레임을 상호작용 단계와 비상호작용 단계로 자동 분류하고, SAM2로 손 프레임의 배경과 집게 프레임의 전경 물체를 분리한 뒤 Inpaint Anything으로 합성해, **배경과 카메라 시점은 손 시연과 같고 전경만 집게인** 정답 $\hat{r}_t$ 를 만듭니다.
+
+![그림 3 — 생성 모델용 학습 데이터셋](https://arxiv.org/html/2507.03930/x3.png)
+
+*그림 3 — 자체 수집한 손↔UMI 집게 짝 시연으로, 여러 상황에 걸친 다양한 가정용 물체를 포함합니다.*
+
+| 항목 | 규모 |
+|---|---|
+| 짝 시연 | 200쌍 |
+| 총 프레임 | 15,000 |
+| 장면 | 사무실·교실·가정 등 다양한 조명·환경 |
+| 행동 | 잡기·밀기·당기기·회전 |
+| 물체 | 25개 범주 · 60개 개체 |
+
+---
+
+## 3. 생성 모델 — 전경만 바꿉니다
+
+![그림 5 — 생성 모델 성능 시각화](https://arxiv.org/html/2507.03930/x5.png)
+
+*그림 5 — 생성 모델에 입력된 손 이미지와, 그에 대응해 예측된 UMI 집게 이미지입니다.*
+
+생성 모델은 InstructPix2Pix(IP2P, Stable Diffusion 기반) 사전학습 가중치로 초기화합니다. 입력은 손 이미지 $h_t$ 와 텍스트 프롬프트("Turn the hand into a gripper. The gripper is holding a {obj_name}")이고, 출력은 정렬된 집게 이미지 $\hat{r}_t$ 로 지도됩니다. IP2P 손실로 학습해 모델이 **전경 영역 변환에 집중** 하도록 만듭니다.
+
+평가는 학습 시연 안에서 학습에 쓰지 않은 2,000 프레임으로 하고, PSNR과 SSIM으로 예측 이미지와 정답의 유사도를 잽니다.
+
+| Row | 관측 정렬 | 단계 구분 | PSNR ↑ | SSIM ↑ |
+|---|---|---|---|---|
+| 1 | ✗ | ✗ | 31.53 | 0.77 |
+| 2 | ✓ | ✗ | 33.37 | 0.84 |
+| 3 (제안) | ✓ | ✓ | **33.80** | **0.86** |
+
+Row 1은 타임스탬프만 맞춘 원본 집게 이미지를 정답으로 써서 관측 어긋남을 무시한 경우로, 제안 방식 대비 PSNR 2.33, SSIM 0.09가 떨어집니다. 카메라 각도와 궤적의 미세한 차이가 실제로 중요하다는 뜻입니다.
+
+Row 2는 관측은 수정하되 상호작용 단계를 구분하지 않은 경우입니다. 지표상 차이는 작지만 — PSNR과 SSIM이 그럴듯함을 완전히 반영하지는 못합니다 — 육안으로 보면 상호작용 중 물체와 집게의 관계에 불일치가 많아 정책 학습을 혼란시킵니다. **지표가 작다고 무시할 문제가 아니라는 것**이 이 행의 교훈입니다.
+
+---
+
+## 4. 실물 실험 — 상한에 얼마나 근접하는가
+
+![그림 4 — 실세계 실행 시각화](https://arxiv.org/html/2507.03930/x4.png)
+
+*그림 4 — 실세계 조작 관점에서 본 실행 키프레임입니다.*
+
+실물 배포는 Franka Research 3(FR3) 로봇에 3D 프린트 UMI 집게를 달고 GoPro 9 손목 시점으로 진행했습니다. 9개 작업, 작업당 학습용 맨손 시연 50개를 모으고, 작업마다 정책을 학습해 15회 시행으로 평가했습니다.
+
+| 방법 | 평균 | Slide | Pour Water | Close Micro. | Stack Bowl | Upright Bottle | Wipe Plate | Unplug Charger | Open Drawer | Table Rearrange |
+|---|---|---|---|---|---|---|---|---|---|---|
+| UMI (상한) | **0.82** | 0.93 | 0.87 | 1.0 | 0.80 | 0.80 | 0.73 | 0.83 | 0.77 | 0.66 |
+| RwoR (제안) | **0.78** | 0.93 | 0.87 | 0.93 | 0.73 | 0.70 | 0.70 | 0.80 | 0.77 | 0.60 |
+| Alter. (하한) | **0.37** | 0.43 | 0.40 | 0.53 | 0.33 | 0.37 | 0.27 | 0.43 | 0.37 | 0.20 |
+
+RwoR(0.78)는 손에 든 UMI 집게로 직접 모은 데이터로 학습한 상한(0.82)에 근접합니다. **집게를 들지 않고 맨손으로 모아도 0.04 차이밖에 나지 않는다**는 것이 이 표의 요지입니다.
+
+하한 기준선인 Alter.는 생성 모델 대신 규칙 기반 텍스처 매핑을 쓴 것입니다. 손 부분을 지우고 배경을 채운 뒤 UMI 집게 무늬를 덧입히는 방식인데, 집게와 물체의 상대 위치에 부정확성이 생겨 큰 시각 격차가 발생합니다. 그 결과 정책이 목표 물체로 다가가지 못하거나 집게 개폐 타이밍이 어긋나 0.37로 주저앉습니다. 규칙으로는 안 되고 학습이 필요하다는 대비입니다.
+
+### 처음 보는 행동과 물체
+
+![그림 6 — 미지 행동·물체에 대한 일반화](https://arxiv.org/html/2507.03930/x6.png)
+
+*그림 6 — 학습에 쓰지 않은 행동 유형과 개체에 대한 생성 모델의 일반화입니다.*
+
+| 미지 행동 | Rotate | Unstack | 미지 개체 | Pour water | Slide block |
+|---|---|---|---|---|---|
+| 성공률 | 0.80 | 0.83 | 성공률 | 0.87 | 0.87 |
+
+**행동 일반화** — 생성 모델 학습셋에는 "slide block"만 있었지만, 학습된 모델로 "rotate block"과 "unstack block" 시연을 생성해도 정책 성공률이 0.80·0.83으로 높습니다. 생성 모델이 특정 행동이 아니라 **전경 물체를 집게로 바꾸는 데 집중** 하기 때문에 여러 행동 유형에 일반화됩니다.
+
+**개체 일반화** — 학습셋에 없는 외형의 물체로 시험해도, "yellow cup"에 물 붓기가 학습에 쓰인 "white cup"과 같은 0.87을 유지하고, 처음 보는 "white block" 밀기는 학습에 쓰인 "red block"(0.87) 대비 0.04만 하락합니다.
+
+---
+
+## 5. 한계
+
+- **생성 영상 품질이 곧 정책 품질입니다.** Diffusion Policy는 순수 시각-운동 모델이라 학습 데이터 품질이 결정적입니다. 생성 영상에서 집게가 물체에 닿기 전에 닫히면, 실제 배포 정책도 접촉 전에 닫아버립니다.
+- **관절 한계 초과** — 사람 손과 팔의 자유도가 로봇 팔보다 크기 때문에, 손으로 잡은 일부 궤적은 로봇 도달 범위를 벗어납니다. 원조 UMI가 기구학 기반 데이터 거르기로 다뤘던 문제가 여기서도 그대로 남습니다.
+- **일반화 한계** — 생성 모델 학습 데이터가 자체 수집이라 상호작용 물체 범위가 제한적이고 개체 수준 일반화가 약합니다. 정책 학습 시 생성 모델 학습셋과 유사한 물체를 쓰는 것이 중요합니다.
+
+---
+
+## 6. 정리 — 계보에서 RwoR의 자리
+
+RwoR는 모방학습 데이터 수집의 두 병목 — 로봇 하드웨어와 숙련 조작자 — 을 동시에 없앱니다.
+
+계보 안에서 보면 흥미로운 대비가 생깁니다. 원조 UMI는 사람 시야와 로봇 시야의 간극을 **하드웨어로** 메웠습니다. 어안 렌즈와 거울, 그리고 사람이 드는 집게와 로봇에 붙는 집게를 똑같이 만드는 방식이었습니다. RwoR는 같은 간극을 **생성 모델로** 메웁니다. 손 영상을 집게 영상으로 번역해버리면, 애초에 똑같은 집게를 만들 필요가 없어집니다.
+
+[MV-UMI](/blog/paper-review/umi/mv-umi)가 3인칭 화면에서 사람을 지우고 배경을 채워 넣었다면, RwoR는 1인칭 화면에서 손을 집게로 갈아 끼웁니다. 둘 다 "관측 격차는 생성 모델로 메운다"는 같은 처방을 서로 다른 시점에 적용한 셈입니다.
+
+계보의 출발점은 [원조 UMI 논문해석](/blog/paper-review/umi/umi)에 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/mobile-umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"5편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/umi-agriculture","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"7편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

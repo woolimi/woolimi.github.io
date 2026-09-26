@@ -1,0 +1,815 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/19ve-6rei9iuk.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","paper-review","vla","openvla-oft"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","paper-review/vla/openvla-oft","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19ve-6rei9iuk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3lj8u5xv5ktpp.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2b-rkrpx92plj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1-lkrriw345pf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2xgagg06nhrfg.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Otz_2YXo8BEnEwlE5lLW7"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron","isHub":false,"order":"$undefined"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron","isHub":false,"order":"$undefined"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1","isHub":false,"order":"$undefined"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2","isHub":false,"order":"$undefined"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function","isHub":false,"order":"$undefined"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer","isHub":false,"order":"$undefined"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리","isHub":false,"order":"$undefined"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?","isHub":false,"order":"$undefined"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering","isHub":false,"order":"$undefined"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법","isHub":false,"order":"$undefined"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법","isHub":false,"order":"$undefined"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2","isHub":false,"order":"$undefined"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama","isHub":false,"order":"$undefined"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning","isHub":false,"order":"$undefined"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree","isHub":false,"order":"$undefined"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn","isHub":false,"order":"$undefined"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측","isHub":false,"order":"$undefined"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기","isHub":false,"order":"$undefined"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression","isHub":false,"order":"$undefined"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"OpenCV","type":"folder","path":"AI/OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"AI/OpenCV/00.basic.ko.md","slug":"AI/OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법","isHub":false,"order":"$undefined"},{"name":"01.camera.ko.md","type":"file","path":"AI/OpenCV/01.camera.ko.md","slug":"AI/OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리","isHub":false,"order":"$undefined"},{"name":"02.filtering.ko.md","type":"file","path":"AI/OpenCV/02.filtering.ko.md","slug":"AI/OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법","isHub":false,"order":"$undefined"},{"name":"03.histogram.ko.ipynb","type":"file","path":"AI/OpenCV/03.histogram.ko.ipynb","slug":"AI/OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화","isHub":false,"order":"$undefined"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"AI/OpenCV/04.mediapipe.ko.ipynb","slug":"AI/OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"physical-ai-101","type":"folder","path":"AI/physical-ai-101","children":[{"name":"01.what-is-physical-ai.ko.md","type":"file","path":"AI/physical-ai-101/01.what-is-physical-ai.ko.md","slug":"AI/physical-ai-101/what-is-physical-ai","locale":"ko","title":"Physical AI 101 - 1편 Physical AI 와 로봇의 두뇌","isHub":false,"order":"$undefined"},{"name":"02.research-landscape.ko.md","type":"file","path":"AI/physical-ai-101/02.research-landscape.ko.md","slug":"AI/physical-ai-101/research-landscape","locale":"ko","title":"Physical AI 101 - 2편 연구 지형 — foundation model · VLA · world model · 시뮬레이션","isHub":false,"order":"$undefined"},{"name":"03.finetuning-my-robot.ko.md","type":"file","path":"AI/physical-ai-101/03.finetuning-my-robot.ko.md","slug":"AI/physical-ai-101/finetuning-my-robot","locale":"ko","title":"Physical AI 101 - 3편 내 로봇에 맞추는 학습 — teleoperation · 모방학습 · LoRA · 강화학습","isHub":false,"order":"$undefined"},{"name":"04.inside-the-model.ko.md","type":"file","path":"AI/physical-ai-101/04.inside-the-model.ko.md","slug":"AI/physical-ai-101/inside-the-model","locale":"ko","title":"Physical AI 101 - 4편 모델의 내부 구조 — System 1/2 · action chunk · flow matching · 모방학습의 한계","isHub":false,"order":"$undefined"},{"name":"05.robot-basics-and-open-problems.ko.md","type":"file","path":"AI/physical-ai-101/05.robot-basics-and-open-problems.ko.md","slug":"AI/physical-ai-101/robot-basics-and-open-problems","locale":"ko","title":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제","isHub":false,"order":"$undefined"},{"name":"06.where-to-run.ko.md","type":"file","path":"AI/physical-ai-101/06.where-to-run.ko.md","slug":"AI/physical-ai-101/where-to-run","locale":"ko","title":"Physical AI 101 - 6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포","isHub":false,"order":"$undefined"}],"slug":"AI/physical-ai-101","order":"$undefined"},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro","isHub":false,"order":"$undefined"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler","isHub":false,"order":"$undefined"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection","isHub":false,"order":"$undefined"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"dev-tools","type":"folder","path":"dev-tools","children":[{"name":"claude","type":"folder","path":"dev-tools/claude","children":[{"name":"00.setup.md","type":"file","path":"dev-tools/claude/00.setup.md","slug":"dev-tools/claude/setup","locale":"$undefined","title":"claude 코드로 sudo","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Docker","type":"folder","path":"dev-tools/Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"dev-tools/Docker/00.basic.ko.md","slug":"dev-tools/Docker/basic","locale":"ko","title":"Docker 기본","isHub":false,"order":"$undefined"},{"name":"01.create-image.ko.md","type":"file","path":"dev-tools/Docker/01.create-image.ko.md","slug":"dev-tools/Docker/create-image","locale":"ko","title":"Docker 이미지 생성","isHub":false,"order":"$undefined"},{"name":"02.docker-hub.ko.md","type":"file","path":"dev-tools/Docker/02.docker-hub.ko.md","slug":"dev-tools/Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push","isHub":false,"order":"$undefined"},{"name":"03.useful-commands.ko.md","type":"file","path":"dev-tools/Docker/03.useful-commands.ko.md","slug":"dev-tools/Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"git","type":"folder","path":"dev-tools/git","children":[{"name":"00.config.ko.md","type":"file","path":"dev-tools/git/00.config.ko.md","slug":"dev-tools/git/config","locale":"ko","title":"Git Config 설정 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"jupyter-notebook","type":"folder","path":"dev-tools/jupyter-notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"dev-tools/jupyter-notebook/00.setup.ko..md","slug":"dev-tools/jupyter-notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Terminator","type":"folder","path":"dev-tools/Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"dev-tools/Terminator/00.shortcuts.md","slug":"dev-tools/Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Web","type":"folder","path":"dev-tools/Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"dev-tools/Web/00.cloudflared.ko.md","slug":"dev-tools/Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"paper-review","type":"folder","path":"paper-review","children":[{"name":"pre-vla","type":"folder","path":"paper-review/pre-vla","children":[{"name":"01.attention-is-all-you-need.ko.md","type":"file","path":"paper-review/pre-vla/01.attention-is-all-you-need.ko.md","slug":"paper-review/pre-vla/attention-is-all-you-need","locale":"ko","title":"논문해석 - Attention Is All You Need","isHub":false,"order":"$undefined"},{"name":"02.gpt-3.ko.md","type":"file","path":"paper-review/pre-vla/02.gpt-3.ko.md","slug":"paper-review/pre-vla/gpt-3","locale":"ko","title":"논문해석 - Language Models are Few-Shot Learners","isHub":false,"order":"$undefined"},{"name":"03.vit.ko.md","type":"file","path":"paper-review/pre-vla/03.vit.ko.md","slug":"paper-review/pre-vla/vit","locale":"ko","title":"논문해석 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale","isHub":false,"order":"$undefined"},{"name":"04.clip.ko.md","type":"file","path":"paper-review/pre-vla/04.clip.ko.md","slug":"paper-review/pre-vla/clip","locale":"ko","title":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision","isHub":false,"order":"$undefined"},{"name":"05.llava.ko.md","type":"file","path":"paper-review/pre-vla/05.llava.ko.md","slug":"paper-review/pre-vla/llava","locale":"ko","title":"논문해석 - Visual Instruction Tuning","isHub":false,"order":"$undefined"},{"name":"06.bc-z.ko.md","type":"file","path":"paper-review/pre-vla/06.bc-z.ko.md","slug":"paper-review/pre-vla/bc-z","locale":"ko","title":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning","isHub":false,"order":"$undefined"},{"name":"07.saycan.ko.md","type":"file","path":"paper-review/pre-vla/07.saycan.ko.md","slug":"paper-review/pre-vla/saycan","locale":"ko","title":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances","isHub":false,"order":"$undefined"},{"name":"08.gato.ko.md","type":"file","path":"paper-review/pre-vla/08.gato.ko.md","slug":"paper-review/pre-vla/gato","locale":"ko","title":"논문해석 - A Generalist Agent","isHub":false,"order":"$undefined"},{"name":"09.palm-e.ko.md","type":"file","path":"paper-review/pre-vla/09.palm-e.ko.md","slug":"paper-review/pre-vla/palm-e","locale":"ko","title":"논문해석 - PaLM-E: An Embodied Multimodal Language Model","isHub":false,"order":"$undefined"},{"name":"10.ddpm.ko.md","type":"file","path":"paper-review/pre-vla/10.ddpm.ko.md","slug":"paper-review/pre-vla/ddpm","locale":"ko","title":"논문해석 - Denoising Diffusion Probabilistic Models","isHub":false,"order":"$undefined"},{"name":"11.flow-matching.ko.md","type":"file","path":"paper-review/pre-vla/11.flow-matching.ko.md","slug":"paper-review/pre-vla/flow-matching","locale":"ko","title":"논문해석 - Flow Matching for Generative Modeling","isHub":false,"order":"$undefined"},{"name":"12.diffusion-policy.ko.md","type":"file","path":"paper-review/pre-vla/12.diffusion-policy.ko.md","slug":"paper-review/pre-vla/diffusion-policy","locale":"ko","title":"논문해석 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion","isHub":false,"order":"$undefined"},{"name":"13.act.ko.md","type":"file","path":"paper-review/pre-vla/13.act.ko.md","slug":"paper-review/pre-vla/act","locale":"ko","title":"논문해석 - Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware","isHub":false,"order":"$undefined"}],"slug":"paper-review/pre-vla","order":1},{"name":"vla","type":"folder","path":"paper-review/vla","children":[{"name":"01.rt-1.ko.md","type":"file","path":"paper-review/vla/01.rt-1.ko.md","slug":"paper-review/vla/rt-1","locale":"ko","title":"논문해석 - RT-1: Robotics Transformer for Real-World Control at Scale","isHub":false,"order":"$undefined"},{"name":"02.rt-2.ko.md","type":"file","path":"paper-review/vla/02.rt-2.ko.md","slug":"paper-review/vla/rt-2","locale":"ko","title":"논문해석 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control","isHub":false,"order":"$undefined"},{"name":"03.open-x-embodiment.ko.md","type":"file","path":"paper-review/vla/03.open-x-embodiment.ko.md","slug":"paper-review/vla/open-x-embodiment","locale":"ko","title":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models","isHub":false,"order":"$undefined"},{"name":"04.openvla.ko.md","type":"file","path":"paper-review/vla/04.openvla.ko.md","slug":"paper-review/vla/openvla","locale":"ko","title":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model","isHub":false,"order":"$undefined"},{"name":"05.pi0.ko.md","type":"file","path":"paper-review/vla/05.pi0.ko.md","slug":"paper-review/vla/pi0","locale":"ko","title":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control","isHub":false,"order":"$undefined"},{"name":"06.fast.ko.md","type":"file","path":"paper-review/vla/06.fast.ko.md","slug":"paper-review/vla/fast","locale":"ko","title":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models","isHub":false,"order":"$undefined"},{"name":"07.pi05.ko.md","type":"file","path":"paper-review/vla/07.pi05.ko.md","slug":"paper-review/vla/pi05","locale":"ko","title":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization","isHub":false,"order":"$undefined"},{"name":"08.openvla-oft.ko.md","type":"file","path":"paper-review/vla/08.openvla-oft.ko.md","slug":"paper-review/vla/openvla-oft","locale":"ko","title":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success","isHub":false,"order":"$undefined"},{"name":"09.gr00t-n1.ko.md","type":"file","path":"paper-review/vla/09.gr00t-n1.ko.md","slug":"paper-review/vla/gr00t-n1","locale":"ko","title":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots","isHub":false,"order":"$undefined"},{"name":"10.gemini-robotics.ko.md","type":"file","path":"paper-review/vla/10.gemini-robotics.ko.md","slug":"paper-review/vla/gemini-robotics","locale":"ko","title":"논문해석 - Gemini Robotics: Bringing AI into the Physical World","isHub":false,"order":"$undefined"}],"slug":"paper-review/vla","order":2},{"name":"umi","type":"folder","path":"paper-review/umi","children":[{"name":"01.umi.ko.md","type":"file","path":"paper-review/umi/01.umi.ko.md","slug":"paper-review/umi/umi","locale":"ko","title":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots","isHub":false,"order":"$undefined"},{"name":"02.fastumi.ko.md","type":"file","path":"paper-review/umi/02.fastumi.ko.md","slug":"paper-review/umi/fastumi","locale":"ko","title":"논문해석 - FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset","isHub":false,"order":"$undefined"},{"name":"03.exumi.ko.md","type":"file","path":"paper-review/umi/03.exumi.ko.md","slug":"paper-review/umi/exumi","locale":"ko","title":"논문해석 - exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation","isHub":false,"order":"$undefined"},{"name":"04.mv-umi.ko.md","type":"file","path":"paper-review/umi/04.mv-umi.ko.md","slug":"paper-review/umi/mv-umi","locale":"ko","title":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning","isHub":false,"order":"$undefined"},{"name":"05.mobile-umi.ko.md","type":"file","path":"paper-review/umi/05.mobile-umi.ko.md","slug":"paper-review/umi/mobile-umi","locale":"ko","title":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation","isHub":false,"order":"$undefined"},{"name":"06.rwor.ko.md","type":"file","path":"paper-review/umi/06.rwor.ko.md","slug":"paper-review/umi/rwor","locale":"ko","title":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot","isHub":false,"order":"$undefined"},{"name":"07.umi-agriculture.ko.md","type":"file","path":"paper-review/umi/07.umi-agriculture.ko.md","slug":"paper-review/umi/umi-agriculture","locale":"ko","title":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications","isHub":false,"order":"$undefined"},{"name":"08.gripper-design-demonstration-quality.ko.md","type":"file","path":"paper-review/umi/08.gripper-design-demonstration-quality.ko.md","slug":"paper-review/umi/gripper-design-demonstration-quality","locale":"ko","title":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning","isHub":false,"order":"$undefined"},{"name":"09.legato.ko.md","type":"file","path":"paper-review/umi/09.legato.ko.md","slug":"paper-review/umi/legato","locale":"ko","title":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool","isHub":false,"order":"$undefined"},{"name":"10.touch-in-the-wild.ko.md","type":"file","path":"paper-review/umi/10.touch-in-the-wild.ko.md","slug":"paper-review/umi/touch-in-the-wild","locale":"ko","title":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper","isHub":false,"order":"$undefined"},{"name":"11.umi-on-air.ko.md","type":"file","path":"paper-review/umi/11.umi-on-air.ko.md","slug":"paper-review/umi/umi-on-air","locale":"ko","title":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies","isHub":false,"order":"$undefined"},{"name":"12.farm.ko.md","type":"file","path":"paper-review/umi/12.farm.ko.md","slug":"paper-review/umi/farm","locale":"ko","title":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation","isHub":false,"order":"$undefined"},{"name":"13.tacumi.ko.md","type":"file","path":"paper-review/umi/13.tacumi.ko.md","slug":"paper-review/umi/tacumi","locale":"ko","title":"논문해석 - TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks","isHub":false,"order":"$undefined"},{"name":"14.rdt2.ko.md","type":"file","path":"paper-review/umi/14.rdt2.ko.md","slug":"paper-review/umi/rdt2","locale":"ko","title":"논문해석 - RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization","isHub":false,"order":"$undefined"},{"name":"15.umi-3d.ko.md","type":"file","path":"paper-review/umi/15.umi-3d.ko.md","slug":"paper-review/umi/umi-3d","locale":"ko","title":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception","isHub":false,"order":"$undefined"},{"name":"16.vista.ko.md","type":"file","path":"paper-review/umi/16.vista.ko.md","slug":"paper-review/umi/vista","locale":"ko","title":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training","isHub":false,"order":"$undefined"},{"name":"17.yubi.ko.md","type":"file","path":"paper-review/umi/17.yubi.ko.md","slug":"paper-review/umi/yubi","locale":"ko","title":"논문해석 - YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale","isHub":false,"order":"$undefined"},{"name":"18.umi-bench.ko.md","type":"file","path":"paper-review/umi/18.umi-bench.ko.md","slug":"paper-review/umi/umi-bench","locale":"ko","title":"논문해석 - UMI-Bench 1.0: An Open and Reproducible Real-World Benchmark for Tabletop Robotic Manipulation with UMI Data","isHub":false,"order":"$undefined"},{"name":"19.bridge.ko.md","type":"file","path":"paper-review/umi/19.bridge.ko.md","slug":"paper-review/umi/bridge","locale":"ko","title":"논문해석 - Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts","isHub":false,"order":"$undefined"}],"slug":"paper-review/umi","order":3},{"name":"wam","type":"folder","path":"paper-review/wam","children":[{"name":"01.flux-3-action.ko.md","type":"file","path":"paper-review/wam/01.flux-3-action.ko.md","slug":"paper-review/wam/flux-3-action","locale":"ko","title":"논문해석 - FLUX 3 Action: A 7B World Action Model for Robot Control","isHub":false,"order":"$undefined"}],"slug":"paper-review/wam","order":4}],"slug":"paper-review","order":"$undefined"},{"name":"programming","type":"folder","path":"programming","children":[{"name":"coding-test","type":"folder","path":"programming/coding-test","children":[{"name":"Brute-Force Search","type":"folder","path":"programming/coding-test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"programming/coding-test/Brute-Force Search/01.problem1.ko.ipynb","slug":"programming/coding-test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Data Structure","type":"folder","path":"programming/coding-test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"programming/coding-test/Data Structure/00.intro.ko.md","slug":"programming/coding-test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Sort","type":"folder","path":"programming/coding-test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"programming/coding-test/Sort/00.intro.ko.ipynb","slug":"programming/coding-test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"SQL","type":"folder","path":"programming/coding-test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"programming/coding-test/SQL/00.order-by.ko.md","slug":"programming/coding-test/SQL/order-by","locale":"ko","title":null,"isHub":false,"order":"$undefined"},{"name":"01.string.ko.md","type":"file","path":"programming/coding-test/SQL/01.string.ko.md","slug":"programming/coding-test/SQL/string","locale":"ko","title":null,"isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"computer-science","type":"folder","path":"programming/computer-science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"programming/computer-science/00.process-vs-thread.ko.md","slug":"programming/computer-science/process-vs-thread","locale":"ko","title":"프로세스와 스레드","isHub":false,"order":"$undefined"},{"name":"01.endian.ko.md","type":"file","path":"programming/computer-science/01.endian.ko.md","slug":"programming/computer-science/endian","locale":"ko","title":"엔디안","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"CPP","type":"folder","path":"programming/CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"programming/CPP/00.reference.ko.md","slug":"programming/CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)","isHub":false,"order":"$undefined"},{"name":"01.member-access-operator.ko.md","type":"file","path":"programming/CPP/01.member-access-operator.ko.md","slug":"programming/CPP/member-access-operator","locale":"ko","title":"member access operator","isHub":false,"order":"$undefined"},{"name":"02.template.ko.md","type":"file","path":"programming/CPP/02.template.ko.md","slug":"programming/CPP/template","locale":"ko","title":"Template","isHub":false,"order":"$undefined"},{"name":"03.smart-pointer.ko.md","type":"file","path":"programming/CPP/03.smart-pointer.ko.md","slug":"programming/CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"DB","type":"folder","path":"programming/DB","children":[{"name":"MySQL","type":"folder","path":"programming/DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"programming/DB/MySQL/00.install.ko.md","slug":"programming/DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행","isHub":false,"order":"$undefined"},{"name":"01.sql-language.ko.md","type":"file","path":"programming/DB/MySQL/01.sql-language.ko.md","slug":"programming/DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리","isHub":false,"order":"$undefined"},{"name":"02.user-management.ko.md","type":"file","path":"programming/DB/MySQL/02.user-management.ko.md","slug":"programming/DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리","isHub":false,"order":"$undefined"},{"name":"03.table.ko.md","type":"file","path":"programming/DB/MySQL/03.table.ko.md","slug":"programming/DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리","isHub":false,"order":"$undefined"},{"name":"04.dml.ko.md","type":"file","path":"programming/DB/MySQL/04.dml.ko.md","slug":"programming/DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)","isHub":false,"order":"$undefined"},{"name":"05.operators.ko.md","type":"file","path":"programming/DB/MySQL/05.operators.ko.md","slug":"programming/DB/MySQL/operators","locale":"ko","title":"MySQL 연산자","isHub":false,"order":"$undefined"},{"name":"06.union.ko.md","type":"file","path":"programming/DB/MySQL/06.union.ko.md","slug":"programming/DB/MySQL/union","locale":"ko","title":"MySQL UNION","isHub":false,"order":"$undefined"},{"name":"07.join.ko.md","type":"file","path":"programming/DB/MySQL/07.join.ko.md","slug":"programming/DB/MySQL/join","locale":"ko","title":"MySQL JOIN","isHub":false,"order":"$undefined"},{"name":"08.result-control.ko.md","type":"file","path":"programming/DB/MySQL/08.result-control.ko.md","slug":"programming/DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어","isHub":false,"order":"$undefined"},{"name":"09.backup.ko.md","type":"file","path":"programming/DB/MySQL/09.backup.ko.md","slug":"programming/DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원","isHub":false,"order":"$undefined"},{"name":"10.csv-to-db.ko.md","type":"file","path":"programming/DB/MySQL/10.csv-to-db.ko.md","slug":"programming/DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python","isHub":false,"order":"$undefined"},{"name":"11.aggregate-func.ko.md","type":"file","path":"programming/DB/MySQL/11.aggregate-func.ko.md","slug":"programming/DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY","isHub":false,"order":"$undefined"},{"name":"12.scalar-func.ko.md","type":"file","path":"programming/DB/MySQL/12.scalar-func.ko.md","slug":"programming/DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary","isHub":false,"order":"$undefined"},{"name":"13.subquery.ko.md","type":"file","path":"programming/DB/MySQL/13.subquery.ko.md","slug":"programming/DB/MySQL/subquery","locale":"ko","title":"Subquery","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"functional-programming","type":"folder","path":"programming/functional-programming","children":[{"name":"00.basic.ko.md","type":"file","path":"programming/functional-programming/00.basic.ko.md","slug":"programming/functional-programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic","isHub":false,"order":"$undefined"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"programming/functional-programming/01.functional-vs-imperative.ko.md","slug":"programming/functional-programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative","isHub":false,"order":"$undefined"},{"name":"02.fxts.ko.md","type":"file","path":"programming/functional-programming/02.fxts.ko.md","slug":"programming/functional-programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs","isHub":false,"order":"$undefined"},{"name":"03.monad.ko.md","type":"file","path":"programming/functional-programming/03.monad.ko.md","slug":"programming/functional-programming/monad","locale":"ko","title":"FP Workshop - 3. Monad","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Python","type":"folder","path":"programming/Python","children":[{"name":"00.settings.ko.md","type":"file","path":"programming/Python/00.settings.ko.md","slug":"programming/Python/settings","locale":"ko","title":"Python 개발환경 설정","isHub":false,"order":"$undefined"},{"name":"01.number.ko.md","type":"file","path":"programming/Python/01.number.ko.md","slug":"programming/Python/number","locale":"ko","title":"Python 숫자형","isHub":false,"order":"$undefined"},{"name":"02.string.ko.md","type":"file","path":"programming/Python/02.string.ko.md","slug":"programming/Python/string","locale":"ko","title":"Python 문자열","isHub":false,"order":"$undefined"},{"name":"03.list.ko.md","type":"file","path":"programming/Python/03.list.ko.md","slug":"programming/Python/list","locale":"ko","title":"Python 리스트","isHub":false,"order":"$undefined"},{"name":"04.tuple.ko.md","type":"file","path":"programming/Python/04.tuple.ko.md","slug":"programming/Python/tuple","locale":"ko","title":"Python 튜플","isHub":false,"order":"$undefined"},{"name":"05.dict.ko.md","type":"file","path":"programming/Python/05.dict.ko.md","slug":"programming/Python/dict","locale":"ko","title":"Python 딕셔너리","isHub":false,"order":"$undefined"},{"name":"06.set.ko.md","type":"file","path":"programming/Python/06.set.ko.md","slug":"programming/Python/set","locale":"ko","title":"Python 집합","isHub":false,"order":"$undefined"},{"name":"07.bool.ko.md","type":"file","path":"programming/Python/07.bool.ko.md","slug":"programming/Python/bool","locale":"ko","title":"Python 불리언","isHub":false,"order":"$undefined"},{"name":"08.statement.ko.md","type":"file","path":"programming/Python/08.statement.ko.md","slug":"programming/Python/statement","locale":"ko","title":"Python 제어문","isHub":false,"order":"$undefined"},{"name":"09.function.ko.md","type":"file","path":"programming/Python/09.function.ko.md","slug":"programming/Python/function","locale":"ko","title":"Python 함수","isHub":false,"order":"$undefined"},{"name":"10.pythonic.ko.md","type":"file","path":"programming/Python/10.pythonic.ko.md","slug":"programming/Python/pythonic","locale":"ko","title":"Pythonic Code","isHub":false,"order":"$undefined"},{"name":"11.class.ko.md","type":"file","path":"programming/Python/11.class.ko.md","slug":"programming/Python/class","locale":"ko","title":"Python 클래스","isHub":false,"order":"$undefined"},{"name":"12.dataclass.ko.md","type":"file","path":"programming/Python/12.dataclass.ko.md","slug":"programming/Python/dataclass","locale":"ko","title":"Python 데이터클래스","isHub":false,"order":"$undefined"},{"name":"13.package.ko.md","type":"file","path":"programming/Python/13.package.ko.md","slug":"programming/Python/package","locale":"ko","title":"Python 패키지와 모듈","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"Arduino","type":"folder","path":"Robotics/Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Robotics/Arduino/00.arduino.ko.md","slug":"Robotics/Arduino/arduino","locale":"ko","title":"Arduino 기본 지식","isHub":false,"order":"$undefined"},{"name":"01.switch.ko.md","type":"file","path":"Robotics/Arduino/01.switch.ko.md","slug":"Robotics/Arduino/switch","locale":"ko","title":"Arduino Switch","isHub":false,"order":"$undefined"},{"name":"02.serial.ko.md","type":"file","path":"Robotics/Arduino/02.serial.ko.md","slug":"Robotics/Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기","isHub":false,"order":"$undefined"},{"name":"03.led.ko..md","type":"file","path":"Robotics/Arduino/03.led.ko..md","slug":"Robotics/Arduino/led.ko.","locale":"$undefined","title":"Arduino LED","isHub":false,"order":"$undefined"},{"name":"04.rfid.ko.md","type":"file","path":"Robotics/Arduino/04.rfid.ko.md","slug":"Robotics/Arduino/rfid","locale":"ko","title":"Arduino RFID","isHub":false,"order":"$undefined"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Robotics/Arduino/05.arduino-llm.ko.md","slug":"Robotics/Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"introduction-to-robotics-craig","type":"folder","path":"Robotics/introduction-to-robotics-craig","children":[{"name":"00.craig-ch01-02-spatial-descriptions.ko.md","type":"file","path":"Robotics/introduction-to-robotics-craig/00.craig-ch01-02-spatial-descriptions.ko.md","slug":"Robotics/introduction-to-robotics-craig/craig-ch01-02-spatial-descriptions","locale":"ko","title":"Introduction to Robotics (Craig) - 1장 서론 · 2장 공간 기술과 변환","isHub":false,"order":"$undefined"}],"slug":"Robotics/introduction-to-robotics-craig","order":"$undefined"},{"name":"pinkrab","type":"folder","path":"Robotics/pinkrab","children":[{"name":"01.origin.ko.md","type":"file","path":"Robotics/pinkrab/01.origin.ko.md","slug":"Robotics/pinkrab/origin","locale":"ko","title":"Pinkrab - 게발의 시작","isHub":false,"order":"$undefined"}],"slug":"Robotics/pinkrab","order":"$undefined"},{"name":"ROS","type":"folder","path":"Robotics/ROS","children":[{"name":"concepts","type":"folder","path":"Robotics/ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"Robotics/ROS/concepts/01.nodes.ko.md","slug":"Robotics/ROS/concepts/nodes","locale":"ko","title":"basic - nodes","isHub":false,"order":"$undefined"},{"name":"02.interfaces.ko.md","type":"file","path":"Robotics/ROS/concepts/02.interfaces.ko.md","slug":"Robotics/ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces","isHub":false,"order":"$undefined"},{"name":"03.topics.ko.md","type":"file","path":"Robotics/ROS/concepts/03.topics.ko.md","slug":"Robotics/ROS/concepts/topics","locale":"ko","title":"basic - topics","isHub":false,"order":"$undefined"},{"name":"04.services.ko.md","type":"file","path":"Robotics/ROS/concepts/04.services.ko.md","slug":"Robotics/ROS/concepts/services","locale":"ko","title":"basic - services","isHub":false,"order":"$undefined"},{"name":"05.actions.ko.md","type":"file","path":"Robotics/ROS/concepts/05.actions.ko.md","slug":"Robotics/ROS/concepts/actions","locale":"ko","title":"basic - actions","isHub":false,"order":"$undefined"},{"name":"06.parameters.ko.md","type":"file","path":"Robotics/ROS/concepts/06.parameters.ko.md","slug":"Robotics/ROS/concepts/parameters","locale":"ko","title":"basic - parameters","isHub":false,"order":"$undefined"},{"name":"07.launch.ko.md","type":"file","path":"Robotics/ROS/concepts/07.launch.ko.md","slug":"Robotics/ROS/concepts/launch","locale":"ko","title":"basic - launch","isHub":false,"order":"$undefined"},{"name":"08.rcl.ko.md","type":"file","path":"Robotics/ROS/concepts/08.rcl.ko.md","slug":"Robotics/ROS/concepts/rcl","locale":"ko","title":"basic - rcl","isHub":false,"order":"$undefined"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"Robotics/ROS/concepts/09.ros_domain_id.ko.md","slug":"Robotics/ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID","isHub":false,"order":"$undefined"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"Robotics/ROS/concepts/10.middleware-vendors.ko.md","slug":"Robotics/ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors","isHub":false,"order":"$undefined"},{"name":"11.logging.ko.md","type":"file","path":"Robotics/ROS/concepts/11.logging.ko.md","slug":"Robotics/ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration","isHub":false,"order":"$undefined"},{"name":"12.qos.ko.md","type":"file","path":"Robotics/ROS/concepts/12.qos.ko.md","slug":"Robotics/ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings","isHub":false,"order":"$undefined"},{"name":"13.executors.ko.md","type":"file","path":"Robotics/ROS/concepts/13.executors.ko.md","slug":"Robotics/ROS/concepts/executors","locale":"ko","title":"intermediate - executors","isHub":false,"order":"$undefined"},{"name":"14.topic-statistics.ko.md","type":"file","path":"Robotics/ROS/concepts/14.topic-statistics.ko.md","slug":"Robotics/ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics","isHub":false,"order":"$undefined"},{"name":"15.rqt.ko.md","type":"file","path":"Robotics/ROS/concepts/15.rqt.ko.md","slug":"Robotics/ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt","isHub":false,"order":"$undefined"},{"name":"16.composition.ko.md","type":"file","path":"Robotics/ROS/concepts/16.composition.ko.md","slug":"Robotics/ROS/concepts/composition","locale":"ko","title":"intermediate - composition","isHub":false,"order":"$undefined"},{"name":"17.cross-compilation.ko.md","type":"file","path":"Robotics/ROS/concepts/17.cross-compilation.ko.md","slug":"Robotics/ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation","isHub":false,"order":"$undefined"},{"name":"18.ros2-security.ko.md","type":"file","path":"Robotics/ROS/concepts/18.ros2-security.ko.md","slug":"Robotics/ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security","isHub":false,"order":"$undefined"},{"name":"19.tf2.ko.md","type":"file","path":"Robotics/ROS/concepts/19.tf2.ko.md","slug":"Robotics/ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.install.ko.md","type":"file","path":"Robotics/ROS/00.install.ko.md","slug":"Robotics/ROS/install","locale":"ko","title":"맥에서 ros2 설치하기","isHub":false,"order":"$undefined"},{"name":"01.pkg.ko.md","type":"file","path":"Robotics/ROS/01.pkg.ko.md","slug":"Robotics/ROS/pkg","locale":"ko","title":"workspace & package","isHub":false,"order":"$undefined"},{"name":"02.nav2.ko.md","type":"file","path":"Robotics/ROS/02.nav2.ko.md","slug":"Robotics/ROS/nav2","locale":"ko","title":"ROS2 Nav2","isHub":false,"order":"$undefined"},{"name":"03.behavior-tree.ko.md","type":"file","path":"Robotics/ROS/03.behavior-tree.ko.md","slug":"Robotics/ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리","isHub":false,"order":"$undefined"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)","isHub":false,"order":"$undefined"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+20:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success\",\"description\":\"OpenVLA의 사전학습은 그대로 두고 미세조정 방식만 병렬 디코딩·행동 묶음·연속 행동·L1 회귀로 바꿔, LIBERO 평균 성공률을 76.5%에서 97.1%로, 행동 생성 처리량을 26배로 높이고 양팔 ALOHA 로봇에서 π0보다 높은 점수를 낸 OpenVLA-OFT를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2502.19645v2/fig/figure_1_openvla_aloha.001.jpeg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/vla/openvla-oft\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L1d",["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"}],"$L1e",false,false,"$L1f"]}]}]
+9:null
+e:[["$","title","0",{"children":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success | 박우림"}],["$","meta","1",{"name":"description","content":"OpenVLA의 사전학습은 그대로 두고 미세조정 방식만 병렬 디코딩·행동 묶음·연속 행동·L1 회귀로 바꿔, LIBERO 평균 성공률을 76.5%에서 97.1%로, 행동 생성 처리량을 26배로 높이고 양팔 ALOHA 로봇에서 π0보다 높은 점수를 낸 OpenVLA-OFT를 원본 그림과 함께 풀어봅니다."}],["$","link","2",{"rel":"author","href":"https://woolimi.github.io"}],["$","meta","3",{"name":"author","content":"박우림"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://woolimi.github.io/ko/blog/paper-review/vla/openvla-oft"}],["$","meta","8",{"property":"og:title","content":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"}],["$","meta","9",{"property":"og:description","content":"OpenVLA의 사전학습은 그대로 두고 미세조정 방식만 병렬 디코딩·행동 묶음·연속 행동·L1 회귀로 바꿔, LIBERO 평균 성공률을 76.5%에서 97.1%로, 행동 생성 처리량을 26배로 높이고 양팔 ALOHA 로봇에서 π0보다 높은 점수를 낸 OpenVLA-OFT를 원본 그림과 함께 풀어봅니다."}],["$","meta","10",{"property":"og:url","content":"https://woolimi.github.io/ko/blog/paper-review/vla/openvla-oft"}],["$","meta","11",{"property":"og:site_name","content":"박우림"}],["$","meta","12",{"property":"og:locale","content":"ko_KR"}],["$","meta","13",{"property":"og:image","content":"https://arxiv.org/html/2502.19645v2/fig/figure_1_openvla_aloha.001.jpeg"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:published_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","19",{"property":"article:modified_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","20",{"property":"article:author","content":"박우림"}],["$","meta","21",{"property":"article:section","content":"논문 해석"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"}],["$","meta","24",{"name":"twitter:description","content":"OpenVLA의 사전학습은 그대로 두고 미세조정 방식만 병렬 디코딩·행동 묶음·연속 행동·L1 회귀로 바꿔, LIBERO 평균 성공률을 76.5%에서 97.1%로, 행동 생성 처리량을 26배로 높이고 양팔 ALOHA 로봇에서 π0보다 높은 점수를 낸 OpenVLA-OFT를 원본 그림과 함께 풀어봅니다."}],["$","meta","25",{"name":"twitter:image","content":"https://arxiv.org/html/2502.19645v2/fig/figure_1_openvla_aloha.001.jpeg"}],["$","link","26",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","27",{"rel":"icon","href":"/favicon.ico"}],["$","link","28",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","29",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","30",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L20","31",{}]]
+21:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+25:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+22:Tfc04,
+## 들어가며
+
+[OpenVLA 논문해석](/blog/paper-review/vla/openvla)에서 본 OpenVLA는 행동 한 걸음을 토큰 7개로 바꾸고, 언어 모델이 그 토큰을 하나씩 차례로 생성합니다. 이 방식은 VLM 구조를 거의 고치지 않아도 되는 대신 느립니다. 저자들이 밝힌 한계에도 50Hz로 동작하는 ALOHA 같은 고주파 제어 로봇에 쓰려면 처리량을 높여야 하고, 행동 묶음(action chunking)이 해결책 후보라고 적혀 있었습니다.
+
+그 뒤에 나온 [π0](/blog/paper-review/vla/pi0)는 VLM에 flow matching으로 연속 행동 묶음을 만드는 행동 전문가를 붙였고, [FAST](/blog/paper-review/vla/fast)는 행동 묶음을 압축한 토큰으로 자기회귀 방식의 속도를 높였습니다. 두 연구는 모두 모델 구조나 사전학습 방식을 새로 설계했습니다.
+
+이 논문은 다른 질문을 던집니다. 이미 사전학습된 OpenVLA를 새 로봇에 맞출 때 **미세조정 방식만 바꾸면** 속도와 성공률이 얼마나 달라지는가입니다. 저자들은 행동을 만드는 순서, 행동을 표현하는 형식, 학습 목적 함수를 하나씩 바꿔 비교하고, 그 결과를 묶어 **OFT(Optimized Fine-Tuning) 레시피**라는 이름을 붙였습니다. OpenVLA에 이 레시피를 적용한 모델이 OpenVLA-OFT입니다.
+
+📄 [Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) — Moo Jin Kim, Chelsea Finn, Percy Liang / Stanford University, 2025-02 공개 (v2 2025-04)
+
+프로젝트 페이지는 [openvla-oft.github.io](https://openvla-oft.github.io)이고, arxiv 식별자는 2502.19645입니다. 이 글은 v2를 기준으로 합니다.
+
+### 초록 요약
+
+최근 VLA는 사전학습된 시각-언어 모델(VLM)과 다양한 로봇 데이터로 학습해 과제 수행, 언어 지시 추종, 의미 수준의 일반화에서 좋은 성능을 냅니다. 그래도 처음 보는 로봇 설정에서는 미세조정이 필요한데, 미세조정 전략의 선택지가 많아 어떤 방법이 가장 효과적인지는 분명하지 않았습니다.
+
+저자들은 OpenVLA를 대표 기본 모델로 두고 행동 디코딩 방식, 행동 표현, 학습 목적 함수 같은 적응 설계를 비교합니다. 그 결과로 병렬 디코딩, 행동 묶음, 연속 행동 표현, L1 회귀 목적 함수를 함께 쓰는 OFT 레시피를 제안합니다. 이 레시피는 추론 효율, 정책 성능, 모델 입출력의 유연성을 한꺼번에 개선합니다.
+
+OpenVLA-OFT는 LIBERO 시뮬레이션 벤치마크에서 네 과제 묶음의 평균 성공률을 76.5%에서 97.1%로 올려 최고 기록을 세웠고, 행동 생성 처리량은 26배가 됐습니다. 실제 양팔 ALOHA 로봇에서는 고주파·정밀 제어 과제를 해냈고, 기본 레시피로 미세조정한 다른 VLA(π0, RDT-1B)와 처음부터 학습한 모방 학습 정책(Diffusion Policy, ACT)보다 평균 점수가 최대 15%p 높았습니다. OFT 코드와 사전학습 저장본은 프로젝트 페이지에 공개돼 있습니다.
+
+![그림 1 — 양팔 ALOHA 로봇의 OpenVLA-OFT+](https://arxiv.org/html/2502.19645v2/fig/figure_1_openvla_aloha.001.jpeg)
+
+*그림 1 — 카메라 3대의 이미지, 관절 각도, 과제 설명을 받아 14차원 행동 25걸음을 한 번에 출력합니다.*
+
+그림 위쪽이 OpenVLA-OFT+의 구조입니다. 3인칭 카메라와 왼쪽·오른쪽 손목 카메라 이미지가 각각 SigLIP+DINOv2 시각 부호기를 거치고, 현재 관절 각도(자기수용 상태, proprio)가 입력 임베딩 하나로 들어갑니다. 과제 설명("scoop raisins into bowl")은 언어 모델 입력으로 들어가는 동시에, FiLM으로 시각 부호기 안의 특징도 조절합니다. 오른쪽의 노란 칸이 **빈 행동 임베딩**이고, Llama 2 7B가 이 칸들을 한 번에 처리해 보라색 칸의 행동 값을 냅니다. 한 걸음의 행동은 14차원 절대 관절 각도 목표값이고, 25걸음이 한 행동 묶음입니다. 이름 끝의 "+"는 FiLM을 추가했다는 뜻입니다. 아래 사진 네 장은 실험 과제입니다. 왼쪽부터 반바지 개기(양팔 정밀 제어), 티셔츠 개기(접촉이 많은 장기 과제), 숟가락으로 재료 떠 넣기(도구 사용), 지시한 채소를 냄비에 넣기(언어 지시로 행동 선택)입니다.
+
+---
+
+## 1. 문제 — 기존 미세조정의 속도와 양팔 과제 성능
+
+VLA를 새 로봇과 새 과제에 쓰려면 미세조정이 필요합니다. 새 로봇에 VLA를 맞추려는 사람은 보통 사전학습 때와 같은 학습 방식을 그대로 쓰거나, 그 방식에 LoRA 같은 파라미터 효율 기법만 더합니다. OpenVLA 논문도 LoRA로 한 팔 로봇에 적응하는 방법을 제시했습니다. 저자들은 이 기본 방식의 한계를 두 가지로 봅니다.
+
+1. **느린 추론** — OpenVLA는 행동 한 걸음을 토큰 7개로 표현하고, 언어 모델이 토큰을 하나 생성할 때마다 복호기 순방향 계산을 한 번씩 합니다. 이 방식의 처리량은 한 팔 로봇 기준 3–5Hz입니다. 양팔 로봇처럼 행동 차원이 두 배면 더 느려집니다. 고주파 제어 로봇에는 25–50Hz 이상이 필요합니다.
+2. **양팔 과제의 낮은 성공률** — 자기회귀 VLA를 LoRA로 미세조정하든 전체 미세조정하든, 양팔 조작 과제에서는 만족스러운 성능이 나오지 않는다는 결과가 기존 연구에 여럿 있습니다.
+
+### 행동 묶음이 기존 OpenVLA에서 비현실적인 이유
+
+**행동 묶음**은 앞으로 여러 걸음의 행동을 한 번에 예측하고, 중간에 다시 계획하지 않고 그대로 실행하는 방식입니다. [ACT](/blog/paper-review/pre-vla/act)와 [Diffusion Policy](/blog/paper-review/pre-vla/diffusion-policy)가 이 방식으로 조작 과제 성공률을 높였습니다.
+
+OpenVLA에 행동 묶음을 그대로 붙이면 계산 횟수가 묶음 길이에 비례해 늘어납니다. 묶음 길이를 $K$, 행동 차원을 $D$라고 하면 행동 묶음 하나를 만들 때 복호기 순방향 계산이 $KD$번 필요합니다.
+
+| 설정 | 한 번에 만드는 행동 | 자기회귀 방식의 복호기 계산 횟수 |
+|------|-----------------|--------------------------|
+| OpenVLA 기본 (한 팔, 묶음 없음) | $K=1$, $D=7$ | 7번 |
+| LIBERO에서 쓴 묶음 | $K=8$, $D=7$ | 56번 |
+| ALOHA에서 쓴 묶음 (양팔) | $K=25$, $D=14$ | 350번 |
+
+*계산 횟수는 $K \times D$로 계산한 값입니다.*
+
+논문 III절은 OpenVLA가 A100 GPU에서 한 걸음 행동을 만드는 데 0.33초가 걸린다고 적습니다. 여기에 계산 횟수가 $K$배로 늘어나면 고주파 로봇에서 행동 묶음을 쓸 수 없습니다.
+
+### 기존 속도 개선 연구와의 차이
+
+| 방향 | 대표 연구 | 속도를 높이는 방법 | 남는 문제 |
+|------|---------|---------------|---------|
+| 행동 토큰 압축 | MiniVLA(벡터 양자화), FAST(이산 코사인 변환) | 행동 묶음을 적은 토큰으로 표현해 자기회귀 생성 횟수를 줄임 | 2–13배 빨라지지만 여전히 토큰을 차례로 생성함. FAST도 행동 묶음 사이 지연이 750ms |
+| 확산·flow matching VLA | π0, RDT-1B 등 | 여러 걸음의 행동 묶음을 동시에 생성 | 학습이 느리고, 추론 때 잡음 제거·적분 단계를 여러 번 반복함. 구조·학습 방식·입출력이 제각각이라 어느 요소가 성능을 좌우하는지 불분명 |
+| **OFT** | **OpenVLA-OFT** | **병렬 디코딩으로 행동 묶음 전체를 순방향 계산 한 번에 생성** | — |
+
+저자들은 모델 개발이 아니라 **미세조정 레시피**를 연구 대상으로 삼습니다. 느린 VLA 옆에 빠른 하위 제어기를 따로 두지도 않고, 온라인 강화학습으로 정책을 계속 갱신하지도 않습니다. 고정된 전문가 시연 데이터로 한 번 오프라인 학습하는 모방 학습 설정만 다룹니다.
+
+---
+
+## 2. 설계 선택지 — 행동 생성·행동 표현·학습 목적 함수
+
+저자들이 비교한 설계 요소는 세 가지입니다. 원래 OpenVLA의 선택은 표의 첫 번째 열입니다.
+
+| 설계 요소 | 원래 OpenVLA | 비교한 대안 |
+|---------|------------|----------|
+| 행동 생성 방식 | 자기회귀 생성 — 토큰을 하나씩 차례로 | 병렬 디코딩 — 모든 행동 값을 순방향 계산 한 번에 |
+| 행동 표현 | 이산 행동 — 차원마다 256구간 토큰, 소프트맥스로 확률 계산 | 연속 행동 — MLP 행동 헤드가 실수 값을 바로 출력 |
+| 학습 목적 함수 | 다음 토큰 예측 (교차 엔트로피) | L1 회귀, 조건부 잡음 제거 확산 |
+
+이산 행동과 연속 행동은 언어 모델 마지막 층 뒤에서 갈라집니다.
+
+- **이산 행동** — 복호기 마지막 은닉 상태를 선형 변환해 로짓(logit)을 만들고, 소프트맥스로 행동 토큰 256개의 확률 분포를 만듭니다.
+- **연속 행동** — 복호기 마지막 은닉 상태를 별도의 MLP 행동 헤드에 넣어, 정규화된 연속 행동 값을 바로 얻습니다.
+
+미세조정 데이터가 과제 묶음당 시연 500개 수준으로 작기 때문에(사전학습은 100만 개), 모든 비교 실험은 LoRA 미세조정으로 합니다. 사전학습 단계는 원래 OpenVLA 그대로 두고, 미세조정 단계만 바꿉니다.
+
+---
+
+## 3. 병렬 디코딩과 행동 묶음
+
+### 자기회귀 생성의 입력과 주의
+
+원래 OpenVLA의 학습은 **교사 강제(teacher forcing)** 방식입니다. 복호기 입력에 정답 행동 토큰을 한 칸 오른쪽으로 밀어 넣고, 각 자리에서 다음 토큰을 맞히게 합니다. **인과 주의 마스크(causal attention mask)** 가 각 토큰이 자기 자리와 그 앞의 토큰만 보도록 막습니다. 추론할 때는 방금 예측한 토큰을 다음 자리의 입력으로 다시 넣으므로, 행동 토큰 7개를 얻으려면 복호기를 7번 실행해야 합니다.
+
+### 병렬 디코딩의 입력과 주의
+
+병렬 디코딩은 두 곳을 바꿉니다.
+
+1. **입력** — 정답 행동 토큰 대신 **빈 행동 임베딩**을 넣습니다. 빈 행동 임베딩은 서로 위치 부호화 값만 다르고 나머지 내용은 같은 벡터입니다. 행동 값이 들어갈 자리만 표시하는 입력입니다.
+2. **주의 마스크** — 인과 마스크를 **양방향 주의(bidirectional attention)** 로 바꿉니다. 행동 자리의 각 벡터가 앞뒤 모든 자리의 중간 특징을 봅니다.
+
+행동 차원이 7이고 행동 묶음이 없을 때($K=1$) 두 방식의 복호기 행동 구간은 아래 표와 같이 다릅니다.
+
+| 행동 구간의 자리 | 1 | 2 | 3 | … | 7 |
+|-------------|---|---|---|---|---|
+| 맞힐 값 | 1번째 차원 | 2번째 차원 | 3번째 차원 | … | 7번째 차원 |
+| 자기회귀 방식의 입력 | 직전 토큰 | 정답 1번째 차원 토큰 | 정답 2번째 차원 토큰 | … | 정답 6번째 차원 토큰 |
+| 자기회귀 방식이 보는 범위 | 자기 자리와 앞쪽 | 자기 자리와 앞쪽 | 자기 자리와 앞쪽 | … | 자기 자리와 앞쪽 |
+| 병렬 디코딩의 입력 | 빈 임베딩 (위치 1) | 빈 임베딩 (위치 2) | 빈 임베딩 (위치 3) | … | 빈 임베딩 (위치 7) |
+| 병렬 디코딩이 보는 범위 | 모든 자리 | 모든 자리 | 모든 자리 | … | 모든 자리 |
+
+자기회귀 방식에서는 2번째 차원을 맞히려면 1번째 차원의 값이 먼저 있어야 합니다. 병렬 디코딩에서는 어느 자리도 다른 자리의 출력을 기다리지 않으므로, 7개 자리의 출력이 복호기 한 번 실행으로 함께 나옵니다.
+
+### 행동 묶음으로의 확장
+
+병렬 디코딩에서는 빈 행동 임베딩을 더 넣기만 하면 여러 걸음의 행동을 얻습니다. 행동 묶음 길이 $K$라면 빈 임베딩 $KD$개를 넣고, 순방향 계산 한 번으로 행동 값 $KD$개를 얻습니다. 그림 1의 ALOHA 설정은 14차원 × 25걸음이므로 빈 임베딩이 350개입니다.
+
+| 설정 | 빈 행동 임베딩 수 | 병렬 디코딩의 복호기 계산 횟수 | 자기회귀 방식의 계산 횟수 |
+|------|---------------|--------------------------|---------------------|
+| LIBERO ($K=8$, $D=7$) | 56개 | 1번 | 56번 |
+| ALOHA ($K=25$, $D=14$) | 350개 | 1번 | 350번 |
+
+*임베딩 수와 계산 횟수는 $K \times D$로 계산한 값입니다.*
+
+입력이 길어진 만큼 한 번 계산하는 시간은 조금 늘어나지만, 처리량은 대략 $K$배가 됩니다. 저자들은 병렬 디코딩이 이론적으로는 자기회귀 방식보다 표현력이 낮을 수 있다고 인정하면서도, 실험한 과제들에서 성능 저하는 보지 못했다고 적습니다.
+
+LIBERO와 ALOHA 실험 모두 추론 때 행동 묶음 전체를 실행한 뒤에 다음 묶음을 요청합니다. 저자들은 이렇게 하면 속도와 성능이 함께 좋아졌다고 적습니다.
+
+---
+
+## 4. 연속 행동 표현과 학습 목적 함수
+
+### 256구간 이산화의 정밀도
+
+OpenVLA의 이산 행동은 차원마다 행동 값을 $[-1, +1]$ 범위로 정규화한 뒤 256개 구간으로 균등하게 나눕니다. 구간 하나의 폭과 되돌렸을 때 생기는 오차를 행동 값 0.3으로 계산합니다.
+
+| 단계 | 계산 | 결과 |
+|------|------|------|
+| ① 구간 폭 | $2 \div 256$ | 0.0078125 |
+| ② 정규화된 행동 값 0.3의 구간 번호 | $(0.3 + 1) \div 0.0078125$의 정수 부분 | 166 |
+| ③ 구간 166의 중앙값으로 되돌림 | $-1 + (166 + 0.5) \times 0.0078125$ | 0.30078125 |
+| ④ 되돌린 값의 오차 | $|0.30078125 - 0.3|$ | 약 0.00078 |
+
+*행동 값 0.3은 임의의 예시 값이고, 나머지는 그 값으로 계산한 값입니다. 구간 번호를 되돌릴 때 중앙값을 쓴다는 설정도 계산을 보여 주기 위한 가정입니다.*
+
+구간 수를 늘리면 오차는 줄지만, 학습 데이터에서 토큰 하나하나가 나오는 횟수가 줄어 일반화가 나빠질 수 있습니다. 저자들은 연속 행동 표현을 쓰면 이런 손실 있는 이산화 없이 행동 분포를 바로 모델링할 수 있다고 봅니다.
+
+### L1 회귀
+
+ACT를 따라, 복호기의 출력 임베딩 층을 **MLP 행동 헤드**로 바꿉니다. 이 헤드는 ReLU 활성화를 쓰는 4층 MLP이고, Llama 2 마지막 복호기 층의 은닉 상태를 연속 행동 값으로 바로 바꿉니다. 학습은 예측 행동과 정답 행동의 차이의 절댓값 평균, 곧 **L1 손실**을 줄이는 방향으로 합니다.
+
+$$
+\mathcal{L}_{\text{L1}} = \frac{1}{KD} \sum_{k=1}^{K} \sum_{d=1}^{D} \left| \hat{a}_{k,d} - a_{k,d} \right|
+$$
+
+행동 값 3개로 L1 손실을 계산한 예입니다.
+
+| 차원 | 예측값 $\hat{a}$ | 정답값 $a$ | 차이의 절댓값 |
+|------|--------------|---------|------------|
+| 1 | 0.10 | 0.12 | 0.02 |
+| 2 | −0.30 | −0.25 | 0.05 |
+| 3 | 0.55 | 0.40 | 0.15 |
+| **평균 (L1 손실)** | | | **약 0.073** |
+
+*예측값과 정답값은 임의의 예시 값이고, 손실은 그 값으로 계산한 값입니다. 위 수식의 $1/KD$ 평균 표기는 논문 문장("mean L1 difference")을 식으로 옮긴 것입니다.*
+
+L1 회귀는 병렬 디코딩의 장점을 그대로 유지합니다. MLP 헤드 하나를 더 계산하는 비용은 7B 모델 전체에 비하면 작습니다. 부록 D에 따르면 LIBERO 학습은 $[-1, +1]$로 정규화한 행동의 평균 L1 손실이 0.01 아래로 떨어질 때까지 합니다.
+
+### 조건부 잡음 제거 확산
+
+Diffusion Policy를 따라, 행동에 섞은 잡음을 예측하도록 학습하는 방식도 비교합니다. 추론 때는 잡음 섞인 행동에서 잡음을 조금씩 제거해 실제 행동을 만듭니다.
+
+| 항목 | 설정 |
+|------|------|
+| 표본 추출기 | DDIM, 확산 단계 50 |
+| 분산 일정 | squared cosine beta schedule |
+| 잡음 예측기 | L1 회귀 헤드와 같은 구조의 4층 MLP |
+
+이 방식은 표현력이 더 클 수 있지만, 추론 때 순방향 계산을 여러 번(구현 기준 50번) 해야 해서 병렬 디코딩을 써도 지연 시간이 깁니다.
+
+---
+
+## 5. 추가 입력 — 여러 카메라와 로봇 상태
+
+원래 OpenVLA는 3인칭 카메라 이미지 한 장만 받습니다. 실제 로봇에는 손목 카메라나 관절 각도 같은 정보가 더 있으므로, 입력 처리 방식을 넓힙니다.
+
+- **카메라 이미지** — 이미지마다 OpenVLA의 이중 시각 부호기(SigLIP + DINOv2)를 거쳐 패치 임베딩 256개를 얻고, 모든 카메라가 같은 투영기를 공유해 언어 임베딩 공간으로 바꿉니다. 부록 A에 따르면 이 투영기는 GELU 활성화를 쓰는 3층 MLP입니다.
+- **로봇 상태** — 관절 각도·집게 상태 같은 저차원 벡터는 GELU 활성화를 쓰는 2층 MLP로 따로 투영해, 입력 임베딩 **하나**로 만듭니다.
+- **이어 붙이기** — 시각 특징, 로봇 상태, 언어 토큰의 임베딩을 모두 순서 방향으로 이어 붙여 복호기에 넣습니다.
+
+복호기에 들어가는 입력 길이는 설정마다 다릅니다.
+
+| 입력 구간 | 원래 OpenVLA | LIBERO의 OpenVLA-OFT | ALOHA의 OpenVLA-OFT+ |
+|--------|------------|-------------------|-------------------|
+| 이미지 패치 임베딩 | 256개 (1장) | 512개 (3인칭 + 손목) | 768개 (3인칭 + 손목 2대) |
+| 로봇 상태 임베딩 | 없음 | 1개 | 1개 |
+| 언어 토큰 | 과제 설명 | 과제 설명 | 과제 설명 |
+| 행동 구간 | 정답 토큰 7개 (자기회귀) | 빈 임베딩 56개 | 빈 임베딩 350개 |
+
+*패치 수와 빈 임베딩 수는 논문의 카메라 수, 행동 차원, 묶음 길이로 계산한 값입니다. 언어 토큰 수는 지시 문장 길이에 따라 달라집니다.*
+
+손목 카메라를 더하면 복호기에 들어가는 이미지 패치 임베딩이 256개에서 512개로 두 배가 됩니다. 병렬 디코딩과 행동 묶음으로 확보한 속도 여유가 있어서, 입력이 이만큼 길어져도 처리량은 71.4Hz, 지연 시간은 0.112초를 유지합니다(9절 표 II).
+
+---
+
+## 6. FiLM — 언어 지시 추종 강화
+
+### 손목 카메라가 만드는 언어 추종 문제
+
+ALOHA처럼 손목 카메라를 포함한 여러 시점을 쓰면, 정책이 언어 지시를 제대로 따르지 않는 문제가 생겼습니다. 학습 중에 정책이 시각 입력 안의 **허위 상관(spurious correlation)** 에 기대 행동을 예측하고, 언어 지시에는 충분히 주의를 기울이지 않기 때문입니다. 예를 들어 "put X into pot" 과제에서 초록 고추를 넣으라고 해도, 장면 배치만 보고 학습 때 자주 본 동작을 하는 식입니다.
+
+언어가 과제 전체에서 고르게 중요하지 않다는 점도 어려움을 더합니다. "scoop X into bowl" 과제에서는 숟가락을 집은 뒤 어떤 재료를 뜰지 정하는 순간에만 언어가 결정적입니다. 나머지 동작은 지시와 상관없이 같습니다.
+
+### FiLM의 계산
+
+**FiLM(Feature-wise Linear Modulation, 특징별 선형 변조)** 은 언어 정보로 시각 특징의 크기와 위치를 직접 조절하는 방법입니다. 과제 설명의 언어 임베딩을 평균 내 문장 벡터 $\mathbf{x}$ 하나를 만들고, 학습되는 아핀 변환 두 개로 크기 조절 벡터 $\boldsymbol{\gamma}$와 이동 벡터 $\boldsymbol{\beta}$를 만듭니다. 그다음 시각 특징 $\mathbf{F}$를 이렇게 바꿉니다.
+
+$$
+\text{FiLM}(\mathbf{F} \mid \boldsymbol{\gamma}, \boldsymbol{\beta}) = \hat{\mathbf{F}} = (1 + \boldsymbol{\gamma}) \odot \mathbf{F} + \boldsymbol{\beta}
+$$
+
+$\odot$는 같은 위치의 원소끼리 곱하는 연산입니다. $\boldsymbol{\gamma}$ 대신 $1 + \boldsymbol{\gamma}$를 곱하는 이유는 학습 시작 때 $\boldsymbol{\gamma}$와 $\boldsymbol{\beta}$가 0에 가깝기 때문입니다. 그러면 처음에는 $\hat{\mathbf{F}} \approx \mathbf{F}$가 되어, 사전학습된 시각 부호기의 활성값이 거의 바뀌지 않은 상태에서 미세조정을 시작합니다.
+
+### 조절 단위 — 패치가 아니라 은닉 차원
+
+ViT에서 무엇을 "특징" 하나로 볼지에 따라 결과가 크게 달라집니다. 패치 임베딩 하나를 특징 하나로 보고 패치마다 따로 조절하는 방법도 가능하지만, 저자들은 이 방식에서 언어 추종이 나빴다고 적습니다. 대신 합성곱 신경망의 FiLM이 특징 맵 전체를 공간 위치와 무관하게 같은 값으로 조절하는 방식을 따라, $\boldsymbol{\gamma}$와 $\boldsymbol{\beta}$의 각 원소를 **모든 패치 임베딩의 같은 은닉 차원**에 똑같이 적용합니다. 그래서 $\boldsymbol{\gamma}$와 $\boldsymbol{\beta}$는 ViT 은닉 차원 수 $D_{ViT}$ 크기의 벡터입니다.
+
+은닉 차원이 3이고 패치가 2개인 작은 예로 계산합니다.
+
+| | 차원 1 | 차원 2 | 차원 3 |
+|---|------|------|------|
+| $\boldsymbol{\gamma}$ | 0.5 | 0.0 | −0.2 |
+| $\boldsymbol{\beta}$ | 0.1 | 0.0 | 0.3 |
+| 패치 1의 $\mathbf{F}$ | 1.0 | 2.0 | −1.0 |
+| 패치 1의 $\hat{\mathbf{F}}$ | 1.6 | 2.0 | −0.5 |
+| 패치 2의 $\mathbf{F}$ | 0.5 | −0.5 | 3.0 |
+| 패치 2의 $\hat{\mathbf{F}}$ | 0.85 | −0.5 | 2.7 |
+
+*$\boldsymbol{\gamma}$, $\boldsymbol{\beta}$, $\mathbf{F}$는 임의의 예시 값이고, $\hat{\mathbf{F}}$는 그 값으로 계산한 값입니다.*
+
+패치 1과 패치 2가 같은 $\boldsymbol{\gamma}$, $\boldsymbol{\beta}$로 조절됩니다. 이 지시에서는 차원 1이 커지고 차원 3은 줄어드는데, 이미지의 어느 위치든 같은 방향으로 바뀝니다. 지시가 바뀌면 $\boldsymbol{\gamma}$와 $\boldsymbol{\beta}$가 달라지므로, 같은 장면이라도 시각 특징이 지시에 따라 다르게 조절됩니다.
+
+### 적용 위치
+
+![그림 8 — OpenVLA 시각 백본의 FiLM 구현](https://arxiv.org/html/2502.19645v2/fig/film_figure.001.jpeg)
+
+*그림 8 — 과제 설명의 평균 임베딩이 SigLIP·DINOv2의 모든 블록에서 시각 특징의 크기와 이동을 조절합니다.*
+
+그림 8 왼쪽의 네 단계가 계산 순서입니다. ① 과제 설명의 언어 임베딩을 얻고 ② 평균 내 $D_{LLM}$차원 문장 임베딩을 만들고 ③ 학습된 투영으로 $D_{ViT}$차원 $\boldsymbol{\gamma}$, $\boldsymbol{\beta}$를 만들고 ④ ViT 블록마다 중간 시각 표현을 조절합니다. 가운데 그림처럼 FiLM은 각 ViT 블록의 다중 헤드 자기 주의 층 뒤, 순방향 신경망 앞에 들어갑니다. 블록마다 투영 층을 따로 두어 층마다 다른 조절 방식을 학습하고, SigLIP과 DINOv2 두 시각 부호기에 모두 적용합니다.
+
+FiLM은 ALOHA 실험에서만 씁니다. LIBERO에서는 FiLM 없이도 언어 추종이 좋았기 때문입니다(14절 표 XIV). ALOHA의 반바지·티셔츠 개기처럼 언어가 필요 없는 과제에도 FiLM을 넣었는데, 추가된 파라미터가 과제 수행을 해치지 않는지 확인하기 위해서입니다.
+
+---
+
+## 7. LIBERO 실험 설정
+
+![그림 3 — LIBERO 과제 묶음](https://arxiv.org/html/2502.19645v2/fig/libero_tasks.001.jpeg)
+
+*그림 3 — 네 과제 묶음마다 10개 과제 중 2개의 장면입니다.*
+
+LIBERO는 시뮬레이션 Franka Emika Panda 팔 벤치마크입니다. 시연에는 카메라 이미지, 로봇 상태, 과제 설명, 말단장치 자세 변화량 행동이 들어 있습니다. 과제 묶음 네 개가 각각 과제 10개와 전문가 시연 500개를 제공합니다.
+
+| 과제 묶음 | 평가하는 일반화 |
+|---------|-------------|
+| LIBERO-Spatial | 공간 배치 |
+| LIBERO-Object | 물체 |
+| LIBERO-Goal | 과제 목표 |
+| LIBERO-Long | 장기 과제 |
+
+학습 설정은 OpenVLA 논문을 따릅니다. 실패한 시연을 걸러 낸 뒤 과제 묶음마다 따로 LoRA 미세조정합니다.
+
+| 항목 | 값 |
+|------|-----|
+| 학습 걸음 | 확산 이외 방법 50–150K, 확산 방법 100–250K (수렴이 느림) |
+| 배치 크기 | 64–128 |
+| GPU | A100 또는 H100 8장 |
+| 저장본 평가 | 50K 걸음마다, 실행마다 가장 좋은 성능 보고 |
+| 기본 입력 | 3인칭 이미지 1장 + 언어 지시 |
+| 행동 묶음 길이 | $K=8$ (Diffusion Policy 기준선과 맞춤), 묶음 전체를 실행한 뒤 다시 계획 |
+| 성공률 집계 | 과제 묶음마다 500회 (과제 10개 × 50 에피소드) |
+
+### 전체 OpenVLA-OFT 학습 설정 (표 IV)
+
+손목 카메라와 로봇 상태까지 쓰는 최종 OpenVLA-OFT의 설정입니다.
+
+| 항목 | 값 |
+|------|-----|
+| GPU | NVIDIA A100 또는 H100 (80GB) 8장 |
+| 학습률 | 5e-4 (100K 걸음 뒤 5e-5로 감소) |
+| 전체 배치 크기 | 64 (GPU당 8) |
+| 학습 걸음 | Spatial·Object·Long 150K, Goal 50K |
+| 입력 이미지 | 3인칭 1장 + 손목 1장, 224 × 224 px |
+| 관측 이력 | 쓰지 않음 (현재 시점만) |
+| LoRA 랭크 | 32 |
+| 행동 묶음 | 8걸음 예측, 8걸음 모두 개루프 실행 |
+| 로봇 상태 입력 | 사용 |
+| FiLM | 사용 안 함 |
+| 학습 파라미터 | 총 279M (LoRA 어댑터 111M + 행동 헤드 151M + 상태 투영기 17M) |
+| 이미지 증강 | 90% 무작위 자르기, 밝기·대비·채도·색상 변화 |
+
+부록 D에 따르면 저장본 평가에서 Goal을 뺀 세 과제 묶음은 150K 저장본이 가장 좋았습니다. 학습 파라미터 279M은 OpenVLA 전체 7.5B의 약 3.7%입니다(계산한 값).
+
+---
+
+## 8. LIBERO 성공률
+
+비교 방법은 기본 레시피로 미세조정한 OpenVLA가 중심이고, 기존 최고 수준 방법들도 함께 싣습니다. Seer는 LIBERO-90 데이터로 추가 사전학습을 했다는 차이가 있습니다.
+
+| 정책 | Spatial | Object | Goal | Long | 평균 |
+|------|--------|--------|------|------|------|
+| **입력: 3인칭 이미지, 언어 지시 (실패 시연을 거른 데이터)** | | | | | |
+| Diffusion Policy (처음부터) | 78.3 | 92.5 | 68.3 | 50.5 | 72.4 |
+| Octo (미세조정) | 78.9 | 85.7 | 84.6 | 51.1 | 75.1 |
+| DiT Policy (미세조정) | 84.2 | 96.3 | 85.4 | 63.8 | 82.4 |
+| OpenVLA (미세조정) | 84.7 | 88.4 | 79.2 | 53.7 | 76.5 |
+| OpenVLA (미세조정) + PD&AC | 91.3 | 92.7 | 90.5 | 86.5 | 90.2 |
+| OpenVLA (미세조정) + PD&AC, 연속-확산 | 96.9 | 98.1 | 95.5 | 91.1 | 95.4 |
+| OpenVLA-OFT (+ PD&AC, 연속-L1) | 96.2 | 98.3 | 96.2 | 90.7 | 95.3 |
+| **입력: 3인칭 + 손목 이미지, 로봇 상태(선택), 언어 지시 (거르지 않은 원본 데이터)** | | | | | |
+| MDT (처음부터, 언어 주석 2%) | 78.5 | 87.5 | 73.5 | 64.8 | 76.1 |
+| MDT (처음부터, 언어 주석 100%) | 95.2 | 97.8 | – | 83.0 | – |
+| Seer (처음부터) | – | – | – | 78.7 | – |
+| Seer (LIBERO-90 사전학습 후 미세조정) | – | – | – | 87.7 | – |
+| OpenVLA-OFT (+ PD&AC, 연속-L1) | 95.2 | 94.2 | 95.2 | 93.2 | 94.5 |
+| **입력: 3인칭 + 손목 이미지, 로봇 상태(선택), 언어 지시 (실패 시연을 거른 데이터)** | | | | | |
+| π0 + FAST (미세조정) | 96.4 | 96.8 | 88.6 | 60.2 | 85.5 |
+| π0 (미세조정) | 96.8 | 98.8 | 95.8 | 85.2 | 94.2 |
+| **OpenVLA-OFT (+ PD&AC, 연속-L1)** | **97.6** | **98.4** | **97.9** | **94.5** | **97.1** |
+
+*표 I — LIBERO 과제 성공률(%). PD는 병렬 디코딩, AC는 행동 묶음($K=8$)입니다. OpenVLA 확산 정책은 학습·추론 모두 확산 단계 50을 씁니다. 기준선 결과는 원 논문 값이고, Diffusion Policy·Octo·원래 OpenVLA는 OpenVLA 논문이 보고한 값입니다. MDT 언어 주석 100% 결과는 저자들과 직접 연락해 얻은 값입니다.*
+
+표의 네 과제 묶음 성공률을 평균 내면 인쇄된 평균과 모두 일치합니다(반올림 차이 0.1 이내).
+
+### 설계 요소별 효과
+
+첫 번째 구간에서 OpenVLA의 입력과 데이터를 그대로 두고 미세조정 방식만 바꾼 효과가 드러납니다.
+
+| 바꾼 요소 | 평균 성공률 변화 | 논문의 해석 |
+|---------|-------------|----------|
+| 자기회귀 → 병렬 디코딩 + 행동 묶음 | 76.5 → 90.2 (+13.7%p) | LIBERO-Long에서 특히 큼(53.7 → 86.5). 행동 묶음이 시간 의존성을 담고 오차 누적을 줄여 동작이 매끄러워짐 |
+| 이산 행동 → 연속 행동(L1) | 90.2 → 95.3 (+5.1%p) | 행동 예측의 정밀도가 높아짐 |
+| L1 회귀 ↔ 확산 | 95.3 vs 95.4 | 거의 같음. 용량이 큰 OpenVLA는 단순한 L1 회귀로도 여러 과제의 행동 분포를 표현함 |
+
+*변화량은 표 I의 값으로 계산한 값이고, 본문은 각각 14%, 5%로 적습니다.*
+
+세 번째 구간에서 손목 카메라와 로봇 상태를 더한 OpenVLA-OFT는 평균 97.1%로, 같은 입력 조건의 π0(94.2%)보다 높습니다. 저자들은 π0가 더 큰 규모로 사전학습한 기본 모델과 더 정교한 flow matching 목적 함수를 쓴다는 점을 들어, 사전학습 데이터가 적은 기본 모델도 미세조정 설계만으로 LIBERO 최고 기록을 세울 수 있다고 봅니다.
+
+---
+
+## 9. LIBERO 추론 효율
+
+### 처리량과 지연 시간
+
+- **지연 시간(latency)** — 행동 하나 또는 행동 묶음 하나를 만드는 데 걸리는 시간
+- **처리량(throughput)** — 1초 동안 만들어지는 행동 걸음 수
+
+모든 측정은 NVIDIA A100 GPU에서 224 × 224 px 이미지 한 장과 LIBERO 지시("pick up the alphabet soup and place it in the basket")로 100번 질의한 평균입니다. 행동은 7차원입니다.
+
+| 변형 | 처리량 (Hz) ↑ | 지연 시간 (초) ↓ | LIBERO-Long 성공률 (%) |
+|------|------------|--------------|-------------------|
+| OpenVLA | 4.2 | 0.2396 | 53.7 |
+| + PD | 15.9 | 0.0629 | – |
+| + PD&AC | 108.8 | 0.0735 | 86.5 |
+| + PD&AC, 연속-L1 | 109.7 | 0.0729 | 90.7 |
+| + PD&AC, 연속-확산 ($T_{train}=50$, $T_{test}=50$) | 4.2 | 1.9070 | 91.1 |
+| + PD&AC, 연속-확산 ($T_{train}=50$, $T_{test}=10$) | 19.3 | 0.4145 | 91.0 |
+| + PD&AC, 연속-확산 ($T_{train}=50$, $T_{test}=5$) | 35.1 | 0.2279 | 90.0 |
+| + PD&AC, 연속-확산 ($T_{train}=50$, $T_{test}=2$) | 80.3 | 0.0996 | 85.7 |
+| + PD&AC, 연속-확산 ($T_{train}=50$, $T_{test}=1$) | 109.4 | 0.0731 | 0.0 |
+| + PD&AC, 연속-L1 + 추가 입력 (손목 이미지, 상태) | 71.4 | 0.1120 | 94.5 |
+
+*표 II — LIBERO 추론 효율. 확산 변형은 DDIM 표본 추출기로 추론 단계 수를 바꿔 측정했습니다.*
+
+### 처리량과 지연 시간의 관계
+
+표 II의 처리량은 한 번 질의로 얻는 행동 걸음 수를 지연 시간으로 나눈 값과 같습니다.
+
+| 변형 | 한 번에 얻는 걸음 | 지연 시간 | 걸음 ÷ 지연 시간 | 표의 처리량 |
+|------|-------------|---------|--------------|----------|
+| OpenVLA | 1 | 0.2396초 | 4.2 | 4.2 |
+| + PD | 1 | 0.0629초 | 15.9 | 15.9 |
+| + PD&AC | 8 | 0.0735초 | 108.8 | 108.8 |
+| + PD&AC, 연속-확산 ($T_{test}=50$) | 8 | 1.9070초 | 4.2 | 4.2 |
+
+*"걸음 ÷ 지연 시간" 열은 계산한 값입니다.*
+
+이 관계로 표를 읽으면 각 요소의 역할이 나뉩니다.
+
+- **병렬 디코딩** — 복호기 계산 7번을 1번으로 줄여 지연 시간을 0.2396초에서 0.0629초로 줄입니다. 처리량은 약 4배(3.8배, 계산한 값)가 됩니다.
+- **행동 묶음** — 복호기 입력이 길어져 지연 시간이 17% 늘지만(0.0629 → 0.0735초), 한 번에 8걸음을 얻으므로 처리량은 기본 OpenVLA의 26배가 됩니다.
+- **L1 회귀 헤드** — MLP 헤드 계산량이 작아 효율 차이가 거의 없습니다.
+- **확산 50단계** — 지연 시간이 1.9초로 길지만, 한 번에 8걸음을 얻으므로 처리량은 원래 자기회귀 OpenVLA와 같은 4.2Hz입니다. 행동 묶음 사이의 멈춤은 길어도 에피소드 전체를 끝내는 속도는 같다는 뜻입니다.
+
+### 확산 추론 단계 수와 성공률
+
+학습 때 50단계로 학습한 확산 정책을 DDIM으로 적은 단계만 추론하면 효율이 크게 좋아집니다. 최신 확산·flow matching 방법들이 추론 때 5–10단계를 쓰는 것과 같은 조건입니다. 대신 단계 수가 줄수록 성공률이 떨어지고, 1단계에서는 LIBERO-Long 성공률이 0.0%입니다. L1 회귀 정책은 1단계 확산과 비슷한 처리량(109.7Hz)을 내면서 성공률 90.7%를 유지합니다.
+
+손목 이미지와 로봇 상태를 더한 최종 설정은 이미지 패치가 두 배로 늘어 처리량이 71.4Hz로 줄지만, 기본 OpenVLA의 약 17배(계산한 값)이고 LIBERO-Long 성공률은 94.5%로 가장 높습니다.
+
+---
+
+## 10. OFT 레시피
+
+LIBERO의 성공률·효율·입출력 유연성 결과를 바탕으로 저자들이 정한 OFT 레시피는 세 요소입니다.
+
+1. 병렬 디코딩과 행동 묶음
+2. 연속 행동 표현
+3. L1 회귀 목적 함수
+
+ALOHA처럼 언어 추종이 어려운 설정에서는 여기에 FiLM을 더해 **OFT+** 로 부릅니다. 부록 A가 정리한 OpenVLA 대비 구조 변경은 여섯 가지입니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "cam",   "label": "카메라 이미지 여러 장", "sub": "3인칭 · 왼쪽 손목 · 오른쪽 손목", "row": 0},
+    {"id": "task",  "label": "과제 설명", "sub": "\"scoop raisins into bowl\"", "row": 0},
+    {"id": "state", "label": "로봇 상태", "sub": "14차원 관절 각도", "row": 0},
+    {"id": "vit",   "label": "SigLIP + DINOv2", "sub": "모든 카메라가 공유 · 블록마다 FiLM", "color": "blue", "row": 1},
+    {"id": "film",  "label": "FiLM 투영", "sub": "평균 언어 임베딩 → γ, β", "color": "blue", "row": 1},
+    {"id": "sproj", "label": "상태 투영기", "sub": "2층 MLP · 임베딩 1개", "color": "blue", "row": 1},
+    {"id": "proj",  "label": "이미지 투영기", "sub": "3층 MLP · 이미지당 패치 256개", "color": "blue", "row": 2},
+    {"id": "empty", "label": "빈 행동 임베딩", "sub": "K × D = 25 × 14 = 350개", "color": "orange", "row": 2},
+    {"id": "llm",   "label": "Llama 2 7B", "sub": "양방향 주의 · 순방향 계산 1번", "color": "orange", "row": 3},
+    {"id": "head",  "label": "MLP 행동 헤드", "sub": "4층 · ReLU · L1 회귀", "color": "green", "row": 4},
+    {"id": "chunk", "label": "행동 묶음", "sub": "25걸음 × 14차원 연속값", "color": "green", "row": 5},
+    {"id": "robot", "label": "ALOHA 실행", "sub": "25Hz · 묶음 전체 실행 후 재질의", "row": 6}
+  ],
+  "edges": [
+    {"from": "cam",   "to": "vit"},
+    {"from": "task",  "to": "film"},
+    {"from": "film",  "to": "vit", "label": "특징 조절"},
+    {"from": "vit",   "to": "proj"},
+    {"from": "state", "to": "sproj"},
+    {"from": "proj",  "to": "llm", "label": "이미지 임베딩"},
+    {"from": "sproj", "to": "llm", "label": "상태 임베딩"},
+    {"from": "task",  "to": "llm", "label": "언어 토큰"},
+    {"from": "empty", "to": "llm"},
+    {"from": "llm",   "to": "head"},
+    {"from": "head",  "to": "chunk"},
+    {"from": "chunk", "to": "robot"}
+  ],
+  "height": 640
+}
+```
+
+| 번호 | 변경 | 원래 OpenVLA |
+|-----|------|------------|
+| 1 | 여러 이미지(3인칭 + 손목)를 같은 SigLIP-DINOv2 백본으로 처리 | 3인칭 이미지 1장 |
+| 2 | 로봇 상태를 2층 MLP(GELU)로 언어 임베딩 공간에 투영 | 상태 입력 없음 |
+| 3 | 인과 주의를 양방향 주의로 바꿔 병렬 디코딩 | 인과 주의, 자기회귀 |
+| 4 | 언어 모델 출력 층을 4층 MLP(ReLU)로 바꿔 연속 행동 생성 | 이산 행동 토큰 |
+| 5 | 한 걸음이 아니라 $K$걸음의 행동 묶음 출력 | 한 걸음 |
+| 6 | (OFT+만) 평균 언어 임베딩으로 SigLIP·DINOv2 시각 특징을 조절하는 FiLM 추가 | 없음 |
+
+---
+
+## 11. ALOHA 실험 설정
+
+### 사전학습과 다른 점
+
+ALOHA는 사전학습 데이터와 크게 다른 실제 양팔 로봇입니다. OpenVLA의 사전학습 데이터에는 한 팔 로봇만 있었습니다.
+
+| 항목 | OpenVLA 사전학습 | ALOHA 실험 |
+|------|--------------|----------|
+| 팔 | 한 팔 | ViperX 300 S 두 팔 |
+| 카메라 | 3인칭 1대 | 위에서 내려다보는 카메라 1대 + 손목 카메라 2대 |
+| 로봇 상태 입력 | 없음 | 14차원 관절 각도 |
+| 제어 주파수 | 3–10Hz | 25Hz (원래 50Hz에서 낮춤) |
+| 행동 | 말단장치 자세 변화량 | 절대 관절 각도 목표값 |
+
+제어 주파수를 50Hz에서 25Hz로 낮춘 이유는 학습을 빠르게 하면서도 동작의 매끄러움을 유지하기 위해서입니다.
+
+### 과제 네 개
+
+| 과제 | 시험하는 능력 | 시연 수 (학습 / 검증) | 에피소드 길이 | 평가 횟수 |
+|------|-----------|-----------------|-----------|---------|
+| fold shorts — 흰 반바지를 두 번 연속 양팔로 접기 | 변형 물체, 양팔 동기 | 20 (19 / 1) | 1000걸음 (40초) | 10 |
+| fold shirt — 흰 티셔츠를 여러 번 양팔로 접기 | 접촉이 많은 장기 과제 | 30 (29 / 1) | 1250걸음 (50초) | 10 |
+| scoop X into bowl — 왼팔로 그릇을 가운데로 옮기고, 오른팔로 금속 숟가락을 써서 지시한 재료를 떠 넣기 | 도구 사용, 언어 지시 | 45 (재료당 15; 42 / 3) | 900걸음 (36초) | 12 (재료당 4) |
+| put X into pot — 왼팔로 냄비 뚜껑을 열고, 오른팔로 지시한 물체를 넣고, 뚜껑을 닫기 | 언어 지시, 분포 밖 방해물 | 300 (물체당 100; 285 / 15) | 400걸음 (16초) | 24 (분포 안 12 + 분포 밖 12) |
+
+scoop X into bowl의 재료는 "raisins", "almonds and green M&Ms", "pretzels"이고, put X into pot의 물체는 "green pepper", "red pepper", "yellow corn"입니다. 에피소드 길이의 초 단위는 25Hz로 나눈 값과 같습니다.
+
+put X into pot의 시연이 300개로 많은 데는 사정이 있습니다. 저자들은 연구 초기에 언어 추종이 잘 안 되자 시연을 늘리면 나아질 것으로 보고 데이터를 모았습니다. 시연을 늘리는 것만으로는 부족했고 FiLM 같은 추가 기법이 필요했지만, 모은 300개를 그대로 학습에 썼습니다. 저자들은 좋은 성능에 이만큼의 시연이 필요하지는 않다고 적습니다.
+
+### 평가 초기 상태
+
+과제별 평가 초기 상태는 아래 범위에서 바뀝니다.
+
+| 과제 | 초기 상태 변화 |
+|------|------------|
+| fold shorts | 학습 시연이 20개로 적어 변화를 가장 작게 둠. 앞 8회는 반바지 위치를 탁자 세로 방향으로 최대 3cm 조금씩 옮기고, 마지막 2회는 아래 가장자리가 탁자 가로축과 평행하도록 시계 방향으로 10도 돌림 |
+| fold shirt | 티셔츠 아래 가장자리가 탁자 세로 방향으로 15cm 범위에서 바뀜 |
+| scoop X into bowl | 초록 그릇 위치가 세로·가로 모두 최대 10cm, 금속 숟가락이 가로로 3cm 바뀜. 같은 초기 상태에서 세 재료를 차례로 평가한 뒤 다음 초기 상태로 넘어감 |
+| put X into pot (분포 안) | 음식 물체 위치가 세로 15cm, 가로 40cm 범위에서 바뀌고 냄비는 고정. 같은 초기 상태에서 세 물체를 차례로 평가 |
+| put X into pot (분포 밖) | 학습에 없던 초록·주황 그릇을 방해물로 추가. 음식 물체 위치가 세로 15cm, 가로 30cm 범위에서 바뀌고 냄비는 고정 |
+
+부록 F1은 put X into pot의 음식 물체 변화 범위를 가로 45cm, 세로 20cm로 적어, 그림 12 캡션(세로 15cm, 가로 40cm)과 다릅니다. 부록 F1은 학습 데이터 기준 범위이고 그림 캡션은 평가 초기 상태 기준 범위일 수 있지만, 논문은 이 차이를 설명하지 않습니다.
+
+### 학습 설정 (표 V)
+
+| 항목 | 값 |
+|------|-----|
+| GPU | NVIDIA A100 또는 H100 (80GB) 8장 |
+| 학습률 | 5e-4 (50K 걸음 뒤 5e-5로 감소하는 과제 있음) |
+| 전체 배치 크기 | 32 (GPU당 4) |
+| 학습 걸음 | fold shorts 100K, fold shirt 70K, scoop 50K, put into pot 100K |
+| 입력 이미지 | 3인칭 1장 + 손목 2장, 224 × 224 px |
+| 관측 이력 | 쓰지 않음 |
+| LoRA 랭크 | 32 |
+| 행동 묶음 | 25걸음 예측, 25걸음 모두 개루프 실행 |
+| 로봇 상태 / FiLM | 둘 다 사용 |
+| 학습 파라미터 | 총 853M (LoRA 어댑터 111M + 행동 헤드 269M + 상태 투영기 17M + FiLM 투영기 456M) |
+
+수렴 기준은 LIBERO와 같이 정규화 L1 손실 0.01 미만이고, ALOHA 데이터가 작아 학습률 감소 시점을 50K 걸음으로 앞당겼습니다. 과제마다 따로 학습합니다.
+
+### 비교 방법
+
+VLA 기준선으로는 양팔 조작 데이터로 사전학습한 최신 VLA 두 개를, 모방 학습 기준선으로는 계산 비용이 작은 두 방법을 씁니다. VLA 기준선은 각 저자가 권장한 레시피로 미세조정합니다. 모든 방법이 같은 카메라 3대와 로봇 상태를 받습니다.
+
+| 방법 | 종류 | 학습 파라미터 | 행동 생성 | 언어 조건 | 주요 설정 |
+|------|-----|-----------|--------|--------|--------|
+| ACT | 처음부터 학습 | 84M (ResNet-18) / 80M (EfficientNet-B0 + FiLM) | L1 회귀, 순방향 1번 | 언어 과제에만 [CLIP](/blog/paper-review/pre-vla/clip) 언어 임베딩 + FiLM-EfficientNet-B0 | Titan RTX 1장, 배치 64, 묶음 100 → 25로 줄임, 10K–70K 세대 |
+| Diffusion Policy | 처음부터 학습 | 157M | DDIM, 학습 100단계 / 추론 10단계 | DistilBERT 언어 임베딩 (DROID 구현) | L40S 1장, ResNet-50, 관측 이력 2걸음, 묶음 24 |
+| RDT-1B | VLA 미세조정 | 1.2B | 학습 [DDPM](/blog/paper-review/pre-vla/ddpm) 1000단계 / 추론 DPM-Solver++ 5단계 | 논문 구현의 교대 조건 주입 | H100 1장, 256 × 256 px, 관측 이력 2걸음, 64걸음 예측 중 25걸음 실행 |
+| π0 | VLA 미세조정 | 3.3B | flow matching, 적분 10단계 | 기본 구현 | A100 또는 H100 1장, 전체 미세조정, 묶음 25, JAX 구현 |
+| OpenVLA-OFT+ | VLA 미세조정 | 853M (LoRA 등, 전체 7.5B) | L1 회귀, 순방향 1번 | FiLM | 위 표 V |
+
+*표 VI–IX — 기준선 학습 설정. Diffusion Policy는 묶음 길이가 4의 배수여야 해서 24를 씁니다.*
+
+원래 자기회귀 방식으로 LoRA 미세조정한 OpenVLA는 처리량이 한 팔 로봇에서도 3–5Hz라 25–50Hz 실시간 제어에 쓸 수 없으므로, 성공률 비교에서 뺐습니다.
+
+RDT-1B는 저자 권장 학습량이 150K 걸음이지만, 이 실험의 데이터가 훨씬 작아 더 일찍 수렴했습니다. scoop X into bowl에서는 18K 걸음 저장본(73.3%)이 40K 걸음 저장본(70.0%)보다 좋아 18K 걸음 결과를 보고합니다.
+
+---
+
+## 12. ALOHA 과제 점수
+
+### 채점 방식
+
+과제마다 단계별 점수표를 미리 정해 두고, 부분 완료에도 점수를 줍니다. 점수는 누적식이라 앞 단계를 성공해야 뒤 단계 점수를 받습니다. 몇 과제에는 감점 항목이 있습니다.
+
+| 과제 | 단계와 배점 | 감점 |
+|------|---------|-----|
+| fold shorts | 아래 가장자리 잡기 → 반으로 접기 → 허리 부분 잡기 → 다시 반으로 접기 → 앞으로 옮기기 (각 20점) | 없음 |
+| fold shirt | 10단계 (아래 가장자리 잡기, 반 접기, 소매 잡기, 소매 접기, 아래 가장자리 잡기, 반 접기, 오른쪽 가장자리 잡기, 반 접기, 놓기, 앞으로 옮기기; 각 10점) | 마지막 접기 후 셔츠가 크게 삐져나오면 −10점 |
+| scoop X into bowl | 그릇 가운데로 옮기기 10 → 숟가락 잡기 10 → 맞는 용기로 가기 20 → 맞는 재료 뜨기 20 → 그릇에 붓기 20 → 숟가락 내려놓기 20 | 음식을 탁자에 흘리면 −5, 숟가락을 다 비우지 않으면 −5 |
+| put X into pot | 냄비 열기 10 → 맞는 물체로 가기 20 → 맞는 물체 만지기 10 → 맞는 물체 잡기 20 → 맞는 물체 냄비에 넣기 20 → 뚜껑 덮기 20 | 없음 |
+
+### 과제 점수 결과
+
+![그림 4 — ALOHA 과제 점수](https://arxiv.org/html/2502.19645v2/fig/aloha_task_performance_results_v3.001.jpeg)
+
+*그림 4 — 처음부터 학습한 정책(ACT, Diffusion Policy)과 미세조정한 VLA(RDT-1B, π0, OpenVLA-OFT+)의 네 과제 평균 완료 점수입니다.*
+
+| 방법 | fold shorts (시연 20) | fold shirt (시연 30) | scoop X into bowl (시연 45) | put X into pot (시연 300) | 평균 |
+|------|------------------|-----------------|------------------------|---------------------|-----|
+| ACT | 100.0 | 94.0 | 71.3 | 23.8 | 72.3 |
+| Diffusion Policy | 100.0 | 100.0 | 79.2 | 30.8 | 77.5 |
+| RDT-1B | 100.0 | 96.0 | 73.3 | 44.2 | 78.4 |
+| π0 | 100.0 | 100.0 | 93.3 | 42.1 | 83.9 |
+| **OpenVLA-OFT+** | **100.0** | **100.0** | **100.0** | **51.3** | **87.8** |
+
+*그림 4 막대 위에 인쇄된 값입니다. 부록 표 X–XIII의 과제별 합계(예: scoop X into bowl의 ACT 71.25, put X into pot의 OpenVLA-OFT+ 51.25)를 소수 첫째 자리로 반올림한 값과 같고, 평균도 네 과제 합계의 평균과 일치합니다.*
+
+초록의 "평균 점수 최대 15%p 향상"은 OpenVLA-OFT+(87.8)와 가장 낮은 ACT(72.3)의 차이 15.5를 가리킵니다(계산한 값). π0와의 차이는 3.9%p입니다.
+
+### 단계별 세부 점수
+
+반바지 개기는 다섯 방법 모두 모든 단계에서 만점입니다. 티셔츠 개기에서는 ACT가 다섯 번째 단계부터 단계마다 9점(10회 중 한 번 실패)으로 94점이고, RDT-1B는 모든 단계를 완료했지만 셔츠가 크게 삐져나온 감점 −4로 96점입니다. 나머지 두 과제의 단계별 평균 점수는 표 XII·XIII에 있습니다.
+
+| scoop X into bowl | 그릇 옮기기 (10) | 숟가락 잡기 (10) | 맞는 용기 (20) | 맞는 재료 뜨기 (20) | 붓기 (20) | 숟가락 놓기 (20) | 흘림 (−5) | 안 비움 (−5) | 합계 |
+|---|---|---|---|---|---|---|---|---|---|
+| ACT | 9.17 | 9.17 | 18.33 | 15.00 | 15.00 | 5.00 | −0.42 | 0.00 | 71.25 |
+| Diffusion Policy | 10.00 | 10.00 | 18.33 | 15.00 | 13.33 | 13.33 | −0.83 | 0.00 | 79.17 |
+| RDT-1B | 7.50 | 7.50 | 15.00 | 15.00 | 15.00 | 13.33 | 0.00 | 0.00 | 73.33 |
+| π0 | 10.00 | 10.00 | 20.00 | 20.00 | 16.67 | 16.67 | 0.00 | 0.00 | 93.33 |
+| OpenVLA-OFT (FiLM 없음) | 10.00 | 9.17 | 6.67 | 5.00 | 3.33 | 1.67 | −0.83 | 0.00 | 35.00 |
+| **OpenVLA-OFT+** | **10.00** | **10.00** | **20.00** | **20.00** | **20.00** | **20.00** | **0.00** | **0.00** | **100.00** |
+
+*표 XII — scoop X into bowl 단계별 평균 점수.*
+
+| put X into pot | 냄비 열기 (10) | 맞는 물체로 가기 (20) | 맞는 물체 만지기 (10) | 맞는 물체 잡기 (20) | 냄비에 넣기 (20) | 뚜껑 덮기 (20) | 합계 |
+|---|---|---|---|---|---|---|---|
+| ACT | 10.00 | 6.67 | 2.08 | 1.67 | 1.67 | 1.67 | 23.75 |
+| Diffusion Policy | 10.00 | 7.50 | 3.33 | 3.33 | 3.33 | 3.33 | 30.83 |
+| RDT-1B | 10.00 | 11.67 | 5.00 | 5.83 | 5.83 | 5.83 | 44.17 |
+| π0 | 10.00 | 10.83 | 4.58 | 6.67 | 5.00 | 5.00 | 42.08 |
+| OpenVLA-OFT (FiLM 없음) | 10.00 | 6.67 | 3.33 | 5.00 | 3.33 | 3.33 | 31.67 |
+| **OpenVLA-OFT+** | **10.00** | **15.83** | **6.25** | **8.33** | **5.83** | **5.00** | **51.25** |
+
+*표 XIII — put X into pot 단계별 평균 점수 (분포 안·밖 평가 합산).*
+
+scoop X into bowl에서 FiLM을 뺀 OpenVLA-OFT는 그릇 옮기기와 숟가락 잡기는 거의 만점이지만, "맞는 용기로 가기"부터 점수가 6.67로 떨어집니다. 언어 지시가 결정적인 단계에서 점수가 크게 갈린다는 뜻입니다. put X into pot에서는 모든 방법이 냄비 열기는 만점이고, 맞는 물체를 잡아 넣는 뒤 단계에서 점수가 낮습니다.
+
+### 처음부터 학습한 기준선
+
+ACT는 기본 과제는 해내지만 행동이 덜 정밀해 전체 점수가 가장 낮습니다. Diffusion Policy는 옷 개기와 재료 뜨기에서 RDT-1B와 같거나 높지만, 시연이 300개로 가장 많은 put X into pot에서는 30.8점에 그칩니다. 저자들은 이를 VLA 기반 방법보다 데이터 규모에 따른 확장성이 낮다는 신호로 봅니다.
+
+### 미세조정한 VLA
+
+미세조정한 VLA는 대체로 처음부터 학습한 기준선보다 과제 수행과 언어 추종이 모두 좋습니다. VLA 사이에는 뚜렷한 특성 차이가 있습니다.
+
+![그림 6 — RDT-1B와 π0의 오류 대응 비교](https://arxiv.org/html/2502.19645v2/fig/rdt_pi0_rollouts.001.jpeg)
+
+*그림 6 — 위: RDT-1B가 그릇을 놓친 뒤에도 빈 공간에 재료를 붓습니다. 아래: π0는 초록 고추 잡기에 실패한 뒤 다시 시도합니다.*
+
+- **RDT-1B** — "교대 조건 주입(Alternating Condition Injection)" 방식 덕분에 언어 추종은 좋지만, 폐루프 되먹임에 약합니다. 그림 6 위처럼 그릇을 제자리에 놓지 못한 뒤에도 그릇이 없는 곳에 재료를 계속 붓습니다. 저자들은 시각 되먹임보다 자기수용 상태에 지나치게 의존한 결과로 봅니다.
+- **π0** — 동작이 매끄럽고 되먹임에 잘 반응해, 그림 6 아래처럼 처음 잡기에 실패해도 다시 시도해 회복하는 경우가 많습니다. 언어 추종은 RDT-1B보다 조금 낮지만 전체 과제 완료 점수가 높아, 기준선 중 가장 강합니다.
+- **OpenVLA-OFT+** — 과제 수행과 언어 추종 모두 가장 높습니다.
+
+![그림 7 — OpenVLA-OFT+ 성공 사례](https://arxiv.org/html/2502.19645v2/fig/openvla_rollouts.001.jpeg)
+
+*그림 7 — 옷을 개고, 금속 숟가락으로 지시한 재료를 떠 그릇에 붓고, 지시한 물체를 냄비에 넣습니다.*
+
+저자들이 강조하는 점은 사전학습 데이터의 차이입니다. OpenVLA는 한 팔 데이터로만 사전학습했고, RDT-1B와 π0는 상당한 양팔 데이터로 사전학습했습니다(논문 표기로 각각 6K 에피소드, 8K 시간). 그런데도 OpenVLA-OFT+가 가장 높았으므로, 저자들은 이후 과제 성능에서는 미세조정 기법이 사전학습 데이터의 범위보다 더 중요할 수 있다고 봅니다.
+
+### 언어 추종과 FiLM 제거 실험
+
+![그림 5 — ALOHA 언어 추종 결과](https://arxiv.org/html/2502.19645v2/fig/aloha_language_grounding_results.001.jpeg)
+
+*그림 5 — 언어가 필요한 두 과제에서 지시한 대상 물체로 다가간 비율입니다. FiLM을 빼면 우연 수준으로 떨어집니다.*
+
+| 방법 | scoop X into bowl | put X into pot | 평균 |
+|------|----------------|--------------|-----|
+| ACT | 91.7 | 33.3 | 62.5 |
+| Diffusion Policy | 91.7 | 37.5 | 64.6 |
+| RDT-1B | 100.0 | 58.3 | 79.2 |
+| π0 | 100.0 | 54.2 | 77.1 |
+| OpenVLA-OFT (FiLM 없음) | 33.3 | 33.3 | 33.3 |
+| **OpenVLA-OFT+** | **100.0** | **79.2** | **89.6** |
+
+*그림 5 막대 위에 인쇄된 성공률(%)입니다.*
+
+두 과제 모두 대상 후보가 3개이므로, 지시를 무시하고 무작위로 고르면 맞힐 확률이 1/3, 곧 33.3%입니다. FiLM을 뺀 OpenVLA-OFT는 두 과제 모두 정확히 33.3%로, 언어 지시를 사실상 쓰지 않는 수준입니다. FiLM을 넣으면 scoop X into bowl은 100.0%, put X into pot은 79.2%가 됩니다. 저자들은 FiLM이 정책이 허위 시각 특징에 과적합하는 것을 막고 언어 입력에 주의를 기울이게 하는 데 필수라고 결론짓습니다.
+
+---
+
+## 13. ALOHA 추론 효율
+
+| 방법 | 처리량 (Hz) ↑ | 지연 시간 (초) ↓ | 전체 파라미터 |
+|------|------------|--------------|-----------|
+| OpenVLA | 1.8 | 0.543 | 7.5B |
+| OpenVLA-OFT+ | 77.9 | 0.321 | 7.5B |
+| RDT-1B | 84.1 | 0.297 | 1.2B |
+| Diffusion Policy | 267.4 | 0.090 | 157M |
+| π0 | 291.6 | 0.086 | 3.3B |
+| ACT | 432.8 | 0.058 | 84M |
+
+*표 III — ALOHA 추론 효율. A100 GPU에서 224 × 224 px 이미지 3장, 14차원 로봇 상태, 과제 명령("scoop raisins into bowl")으로 100번 질의한 평균입니다. 묶음 길이는 Diffusion Policy 24, 원래 OpenVLA 1(묶음 없음), 나머지 25입니다. RDT-1B는 64걸음을 예측하지만 공정한 비교를 위해 앞 25걸음만 셉니다. π0만 JAX, 나머지는 PyTorch 구현입니다. 파라미터 수는 논문 VI-D절에 적힌 값입니다.*
+
+원래 OpenVLA는 손목 카메라 입력만 더해도 처리량 1.8Hz, 지연 시간 0.543초입니다. OpenVLA-OFT+는 77.9Hz로 약 43배 빠릅니다(77.9 ÷ 1.8 = 43.3, 계산한 값). 다만 LIBERO 실험보다 이미지가 두 장 더 많아 지연 시간은 0.321초로 깁니다.
+
+다른 방법들은 모델이 작아서 OpenVLA-OFT+보다 처리량이 높습니다. ACT는 L1 회귀로 순방향 계산 한 번에 행동을 만든다는 점이 OpenVLA-OFT+와 같고, 모델이 가장 작아 가장 빠릅니다. π0는 RDT-1B나 Diffusion Policy보다 크지만 최적화된 JAX 구현 덕분에 둘보다 빠릅니다.
+
+OpenVLA-OFT+의 처리량(77.9Hz)은 RDT-1B(84.1Hz)에 가깝습니다. 파라미터가 RDT-1B의 약 6배(7.5B ÷ 1.2B = 6.25, 계산한 값)인데도 잡음 제거를 여러 번 반복하지 않고 순방향 계산 한 번으로 행동을 만들기 때문입니다. 논문 본문은 이 배율을 "7×"로 적습니다.
+
+표 III의 처리량도 묶음 길이 ÷ 지연 시간과 거의 같습니다. 예를 들어 OpenVLA-OFT+는 25 ÷ 0.321 = 77.9입니다. ACT(25 ÷ 0.058 = 431.0)처럼 몇 행은 인쇄된 처리량과 1–2Hz 차이가 나는데, 지연 시간이 소수 셋째 자리까지만 인쇄된 데서 오는 반올림 차이 범위입니다(계산한 값).
+
+---
+
+## 14. 추가 실험
+
+### 네 과제 묶음을 합친 단일 정책과 LIBERO의 FiLM
+
+| 정책 | Spatial | Object | Goal | Long | 평균 |
+|------|--------|--------|------|------|-----|
+| OpenVLA-OFT (과제 묶음마다 정책 1개, 표 I) | 97.6 | 98.4 | 97.9 | 94.5 | 97.1 |
+| OpenVLA-OFT (네 묶음 전체에 정책 1개) | 97.7 | 98.0 | 96.1 | 95.3 | 96.8 |
+| OpenVLA-OFT+ (네 묶음 전체에 정책 1개, FiLM 추가) | 97.8 | 98.2 | 98.2 | 93.8 | 97.0 |
+
+*표 XIV — 입력은 3인칭 이미지, 손목 이미지, 로봇 상태, 언어 지시입니다.*
+
+네 과제 묶음의 데이터를 합쳐 정책 하나를 학습해도 평균 성공률(96.8%)이 묶음별 정책(97.1%)과 비슷합니다. 저자들은 이 결과를 더 큰 미세조정 데이터로도 방법이 확장된다는 근거로 봅니다. FiLM을 더하면 평균이 97.0%로 조금 높지만, ALOHA에서 본 33.3% → 89.6% 차이와 비교하면 작습니다. LIBERO에서는 FiLM 없이도 언어 추종이 이미 좋기 때문입니다.
+
+### OpenVLA 로봇 사전학습의 효과
+
+OFT 레시피는 구조, 행동 표현, 학습 목적 함수를 모두 바꾸므로 사전학습과 미세조정 사이에 분포 차이가 생깁니다. 그렇다면 OpenVLA의 로봇 사전학습이 여전히 도움이 되는지 확인하려고, [Open X-Embodiment](/blog/paper-review/vla/open-x-embodiment) 로봇 사전학습을 거치지 않은 Prismatic VLM에 바로 OFT 레시피를 적용해 비교합니다.
+
+| 정책 | Spatial | Object | Goal | Long | 평균 |
+|------|--------|--------|------|------|-----|
+| OpenVLA-OFT | 97.6 | 98.4 | 97.9 | 94.5 | 97.1 |
+| OpenVLA-OFT (로봇 사전학습 없이 VLM에서 바로) | 94.3 | 95.2 | 91.7 | 86.5 | 91.9 |
+
+*표 XV — 로봇 사전학습 제거 실험.*
+
+로봇 사전학습을 빼면 평균 성공률이 5.2%p 떨어지고, LIBERO-Long에서 가장 크게(8.0%p) 떨어집니다(계산한 값). 미세조정 방식이 사전학습과 크게 달라도 로봇 사전학습 표현은 여전히 쓸모가 있습니다.
+
+### 더 큰 실제 로봇 데이터 — BridgeData V2
+
+LIBERO와 ALOHA보다 훨씬 크고 다양한 실제 로봇 데이터에서도 OFT가 작동하는지 보려고, WidowX 로봇 시연 50,365개로 이루어진 BridgeData V2로 OpenVLA-OFT(FiLM 없음)를 학습합니다. LIBERO 네 과제 묶음 전체보다 25배 많은 데이터입니다.
+
+OpenVLA는 이미 Bridge 데이터로 사전학습했지만, OFT 레시피는 구조와 학습 방식이 바뀌므로 미세조정이 여전히 필요합니다. 실제로 학습 초기의 L1 손실은 $[-1, +1]$ 정규화 기준 약 0.5로 큽니다. 평가는 OpenVLA 논문의 BridgeData V2 평가 과제 중 일부를 과제당 10회씩, 같은 채점 기준으로 합니다.
+
+| 범주 | 과제 | OpenVLA | OpenVLA-OFT |
+|------|------|--------|-----------|
+| 시각 일반화 | Put Eggplant into Pot | 60 | 90 |
+| 동작 일반화 | Lift Eggplant | 70 | 60 |
+| 물리 일반화 | Flip Pot Upright | 90 | 80 |
+| 의미 일반화 | Lift White Tape | 0 | 20 |
+| 언어 접지 | Put {Blue Cup, Pink Cup} on Plate | 85 | 90 |
+| 언어 접지 | Lift {Cheese, Red Chili Pepper} | 90 | 75 |
+| | **평균** | **65.8** | **69.2** |
+
+*표 XVI — BridgeData V2 WidowX 평가 점수.*
+
+OpenVLA-OFT의 평균이 3.4%p 높지만, 과제별로 보면 여섯 과제 중 세 과제(Lift Eggplant, Flip Pot Upright, Lift Cheese/Red Chili Pepper)에서는 원래 OpenVLA가 높습니다. Bridge 과제에서는 FiLM 없이도 언어 추종이 괜찮았습니다. 기본 OpenVLA가 Bridge 과제에서 이미 언어 추종을 잘했기 때문으로 저자들은 봅니다.
+
+---
+
+## 15. 논문 안에서 서로 맞지 않는 수치
+
+| 위치 | 논문 표기 | 대조한 값 | 이 글의 처리 |
+|------|--------|--------|-----------|
+| 논문 II절(관련 연구) — 지연 시간 단위 | "0.07 ms (한 팔, 이미지 1장)", "0.321 ms (양팔, 이미지 3장)" | 표 II 0.0729초, 표 III 0.321초 | 표의 초 단위를 따름. 본문의 "ms"는 초의 오기로 봄 |
+| 논문 III절 — OpenVLA 한 걸음 행동 생성 시간 | A100에서 0.33초 | 표 II의 OpenVLA 지연 시간 0.2396초 (같은 A100) | 측정 조건 차이가 설명되지 않아 두 값을 각각 적음 |
+| 논문 VI-D절 — OpenVLA-OFT+와 RDT-1B 크기 비율 | "7× larger" | 같은 절의 파라미터 7.5B ÷ 1.2B = 6.25 | 약 6배로 적고 본문 표기를 함께 밝힘 |
+| 논문 부록 A — 이미지 투영기 | GELU 3층 MLP | OpenVLA 논문은 Prismatic 투영기를 2층 MLP로 적음 ([OpenVLA 논문해석](/blog/paper-review/vla/openvla) 2절) | 두 논문의 표기가 달라 이 글에서는 이 논문 부록 값을 따르고 차이를 적음 |
+| 논문 VI-D절 — OpenVLA 파라미터 수 | 7.5B | OpenVLA 논문의 LoRA 실험 표는 전체 파라미터를 7,188.1M으로 적음 | 두 논문이 센 범위가 설명되지 않아 이 글에서는 이 논문 값을 씀 |
+| 논문 III절 — OpenVLA 사전학습 데이터 | Open X-Embodiment 1M 에피소드 | OpenVLA 논문 기준 궤적 97만 개 | 반올림 표기로 봄 |
+| 부록 F1 vs 그림 12 — put X into pot 물체 위치 범위 | 가로 45cm, 세로 20cm | 그림 12 캡션 세로 15cm, 가로 40cm | 어느 기준인지 설명이 없어 두 값을 각각 적음 |
+| 논문 V-B절 — 설계 요소별 향상폭 | 병렬 디코딩 + 행동 묶음 14%, 연속 행동 5% | 표 I 계산값 13.7%p, 5.1%p | 반올림 표기로 봄 |
+
+표 I, XII, XIII, XIV, XV, XVI의 평균·합계, 표 IV·V의 학습 파라미터 합계(111 + 151 + 17 = 279M, 111 + 269 + 17 + 456 = 853M), 표 II의 처리량과 지연 시간 관계, 에피소드 길이와 25Hz의 초 환산은 모두 다시 계산한 값과 일치합니다.
+
+---
+
+## 16. 저자가 밝힌 한계
+
+첫째, **여러 방식이 섞인 시연(multimodal demonstrations)** 을 다루는 능력이 확인되지 않았습니다. 실험 데이터는 과제마다 전략이 일관된 시연으로 모았습니다. L1 회귀는 시연 행동의 중앙값에 해당하는 방식을 배우도록 유도해 시연의 잡음을 줄이는 데 도움이 될 수 있지만, 같은 입력에 올바른 행동이 여러 개인 분포는 정확히 표현하지 못할 수 있습니다.
+
+한 행동 차원에서 시연 값이 0.2, 0.2, 0.9 세 개라면, L1 손실을 가장 작게 만드는 예측은 중앙값 0.2이고 L2(평균제곱) 손실을 가장 작게 만드는 예측은 평균 약 0.433입니다(값은 임의의 예시 값, 결과는 계산한 값). L1 예측은 실제로 시연에 있는 값 0.2를 고르지만, 0.9 쪽 방식은 표현하지 않습니다. 반대로 확산 방식은 여러 방식을 더 잘 담을 수 있지만, 학습 데이터 안의 좋지 않은 방식까지 과적합할 위험이 있다고 저자들은 적습니다.
+
+둘째, **사전학습에도 OFT가 통하는지** 모릅니다. 이 연구는 미세조정만 다뤘습니다. 대규모 사전학습에서도 OFT의 장점이 유지되는지, 아니면 확산처럼 표현력이 큰 알고리즘이 필요한지는 추가 연구가 필요합니다.
+
+셋째, **언어 추종이 설정마다 다릅니다.** FiLM 없는 OpenVLA는 ALOHA에서 언어 추종이 나빴지만 LIBERO에서는 문제가 없었습니다. 사전학습에 양팔 데이터가 없어서인지, 다른 요인 때문인지는 밝혀지지 않았습니다.
+
+---
+
+## 17. 정리 — 계보에서의 위치
+
+- **미세조정 레시피를 연구 대상으로** — 사전학습된 OpenVLA는 그대로 두고, 미세조정 단계의 행동 생성 방식·행동 표현·학습 목적 함수만 바꿔 비교했습니다.
+- **병렬 디코딩 + 행동 묶음** — 빈 행동 임베딩과 양방향 주의로 행동 $KD$개를 순방향 계산 한 번에 만들어, LIBERO 처리량을 4.2Hz에서 108.8Hz(26배)로, 성공률을 76.5%에서 90.2%로 높였습니다.
+- **연속 행동 + L1 회귀** — 256구간 토큰 대신 4층 MLP 헤드가 실수 행동을 바로 내고, 확산(95.4%)과 같은 성공률(95.3%)을 순방향 계산 한 번으로 얻었습니다.
+- **추가 입력과 FiLM** — 손목 카메라·로봇 상태로 LIBERO 97.1%를 기록했고, ALOHA에서는 FiLM이 언어 추종을 33.3%에서 89.6%로 올렸습니다.
+- **양팔 실제 로봇** — 한 팔 데이터로만 사전학습한 OpenVLA가 OFT+로 미세조정되자, 양팔 데이터로 사전학습한 π0(83.9)와 RDT-1B(78.4)보다 높은 평균 점수 87.8을 냈습니다.
+
+### OpenVLA와의 비교
+
+| 항목 | OpenVLA (기본 미세조정) | OpenVLA-OFT |
+|------|--------------------|-----------|
+| 사전학습 | Open X-Embodiment | 같음 (변경 없음) |
+| 행동 생성 | 자기회귀, 토큰 하나씩 | 병렬 디코딩, 순방향 계산 1번 |
+| 복호기 주의 | 인과 주의 | 양방향 주의 |
+| 행동 표현 | 차원당 256구간 토큰 | 연속값 (4층 MLP 헤드) |
+| 학습 목적 함수 | 다음 토큰 예측 | L1 회귀 |
+| 행동 묶음 | 없음 | LIBERO 8걸음, ALOHA 25걸음 |
+| 입력 | 3인칭 이미지 1장 + 언어 | 여러 카메라 + 로봇 상태 + 언어 (+ FiLM) |
+| LIBERO 평균 성공률 | 76.5% | 97.1% |
+| LIBERO 처리량 (A100) | 4.2Hz | 71.4Hz (추가 입력 포함), 109.7Hz (3인칭 이미지만) |
+
+### π0·FAST와의 비교
+
+행동 생성 속도를 높인 세 연구를 나란히 비교합니다.
+
+| 항목 | FAST (π0-FAST) | π0 | OpenVLA-OFT |
+|------|-------------|-----|-----------|
+| 바꾼 단계 | 행동 토큰화 (사전학습부터) | 모델 구조 + 사전학습 | 미세조정만 |
+| 행동 표현 | 이산 코사인 변환으로 압축한 토큰 | 연속값 | 연속값 |
+| 행동 생성 | 자기회귀 토큰 생성 | flow matching, 적분 10단계 | 순방향 계산 1번 |
+| 학습 목적 함수 | 다음 토큰 예측 | flow matching | L1 회귀 |
+| LIBERO 평균 (이 논문 표 I) | 85.5% | 94.2% | 97.1% |
+
+*π0·FAST의 LIBERO 값은 이 논문 표 I이 원 논문에서 옮긴 값입니다.*
+
+[FAST](/blog/paper-review/vla/fast)는 토큰 방식을 유지하면서 토큰 수를 줄였고, [π0](/blog/paper-review/vla/pi0)는 연속 행동을 생성 모델로 만들었습니다. OpenVLA-OFT는 두 방향과 달리 사전학습된 자기회귀 VLA를 그대로 두고, 미세조정 단계에서 병렬 디코딩과 L1 회귀로 바꿔도 연속 행동 VLA와 비슷하거나 더 높은 성능을 낼 수 있음을 보였습니다. 저자들의 표현으로는 잘 설계한 미세조정 레시피가 최종 성능에 큰 영향을 주고, 기존 VLA를 처음부터 다시 학습하지 않고도 새 로봇 시스템에 맞출 수 있습니다. L1 회귀가 여러 방식이 섞인 시연을 다루는 능력과 사전학습 단계에서의 효과는 남은 질문입니다.
+
+[π0.5](/blog/paper-review/vla/pi05)가 여러 데이터 출처를 섞은 공동 학습으로 처음 보는 집에서의 일반화를 다뤘다면, 다음 편 [GR00T N1](/blog/paper-review/vla/gr00t-n1)은 휴머노이드용 이중 시스템 구조를 다룹니다.
+
+전체 목록은 [VLA 계보 목차](/blog/paper-review/vla)에서 볼 수 있습니다.
+1e:["$","article",null,{"children":["$","$L21",null,{"children":"$22"}]}]
+1f:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":["$L23","$L24"]}]
+19:["$","$L25",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L25",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L25",null,{"ref":null,"href":"/ko/blog/paper-review","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L25",null,{"ref":null,"href":"/ko/blog/paper-review/vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1d:["$","$L25",null,{"ref":"$undefined","href":"/ko/blog/paper-review/vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"8편"}]]}]
+23:["$","$L25",null,{"ref":"$undefined","href":"/ko/blog/paper-review/vla/pi05","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"7편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization"}]]}]
+24:["$","$L25",null,{"ref":"$undefined","href":"/ko/blog/paper-review/vla/gr00t-n1","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"9편",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"}]]}]

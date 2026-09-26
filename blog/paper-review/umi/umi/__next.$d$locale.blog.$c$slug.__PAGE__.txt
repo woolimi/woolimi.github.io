@@ -1,0 +1,402 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots\",\"description\":\"로봇 없이 사람이 손에 든 집게로 모은 현장 시연을, 미세조정 없이 여러 로봇에 그대로 배포되는 정책으로 바꾼 UMI를 원본 그림과 함께 전부 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2402.10329v3/x1.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/umi\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T02:13:34.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"1편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots"}]
+10:T6edd,
+## 들어가며
+
+로봇 조작 정책은 결국 데이터로 만들어집니다. 그런데 그 데이터를 모으려면 로봇이 있어야 하고, 로봇이 있어야 하는 순간 데이터를 모을 수 있는 장소는 실험실 안으로 쪼그라듭니다. **UMI(Universal Manipulation Interface)** 는 이 고리를 끊습니다. 로봇을 데이터 수집에서 완전히 떼어내고, 떼어낸 데이터가 로봇에 그대로 다시 붙게 만드는 인터페이스를 설계했습니다.
+
+📄 [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://arxiv.org/abs/2402.10329) — Cheng Chi·Zhenjia Xu (공동 1저자), Chuer Pan, Eric Cousineau, Benjamin Burchfiel, Siyuan Feng, Russ Tedrake, Shuran Song / 스탠퍼드 대학교·컬럼비아 대학교·토요타 연구소(Toyota Research Institute), RSS 2024
+
+하드웨어와 소프트웨어 전부가 프로젝트 페이지 [umi-gripper.github.io](https://umi-gripper.github.io/)에 공개 소스로 열려 있습니다. arxiv 식별자는 2402.10329입니다.
+
+### 초록 요약
+
+UMI는 실제 현장(in-the-wild)의 사람 시연에서 곧바로 배포 가능한 로봇 정책으로 기술을 옮기는, 데이터 수집과 정책 학습을 아우르는 틀입니다. 손에 드는 집게(gripper)에 세심한 인터페이스 설계를 결합해, 들고 다니기 쉽고 값싸며 정보가 풍부한 데이터 수집을 가능하게 하고, 까다로운 양팔(bimanual)·동적(dynamic) 조작 시연까지 담습니다. 배포 가능한 정책 학습을 위해 추론 시점의 지연 정합(latency matching)과 상대 궤적(relative-trajectory) 행동 표현을 갖춘 정책 인터페이스를 설계했습니다. 그 결과 학습된 정책은 하드웨어에 무관하며 여러 로봇 몸체에 배포됩니다. 과제마다 학습 데이터만 바꾸면 사전 시연 없이 곧바로 일반화되는(zero-shot) 동적·양팔·정밀·장기(long-horizon) 행동을 얻습니다.
+
+![그림 1 — UMI 틀 전경](https://arxiv.org/html/2402.10329v3/x1.png)
+
+*그림 1 — 손에 드는 집게로 모은 현장 시연이 시각-운동 정책이 됩니다.*
+
+UMI는 들고 다니기 쉽고 직관적이며 값싼 데이터 수집·정책 학습 틀로, 다양한 사람 시연을 효과적인 시각-운동 정책(visuomotor policy)으로 옮깁니다. 논문은 전통적 원격조작(teleoperation)으로는 어려운 네 부류의 과제를 겨냥합니다. 빠른 동적, 정밀한, 양팔, 여러 단계가 이어지는 장기 과제입니다. 핵심은 **데이터만 바꾸면 이 서로 다른 능력이 하나의 틀에서 열린다**는 점입니다.
+
+---
+
+## 1. 문제 — 데이터 수집이 병목입니다
+
+기존의 두 갈래가 모두 막혀 있었습니다.
+
+첫째, **원격조작**입니다. 실험실 안에서 실물 로봇을 원격으로 조종해 모으는 방식인데, 하드웨어와 숙련된 조종자 준비 비용이 크고, 수집하는 내내 실물 로봇이 현장에 있어야 하므로 접근 가능한 환경 수가 제한됩니다. 무엇보다 모인 데이터와 정책이 그 로봇에만 맞아 재사용이 안 되는 **특정 몸체 전용(embodiment-specific)** 의 한계가 있습니다.
+
+둘째, 유튜브 같은 **현장 사람 영상**입니다. 환경 다양성은 크지만 사람 손과 로봇 사이 **몸체 격차(embodiment gap)** 가 큽니다. 명시적인 행동(action) 정보가 없고, 사람 손을 로봇 손으로 옮기는 대응(mapping) 문제, 학습과 실행 시점의 관측 불일치가 남습니다.
+
+그 사이의 절충안으로 나온 것이 센서를 단 손에 드는 집게였습니다. 수백 개 환경이라는 시각적 다양성은 얻었지만, 모으는 행동이 단순 쥐기(grasping)나 준정적(quasi-static) 집어-놓기에 갇혀 옮길 수 있는 정책으로 이어지지 못했습니다.
+
+### 수집 방식 비교
+
+| 방식 | 수집 중 실물 로봇 | 환경 다양성 | 담기는 행동 | 배포 시 추가 작업 |
+|------|------------------|------------|------------|------------------|
+| 원격조작 (스페이스마우스·VR/AR·힘 피드백) | 필요 | 낮음 | 준정적 위주, 던지기 불가 | 없음 (단 몸체 전용) |
+| 주종 방식 (ALOHA·GELLO) | 필요 | 낮음 | 직관적·풍부 | 없음 (단 몸체 전용) |
+| 외골격(exoskeleton) | 부분적으로 불필요 | 중간 | 풍부 | 실로봇 데이터로 미세조정(fine-tune) 필요 |
+| 기존 손에 드는 집게 (MoCap·SfM 기반) | 불필요 | 높음 | 준정적 집어-놓기에 국한 | 척도 모호성·깊이 센서 의존 |
+| Dobb-E (아이폰 집게 도구) | 불필요 | 높음 | 단일 팔 위주 | 환경마다 미세조정 필요 |
+| **UMI** | **불필요** | **높음** | **동적·양팔·정밀·장기** | **없음 (미세조정 불필요)** |
+
+기존 손에 드는 집게가 준정적 동작에 국한된 이유는 **척도 모호성(scale ambiguity)**, 비싼 깊이 센서와 기기 내 연산, 실험실에 한정된 외부 동작 포착(MoCap) 때문이었습니다. UMI는 GoPro의 관성 센서(IMU)와 ORB-SLAM3로 실제 크기의 6자유도 동적 행동까지 잡습니다. 정책 표현 축에서도 기존의 단봉 회귀 대신 여러 갈래를 담는 **확산 정책(Diffusion Policy)** 을, 행동 표현 축에서는 절대나 델타 대신 **상대 궤적**을 씁니다.
+
+그래서 UMI의 목표는 명확합니다. **로봇 없이 어디서나 값싸게 모으되, 그 행동이 로봇으로 전이되게 만드는 것**입니다.
+
+---
+
+## 2. 전체 그림 — 영상 파일 하나에서 로봇 정책까지
+
+세부로 들어가기 전에 처리 흐름을 한 번에 봅니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "gopro", "label": "GoPro MP4", "sub": "어안 영상 + IMU"},
+    {"id": "slam",  "label": "ORB-SLAM3", "sub": "관성-단안 SLAM", "color": "blue"},
+    {"id": "traj",  "label": "6-DoF 궤적", "sub": "실제 크기 복원", "color": "blue"},
+    {"id": "aruco", "label": "ArUco 마커", "sub": "연속 손가락 폭"},
+    {"id": "rel",   "label": "상대 궤적 변환", "sub": "현재 EE 기준 SE(3)", "color": "orange"},
+    {"id": "filt",  "label": "기구학 거르기", "sub": "실행 불가 동작 제거", "color": "orange"},
+    {"id": "dp",    "label": "Diffusion Policy", "sub": "CLIP ViT 시각 부호기", "color": "green"},
+    {"id": "lat",   "label": "지연 정합", "sub": "관측·행동 시점 정렬", "color": "green"},
+    {"id": "robot", "label": "로봇 배포", "sub": "UR5 · Franka FR2"}
+  ],
+  "edges": [
+    {"from": "gopro", "to": "slam"},
+    {"from": "slam",  "to": "traj"},
+    {"from": "traj",  "to": "rel"},
+    {"from": "aruco", "to": "rel"},
+    {"from": "rel",   "to": "filt"},
+    {"from": "filt",  "to": "dp", "label": "학습"},
+    {"from": "dp",    "to": "lat", "label": "추론"},
+    {"from": "lat",   "to": "robot"}
+  ],
+  "height": 330
+}
+```
+
+왼쪽 절반이 **장치 설계**, 오른쪽 절반이 **정책 인터페이스**입니다. 이 둘을 차례로 뜯어봅니다.
+
+---
+
+## 3. 장치 설계 — 목표 네 가지와 요소 여섯 가지
+
+장치 설계의 목표는 넷입니다. 준비 시간이 사실상 0인 **휴대성**, 집어-놓기를 넘어서는 복잡한 기술을 담는 **능력**, 학습에 충분한 정보를 담되 특정 로봇 고유 정보는 최소화하는 **충분성**, 그리고 전부 3D 프린트로 재현 가능한 **재현성**입니다.
+
+![그림 2 — 수집 장치 설계](https://arxiv.org/html/2402.10329v3/x2.png)
+
+*그림 2 — 손에 드는 집게 · 어안 시야와 양옆 거울 · UMI 호환 로봇 집게.*
+
+### 요소 1 — 센서는 GoPro 하나뿐
+
+왼쪽은 데이터 수집용 손에 드는 집게입니다. 센서이자 기록 장치는 GoPro 단 하나뿐입니다. 손목 위치에 GoPro Hero 9을 달고, 내장 관성 센서의 가속도계와 각속도계 신호를 표준 영상 파일(MP4) 안에 함께 기록합니다. **모든 정보가 영상 파일 하나에 담기므로 인터넷으로 공유하고 비전문가가 원격에서도 수집할 수 있습니다.** 데이터 수집을 대중화한다는 발상입니다. 양팔은 이 집게를 하나 더 붙이면 그대로 확장됩니다.
+
+오른쪽은 UMI 호환 로봇 집게와 카메라 설정으로, 로봇이 보는 관측을 손에 든 집게 시야와 똑같이 맞춰 놓습니다. 로봇 배치 때도 같은 프린트 손가락과 같은 카메라 위치를 써서, **사람이 찍은 그림과 로봇이 보는 그림을 거의 구별할 수 없게** 만든 것이 이 설계의 핵심입니다.
+
+| 항목 | 값 |
+|------|-----|
+| 무게 | 780 g |
+| 외형 (가로 × 세로 × 높이) | 310 × 175 × 210 mm |
+| 손가락 벌림 거리 | 80 mm |
+| 프린트 집게 비용 | $73 |
+| GoPro 및 부속 비용 | $298 |
+
+### 요소 2 — 155도 어안 렌즈, 그리고 펴지 않기
+
+![그림 3 — 왜 어안 영상을 펴지 않는가](https://arxiv.org/html/2402.10329v3/x3.png)
+
+*그림 3 — 어안 영상을 펴면 주변부가 늘어나고 정작 중요한 중심 정보는 압축됩니다.*
+
+UMI 정책은 펴는 보정 없이 **원본 어안(fisheye) 영상을 그대로 관측으로 씁니다.** 넓은 화각을 바늘구멍(pin-hole) 모델로 펴면, 파란 선 바깥의 주변부가 심하게 늘어나고 정작 가장 중요한 중심 정보는 빨간 선 안 작은 영역으로 압축되기 때문입니다. 좁은 손목 카메라의 시야 부족과 근접 가림을 넓은 화각으로 해소하는 것이 어안의 역할입니다. 뒤의 제거 실험에서 어안을 좁은 화각으로 바꾸자 컵 정리 성공률이 100에서 55퍼센트로 떨어집니다.
+
+### 요소 3 — 거울로 만든 입체 시야
+
+![그림 4 — 거울로 만든 입체 시야](https://arxiv.org/html/2402.10329v3/x4.png)
+
+*그림 4 — 주 카메라에 가려진 접시 위 케첩이 오른쪽 거울에는 보입니다.*
+
+단안(monocular) 카메라에는 깊이 정보가 없으므로, 초광각 카메라 양옆에 물리 거울을 전략적으로 배치해 같은 영상 안에 은근한 **입체(stereo) 시야**를 만듭니다. 각 거울에 비친 상은 거울 평면을 기준으로 반사된, 광학 중심이 다른 가상 카메라와 같습니다. 그림에서 접시 위 케첩은 주 카메라에서는 가려져 안 보이지만 오른쪽 거울에는 보입니다. 거울이 정말로 다른 시점의 카메라를 흉내 낸다는 증거입니다.
+
+한 가지 요령이 있습니다. 학습에 넣기 전 **거울 안 내용을 디지털로 좌우 뒤집어** 줍니다. 그러면 컵 손잡이 방향이 세 시야에서 일관되게 정렬됩니다. 뒤집지 않으면 주 시야와 반대 방향 움직임이 시각 부호기(vision encoder)를 혼란시킵니다.
+
+| 거울 처리 | 컵 정리 성공률 |
+|-----------|---------------|
+| 거울 없음 | 90% |
+| 거울 있음, 뒤집지 않음 | 85% |
+| 거울 있음, 좌우 뒤집음 | **100%** |
+
+거울을 달고도 뒤집지 않으면 아예 없느니만 못하다는 점이 흥미롭습니다.
+
+### 요소 4 — 관성 센서를 쓴 위치추정
+
+UMI는 ORB-SLAM3 기반의 **관성-단안 동시 위치추정·지도작성(SLAM)** 을 씁니다. 카메라의 시각 추적에 관성 제약을 함께 최적화하므로, 탁자를 내려다볼 때처럼 특징이 부족하거나 빠른 움직임으로 화면이 흐릿할 때도 추적이 끊기지 않습니다.
+
+무엇보다 **실제 크기(metric scale)** 를 직접 복원합니다. 이 실제 크기가 있어야 행동의 정밀도가 살고, 양팔 사이의 상대 좌표 계산도 가능합니다. 단안 구조 복원(SfM)만으로는 척도 모호성 때문에 이게 안 됩니다.
+
+### 요소 5 — 연속 쥐기 제어
+
+열고 닫는 두 값이 아니라 **연속적인 손가락 벌림 폭**을 씁니다. 손가락 폭은 기준 마커(ArUco fiducial marker)로 연속 추적하고, **직렬 탄성 말단장치(series-elastic end effector)** 원리로 부드러운 손가락의 변형을 통해 쥐는 힘을 은근히 기록하고 제어합니다. 이 부드러운 손가락은 탄성 소재(TPU)로 프린트해 수동적 유연성을 갖는데, 뒤 부록 그림에서 보듯 날달걀도 깨뜨리지 않고 쥘 만큼 부드럽습니다.
+
+### 요소 6 — 기구학 기반 데이터 거르기
+
+배포할 로봇의 **기구학(kinematics)** 을 알면 절대 말단장치 자세 기준으로 실행 불가능한 동작을 미리 걸러냅니다. 사람은 손목을 마음대로 꺾지만 로봇 팔은 그렇지 못하므로, 학습 전에 이 격차를 데이터 쪽에서 정리합니다.
+
+---
+
+## 4. 정책 인터페이스 — 모은 데이터를 로봇에 다시 붙이기
+
+장치가 데이터를 잘 모아도, 그 데이터가 로봇 위에서 그대로 재생되지 않으면 소용이 없습니다. 여기에 두 가지 설계가 들어갑니다.
+
+![그림 5 — 정책 인터페이스와 지연 정합](https://arxiv.org/html/2402.10329v3/x5.png)
+
+*그림 5 — 관측·추론·구동 지연을 물리적으로 측정해 시점을 맞춥니다.*
+
+정책은 동기화된 관측 시퀀스를 입력받습니다. 색 영상, 현재 기준 상대 **말단장치(end-effector)** 자세, 그리고 손가락 폭입니다. 출력은 원하는 상대 말단장치 자세와 손가락 폭의 시퀀스입니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "rgb",  "label": "어안 색 영상", "sub": "10~20 Hz", "row": 0},
+    {"id": "pose", "label": "상대 EE 자세", "sub": "현재 기준", "row": 0},
+    {"id": "grip", "label": "손가락 폭", "sub": "연속값", "row": 0},
+    {"id": "pol",  "label": "Diffusion Policy", "sub": "CLIP ViT-B/16 · ViT-L/14", "color": "blue", "row": 1},
+    {"id": "aout", "label": "상대 EE 자세열", "sub": "행동 시퀀스", "color": "green", "row": 2},
+    {"id": "gout", "label": "손가락 폭열", "color": "green", "row": 2}
+  ],
+  "edges": [
+    {"from": "rgb",  "to": "pol"},
+    {"from": "pose", "to": "pol"},
+    {"from": "grip", "to": "pol"},
+    {"from": "pol",  "to": "aout"},
+    {"from": "pol",  "to": "gout"}
+  ],
+  "height": 300
+}
+```
+
+### 설계 1 — 지연 정합
+
+수집할 때는 지연이 0이지만, 로봇이 실행할 때는 센서 지연·추론 지연·구동 지연이 생겨 **특히 빠른 동작에서 관측과 행동이 어긋납니다.**
+
+```remotion
+UmiLatencyMatch
+```
+
+**관측 쪽**에서는, 색 영상과 말단장치 자세와 손가락 폭 각 흐름의 지연을 물리적으로 측정한 뒤, 가장 느린 흐름(보통 카메라)을 기준으로 나머지를 맞춥니다. 색 영상을 초당 10에서 20장으로 낮춘 뒤 영상 촬영 시각에 맞춰 자기 자세 감각을 선형 보간하고, 양팔에서는 두 카메라를 가장 가까운 장면으로 맞춰 최대 60분의 1초 오차로 느슨하게 동기화합니다.
+
+**행동 쪽**에서는, 로봇과 집게의 구동 지연을 보상하려고 명령을 미리 앞당겨 보냅니다. 이미 늦어버린 앞부분 행동은 버리고 원하는 시점 이후만 실행합니다. 이 지연 정합을 끄면 물건 던지기 성공률이 87.5에서 57.5퍼센트로 무너지고 팔꿈치 속도가 튑니다.
+
+### 설계 2 — 상대 궤적 행동 표현
+
+![그림 6 — 상대 궤적 행동 표현](https://arxiv.org/html/2402.10329v3/x6.png)
+
+*그림 6 — 절대·델타와 달리 상대 궤적은 추적 오차와 카메라 변위에 강합니다.*
+
+행동과 자기 자세 감각을 모두 **현재 말단장치 자세 기준 상대 좌표**로 두어, 몸체와 배포 좌표계 의존성을 없앱니다.
+
+```remotion
+UmiActionRepr
+```
+
+세부는 셋입니다.
+
+먼저 행동은 시작점 기준의 **강체 변환(SE(3)) 상대 변환열**입니다. 직전 걸음 기준 **델타(delta)** 는 오차가 누적되고, 전역 **절대(absolute)** 는 현장에서 좌표 원점 정의가 어렵습니다. 상대 궤적은 추적 오차와 카메라 변위에 강합니다.
+
+다음으로 과거 자세도 상대로 주면 관측 창이 2일 때 속도 정보가 생기고, 시스템이 **보정(calibration)** 에서 자유로워져 로봇 몸통을 움직여도 성능이 유지됩니다. **이동형 조작기(mobile manipulator)** 에 쓸 수 있다는 뜻입니다.
+
+마지막으로 양팔 과제에서는 두 집게 사이 상대 자세를 추가로 줍니다. 이때 각 장면마다 먼저 지도를 만들고 모든 시연을 같은 지도에 다시 위치추정하는 **지도-먼저-위치추정** 방식으로 공유 좌표계를 얻습니다.
+
+| 행동 표현 | 컵 정리 성공률 | 실패 원인 |
+|-----------|---------------|-----------|
+| 절대 (absolute) | 25% | 위치추정과 로봇 몸통 좌표의 보정 부정확 → 행동 치우침 |
+| 델타 (delta) | 80% | 걸음마다 오차 누적 |
+| **상대 궤적 (relative trajectory)** | **100%** | — |
+
+양팔 상대 자세를 빼면 빨래 개기가 70에서 30퍼센트로 반토막 납니다.
+
+### 학습 — 확산 정책
+
+모든 실험에 확산 정책을 씁니다. 행동 복제(behavior cloning) 변형인 **ACT** 로도 그대로 교체할 수 있다고 밝힙니다. 확산 정책을 쓰는 이유는 사람 동작에 담긴 **여러 갈래(multimodal) 분포**를 단순 회귀로는 못 잡기 때문입니다. 시각 부호기는 과제 규모에 따라 다릅니다. 설거지에는 언어-이미지 사전학습(CLIP)으로 학습한 영상 변환기 ViT-B/16을 미세조정하고, 대규모 현장 컵 정리에는 용량을 키운 ViT-L/14를 씁니다.
+
+---
+
+## 5. 실험 — 능력·일반화·수집 효율
+
+평가는 세 축입니다. 능력, 일반화, 그리고 수집 효율입니다. **좁은 영역(narrow-domain)** 평가는 수집한 환경과 같은 환경에서 로봇과 물체의 초기 상태만 무작위로 바꾸며, 비교하는 모든 방법이 동일한 초기 상태에서 시작합니다. 각 과제는 20회씩 시험합니다.
+
+![그림 7 — 네 과제의 정책 실행 장면](https://arxiv.org/html/2402.10329v3/x7.png)
+
+*그림 7 — 컵 정리 · 물건 던지기 · 양팔 빨래 개기 · 설거지의 실제 실행 장면.*
+
+![그림 8 — 좁은 영역 평가 결과](https://arxiv.org/html/2402.10329v3/x8.png)
+
+*그림 8 — 초기상태 겹침 · 전형적 실패 양상 · 20회 평가 성공률 표.*
+
+### 네 가지 과제
+
+| 과제 | 겨냥하는 능력 | 시연 수 (수집 인원) | 성공률 |
+|------|--------------|-------------------|--------|
+| 컵 정리 | 여러 갈래 선택 · 단안+거울 깊이 | 305회 (2명) | **100%** (20/20) |
+| 물건 던지기 | 빠른 동적 동작 · 연속 쥐기 | 280회 | **87.5%** (105/120) |
+| 양팔 빨래 개기 | 양팔 협응 · 변형체 | 250회 (2명) | **70%** |
+| 설거지 | 7단계 장기 과제 · 유체 · 관절 물체 | 258회 (1명) | **70%** |
+
+**컵 정리**는 집는 동작과 밀어 재배향하는 동작을 함께 쓰고, 시계 방향과 반시계 방향이라는 여러 갈래 선택이 있습니다. 이 과제는 좁은 영역과 미지 환경, 그리고 두 로봇 몸체에서 모두 평가됩니다.
+
+**물건 던지기**는 표준 물체 세트(YCB) 6종을 로봇 팔이 닿지 않는 통으로 던져 분류합니다. 물체마다 폭이 달라 두 값짜리 쥐기로는 정밀도를 맞출 수 없어 연속 쥐기가 필요합니다.
+
+**양팔 빨래 개기**는 소매를 접고 밑단을 접고 90도 돌린 뒤 반으로 접습니다. 단일 통합 정책으로 학습했습니다.
+
+**설거지**는 물이라는 뉴턴 유체와 케첩이라는 비뉴턴 유체, 잘 변형되는 스펀지라는 도구, 수도꼭지라는 관절 물체를 다루고, 케첩이 다시 묻으면 재세척해야 한다는 **깨끗함의 의미**까지 이해해야 합니다.
+
+### 제거 실험 — 각 설계 요소의 값
+
+부품을 하나씩 끈 결과가 각 설계 요소의 값을 증명합니다.
+
+| 끈 요소 | 과제 | 원래 | 제거 후 |
+|---------|------|------|---------|
+| 어안 → 좁은 화각 | 컵 정리 | 100% | 55% |
+| 상대 궤적 → 델타 | 컵 정리 | 100% | 80% |
+| 상대 궤적 → 절대 | 컵 정리 | 100% | 25% |
+| 거울 제거 | 컵 정리 | 100% | 90% |
+| 거울 좌우 뒤집기 안 함 | 컵 정리 | 100% | 85% |
+| 지연 정합 제거 | 물건 던지기 | 87.5% | 57.5% |
+| 양팔 상대 자세 제거 | 빨래 개기 | 70% | 30% |
+| CLIP ViT → ResNet-34 처음부터 학습 | 설거지 | 70% | 0% |
+
+설거지에서 잔차 신경망(ResNet-34)을 처음부터 학습하면 반응성이 사라져 아예 0퍼센트가 됩니다.
+
+### 다른 로봇으로 이식
+
+같은 정책 저장본을 **UR5에서 학습해 Franka Emika FR2에 그대로 배포**하니 20회 중 18회, **90퍼센트**가 나왔습니다. 실패 두 건은 관절 한계 위반으로, 로봇을 다른 위치에 달았으면 피할 수 있는 문제였습니다. 6자유도와 7자유도 로봇 양쪽에서 동작한다는 것을 보인 셈입니다.
+
+### 미지 환경 일반화
+
+일반화 실험이 이 논문의 백미입니다.
+
+![그림 9 — 현장 컵 정리 일반화](https://arxiv.org/html/2402.10329v3/x9.png)
+
+*그림 9 — 위: 다양한 현장 데이터로 학습한 정책의 일반화. 아래: 좁은 데이터만 쓴 정책의 실패.*
+
+사람 셋이 12시간 동안 집·사무실·식당·야외 등 **30개 실제 장소에서 1400회 시연**을 모았고, 색과 형태와 재질이 제각각인 에스프레소 컵을 썼습니다. 20종을 사서 18종을 학습에, 2종을 시험에 남겼습니다. 시각 부호기는 CLIP ViT-L/14입니다.
+
+시험은 한 번도 못 본 두 환경에서 했습니다. 하나는 보행자가 지나다니는 야외 카페 탁자, 다른 하나는 표면에 물이 흐르는 검은 상자형 분수대로, 학습 분포에서 크게 벗어난 조건입니다.
+
+| 조건 | 성공 / 시행 | 성공률 |
+|------|------------|--------|
+| 학습에 쓴 컵 | 28 / 40 | 70% |
+| 처음 보는 컵 | 15 / 20 | 75% |
+| **합계** | **43 / 60** | **71.7%** |
+| 좁은 실험실 데이터로만 학습 (동일 사전학습 부호기) | 0 / — | **0%** |
+
+대조군은 미지의 환경에서 컵에 다가가지도 못했습니다. **큰 사전학습 모델을 좁은 데이터로 미세조정하는 것만으로는 부족하고, 다양한 현장 데이터가 일반화에 결정적**이라는 결론입니다.
+
+### 강건성
+
+![그림 10 — 강건성 시험](https://arxiv.org/html/2402.10329v3/x10.png)
+
+*그림 10 — 몸통 이동 · 새 물체 · 조명 변화 · 다른 양념에도 과제를 끝냅니다.*
+
+실행 시점에 로봇 몸통을 움직이거나, 새로운 물체를 두거나, 조명을 바꾸거나, 설거지에서 서로 다른 양념을 더 얹는 식으로 교란을 줍니다. 학습된 정책은 이런 교란에도 흔들리지 않고 과제를 끝냅니다. 앞서 상대 궤적 표현이 몸통 이동에 강하다고 한 점이 여기서 실제로 확인됩니다.
+
+---
+
+## 6. 수집 효율과 위치추정 정확도
+
+![그림 11 — 수집 처리량 비교](https://arxiv.org/html/2402.10329v3/x11.png)
+
+*그림 11 — UMI 대 맨손 대 원격조작의 15분간 수집 처리량.*
+
+![그림 12 — 위치추정 정확도](https://arxiv.org/html/2402.10329v3/x12.png)
+
+*그림 12 — 동작 포착 기준 위치 1 cm · 회전 4도 미만.*
+
+| 과제 | UMI 처리량 | 비고 |
+|------|-----------|------|
+| 컵 정리 | 사람 맨손의 48% | 스페이스마우스 원격조작보다 3배 이상 빠름 |
+| 물건 던지기 | 사람 맨손의 64% | 원격조작은 15분 동안 성공 시연 0회 — 사실상 불가능 |
+
+위치추정 정확도는 단일 집게 과제 7개와 양팔 과제 7개로 이루어진 동작 포착 기준으로 쟀습니다.
+
+| 측정 항목 | 위치 오차 | 회전 오차 |
+|-----------|----------|----------|
+| 집게 자세 (평균) | 6.1 mm | 3.5° |
+| 두 집게 사이 상대 자세 | 10.1 mm | 0.8° |
+
+대체로 1센티미터와 4도 미만입니다.
+
+---
+
+## 7. 부록 자료
+
+![부록 그림 1 — 카메라 지연 측정](https://arxiv.org/html/2402.10329v3/x13.png)
+
+*부록 그림 1 — 화면 표시 시각과 수신 시각의 차이로 카메라 지연을 구합니다.*
+
+![부록 그림 2 — 컵 선택](https://arxiv.org/html/2402.10329v3/x14.png)
+
+*부록 그림 2 — 받침 있는 에스프레소 컵 20종 중 18종을 학습에, 2종을 시험에 남겼습니다.*
+
+![부록 그림 3 — 탄성 소재 부드러운 손가락](https://arxiv.org/html/2402.10329v3/x15.png)
+
+*부록 그림 3 — 수동적 유연성 덕분에 날달걀조차 깨지 않고 쥡니다.*
+
+부록 그림 1은 앞서 다룬 관측 지연 정합의 근거가 되는 측정입니다.
+
+**부록 표 1**은 확산 정책 학습의 조절값을 과제별로 정리한 것입니다. 항목의 뜻은 이렇습니다. 이미지 관측 창은 몇 장의 과거 영상을 보는지, 자기 자세 관측 창은 몇 걸음의 과거 자세를 보는지, 행동 창은 한 번에 내는 행동 길이, 주파수는 관측과 행동의 환경 주기, 실행 속도는 수집 속도 대비 정책 실행 속도, 영상 해상도는 카메라 수와 가로세로 크기, 시각 구조는 시각 부호기 구조, 시각 사전학습은 시각 부호기 사전학습 방식, 두 학습률은 각각 확산 모델과 시각 부호기의 학습 속도, 세대 수는 학습 반복 횟수입니다. 대표적으로 관측 창은 2, 시각 부호기는 과제에 따라 CLIP ViT-B/16 또는 ViT-L/14를 쓰고, 비교군으로 처음부터 학습한 ResNet-34가 등장합니다.
+
+---
+
+## 8. 저자가 밝힌 한계
+
+첫째, 수집 시점에는 배포할 로봇의 관절 한계를 몰라 데이터 거르기에 의존합니다. 하드웨어가 못 미치는 유효한 동작에서도 기술을 전이하는, **몸체를 아는 학습**이 앞으로의 과제입니다.
+
+둘째, 시각 기반 위치추정이라 무늬가 부족한 환경, 이를테면 새하얀 벽 앞에서는 취약합니다. 삼인칭 고정 카메라와 집게에 붙인 추가 마커로 보완할 수 있다고 봅니다.
+
+셋째, 여전히 사람 손보다 느립니다. 집게의 무게와 부피, 낮은 자유도 때문입니다. 가벼운 소재와 인체공학 개선, 또는 사람 동작을 직접 옮길 수 있는 정교한 로봇 손이 필요합니다.
+
+---
+
+## 9. 정리 — 왜 이 논문이 계보의 시조인가
+
+핵심은 **두 가지 분리**입니다. 하나는 로봇을 데이터 수집에서 떼어낸 것이고, 다른 하나는 떼어낸 데이터가 로봇에 그대로 붙게 만든 인터페이스입니다.
+
+- **어안과 거울**이 사람 시야와 로봇 시야의 관측 간극을 메웁니다.
+- **관성 센서와 ORB-SLAM3**가 실제 크기의 정밀한 6자유도 궤적을 잡습니다.
+- **상대 궤적 표현과 지연 정합**이 그 궤적을 어떤 로봇에도 실릴 수 있게 만듭니다.
+
+이 조합 덕분에 데이터만 바꾸면 동적·양팔·정밀·장기 기술이 열립니다. 그리고 이후의 여러 갈래가 모두 여기서 뻗어 나왔습니다.
+
+### 계보 — 여기서 갈라져 나온 논문들
+
+| 논문 | 무엇을 바꿨나 |
+|------|--------------|
+| [FastUMI](/blog/paper-review/umi/fastumi) | SLAM을 시판 추적 모듈로 교체, 로봇 전용 부품 의존 제거, 22개 과제 1만 궤적 공개 |
+| [exUMI](/blog/paper-review/umi/exumi) | 촉각 센서 추가, 자기수용감각을 자세와 폭으로 분리, 행동 조건부 촉각 표현학습 |
+| [MV-UMI](/blog/paper-review/umi/mv-umi) | 3인칭 시점 추가, 사람을 지우고 배경을 채워 도메인 시프트 제거 |
+| [Mobile UMI](/blog/paper-review/umi/mobile-umi) | 가슴 기준 재표현으로 걷기 성분 상쇄, 상태공간 지연 보정으로 이동조작 지원 |
+| [RwoR](/blog/paper-review/umi/rwor) | 집게조차 버리고 맨손 시연, 생성 모델로 손을 집게로 번역 |
+| [농업용 저가 하드웨어](/blog/paper-review/umi/umi-agriculture) | 사과 과수원 적용, 연속 시연 자동 분할과 관성·마커 EKF 융합 |
+| [그리퍼 설계와 시연 품질](/blog/paper-review/umi/gripper-design-demonstration-quality) | 손가락 하중 분포가 시연 품질과 작업부담에 미치는 영향을 사람 대상으로 실측 |
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"전체 목차",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"UMI 계보 - 전체 목차"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/fastumi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"2편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

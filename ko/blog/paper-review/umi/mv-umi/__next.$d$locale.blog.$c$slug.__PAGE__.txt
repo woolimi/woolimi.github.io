@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning\",\"description\":\"손목 1인칭 시점만으로는 목표가 보이지 않는 작업을 풀기 위해, 3인칭 시점을 더하되 사람을 지우고 배경을 채워 넣어 도메인 시프트를 없앤 MV-UMI를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2509.18757v1/Figures/test-low.jpg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/mv-umi\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T02:13:34.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"4편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning"}]
+10:T3585,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)에서 UMI는 손목에 단 어안 카메라 하나로 모든 것을 해결했습니다. 어안 렌즈와 양옆 거울이 좁은 시야 문제를 상당 부분 메웠기 때문입니다. 그런데 여기엔 조용한 전제가 하나 깔려 있습니다. **작업의 목표 지점이 손목 시야 안에 있어야 한다**는 것입니다.
+
+병을 집어 방 건너편 랙에 꽂거나, 테이블 반대편 선반에 캔을 올리는 작업은 어떨까요. 물건을 쥐는 순간 목표는 화면 밖에 있습니다. 손목 시점만 보는 정책은 어디로 가야 할지 모릅니다.
+
+MV-UMI는 여기에 3인칭 시점을 더합니다. 그런데 3인칭을 더하는 순간 새 문제가 터집니다. 그 문제와 해법이 이 논문의 전부입니다.
+
+📄 [MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning](https://arxiv.org/abs/2509.18757) — Omar Rayyan, John Abanes, Mahmoud Hafez, Anthony Tzes, Fares Abu-Dakka / New York University Abu Dhabi, 2025-09-23, cs.RO, arxiv 식별자 2509.18757
+
+프로젝트 페이지는 [mv-umi.github.io](https://mv-umi.github.io)입니다.
+
+### 초록 요약
+
+모방학습(imitation learning)은 시연으로부터 견고한 로봇 조작 정책(policy)을 만들 수 있지만, 이는 다양하고 질 좋은 데이터셋이 있을 때에만 성립합니다. 손에 드는 집게는 전통적 원격조작(teleoperation)의 확장 가능한 대안으로 떠올랐지만, 손목에 달린 1인칭(first-person) 카메라 하나에만 의존하기 때문에 장면 맥락(scene context)을 충분히 담지 못합니다. 이 논문은 **MV-UMI(Multi-View Universal Manipulation Interface)** 를 제안합니다. 자기중심(egocentric) 카메라에 3인칭(third-person) 시점을 통합하되, 사람 시연과 로봇 배포 사이의 도메인 시프트(domain shift)를 완화하면서도 휴대용 수집 장치의 교차 몸체성(cross-embodiment) 장점을 유지합니다. 절제 실험을 포함한 결과, 넓은 장면 이해가 필요한 하위 작업에서 3개 작업에 걸쳐 성능을 **약 47%** 개선했습니다.
+
+---
+
+## 1. 문제 — 3인칭을 더하면 학습과 배포의 화면이 달라집니다
+
+![그림 1 — 두 시점의 학습·배포 일관성 차이](https://arxiv.org/html/2509.18757v1/Figures/test-low.jpg)
+
+*그림 1 — 손목 자기중심 시점은 사람 시연과 로봇 배포에서 일관되게 유지되지만, 3인칭 시점은 수집 때 사람에 맞춰져 있고 배포 때는 로봇에 맞춰지며 분포 밖(out-of-distribution) 격차를 만듭니다.*
+
+손목 카메라가 보는 화면은 사람이 시연할 때나 로봇이 실행할 때나 거의 같습니다. 손끝과 잡는 물체만 보이기 때문입니다. 그래서 1인칭 시점은 학습과 배포 사이 일관성이 좋습니다.
+
+문제는 3인칭입니다. 데이터를 모을 때 화면에는 사람의 손과 팔이 등장하지만, 배포할 때 그 자리에는 로봇 팔이 있습니다. 이 시각적 차이가 곧 도메인 시프트입니다.
+
+| 시점 | 수집 때 화면 | 배포 때 화면 | 격차 |
+|---|---|---|---|
+| 1인칭 (손목 자기중심) | 집게 손끝 + 물체 | 집게 손끝 + 물체 | 거의 없음 |
+| 3인칭 (관찰 시점) | 사람 팔 + 장면 | 로봇 팔 + 장면 | 분포 밖 격차 발생 |
+
+정리하면, 3인칭은 **필요하지만 그대로 쓰면 독** 입니다.
+
+### 기존 방식들은 어느 한쪽만 골랐습니다
+
+| 방법 | 원격조작 불필요 | 1인칭 | 3인칭 |
+|---|---|---|---|
+| Dobb-E | ✓ | ✗ | ✓ |
+| UMI | ✓ | ✗ | ✓ |
+| Fast-UMI | ✓ | ✗ | ✓ |
+| Legato | ✓ | ✗ | ✓ |
+| Shadow | ✗ | ✓ | ✗ |
+| Mirage | ✗ | ✓ | ✗ |
+| **MV-UMI (제안)** | ✓ | ✓ | ✓ |
+
+> 표는 원문 그대로입니다. 원문의 1인칭·3인칭 열 표기는 이 논문의 분류 기준을 따른 것으로, UMI 계열이 한쪽 시점에 치우쳐 있다는 점과 Shadow·Mirage가 로봇 원격조작에 의존한다는 점을 대비시키는 것이 표의 요지입니다.
+
+MV-UMI만이 원격조작 없이 두 시점을 함께 담습니다. 기존 3인칭 데이터셋과의 결합 가능성까지 열어 두었습니다.
+
+---
+
+## 2. 해법 — 3인칭 화면에서 사람을 지웁니다
+
+![그림 2 — MV-UMI 데이터 처리·배포 파이프라인](https://arxiv.org/html/2509.18757v1/Figures/pipeline-low-qua.jpg)
+
+*그림 2 — 학습 시 사람 시연을 손목과 3인칭 양쪽에서 담고, SAM-2 분할(segmentation)로 사람 시연자를 지운 뒤 배경 인페인팅(inpainting)으로 로봇과 호환되는 관측을 만듭니다. 배포 시에는 학습된 정책이 실시간 다시점(multi-view) 입력을 처리합니다.*
+
+핵심 아이디어는 한 줄입니다. **3인칭 화면에서 사람을 지워, 로봇이 등장할 자리를 비워 둔다.**
+
+```flow
+{
+  "nodes": [
+    {"id": "rec", "label": "듀얼 녹화", "sub": "손목 1인칭 + 3인칭"},
+    {"id": "seg", "label": "SAM-2 분할", "sub": "사람 시연자 검출", "color": "blue"},
+    {"id": "inp", "label": "배경 인페인팅", "sub": "지운 자리를 배경으로", "color": "blue"},
+    {"id": "drop", "label": "시점 드롭아웃", "sub": "학습 중 무작위 마스킹", "color": "orange"},
+    {"id": "pol", "label": "다시점 정책 학습", "color": "green"},
+    {"id": "dep", "label": "로봇 배포", "sub": "실시간 1인칭 + 3인칭", "color": "green"}
+  ],
+  "edges": [
+    {"from": "rec", "to": "seg"},
+    {"from": "seg", "to": "inp"},
+    {"from": "inp", "to": "drop"},
+    {"from": "drop", "to": "pol"},
+    {"from": "pol", "to": "dep"}
+  ],
+  "height": 280
+}
+```
+
+사람이 휴대용 집게로 시연하며 손목 1인칭과 3인칭 두 화면을 동시에 녹화하고, SAM-2(Segment Anything Model 2)로 3인칭 화면 속 사람을 분할해 제거한 다음, 지워진 영역을 배경으로 채워 그립니다. 이렇게 정합된 다시점 데이터로 정책을 학습하고, 배포 때는 로봇의 실시간 두 시점 입력을 그대로 넣습니다.
+
+![그림 3 — 실제 환경에서 수집한 장면들](https://arxiv.org/html/2509.18757v1/x1.jpg)
+
+![그림 3 패널 1](https://arxiv.org/html/2509.18757v1/x2.jpg)
+
+![그림 3 패널 2](https://arxiv.org/html/2509.18757v1/x3.jpg)
+
+![그림 3 패널 3](https://arxiv.org/html/2509.18757v1/x4.jpg)
+
+![그림 3 패널 4](https://arxiv.org/html/2509.18757v1/x5.jpg)
+
+*그림 3 — 통제된 실험실이 아니라 다양한 배경·조명·물체 배치에서 데이터를 모을 수 있음을 보여줍니다.*
+
+---
+
+## 3. 학습 — 한쪽 시점에 기대지 못하게 막습니다
+
+두 시점을 모두 주면 좋지만, 자칫 정책이 정보가 풍부한 3인칭에만 기대게 될 수 있습니다. 그러면 배포 때 그 시점이 가려지는 순간 무너집니다.
+
+논문의 **알고리즘 1(Policy Training with Random Dropout)** 은 학습 배치마다 두 시점 중 하나를 확률적으로 가립니다.
+
+![그림 4 — 무작위 시점 드롭아웃 증강](https://arxiv.org/html/2509.18757v1/Figures/aug_low_qua.jpg)
+
+*그림 4 — 자기중심 또는 3인칭 카메라 시점 중 하나를 크기가 제각각인 노이즈 패치로 무작위로 가립니다.*
+
+```remotion
+MvUmiViewDropout
+```
+
+그 결과 정책은 두 시점 정보를 서로 보완적으로 쓰는 법을 배우고, 배포 때 가림이나 시점 손실에도 견딥니다.
+
+---
+
+## 4. 평가 — 목표가 손목 시야 밖에 있는 작업들
+
+![그림 5 (a) — Bottles-Rack-Inserter](https://arxiv.org/html/2509.18757v1/Figures/task-low-qua.jpg)
+
+*그림 5 (a) — 빈 슬롯이 하나 있는 랙에 유리병을 꽂아 넣습니다.*
+
+![그림 5 (b) — Marker-Cup-Placer](https://arxiv.org/html/2509.18757v1/Figures/task-2-low-qua.jpg)
+
+*그림 5 (b) — 마커를 집어 테이블 주변에 놓인 컵 안에 넣습니다.*
+
+![그림 5 (c) — Cans-Shelf-Placer](https://arxiv.org/html/2509.18757v1/Figures/task-3-low.png)
+
+*그림 5 (c) — 테이블 반대편에 있는 선반 위에 캔을 올려놓습니다.*
+
+세 작업 모두 목표 지점이 물건을 쥐는 순간의 손목 시야 밖에 있습니다. 1인칭만으로는 목표를 놓치기 쉬운, 넓은 장면 이해가 필요한 대표 사례들입니다.
+
+### 하드웨어 — 같은 집게를 손으로도 로봇으로도
+
+![그림 6 — 커스텀 3조 집게](https://arxiv.org/html/2509.18757v1/Figures/Gripper-low-qua.jpg)
+
+*그림 6 — 왼쪽은 손에 쥐는 형태, 오른쪽은 모터 구동 형태입니다. 각 조(jaw)의 설치 면적은 약 189 mm × 94 mm입니다.*
+
+같은 집게가 데이터 수집용 손잡이 형태와 배포용 모터 구동 형태로 모두 쓰입니다. 행동 공간과 관측 공간을 몸체 사이에 통일해 교차 몸체성을 확보하는 핵심 하드웨어입니다. 3D 프린팅 채움률(infill)을 부위별로 다르게 줬습니다.
+
+| 부위 | 채움률 | 이유 |
+|---|---|---|
+| 잡는 부위 | 5% | 그립력 최대화 |
+| 몸체 대부분 | 25% | 무게와 강성의 절충 |
+| 고정구 결합부 | 45% | 구조 안정성 |
+
+---
+
+## 5. 절제 실험 — 무엇을 빼면 무너지는가
+
+MV-UMI의 성공률을 1.0으로 놓았을 때, 각 구성요소를 뺐을 때의 상대 성능입니다.
+
+| 제거한 요소 | 상대 성능 |
+|---|---|
+| 사람 분할 제거 | 0.10 |
+| 3인칭 시점 제거 | 0.60 |
+| 로봇 인페인팅 제거 | **0.00** |
+
+숫자가 말하는 바가 분명합니다. 사람 정렬 데이터로만 학습한 정책은 방향은 그럴듯하게 움직였지만 **어떤 작업도 완수하지 못했습니다.** 학습과 배포 사이 관측 공간의 분포 시프트 때문입니다.
+
+반대로 분할된 데이터로 학습한 정책은 추론 때 로봇을 분할하지 않아도 잘 일반화됐습니다. 사람을 지우면 모델이 "사람 움직임과 집게 행동"이라는 **가짜 상관(spurious correlation)** 에 과적합하지 않고, 작업과 관련된 장면 특징에 의존하게 되기 때문입니다.
+
+![그림 7 — 기존 UMI 시점 구성과 MV-UMI 구성의 성공률 비교](https://arxiv.org/html/2509.18757v1/Figures/succ_new.jpg)
+
+*그림 7 — 손목 1인칭만 쓰는 기존 구성 대비, 3인칭을 더한 MV-UMI 구성이 앞섭니다.*
+
+초록에서 밝힌 3개 작업 평균 약 47% 개선이 이 비교로 뒷받침됩니다.
+
+### 왜 그런가 — 어텐션이 답합니다
+
+![그림 8 — 비분할 모델의 어텐션 맵](https://arxiv.org/html/2509.18757v1/Figures/attention_maps/unseg_model/0.jpg)
+
+![그림 8 — 비분할 모델 (다른 프레임)](https://arxiv.org/html/2509.18757v1/Figures/attention_maps/unseg_model/3.jpg)
+
+![그림 8 — 분할 모델·분할 추론](https://arxiv.org/html/2509.18757v1/Figures/attention_maps/seg_model/seg_inf/0.jpg)
+
+![그림 8 — 분할 모델·분할 추론 (다른 프레임)](https://arxiv.org/html/2509.18757v1/Figures/attention_maps/seg_model/seg_inf/3.jpg)
+
+![그림 8 — 분할 모델·비분할 추론](https://arxiv.org/html/2509.18757v1/Figures/attention_maps/seg_model/unseg_inf/0.jpg)
+
+![그림 8 — 분할 모델·비분할 추론 (다른 프레임)](https://arxiv.org/html/2509.18757v1/Figures/attention_maps/seg_model/unseg_inf/3.jpg)
+
+*그림 8 — 서로 다른 학습·추론 조건에서 영상 변환기(Vision Transformer, ViT) 시각 부호기가 만든 어텐션 맵입니다.*
+
+저자들은 다중 헤드 자기어텐션(multi-head self-attention) 층에 후크를 걸어 클래스 토큰(class token)의 질의-키 어텐션 점수를 뽑았습니다. 이 점수는 전역 표현이 각 이미지 조각에 얼마나 강하게 주목하는지를 나타냅니다. 이를 공간 격자로 재배열해 원본 프레임 위에 겹쳤습니다.
+
+사람을 지우고 학습한 모델은 사람 형상이 아니라 **작업과 관련된 영역에 어텐션을 집중** 합니다. 절제 실험의 숫자를 눈으로 확인하는 셈입니다.
+
+---
+
+## 6. 한계
+
+- **가림 문제** — 3인칭 시점은 장면 이해를 높이지만, 학습 때는 사람 시연자가, 배포 때는 로봇이 대상을 가려 첫 번째 배포 구성에서 분할이 불완전해질 수 있습니다. 저자들은 두 번째 배포 구성이 추론 시 이 문제를 완화한다고 밝힙니다.
+- **평가 규모** — 3개 작업 규모이며, 넓은 장면 이해가 특히 중요한 작업들에 초점을 맞춘 결과입니다.
+
+---
+
+## 7. 정리 — 계보에서 MV-UMI의 자리
+
+MV-UMI는 휴대용 시연 시스템의 근본 한계인 **손목 카메라의 좁은 시야** 를 정면으로 다룹니다.
+
+- 3인칭 영상과 자기중심 관측을 결합해 **더 넓은 맥락 인식**을 얻고,
+- 사람 마스킹과 인페인팅으로 **사람 고유의 가짜 신호**를 피하며,
+- 같은 집게를 손과 로봇에 모두 써 **교차 몸체성 호환성**을 유지합니다.
+
+결과적으로 휴대용 데이터 수집의 적용 범위를 "손끝만 보면 되는 작업"에서 "주변을 봐야 하는 작업"으로 넓혔습니다. 흥미로운 것은 [FastUMI](/blog/paper-review/umi/fastumi)가 카메라 시야를 **렌즈**로 넓혔다면, MV-UMI는 **카메라 대수**로 넓혔다는 점입니다. 그리고 시점을 하나 더 늘리는 대가로 도메인 시프트라는 새 청구서를 받았고, 그걸 생성 모델로 막았습니다.
+
+이 "생성 모델로 관측 격차를 메운다"는 발상은 [RwoR](/blog/paper-review/umi/rwor)에서 한 걸음 더 나아갑니다. 계보의 출발점은 [원조 UMI 논문해석](/blog/paper-review/umi/umi)에 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/exumi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"3편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/mobile-umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"5편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

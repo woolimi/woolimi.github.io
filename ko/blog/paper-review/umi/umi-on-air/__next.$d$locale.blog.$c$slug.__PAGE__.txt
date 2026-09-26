@@ -1,0 +1,241 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies\",\"description\":\"UMI 정책을 공중 매니퓰레이터에 올릴 때 생기는 배포 쪽 간극을 다룹니다. 저수준 제어기의 추종 비용 기울기를 확산 표본화에 주입해 궤적을 실행 가능한 쪽으로 밀어내는 EADP를, 원본 그림과 수치로 따라가 봅니다.\",\"image\":\"https://arxiv.org/html/2510.02614/figures/task_v1_horizontal.jpg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/umi-on-air\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T04:41:38.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"11편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies"}]
+10:T4cc8,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)부터 여기까지, 계보의 논문들은 거의 전부 **수집** 쪽을 밀어붙였습니다. 더 쉽게 모으고([FastUMI](/blog/paper-review/umi/fastumi)), 촉각까지 모으고([exUMI](/blog/paper-review/umi/exumi)), 걸어다니며 모으고([Mobile UMI](/blog/paper-review/umi/mobile-umi)), 야외에서 모으는 이야기였습니다.
+
+UMI-on-Air는 방향을 반대로 봅니다. 데이터를 아무리 잘 모아도 그 정책을 제약이 큰 로봇에 올리는 순간 무너집니다. UMI 정책은 사람 손의 자유로운 움직임을 그대로 담고 있어서 잘 추종하는 로봇에서는 훌륭하지만, 공중에 떠 있는 매니퓰레이터에게는 아예 실행할 수 없는 궤적을 던지기 일쑤입니다. 드론은 흔들리는 데다 지면 효과를 받고, 추력이 빠듯하며, 자세와 위치가 서로 얽혀 있습니다.
+
+**데이터는 로봇을 몰라도 되지만, 실행은 로봇을 알아야 합니다.** 학습에는 손대지 않고 추론 시점에 로봇의 사정을 끼워 넣는 것이 이 논문의 답입니다.
+
+📄 [UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies](https://arxiv.org/abs/2510.02614) — Harsh Gupta, Xiaofeng Guo, Huy Ha, Chuer Pan, Muqing Cao, Dongjae Lee, Sebastian Scherer, Shuran Song, Guanya Shi (Carnegie Mellon University · Stanford University) / 2025-10-02 게재, ICRA 2026, arxiv 식별자 2510.02614
+
+### 초록 요약
+
+UMI-on-Air는 몸체 무관(embodiment-agnostic) 조작 정책을 몸체를 아는(embodiment-aware) 방식으로 배포하는 틀입니다. 손잡이형 집게(UMI)로 모은 다양하고 제약 없는 사람 시연에서 일반화 가능한 시각운동(visuomotor) 정책을 학습하는 데까지는 기존과 같습니다. 걸리는 곳은 그다음입니다. 이 정책을 공중 매니퓰레이터(aerial manipulator)처럼 제약이 큰 몸체로 옮기면 제어와 로봇 동역학이 어긋나고, 어긋난 만큼 정책은 분포 밖(out-of-distribution) 거동으로 빠져 실행이 엉망이 됩니다. 논문이 내놓는 답은 몸체 인지 확산 정책(Embodiment-Aware Diffusion Policy, EADP)입니다. 고수준 UMI 정책과 저수준 몸체 전용 제어기를 추론 시점에 맞붙여, 제어기의 추종 비용(tracking cost)에서 나온 기울기를 확산 표본화 과정에 되먹입니다. 그러면 궤적 생성이 배포 몸체가 실제로 해낼 수 있는 모드 쪽으로 쏠려서, 실행 시점에 꽂기만 하면 되는(plug-and-play) 궤적 적응이 됩니다. 저자들은 여러 장기(long-horizon) 고정밀 공중 조작 과제에서 유도 없는 확산 기준선보다 성공률과 효율, 외란 견고성이 모두 낫다고 보고하고, 현장에서 모은 UMI 시연만으로 처음 보는 환경에서도 조작이 된다는 것을 보입니다.
+
+---
+
+## 1. 문제 — 한 방향 통신이 만드는 간극
+
+표준 UMI 시스템은 고수준 정책의 출력을 저수준 제어기에 한 방향(one-way)으로 던집니다. 정책이 말단장치 궤적을 내면 제어기는 그걸 따라가려 애쓰는데, 정작 정책은 제어기가 그 궤적을 따라갈 수 있는지 없는지를 모릅니다.
+
+논문은 로봇 몸체를 "UMI 적합성(UMI-ability)"이라는 축 위에 줄 세웁니다. 제어기가 정밀한 고정 베이스 팔은 UMI 적합성이 높아서, UMI 정책을 마치 자기가 손잡이형 집게인 양 실행합니다. 반면 무인 공중 로봇은 공기역학 외란 속에서 자세를 지켜야 한다는 식의 빡빡한 제약을 받습니다. 이런 제약을 셈에 넣지 않은 궤적은 실행이 안 되거나, 위험하거나, 비효율적입니다.
+
+EADP는 이 통신을 양방향(two-way)으로 바꿉니다. 잡음이 섞인 행동 궤적을 제어기가 채점해 추종 비용을 내면, 그 비용을 궤적에 대해 역전파한 기울기가 궤적을 실행 가능한 쪽으로 밉니다. 확산 모델의 분류기 유도(classifier guidance)와 같은 형식입니다.
+
+---
+
+## 2. 과제 — 공중에서 해내야 하는 것들
+
+![그림 2 — 공중 조작 과제](https://arxiv.org/html/2510.02614/figures/task_v1_horizontal.jpg)
+
+*그림 2 — (a) 익은 노란 레몬을 골라 따는 수확, (b) 처음 보는 환경에서의 고정밀 페그 삽입, (c) 나사 조임과 스위치 누르기가 이어지는 장기 전구 설치입니다.*
+
+세 과제 모두 지금까지 완전 자율로는 손이 닿지 않던 일입니다. 레몬 수확은 익은 것을 가려내야 하고, 페그 삽입은 정밀도를 요구하며, 전구 설치는 3분 넘게 이어집니다. 논문이 노리는 응용은 송전탑 위 설비 점검이나 어질러진 과수원 수확처럼 사람이 가기 어렵거나 위험한 곳입니다.
+
+---
+
+## 3. 데이터 수집 — UMI를 드론에 맞게 셋 고칩니다
+
+![그림 4 — 수집에서 배포까지](https://arxiv.org/html/2510.02614/figures/data_collection_v4.jpg)
+
+*그림 4 — 수집 장비는 SLAM 추적용 iPhone, 배포용 경량 카메라, 순응형 3D 프린팅 손끝으로 구성되며, 관측 공간과 행동 공간을 공유해 몸체 간극을 줄입니다.*
+
+원조 UMI 구성에서 셋을 바꿨습니다.
+
+GoPro는 OAK-1 W 경량 카메라로 갈아 끼웠습니다. 넓은 시야는 유지하면서 가반하중을 줄이려는 것으로, 드론에게 무게는 곧 비행 시간이자 안정성입니다.
+
+손끝 기하는 줄여 관성을 낮췄습니다. 팔 끝에서 흔들리는 질량이 작아야 기체 자세도 덜 흔들립니다.
+
+자세 추적은 iPhone 기반 시각-관성 SLAM으로 바꿔, 수집할 때 6자유도 말단장치 자세를 더 정확히 따라갑니다.
+
+각 시연은 동기화된 1인칭 RGB 영상, 6자유도 말단장치 자세 궤적, 손가락의 기준 마커(fiducial marker)로 추적한 연속 집게 벌림으로 이뤄집니다. 입력은 영상·상대 말단장치 자세·집게 벌림으로 된 관측 창이고, 출력은 상대 말단장치 궤적과 집게 벌림으로 된 미래 행동 지평(horizon)입니다. 조건부 UNet 기반 확산 정책이 이 쌍으로 학습됩니다.
+
+수집 쪽에는 로봇 이야기가 전혀 없습니다. 정책은 끝까지 몸체를 모른 채 학습됩니다.
+
+---
+
+## 4. 추종 비용 — 제어기가 궤적을 채점합니다
+
+배포 쪽에 필요한 것은 작업공간 기준 궤적 $a = \{p^r_t, R^r_t\}^H_{t=1}$ 을 몸체 전용 행동으로 옮겨 주는 제어기입니다. 논문은 이 자리를 말단장치 중심(EE-centric) 관점으로 잡습니다. 고수준 정책은 언제나 말단장치 기준 궤적만 내고, 몸체 제약 아래에서 그것을 실현할 책임은 제어기가 집니다. 그래서 제어기 자리에는 단순한 역기구학(IK)부터 완전한 모델 예측 제어(model predictive control, MPC)까지 무엇이든 들어갈 수 있습니다.
+
+다만 어떤 제어기가 오든 추종 비용 $L_{\text{track}}(a)$ 하나는 반드시 내놓아야 합니다. 값이 크면 동역학적으로 실행이 어렵거나 미구동(underactuation)·제어 포화 탓에 따라가기 힘든 구간이라는 뜻이고, 작으면 몸체 능력에 잘 맞는다는 뜻입니다.
+
+### 속도 한계가 있는 역기구학
+
+탁상형 매니퓰레이터처럼 동역학이 비교적 단순한 로봇에는 가벼운 제어기로 충분합니다. 각 단계에서 목표 웨이포인트를 순기구학·역기구학으로 왕복시키고, 단계당 속도 한계 $\delta_{\max} = \dot{q}_{\max}\Delta t$ 로 잘라냅니다.
+
+$$
+q_{t+1} = q_t + \mathrm{clip}\big(f_{\text{IK}}(a_t, q_t) - q_t,\; -\delta_{\max},\; \delta_{\max}\big)
+$$
+
+$$
+L_{\text{track}}(a) = \sum_{t=1}^{H} \lVert f_{\text{FK}}(q_t) - a_t \rVert^2
+$$
+
+잘라낸 뒤 순기구학으로 복원한 궤적과 원래 기준 궤적의 제곱 오차가 곧 비용입니다. 미분이 되는 형태라는 점이 뒤에서 결정적으로 쓰입니다.
+
+### 무인 공중 매니퓰레이터를 위한 MPC
+
+드론에는 말단장치 중심 전신 MPC를 씁니다. 상태와 제어는 다음과 같습니다.
+
+$$
+x := \begin{bmatrix} p & R & v & \theta \end{bmatrix}, \qquad u := \begin{bmatrix} \tau & \theta_{\text{cmd}} \end{bmatrix}
+$$
+
+$v \in \mathbb{R}^6$ 은 몸체 속도(선속도와 각속도), $\theta$ 는 매니퓰레이터 관절각, $\tau \in \mathbb{R}^6$ 은 명령 렌치(wrench)입니다. 이 시스템은 완전 구동(fully actuated) 헥사로터라서 6차원 제어 렌치를 그대로 보낼 수 있습니다. 유한 지평 제약 최적화를 ACADOS로 풀고, 이산화는 4차 룽게-쿠타(Runge-Kutta) 기법을 씁니다.
+
+$$
+u_{\text{opt}} = \arg\min_u \left\{ L_e(x_H, x^r_H) + \sum_{t=1}^{H} L_r(x_t, x^r_t, u_t) \right\}
+$$
+
+MPC는 제어 입력만 내는 게 아니라 추종 비용도 함께 노출합니다.
+
+$$
+L_{\text{track}}(a) = \sum_{t=1}^{H} \big( e_{p,t}^\top Q_p e_{p,t} + e_{R,t}^\top Q_R e_{R,t} \big)
+$$
+
+---
+
+## 5. EADP — 잡음 제거 중간에 기울기를 끼워 넣습니다
+
+![그림 3 — 몸체 인지 확산 정책](https://arxiv.org/html/2510.02614/figures/pipeline_v5.jpg)
+
+*그림 3 — 확산 정책이 잡음에서 행동을 반복 복원하는 사이사이에 MPC 추종 비용의 기울기를 더하고, 최종 궤적은 MPC가 50 Hz로 추종합니다.*
+
+표준 DDIM 갱신은 다음과 같습니다.
+
+$$
+a^{k-1} = a^k + \psi_k(\pi_\theta(a^k, t \mid o))
+$$
+
+EADP는 그 앞에 유도 한 걸음을 끼웁니다.
+
+$$
+\tilde{a}^k = a^k - \lambda \cdot \bar{\omega}_k \cdot \nabla_{a^k} L_{\text{track}}(a^k)
+$$
+
+$\lambda$ 는 전역 유도 스케일이고, $\bar{\omega}_k \in (0,1)$ 은 누적 잡음 일정 $\bar{\alpha}_k$ 를 그대로 따르는 유도 일정입니다. 유도 세기가 시간에 따라 달라져 초기 잡음 단계에서는 약하고 후반 복원 단계에서 강해집니다. 형태가 아직 잡히지 않은 초반에 제약을 걸어 봐야 그냥 뭉개지기 때문입니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "noise", "label": "잡음에서 시작", "sub": "a^K ~ N(0, I)"},
+    {"id": "grad", "label": "추종 비용 기울기", "sub": "제어기가 평가 · 역전파", "color": "orange"},
+    {"id": "nudge", "label": "궤적 밀기", "sub": "ã = a - λ·ω_k·∇L", "color": "orange"},
+    {"id": "denoise", "label": "잡음 제거 한 걸음", "sub": "DDIM 갱신", "color": "blue"},
+    {"id": "out", "label": "기준 궤적 출력", "sub": "실행 가능한 모드", "color": "green"},
+    {"id": "mpc", "label": "MPC 추종", "sub": "50 Hz", "color": "green"}
+  ],
+  "edges": [
+    {"from": "noise", "to": "grad"},
+    {"from": "grad", "to": "nudge"},
+    {"from": "nudge", "to": "denoise"},
+    {"from": "denoise", "to": "grad", "label": "K회 반복"},
+    {"from": "denoise", "to": "out"},
+    {"from": "out", "to": "mpc"}
+  ],
+  "height": 340
+}
+```
+
+확산 정책의 학습은 배포 몸체와 완전히 무관하게 끝납니다. 몸체 정보는 오직 추론 시점에만 들어옵니다. 그래서 로봇이 바뀌어도 재학습할 것 없이 제어기만 갈아 끼우면 되고, 논문은 이 성질을 "꽂으면 되는(plug-and-play)"이라고 부릅니다.
+
+이게 통하는 이유는 확산 정책이 애초에 다중 모드이기 때문입니다. 같은 관측에서 여러 갈래의 행동이 나오고, 그중 어떤 것은 이 로봇에게 쉽고 어떤 것은 어렵습니다. EADP는 없던 행동을 지어내는 게 아니라 이미 정책 안에 있던 모드 가운데 이 몸체에 맞는 쪽으로 표본을 몰아 줍니다.
+
+---
+
+## 6. 시뮬레이션 — UMI 적합성이 다른 세 몸체
+
+![그림 5 — 몸체별 정책 적응](https://arxiv.org/html/2510.02614/figures/umiability_tasks_v0.jpg)
+
+*그림 5 — 같은 관측에서 뽑은 32개 행동 표본이 몸체마다 다르게 유도됩니다. UR10e는 기구학적 특이점을 피해 위쪽으로, 공중 매니퓰레이터는 −Z 방향 외란 때문에 아래쪽으로 밀립니다.*
+
+이 그림이 EADP가 하는 일을 가장 직관적으로 보여 줍니다. 정책도 같고 관측도 같은데 제어기가 다르면 표본이 다른 쪽으로 몰립니다. UR10e에게 기구학적으로 편한 방향과 드론에게 동역학적으로 편한 방향이 서로 다르기 때문입니다.
+
+MuJoCo 위에 네 과제를 만들었습니다. Open-And-Retrieve(캐비닛을 밀어 열고 캔을 집어 위에 올림), Peg-In-Hole(1 cm 페그를 2 cm 정사각 구멍에 삽입, 50초 제한), Rotate-Valve(밸브를 지정 방향으로 회전), Pick-and-Place(캔을 들어 그릇에 넣음)입니다. 위치는 모두 무작위로 흩어 놓고, 시뮬레이션 시연은 UMI 집게에 모션 캡처를 붙여 사람이 직접 모았습니다.
+
+배포 몸체는 셋입니다. Oracle은 정책 궤적을 완벽히 추종하는 가상의 비행 집게로, 몸체 간극이 아예 없을 때의 상한입니다. UR10e는 속도 제한 역기구학 제어기를 쓰는 고정 베이스 6자유도 팔입니다. UAM은 MPC로 제어하는 공중 매니퓰레이터이고, 외란이 없는 경우와 정지 목표 근처에서 호버링할 때 실측된 약 3 cm 평균 추종 오차를 잡음으로 넣은 경우 둘로 나눕니다.
+
+### 성공률 (그림 6, 단위 %)
+
+| 과제 | Oracle | UR10e (DP → EADP) | UAM (DP → EADP) | UAM+외란 (DP → EADP) |
+|---|---|---|---|---|
+| Open-And-Retrieve | 100 | 87 → 97 | 82 → 100 | 68 → 93 |
+| Peg-in-Hole | 100 | 100 → 100 | 100 → 100 | 30 → 66 |
+| Rotate-Valve | 100 | 100 → 100 | 97 → 100 | 77 → 93 |
+| Pick-And-Place | 90 | 82 → 87 | 60 → 77 | 33 → 53 |
+| **네 과제 평균** | **98** | **92 → 96** | **85 → 94** | **52 → 76** |
+
+표는 두 갈래로 읽힙니다. 먼저 Oracle과 기준 확산 정책의 격차가 곧 그 몸체의 UMI 적합성입니다. UR10e는 98과 92로 격차가 작아 Oracle에 바짝 붙어 있는 반면, UAM은 격차가 훨씬 크고 외란이 들어가면 52까지 떨어집니다.
+
+다음으로 EADP의 이득은 제약이 클수록 커집니다. UR10e에서는 92 → 96으로 소폭이지만, UAM에서는 85 → 94로 9% 이상, UAM+외란에서는 52 → 76으로 20% 이상 회복합니다.
+
+과제별로 보면 이유가 드러납니다. Open-and-Retrieve의 실패는 캐비닛 문에 집게가 걸리거나 캔을 위에 놓을 때 나오는데, UR10e는 기구학 한계 근처에서 느려지고 UAM은 관성 탓에 오버슛해 부딪칩니다. Peg-in-Hole에서는 UAM+외란만 실패합니다. 구멍이 평균 잡음보다 작아 외란 견고성의 시험대 노릇을 하는 셈입니다. 여기서 EADP는 실행할 수 없는 삽입 시도를 사실상 기각하고 되는 타이밍만 골라내는 식으로 신뢰성을 크게 올립니다.
+
+![그림 7 — 유도 세기 절제 실험](https://arxiv.org/html/2510.02614/figures/delta_ablation_v1.png)
+
+*그림 7 — UAM+외란 조건에서 전역 유도 스케일 λ를 바꿔가며 본 성공률입니다.*
+
+$\lambda$ 는 과제 지향 궤적 생성과 제어기 실행 가능성 사이의 대가 관계를 조절합니다. 유도가 아예 없으면($\lambda = 0$) 외란 아래에서 성능이 무너지고, $\lambda$ 를 키우면 성공률이 꾸준히 오릅니다. 다만 지나치게 크면 복원 과정을 너무 옭아매 보수적인 분포 밖 거동으로 빠지고, 그림에서 정점은 $\lambda = 1.5$ 근처입니다.
+
+---
+
+## 7. 실세계 — 진짜 드론 위에서
+
+실험 기체는 4자유도 매니퓰레이터와 집게를 단 완전 구동 헥사로터입니다. 모션 캡처가 기체 상태를 주고 말단장치 상태는 순기구학으로 계산합니다. 정책 추론은 NVIDIA RTX 4070Ti에서 약 1.5 Hz, MPC는 CPU에서 50 Hz로 돌며 비동기로 발행되는 기준 웨이포인트 사이를 보간합니다.
+
+![그림 8 — 실세계 결과](https://arxiv.org/html/2510.02614/exp_v6.png)
+
+*그림 8 — 시행별 성공과 실패를 테두리 색으로 표시했습니다.*
+
+페그 삽입은 4 cm 구멍에 2 cm 페그를 넣는 과제로, 시작 위치를 무작위화하고 3분 제한을 걸었습니다. 기준 확산 정책은 페그를 떨어뜨리거나 시간을 넘겨 전부 실패했고, EADP는 다섯 번 모두 성공(5/5)했습니다. 제어기 되먹임 덕에 일찍 놓치는 일이 없어지고 삽입 타이밍도 좋아졌습니다.
+
+레몬 수확은 무작위 위치의 레몬을 따 바구니에 넣습니다. EADP가 5회 중 4회 성공했고, 하나뿐인 실패는 덜 익은 초록 레몬을 골랐을 때입니다. 그때는 익은 노란 레몬이 초기 상태에서 카메라 시야 가장자리에 걸쳐 있었습니다.
+
+전구 설치는 전구를 소켓에 끝까지 돌려 넣은 뒤 스위치를 눌러 확인하는 과제로, 실제 시간으로 3분이 넘게 걸립니다. EADP가 3회 모두 성공(3/3)했습니다.
+
+처음 보는 환경으로의 일반화도 확인합니다. 시험 환경과 다른 여러 실세계 장소에서 시연을 모은 뒤, 새 환경에서 방해 요소를 점점 늘려가며 평가했습니다. 5 cm 구멍 조건에서 EADP는 페그를 일관되게 찾아 정렬했고 5회 중 4회 성공했습니다. 하나뿐인 실패는 드론이 구멍 외곽 구조물에 부딪쳐 빗나간 경우입니다.
+
+---
+
+## 8. 저자가 밝힌 한계
+
+첫째, 주파수가 맞지 않습니다. 정책 추론은 약 1~2 Hz인데 제어는 50 Hz로 돕니다. 저자들은 이 시간 간극을 스트리밍 확산 기법이나 연속 유도 방식으로 좁힐 수 있으리라 봅니다.
+
+둘째, 제어기 종류가 아직 둘뿐입니다. 지금은 역기구학과 MPC로만 보였지만, 틀 자체는 해석적 제어기에 묶이지 않아 학습된 동역학 모델을 쓰는 제어기로도 넓힐 수 있습니다.
+
+셋째, 표본 기반 유도는 값이 비쌉니다. MPPI 같은 방식이 기울기 유도의 대안이 될 수 있고 시뮬레이션에서 비슷한 결과도 내지만, CPU에서 MPC를 반복 평가하는 비용을 실제로는 감당하기 어렵습니다.
+
+---
+
+## 9. 정리 — 계보에서 UMI-on-Air의 자리
+
+이 논문이 계보에 더한 것은 **배포의 축**입니다.
+
+- **간극은 수집이 아니라 실행에 있습니다.** 몸체 무관 정책을 만드는 데까지는 이미 성공했고, 남은 문제는 그것을 제약이 큰 몸체에 올리는 일입니다.
+- **통신을 양방향으로 바꿉니다.** 저수준 제어기가 추종 비용의 기울기를 되먹여, 고수준 정책의 표본화를 실행 가능한 쪽으로 끌어당깁니다.
+- **학습은 건드리지 않습니다.** 몸체 정보는 추론 시점에만 들어오므로 재학습 없이 로봇을 갈아 끼웁니다.
+- **UMI 적합성이라는 자를 세웁니다.** Oracle과 기준 정책의 격차로 몸체를 줄 세우고, 제약이 클수록 EADP의 이득이 크다는 것을 정량화합니다.
+
+계보 안에서 이 편은 [Mobile UMI](/blog/paper-review/umi/mobile-umi)가 열어둔 이동조작의 연장선에 있으면서, 그보다 훨씬 제약이 큰 몸체를 상대합니다. [LEGATO](/blog/paper-review/umi/legato)가 학습 손실과 저수준 최적화에서 몸체 차이를 흡수했다면, UMI-on-Air는 **확산 표본화 과정 안에서** 흡수합니다. 같은 문제를 서로 다른 층에서 푸는 두 답을 나란히 놓고 보면 계보의 결이 선명해집니다. 계보의 출발점이 궁금하다면 [원조 UMI 논문해석](/blog/paper-review/umi/umi)으로 돌아가면 됩니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/touch-in-the-wild","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"10편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/farm","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"12편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

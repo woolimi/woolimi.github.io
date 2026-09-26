@@ -1,0 +1,635 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Attention Is All You Need"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Attention Is All You Need\",\"description\":\"순환 신경망 없이 주의(attention) 연산만으로 문장을 읽고 생성하는 Transformer를 처음 제안한 논문을, 토큰과 임베딩부터 질의·키·값, 다중 헤드 주의, 위치 부호화까지 원본 그림과 함께 차례로 풀어봅니다.\",\"image\":\"https://arxiv.org/html/1706.03762v7/Figures/ModalNet-21.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/attention-is-all-you-need\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"1편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Attention Is All You Need"}]
+10:Td158,
+## 들어가며
+
+[RT-1](/blog/paper-review/vla/rt-1), [RT-2](/blog/paper-review/vla/rt-2), [OpenVLA](/blog/paper-review/vla/openvla), [π0](/blog/paper-review/vla/pi0)는 모두 Transformer라는 신경망 구조를 씁니다. 로봇 행동을 토큰으로 내놓는 방식, 이미지와 지시문을 한 줄의 토큰열로 이어 붙이는 방식, 모델을 수십억 파라미터로 키우는 방식이 전부 이 구조를 전제로 합니다. 이 논문은 그 Transformer를 처음 제안했습니다.
+
+2017년 당시 기계 번역은 **순환 신경망(recurrent neural network, RNN)** 이 주류였습니다. 순환 신경망은 문장을 앞에서부터 한 단어씩 읽기 때문에 긴 문장일수록 학습이 느리고, 멀리 떨어진 단어 사이의 관계를 배우기 어려웠습니다. 이 논문은 순환 구조를 완전히 없애고, 문장 안의 모든 단어가 다른 모든 단어를 한 번에 참고하는 **주의(attention)** 연산만으로 번역 모델을 만들었습니다. 그 결과 번역 품질은 당시 최고 기록을 넘었고 학습 시간은 크게 줄었습니다.
+
+📄 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin (전원 공동 기여, 저자 순서 무작위) / Google Brain·Google Research·University of Toronto, NeurIPS 2017
+
+학습·평가 코드는 [github.com/tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)에 공개돼 있습니다. arxiv 식별자는 1706.03762이고, 이 글은 2023년 8월에 올라온 v7을 기준으로 합니다.
+
+### 초록 요약
+
+당시 성능이 좋은 번역 모델은 순환 신경망이나 합성곱 신경망(convolutional neural network)으로 부호기(encoder)와 복호기(decoder)를 만들고, 둘 사이를 주의 연산으로 연결했습니다. 저자들은 순환과 합성곱을 모두 빼고 주의 연산만 남긴 구조를 제안하고 Transformer라고 이름 붙였습니다.
+
+영어→독일어 번역(WMT 2014)에서는 BLEU 28.4를 기록해 여러 모델을 합친 앙상블(ensemble)까지 포함한 기존 최고 기록을 2 BLEU 넘게 앞섰습니다. 영어→프랑스어 번역에서는 GPU 8장으로 3.5일 학습해 단일 모델 최고 기록인 BLEU 41.8을 세웠고, 학습 비용은 기존 최고 모델들의 일부에 그쳤습니다. 번역이 아닌 영어 구문 분석(constituency parsing)에도 적용해, 학습 데이터가 많을 때와 적을 때 모두 좋은 결과를 얻었습니다.
+
+---
+
+## 1. 배경 — 순차 계산의 한계
+
+### 순환 신경망의 처리 방식
+
+번역 모델은 입력 문장(영어)을 받아 출력 문장(독일어)을 만듭니다. 이런 문제를 **시퀀스 변환(sequence transduction)** 이라고 부릅니다.
+
+순환 신경망은 문장의 $t$번째 단어를 처리할 때, 바로 앞 단계의 은닉 상태 $h_{t-1}$과 현재 단어를 입력으로 받아 새 은닉 상태 $h_t$를 계산합니다. 은닉 상태(hidden state)는 지금까지 읽은 단어들의 정보를 담은 고정 길이 벡터입니다. 문장이 10단어든 50단어든 같은 크기의 벡터 하나를 한 단어마다 새로 갱신합니다. $h_t$를 구하려면 $h_{t-1}$이 먼저 있어야 하고, $h_{t-1}$을 구하려면 $h_{t-2}$가 먼저 있어야 합니다. 그래서 한 문장 안의 단어들은 GPU로 동시에 계산할 수 없고, 반드시 앞에서부터 차례로 계산해야 합니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "x1", "label": "단어 1", "row": 0},
+    {"id": "x2", "label": "단어 2", "row": 0},
+    {"id": "x3", "label": "단어 3", "row": 0},
+    {"id": "x4", "label": "단어 4", "row": 0},
+    {"id": "h1", "label": "h₁", "color": "blue", "row": 1},
+    {"id": "h2", "label": "h₂", "color": "blue", "row": 1},
+    {"id": "h3", "label": "h₃", "color": "blue", "row": 1},
+    {"id": "h4", "label": "h₄", "color": "blue", "row": 1}
+  ],
+  "edges": [
+    {"from": "x1", "to": "h1"},
+    {"from": "x2", "to": "h2"},
+    {"from": "x3", "to": "h3"},
+    {"from": "x4", "to": "h4"},
+    {"from": "h1", "to": "h2", "label": "차례로"},
+    {"from": "h2", "to": "h3", "label": "차례로"},
+    {"from": "h3", "to": "h4", "label": "차례로"}
+  ],
+  "height": 220
+}
+```
+
+첫째, 학습이 느립니다. 문장이 길어질수록 차례로 계산해야 하는 단계가 늘어나고, 메모리 한계 때문에 여러 문장을 한 번에 묶어 계산하는 것도 제한됩니다. 계산을 쪼개는 기법이나 필요한 부분만 계산하는 기법으로 속도를 개선한 연구가 있었지만, 순서대로 계산해야 한다는 조건 자체는 그대로였습니다.
+
+둘째, 멀리 떨어진 단어 사이의 관계를 배우기 어렵습니다. 1번 단어의 정보가 50번 단어에 닿으려면 은닉 상태를 49번 거쳐야 합니다. 학습 신호가 오가는 경로가 길수록 그 관계를 학습하기 어렵다는 것이 알려져 있었습니다.
+
+### 이전의 주의 연산과 합성곱 모델
+
+주의 연산은 이 논문 이전에도 있었습니다. 번역 모델이 출력 단어를 만들 때 입력 문장의 어느 단어를 참고할지 가중치로 정하는 방법으로, 거리와 상관없이 두 단어를 직접 연결할 수 있습니다. 다만 대부분의 모델은 이 주의 연산을 순환 신경망에 덧붙여 썼기 때문에 순차 계산 문제는 남아 있었습니다.
+
+순차 계산을 줄이려는 다른 시도로 Extended Neural GPU, ByteNet, ConvS2S 같은 합성곱 기반 모델이 있었습니다. 합성곱은 모든 위치를 동시에 계산할 수 있지만, 한 층이 보는 범위가 좁습니다. 멀리 떨어진 두 위치를 연결하려면 층을 여러 개 쌓아야 하고, 필요한 연산 수가 ConvS2S에서는 거리에 비례해, ByteNet에서는 거리의 로그에 비례해 늘어납니다.
+
+Transformer에서는 이 연산 수가 거리와 상관없이 일정합니다. 대신 여러 위치의 정보를 가중 평균하면서 세부 정보가 흐려지는 문제가 생기는데, 논문은 이를 뒤에서 설명할 다중 헤드 주의로 보완합니다. 저자들은 Transformer를 순환 신경망이나 합성곱 없이 **자기 주의(self-attention)** 만으로 입력과 출력의 표현을 계산하는 첫 번째 시퀀스 변환 모델이라고 소개합니다.
+
+---
+
+## 2. 기본 개념 — 토큰, 임베딩, 부호기와 복호기
+
+### 토큰과 임베딩
+
+신경망은 글자를 직접 계산할 수 없으므로 문장을 먼저 작은 단위로 자릅니다. 이 단위를 **토큰(token)** 이라고 합니다. 이 논문은 단어를 자주 나오는 조각으로 나누는 바이트 쌍 부호화(byte-pair encoding)와 워드피스(word-piece) 방식을 씁니다. 예를 들어 드물게 나오는 긴 단어는 여러 조각으로 나뉘고, 흔한 단어는 한 토큰이 됩니다.
+
+| 번역 방향 | 학습 데이터 | 토큰 어휘 크기 |
+|----------|-----------|--------------|
+| 영어→독일어 | WMT 2014, 약 450만 문장 쌍 | 입력·출력 공용 약 37000개 (바이트 쌍 부호화) |
+| 영어→프랑스어 | WMT 2014, 3600만 문장 | 32000개 (워드피스) |
+
+각 토큰에는 어휘표 안의 번호가 붙습니다. 영어→독일어 모델이라면 약 37000개 토큰에 차례로 번호가 매겨집니다. 모델은 이 번호를 그대로 계산에 쓰지 않고, 번호마다 숫자 512개로 이루어진 목록 하나를 대응시킵니다. 이 숫자 목록, 곧 벡터를 **임베딩(embedding)** 이라고 합니다.
+
+실제 구현은 가로 512칸, 세로 약 37000줄짜리 표 하나입니다. 토큰 번호가 들어오면 그 번호에 해당하는 줄을 꺼내 씁니다.
+
+| 토큰 번호 | 토큰 | 임베딩 (숫자 512개) |
+|----------|------|-------------------|
+| 0 | `the` | 0.12, −0.48, 0.03, …, 0.91 |
+| 1 | `cat` | −0.35, 0.22, 0.67, …, −0.05 |
+| … | … | … |
+| 36999 | `ing` | 0.08, 0.14, −0.72, …, 0.30 |
+
+*표의 숫자는 모양을 보여 주기 위해 임의로 넣은 값입니다.*
+
+표의 숫자는 처음에 무작위로 채워지고, 번역을 학습하는 동안 모델의 다른 가중치와 함께 조정됩니다. 학습이 끝나면 비슷한 문맥에서 쓰이는 토큰끼리 비슷한 숫자 목록을 갖게 됩니다. 어휘표에 통째로 없는 단어는 앞 문단처럼 여러 토큰으로 나뉘므로, 어떤 단어든 이 벡터 몇 개를 이어 붙인 열로 표현됩니다.
+
+512라는 크기는 저자들이 정한 설계값입니다. 같은 논문의 큰 모델은 1024차원을 쓰고, 다음 편의 GPT-3 175B는 12288차원을 씁니다. 차원이 클수록 토큰 하나에 담을 수 있는 정보가 늘어나는 대신 계산량도 늘어납니다. 이 크기를 $d_{\text{model}}$로 적고, 기본 모델에서는 $d_{\text{model}}=512$입니다.
+
+모델 안의 모든 층은 토큰마다 512차원 벡터를 받아 같은 크기의 벡터를 내놓습니다. 크기를 통일하는 이유는 뒤에서 설명할 잔차 연결이 층의 입력과 출력을 더하기 때문입니다. 두 벡터를 더하려면 길이가 같아야 합니다.
+
+논문은 입력 임베딩, 출력 임베딩, 그리고 복호기 마지막에서 다음 토큰 확률을 계산하는 선형 변환이 같은 가중치 행렬을 공유하게 했습니다. 복호기 마지막 층은 토큰 위치마다 512차원 벡터를 내놓습니다. 이 벡터를 임베딩 표의 약 37000줄과 하나씩 내적(4절)하면 어휘의 토큰마다 점수가 하나씩 나오고, 이 점수를 소프트맥스(4절)에 넣으면 다음 토큰의 확률이 됩니다. 입력 쪽에서 토큰 번호로 줄을 꺼내는 표와 출력 쪽에서 점수를 계산하는 표가 같습니다.
+
+임베딩 층에서는 꺼낸 벡터에 $\sqrt{d_{\text{model}}}=\sqrt{512}\approx 22.6$을 곱해 씁니다. 논문은 이 값을 곱하는 이유를 따로 적지 않았습니다.
+
+### 부호기와 복호기
+
+번역 모델은 보통 **부호기(encoder)** 와 **복호기(decoder)** 로 나뉩니다. 부호기는 입력 문장의 토큰열 $(x_1, \ldots, x_n)$을 받아 같은 길이의 벡터열 $\mathbf{z}=(z_1, \ldots, z_n)$로 바꿉니다. 복호기는 $\mathbf{z}$를 참고해 출력 문장 $(y_1, \ldots, y_m)$을 한 토큰씩 만듭니다.
+
+복호기는 다음 토큰을 만들 때 자기가 앞서 만든 토큰들을 다시 입력으로 받습니다. "Ich" 를 만든 뒤에는 "Ich" 를 입력에 넣어 다음 토큰을 만들고, 그다음에는 "Ich bin" 을 넣어 그다음 토큰을 만드는 식입니다. 이렇게 앞선 출력을 입력으로 받아 다음 출력을 만드는 방식을 **자기회귀(auto-regressive)** 생성이라고 합니다.
+
+학습할 때는 정답 번역이 이미 있으므로, 복호기 입력을 정답 문장을 한 칸 오른쪽으로 민 형태로 만듭니다. 맨 앞에 문장 시작 표시를 넣으면 위치마다 입력과 맞혀야 할 토큰이 다음처럼 짝지어집니다.
+
+| 위치 | 1 | 2 | 3 | 4 |
+|------|---|---|---|---|
+| 복호기 입력 | `<시작>` | Ich | bin | Student |
+| 맞혀야 할 토큰 | Ich | bin | Student | `<끝>` |
+
+*`<시작>`·`<끝>`은 문장의 시작과 끝을 나타내는 특수 토큰이고, 예시 문장은 설명을 위해 고른 것입니다.*
+
+위치 3은 입력 "bin" 을 보고 "Student" 를 맞혀야 합니다. 그런데 위치 3이 위치 4의 입력 "Student" 를 참고할 수 있으면 답을 그대로 베낄 수 있습니다. 3절 복호기 층의 가림 처리가 이것을 막습니다.
+
+---
+
+## 3. 모델 구조 — 부호기 6층과 복호기 6층
+
+![그림 1 — Transformer 모델 구조](https://arxiv.org/html/1706.03762v7/Figures/ModalNet-21.png)
+
+*그림 1 — 왼쪽이 부호기, 오른쪽이 복호기이며 각각 같은 층을 N번 쌓습니다.*
+
+위 그림은 Transformer 전체 구조를 보여줍니다. 왼쪽 부호기와 오른쪽 복호기가 각각 같은 구조의 층을 $N=6$개씩 쌓은 형태입니다. 입력 문장은 왼쪽 아래로 들어가고, 출력 문장의 다음 토큰 확률은 오른쪽 위에서 나옵니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "src",  "label": "입력 토큰열", "sub": "영어 문장", "row": 0},
+    {"id": "tgt",  "label": "앞서 생성한 출력 토큰열", "sub": "한 칸 오른쪽으로 밀림", "row": 0},
+    {"id": "semb", "label": "임베딩 + 위치 부호화", "sub": "512차원", "row": 1},
+    {"id": "temb", "label": "임베딩 + 위치 부호화", "sub": "512차원", "row": 1},
+    {"id": "enc",  "label": "부호기 층 × 6", "sub": "자기 주의 → 순방향 신경망", "color": "blue", "row": 2},
+    {"id": "dec",  "label": "복호기 층 × 6", "sub": "가린 자기 주의 → 부호기-복호기 주의 → 순방향 신경망", "color": "orange", "row": 2},
+    {"id": "out",  "label": "선형 변환 + 소프트맥스", "sub": "다음 토큰 확률", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "src",  "to": "semb"},
+    {"from": "tgt",  "to": "temb"},
+    {"from": "semb", "to": "enc"},
+    {"from": "temb", "to": "dec"},
+    {"from": "enc",  "to": "dec", "label": "키·값 제공"},
+    {"from": "dec",  "to": "out"}
+  ],
+  "height": 400
+}
+```
+
+### 부호기 층
+
+부호기 층 하나는 하위 층(sub-layer) 두 개로 이루어집니다. 첫 번째는 다중 헤드 자기 주의이고, 두 번째는 위치마다 따로 적용하는 순방향 신경망(feed-forward network)입니다.
+
+각 하위 층에는 **잔차 연결(residual connection)** 과 **층 정규화(layer normalization)** 가 붙습니다.
+
+잔차 연결은 하위 층의 입력 $x$를 하위 층 출력에 그대로 더하는 처리입니다. 하위 층은 입력 전체를 새로 만드는 대신 입력에 더할 변화량만 계산하면 됩니다. 층을 여러 개 쌓아도 입력 정보가 덧셈 경로로 다음 층까지 전달됩니다. 이미지 인식 모델 ResNet에서 먼저 쓰인 기법입니다.
+
+층 정규화는 토큰 하나의 512개 숫자에서 평균과 표준편차를 구해, 각 숫자에서 평균을 빼고 표준편차로 나누는 연산입니다. 그 뒤 차원마다 학습하는 배율을 곱하고 이동값을 더합니다. 층을 거칠 때마다 숫자의 크기가 계속 커지거나 작아지지 않도록, 다음 층에 들어가는 값의 범위를 비슷하게 유지합니다.
+
+| 단계 | 값 (4차원 예시) |
+|------|---------------|
+| 입력 $x$ | 1.0, 2.0, 3.0, 4.0 |
+| 하위 층 출력 $\mathrm{Sublayer}(x)$ | 0.5, −1.0, 0.5, 2.0 |
+| 잔차 연결 $x + \mathrm{Sublayer}(x)$ | 1.5, 1.0, 3.5, 6.0 |
+| 층 정규화 (배율 1, 이동값 0) | −0.76, −1.02, 0.25, 1.52 |
+
+*표의 숫자는 계산 과정을 보여 주기 위한 임의의 예시 값이고, 실제 모델에서는 512차원입니다.*
+
+하위 층의 계산을 $\mathrm{Sublayer}(x)$라고 하면 최종 출력은 다음과 같습니다.
+
+$$
+\mathrm{LayerNorm}(x + \mathrm{Sublayer}(x))
+$$
+
+입력 $x$와 출력 $\mathrm{Sublayer}(x)$를 더하려면 둘의 차원이 같아야 합니다. 모든 하위 층과 임베딩 층이 512차원을 출력하도록 맞춘 이유가 여기에 있습니다.
+
+### 복호기 층
+
+복호기 층에는 하위 층이 하나 더 있어 모두 세 개입니다. 부호기와 같은 자기 주의와 순방향 신경망 사이에, 부호기 출력을 참고하는 **부호기-복호기 주의(encoder-decoder attention)** 가 들어갑니다. 잔차 연결과 층 정규화는 부호기와 똑같이 붙습니다.
+
+복호기의 자기 주의에는 **가림(masking)** 이 추가됩니다. $i$번째 위치가 $i$보다 뒤에 있는 위치를 참고하지 못하게 막는 처리입니다. 출력 임베딩을 한 칸 오른쪽으로 밀어 넣는 것과 합치면, $i$번째 위치의 예측은 $i$보다 앞에 있는 이미 알려진 출력에만 의존합니다. 가림을 계산에 넣는 방법은 4절 끝에서 설명합니다.
+
+---
+
+## 4. 주의 연산 — 질의·키·값
+
+### 주의 연산의 정의
+
+논문은 주의 함수를 **질의(query)** 하나와 **키(key)**·**값(value)** 쌍 여러 개를 받아 출력 하나를 내는 함수로 정의합니다. 질의, 키, 값, 출력은 모두 벡터입니다. 출력은 값들의 가중합이고, 각 값에 붙는 가중치는 질의와 그 값에 짝지어진 키가 얼마나 잘 맞는지로 정합니다.
+
+문장 "The Law will never be perfect, but its application should be just" 에서 "its" 의 표현을 새로 계산하는 경우를 예로 들 수 있습니다. "its" 에서 만든 질의 벡터를 문장 안 모든 토큰의 키 벡터와 하나씩 비교해 점수를 매깁니다. "Law" 의 키와 점수가 높게 나오면 "Law" 의 값 벡터에 큰 가중치가 붙습니다. 모든 토큰의 값 벡터를 이 가중치로 더하면, "its" 가 가리키는 대상인 "Law" 의 정보가 많이 섞인 새 벡터가 나옵니다. 부록 그림 4에 실제 학습된 모델이 이 문장에서 계산한 가중치가 실려 있습니다.
+
+질의, 키, 값은 같은 토큰의 벡터에 서로 다른 학습 가능한 행렬을 곱해 만듭니다. 기본 모델에서 헤드 하나의 질의 행렬 $W^Q$는 512 × 64 크기라, 512차원 토큰 벡터에 곱하면 64차원 질의 벡터가 나옵니다. 키 행렬 $W^K$와 값 행렬 $W^V$도 크기는 같고 숫자만 다릅니다. 세 행렬의 숫자는 임베딩 표처럼 무작위로 시작해 학습으로 정해집니다. 64라는 크기는 아래 다중 헤드 주의 절에서 설명합니다.
+
+한 토큰이 다른 토큰을 찾을 때 쓰는 벡터(질의), 다른 토큰에게 비교 대상으로 내놓는 벡터(키), 선택됐을 때 실제로 전달하는 내용(값)을 따로 학습하게 한 것입니다. 이 역할 이름은 저자들이 붙인 것이고, 모델에 역할을 따로 지정하는 장치는 없습니다. 세 벡터가 계산식의 서로 다른 자리에 들어가기 때문에 학습 결과로 서로 다른 역할을 맡게 됩니다.
+
+### 크기 조정 내적 주의
+
+![그림 2 왼쪽 — 크기 조정 내적 주의](https://arxiv.org/html/1706.03762v7/Figures/ModalNet-19.png)
+
+*그림 2 왼쪽 — 질의와 키의 내적을 크기 조정한 뒤 소프트맥스로 가중치를 구해 값에 곱합니다.*
+
+논문이 쓰는 주의 연산은 **크기 조정 내적 주의(scaled dot-product attention)** 입니다. 질의와 키는 $d_k$차원, 값은 $d_v$차원입니다. 질의와 모든 키의 내적을 구하고, 각각을 $\sqrt{d_k}$로 나눈 뒤, 소프트맥스(softmax) 함수에 넣어 합이 1인 가중치를 얻습니다. 이 가중치로 값을 가중합한 것이 출력입니다.
+
+**내적(dot product)** 은 길이가 같은 두 벡터에서 같은 자리의 숫자끼리 곱해 모두 더한 값입니다. 두 벡터가 비슷한 방향을 가리킬수록 커집니다. **소프트맥스**는 점수 목록 $s_1, \ldots, s_n$의 각 점수를 $e^{s_j} / \sum_k e^{s_k}$로 바꾸는 함수입니다. 결과는 모두 0보다 크고 합이 1이며, 점수가 높은 항목일수록 큰 몫을 받습니다.
+
+토큰 3개짜리 문장에서 토큰 1의 출력을 계산하는 과정을 숫자로 따라가면 다음과 같습니다. 질의·키·값은 설명을 위해 2차원으로 줄였고, 토큰 1의 질의는 (1, 1)입니다.
+
+| | 토큰 1 | 토큰 2 | 토큰 3 |
+|---|--------|--------|--------|
+| 키 | (1, 1) | (1, 0) | (0, −1) |
+| 값 | (10, 0) | (0, 10) | (5, 5) |
+| 질의 (1, 1)과 키의 내적 | 2 | 1 | −1 |
+| $\sqrt{d_k}=\sqrt{2}$로 나눈 점수 | 1.41 | 0.71 | −0.71 |
+| 소프트맥스 가중치 | 0.62 | 0.31 | 0.07 |
+
+*표의 숫자는 계산 과정을 보여 주기 위한 임의의 예시 값입니다.*
+
+출력은 $0.62 \times (10, 0) + 0.31 \times (0, 10) + 0.07 \times (5, 5) \approx (6.6, 3.4)$입니다. 질의와 가장 잘 맞는 토큰 1의 값이 가장 많이 들어가지만, 출력은 값 하나를 고른 것이 아니라 세 값을 가중치대로 섞은 새 벡터입니다. 실제 모델에서는 이 계산이 문장의 모든 토큰에 대해 동시에 일어납니다.
+
+실제 구현에서는 질의 여러 개를 행렬 $Q$에, 키와 값을 각각 행렬 $K$와 $V$에 모아 한 번에 계산합니다.
+
+$$
+\mathrm{Attention}(Q, K, V) = \mathrm{softmax}\left(\frac{QK^{T}}{\sqrt{d_k}}\right)V
+$$
+
+```flow
+{
+  "nodes": [
+    {"id": "q",    "label": "Q", "sub": "질의 행렬", "row": 0},
+    {"id": "k",    "label": "K", "sub": "키 행렬", "row": 0},
+    {"id": "v",    "label": "V", "sub": "값 행렬", "row": 0},
+    {"id": "mul1", "label": "행렬곱 QKᵀ", "sub": "모든 질의·키 쌍의 점수", "color": "blue", "row": 1},
+    {"id": "scale","label": "√dₖ로 나눔", "color": "blue", "row": 2},
+    {"id": "mask", "label": "가림 (복호기만)", "sub": "뒤쪽 위치 점수 = −∞", "row": 3},
+    {"id": "soft", "label": "소프트맥스", "sub": "행마다 합 1인 가중치", "color": "orange", "row": 4},
+    {"id": "mul2", "label": "행렬곱 × V", "sub": "값의 가중합", "color": "green", "row": 5}
+  ],
+  "edges": [
+    {"from": "q",     "to": "mul1"},
+    {"from": "k",     "to": "mul1"},
+    {"from": "mul1",  "to": "scale"},
+    {"from": "scale", "to": "mask"},
+    {"from": "mask",  "to": "soft"},
+    {"from": "soft",  "to": "mul2"},
+    {"from": "v",     "to": "mul2"}
+  ],
+  "height": 560
+}
+```
+
+$QK^{T}$의 $i$행 $j$열 값은 $i$번째 질의와 $j$번째 키의 내적입니다. 문장 길이가 $n$이면 이 행렬은 $n \times n$ 크기이고, 행마다 소프트맥스를 적용하면 "$i$번째 토큰이 $j$번째 토큰을 얼마나 참고하는가" 를 담은 가중치 표가 됩니다.
+
+### $\sqrt{d_k}$로 나누는 이유
+
+당시 널리 쓰이던 주의 함수는 은닉층 하나짜리 순방향 신경망으로 점수를 계산하는 **덧셈 주의(additive attention)** 와, 내적으로 점수를 계산하는 **내적 주의(dot-product attention)** 였습니다. 이론상 계산 복잡도는 비슷하지만, 내적 주의는 고도로 최적화된 행렬곱 코드로 구현할 수 있어 실제로 훨씬 빠르고 메모리도 적게 씁니다. 논문의 방식은 내적 주의에 $\frac{1}{\sqrt{d_k}}$ 곱하기만 추가한 것입니다.
+
+$d_k$가 작을 때는 두 방식의 성능이 비슷하지만, $d_k$가 크면 크기 조정이 없는 내적 주의가 덧셈 주의보다 성능이 떨어진다는 선행 결과가 있었습니다. 저자들은 $d_k$가 크면 내적 값 자체가 커지고, 소프트맥스 입력이 커지면 기울기가 매우 작은 구간으로 들어가기 때문이라고 봅니다.
+
+내적이 커지는 이유는 논문 각주에 계산이 있습니다. 질의 $q$와 키 $k$의 각 성분이 평균 0, 분산 1인 독립 확률변수라고 하면, 내적 $q \cdot k = \sum_{i=1}^{d_k} q_i k_i$는 평균 0, 분산 $d_k$가 됩니다. 표준편차는 $\sqrt{d_k}$이므로, 내적을 $\sqrt{d_k}$로 나누면 차원 수와 상관없이 분산이 1로 돌아옵니다.
+
+기본 모델의 $d_k=64$에서는 내적의 표준편차가 8입니다. 크기 조정 없이 점수가 (8, 0, 0)으로 나오면 소프트맥스 가중치는 약 (0.9993, 0.0003, 0.0003)이 되어 거의 한 토큰만 선택됩니다. 이 상태에서는 점수를 조금 바꿔도 가중치가 거의 변하지 않으므로, 학습 중에 점수를 고치라는 신호인 기울기가 매우 작아집니다. 8로 나눈 (1, 0, 0)이면 가중치가 약 (0.58, 0.21, 0.21)이라 점수를 바꾸면 가중치도 따라 바뀝니다.
+
+*위 점수는 계산 과정을 보여 주기 위한 임의의 예시 값입니다.*
+
+### 다중 헤드 주의
+
+![그림 2 오른쪽 — 다중 헤드 주의](https://arxiv.org/html/1706.03762v7/Figures/ModalNet-20.png)
+
+*그림 2 오른쪽 — 주의 연산 h개를 서로 다른 선형 투영으로 병렬 실행한 뒤 이어 붙여 다시 투영합니다.*
+
+512차원 질의·키·값으로 주의 연산을 한 번만 하면, 한 토큰이 참고하는 방식이 가중치 표 하나로 정해집니다. 그러면 여러 위치의 정보가 한 번의 가중 평균으로 섞여 서로 다른 종류의 관계를 따로 표현하기 어렵습니다.
+
+**다중 헤드 주의(multi-head attention)** 는 질의·키·값을 서로 다른 학습 가능한 행렬로 $h$번 선형 투영해, 각각 $d_k$, $d_k$, $d_v$차원의 작은 버전을 만듭니다. 각 버전에서 주의 연산을 병렬로 실행해 $d_v$차원 출력을 $h$개 얻고, 이것을 이어 붙인 뒤 한 번 더 선형 투영합니다. 주의 연산 한 벌을 **헤드(head)** 라고 부릅니다.
+
+$$
+\begin{aligned}
+\mathrm{MultiHead}(Q, K, V) &= \mathrm{Concat}(\mathrm{head}_1, \ldots, \mathrm{head}_h)W^{O} \\
+\text{where}\ \mathrm{head}_i &= \mathrm{Attention}(QW^{Q}_i, KW^{K}_i, VW^{V}_i)
+\end{aligned}
+$$
+
+투영 행렬의 크기는 $W^{Q}_i \in \mathbb{R}^{d_{\text{model}} \times d_k}$, $W^{K}_i \in \mathbb{R}^{d_{\text{model}} \times d_k}$, $W^{V}_i \in \mathbb{R}^{d_{\text{model}} \times d_v}$, $W^{O} \in \mathbb{R}^{hd_v \times d_{\text{model}}}$입니다.
+
+| 설정 | 값 |
+|------|-----|
+| 헤드 수 $h$ | 8 |
+| 헤드당 $d_k = d_v$ | $d_{\text{model}}/h = 64$ |
+| 이어 붙인 뒤 차원 | $8 \times 64 = 512$ |
+
+헤드마다 차원을 8분의 1로 줄였으므로, 헤드 8개의 전체 계산량은 512차원 헤드 하나로 계산할 때와 비슷합니다.
+
+크기를 따라가면 다음과 같습니다. 문장 길이가 $n$일 때 헤드 하나는 $n$개 토큰의 512차원 벡터를 64차원 질의·키·값으로 투영하고, $n \times n$ 가중치 표 하나와 $n \times 64$ 출력을 만듭니다. 헤드 8개의 출력을 이어 붙이면 다시 $n \times 512$가 되고, 여기에 $W^{O}$(512 × 512)를 곱해 하위 층 출력으로 내보냅니다. 헤드들은 512차원 벡터를 64개씩 8조각으로 잘라 나눠 갖지 않습니다. 헤드마다 512차원 전체에 서로 다른 행렬을 곱합니다.
+
+어떤 헤드가 어떤 관계를 맡을지는 미리 정하지 않습니다. 헤드마다 투영 행렬이 다르게 학습되므로 결과적으로 어떤 헤드는 문법 관계를, 어떤 헤드는 지시 대상을 찾는 식으로 서로 다른 관계를 학습합니다. 부록 그림 3~5가 실제로 헤드마다 다른 패턴을 보여줍니다.
+
+### 모델 안에서 주의 연산이 쓰이는 세 자리
+
+| 위치 | 질의 출처 | 키·값 출처 | 참고 범위 |
+|------|----------|-----------|----------|
+| 부호기 자기 주의 | 부호기 이전 층 출력 | 같은 이전 층 출력 | 입력 문장의 모든 위치 |
+| 복호기 자기 주의 | 복호기 이전 층 출력 | 같은 이전 층 출력 | 자기 위치까지의 앞쪽 위치만 |
+| 부호기-복호기 주의 | 복호기 이전 층 출력 | 부호기 최종 출력 | 입력 문장의 모든 위치 |
+
+**자기 주의**는 질의, 키, 값이 모두 같은 곳에서 나오는 주의 연산입니다. 부호기 자기 주의에서는 입력 문장의 각 토큰이 입력 문장의 다른 모든 토큰을 참고합니다.
+
+**부호기-복호기 주의**에서는 복호기가 만든 질의로 부호기 출력을 참고합니다. 독일어 토큰을 만들 때 영어 문장의 어느 토큰을 볼지 정하는 부분이며, 기존 순환 신경망 번역 모델의 주의 연산과 같은 역할입니다.
+
+### 복호기의 가림 처리
+
+복호기 자기 주의는 자기 위치를 포함해 앞쪽 위치만 참고해야 합니다. 뒤쪽 위치를 볼 수 있으면 학습할 때 정답 토큰을 미리 보게 되고, 한 토큰씩 생성하는 실제 사용 조건과 달라지기 때문입니다.
+
+논문은 이 제약을 크기 조정 내적 주의 안에서 구현합니다. 소프트맥스에 들어가기 전 점수 행렬에서 허용되지 않는 연결, 곧 $j > i$인 칸을 $-\infty$로 바꿉니다. $-\infty$는 소프트맥스를 거치면 가중치 0이 되므로 뒤쪽 토큰의 값은 출력에 전혀 섞이지 않습니다.
+
+| 질의 위치 \ 키 위치 | 1 | 2 | 3 | 4 |
+|------|---|---|---|---|
+| 1 | 참고 | −∞ | −∞ | −∞ |
+| 2 | 참고 | 참고 | −∞ | −∞ |
+| 3 | 참고 | 참고 | 참고 | −∞ |
+| 4 | 참고 | 참고 | 참고 | 참고 |
+
+이 처리 덕분에 학습할 때는 정답 문장 전체를 한 번에 넣고 모든 위치의 다음 토큰 예측을 동시에 계산할 수 있습니다. 순환 신경망은 학습 때도 위치마다 차례로 계산해야 했습니다.
+
+---
+
+## 5. 나머지 구성 요소 — 순방향 신경망과 위치 부호화
+
+### 위치별 순방향 신경망
+
+부호기와 복호기의 각 층에는 주의 하위 층 뒤에 순방향 신경망이 붙습니다. 각 토큰 위치의 벡터에 따로, 그리고 모든 위치에 같은 가중치로 적용합니다. 선형 변환 두 개 사이에 ReLU 활성화 함수를 둔 구조입니다.
+
+$$
+\mathrm{FFN}(x) = \max(0, xW_1 + b_1)W_2 + b_2
+$$
+
+입력과 출력은 $d_{\text{model}}=512$차원이고, 가운데 층은 $d_{ff}=2048$차원입니다. 토큰 하나의 512차원 벡터가 $W_1$(512 × 2048)을 거쳐 2048차원으로 넓어지고, ReLU가 음수를 0으로 바꾼 뒤 $W_2$(2048 × 512)를 거쳐 다시 512차원으로 돌아옵니다. 행렬 크기로 세면 이 신경망 하나의 파라미터는 약 210만 개로, 같은 층의 다중 헤드 주의(512 × 512 행렬 4개, 약 105만 개)보다 많습니다. 2048이라는 크기도 설계값이며, 8절 표 3의 (C)행에서 1024로 줄이면 개발 세트 BLEU가 25.4, 4096으로 늘리면 26.2가 됩니다.
+
+같은 층 안에서는 모든 위치가 가중치를 공유하지만, 층이 다르면 가중치도 다릅니다. 주의 연산이 토큰 사이에서 정보를 섞는 단계라면, 이 신경망은 섞인 결과를 토큰마다 따로 변환하는 단계입니다.
+
+### 위치 부호화
+
+주의 연산에는 순서 정보가 없습니다. 자기 주의는 모든 토큰 쌍을 똑같은 방식으로 비교하므로, 입력 토큰의 순서를 바꿔도 각 토큰이 받는 가중합 결과는 순서만 바뀔 뿐 값이 같습니다. "개가 사람을 물었다" 와 "사람이 개를 물었다" 를 구분하려면 순서 정보를 따로 넣어야 합니다.
+
+논문은 부호기와 복호기 맨 아래에서 입력 임베딩에 **위치 부호화(positional encoding)** 벡터를 더합니다. 위치 부호화도 512차원이라 임베딩과 그대로 더할 수 있습니다. 논문은 주파수가 서로 다른 사인·코사인 함수를 씁니다.
+
+$$
+\begin{aligned}
+PE_{(pos, 2i)} &= \sin\left(pos / 10000^{2i/d_{\text{model}}}\right) \\
+PE_{(pos, 2i+1)} &= \cos\left(pos / 10000^{2i/d_{\text{model}}}\right)
+\end{aligned}
+$$
+
+$pos$는 토큰 위치(0, 1, 2, …)이고, $i$는 0부터 255까지의 번호입니다. $i$ 하나가 $2i$번 차원(사인)과 $2i+1$번 차원(코사인) 두 자리를 맡으므로 512개 차원이 모두 채워집니다. $i$가 커질수록 주기가 길어집니다. 파장은 $2\pi$부터 $10000 \cdot 2\pi$까지 등비수열을 이룹니다. 앞쪽 차원은 위치가 한 칸 바뀔 때마다 값이 크게 변하고, 뒤쪽 차원은 수천 칸이 지나야 한 주기를 돕니다. 그래서 512개 값의 조합이 위치마다 서로 다른 벡터가 됩니다.
+
+공식에 위치를 넣어 계산하면 다음과 같습니다. 첫 두 차원($i=0$)은 $\sin(pos)$와 $\cos(pos)$이고, 마지막 두 차원($i=255$)은 $pos$를 약 9650으로 나눈 값의 사인과 코사인입니다.
+
+| 위치 $pos$ | 0번 차원 | 1번 차원 | … | 510번 차원 | 511번 차원 |
+|-----------|---------|---------|---|-----------|-----------|
+| 0 | 0.000 | 1.000 | … | 0.0000 | 1.000 |
+| 1 | 0.841 | 0.540 | … | 0.0001 | 1.000 |
+| 2 | 0.909 | −0.416 | … | 0.0002 | 1.000 |
+
+*공식으로 계산한 값을 반올림했습니다.*
+
+위치 부호화는 학습하지 않고 공식으로 계산하는 고정값입니다. 임베딩 뒤에 이어 붙이지 않고 같은 차원끼리 더하므로, 더한 뒤에도 벡터는 512차원 그대로입니다.
+
+저자들은 임의의 고정된 간격 $k$에 대해 $PE_{pos+k}$를 $PE_{pos}$의 선형 함수로 나타낼 수 있으므로, 모델이 상대 위치를 기준으로 참고하는 방법을 쉽게 배울 것이라고 보고 이 함수를 골랐습니다.
+
+위치마다 학습하는 위치 임베딩(learned positional embedding)도 실험했는데 결과는 거의 같았습니다(8절 표 3의 (E)행). 그래도 사인·코사인 방식을 택한 이유는 학습 때보다 긴 문장이 들어와도 같은 공식으로 위치 벡터를 만들 수 있기 때문입니다.
+
+---
+
+## 6. 자기 주의를 쓰는 이유 — 계산량, 병렬성, 경로 길이
+
+저자들은 길이 $n$인 벡터열을 같은 길이의 다른 벡터열로 바꾸는 층 한 개를 기준으로, 자기 주의·순환·합성곱 층을 세 가지 기준으로 비교합니다. 층 하나의 전체 계산 복잡도, 병렬화할 수 없어 차례로 해야 하는 최소 연산 수, 그리고 멀리 떨어진 두 위치 사이를 신호가 오가는 최대 경로 길이입니다.
+
+| 층 종류 | 층당 계산 복잡도 | 순차 연산 수 | 최대 경로 길이 |
+|---------|----------------|------------|--------------|
+| 자기 주의 | $O(n^2 \cdot d)$ | $O(1)$ | $O(1)$ |
+| 순환 | $O(n \cdot d^2)$ | $O(n)$ | $O(n)$ |
+| 합성곱 | $O(k \cdot n \cdot d^2)$ | $O(1)$ | $O(\log_k(n))$ |
+| 자기 주의 (범위 제한) | $O(r \cdot n \cdot d)$ | $O(1)$ | $O(n/r)$ |
+
+*표 1 — 층 종류별 최대 경로 길이, 층당 복잡도, 최소 순차 연산 수. $n$은 시퀀스 길이, $d$는 표현 차원, $k$는 합성곱 커널 크기, $r$은 범위 제한 자기 주의의 이웃 크기.*
+
+$O(\cdot)$ 표기는 입력 크기가 커질 때 계산량이 어떤 비율로 늘어나는지를 상수 배를 무시하고 나타냅니다. 문장 길이 $n=50$, 표현 차원 $d=512$로 두면 $n^2 \cdot d = 1{,}280{,}000$이고 $n \cdot d^2 = 13{,}107{,}200$이라, 이 조건에서는 자기 주의 층의 계산 규모가 순환 층의 약 10분의 1입니다.
+
+*$n=50$은 설명을 위해 고른 예시 값입니다.*
+
+**순차 연산 수.** 자기 주의 층은 모든 위치를 일정한 수의 연산으로 한꺼번에 연결합니다. 순환 층은 $n$번을 차례로 계산해야 합니다. GPU에서 한 번에 계산할 수 있는 양이 이 차이로 정해집니다.
+
+**계산 복잡도.** 자기 주의는 모든 토큰 쌍을 비교하므로 $n^2$에 비례하고, 순환 층은 $d^2$에 비례합니다. 따라서 문장 길이 $n$이 표현 차원 $d$보다 작으면 자기 주의가 더 빠릅니다. 워드피스나 바이트 쌍 부호화를 쓰는 당시 번역 모델의 문장은 대부분 이 조건에 해당합니다. 아주 긴 시퀀스를 다룰 때는 각 위치 주변 $r$개만 참고하도록 제한할 수 있고, 이 경우 최대 경로 길이는 $O(n/r)$로 늘어납니다. 저자들은 이 방식을 이후 과제로 남깁니다.
+
+**경로 길이.** 커널 폭 $k<n$인 합성곱 층 하나는 모든 입력·출력 위치 쌍을 연결하지 못합니다. 모두 연결하려면 연속 커널로는 $O(n/k)$개 층, 팽창 합성곱(dilated convolution)으로는 $O(\log_k(n))$개 층을 쌓아야 합니다. 합성곱 층은 일반적으로 순환 층보다 $k$배 비쌉니다. 분리 합성곱(separable convolution)은 복잡도를 $O(k \cdot n \cdot d + n \cdot d^2)$까지 낮추지만, $k=n$으로 두어도 자기 주의 층과 위치별 순방향 층을 합친 Transformer 층과 복잡도가 같습니다.
+
+부수 효과로 자기 주의는 모델이 무엇을 참고했는지 가중치로 직접 볼 수 있습니다. 저자들은 헤드마다 서로 다른 일을 학습하고, 많은 헤드가 문장의 문법·의미 구조와 관련된 패턴을 보인다고 부록에서 보고합니다(9절).
+
+---
+
+## 7. 학습 설정
+
+### 데이터와 배치
+
+학습 데이터는 2절 표의 WMT 2014 영어-독일어·영어-프랑스어 데이터셋입니다. 비슷한 길이의 문장 쌍끼리 묶어 배치를 만들었고, 배치 하나에는 입력 토큰 약 25000개와 출력 토큰 약 25000개가 들어갑니다. 배치 크기를 문장 수가 아니라 토큰 수로 맞췄으므로, 짧은 문장끼리 모인 배치에는 문장이 더 많이 들어갑니다. 아래 표의 학습 걸음(step)은 배치 하나로 가중치를 한 번 갱신하는 단위입니다.
+
+### 하드웨어와 학습 시간
+
+| 모델 | 학습 걸음당 시간 | 학습 걸음 수 | 총 학습 시간 |
+|------|---------------|------------|------------|
+| 기본(base) | 약 0.4초 | 100,000 | 12시간 |
+| 대형(big) | 1.0초 | 300,000 | 3.5일 |
+
+모두 NVIDIA P100 GPU 8장을 단 컴퓨터 한 대에서 학습했습니다.
+
+### 최적화기와 학습률
+
+최적화기는 Adam($\beta_1=0.9$, $\beta_2=0.98$, $\epsilon=10^{-9}$)입니다. 학습률은 학습 걸음 수에 따라 다음 공식으로 바꿉니다.
+
+$$
+lrate = d_{\text{model}}^{-0.5} \cdot \min\left(step\_num^{-0.5},\ step\_num \cdot warmup\_steps^{-1.5}\right)
+$$
+
+처음 $warmup\_steps$ 걸음 동안은 학습률을 선형으로 올리고, 그 뒤에는 걸음 수의 제곱근에 반비례해 내립니다. $warmup\_steps=4000$입니다. 두 항이 같아지는 지점이 $step\_num = warmup\_steps$이므로 4000번째 걸음에서 학습률이 가장 큽니다.
+
+| 학습 걸음 | 학습률 |
+|----------|-------|
+| 100 | 약 0.0000175 |
+| 4,000 | 약 0.000699 |
+| 100,000 | 약 0.000140 |
+
+*공식에 기본 모델 값($d_{\text{model}}=512$, $warmup\_steps=4000$)을 넣어 계산한 값입니다.*
+
+### 정규화
+
+| 기법 | 적용 위치 | 값 |
+|------|----------|-----|
+| 잔차 드롭아웃(residual dropout) | 각 하위 층 출력을 입력에 더하고 정규화하기 전, 그리고 부호기·복호기의 임베딩과 위치 부호화를 더한 합 | 기본 모델 $P_{drop}=0.1$ |
+| 레이블 평활화(label smoothing) | 학습 정답 분포 | $\epsilon_{ls}=0.1$ |
+
+**드롭아웃(dropout)** 은 학습 중에 벡터의 숫자 일부를 무작위로 0으로 바꾸는 기법입니다. $P_{drop}=0.1$이면 매 계산마다 약 10%의 값이 0이 됩니다. 모델이 특정 값 몇 개에만 의존하지 않도록 해 과적합을 줄이고, 평가하거나 문장을 생성할 때는 끄고 씁니다.
+
+**레이블 평활화**는 학습 목표를 바꾸는 기법입니다. 원래는 정답 토큰의 목표 확률을 1, 나머지 약 37000개 토큰의 목표 확률을 0으로 두고 모델 출력을 여기에 맞춥니다. $\epsilon_{ls}=0.1$로 평활화하면 정답 토큰의 목표를 약 0.9로 낮추고 남은 0.1을 다른 토큰들에 나눠 줍니다. 모델이 한 토큰에 확률을 전부 몰아주지 않도록 학습되므로 혼란도(perplexity)는 나빠지지만, 정확도와 BLEU 점수는 좋아집니다. 혼란도는 모델이 정답 토큰에 준 확률이 낮을수록 커지는 지표로, 낮을수록 좋습니다. 논문은 정규화를 세 종류라고 소개하지만 본문에 적힌 것은 위 두 가지입니다.
+
+---
+
+## 8. 결과
+
+### 기계 번역
+
+번역 품질은 **BLEU** 점수로 잽니다. 모델 번역과 사람이 만든 정답 번역 사이에서 연속된 단어 1~4개 묶음이 얼마나 겹치는지 세고, 번역이 정답보다 지나치게 짧으면 점수를 깎아 0~100 사이 값으로 나타냅니다. 높을수록 정답 번역과 비슷합니다. 표의 학습 비용 FLOPs는 학습에 쓴 부동소수점 연산 횟수입니다.
+
+| 모델 | BLEU 영→독 | BLEU 영→불 | 학습 비용 영→독 (FLOPs) | 학습 비용 영→불 (FLOPs) |
+|------|-----------|-----------|----------------------|----------------------|
+| ByteNet | 23.75 | | | |
+| Deep-Att + PosUnk | | 39.2 | | $1.0 \cdot 10^{20}$ |
+| GNMT + RL | 24.6 | 39.92 | $2.3 \cdot 10^{19}$ | $1.4 \cdot 10^{20}$ |
+| ConvS2S | 25.16 | 40.46 | $9.6 \cdot 10^{18}$ | $1.5 \cdot 10^{20}$ |
+| MoE | 26.03 | 40.56 | $2.0 \cdot 10^{19}$ | $1.2 \cdot 10^{20}$ |
+| Deep-Att + PosUnk 앙상블 | | 40.4 | | $8.0 \cdot 10^{20}$ |
+| GNMT + RL 앙상블 | 26.30 | 41.16 | $1.8 \cdot 10^{20}$ | $1.1 \cdot 10^{21}$ |
+| ConvS2S 앙상블 | 26.36 | 41.29 | $7.7 \cdot 10^{19}$ | $1.2 \cdot 10^{21}$ |
+| **Transformer (기본)** | **27.3** | **38.1** | $3.3 \cdot 10^{18}$ | |
+| **Transformer (대형)** | **28.4** | **41.8** | $2.3 \cdot 10^{19}$ | |
+
+*표 2 — newstest2014 영어→독일어·영어→프랑스어 번역 BLEU와 학습 비용. Transformer의 학습 비용은 원문 표에서 두 번역 방향에 한 값으로 적혀 있습니다.*
+
+영어→독일어에서 대형 Transformer는 앙상블을 포함한 기존 최고 모델보다 2.0 BLEU 넘게 높은 28.4를 기록했습니다. 기존 최고인 ConvS2S 앙상블 26.36과의 차이는 2.04입니다. 기본 모델도 27.3으로 기존에 발표된 모든 단일 모델과 앙상블을 앞서면서, 학습 비용은 경쟁 모델 어느 것보다 훨씬 적습니다.
+
+영어→프랑스어에서 대형 모델은 41.8로 기존에 발표된 모든 단일 모델을 앞섰고, 학습 비용은 이전 최고 단일 모델의 4분의 1이 안 됩니다. 논문 6.1절 본문에는 이 점수가 41.0으로 적혀 있지만, 초록과 표 2에는 41.8로 적혀 있어 여기서는 표 값을 따랐습니다. 이 모델은 드롭아웃 비율을 0.3 대신 0.1로 썼습니다.
+
+기본 모델은 10분 간격으로 저장한 마지막 체크포인트 5개의 가중치를 평균해 쓰고, 대형 모델은 마지막 20개를 평균합니다. 체크포인트는 학습 도중 저장한 가중치 사본이고, 평균은 같은 자리의 가중치 값끼리 평균을 내 모델 하나를 만드는 처리입니다.
+
+문장 생성에는 **빔 탐색(beam search)** 을 씁니다. 매 걸음 확률이 가장 높은 토큰 하나만 고르면, 앞에서 고른 토큰 때문에 문장 전체의 확률이 오히려 낮아질 수 있습니다. 빔 탐색은 매 걸음 지금까지의 확률이 가장 높은 후보 문장 4개(빔 크기 4)를 유지하면서 한 토큰씩 늘려 가고, 끝난 후보 중 점수가 가장 높은 문장을 고릅니다. 문장이 길수록 토큰 확률을 여러 번 곱해 점수가 낮아지므로 길이 보정 $\alpha=0.6$으로 이를 보정합니다. 최대 출력 길이는 입력 길이 + 50으로 두되 가능하면 일찍 끝냅니다.
+
+학습 비용은 학습 시간 × GPU 수 × GPU별 단정밀도 부동소수점 연산 성능 추정치로 계산했습니다. 추정치는 K80 2.8, K40 3.7, M40 6.0, P100 9.5 TFLOPS(초당 부동소수점 연산 수, 단위 $10^{12}$)입니다.
+
+### 구조 변형 실험
+
+각 구성 요소가 얼마나 중요한지 보려고 기본 모델을 하나씩 바꿔 영어→독일어 개발 세트(newstest2013)에서 평가했습니다. 빔 탐색은 위와 같고 체크포인트 평균은 하지 않았습니다.
+
+| 행 | $N$ | $d_{\text{model}}$ | $d_{\text{ff}}$ | $h$ | $d_k$ | $d_v$ | $P_{drop}$ | $\epsilon_{ls}$ | 학습 걸음 | 혼란도 (dev) | BLEU (dev) | 파라미터 ×10⁶ |
+|----|---|---|---|---|---|---|---|---|---|---|---|---|
+| 기본 | 6 | 512 | 2048 | 8 | 64 | 64 | 0.1 | 0.1 | 100K | 4.92 | 25.8 | 65 |
+| (A) | | | | 1 | 512 | 512 | | | | 5.29 | 24.9 | |
+| (A) | | | | 4 | 128 | 128 | | | | 5.00 | 25.5 | |
+| (A) | | | | 16 | 32 | 32 | | | | 4.91 | 25.8 | |
+| (A) | | | | 32 | 16 | 16 | | | | 5.01 | 25.4 | |
+| (B) | | | | | 16 | | | | | 5.16 | 25.1 | 58 |
+| (B) | | | | | 32 | | | | | 5.01 | 25.4 | 60 |
+| (C) | 2 | | | | | | | | | 6.11 | 23.7 | 36 |
+| (C) | 4 | | | | | | | | | 5.19 | 25.3 | 50 |
+| (C) | 8 | | | | | | | | | 4.88 | 25.5 | 80 |
+| (C) | | 256 | | | 32 | 32 | | | | 5.75 | 24.5 | 28 |
+| (C) | | 1024 | | | 128 | 128 | | | | 4.66 | 26.0 | 168 |
+| (C) | | | 1024 | | | | | | | 5.12 | 25.4 | 53 |
+| (C) | | | 4096 | | | | | | | 4.75 | 26.2 | 90 |
+| (D) | | | | | | | 0.0 | | | 5.77 | 24.6 | |
+| (D) | | | | | | | 0.2 | | | 4.95 | 25.5 | |
+| (D) | | | | | | | | 0.0 | | 4.67 | 25.3 | |
+| (D) | | | | | | | | 0.2 | | 5.47 | 25.7 | |
+| (E) | 사인·코사인 대신 학습하는 위치 임베딩 | | | | | | | | | 4.92 | 25.7 | |
+| 대형 | 6 | 1024 | 4096 | 16 | | | 0.3 | | 300K | 4.33 | 26.4 | 213 |
+
+*표 3 — Transformer 구조 변형. 빈칸은 기본 모델과 같은 값. 혼란도는 바이트 쌍 부호화 기준 워드피스 단위라 단어 단위 혼란도와 비교할 수 없습니다.*
+
+**(A) 헤드 수.** 계산량을 일정하게 두고 헤드 수와 $d_k$, $d_v$를 바꿨습니다. 헤드 1개는 가장 좋은 설정보다 0.9 BLEU 낮고, 헤드가 너무 많아도(32개) 품질이 떨어집니다.
+
+**(B) 키 크기.** $d_k$를 줄이면 품질이 떨어집니다. 저자들은 질의와 키가 얼마나 맞는지 판단하는 일이 쉽지 않으며, 내적보다 정교한 비교 함수가 도움이 될 수 있다고 해석합니다.
+
+**(C)·(D) 크기와 드롭아웃.** 모델이 클수록 좋고, 드롭아웃은 과적합을 막는 데 큰 도움이 됩니다. 드롭아웃을 0으로 두면 BLEU가 25.8에서 24.6으로 떨어집니다.
+
+**(E) 위치 표현.** 사인·코사인 위치 부호화를 학습하는 위치 임베딩으로 바꿔도 결과가 거의 같습니다(25.8 대 25.7).
+
+### 영어 구문 분석
+
+Transformer가 번역 외의 과제에도 쓸 수 있는지 보려고 영어 구문 분석을 실험했습니다. 문장을 받아 문법 구조 트리를 출력하는 과제로, 출력에 강한 구조 제약이 있고 출력이 입력보다 훨씬 깁니다. 순환 신경망 기반 시퀀스 변환 모델은 데이터가 적은 조건에서 최고 성능을 내지 못했던 과제입니다.
+
+| 설정 | 값 |
+|------|-----|
+| 모델 | Transformer 4층, $d_{\text{model}}=1024$ |
+| WSJ 단독 학습 데이터 | Penn Treebank의 Wall Street Journal 부분, 약 4만 문장, 어휘 16K |
+| 준지도(semi-supervised) 학습 데이터 | 고신뢰도·BerkleyParser 말뭉치 약 1700만 문장, 어휘 32K |
+| 조정한 값 | 드롭아웃(주의·잔차), 학습률, 빔 크기만 Section 22 개발 세트로 선택. 나머지는 영→독 기본 모델과 동일 |
+| 추론 | 최대 출력 길이 입력 + 300, 빔 크기 21, $\alpha=0.3$ |
+
+| 파서 | 학습 방식 | WSJ 23 F1 |
+|------|----------|-----------|
+| Vinyals & Kaiser et al. (2014) | WSJ 단독, 판별 | 88.3 |
+| Petrov et al. (2006) | WSJ 단독, 판별 | 90.4 |
+| Zhu et al. (2013) | WSJ 단독, 판별 | 90.4 |
+| Dyer et al. (2016) | WSJ 단독, 판별 | 91.7 |
+| **Transformer (4층)** | WSJ 단독, 판별 | **91.3** |
+| Zhu et al. (2013) | 준지도 | 91.3 |
+| Huang & Harper (2009) | 준지도 | 91.3 |
+| McClosky et al. (2006) | 준지도 | 92.1 |
+| Vinyals & Kaiser et al. (2014) | 준지도 | 92.1 |
+| **Transformer (4층)** | 준지도 | **92.7** |
+| Luong et al. (2015) | 다중 과제 | 93.0 |
+| Dyer et al. (2016) | 생성 | 93.3 |
+
+*표 4 — WSJ Section 23 영어 구문 분석 결과.*
+
+Section 22·23은 WSJ 말뭉치를 나눈 섹션 번호로, 22는 개발용, 23은 평가용으로 씁니다. F1은 모델이 만든 구문 트리의 구성 요소 중 정답과 일치하는 비율(정밀도)과, 정답 구성 요소 중 모델이 찾아낸 비율(재현율)을 하나로 합친 점수이며 높을수록 좋습니다.
+
+과제에 맞춘 조정을 거의 하지 않았는데도 순환 신경망 문법(Recurrent Neural Network Grammar, Dyer et al. 2016)을 제외한 기존 모델보다 좋은 결과가 나왔습니다. 순환 신경망 시퀀스 변환 모델과 달리, WSJ 4만 문장만으로 학습해도 BerkeleyParser(Petrov et al. 2006)를 앞섭니다.
+
+---
+
+## 9. 부록 — 주의 가중치 시각화
+
+아래 그림은 모두 영어→독일어 모델 부호기 자기 주의의 6개 층 중 5번째 층에서 뽑았습니다. 선의 굵기와 색 진하기가 주의 가중치의 크기이고, 색은 헤드를 구분합니다.
+
+![부록 그림 3 — 먼 거리 의존 관계](https://arxiv.org/html/1706.03762v7/making_more_difficult5_new.svg)
+
+*부록 그림 3 — "making" 에서 나가는 주의만 표시했고, 여러 헤드가 멀리 떨어진 "more difficult" 를 참고합니다.*
+
+위 그림은 동사 "making" 이 멀리 떨어진 "more difficult" 를 참고해 "making … more difficult" 라는 구를 완성하는 모습을 보여줍니다. 색이 다른 여러 헤드가 같은 먼 위치로 가중치를 모읍니다. 순환 신경망에서는 은닉 상태를 여러 번 거쳐야 닿는 거리지만, 자기 주의에서는 한 번의 연산으로 연결됩니다.
+
+![부록 그림 4 위 — 헤드 5의 전체 주의](https://arxiv.org/html/1706.03762v7/anaphora_resolution_new.svg)
+
+*부록 그림 4 위 — 헤드 5가 문장 전체에서 계산한 주의 가중치입니다.*
+
+![부록 그림 4 아래 — "its" 에서 나가는 헤드 5·6의 주의](https://arxiv.org/html/1706.03762v7/anaphora_resolution2_new.svg)
+
+*부록 그림 4 아래 — "its" 에서 나가는 헤드 5와 6의 주의만 표시했으며, 가중치가 특정 토큰에 뚜렷하게 모입니다.*
+
+위 두 그림은 대명사가 가리키는 대상을 찾는 **대용어 해소(anaphora resolution)** 에 관여하는 것으로 보이는 헤드 두 개를 보여줍니다. "its" 에서 나가는 주의가 몇 개 토큰에 좁게 집중됩니다. 4절에서 예로 든 "its" 와 "Law" 의 관계가 이 문장입니다.
+
+![부록 그림 5 위 — 문장 구조와 관련된 헤드 예시 1](https://arxiv.org/html/1706.03762v7/attending_to_head_new.svg)
+
+*부록 그림 5 위 — 부호기 5번째 층의 한 헤드가 보이는 문장 구조 관련 패턴입니다.*
+
+![부록 그림 5 아래 — 문장 구조와 관련된 헤드 예시 2](https://arxiv.org/html/1706.03762v7/attending_to_head2_new.svg)
+
+*부록 그림 5 아래 — 같은 층의 다른 헤드가 보이는 또 다른 패턴입니다.*
+
+위 두 그림은 같은 층의 서로 다른 두 헤드가 문장 구조와 관련된 서로 다른 패턴을 보이는 예입니다. 저자들은 헤드들이 각각 다른 일을 학습했다고 해석합니다. 4절의 다중 헤드 주의가 헤드마다 다른 관계를 학습하도록 설계한 결과가 실제 가중치에 나타납니다.
+
+---
+
+## 10. 저자가 밝힌 이후 과제
+
+논문 결론에서 저자들은 다음 과제를 제시합니다.
+
+첫째, 텍스트 외의 입력과 출력입니다. Transformer를 이미지, 오디오, 비디오처럼 다른 형태의 데이터를 다루는 문제로 넓히려 합니다.
+
+둘째, 큰 입력의 처리입니다. 자기 주의의 계산량은 표 1처럼 시퀀스 길이의 제곱에 비례하므로, 이미지·오디오·비디오처럼 긴 입력과 출력을 효율적으로 다루려면 각 위치 주변만 참고하는 제한된 주의 연산이 필요하다고 봅니다.
+
+셋째, 생성의 순차성입니다. 학습은 병렬로 할 수 있게 됐지만, 생성할 때는 여전히 토큰을 하나씩 만들어야 합니다. 생성을 덜 순차적으로 만드는 것도 목표로 둡니다.
+
+---
+
+## 11. 정리 — VLA와의 연결
+
+Transformer의 설계는 다음과 같습니다.
+
+- **자기 주의**가 순환 구조를 대신해, 문장 안 모든 토큰 쌍을 한 번의 연산으로 연결합니다. 학습을 병렬로 할 수 있고, 멀리 떨어진 토큰 사이의 경로 길이가 $O(1)$입니다.
+- **크기 조정 내적 주의**는 질의와 키의 내적을 $\sqrt{d_k}$로 나눠 소프트맥스 기울기가 작아지는 문제를 막습니다.
+- **다중 헤드 주의**는 서로 다른 투영으로 여러 종류의 관계를 동시에 학습합니다.
+- **위치 부호화**는 순서 정보가 없는 주의 연산에 토큰 위치를 알려 줍니다.
+- **복호기의 가림 처리**로 학습은 병렬로 하면서도 생성은 한 토큰씩 하는 자기회귀 방식을 유지합니다.
+
+이 구조는 이후 VLA 모델에서 다음과 같이 쓰입니다.
+
+| 모델 | 사용하는 Transformer 형태 |
+|------|------------------------|
+| RT-1 | 이미지·지시 토큰을 받아 행동 토큰을 내는 복호기 전용(decoder-only) Transformer 8층 |
+| RT-2 | PaLI-X(부호기-복호기), [PaLM-E](/blog/paper-review/pre-vla/palm-e)(복호기 전용) 언어 모델에 행동 토큰 출력을 학습 |
+| OpenVLA | Llama 2 7B 복호기 전용 언어 모델에 이미지 토큰을 넣고 행동 토큰을 생성 |
+| π0 | PaliGemma 시각-언어 모델에 연속 행동을 생성하는 별도 Transformer 가중치를 추가 |
+
+복호기 전용 Transformer는 이 논문의 복호기에서 부호기-복호기 주의를 빼고, 가린 자기 주의와 순방향 신경망만 쌓은 형태입니다. VLA 모델이 행동을 "다음 토큰" 으로 예측할 수 있는 것은 복호기의 자기회귀 생성 방식을 그대로 쓰기 때문이고, 이미지와 지시문과 행동을 한 줄의 토큰열로 다룰 수 있는 것은 자기 주의가 입력 종류와 상관없이 모든 토큰 쌍을 같은 방식으로 비교하기 때문입니다.
+
+다음 편에서는 복호기 전용 Transformer를 1750억 파라미터로 키워 다음 토큰 예측만으로 다양한 과제를 푼 [GPT-3](/blog/paper-review/pre-vla/gpt-3)에 대한 이야기입니다. 전체 목차는 [VLA 선행 연구](/blog/paper-review/pre-vla)에 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"전체 목차",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"VLA 선행 연구 - 전체 목차"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/gpt-3","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"2편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Language Models are Few-Shot Learners"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

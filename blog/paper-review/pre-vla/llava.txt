@@ -1,0 +1,590 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/19ve-6rei9iuk.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","paper-review","pre-vla","llava"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","paper-review/pre-vla/llava","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19ve-6rei9iuk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3lj8u5xv5ktpp.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2b-rkrpx92plj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1-lkrriw345pf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2xgagg06nhrfg.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Otz_2YXo8BEnEwlE5lLW7"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron","isHub":false,"order":"$undefined"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron","isHub":false,"order":"$undefined"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1","isHub":false,"order":"$undefined"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2","isHub":false,"order":"$undefined"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function","isHub":false,"order":"$undefined"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer","isHub":false,"order":"$undefined"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리","isHub":false,"order":"$undefined"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?","isHub":false,"order":"$undefined"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering","isHub":false,"order":"$undefined"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법","isHub":false,"order":"$undefined"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법","isHub":false,"order":"$undefined"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2","isHub":false,"order":"$undefined"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama","isHub":false,"order":"$undefined"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning","isHub":false,"order":"$undefined"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree","isHub":false,"order":"$undefined"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn","isHub":false,"order":"$undefined"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측","isHub":false,"order":"$undefined"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기","isHub":false,"order":"$undefined"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression","isHub":false,"order":"$undefined"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"OpenCV","type":"folder","path":"AI/OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"AI/OpenCV/00.basic.ko.md","slug":"AI/OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법","isHub":false,"order":"$undefined"},{"name":"01.camera.ko.md","type":"file","path":"AI/OpenCV/01.camera.ko.md","slug":"AI/OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리","isHub":false,"order":"$undefined"},{"name":"02.filtering.ko.md","type":"file","path":"AI/OpenCV/02.filtering.ko.md","slug":"AI/OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법","isHub":false,"order":"$undefined"},{"name":"03.histogram.ko.ipynb","type":"file","path":"AI/OpenCV/03.histogram.ko.ipynb","slug":"AI/OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화","isHub":false,"order":"$undefined"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"AI/OpenCV/04.mediapipe.ko.ipynb","slug":"AI/OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"physical-ai-101","type":"folder","path":"AI/physical-ai-101","children":[{"name":"01.what-is-physical-ai.ko.md","type":"file","path":"AI/physical-ai-101/01.what-is-physical-ai.ko.md","slug":"AI/physical-ai-101/what-is-physical-ai","locale":"ko","title":"Physical AI 101 - 1편 Physical AI 와 로봇의 두뇌","isHub":false,"order":"$undefined"},{"name":"02.research-landscape.ko.md","type":"file","path":"AI/physical-ai-101/02.research-landscape.ko.md","slug":"AI/physical-ai-101/research-landscape","locale":"ko","title":"Physical AI 101 - 2편 연구 지형 — foundation model · VLA · world model · 시뮬레이션","isHub":false,"order":"$undefined"},{"name":"03.finetuning-my-robot.ko.md","type":"file","path":"AI/physical-ai-101/03.finetuning-my-robot.ko.md","slug":"AI/physical-ai-101/finetuning-my-robot","locale":"ko","title":"Physical AI 101 - 3편 내 로봇에 맞추는 학습 — teleoperation · 모방학습 · LoRA · 강화학습","isHub":false,"order":"$undefined"},{"name":"04.inside-the-model.ko.md","type":"file","path":"AI/physical-ai-101/04.inside-the-model.ko.md","slug":"AI/physical-ai-101/inside-the-model","locale":"ko","title":"Physical AI 101 - 4편 모델의 내부 구조 — System 1/2 · action chunk · flow matching · 모방학습의 한계","isHub":false,"order":"$undefined"},{"name":"05.robot-basics-and-open-problems.ko.md","type":"file","path":"AI/physical-ai-101/05.robot-basics-and-open-problems.ko.md","slug":"AI/physical-ai-101/robot-basics-and-open-problems","locale":"ko","title":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제","isHub":false,"order":"$undefined"},{"name":"06.where-to-run.ko.md","type":"file","path":"AI/physical-ai-101/06.where-to-run.ko.md","slug":"AI/physical-ai-101/where-to-run","locale":"ko","title":"Physical AI 101 - 6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포","isHub":false,"order":"$undefined"}],"slug":"AI/physical-ai-101","order":"$undefined"},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro","isHub":false,"order":"$undefined"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler","isHub":false,"order":"$undefined"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection","isHub":false,"order":"$undefined"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"dev-tools","type":"folder","path":"dev-tools","children":[{"name":"claude","type":"folder","path":"dev-tools/claude","children":[{"name":"00.setup.md","type":"file","path":"dev-tools/claude/00.setup.md","slug":"dev-tools/claude/setup","locale":"$undefined","title":"claude 코드로 sudo","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Docker","type":"folder","path":"dev-tools/Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"dev-tools/Docker/00.basic.ko.md","slug":"dev-tools/Docker/basic","locale":"ko","title":"Docker 기본","isHub":false,"order":"$undefined"},{"name":"01.create-image.ko.md","type":"file","path":"dev-tools/Docker/01.create-image.ko.md","slug":"dev-tools/Docker/create-image","locale":"ko","title":"Docker 이미지 생성","isHub":false,"order":"$undefined"},{"name":"02.docker-hub.ko.md","type":"file","path":"dev-tools/Docker/02.docker-hub.ko.md","slug":"dev-tools/Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push","isHub":false,"order":"$undefined"},{"name":"03.useful-commands.ko.md","type":"file","path":"dev-tools/Docker/03.useful-commands.ko.md","slug":"dev-tools/Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"git","type":"folder","path":"dev-tools/git","children":[{"name":"00.config.ko.md","type":"file","path":"dev-tools/git/00.config.ko.md","slug":"dev-tools/git/config","locale":"ko","title":"Git Config 설정 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"jupyter-notebook","type":"folder","path":"dev-tools/jupyter-notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"dev-tools/jupyter-notebook/00.setup.ko..md","slug":"dev-tools/jupyter-notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Terminator","type":"folder","path":"dev-tools/Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"dev-tools/Terminator/00.shortcuts.md","slug":"dev-tools/Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Web","type":"folder","path":"dev-tools/Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"dev-tools/Web/00.cloudflared.ko.md","slug":"dev-tools/Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"paper-review","type":"folder","path":"paper-review","children":[{"name":"pre-vla","type":"folder","path":"paper-review/pre-vla","children":[{"name":"01.attention-is-all-you-need.ko.md","type":"file","path":"paper-review/pre-vla/01.attention-is-all-you-need.ko.md","slug":"paper-review/pre-vla/attention-is-all-you-need","locale":"ko","title":"논문해석 - Attention Is All You Need","isHub":false,"order":"$undefined"},{"name":"02.gpt-3.ko.md","type":"file","path":"paper-review/pre-vla/02.gpt-3.ko.md","slug":"paper-review/pre-vla/gpt-3","locale":"ko","title":"논문해석 - Language Models are Few-Shot Learners","isHub":false,"order":"$undefined"},{"name":"03.vit.ko.md","type":"file","path":"paper-review/pre-vla/03.vit.ko.md","slug":"paper-review/pre-vla/vit","locale":"ko","title":"논문해석 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale","isHub":false,"order":"$undefined"},{"name":"04.clip.ko.md","type":"file","path":"paper-review/pre-vla/04.clip.ko.md","slug":"paper-review/pre-vla/clip","locale":"ko","title":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision","isHub":false,"order":"$undefined"},{"name":"05.llava.ko.md","type":"file","path":"paper-review/pre-vla/05.llava.ko.md","slug":"paper-review/pre-vla/llava","locale":"ko","title":"논문해석 - Visual Instruction Tuning","isHub":false,"order":"$undefined"},{"name":"06.bc-z.ko.md","type":"file","path":"paper-review/pre-vla/06.bc-z.ko.md","slug":"paper-review/pre-vla/bc-z","locale":"ko","title":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning","isHub":false,"order":"$undefined"},{"name":"07.saycan.ko.md","type":"file","path":"paper-review/pre-vla/07.saycan.ko.md","slug":"paper-review/pre-vla/saycan","locale":"ko","title":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances","isHub":false,"order":"$undefined"},{"name":"08.gato.ko.md","type":"file","path":"paper-review/pre-vla/08.gato.ko.md","slug":"paper-review/pre-vla/gato","locale":"ko","title":"논문해석 - A Generalist Agent","isHub":false,"order":"$undefined"},{"name":"09.palm-e.ko.md","type":"file","path":"paper-review/pre-vla/09.palm-e.ko.md","slug":"paper-review/pre-vla/palm-e","locale":"ko","title":"논문해석 - PaLM-E: An Embodied Multimodal Language Model","isHub":false,"order":"$undefined"},{"name":"10.ddpm.ko.md","type":"file","path":"paper-review/pre-vla/10.ddpm.ko.md","slug":"paper-review/pre-vla/ddpm","locale":"ko","title":"논문해석 - Denoising Diffusion Probabilistic Models","isHub":false,"order":"$undefined"},{"name":"11.flow-matching.ko.md","type":"file","path":"paper-review/pre-vla/11.flow-matching.ko.md","slug":"paper-review/pre-vla/flow-matching","locale":"ko","title":"논문해석 - Flow Matching for Generative Modeling","isHub":false,"order":"$undefined"},{"name":"12.diffusion-policy.ko.md","type":"file","path":"paper-review/pre-vla/12.diffusion-policy.ko.md","slug":"paper-review/pre-vla/diffusion-policy","locale":"ko","title":"논문해석 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion","isHub":false,"order":"$undefined"},{"name":"13.act.ko.md","type":"file","path":"paper-review/pre-vla/13.act.ko.md","slug":"paper-review/pre-vla/act","locale":"ko","title":"논문해석 - Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware","isHub":false,"order":"$undefined"}],"slug":"paper-review/pre-vla","order":1},{"name":"vla","type":"folder","path":"paper-review/vla","children":[{"name":"01.rt-1.ko.md","type":"file","path":"paper-review/vla/01.rt-1.ko.md","slug":"paper-review/vla/rt-1","locale":"ko","title":"논문해석 - RT-1: Robotics Transformer for Real-World Control at Scale","isHub":false,"order":"$undefined"},{"name":"02.rt-2.ko.md","type":"file","path":"paper-review/vla/02.rt-2.ko.md","slug":"paper-review/vla/rt-2","locale":"ko","title":"논문해석 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control","isHub":false,"order":"$undefined"},{"name":"03.open-x-embodiment.ko.md","type":"file","path":"paper-review/vla/03.open-x-embodiment.ko.md","slug":"paper-review/vla/open-x-embodiment","locale":"ko","title":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models","isHub":false,"order":"$undefined"},{"name":"04.openvla.ko.md","type":"file","path":"paper-review/vla/04.openvla.ko.md","slug":"paper-review/vla/openvla","locale":"ko","title":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model","isHub":false,"order":"$undefined"},{"name":"05.pi0.ko.md","type":"file","path":"paper-review/vla/05.pi0.ko.md","slug":"paper-review/vla/pi0","locale":"ko","title":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control","isHub":false,"order":"$undefined"},{"name":"06.fast.ko.md","type":"file","path":"paper-review/vla/06.fast.ko.md","slug":"paper-review/vla/fast","locale":"ko","title":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models","isHub":false,"order":"$undefined"},{"name":"07.pi05.ko.md","type":"file","path":"paper-review/vla/07.pi05.ko.md","slug":"paper-review/vla/pi05","locale":"ko","title":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization","isHub":false,"order":"$undefined"},{"name":"08.openvla-oft.ko.md","type":"file","path":"paper-review/vla/08.openvla-oft.ko.md","slug":"paper-review/vla/openvla-oft","locale":"ko","title":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success","isHub":false,"order":"$undefined"},{"name":"09.gr00t-n1.ko.md","type":"file","path":"paper-review/vla/09.gr00t-n1.ko.md","slug":"paper-review/vla/gr00t-n1","locale":"ko","title":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots","isHub":false,"order":"$undefined"},{"name":"10.gemini-robotics.ko.md","type":"file","path":"paper-review/vla/10.gemini-robotics.ko.md","slug":"paper-review/vla/gemini-robotics","locale":"ko","title":"논문해석 - Gemini Robotics: Bringing AI into the Physical World","isHub":false,"order":"$undefined"}],"slug":"paper-review/vla","order":2},{"name":"umi","type":"folder","path":"paper-review/umi","children":[{"name":"01.umi.ko.md","type":"file","path":"paper-review/umi/01.umi.ko.md","slug":"paper-review/umi/umi","locale":"ko","title":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots","isHub":false,"order":"$undefined"},{"name":"02.fastumi.ko.md","type":"file","path":"paper-review/umi/02.fastumi.ko.md","slug":"paper-review/umi/fastumi","locale":"ko","title":"논문해석 - FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset","isHub":false,"order":"$undefined"},{"name":"03.exumi.ko.md","type":"file","path":"paper-review/umi/03.exumi.ko.md","slug":"paper-review/umi/exumi","locale":"ko","title":"논문해석 - exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation","isHub":false,"order":"$undefined"},{"name":"04.mv-umi.ko.md","type":"file","path":"paper-review/umi/04.mv-umi.ko.md","slug":"paper-review/umi/mv-umi","locale":"ko","title":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning","isHub":false,"order":"$undefined"},{"name":"05.mobile-umi.ko.md","type":"file","path":"paper-review/umi/05.mobile-umi.ko.md","slug":"paper-review/umi/mobile-umi","locale":"ko","title":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation","isHub":false,"order":"$undefined"},{"name":"06.rwor.ko.md","type":"file","path":"paper-review/umi/06.rwor.ko.md","slug":"paper-review/umi/rwor","locale":"ko","title":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot","isHub":false,"order":"$undefined"},{"name":"07.umi-agriculture.ko.md","type":"file","path":"paper-review/umi/07.umi-agriculture.ko.md","slug":"paper-review/umi/umi-agriculture","locale":"ko","title":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications","isHub":false,"order":"$undefined"},{"name":"08.gripper-design-demonstration-quality.ko.md","type":"file","path":"paper-review/umi/08.gripper-design-demonstration-quality.ko.md","slug":"paper-review/umi/gripper-design-demonstration-quality","locale":"ko","title":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning","isHub":false,"order":"$undefined"},{"name":"09.legato.ko.md","type":"file","path":"paper-review/umi/09.legato.ko.md","slug":"paper-review/umi/legato","locale":"ko","title":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool","isHub":false,"order":"$undefined"},{"name":"10.touch-in-the-wild.ko.md","type":"file","path":"paper-review/umi/10.touch-in-the-wild.ko.md","slug":"paper-review/umi/touch-in-the-wild","locale":"ko","title":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper","isHub":false,"order":"$undefined"},{"name":"11.umi-on-air.ko.md","type":"file","path":"paper-review/umi/11.umi-on-air.ko.md","slug":"paper-review/umi/umi-on-air","locale":"ko","title":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies","isHub":false,"order":"$undefined"},{"name":"12.farm.ko.md","type":"file","path":"paper-review/umi/12.farm.ko.md","slug":"paper-review/umi/farm","locale":"ko","title":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation","isHub":false,"order":"$undefined"},{"name":"13.tacumi.ko.md","type":"file","path":"paper-review/umi/13.tacumi.ko.md","slug":"paper-review/umi/tacumi","locale":"ko","title":"논문해석 - TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks","isHub":false,"order":"$undefined"},{"name":"14.rdt2.ko.md","type":"file","path":"paper-review/umi/14.rdt2.ko.md","slug":"paper-review/umi/rdt2","locale":"ko","title":"논문해석 - RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization","isHub":false,"order":"$undefined"},{"name":"15.umi-3d.ko.md","type":"file","path":"paper-review/umi/15.umi-3d.ko.md","slug":"paper-review/umi/umi-3d","locale":"ko","title":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception","isHub":false,"order":"$undefined"},{"name":"16.vista.ko.md","type":"file","path":"paper-review/umi/16.vista.ko.md","slug":"paper-review/umi/vista","locale":"ko","title":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training","isHub":false,"order":"$undefined"},{"name":"17.yubi.ko.md","type":"file","path":"paper-review/umi/17.yubi.ko.md","slug":"paper-review/umi/yubi","locale":"ko","title":"논문해석 - YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale","isHub":false,"order":"$undefined"},{"name":"18.umi-bench.ko.md","type":"file","path":"paper-review/umi/18.umi-bench.ko.md","slug":"paper-review/umi/umi-bench","locale":"ko","title":"논문해석 - UMI-Bench 1.0: An Open and Reproducible Real-World Benchmark for Tabletop Robotic Manipulation with UMI Data","isHub":false,"order":"$undefined"},{"name":"19.bridge.ko.md","type":"file","path":"paper-review/umi/19.bridge.ko.md","slug":"paper-review/umi/bridge","locale":"ko","title":"논문해석 - Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts","isHub":false,"order":"$undefined"}],"slug":"paper-review/umi","order":3},{"name":"wam","type":"folder","path":"paper-review/wam","children":[{"name":"01.flux-3-action.ko.md","type":"file","path":"paper-review/wam/01.flux-3-action.ko.md","slug":"paper-review/wam/flux-3-action","locale":"ko","title":"논문해석 - FLUX 3 Action: A 7B World Action Model for Robot Control","isHub":false,"order":"$undefined"}],"slug":"paper-review/wam","order":4}],"slug":"paper-review","order":"$undefined"},{"name":"programming","type":"folder","path":"programming","children":[{"name":"coding-test","type":"folder","path":"programming/coding-test","children":[{"name":"Brute-Force Search","type":"folder","path":"programming/coding-test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"programming/coding-test/Brute-Force Search/01.problem1.ko.ipynb","slug":"programming/coding-test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Data Structure","type":"folder","path":"programming/coding-test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"programming/coding-test/Data Structure/00.intro.ko.md","slug":"programming/coding-test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Sort","type":"folder","path":"programming/coding-test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"programming/coding-test/Sort/00.intro.ko.ipynb","slug":"programming/coding-test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"SQL","type":"folder","path":"programming/coding-test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"programming/coding-test/SQL/00.order-by.ko.md","slug":"programming/coding-test/SQL/order-by","locale":"ko","title":null,"isHub":false,"order":"$undefined"},{"name":"01.string.ko.md","type":"file","path":"programming/coding-test/SQL/01.string.ko.md","slug":"programming/coding-test/SQL/string","locale":"ko","title":null,"isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"computer-science","type":"folder","path":"programming/computer-science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"programming/computer-science/00.process-vs-thread.ko.md","slug":"programming/computer-science/process-vs-thread","locale":"ko","title":"프로세스와 스레드","isHub":false,"order":"$undefined"},{"name":"01.endian.ko.md","type":"file","path":"programming/computer-science/01.endian.ko.md","slug":"programming/computer-science/endian","locale":"ko","title":"엔디안","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"CPP","type":"folder","path":"programming/CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"programming/CPP/00.reference.ko.md","slug":"programming/CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)","isHub":false,"order":"$undefined"},{"name":"01.member-access-operator.ko.md","type":"file","path":"programming/CPP/01.member-access-operator.ko.md","slug":"programming/CPP/member-access-operator","locale":"ko","title":"member access operator","isHub":false,"order":"$undefined"},{"name":"02.template.ko.md","type":"file","path":"programming/CPP/02.template.ko.md","slug":"programming/CPP/template","locale":"ko","title":"Template","isHub":false,"order":"$undefined"},{"name":"03.smart-pointer.ko.md","type":"file","path":"programming/CPP/03.smart-pointer.ko.md","slug":"programming/CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"DB","type":"folder","path":"programming/DB","children":[{"name":"MySQL","type":"folder","path":"programming/DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"programming/DB/MySQL/00.install.ko.md","slug":"programming/DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행","isHub":false,"order":"$undefined"},{"name":"01.sql-language.ko.md","type":"file","path":"programming/DB/MySQL/01.sql-language.ko.md","slug":"programming/DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리","isHub":false,"order":"$undefined"},{"name":"02.user-management.ko.md","type":"file","path":"programming/DB/MySQL/02.user-management.ko.md","slug":"programming/DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리","isHub":false,"order":"$undefined"},{"name":"03.table.ko.md","type":"file","path":"programming/DB/MySQL/03.table.ko.md","slug":"programming/DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리","isHub":false,"order":"$undefined"},{"name":"04.dml.ko.md","type":"file","path":"programming/DB/MySQL/04.dml.ko.md","slug":"programming/DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)","isHub":false,"order":"$undefined"},{"name":"05.operators.ko.md","type":"file","path":"programming/DB/MySQL/05.operators.ko.md","slug":"programming/DB/MySQL/operators","locale":"ko","title":"MySQL 연산자","isHub":false,"order":"$undefined"},{"name":"06.union.ko.md","type":"file","path":"programming/DB/MySQL/06.union.ko.md","slug":"programming/DB/MySQL/union","locale":"ko","title":"MySQL UNION","isHub":false,"order":"$undefined"},{"name":"07.join.ko.md","type":"file","path":"programming/DB/MySQL/07.join.ko.md","slug":"programming/DB/MySQL/join","locale":"ko","title":"MySQL JOIN","isHub":false,"order":"$undefined"},{"name":"08.result-control.ko.md","type":"file","path":"programming/DB/MySQL/08.result-control.ko.md","slug":"programming/DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어","isHub":false,"order":"$undefined"},{"name":"09.backup.ko.md","type":"file","path":"programming/DB/MySQL/09.backup.ko.md","slug":"programming/DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원","isHub":false,"order":"$undefined"},{"name":"10.csv-to-db.ko.md","type":"file","path":"programming/DB/MySQL/10.csv-to-db.ko.md","slug":"programming/DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python","isHub":false,"order":"$undefined"},{"name":"11.aggregate-func.ko.md","type":"file","path":"programming/DB/MySQL/11.aggregate-func.ko.md","slug":"programming/DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY","isHub":false,"order":"$undefined"},{"name":"12.scalar-func.ko.md","type":"file","path":"programming/DB/MySQL/12.scalar-func.ko.md","slug":"programming/DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary","isHub":false,"order":"$undefined"},{"name":"13.subquery.ko.md","type":"file","path":"programming/DB/MySQL/13.subquery.ko.md","slug":"programming/DB/MySQL/subquery","locale":"ko","title":"Subquery","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"functional-programming","type":"folder","path":"programming/functional-programming","children":[{"name":"00.basic.ko.md","type":"file","path":"programming/functional-programming/00.basic.ko.md","slug":"programming/functional-programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic","isHub":false,"order":"$undefined"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"programming/functional-programming/01.functional-vs-imperative.ko.md","slug":"programming/functional-programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative","isHub":false,"order":"$undefined"},{"name":"02.fxts.ko.md","type":"file","path":"programming/functional-programming/02.fxts.ko.md","slug":"programming/functional-programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs","isHub":false,"order":"$undefined"},{"name":"03.monad.ko.md","type":"file","path":"programming/functional-programming/03.monad.ko.md","slug":"programming/functional-programming/monad","locale":"ko","title":"FP Workshop - 3. Monad","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Python","type":"folder","path":"programming/Python","children":[{"name":"00.settings.ko.md","type":"file","path":"programming/Python/00.settings.ko.md","slug":"programming/Python/settings","locale":"ko","title":"Python 개발환경 설정","isHub":false,"order":"$undefined"},{"name":"01.number.ko.md","type":"file","path":"programming/Python/01.number.ko.md","slug":"programming/Python/number","locale":"ko","title":"Python 숫자형","isHub":false,"order":"$undefined"},{"name":"02.string.ko.md","type":"file","path":"programming/Python/02.string.ko.md","slug":"programming/Python/string","locale":"ko","title":"Python 문자열","isHub":false,"order":"$undefined"},{"name":"03.list.ko.md","type":"file","path":"programming/Python/03.list.ko.md","slug":"programming/Python/list","locale":"ko","title":"Python 리스트","isHub":false,"order":"$undefined"},{"name":"04.tuple.ko.md","type":"file","path":"programming/Python/04.tuple.ko.md","slug":"programming/Python/tuple","locale":"ko","title":"Python 튜플","isHub":false,"order":"$undefined"},{"name":"05.dict.ko.md","type":"file","path":"programming/Python/05.dict.ko.md","slug":"programming/Python/dict","locale":"ko","title":"Python 딕셔너리","isHub":false,"order":"$undefined"},{"name":"06.set.ko.md","type":"file","path":"programming/Python/06.set.ko.md","slug":"programming/Python/set","locale":"ko","title":"Python 집합","isHub":false,"order":"$undefined"},{"name":"07.bool.ko.md","type":"file","path":"programming/Python/07.bool.ko.md","slug":"programming/Python/bool","locale":"ko","title":"Python 불리언","isHub":false,"order":"$undefined"},{"name":"08.statement.ko.md","type":"file","path":"programming/Python/08.statement.ko.md","slug":"programming/Python/statement","locale":"ko","title":"Python 제어문","isHub":false,"order":"$undefined"},{"name":"09.function.ko.md","type":"file","path":"programming/Python/09.function.ko.md","slug":"programming/Python/function","locale":"ko","title":"Python 함수","isHub":false,"order":"$undefined"},{"name":"10.pythonic.ko.md","type":"file","path":"programming/Python/10.pythonic.ko.md","slug":"programming/Python/pythonic","locale":"ko","title":"Pythonic Code","isHub":false,"order":"$undefined"},{"name":"11.class.ko.md","type":"file","path":"programming/Python/11.class.ko.md","slug":"programming/Python/class","locale":"ko","title":"Python 클래스","isHub":false,"order":"$undefined"},{"name":"12.dataclass.ko.md","type":"file","path":"programming/Python/12.dataclass.ko.md","slug":"programming/Python/dataclass","locale":"ko","title":"Python 데이터클래스","isHub":false,"order":"$undefined"},{"name":"13.package.ko.md","type":"file","path":"programming/Python/13.package.ko.md","slug":"programming/Python/package","locale":"ko","title":"Python 패키지와 모듈","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"Arduino","type":"folder","path":"Robotics/Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Robotics/Arduino/00.arduino.ko.md","slug":"Robotics/Arduino/arduino","locale":"ko","title":"Arduino 기본 지식","isHub":false,"order":"$undefined"},{"name":"01.switch.ko.md","type":"file","path":"Robotics/Arduino/01.switch.ko.md","slug":"Robotics/Arduino/switch","locale":"ko","title":"Arduino Switch","isHub":false,"order":"$undefined"},{"name":"02.serial.ko.md","type":"file","path":"Robotics/Arduino/02.serial.ko.md","slug":"Robotics/Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기","isHub":false,"order":"$undefined"},{"name":"03.led.ko..md","type":"file","path":"Robotics/Arduino/03.led.ko..md","slug":"Robotics/Arduino/led.ko.","locale":"$undefined","title":"Arduino LED","isHub":false,"order":"$undefined"},{"name":"04.rfid.ko.md","type":"file","path":"Robotics/Arduino/04.rfid.ko.md","slug":"Robotics/Arduino/rfid","locale":"ko","title":"Arduino RFID","isHub":false,"order":"$undefined"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Robotics/Arduino/05.arduino-llm.ko.md","slug":"Robotics/Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"introduction-to-robotics-craig","type":"folder","path":"Robotics/introduction-to-robotics-craig","children":[{"name":"00.craig-ch01-02-spatial-descriptions.ko.md","type":"file","path":"Robotics/introduction-to-robotics-craig/00.craig-ch01-02-spatial-descriptions.ko.md","slug":"Robotics/introduction-to-robotics-craig/craig-ch01-02-spatial-descriptions","locale":"ko","title":"Introduction to Robotics (Craig) - 1장 서론 · 2장 공간 기술과 변환","isHub":false,"order":"$undefined"}],"slug":"Robotics/introduction-to-robotics-craig","order":"$undefined"},{"name":"pinkrab","type":"folder","path":"Robotics/pinkrab","children":[{"name":"01.origin.ko.md","type":"file","path":"Robotics/pinkrab/01.origin.ko.md","slug":"Robotics/pinkrab/origin","locale":"ko","title":"Pinkrab - 게발의 시작","isHub":false,"order":"$undefined"}],"slug":"Robotics/pinkrab","order":"$undefined"},{"name":"ROS","type":"folder","path":"Robotics/ROS","children":[{"name":"concepts","type":"folder","path":"Robotics/ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"Robotics/ROS/concepts/01.nodes.ko.md","slug":"Robotics/ROS/concepts/nodes","locale":"ko","title":"basic - nodes","isHub":false,"order":"$undefined"},{"name":"02.interfaces.ko.md","type":"file","path":"Robotics/ROS/concepts/02.interfaces.ko.md","slug":"Robotics/ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces","isHub":false,"order":"$undefined"},{"name":"03.topics.ko.md","type":"file","path":"Robotics/ROS/concepts/03.topics.ko.md","slug":"Robotics/ROS/concepts/topics","locale":"ko","title":"basic - topics","isHub":false,"order":"$undefined"},{"name":"04.services.ko.md","type":"file","path":"Robotics/ROS/concepts/04.services.ko.md","slug":"Robotics/ROS/concepts/services","locale":"ko","title":"basic - services","isHub":false,"order":"$undefined"},{"name":"05.actions.ko.md","type":"file","path":"Robotics/ROS/concepts/05.actions.ko.md","slug":"Robotics/ROS/concepts/actions","locale":"ko","title":"basic - actions","isHub":false,"order":"$undefined"},{"name":"06.parameters.ko.md","type":"file","path":"Robotics/ROS/concepts/06.parameters.ko.md","slug":"Robotics/ROS/concepts/parameters","locale":"ko","title":"basic - parameters","isHub":false,"order":"$undefined"},{"name":"07.launch.ko.md","type":"file","path":"Robotics/ROS/concepts/07.launch.ko.md","slug":"Robotics/ROS/concepts/launch","locale":"ko","title":"basic - launch","isHub":false,"order":"$undefined"},{"name":"08.rcl.ko.md","type":"file","path":"Robotics/ROS/concepts/08.rcl.ko.md","slug":"Robotics/ROS/concepts/rcl","locale":"ko","title":"basic - rcl","isHub":false,"order":"$undefined"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"Robotics/ROS/concepts/09.ros_domain_id.ko.md","slug":"Robotics/ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID","isHub":false,"order":"$undefined"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"Robotics/ROS/concepts/10.middleware-vendors.ko.md","slug":"Robotics/ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors","isHub":false,"order":"$undefined"},{"name":"11.logging.ko.md","type":"file","path":"Robotics/ROS/concepts/11.logging.ko.md","slug":"Robotics/ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration","isHub":false,"order":"$undefined"},{"name":"12.qos.ko.md","type":"file","path":"Robotics/ROS/concepts/12.qos.ko.md","slug":"Robotics/ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings","isHub":false,"order":"$undefined"},{"name":"13.executors.ko.md","type":"file","path":"Robotics/ROS/concepts/13.executors.ko.md","slug":"Robotics/ROS/concepts/executors","locale":"ko","title":"intermediate - executors","isHub":false,"order":"$undefined"},{"name":"14.topic-statistics.ko.md","type":"file","path":"Robotics/ROS/concepts/14.topic-statistics.ko.md","slug":"Robotics/ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics","isHub":false,"order":"$undefined"},{"name":"15.rqt.ko.md","type":"file","path":"Robotics/ROS/concepts/15.rqt.ko.md","slug":"Robotics/ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt","isHub":false,"order":"$undefined"},{"name":"16.composition.ko.md","type":"file","path":"Robotics/ROS/concepts/16.composition.ko.md","slug":"Robotics/ROS/concepts/composition","locale":"ko","title":"intermediate - composition","isHub":false,"order":"$undefined"},{"name":"17.cross-compilation.ko.md","type":"file","path":"Robotics/ROS/concepts/17.cross-compilation.ko.md","slug":"Robotics/ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation","isHub":false,"order":"$undefined"},{"name":"18.ros2-security.ko.md","type":"file","path":"Robotics/ROS/concepts/18.ros2-security.ko.md","slug":"Robotics/ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security","isHub":false,"order":"$undefined"},{"name":"19.tf2.ko.md","type":"file","path":"Robotics/ROS/concepts/19.tf2.ko.md","slug":"Robotics/ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.install.ko.md","type":"file","path":"Robotics/ROS/00.install.ko.md","slug":"Robotics/ROS/install","locale":"ko","title":"맥에서 ros2 설치하기","isHub":false,"order":"$undefined"},{"name":"01.pkg.ko.md","type":"file","path":"Robotics/ROS/01.pkg.ko.md","slug":"Robotics/ROS/pkg","locale":"ko","title":"workspace & package","isHub":false,"order":"$undefined"},{"name":"02.nav2.ko.md","type":"file","path":"Robotics/ROS/02.nav2.ko.md","slug":"Robotics/ROS/nav2","locale":"ko","title":"ROS2 Nav2","isHub":false,"order":"$undefined"},{"name":"03.behavior-tree.ko.md","type":"file","path":"Robotics/ROS/03.behavior-tree.ko.md","slug":"Robotics/ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리","isHub":false,"order":"$undefined"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)","isHub":false,"order":"$undefined"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+18:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+1e:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+1f:Tab8b,
+## 들어가며
+
+2편 [GPT-3](/blog/paper-review/pre-vla/gpt-3)은 큰 언어 모델이 예시 몇 개만 보고도 새 작업을 푼다는 것을 보였습니다. 그 뒤 InstructGPT와 ChatGPT는 사람의 지시문과 모범 답변으로 언어 모델을 추가 학습해, 사용자의 요청을 그대로 따르는 모델을 만들었습니다. 이 추가 학습을 **지시 조정(instruction tuning)** 이라고 부릅니다. 2023년 초까지 지시 조정은 텍스트에서만 이루어졌습니다.
+
+이미지 쪽에서는 [4편 CLIP](/blog/paper-review/pre-vla/clip)이 이미지와 텍스트를 같은 벡터 공간에 정렬했고, 그 위에 분류·검출·캡션 생성 모델이 만들어졌습니다. 하지만 이 모델들은 작업마다 따로 설계됐고, 언어는 이미지 내용을 설명하는 데만 쓰였습니다. "이 사진에서 이상한 점이 뭐야?" 같은 자유로운 요청에 맞춰 답을 바꾸는 모델은 드물었습니다.
+
+**LLaVA(Large Language and Vision Assistant)** 는 지시 조정을 이미지-텍스트 영역으로 옮깁니다. 이미지를 보지 못하는 GPT-4에 이미지 캡션과 물체 상자 좌표를 텍스트로 넣어 이미지에 대한 대화 데이터를 만들고, 사전학습된 CLIP 시각 부호기와 Vicuna 언어 모델을 학습 가능한 선형 층 하나로 연결한 뒤 그 데이터로 학습합니다.
+
+📄 [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) — Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee / University of Wisconsin–Madison·Microsoft Research·Columbia University, NeurIPS 2023
+
+프로젝트 페이지는 [llava-vl.github.io](https://llava-vl.github.io)이고, 생성한 데이터와 코드, 모델 가중치가 모두 공개돼 있습니다. arxiv 식별자는 2304.08485이고, 이 글은 2023-12-11에 올라온 v2를 기준으로 합니다.
+
+### 초록 요약
+
+기계가 생성한 지시 추종 데이터로 대형 언어 모델(Large Language Model, LLM)을 지시 조정하면 새 작업에서의 zero-shot 능력이 좋아진다는 것은 알려져 있었지만, 멀티모달 영역에서는 거의 시도되지 않았습니다. 저자들은 텍스트만 다루는 GPT-4로 이미지-언어 지시 추종 데이터를 만든 첫 시도를 제시합니다. 이 데이터로 지시 조정한 LLaVA는 시각 부호기와 LLM을 연결해 종단간(end-to-end)으로 학습한 대형 멀티모달 모델(Large Multimodal Model, LMM)입니다. 평가를 위해 응용 중심의 어려운 과제로 구성한 벤치마크 두 개도 새로 만듭니다.
+
+실험에서 LLaVA는 처음 보는 이미지와 지시에도 멀티모달 GPT-4와 비슷한 대화 행동을 보이고, 합성 멀티모달 지시 추종 데이터셋에서 GPT-4 대비 85.1%의 상대 점수를 얻습니다. ScienceQA로 미세조정한 뒤 GPT-4와 결합하면 정확도 92.53%로 당시 최고 성능을 기록합니다.
+
+---
+
+## 1. 문제 — 지시를 따르는 멀티모달 모델의 부재
+
+### 지시 조정
+
+GPT-3 같은 언어 모델은 다음 토큰 예측으로 사전학습됩니다. 이렇게 학습한 모델은 문장을 이어 쓰는 데는 능숙하지만, 사용자가 "요약해 줘"라고 요청했을 때 요약을 내놓도록 학습된 것은 아닙니다. 지시 조정은 (지시문, 모범 답변) 쌍으로 모델을 추가 학습해 요청을 따르게 만듭니다. 자연어 처리에서는 InstructGPT/ChatGPT, FLAN-T5, FLAN-PaLM, OPT-IML이 이렇게 만들어졌고, zero-shot과 few-shot 일반화가 좋아졌습니다.
+
+2023년 초에는 사람이 쓴 데이터 대신 강한 모델이 생성한 지시 데이터를 쓰는 방법이 나왔습니다. LLaMA를 기반으로 한 Alpaca, Vicuna, GPT-4-LLM은 ChatGPT나 GPT-4가 생성한 지시-답변 쌍으로 학습해 상용 모델에 가까운 성능을 냈습니다. 이 연구들은 모두 텍스트만 다룹니다.
+
+### 기존 멀티모달 접근
+
+| 접근 | 대표 연구 | 한계 |
+|------|----------|------|
+| 작업별 종단간 모델 | 시각-언어 내비게이션, Habitat, InstructPix2Pix | 연구 주제마다 따로 설계, 범용 지시 추종이 아님 |
+| LLM이 여러 모델을 호출하는 시스템 | Visual ChatGPT, X-GPT, MM-REACT, VisProg, ViperGPT | 종단간 학습 모델이 아니라 여러 모델을 LangChain·LLM으로 연결 |
+| 이미지-텍스트 쌍으로 학습한 LMM | Flamingo, BLIP-2, FROMAGe, KOSMOS-1, [PaLM-E](/blog/paper-review/pre-vla/palm-e) | 시각-언어 지시 데이터로 명시적으로 조정하지 않음, 멀티모달 작업 성능이 언어 전용 작업보다 낮음 |
+| LLaMA에 이미지 입력 추가 | OpenFlamingo, LLaMA-Adapter | 같은 문제 |
+
+저자들은 이 목록의 빈 곳을 두 가지로 봅니다. 하나는 시각-언어 지시 추종 데이터가 거의 없다는 점이고, 다른 하나는 그런 데이터로 LMM을 조정했을 때 효과를 확인한 연구가 없다는 점입니다.
+
+시각 지시 조정은 이름이 비슷한 시각 프롬프트 조정(visual prompt tuning)과 다릅니다. 시각 프롬프트 조정은 모델을 새 작업에 맞출 때 학습할 파라미터 수를 줄이는 기법이고, 시각 지시 조정은 모델이 지시를 따르는 능력 자체를 높이는 학습입니다.
+
+### 논문의 기여
+
+| 기여 | 내용 |
+|------|------|
+| 멀티모달 지시 추종 데이터 | ChatGPT/GPT-4로 이미지-텍스트 쌍을 지시 추종 형식으로 바꾸는 절차 |
+| 대형 멀티모달 모델 | CLIP 시각 부호기와 Vicuna 언어 복호기를 연결해 생성 데이터로 종단간 미세조정 |
+| 멀티모달 지시 추종 벤치마크 | LLaVA-Bench (COCO), LLaVA-Bench (In-the-Wild) |
+| 공개 | 생성 데이터, 코드, 모델 가중치, 시각 대화 데모 |
+
+---
+
+## 2. GPT-4를 이용한 시각 지시 데이터 생성
+
+### 단순 확장 방식
+
+CC부터 LAION까지 공개된 이미지-텍스트 쌍은 많지만, 이미지에 대한 지시와 답변 쌍은 적습니다. 사람에게 맡기면 시간이 많이 들고 작성 기준도 정하기 어렵습니다.
+
+가장 간단한 방법은 이미지 $\mathbf{X}_v$와 캡션 $\mathbf{X}_c$가 있을 때, "이미지를 설명해 줘" 같은 질문 $\mathbf{X}_q$를 붙여 다음 형식으로 만드는 것입니다.
+
+$$
+\texttt{Human}: \mathbf{X}_q\ \mathbf{X}_v \texttt{<STOP>}\ \texttt{Assistant}: \mathbf{X}_c \texttt{<STOP>}
+$$
+
+만들기는 쉽지만 질문과 답이 모두 단조롭고, 깊이 있는 추론이 들어가지 않습니다.
+
+### 이미지를 텍스트로 표현하는 방법
+
+저자들은 텍스트만 입력받는 GPT-4 또는 ChatGPT에 이미지 정보를 텍스트로 넣어 데이터를 만듭니다. 이미지를 텍스트로 표현하는 방법은 두 가지입니다.
+
+- **캡션** — 장면을 여러 관점에서 설명한 문장들
+- **경계 상자(bounding box)** — 물체 이름과 정규화된 좌표 $[x_1, y_1, x_2, y_2]$. 물체의 종류와 공간 위치를 함께 담습니다.
+
+이미지는 COCO 데이터셋을 씁니다.
+
+![표 1 — 지시 추종 데이터 예시 이미지](https://arxiv.org/html/2304.08485v2/figures/car_bbox.jpg)
+
+*표 1 — GPT-4에는 이 이미지가 들어가지 않고, 캡션 다섯 개와 상자 좌표만 텍스트로 들어갑니다.*
+
+| 입력 (GPT-4에 주는 텍스트) | 예시 |
+|---------------------------|------|
+| 캡션 | "A group of people standing outside of a black vehicle with various luggage." 외 4개 |
+| 상자 | `person: [0.681, 0.242, 0.774, 0.694]`, `backpack: [0.384, 0.696, 0.485, 0.914]`, `suitcase: …` |
+
+### 생성하는 응답 세 종류
+
+| 응답 종류 | 내용 | 예시 (표 1) | 수량 |
+|----------|------|-----------|------|
+| 대화(conversation) | 사람이 사진에 대해 묻고 어시스턴트가 이미지를 보고 답하는 여러 턴 대화. 물체 종류, 개수, 행동, 위치, 상대 위치를 묻고, 답이 확실한 질문만 포함 | Q: What type of vehicle is featured in the image? A: The image features a black sport utility vehicle (SUV) … | 58K |
+| 상세 설명(detailed description) | 상세 설명을 요청하는 질문 목록에서 하나를 뽑아 이미지 전체를 자세히 설명 | The image is an underground parking area with a black sport utility vehicle (SUV) parked. There are three people in the scene … | 23K |
+| 복잡한 추론(complex reasoning) | 이미지 내용을 바탕으로 단계적 논리가 필요한 질문과 답 | Q: What challenges do these people face? A: … They are facing the challenge of fitting all their luggage into the black SUV … | 77K |
+| **합계** | | | **158K** |
+
+세 종류마다 사람이 몇 개의 예시를 직접 작성합니다. 데이터 수집 과정에서 사람이 쓴 것은 이 예시뿐이고, GPT-4에 요청할 때 in-context learning용 예시로 넣습니다. 초기 실험에서 ChatGPT와 GPT-4를 비교했는데, 공간 추론 같은 항목에서 GPT-4가 일관되게 더 좋은 데이터를 만들었습니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "coco", "label": "COCO 이미지", "sub": "GPT-4에는 전달하지 않음", "row": 0},
+    {"id": "cap",  "label": "캡션 5개", "row": 1},
+    {"id": "box",  "label": "경계 상자", "sub": "물체 이름 + 좌표", "row": 1},
+    {"id": "seed", "label": "사람이 쓴 예시", "sub": "종류별 few-shot 예시", "row": 1},
+    {"id": "gpt",  "label": "GPT-4 (텍스트 전용)", "color": "blue", "row": 2},
+    {"id": "conv", "label": "대화", "sub": "58K", "color": "green", "row": 3},
+    {"id": "det",  "label": "상세 설명", "sub": "23K", "color": "green", "row": 3},
+    {"id": "rea",  "label": "복잡한 추론", "sub": "77K", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "coco", "to": "cap", "label": "기존 주석"},
+    {"from": "coco", "to": "box", "label": "기존 주석"},
+    {"from": "cap",  "to": "gpt"},
+    {"from": "box",  "to": "gpt"},
+    {"from": "seed", "to": "gpt"},
+    {"from": "gpt",  "to": "conv"},
+    {"from": "gpt",  "to": "det"},
+    {"from": "gpt",  "to": "rea"}
+  ],
+  "height": 420
+}
+```
+
+### 대화 생성 프롬프트
+
+부록 표 13은 대화 데이터를 만들 때 GPT-4에 주는 시스템 메시지입니다. 요지는 다음과 같습니다.
+
+- 너는 이미지 한 장을 보고 있는 AI 시각 어시스턴트이고, 보이는 내용은 같은 이미지를 설명한 다섯 문장으로 주어진다. 이미지를 보고 있는 것처럼 답하라.
+- 물체 종류, 개수, 행동, 위치, 물체 사이 상대 위치 등 다양한 질문을 만들되, 이미지에서 확실히 답할 수 있거나 확실히 없다고 판단할 수 있는 질문만 포함하라.
+- 물체의 배경 지식이나 장면에서 일어나는 사건처럼 복잡한 질문도 포함하고, 이런 질문에는 예시와 추론 단계를 들어 자세히 답하라.
+
+그 뒤에 사람이 쓴 (캡션, 대화) 예시 쌍을 user·assistant 메시지로 번갈아 넣고, 마지막에 새 이미지의 캡션과 상자를 user 메시지로 넣습니다. 부록 표 15와 16이 in-context learning 예시로, 눈에 파묻힌 소화전 사진과 스키 타는 사람 사진에 대한 대화입니다.
+
+부록 표 11과 12는 짧은 설명과 상세 설명을 요청할 때 쓰는 질문 목록입니다. "Describe the image concisely.", "Provide a brief description of the given image." 같은 짧은 설명 요청 11개와, "Describe the following image in detail", "Provide a detailed description of the given image" 같은 상세 설명 요청 16개가 있고, 표현만 다르고 뜻은 같습니다.
+
+---
+
+## 3. 모델 구조 — CLIP 시각 부호기, 선형 투영, Vicuna
+
+![그림 1 — LLaVA 네트워크 구조](https://arxiv.org/html/2304.08485v2/llava_arch.svg)
+
+*그림 1 — 시각 부호기가 뽑은 이미지 특징을 투영 행렬 W가 언어 임베딩 토큰으로 바꾸고, 언어 모델이 지시 토큰과 함께 받아 답을 생성합니다.*
+
+구조의 목표는 이미 사전학습된 LLM과 시각 모델의 능력을 그대로 활용하는 것입니다.
+
+| 구성 요소 | 선택 | 이유 |
+|----------|------|------|
+| 언어 모델 $f_\phi$ | Vicuna | 공개된 체크포인트 가운데 언어 작업 지시 추종 능력이 가장 좋음 |
+| 시각 부호기 $g$ | CLIP ViT-L/14 | 사전학습된 CLIP 시각 부호기. 마지막 Transformer 층 앞과 뒤의 격자 특징을 모두 실험 |
+| 연결 층 | 학습 가능한 투영 행렬 $\mathbf{W}$ (선형 층 하나) | 가벼워서 데이터 중심 실험을 빠르게 반복할 수 있음 |
+
+입력 이미지 $\mathbf{X}_v$를 시각 부호기에 넣어 특징 $\mathbf{Z}_v$를 얻고, 투영 행렬로 언어 모델의 단어 임베딩과 같은 차원의 벡터열 $\mathbf{H}_v$로 바꿉니다.
+
+$$
+\mathbf{H}_v = \mathbf{W} \cdot \mathbf{Z}_v, \quad \text{with} \quad \mathbf{Z}_v = g(\mathbf{X}_v)
+$$
+
+$\mathbf{H}_v$는 시각 토큰열입니다. 3편 [ViT](/blog/paper-review/pre-vla/vit)에서 이미지 패치 하나가 벡터 하나가 됐듯이, CLIP ViT-L/14의 격자 특징 하나하나가 언어 모델 입장에서는 단어 임베딩 하나와 같은 형식의 입력이 됩니다. 언어 모델은 이 시각 토큰과 지시문 토큰을 한 줄로 이어 받습니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "img",  "label": "이미지 X_v", "row": 0},
+    {"id": "txt",  "label": "지시문 X_q", "row": 0},
+    {"id": "clip", "label": "CLIP ViT-L/14", "sub": "시각 특징 Z_v", "color": "blue", "row": 1},
+    {"id": "emb",  "label": "단어 임베딩", "sub": "Vicuna 토크나이저", "row": 1},
+    {"id": "proj", "label": "투영 행렬 W", "sub": "선형 층 하나", "color": "orange", "row": 2},
+    {"id": "llm",  "label": "Vicuna", "sub": "언어 모델 f_φ", "color": "blue", "row": 3},
+    {"id": "ans",  "label": "답변 X_a", "sub": "다음 토큰 예측", "color": "green", "row": 4}
+  ],
+  "edges": [
+    {"from": "img",  "to": "clip"},
+    {"from": "clip", "to": "proj"},
+    {"from": "proj", "to": "llm", "label": "시각 토큰 H_v"},
+    {"from": "txt",  "to": "emb"},
+    {"from": "emb",  "to": "llm", "label": "언어 토큰 H_q"},
+    {"from": "llm",  "to": "ans"}
+  ],
+  "height": 460
+}
+```
+
+이미지와 언어 표현을 연결하는 더 정교한 방법도 있습니다. Flamingo는 게이트 교차 주의(gated cross-attention) 층을 언어 모델 안에 끼워 넣고, BLIP-2는 학습 가능한 질의 토큰으로 이미지 특징을 요약하는 Q-former를 둡니다. LLaVA는 선형 층 하나로 시작하고, 더 효과적인 연결 구조 탐색은 이후 과제로 남깁니다.
+
+---
+
+## 4. 학습 — 입력 형식과 두 단계
+
+### 다중 턴 대화의 입력 형식
+
+이미지 $\mathbf{X}_v$마다 다중 턴 대화 $(\mathbf{X}_q^1, \mathbf{X}_a^1, \cdots, \mathbf{X}_q^T, \mathbf{X}_a^T)$가 있습니다. $T$는 턴 수입니다. $t$번째 턴의 지시 $\mathbf{X}_{\text{instruct}}^t$는 다음과 같이 정합니다.
+
+| 턴 | $\mathbf{X}_{\text{instruct}}^t$ |
+|----|------------------------------|
+| 첫 턴 ($t=1$) | $[\mathbf{X}_q^1, \mathbf{X}_v]$ 또는 $[\mathbf{X}_v, \mathbf{X}_q^1]$ 중 무작위 선택 |
+| 나머지 턴 ($t>1$) | $\mathbf{X}_q^t$ |
+
+이미지는 첫 턴에 한 번만 들어가고, 질문 앞에 둘지 뒤에 둘지를 무작위로 바꿔 모델이 한 가지 순서에만 익숙해지지 않게 합니다. 이렇게 만든 전체 입력열은 표 2의 형식입니다.
+
+```text
+X_system-message <STOP>
+Human: X_instruct^1 <STOP> Assistant: X_a^1 <STOP>
+Human: X_instruct^2 <STOP> Assistant: X_a^2 <STOP> ...
+```
+
+*표 2 — 학습 입력열. 시스템 메시지는 Vicuna-v0 설정을 따르고 `<STOP>`은 `###`입니다. 손실은 어시스턴트 답변 토큰과 그 뒤의 `<STOP>`에서만 계산합니다.*
+
+모델은 어시스턴트의 답변과 답변을 끝낼 위치를 예측하도록 학습합니다. 사람 질문이나 시스템 메시지 부분은 입력으로만 쓰고 손실 계산에서 제외합니다. 길이 $L$인 열에서 목표 답변 $\mathbf{X}_a$의 확률은 다음과 같습니다.
+
+$$
+p(\mathbf{X}_a \mid \mathbf{X}_v, \mathbf{X}_{\text{instruct}}) = \prod_{i=1}^{L} p_\theta(x_i \mid \mathbf{X}_v, \mathbf{X}_{\text{instruct}, <i}, \mathbf{X}_{a, <i})
+$$
+
+$\theta$는 학습 가능한 파라미터이고, $\mathbf{X}_{\text{instruct}, <i}$와 $\mathbf{X}_{a, <i}$는 현재 예측 토큰 $x_i$ 이전 모든 턴의 지시와 답변 토큰입니다. 조건에 $\mathbf{X}_v$를 따로 적은 것은 모든 답이 이미지에 근거한다는 점을 보이기 위해서입니다. 학습 목표는 2편 GPT-3과 같은 자기회귀 다음 토큰 예측이고, 달라진 점은 입력에 시각 토큰이 섞이고 손실을 답변 토큰에서만 계산한다는 것입니다.
+
+### 두 단계 학습
+
+| 항목 | 1단계: 특징 정렬 사전학습 | 2단계: 종단간 미세조정 |
+|------|------------------------|---------------------|
+| 목적 | 이미지 특징 $\mathbf{H}_v$를 고정된 LLM의 단어 임베딩 공간에 맞춤 | 지시 추종 능력 학습 |
+| 데이터 | CC3M에서 거른 595K 이미지-텍스트 쌍, 단순 확장 방식으로 단일 턴 대화화 | 멀티모달 챗봇: LLaVA-Instruct-158K / ScienceQA |
+| 입력 | 짧은 설명 요청 질문(표 11)을 무작위로 뽑음, 정답은 원래 캡션 | 챗봇: 대화는 다중 턴, 나머지 두 종류는 단일 턴, 세 종류를 균등하게 표본 추출 |
+| 시각 부호기 | 고정 | 고정 |
+| 투영 행렬 $\mathbf{W}$ | **학습** | **학습** |
+| LLM | 고정 | **학습** |
+| 학습 가능 파라미터 | $\theta = \mathbf{W}$ | $\theta = \{\mathbf{W}, \phi\}$ |
+| 세대 수 · 학습률 · 배치 | 1 epoch · 2e-3 · 128 | 3 epoch · 2e-5 · 32 (챗봇) |
+| 학습 시간 (A100 8장) | 4시간 이내 | 챗봇 10시간 이내, ScienceQA 4시간 이내 |
+
+1단계는 시각 부호기와 LLM을 모두 고정하고 투영 행렬만 학습합니다. 논문은 이 단계를 고정된 LLM에 맞는 시각 토크나이저를 학습하는 과정으로 설명합니다. 2단계에서는 시각 부호기만 계속 고정하고, 투영 층과 LLM을 함께 갱신합니다.
+
+ScienceQA에서는 질문과 맥락을 $\mathbf{X}_{\text{instruct}}$로, 풀이 과정과 정답을 $\mathbf{X}_a$로 둔 단일 턴 대화 형식으로 학습합니다.
+
+최적화는 Vicuna 설정을 따릅니다. 가중치 감쇠 없는 Adam, 워밍업 비율 3%의 코사인 학습률 일정을 쓰고, GPU 메모리를 줄이려고 FSDP(Full Shard Data Parallel)와 기울기 체크포인팅을 켜고 오프로딩은 쓰지 않습니다. 속도와 정밀도의 균형을 위해 BF16과 TF32를 사용합니다.
+
+### CC3M 필터링
+
+1단계 데이터는 개념을 넓게 포함하면서 학습 비용은 줄이도록 CC3M을 거른 것입니다.
+
+1. 전체 CC3M 캡션에서 Spacy로 명사구를 뽑아 명사구별 빈도를 셉니다.
+2. 빈도가 3보다 작은 명사구는 건너뜁니다. 이런 명사구는 대개 드문 개념·속성 조합이고 다른 캡션에 이미 포함된 개념입니다.
+3. 남은 명사구를 빈도가 낮은 것부터 차례로 보며, 그 명사구가 들어간 캡션을 후보에 추가합니다.
+4. 명사구 빈도가 100보다 크면 해당 캡션 가운데 100개만 무작위로 고릅니다.
+
+결과는 약 595K 이미지-텍스트 쌍입니다.
+
+![그림 7 — CC3M 필터링 전후 명사구 통계](https://arxiv.org/html/2304.08485v2/cmp_noun_phrase_counter.png)
+
+*그림 7 — 필터링 전후의 명사구 빈도 분포. 범례에는 고유 명사구 총수가 표시됩니다.*
+
+필터링한 데이터셋은 빈도 3 이상의 개념을 고르게 포함하면서 이미지-텍스트 쌍 수는 크게 줄었습니다.
+
+---
+
+## 5. 멀티모달 챗봇 실험
+
+### 정성 비교 — GPT-4 논문 예시
+
+LLaVA가 이미지 이해와 대화를 얼마나 하는지 보려고, 저자들은 GPT-4 기술 보고서에 실린 예시를 그대로 가져와 비교합니다. GPT-4의 답은 보고서에서 인용하고, BLIP-2와 OpenFlamingo는 공개 체크포인트에 직접 질문했습니다.
+
+![표 3 — Extreme Ironing 예시 이미지](https://arxiv.org/html/2304.08485v2/figures/img_extreme_ironing.png)
+
+*표 3 — 노란 택시에 매단 다리미판에서 사람이 다리미질하는 사진. GPT-4 기술 보고서의 시각 추론 예시입니다.*
+
+| 모델 | 질문 | 답변 (원문) |
+|------|------|-----------|
+| LLaVA | What is unusual about this image? | The unusual aspect of this image is a man ironing clothes on the back of a minivan or van. This is not a typical place to perform this activity … it involves a makeshift ironing setup on a vehicle, which can be both unsafe and unconventional. … |
+| LLaVA (새 대화) | What's happening in the scene? | The image depicts a man standing on top of a yellow SUV in a busy city street. He is holding a portable ladder, seemingly ironing clothes while standing on the vehicle. … The man on the ladder appears to be attracting attention due to his unconventional choice of ironing his clothes on top of a moving car. … |
+| GPT-4 | What is unusual about this image? | The unusual thing about this image is that a man is ironing clothes on an ironing board attached to the roof of a moving taxi. |
+| BLIP-2 | What is unusual about this image? | a man is sitting on the back of a yellow cab |
+| OpenFlamingo | What is unusual about this image? | The man is drying his clothes on the hood of his car. |
+
+BLIP-2와 OpenFlamingo는 질문과 상관없이 장면을 묘사하는 데 그칩니다. LLaVA는 무엇이 이상한지를 묻는 질문에 맞춰 답하고, 단순히 장면을 설명해 달라는 질문에도 이상한 점을 짚습니다. LLaVA의 학습 데이터에 들어간 고유 이미지는 약 80K 장이고 이 예시 이미지는 학습 분포 밖이지만, 답의 추론 방향은 멀티모달 GPT-4와 비슷합니다.
+
+### 정량 평가 방식
+
+지시 추종 능력을 수치로 비교하려고, 저자들은 GPT-4를 채점자로 씁니다.
+
+1. (이미지, 정답 텍스트 설명, 질문) 세 개를 한 묶음으로 만듭니다.
+2. 평가 대상 모델(LLaVA 등)은 질문과 이미지를 보고 답합니다.
+3. 텍스트 전용 GPT-4는 질문과 정답 텍스트 설명을 보고 답합니다. 이미지를 텍스트로 완전하게 받은 모델의 답이므로, 대략적인 상한으로 씁니다.
+4. 채점자(텍스트 전용 GPT-4)에게 질문, 텍스트로 된 시각 정보, 두 답을 주고 도움됨·관련성·정확도·상세함을 기준으로 각각 1–10점을 매기게 합니다. 점수와 함께 판단 근거도 쓰게 합니다.
+5. 평가 모델 점수를 텍스트 전용 GPT-4 점수에 대한 **상대 점수(%)** 로 보고합니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "q",     "label": "질문", "row": 0},
+    {"id": "img",   "label": "이미지", "row": 0},
+    {"id": "gt",    "label": "정답 텍스트 설명", "sub": "캡션·상자 또는 사람이 쓴 설명", "row": 0},
+    {"id": "llava", "label": "LLaVA", "sub": "이미지 + 질문", "color": "blue", "row": 1},
+    {"id": "ref",   "label": "GPT-4 (텍스트 전용)", "sub": "설명 + 질문 → 기준 답", "color": "blue", "row": 1},
+    {"id": "judge", "label": "GPT-4 채점자", "sub": "도움됨·관련성·정확도·상세함, 1–10점", "color": "orange", "row": 2},
+    {"id": "score", "label": "상대 점수", "sub": "LLaVA 점수 / GPT-4 점수", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "img",   "to": "llava"},
+    {"from": "q",     "to": "llava"},
+    {"from": "q",     "to": "ref"},
+    {"from": "gt",    "to": "ref"},
+    {"from": "llava", "to": "judge"},
+    {"from": "ref",   "to": "judge"},
+    {"from": "gt",    "to": "judge"},
+    {"from": "judge", "to": "score"}
+  ],
+  "height": 440
+}
+```
+
+### LLaVA-Bench (COCO)
+
+COCO-Val-2014에서 이미지 30장을 무작위로 고르고, 2절의 생성 절차로 이미지마다 대화·상세 설명·복잡한 추론 질문을 하나씩 만들어 총 90개 질문을 구성합니다. 입력 이미지가 학습 데이터와 같은 분포에 있으므로, 모델의 정렬 행동과 능력을 일관된 조건에서 볼 수 있습니다.
+
+학습 데이터 구성을 바꿔 가며 비교한 결과가 표 4입니다.
+
+| 학습 데이터 | 대화 | 상세 설명 | 복잡한 추론 | 전체 |
+|-----------|------|---------|-----------|------|
+| 전체 데이터 | 83.1 | 75.3 | 96.5 | **85.1** |
+| 상세 설명 + 복잡한 추론 | 81.5 (-1.6) | 73.3 (-2.0) | 90.8 (-5.7) | 81.9 (-3.2) |
+| 대화 + 상세 설명 5% + 복잡한 추론 10% | 81.0 (-2.1) | 68.4 (-7.1) | 91.5 (-5.0) | 80.5 (-4.4) |
+| 대화만 | 76.5 (-6.6) | 59.8 (-16.2) | 84.9 (-12.4) | 73.8 (-11.3) |
+| 지시 조정 없음 | 22.0 (-61.1) | 24.0 (-51.3) | 18.5 (-78.0) | 21.5 (-63.6) |
+
+*표 4 — 학습 데이터 구성별 LLaVA-Bench (COCO) 상대 점수(%). 기준은 정답 캡션과 상자를 입력으로 받은 텍스트 전용 GPT-4입니다. 괄호는 원문에 인쇄된 전체 데이터 대비 차이입니다.*
+
+괄호 안 차이값 가운데 네 칸은 같은 표의 점수로 계산한 값과 다릅니다. 셋째 줄의 상세 설명(68.4, 계산하면 -6.9)과 전체(80.5, 계산하면 -4.6), 넷째 줄의 상세 설명(59.8, 계산하면 -15.5)과 복잡한 추론(84.9, 계산하면 -11.6)이고, 논문만으로는 점수와 차이값 중 어느 쪽이 맞는지 알 수 없어 둘 다 원문대로 둡니다.
+
+결과는 세 가지로 읽힙니다.
+
+- 지시 조정을 하면 지시 추종 능력이 50점 넘게 오릅니다(21.5 → 85.1).
+- 대화 데이터에 상세 설명과 복잡한 추론 데이터를 조금만 더해도 전체 점수가 7점 가까이 오릅니다(73.8 → 80.5). 대화 질문 점수도 함께 오르므로, 추론 능력이 대화 능력을 보완한다고 해석합니다.
+- 세 종류를 모두 쓸 때 85.1%로 가장 높습니다.
+
+### LLaVA-Bench (In-the-Wild)
+
+더 어려운 과제와 새로운 영역에서의 일반화를 보려고, 실내·실외 장면, 밈, 그림, 스케치 등 이미지 24장에 질문 60개를 모았습니다. 이미지마다 사람이 매우 자세한 설명을 직접 작성해 채점 기준으로 씁니다.
+
+| 모델 | 대화 | 상세 설명 | 복잡한 추론 | 전체 |
+|------|------|---------|-----------|------|
+| OpenFlamingo | 19.3 ± 0.5 | 19.0 ± 0.5 | 19.1 ± 0.7 | 19.1 ± 0.4 |
+| BLIP-2 | 54.6 ± 1.4 | 29.1 ± 1.2 | 32.9 ± 0.7 | 38.1 ± 1.0 |
+| LLaVA | 57.3 ± 1.9 | 52.5 ± 6.3 | 81.7 ± 1.8 | **67.3 ± 2.0** |
+| LLaVA† | 58.8 ± 0.6 | 49.2 ± 0.8 | 81.4 ± 0.3 | 66.7 ± 0.3 |
+
+*표 5 — LLaVA-Bench (In-the-Wild) 상대 점수(%), 평균 ± 표준편차. 위 세 줄은 추론을 세 번 반복한 결과이고, †는 LLaVA의 같은 답변 묶음을 GPT-4에 세 번 채점시킨 결과입니다.*
+
+LLaVA는 BLIP-2보다 29%, OpenFlamingo보다 48% 높습니다. 정답 설명을 텍스트로 받은 GPT-4 대비 복잡한 추론에서 81.7%, 전체 67.3%입니다. † 줄의 표준편차가 0.3–0.8로 작으므로, GPT-4 채점이 반복해도 거의 같은 점수를 낸다는 것도 확인됩니다.
+
+### 벤치마크가 드러낸 한계
+
+![표 6 — 이치란 라멘 사진](https://arxiv.org/html/2304.08485v2/figures/sample_bench_ramen.jpg)
+
+*표 6 왼쪽 — 이치란 라멘 한 상. 질문은 "What's the name of the restaurant?"와 "Describe this photo in detail."입니다.*
+
+![표 6 — 가득 찬 냉장고 사진](https://arxiv.org/html/2304.08485v2/figures/sample_bench_fridge.jpg)
+
+*표 6 오른쪽 — 음식이 가득 찬 냉장고. 질문은 "What is the brand of the blueberry-flavored yogurt?"와 "Is there strawberry-flavored yogurt in the fridge?"입니다.*
+
+LLaVA-Bench (In-the-Wild)는 모델의 약점을 드러내도록 일부러 어렵게 구성했습니다.
+
+- **라멘 사진** — 식당 이름을 맞히려면 넓은 지식과 다국어 이해가 필요하고, 곁들임 반찬을 정확히 설명하려면 인터넷에서 관련 멀티모달 정보를 찾아야 할 수도 있습니다.
+- **냉장고 사진** — 요거트 브랜드를 알아보려면 고해상도 이미지 처리와 넓은 지식이 필요합니다. 냉장고에 요거트와 딸기만 따로 있는데도 LLaVA는 딸기 맛 요거트가 있느냐는 질문에 "yes"라고 답했습니다. 저자들은 LLaVA가 이미지를 **패치들의 묶음(bag of patches)** 으로 인식해, 요거트와 딸기가 각각 보인다는 사실과 딸기 맛 요거트가 있다는 사실을 구별하지 못한 경우로 설명합니다.
+
+---
+
+## 6. ScienceQA 실험
+
+### 데이터셋과 비교 대상
+
+ScienceQA는 3개 과목, 26개 주제, 127개 범주, 379개 기술에 걸친 멀티모달 객관식 문항 21k개로 구성됩니다. 학습·검증·시험 분할은 각각 12726, 4241, 4241개입니다. 문항마다 자연어나 이미지 형태의 맥락이 주어지고, 답과 함께 강의 내용과 풀이가 주석돼 있습니다.
+
+LLaVA는 마지막 층 직전의 시각 특징을 쓰고, 풀이를 먼저 생성한 뒤 답을 내도록 12 epoch 학습합니다.
+
+### 결과
+
+| 방법 | NAT | SOC | LAN | TXT | IMG | NO | G1-6 | G7-12 | 평균 |
+|------|-----|-----|-----|-----|-----|----|------|-------|------|
+| *문헌에 보고된 대표·최고 성능 방법* | | | | | | | | | |
+| 사람 | 90.23 | 84.97 | 87.48 | 89.60 | 87.50 | 88.10 | 91.59 | 82.42 | 88.40 |
+| GPT-3.5 | 74.64 | 69.74 | 76.00 | 74.44 | 67.28 | 77.42 | 76.80 | 68.89 | 73.97 |
+| GPT-3.5 w/ CoT | 75.44 | 70.87 | 78.09 | 74.68 | 67.43 | 79.93 | 78.23 | 69.68 | 75.17 |
+| LLaMA-Adapter | 84.37 | 88.30 | 84.36 | 83.72 | 80.32 | 86.90 | 85.83 | 84.05 | 85.19 |
+| MM-CoT Base | 87.52 | 77.17 | 85.82 | 87.88 | 82.90 | 86.83 | 84.65 | 85.37 | 84.91 |
+| MM-CoT Large | 95.91 | 82.00 | 90.82 | 95.26 | 88.80 | 92.89 | 92.44 | 90.31 | 91.68 |
+| *저자 실험* | | | | | | | | | |
+| GPT-4† | 84.06 | 73.45 | 87.36 | 81.87 | 70.75 | 90.73 | 84.69 | 79.10 | 82.69 |
+| LLaVA | 90.36 | 95.95 | 88.00 | 89.49 | 88.00 | 90.66 | 90.93 | 90.90 | 90.92 |
+| LLaVA+GPT-4† (보완) | 90.36 | 95.50 | 88.55 | 89.05 | 87.80 | 91.08 | 92.22 | 88.73 | 90.97 |
+| LLaVA+GPT-4† (채점자) | 91.56 | 96.74 | 91.09 | 90.62 | 88.99 | 93.52 | 92.73 | 92.16 | **92.53** |
+
+*표 7 — ScienceQA 정확도(%). NAT 자연과학, SOC 사회과학, LAN 언어과학, TXT 텍스트 맥락, IMG 이미지 맥락, NO 맥락 없음, G1-6 1–6학년, G7-12 7–12학년. †는 텍스트 전용 GPT-4를 저자들이 직접 평가한 결과입니다.*
+
+LLaVA 단독은 90.92%로, 당시 최고 성능인 MM-CoT Large의 91.68%에 가깝습니다.
+
+### GPT-4와의 결합
+
+GPT-4에 2-shot in-context learning으로 문제를 풀게 하면 82.69%로, GPT-3.5 w/ CoT의 75.17%보다 7.52%p 높습니다. 다만 상당수 문항에서 GPT-4는 이미지나 도표 같은 맥락이 없다며 답을 내지 못합니다. 저자들은 LLaVA와 GPT-4의 결과를 결합하는 두 방식을 시험합니다.
+
+| 방식 | 절차 | 정확도 |
+|------|------|-------|
+| GPT-4 보완 | GPT-4가 답을 내지 못한 문항에만 LLaVA의 답을 씀 | 90.97% (LLaVA 단독과 거의 같음) |
+| GPT-4 채점자 | GPT-4와 LLaVA의 답이 다르면, 질문과 두 답을 GPT-4에 다시 주고 최종 답을 고르게 함 | **92.53%** |
+
+채점자 방식은 모든 문항 범주에서 성능을 올립니다. 이미지를 볼 수 없는 GPT-4가 이미지 맥락이 있는 문항(IMG)의 성능까지 올린다는 점이 눈에 띕니다. 이런 문항 가운데 일부는 실제로 이미지를 보지 않아도 답할 수 있고, GPT-4 채점자가 그런 경우를 찾아 LLaVA의 오답을 바로잡기 때문입니다. 저자들은 GPT-4를 모델 앙상블에 쓴 첫 사례로 봅니다.
+
+![표 10 — GPT-4 채점자 예시](https://arxiv.org/html/2304.08485v2/figures/sqa_judge_chair.png)
+
+*표 10 — 흔들의자의 재질을 묻는 문항. LLaVA는 (B) silk, 텍스트 전용 GPT-4는 (A) wood라고 답하고, GPT-4 채점자가 (A)를 최종 답으로 고릅니다.*
+
+| 역할 | 답변 요지 |
+|------|---------|
+| LLaVA | 강의 내용을 쓴 뒤 "The legs are made of wood, and the back and seat are made of silk." 라고 풀이하고 B를 고름 |
+| GPT-4 (텍스트 전용) | 흔들의자는 사람 무게와 흔들림을 견딜 튼튼한 재료로 만들고, 나무가 흔히 쓰인다며 A를 고름 |
+| GPT-4 채점자 | 참고할 이미지는 없지만, 비단은 흔들의자 구조재로 쓰기 어렵고 나무라는 설명이 상식에 맞다며 A를 최종 답으로 고름 |
+
+이 예시에서 채점자는 "나무라는 답은 Assistant 1이 제시했다"고 쓰는데, 나무를 답한 쪽은 Assistant 2(텍스트 전용 GPT-4)입니다. 최종 답 A는 맞지만 채점자가 쓴 근거의 출처 표기는 틀린 채로 표에 실려 있습니다.
+
+---
+
+## 7. 설계 선택 제거 실험
+
+ScienceQA에서 설계 선택을 하나씩 바꿔 봅니다.
+
+| 설정 | 마지막 층 직전 특징 | 마지막 층 특징 |
+|------|------------------|--------------|
+| 최고 설정 | 90.92 | 89.96 (-0.96) |
+| 답을 먼저 예측 | - | 89.77 (-1.15) |
+| 사전학습 없이 학습 | 85.81 (-5.11) | - |
+| 7B 모델 | 89.84 (-1.08) | - |
+
+*표 8 — 설계 선택 제거 실험 정확도(%). 괄호는 최고 설정과의 차이입니다.*
+
+| 제거 항목 | 결과 | 해석 |
+|----------|------|------|
+| 시각 특징 위치 | CLIP 시각 부호기의 마지막 층 특징을 쓰면 89.96%로, 마지막 층 직전 특징보다 0.96% 낮음 | 마지막 층 특징은 이미지 전체의 추상적 성질에 치우치고, 직전 층 특징은 세부 이해에 필요한 국소 정보를 더 담는다고 가정 |
+| 풀이와 답의 순서 | 답을 먼저 내게 하면 12 epoch에서 89.77%. 풀이를 먼저 내게 하면 6 epoch 만에 89.77%에 도달하지만 그 뒤로 더 오르지 않고, 24 epoch까지 학습해도 개선이 없음 | 풀이를 먼저 쓰는 사고 사슬(chain-of-thought) 방식은 수렴을 크게 빠르게 하지만 최종 성능 기여는 상대적으로 작음 |
+| 1단계 사전학습 | 사전학습 없이 ScienceQA로 바로 학습하면 85.81%, 5.11% 하락 | 사전학습 단계가 LLM의 기존 지식을 유지하면서 멀티모달 특징을 정렬하는 데 중요 |
+| 모델 크기 | 다른 설정을 13B 최고 모델과 같게 두고 7B로 학습하면 89.84%, 1.08% 하락 | 모델 크기가 성능에 영향 |
+
+풀이 순서 항목은 본문과 표가 서로 맞지 않습니다. 표 8의 최고 설정 90.92%가 풀이를 먼저 내는 12 epoch 모델인데, 본문은 풀이를 먼저 내는 방식이 6 epoch 이후 89.77%에서 더 오르지 않는다고 적습니다. 본문의 이 문장이 표 8과 다른 시각 특징(마지막 층) 설정을 가리키는지는 논문에 적혀 있지 않아, 두 값을 모두 원문대로 옮깁니다.
+
+---
+
+## 8. 부록 자료 — 추가 정성 결과
+
+부록 B는 LLaVA가 학습 데이터에서 직접 다루지 않은 능력을 보인 사례를 모읍니다.
+
+### 밈 해석
+
+![표 9 — 치킨 너겟 지도 밈](https://arxiv.org/html/2304.08485v2/figures/chicken_nugget.png)
+
+*표 9 — 치킨 너겟을 세계 지도처럼 늘어놓은 밈. GPT-4 기술 보고서의 또 다른 예시입니다.*
+
+| 모델 | 답변 요지 |
+|------|---------|
+| LLaVA | 문구 "Sometimes I just look at pictures of the Earth from space and I marvel at how beautiful it all is…"와 대륙 모양으로 놓인 치킨 너겟을 함께 설명하고, 음식과 유머를 결합한 밈이라고 해석 |
+| GPT-4 | 우주에서 본 지구 사진이라는 문구가 기대를 만들고 실제 이미지는 치킨 너겟이라는 대비에서 웃음이 나온다고 더 짧게 설명 |
+| BLIP-2 | 문구를 그대로 옮겨 적음 |
+| OpenFlamingo | "It's a picture of a chicken nugget on the International Space Station." |
+
+BLIP-2와 OpenFlamingo는 지시를 따르지 못하고, LLaVA와 GPT-4는 밈의 유머를 설명합니다. GPT-4의 답이 더 간결합니다.
+
+### 스케치에서 웹사이트 코드 생성
+
+![그림 2 — 스케치에서 HTML/JS 코드 생성](https://arxiv.org/html/2304.08485v2/website_code.png)
+
+*그림 2 — 손으로 그린 웹사이트 스케치를 보고 농담 웹사이트의 HTML/JS 코드를 생성합니다. 빨간색으로 표시한 작은 오류 하나를 고치면 동작합니다.*
+
+OpenAI의 GPT-4 시연처럼, 단순한 스케치를 입력하면 대화형 농담 웹사이트 코드를 만듭니다. 농담과 펀치라인을 두 줄로 나누고 버튼을 눌렀을 때만 펀치라인을 보여 주는 식으로 사용자 의도를 더 정확히 반영할 여지는 남아 있습니다. 스케치의 손글씨를 읽는 문자 인식(OCR) 능력도 보이는데, 학습 데이터에는 이런 사례가 거의 없었습니다.
+
+### 의도에 맞춘 시각 인식
+
+![그림 3 — 냉장고 요리 제안](https://arxiv.org/html/2304.08485v2/fridge_recipe.png)
+
+*그림 3 위 — 냉장고 사진을 보고 만들 수 있는 요리를 제안하고, 과일 샐러드 조리법을 요청하면 재료와 순서를 씁니다.*
+
+![그림 3 — 장면 기반 후기 작성](https://arxiv.org/html/2304.08485v2/scene_and_review.png)
+
+*그림 3 아래 — 호수 위 부두 사진을 보고 방문할 때 주의할 점을 답하고, 이어서 그 장소에 대한 여행 블로그 글을 씁니다.*
+
+사용자가 "무엇이 보이느냐"고 직접 묻지 않아도, 요청을 처리하는 데 필요한 시각 내용을 스스로 인식합니다. 후속 요청에는 이미지 내용과 밀접하게 연결된 자세한 답을 냅니다.
+
+### LLM 지식과의 연결
+
+![그림 4 — 영화 장면 인식](https://arxiv.org/html/2304.08485v2/titanic.png)
+
+*그림 4 — 영화 타이타닉의 장면을 사전학습된 LLM의 텍스트 지식과 연결해 설명합니다.*
+
+![그림 5 — 모나리자 인식](https://arxiv.org/html/2304.08485v2/monalisa.png)
+
+*그림 5 — 레오나르도 다 빈치의 모나리자를 알아보고, 새 대화에서는 모나리자를 흉내 낸 웹의 패러디 그림의 유머를 설명합니다.*
+
+### 학습 데이터에 없는 인물 인식
+
+![그림 6 — 일론 머스크 인식](https://arxiv.org/html/2304.08485v2/elon_musk.png)
+
+*그림 6 — 증명사진과 도지 밈으로 분장한 사진 모두에서 일론 머스크를 알아봅니다.*
+
+일론 머스크는 LLaVA의 1단계 특징 정렬 데이터에도 2단계 지시 조정 데이터에도 나오지 않습니다. 사전학습된 CLIP 시각 부호기가 그의 이미지를 본 적이 있을 가능성은 있지만, 그렇더라도 LLaVA 학습에서 한 번도 다루지 않은 시각 개념을 언어 모델이 이름과 연결했다는 뜻입니다. 저자들은 이 일반화가 어떤 원리로 생기는지 더 조사해야 한다고 밝힙니다.
+
+---
+
+## 9. 사회적 영향
+
+부록 A는 LLaVA를 공개할 때의 위험을 정리합니다.
+
+| 항목 | 내용 |
+|------|------|
+| 악의적 입력 | 오용을 줄이려고 두 가지를 적용함. 사용자 입력 텍스트에는 OpenAI Filter API를 걸어 유해하거나 부적절한 지시를 막고, 업로드 이미지에는 NSFW 필터를 걸어 유해한 이미지 입력을 차단함 |
+| 환각(hallucination) | LLM처럼 사실이나 입력에 근거하지 않은 출력을 낼 수 있음. 의료 같은 중요한 응용에서 우려 |
+| 편향 | 시각 부호기(CLIP)와 언어 복호기(LLaMA/Vicuna)의 편향이 LLaVA로 옮겨올 수 있음 |
+| 에너지 소비 | 사전학습 데이터가 작아 LLaVA 자체의 소비는 크지 않지만, 데이터나 모델(예: LLaMA 65B)을 키우면 문제가 될 수 있음 |
+| 평가의 어려움 | 벤치마크가 정확도·개념 범위·추론·창의성을 보지만, 시각 내용 환각 정도와 세밀한 시각 이해는 다루지 못함. GPT-4 채점의 강건성도 추가 검증 필요 |
+
+저자들은 이런 위험에도 연구 공동체에 공개하는 이점이 더 크다고 봅니다. 공개해야 모델을 계속 조사하고 개선할 수 있고, 위험을 줄이는 방법도 여럿이 함께 개발할 수 있다는 판단입니다.
+
+---
+
+## 10. 저자가 밝힌 한계
+
+첫째, LLaVA-Bench (In-the-Wild)에서 보았듯이 고해상도 세부 인식, 넓은 지식, 다국어 이해가 필요한 질문에 약하고, 이미지 안 물체들의 관계를 정확히 파악하지 못하는 경우가 있습니다(딸기 맛 요거트 사례).
+
+둘째, 시각 부호기와 언어 모델을 잇는 연결 층은 선형 층 하나뿐입니다. Flamingo의 게이트 교차 주의나 BLIP-2의 Q-former처럼 더 정교한 연결 구조는 탐색하지 않았습니다.
+
+셋째, 논문은 실생활 과제에 초점을 맞춘 시각 지시 조정의 첫 단계입니다. 학술 벤치마크에서의 정량 결과는 후속 논문(Improved Baselines with Visual Instruction Tuning, LLaVA-1.5)에서 다룹니다.
+
+---
+
+## 11. 정리 — VLA 선행 연구에서의 위치
+
+LLaVA는 사전학습된 시각 부호기와 사전학습된 LLM을 선형 투영 층 하나로 연결하고, GPT-4로 만든 시각 지시 데이터로 학습해 이미지를 보고 지시를 따르는 모델을 만들었습니다.
+
+- **데이터 생성** — 이미지를 보지 못하는 GPT-4에 캡션과 상자 좌표를 텍스트로 넣어, 대화 58K·상세 설명 23K·복잡한 추론 77K, 총 158K 지시 데이터를 만듭니다. 사람이 쓴 것은 종류별 few-shot 예시뿐입니다.
+- **구조** — CLIP ViT-L/14 격자 특징을 투영 행렬 $\mathbf{W}$로 Vicuna의 단어 임베딩 차원에 맞춰 시각 토큰열로 넣습니다.
+- **두 단계 학습** — 1단계는 CC3M 595K 쌍으로 $\mathbf{W}$만 학습하고, 2단계는 시각 부호기만 고정한 채 $\mathbf{W}$와 LLM을 함께 학습합니다.
+- **결과** — LLaVA-Bench (COCO)에서 텍스트 전용 GPT-4 대비 85.1%, In-the-Wild에서 67.3%, ScienceQA에서 단독 90.92%, GPT-4 채점자와 결합해 92.53%를 기록합니다.
+
+### VLA와의 연결
+
+LLaVA의 **시각 부호기 → 투영 층 → LLM** 구조는 이후 공개 VLM의 표준 형태가 됐고, 여러 VLA가 이 형태의 VLM에 로봇 행동 출력을 추가해 만들어졌습니다.
+
+| 모델 | 시각 부호기 | 연결 층 | 언어 모델 | 행동 출력 |
+|------|-----------|--------|---------|---------|
+| LLaVA | CLIP ViT-L/14 | 선형 투영 | Vicuna | 없음 (텍스트 답변) |
+| [OpenVLA](/blog/paper-review/vla/openvla) | SigLIP + DINOv2 (특징을 이어 붙임) | MLP 투영 (Prismatic VLM) | Llama 2 7B | 행동 차원별 256구간 이산 토큰을 LLM이 텍스트 토큰처럼 생성 |
+| [π0](/blog/paper-review/vla/pi0) | SigLIP (PaliGemma) | 선형 투영 (PaliGemma) | Gemma 2B | 별도의 행동 전문가(action expert)가 flow matching으로 연속 행동 묶음을 생성 |
+
+두 VLA 모두 사전학습된 VLM의 가중치에서 출발하고, 입력은 LLaVA처럼 시각 토큰과 언어 지시 토큰을 한 줄로 이어 받습니다. 차이는 출력 쪽에 있습니다. OpenVLA는 LLaVA와 같은 다음 토큰 예측을 그대로 쓰되 답변 대신 행동 토큰을 내고, π0는 행동을 연속값으로 만드는 모듈을 따로 붙입니다. 이미지와 지시를 받아 답을 생성하도록 학습하는 LLaVA의 방식에서, 답의 형식을 텍스트에서 로봇 행동으로 바꾼 것이 VLA입니다.
+
+LLaVA의 입력인 이미지와 언어 지시는 로봇 학습에서도 같은 형태로 쓰였습니다. 다음 [6편 BC-Z](/blog/paper-review/pre-vla/bc-z)는 VLM 이전에 언어 지시를 받아 로봇 행동을 내는 정책을 시연 데이터로 학습한 연구입니다.
+
+전체 목록은 [VLA 선행 연구 목차](/blog/paper-review/pre-vla)에서 볼 수 있습니다.
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Visual Instruction Tuning"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Visual Instruction Tuning\",\"description\":\"텍스트만 읽는 GPT-4로 이미지 설명을 대화·상세 설명·추론 문답 15만 8천 건으로 바꾸고, CLIP 시각 부호기와 Vicuna 언어 모델을 선형 투영 층 하나로 연결해 이미지를 보고 지시를 따르는 LLaVA를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2304.08485v2/figures/car_bbox.jpg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/llava\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L1d",["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Visual Instruction Tuning"}],["$","article",null,{"children":["$","$L1e",null,{"children":"$1f"}]}],false,false,"$L20"]}]}]
+20:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":["$L21","$L22"]}]
+23:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:["$","$L23",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L23",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L23",null,{"ref":null,"href":"/ko/blog/paper-review","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L23",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1d:["$","$L23",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"5편"}]]}]
+21:["$","$L23",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla/clip","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"4편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision"}]]}]
+22:["$","$L23",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla/bc-z","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"6편",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning"}]]}]
+24:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"논문해석 - Visual Instruction Tuning | 박우림"}],["$","meta","1",{"name":"description","content":"텍스트만 읽는 GPT-4로 이미지 설명을 대화·상세 설명·추론 문답 15만 8천 건으로 바꾸고, CLIP 시각 부호기와 Vicuna 언어 모델을 선형 투영 층 하나로 연결해 이미지를 보고 지시를 따르는 LLaVA를 원본 그림과 함께 풀어봅니다."}],["$","link","2",{"rel":"author","href":"https://woolimi.github.io"}],["$","meta","3",{"name":"author","content":"박우림"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://woolimi.github.io/ko/blog/paper-review/pre-vla/llava"}],["$","meta","8",{"property":"og:title","content":"논문해석 - Visual Instruction Tuning"}],["$","meta","9",{"property":"og:description","content":"텍스트만 읽는 GPT-4로 이미지 설명을 대화·상세 설명·추론 문답 15만 8천 건으로 바꾸고, CLIP 시각 부호기와 Vicuna 언어 모델을 선형 투영 층 하나로 연결해 이미지를 보고 지시를 따르는 LLaVA를 원본 그림과 함께 풀어봅니다."}],["$","meta","10",{"property":"og:url","content":"https://woolimi.github.io/ko/blog/paper-review/pre-vla/llava"}],["$","meta","11",{"property":"og:site_name","content":"박우림"}],["$","meta","12",{"property":"og:locale","content":"ko_KR"}],["$","meta","13",{"property":"og:image","content":"https://arxiv.org/html/2304.08485v2/figures/car_bbox.jpg"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"논문해석 - Visual Instruction Tuning"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:published_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","19",{"property":"article:modified_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","20",{"property":"article:author","content":"박우림"}],["$","meta","21",{"property":"article:section","content":"논문 해석"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"논문해석 - Visual Instruction Tuning"}],["$","meta","24",{"name":"twitter:description","content":"텍스트만 읽는 GPT-4로 이미지 설명을 대화·상세 설명·추론 문답 15만 8천 건으로 바꾸고, CLIP 시각 부호기와 Vicuna 언어 모델을 선형 투영 층 하나로 연결해 이미지를 보고 지시를 따르는 LLaVA를 원본 그림과 함께 풀어봅니다."}],["$","meta","25",{"name":"twitter:image","content":"https://arxiv.org/html/2304.08485v2/figures/car_bbox.jpg"}],["$","link","26",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","27",{"rel":"icon","href":"/favicon.ico"}],["$","link","28",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","29",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","30",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L24","31",{}]]

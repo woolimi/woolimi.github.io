@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Robotics","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Robotics","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/Robotics/pinkrab","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Pinkrab","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Pinkrab - 게발의 시작"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Pinkrab - 게발의 시작\",\"description\":\"벽걸이 양팔 로봇을 만들기로 한 계기와, UMI 그리퍼로 모은 시연으로 그 팔을 학습시키기로 한 배경.\",\"image\":\"https://images.prismic.io/woolimi/aN4xyhZiz1RyNmeF_dof.png?w=1200&h=630&fit=fill&fill=blur&fm=jpg&q=80\",\"url\":\"https://woolimi.github.io/ko/blog/Robotics/pinkrab/origin\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-25T16:11:56.000Z\",\"dateModified\":\"2026-09-26T05:37:42.000Z\",\"keywords\":\"Pinkrab, SO-ARM 101, UMI, Universal Manipulation Interface, 6자유도, 양팔 로봇, imitation learning\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/Robotics/pinkrab","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Pinkrab - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"1장"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"Pinkrab - 게발의 시작"}]
+10:T21bd,
+## 아이디어
+
+어느 날 유튜브 알고리즘에 이끌려 아래 영상을 보게 됐다.
+
+[Building the Ultimate Desk Robot](https://youtu.be/MQBUOHRvMuc)
+
+이 유튜버는 SO-ARM 101 을 가지고 **이케아 SKÅDIS 페그보드에 고정한 양팔 로봇**을 만들었다. 아니, 만들었다기보다는 조합했다고 해야 하나? 아무튼 아이디어가 꽤 참신하다고 생각했고, 마침 **UMI 그리퍼**에 관심이 있던 나는 이 양팔 로봇을 UMI 로 훈련시켜 보기로 했다. 아무래도 벽에 부착한 형태라서 leader arm 을 사용한 데이터 수집에는 어려움이 있을 것 같았기 때문이다.
+
+## UMI 그리퍼란?
+
+[UMI(Universal Manipulation Interface)](/blog/paper-review/umi/umi)는 2024년 Stanford 의 Cheng Chi 등이 발표한 데이터 수집 방식으로, **로봇 없이 사람이 손에 든 그리퍼로 시연**을 모아서 로봇을 훈련하는 방식이다.
+
+![UMI 그리퍼 — 사람이 드는 그리퍼(왼쪽)와 로봇에 단 같은 그리퍼(오른쪽)](https://arxiv.org/html/2402.10329v3/x2.png)
+
+*출처: Chi et al., "Universal Manipulation Interface", RSS 2024 ([arXiv:2402.10329](https://arxiv.org/abs/2402.10329)) 그림 2*
+
+그리퍼 위에 달린 어안 카메라 하나가 시연 영상을 찍고, 같은 영상으로 SLAM 을 돌려 그리퍼가 움직인 궤적을 복원한다. 영상은 정책의 입력, 궤적은 로봇이 따라갈 action 이 된다. 로봇에도 **같은 그리퍼와 같은 카메라**를 달기 때문에, 사람이 들었을 때와 로봇이 들었을 때 카메라 화면이 거의 같다. 그래서 사람 손으로 모은 데이터로 학습한 정책을 로봇에 그대로 올릴 수 있다.
+
+이 방식은 최근 연구실 밖으로 나오고 있다.
+
+- **Sunday Robotics 의 [Memo](https://www.sunday.ai/)** — UMI 를 만든 Cheng Chi 와 ACT 를 만든 Tony Zhao 가 세운 회사. 사람이 장갑(Skill Capture Glove)을 끼고 집안일을 하면, 그 기록으로 가정용 로봇 Memo 를 학습시킨다.
+
+  ![Sunday Robotics 의 Skill Capture Glove](https://images.prismic.io/woolimi/k2i_4rSotxgd8eyz_sunday-skill-capture-glove.png?auto=format,compress)
+
+  *출처: [Sunday Robotics](https://www.sunday.ai/)*
+
+- **Pollen Robotics 의 [Grabette](https://github.com/pollen-robotics/grabette) · [Gripette](https://github.com/pollen-robotics/gripette)** — 사람은 handheld 그리퍼 Grabette 로 시연을 모으고, 로봇에는 같은 모양의 그리퍼 Gripette 를 단다. 하드웨어와 코드가 모두 공개돼 있다.
+
+  ![Pollen Robotics 의 Grabette(왼쪽)와 Gripette(오른쪽)](https://images.prismic.io/woolimi/xF8OIeBpoFit_KFd_grabette-gripette.jpg?auto=format,compress)
+
+  *왼쪽 Grabette(사람이 드는 그리퍼) · 오른쪽 Gripette(로봇에 다는 그리퍼). 출처: [pollen-robotics/grabette](https://github.com/pollen-robotics/grabette) (Apache-2.0)*
+
+### UMI 를 사용하면 뭐가 좋을까?
+
+![기존 방식(teleoperation)과 UMI 비교](https://images.prismic.io/woolimi/RG2HFSYqJu0xfktn_umi-compare.png?auto=format,compress)
+
+기존에는 사람이 리더암 같은 조종기로 로봇을 직접 움직이며(teleoperation) 데이터를 모았다면, UMI 는 로봇 없이 데이터 수집이 가능하다. 이 덕분에 언제 어디서나 쉽게 데이터 수집이 가능하다.
+
+- **로봇 없이 수집** — 데이터를 모으는 동안 로봇이 필요 없다. 로봇은 학습이 끝난 뒤 **같은 그리퍼**를 달고 정책을 실행할 때만 등장한다.
+- **어디서나 수집** — 그리퍼만 들고 다니면 부엌이든 밖이든 모을 수 있다. UMI 논문의 컵 정리 실험에서는 **30개 장소에서 모은 데이터**로 학습한 정책만 처음 보는 환경에서 동작했고, 실험실 데이터로만 학습한 정책은 한 번도 성공하지 못했다.
+
+## 6자유도가 필요한 이유
+
+처음에는 5자유도 SO-ARM 101 을 그대로 쓰려고 했다. 그런데 UMI 로 녹화한 궤적을 팔로 재현하려고 보니 **자유도가 모자랐다.**
+
+UMI 가 기록하는 것은 집게 끝의 자세다. 자세는 위치 셋(x, y, z)과 방향 셋(roll, pitch, yaw), 즉 **값 여섯 개**로 나타낸다. 그런데 SO-ARM 101 의 관절은 다섯 개뿐이다.
+
+개수만 모자란 게 아니다. 어깨·팔꿈치·손목의 굽힘 축 세 개(`shoulder_lift` · `elbow_flex` · `wrist_flex`)가 서로 평행해서, 팔은 `shoulder_pan` 이 정한 **한 평면 안에서만 굽는다.** 집게도 그 평면 방향으로만 향할 수 있다. 사람이 물건을 비스듬히 옆에서 집은 시연은 따라갈 수 없다.
+
+![5자유도와 6자유도 비교 — 5자유도 팔은 한 평면 안에서만 굽고, 손목 yaw 를 더하면 평면 밖 방향도 맞출 수 있다](https://images.prismic.io/woolimi/aN4xyhZiz1RyNmeF_dof.png?auto=format,compress)
+
+손목에 평면 밖으로 도는 축(`wrist_yaw`)을 하나 더하면 관절이 여섯 개가 되고, 녹화된 자세의 **여섯 값을 모두 맞출 수 있다.**
+
+## SO-ARM 101 에서 Pinkrab 으로
+
+6자유도 SO-ARM 을 직접 설계해야 하나 생각하던 차에 인터넷을 뒤지던 중, ahb 가 MakerWorld 에 올린 [SO-ARM100 additional wrist joint](https://makerworld.com/en/models/2845098) 를 발견했다. 브래킷으로 SO-ARM 의 손목에 관절을 하나 더 만드는 부품이다. 이것 말고도 SO-ARM 을 6자유도로 만들려고 시도한 관절이 몇 가지 있었지만, 이 관절이 **제일 간단하면서도 깔끔했다.**
+
+![SO-ARM100 additional wrist joint — 손목에 추가된 관절(빨간 원)](https://images.prismic.io/woolimi/FUO99i1o-loTe35U_wrist-joint-part.jpg?auto=format,compress)
+
+*출처: [ahb, MakerWorld](https://makerworld.com/en/models/2845098) (CC BY-SA)*
+
+단, 그대로 쓰기에는 문제가 하나 있었다. 관절이 끝까지 돌면 손목이 브래킷 입구 쪽으로 파고들면서 **서보 케이블을 씹었다.** 그래서 브래킷의 서보 주머니 벽을 케이블 단자 쪽까지 연장하고, 단자 위에만 홈을 냈다. 이제 관절 끝에서 손목은 케이블이 아니라 **이 벽에 닿아 멈춘다.**
+
+![wrist joint 브래킷 — 원본(ahb)과 Pinkrab, 서보 주머니 입구 쪽에서 본 모습](https://images.prismic.io/woolimi/L321r3YFT-W0NkA-_pinkrab-mod-bracket-mouth.png?auto=format,compress)
+
+### 베이스 확장
+
+벽에 더 단단히 고정되도록 **베이스를 원본보다 넓혔다.** 폭이 111 mm 에서 139 mm 로 늘었고, 바닥은 120 × 80 mm 볼트 패턴을 가진 판으로 바꿔 페그보드에 볼트로 고정한다.
+
+![베이스 — SO-ARM 101 과 Pinkrab](https://images.prismic.io/woolimi/fkT-VSc3oX8TfGOF_pinkrab-mod-base.png?auto=format,compress)
+
+### 트러스 구조 경량화
+
+관절 사이의 판을 **트러스 구조로 뚫어 무게를 줄였다.** 상완은 부피가 117.4 cm³ 에서 81.5 cm³ 로 31% 줄었다. 팔 끝이 가벼울수록 어깨 서보가 버텨야 하는 힘이 줄어든다.
+
+![상완 — SO-ARM 101 과 Pinkrab](https://images.prismic.io/woolimi/lVIjSc7bf8ayYdw6_pinkrab-mod-upper.png?auto=format,compress)
+
+### 손목 관절 2개, 긴 링크 1개 제거
+
+위의 wrist joint 브래킷을 **두 개** 쓴다. 하나는 새 `wrist_yaw` 관절이 되고, 다른 하나는 원래 전완(forearm)이 있던 자리를 대신한다. 그래서 관절은 하나 늘었지만 **긴 전완 링크 하나가 빠졌다.**
+
+![전완 — SO-ARM 101 의 전완과 Pinkrab 의 브래킷 2개](https://images.prismic.io/woolimi/_1cuBFSKMBRiFK-c_pinkrab-mod-forearm.png?auto=format,compress)
+
+### 그리퍼 roll 175°
+
+원본 SO-ARM 101 은 그리퍼 roll 이 한 바퀴를 다 돌지 못한다. URDF 기준 **−157° ~ +163°, 총 320°** 다. 손목과 그리퍼 사이에서 서로 걸리는 턱(stop)을 다시 만들어, home 기준 **±175°, 총 350°** 를 돌 수 있게 했다. 원본보다 30° 더 돌고, 막힌 구간은 40° 에서 10° 로 줄었다.
+
+![그리퍼 roll 회전 범위 — SO-ARM 101 과 Pinkrab](https://images.prismic.io/woolimi/ZFETOsXinLJ1oKBG_pinkrab-mod-roll.png?auto=format,compress)
+
+### 두꺼운 claw · jaw
+
+그리퍼의 claw 와 jaw 를 **두껍게** 만들어, 손에 끼웠을 때 가려지게 했다. 모양은 이름대로 게의 집게를 닮게 다듬었다.
+
+![claw · jaw — SO-ARM 101 과 Pinkrab](https://images.prismic.io/woolimi/ZZeCiA9H9PMfS4nu_pinkrab-mod-gripper.png?auto=format,compress)
+
+---
+
+다음 글에서는 부품을 출력하기 전에, 이 팔을 먼저 **시뮬레이션 안에서 만들어** 움직여 본다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/Robotics/pinkrab","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"전체 목차",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"Pinkrab - 전체 목차"}]]}],"$undefined"]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

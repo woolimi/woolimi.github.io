@@ -1,0 +1,774 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - A Generalist Agent"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - A Generalist Agent\",\"description\":\"텍스트·이미지·관절 값·버튼 입력을 전부 하나의 토큰열로 바꿔 1.2B 파라미터 Transformer 하나로 Atari, 이미지 캡션, 대화, 실물 로봇 블록 쌓기까지 수행하게 만든 Gato를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2205.06175v3/data_sequences.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/gato\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"8편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - A Generalist Agent"}]
+10:Td2e6,
+## 들어가며
+
+[7편 SayCan](/blog/paper-review/pre-vla/saycan)은 언어 모델과 로봇 기술 실행기를 서로 다른 모델로 두고 연결했습니다. 같은 해 DeepMind가 발표한 **Gato** 는 반대 방향을 시험합니다. 문장, 이미지, 로봇 관절 값, 게임 버튼 입력을 모두 같은 형식의 정수 토큰으로 바꾸고, 신경망 하나가 같은 가중치로 이 토큰열 전체를 학습합니다. 대화할 때는 텍스트 토큰을, Atari를 할 때는 버튼 토큰을, 로봇 팔을 움직일 때는 관절 속도 토큰을 출력합니다.
+
+모델 구조는 [2편 GPT-3](/blog/paper-review/pre-vla/gpt-3)와 같은 복호기 전용(decoder-only) Transformer이고, 학습 목표도 다음 토큰 예측입니다. 달라진 것은 학습 데이터에 로봇과 게임 에이전트의 관측·행동 기록이 들어간다는 점, 그리고 그 기록을 토큰으로 바꾸는 규칙입니다.
+
+[VLA 계보 1편 RT-1](/blog/paper-review/vla/rt-1)은 Gato를 비교 기준선으로 씁니다. 이때 실시간 제어를 위해 Gato를 RT-1과 비슷한 크기(37M 파라미터)로 줄여 다시 학습했습니다.
+
+📄 [A Generalist Agent](https://arxiv.org/abs/2205.06175) — Scott Reed, Konrad Żołna, Emilio Parisotto (공동 1저자), Sergio Gómez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Giménez 외 / DeepMind, 2022-05 공개 (v3 2022-11, [OpenReview 심사판](https://openreview.net/forum?id=1ikK0kHjvj))
+
+arxiv 식별자는 2205.06175입니다.
+
+### 초록 요약
+
+대규모 언어 모델의 발전에서 착안해, 같은 방식을 텍스트 출력 바깥까지 넓힌 범용 에이전트 하나를 만든 논문입니다. 저자들은 이 에이전트를 Gato라고 부르고, 여러 입력 형식(multi-modal)·여러 과제(multi-task)·여러 몸체(multi-embodiment)를 다루는 범용 정책(generalist policy)으로 정의합니다. 같은 가중치의 같은 신경망이 Atari 게임을 하고, 이미지에 캡션을 달고, 대화하고, 실물 로봇 팔로 블록을 쌓습니다. 무엇을 출력할지, 곧 텍스트인지 관절 토크인지 버튼 입력인지는 입력 문맥을 보고 모델이 정합니다. 논문은 모델과 데이터를 설명하고 Gato의 현재 능력을 기록합니다.
+
+![그림 1 — 범용 에이전트 Gato](https://arxiv.org/html/2205.06175v3/data_sequences.png)
+
+*그림 1 — 가중치 하나로 서로 다른 몸체와 환경에서 관측하고 행동합니다. 입력 형식과 행동 규격이 다른 604개 과제로 학습했습니다.*
+
+그림 왼쪽은 학습에 들어간 데이터 종류(Atari 화면, 로봇 카메라, 이미지-질문 쌍, 대화)이고, 가운데가 Gato, 오른쪽은 각 과제에서 Gato가 내는 출력입니다.
+
+---
+
+## 1. 설계 원칙 — 모든 데이터를 토큰열 하나로
+
+Gato의 설계 원칙은 관련 있는 데이터를 최대한 다양하게 모아 학습하는 것입니다. 이미지, 텍스트, 고유수용감각(proprioception, 로봇이 자기 관절 각도 등을 재는 센서 값), 관절 토크, 버튼 입력 같은 이산값·연속값 관측과 행동이 모두 포함됩니다.
+
+이 데이터를 한 모델로 처리하기 위해 전부 **평평한 토큰열(flat sequence of tokens)** 로 직렬화합니다. 그러면 Gato를 일반 대규모 언어 모델과 똑같은 방식으로 학습하고 표본 추출할 수 있습니다. 실행할 때는 모델이 뽑은 토큰을 문맥에 따라 대화 응답, 캡션, 버튼 입력, 로봇 행동으로 되돌립니다.
+
+저자들은 과제마다 신경망 구조를 따로 설계하지 않는 방식의 장점을 셋으로 정리합니다.
+
+| 장점 | 내용 |
+|------|------|
+| 설계 부담 감소 | 도메인마다 알맞은 귀납 편향(inductive bias)을 손으로 넣은 정책 모델을 만들 필요가 줄어듦 |
+| 데이터 확대 | 평평한 토큰열로 바꿀 수 있는 데이터라면 무엇이든 학습에 넣을 수 있어 데이터의 양과 다양성이 커짐 |
+| 규모 확장 | 데이터·연산·모델 규모를 키울수록 성능이 계속 오른다는 언어 모델 연구 결과(Kaplan et al., 2020; Hoffmann et al., 2022)를 따름 |
+
+![그림 2 — Gato 학습 단계](https://arxiv.org/html/2205.06175v3/diagram_train.png)
+
+*그림 2 — 과제와 입력 형식이 다른 데이터를 토큰열로 직렬화해 묶고, 텍스트와 행동 위치에만 손실을 계산합니다.*
+
+모델 크기는 실물 로봇을 실시간으로 제어할 수 있는 한도에서 정했고, 그 값이 약 1.2B 파라미터입니다. 학습은 단순함을 위해 오프라인 지도 학습으로만 했습니다. 저자들은 원리상 오프라인·온라인 강화 학습(reinforcement learning, RL)으로도 학습할 수 있다고 적습니다.
+
+---
+
+## 2. 토큰화 — 입력 형식별 규칙
+
+데이터를 토큰으로 바꾸는 방법은 원시 바이트열을 그대로 쓰는 것까지 포함해 무수히 많습니다. 논문은 현재 규모와 하드웨어에서 가장 좋은 결과를 낸 방식을 보고합니다.
+
+### 입력 형식별 토큰화
+
+| 입력 형식 | 예시 | 토큰화 방법 | 토큰 범위 |
+|-----------|------|------------|-----------|
+| 텍스트 | 대화, 캡션 | SentencePiece 부분단어(subword) 32000개 | [0, 32000) |
+| 이미지 | 카메라 화면 | 겹치지 않는 16 × 16 패치로 자르고 래스터 순서로 나열 (ViT 방식). 픽셀 값을 [-1, 1]로 정규화한 뒤 패치 크기의 제곱근 $\sqrt{16}=4$로 나눔 | 정수 토큰 대신 패치 자체를 임베딩 (3장) |
+| 이산값 | Atari 버튼 입력 | 행 우선 순서(row-major order)로 펼친 정수열 | [0, 1024) |
+| 연속값 | 관절 각도, 관절 토크 | 행 우선 순서로 펼치고, [-1, 1] 밖이면 mu-law 인코딩으로 [-1, 1]에 넣은 뒤 균등 구간 1024개로 이산화하고 32000만큼 이동 | [32000, 33024) |
+
+이미지 패치화는 [3편 ViT](/blog/paper-review/pre-vla/vit)와 같은 방식입니다. 논문은 이산값의 범위를 [0, 1024)로 적고, 이 범위가 텍스트 토큰 범위와 겹치는 부분을 어떻게 구분하는지는 따로 설명하지 않습니다.
+
+### 연속값의 mu-law 인코딩
+
+관측 텐서의 실수 원소는 WaveNet에서 쓴 **mu-law 압신(companding)** 으로 먼저 변환합니다.
+
+$$
+F(x)=\text{sgn}(x)\frac{\log(|x|\mu+1.0)}{\log(M\mu+1.0)}
+$$
+
+매개변수는 $\mu=100$, $M=256$입니다. 이 함수는 0 근처의 작은 값 차이는 넓게 벌리고 큰 값은 좁게 모읍니다. 그래서 균등 구간으로 나눠도 작은 값 영역의 해상도가 유지됩니다. 변환 뒤에는 모든 원소를 [-1, 1]로 자르고(clip), 폭이 같은 1024개 구간으로 이산화합니다.
+
+행동은 모든 환경에서 이미 [-1, 1] 범위로 정의돼 있으므로 mu-law 변환 없이 바로 이산화합니다.
+
+![그림 14 — 연속값 토큰화](https://arxiv.org/html/2205.06175v3/figures/proprio_tokenized.png)
+
+*그림 14 — 고유수용감각 같은 연속값을 mu-law 변환·이산화해 토큰열로 나열하는 과정입니다.*
+
+![그림 15 — 이미지와 이산값 토큰화](https://arxiv.org/html/2205.06175v3/figures/image_tokenized.png)
+
+*그림 15 — 이미지 패치와 이산 행동을 토큰열로 나열하는 과정입니다.*
+
+### 토큰 나열 순서
+
+토큰으로 바꾼 뒤에는 정해진 순서로 이어 붙입니다.
+
+| 단위 | 순서 |
+|------|------|
+| 텍스트 토큰 | 원문 텍스트 순서 |
+| 이미지 패치 토큰 | 래스터 순서 (왼쪽 위에서 오른쪽 아래로) |
+| 텐서 | 행 우선 순서 |
+| 중첩 구조 | 키의 사전순 |
+| 에이전트의 한 시점(timestep) | 관측 토큰 → 구분자(separator) 토큰 `|` → 행동 토큰 |
+| 에이전트의 에피소드 | 시점을 시간 순서대로 |
+
+한 시점의 관측은 텍스트 $y_{1:k}$, 이미지 패치 $x_{1:m}$, 텐서 $z_{1:n}$으로 이루어지고, 그 뒤에 구분자와 행동 $a_{1:A}$가 붙습니다. $T$개 시점의 전체 토큰열은 다음과 같습니다.
+
+$$
+s_{1:L}=[[y^{1}_{1:k},x^{1}_{1:m},z^{1}_{1:n},\text{'|'},a^{1}_{1:A}],\dots,[y^{T}_{1:k},x^{T}_{1:m},z^{T}_{1:n},\text{'|'},a^{T}_{1:A}]]
+$$
+
+전체 토큰 수는 $L=T(k+m+n+1+A)$입니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "txt",  "label": "텍스트", "sub": "SentencePiece", "row": 0},
+    {"id": "img",  "label": "이미지", "sub": "16 × 16 패치", "row": 0},
+    {"id": "disc", "label": "이산값", "sub": "버튼 입력", "row": 0},
+    {"id": "cont", "label": "연속값", "sub": "mu-law → 1024구간", "row": 0},
+    {"id": "emb",  "label": "임베딩", "sub": "조회표 · ResNet 블록 + 위치 인코딩", "color": "blue", "row": 1},
+    {"id": "tf",   "label": "Transformer", "sub": "decoder-only · 1.2B", "color": "orange", "row": 2},
+    {"id": "out",  "label": "다음 토큰 분포", "sub": "텍스트·행동 위치만 손실", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "txt",  "to": "emb"},
+    {"from": "img",  "to": "emb"},
+    {"from": "disc", "to": "emb"},
+    {"from": "cont", "to": "emb"},
+    {"from": "emb",  "to": "tf", "label": "토큰열 L = 1024"},
+    {"from": "tf",   "to": "out"}
+  ],
+  "height": 400
+}
+```
+
+---
+
+## 3. 입력 임베딩과 위치 인코딩
+
+토큰열에는 매개변수가 있는 임베딩 함수 $f(\cdot;\theta_{e})$를 적용해 모델 입력을 만듭니다. 관측 토큰과 행동 토큰 모두에 적용되고, 입력 형식에 따라 연산이 다릅니다.
+
+| 토큰 종류 | 임베딩 방법 | 더하는 위치 인코딩 |
+|-----------|------------|-------------------|
+| 텍스트, 이산값·연속값 관측, 행동 | 조회표(lookup table)로 학습 가능한 벡터에 대응 | 시점 안에서의 지역 위치 인코딩 |
+| 이미지 패치 | ResNet 블록 하나를 통과시켜 패치당 벡터 하나 | 이미지 안에서의 패치 위치 인코딩 |
+
+### 이미지 패치용 ResNet 블록
+
+![그림 16 — 이미지 패치 임베딩용 ResNet 블록](https://arxiv.org/html/2205.06175v3/figures/resnet_column.png)
+
+*그림 16 — 이미지 패치를 토큰 임베딩으로 바꾸는 ResNet v2 블록입니다.*
+
+블록은 ResNet v2 구조를 따르고, 계층 정규화(LayerNorm) 대신 그룹 32개의 GroupNorm을, ReLU 대신 GELU 활성화 함수를 씁니다.
+
+### 패치 위치 인코딩
+
+![그림 17 — 패치 위치 인코딩](https://arxiv.org/html/2205.06175v3/figures/patch_positions.png)
+
+*그림 17 — 패치의 행·열 위치를 [0, 1]로 정규화하고 이산화해 학습 가능한 행·열 인코딩을 조회합니다.*
+
+패치가 원래 이미지의 어디에서 잘려 나왔는지를 알려 주는 인코딩입니다. 계산 순서는 이렇습니다.
+
+1. 패치의 픽셀 행 구간과 열 구간을 이미지 해상도로 나눠 [0, 1] 사이 구간으로 정규화합니다.
+2. 정규화한 구간을 크기 128의 어휘로 양자화합니다.
+3. 학습 때는 양자화한 구간 안에서 정수 하나를 균등하게 무작위로 뽑고, 평가 때는 구간의 평균(반올림)을 씁니다.
+4. 이 정수로 행 인코딩 표와 열 인코딩 표를 각각 조회해, ResNet 블록이 만든 패치 임베딩에 더합니다.
+
+논문 예시는 해상도 80 × 64 이미지를 16 × 16 패치 20개(5 × 4)로 자른 경우입니다. 표시한 패치의 행 구간은 [16, 32]이고 정규화하면 [0.25, 0.5], 양자화하면 [32, 64]이며 평가 때 행 인덱스는 48입니다. 열은 정규화 구간 [0.4, 0.6], 양자화 구간 [51, 77], 평가 인덱스 64입니다.
+
+논문은 이 패치의 픽셀 열 구간을 [32, 64]로 적었지만, 패치 폭이 16이고 정규화 결과가 [0.4, 0.6](= [32, 48] / 80)이므로 [32, 48]이 맞습니다.
+
+### 지역 관측 위치 인코딩
+
+![그림 18 — 지역 위치 인코딩](https://arxiv.org/html/2205.06175v3/figures/local_position_encodings.png)
+
+*그림 18 — 한 시점 안의 관측 토큰에만 순서 번호를 붙이고, 행동 토큰에는 붙이지 않습니다.*
+
+한 시점의 관측 원소를 전부 토큰화해 이어 붙이면 관측 토큰열이 됩니다. 이 토큰열의 각 토큰에 0부터 시작하는 순서 번호를 매기고, 그 번호로 학습 가능한 위치 인코딩 표(크기 512)를 조회해 더합니다. 행동 토큰은 시점 안에서의 순서와 상관없이 모두 같은 위치 인코딩을 받습니다.
+
+---
+
+## 4. 학습
+
+### 손실 함수
+
+토큰열을 확률의 연쇄 법칙으로 모델링합니다.
+
+$$
+\log p_{\theta}(s_{1},\ldots,s_{L})=\sum_{l=1}^{L}\log p_{\theta}(s_{l}|s_{1},\ldots,s_{l-1})
+$$
+
+모든 토큰이 예측 대상은 아닙니다. 마스킹 함수 $m(b,l)$은 배치 $b$의 $l$번째 토큰이 텍스트이거나 기록된 에이전트 행동이면 1, 아니면 0입니다. 이미지 토큰과 텍스트가 아닌 관측은 현재 예측하지 않습니다. 배치 $\mathcal{B}$에 대한 손실은 다음과 같습니다.
+
+$$
+\mathcal{L}(\theta,\mathcal{B})=-\sum_{b=1}^{|\mathcal{B}|}\sum_{l=1}^{L}m(b,l)\log p_{\theta}\left(s^{(b)}_{l}|s^{(b)}_{1},\ldots,s^{(b)}_{l-1}\right)
+$$
+
+행동 위치에서 이 손실을 최소화하는 것은 시연 행동을 따라 하도록 학습하는 행동 복제(behavior cloning)와 같습니다. [6편 BC-Z](/blog/paper-review/pre-vla/bc-z)와 학습 목표는 같고, 행동을 이산 토큰의 확률 분포로 예측한다는 점이 다릅니다.
+
+### 모델 구조
+
+순차 모델로는 단순성과 확장성을 이유로 Transformer를 골랐습니다. 저자들은 세 가지 크기를 학습했습니다.
+
+| 하이퍼파라미터 | Gato 1.18B | 364M | 79M |
+|----------------|-----------|------|-----|
+| Transformer 블록 수 | 24 | 12 | 8 |
+| 어텐션 헤드 수 | 16 | 12 | 24 |
+| 층 폭 | 2048 | 1536 | 768 |
+| 순방향 은닉 크기 | 8192 | 6144 | 3072 |
+| 키/값 크기 | 128 | 128 | 32 |
+| 공유 임베딩 | True | True | True |
+| 계층 정규화 | Pre-norm | Pre-norm | Pre-norm |
+| 활성화 함수 | GEGLU | GEGLU | GEGLU |
+
+*표 5 — Gato Transformer 하이퍼파라미터.*
+
+2.3절 본문은 1.18B 모델의 순방향 은닉 크기를 8196으로 적었지만, 표 5의 값은 8192이고 층 폭 2048의 정확히 4배이므로 8192가 맞습니다.
+
+### 프롬프트 조건화
+
+같은 도메인 안의 서로 다른 과제는 몸체, 관측 형식, 행동 규격이 똑같을 수 있습니다. 이때 모델은 어떤 과제인지 구분할 추가 문맥이 필요합니다. Gato는 원-핫 과제 번호 대신 **프롬프트 조건화(prompt conditioning)** 를 씁니다.
+
+- 학습 때 각 배치의 25% 시퀀스 앞에 프롬프트 시퀀스를 붙입니다. 프롬프트는 같은 과제에서 같은 출처 에이전트가 만든 에피소드에서 가져옵니다.
+- 프롬프트의 절반은 에피소드 끝부분에서 가져옵니다. 많은 도메인에서 목표를 알려 주는 조건 역할을 합니다. 나머지 절반은 에피소드에서 균등하게 뽑습니다.
+- 평가 때는 원하는 과제의 성공 시연으로 프롬프트를 주고, 논문의 모든 제어 결과가 이 설정을 기본으로 씁니다.
+
+### 학습 설정
+
+| 항목 | 값 |
+|------|-----|
+| 하드웨어 | 16x16 TPU v3 슬라이스 |
+| 학습 걸음 | 1M |
+| 배치 크기 | 512 |
+| 토큰열 길이 $L$ | 1024 |
+| 소요 시간 | 약 4일 |
+| 옵티마이저 | AdamW, $\beta_1=0.9$, $\beta_2=0.95$, $\epsilon=$ 1e-8, 가중치 감쇠 0.1 |
+| 학습률 일정 | 1e-7에서 최대 학습률까지 15,000걸음 선형 예열 후, 1,000,000걸음에 걸쳐 코사인으로 10배 감쇠 |
+| 정규화 | 확률적 깊이(stochastic depth) — 어텐션 층과 순방향 층을 각각 확률 0.1로 건너뜀 |
+
+| 하이퍼파라미터 | Gato 1.18B | 364M | 79M |
+|----------------|-----------|------|-----|
+| 최대 학습률 | 1e-4 | 2e-4 | 1e-4 |
+| 최소 학습률 | 1e-5 | 2e-5 | 1e-5 |
+
+*표 6 — 모델 크기별 학습률 일정.*
+
+에피소드와 문서는 문맥 길이보다 훨씬 긴 경우가 많아서, 가능한 에피소드에서 길이 $L$의 부분 시퀀스를 무작위로 뽑습니다. 배치 안에서는 도메인(Atari, MassiveWeb 등)을 거의 균등하게 섞되, 크고 품질이 좋은 데이터셋은 손으로 가중치를 올립니다.
+
+---
+
+## 5. 배포 — 제어 정책으로의 실행
+
+![그림 3 — 제어 정책으로 Gato 실행](https://arxiv.org/html/2205.06175v3/figures/eval4x.png)
+
+*그림 3 — 관측 토큰, 구분자, 이전 행동 토큰을 입력받아 다음 행동을 자기회귀 방식으로 뽑고, 환경이 새 관측을 돌려줍니다.*
+
+```flow
+{
+  "nodes": [
+    {"id": "prompt", "label": "프롬프트", "sub": "성공 시연의 앞 1024 토큰", "row": 0},
+    {"id": "obs",    "label": "관측 토큰화", "sub": "구분자 추가", "row": 1},
+    {"id": "gato",   "label": "Gato", "sub": "행동 토큰을 하나씩 표본 추출", "color": "orange", "row": 2},
+    {"id": "detok",  "label": "역토큰화", "sub": "행동 규격만큼 뽑으면 연속값·버튼으로", "color": "green", "row": 3},
+    {"id": "env",    "label": "환경", "sub": "게임 · 시뮬레이터 · 로봇", "row": 4}
+  ],
+  "edges": [
+    {"from": "prompt", "to": "obs"},
+    {"from": "obs",    "to": "gato"},
+    {"from": "gato",   "to": "detok"},
+    {"from": "detok",  "to": "env", "label": "행동 적용"},
+    {"from": "env",    "to": "obs", "label": "새 관측"}
+  ],
+  "height": 460
+}
+```
+
+실행 절차는 다음과 같습니다.
+
+1. 시연 같은 프롬프트를 토큰화해 초기 시퀀스로 둡니다. 기본값은 시연의 앞 1024 토큰입니다.
+2. 환경이 첫 관측을 주면 토큰화해 시퀀스에 붙입니다.
+3. Gato가 행동 벡터를 토큰 하나씩 자기회귀 방식으로 뽑습니다.
+4. 환경의 행동 규격에 해당하는 토큰을 모두 뽑으면, 2장의 토큰화를 거꾸로 적용해 행동으로 되돌립니다.
+5. 행동을 환경에 보내고, 환경이 한 걸음 진행해 새 관측을 주면 2번부터 반복합니다.
+
+모델은 1024 토큰 문맥 창 안의 이전 관측과 행동을 모두 봅니다. 배포 때는 학습 때 쓰지 않은 Transformer-XL 메모리를 쓰는 것이 도움이 됐다고 적습니다.
+
+### 실물 로봇에서의 추론 지연
+
+실물 환경에서는 계산이 끝날 때까지 물리 세계가 기다려 주지 않습니다. RGB 쌓기 로봇은 설계상 제어 주기가 20 Hz(한 걸음 0.05초)입니다. 부록 G에 따르면 저자들은 지연을 줄이려고 평가 때 두 가지를 바꿨습니다.
+
+| 변경 | 내용 |
+|------|------|
+| 문맥 길이 축소 | 평가 때 문맥 길이를 1로 줄임 |
+| 병렬 표본 추출 | 학습 때 입력 시퀀스의 행동 토큰을 모두 0으로 두어, 로봇 행동 하나의 토큰 전체를 추론 한 번에 뽑음 (다른 도메인은 자기회귀 방식) |
+
+1.18B 모델은 로봇에 달린 가속기(NVidia GeForce RTX 3090)에서 실행됐지만, 여전히 20 Hz 제어 주기를 약 0.01초 넘겼습니다. 성공 판정에는 Lee et al.(2021)의 희소 보상을 써서, 마지막 시점에 보상 1을 받은 궤적만 골랐습니다.
+
+---
+
+## 6. 데이터셋
+
+Gato는 시뮬레이션과 실물 환경의 에이전트 경험, 그리고 여러 자연어·이미지 데이터셋으로 학습합니다. 표본 가중치는 학습 배치에서 각 데이터셋이 평균적으로 차지하는 비율입니다.
+
+### 제어 데이터
+
+| 제어 환경 | 과제 수 | 에피소드 수 | 토큰 수(근사) | 표본 가중치 |
+|-----------|--------|-----------|--------------|------------|
+| DM Lab | 254 | 16.4M | 194B | 9.35% |
+| ALE Atari | 51 | 63.4K | 1.26B | 9.5% |
+| ALE Atari Extended | 28 | 28.4K | 565M | 10.0% |
+| Sokoban | 1 | 27.2K | 298M | 1.33% |
+| BabyAI | 46 | 4.61M | 22.8B | 9.06% |
+| DM Control Suite | 30 | 395K | 22.5B | 4.62% |
+| DM Control Suite Pixels | 28 | 485K | 35.5B | 7.07% |
+| DM Control Suite Random Small | 26 | 10.6M | 313B | 3.04% |
+| DM Control Suite Random Large | 26 | 26.1M | 791B | 3.04% |
+| Meta-World | 45 | 94.6K | 3.39B | 8.96% |
+| Procgen Benchmark | 16 | 1.6M | 4.46B | 5.34% |
+| RGB Stacking simulator | 1 | 387K | 24.4B | 1.33% |
+| RGB Stacking real robot | 1 | 15.7K | 980M | 1.33% |
+| Modular RL | 38 | 843K | 69.6B | 8.23% |
+| DM Manipulation Playground | 4 | 286K | 6.58B | 1.68% |
+| Playroom | 1 | 829K | 118B | 1.33% |
+| **합계** | **596** | **63M** | **1.5T** | **85.3%** |
+
+### 시각·언어 데이터
+
+| 데이터셋 | 표본 가중치 |
+|----------|------------|
+| MassiveText | 6.7% |
+| M3W | 4% |
+| ALIGN | 0.67% |
+| MS-COCO Captions | 0.67% |
+| Conceptual Captions | 0.67% |
+| LTIP | 0.67% |
+| OKVQA | 0.67% |
+| VQAV2 | 0.67% |
+| **합계** | **14.7%** |
+
+*표 1 — 왼쪽: 제어 데이터셋. 오른쪽: 시각·언어 데이터셋.*
+
+### 과제 수와 토큰 수의 불일치
+
+표 1의 제어 과제 수를 더하면 596개입니다. 그림 1과 4.1절은 "604개 과제"라고 적습니다. 596에 시각·언어 데이터셋 8개를 더하면 604가 되지만, 논문은 604의 구성을 설명하지 않습니다. 4.1절이 "604개 중 450개 이상"을 제어 과제 결과로 제시하므로, 이 글은 두 값을 모두 적어 둡니다.
+
+제어 데이터 토큰 수도 행 값을 더하면 약 1.61T인데 합계 행은 1.5T입니다. 각 행이 반올림된 값이라 정확한 합계는 논문만으로 확인할 수 없습니다.
+
+### 시뮬레이션 제어 과제
+
+제어 데이터는 각 환경에서 최고 수준이나 그에 가까운 전문가 강화 학습 에이전트가 학습하는 동안 만든 경험(상태, 행동, 보상)의 일부를 기록한 것입니다.
+
+| 환경 | 성격 | 데이터를 만든 에이전트 |
+|------|------|---------------------|
+| ALE Atari · ALE Atari Extended | 고전 Atari 게임 51개 · 게임 모드와 난이도를 무작위로 바꾼 대체 게임 세트 | Muesli, 환경 걸음 200M 동안 학습하며 무작위 에피소드 약 20,000개 기록 |
+| Sokoban | 상자를 목표 위치로 미는 계획 문제 | Muesli |
+| BabyAI | 합성 언어 지시를 따르는 격자 세계 | 내장 BabyAI 봇, 레벨당 100,000 에피소드 |
+| DM Control Suite | 물리 기반 연속 제어 | 상태 입력은 D4PG, 픽셀 입력은 MPO 기반 에이전트 |
+| DM Control Suite Random | 구동기 기어·관절 범위·강성·감쇠·형상 크기·밀도를 무작위화 | D4PG. Small은 [0.9, 0.95] ∪ [1.05, 1.1], Large는 [0.6, 0.8] ∪ [1.2, 1.4] 배율 |
+| DM Lab | 1인칭 3D 시점의 탐색·계획 | IMPALA. 레벨 255개(부모 레벨 18 + 수작업 레벨 237) 중 254개를 학습에, 1개를 분포 밖 평가에 사용 |
+| Procgen Benchmark | 절차적으로 생성되는 Atari풍 환경 16개 | R2D2. maze와 heist만 easy, 나머지는 hard |
+| Modular RL | Walker2d·Humanoid·Hopper에서 팔다리 조합을 바꾼 몸체 변형 | 변형마다 D4PG, 행위자 걸음 140M, 변형당 시드 30개 |
+| DM Manipulation Playground | 시뮬레이션 Kinova Jaco 팔 과제 4개(box, stack banana, insertion, slide) | 사람 시연으로 이미지에서 학습한 CRR |
+| Meta-World | 메타 강화 학습·다중 과제 벤치마크, MT50 모드 | MPO, 환경 시드 무제한, MuJoCo 물리 상태 사용 |
+
+학습에는 과제의 전문가 수익(expert return)의 80% 이상을 받은 에피소드만 걸러 썼습니다. 전문가 수익은 수집한 모든 에피소드에서 창 크기 $W$의 이동 평균 수익을 구했을 때 그 최댓값입니다. $N$은 수집한 에피소드 수, $R_i$는 에피소드 $i$의 총 수익이고, $W=\min(1000, 0.1\times N)$입니다.
+
+$$
+\max_{j\in[0,1,...,N-W]}\left(\sum_{i=j}^{j+W-1}\frac{R_{i}}{W}\right)
+$$
+
+논문 수식은 합의 위쪽 끝을 $j+L-1$로 적었지만, 창 크기 $W$로 나눈 평균이므로 $j+W-1$이 맞습니다.
+
+### 시각·언어 데이터
+
+| 데이터셋 | 내용 |
+|----------|------|
+| MassiveText | 웹 페이지·책·뉴스·코드로 구성된 대규모 영어 텍스트 |
+| ALIGN | 이미지 1.8B장과 대체 텍스트 |
+| LTIP (Long Text & Image Pairs) | 캡션이 달린 이미지 312M장 |
+| Conceptual Captions · COCO Captions | 이미지-텍스트 쌍 3.3M개 · 120k개 |
+| M3W (MultiModal MassiveWeb) | 텍스트와 이미지를 함께 추출한 웹 페이지 43M개 |
+| OKVQA · VQAv2 | 이미지-질문-답 세 쌍 9K개 · 443K개 |
+
+이 데이터로 학습 에피소드를 만들 때는 (이미지, 텍스트) 쌍 5개를 뽑아 토큰화하고 이어 붙인 뒤, 학습 시퀀스 길이에 맞게 채우거나 무작위로 자릅니다.
+
+### 로봇 — RGB 쌓기 벤치마크
+
+![그림 4 — RGB 쌓기 환경](https://arxiv.org/html/2205.06175v3/skill_generalization_challenge.svg)
+
+*그림 4 — Sawyer 로봇 팔의 RGB 쌓기 환경입니다. 블록 모양은 여러 축으로 달라지고 시험용 세 쌍 5개를 따로 둡니다. 목표는 초록을 무시하고 빨강을 파랑 위에 쌓는 것입니다.*
+
+실물 행동을 시험하는 환경으로 Lee et al.(2021)의 블록 쌓기를 골랐습니다.
+
+| 항목 | 내용 |
+|------|------|
+| 로봇 | Sawyer 팔. 3자유도 직교좌표 속도 제어 + 속도 자유도 1개 + 이산 집게 행동 |
+| 작업 공간 | 모양이 다른 빨강·초록·파랑 플라스틱 블록 3개 |
+| 관측 | 128 × 128 카메라 이미지 2장, 팔과 집게 관절 각도, 말단장치 자세. 세 블록의 실제 상태 정보는 주지 않음 |
+| 에피소드 | 20 Hz로 400 시점, 총 20초. 끝나면 블록 위치를 무작위로 재배치 |
+
+벤치마크의 과제는 둘입니다.
+
+| 과제 | 학습 데이터 | 이 논문에서 쓴 데이터 |
+|------|------------|-------------------|
+| 기술 일반화(Skill Generalization) | 시험용 세 쌍 5개를 뺀 학습용 물체로만 수집 | Lee et al.(2021)의 최고 범용 sim2real 에이전트 데이터. 시뮬레이션 성공 궤적 387k개, 실물 15k개 |
+| 기술 숙달(Skill Mastery) | 시험할 세 쌍 5개의 데이터도 사용 | 시뮬레이션은 그룹별 최고 전문가, 실물은 최고 sim2real 정책. 합계 219k 궤적. 5.4절 실험에만 포함 |
+
+---
+
+## 7. 결과 — 시뮬레이션 제어
+
+이 장의 모든 결과는 사전학습한 모델 하나, 가중치 한 벌에서 나왔습니다. 미세조정 결과는 9장에서 다룹니다.
+
+![그림 5 — 시뮬레이션 제어 과제 성능](https://arxiv.org/html/2205.06175v3/figures/barplot_domains.png)
+
+*그림 5 — x축의 전문가 점수 비율 이상을 달성한 과제 수를 도메인별 색 띠로 쌓았습니다.*
+
+성능은 과제별 전문가를 100%, 무작위 정책을 0%로 둔 비율입니다. 학습에 쓴 시뮬레이션 제어 과제마다 Gato 정책을 50번 실행해 점수를 평균했습니다. 그림 5를 보면 **604개 과제 중 450개 이상에서 전문가 점수의 50%를 넘습니다.** 604라는 값은 6장에서 적은 대로 표 1의 제어 과제 합계 596과 다릅니다.
+
+| 도메인 | 결과 |
+|--------|------|
+| ALE Atari | Atari 게임 23개에서 사람 평균 이상, 그중 11개에서 사람 점수의 2배 이상 |
+| BabyAI | 거의 모든 레벨에서 전문가 점수의 80% 이상. 80% 미만은 GoToImpUnlock(59%), Unlock(74%), BossLevel(75%) 세 개 |
+| Meta-World | 학습한 45개 과제 중 44개에서 50% 이상, 35개에서 80% 이상, 3개에서 90% 이상 |
+| DM Control Suite (상태 입력) | 30개 과제 중 21개에서 전문가 점수 50% 이상, 18개에서 80% 이상 |
+
+사람 평균 이상을 기록한 Atari 게임 23개는 Assault, Atlantis, Bank heist, Battle zone, Bowling, Crazy climber, Defender, Fishing derby, Gopher, Hero, Ice hockey, Jamesbond, Kangaroo, Kung fu master, Name this game, Pong, Road runner, Robotank, Tennis, Time pilot, Up n down, Wizard of wor, Zaxxon입니다.
+
+가장 어려운 BabyAI 레벨인 BossLevel에서 Gato는 75%입니다. 저자들이 찾은 공개 기준선 BabyAI 1.0과 BabyAI 1.1은 이 과제 하나만 시연 백만 개로 학습해 각각 77%와 90%를 기록했습니다.
+
+데이터를 만든 단일 과제 온라인 강화 학습 에이전트는 여전히 Gato보다 성능이 높습니다. 저자들은 용량을 늘리거나 순수 지도 학습 대신 오프라인 강화 학습을 쓰면 이 차이를 줄일 수 있다고 봅니다.
+
+부록 L의 도메인별 정규화 점수는 다음과 같습니다.
+
+| 제어 환경 | 정규화 점수 (%) |
+|-----------|----------------|
+| DM Lab | 91.4 |
+| ALE Atari | 30.9 |
+| ALE Atari Extended | 57.8 |
+| Sokoban | 68.0 |
+| BabyAI | 93.2 |
+| DM Control Suite | 63.6 |
+| DM Control Suite Pixels | 26.3 |
+| Meta-World | 87.0 |
+| Procgen Benchmark | 60.8 |
+| RGB Stacking simulator | 58.0 |
+| Modular RL | 62.9 |
+| DM Manipulation Playground | 83.8 |
+
+*표 8 — 도메인별 Gato 정규화 점수. 과제당 50번 평가의 평균입니다.*
+
+---
+
+## 8. 결과 — 실물 로봇 블록 쌓기
+
+1인칭 원격조작으로 전문가 시연을 모을 수 있지만 느리고 비쌉니다. 그래서 데이터 효율이 좋은 행동 복제 방법과 오프라인 사전학습이 범용 로봇 조작기 연구에서 중요합니다. 저자들은 이 관점에서 Gato를 RGB 쌓기 벤치마크로 평가했습니다.
+
+### 기술 일반화
+
+처음 보는 모양의 물체를 쌓는 능력을 봅니다. 학습 데이터에는 여러 모양의 블록 쌓기 에피소드가 있지만 시험용 세 쌍 5개는 빠져 있습니다. 실물 로봇에서 시험용 세 쌍마다 200 에피소드씩 평가했습니다.
+
+| 에이전트 | 그룹 1 | 그룹 2 | 그룹 3 | 그룹 4 | 그룹 5 | 평균 |
+|----------|-------|-------|-------|-------|-------|------|
+| Gato | 24.5% | 33% | 50.5% | 76.5% | 66.5% | 50.2% |
+| BC-IMP (Lee et al., 2021) | 23% | 39.3% | 39.3% | 77.5% | 66% | 49% |
+
+*표 2 — 실물 로봇 기술 일반화 결과.*
+
+Gato는 수백 가지 다른 과제를 함께 수행하면서도, 이 과제 하나만 학습한 걸러낸 행동 복제 기준선 BC-IMP와 비슷한 성공률을 냅니다.
+
+### 기술 숙달
+
+기술 숙달은 평가에 쓰는 물체 모양의 데이터로도 학습할 수 있는 설정입니다. 기술 일반화의 시험 세트가 기술 숙달에서는 학습 세트에 들어가므로, 분포 안 과제의 성능을 봅니다. 초기 조건은 학습 시연에 없던 것일 수 있습니다.
+
+| 에이전트 | 그룹 1 | 그룹 2 | 그룹 3 | 그룹 4 | 그룹 5 | 평균 |
+|----------|-------|-------|-------|-------|-------|------|
+| Gato | 58% | 57.6% | 78.5% | 89% | 95.1% | 75.6% |
+| BC-IMP (Lee et al., 2021) | 75.6% | 60.8% | 70.8% | 87.8% | 78.3% | 74.6% |
+
+*표 3 — 실물 로봇 기술 숙달 결과.*
+
+Gato는 학습 세 쌍 하나를 빼고 모두 BC-IMP 이상이거나 비슷합니다. 이 결과는 부록 H에 적힌 **이전 버전의 Gato 구조** 를 미세조정 없이 실행한 것입니다. 이전 버전은 ResNet 패치 임베딩 대신 지역 Transformer로 이미지 패치를 임베딩했고, 지역 위치 인코딩과 패치 위치 인코딩을 쓰지 않았습니다. 저자들이 기술 숙달 대신 기술 일반화에 집중하기로 하고 사전학습 데이터를 바꾼 뒤, 현재 구조가 성능을 더 높여 최종 구조가 됐습니다.
+
+---
+
+## 9. 텍스트 샘플
+
+Gato는 초보적인 대화와 이미지 캡션 능력을 보입니다.
+
+![그림 6 — 이미지 캡션 예시](https://arxiv.org/html/2205.06175v3/image_captions_v3.svg)
+
+*그림 6 — 이미지 캡션 역할의 프롬프트를 주고 MS-COCO 평가용 이미지에 뽑은 캡션입니다. 온도 0.9로 뽑은 처음 세 개를 고르지 않고 실었습니다.*
+
+![그림 7 — 대화 예시](https://arxiv.org/html/2205.06175v3/dialogue_examples_g1.png)
+
+*그림 7 — 챗봇 역할의 프롬프트를 준 대화입니다. 대체로 관련 있는 답을 하지만 피상적이거나 사실과 다른 경우가 많습니다.*
+
+대화 프롬프트는 Rae et al.(2021)과 같은 것을 썼습니다. 저자들은 대화 품질이 규모를 더 키우면 나아질 것으로 봅니다. 4.3절 본문은 이미지 캡션 예시를 "그림 7"이라고 적었지만 캡션 예시는 그림 6이고, 그림 7은 대화 예시입니다.
+
+---
+
+## 10. 분석 — 규모와 미세조정
+
+### 모델 크기에 따른 성능
+
+![그림 8 — 모델 크기 확장 결과](https://arxiv.org/html/2205.06175v3/figures/paper_scaling_law.png)
+
+*그림 8 — 세 가지 모델 크기에서 처리한 토큰 수에 따른 분포 안 성능입니다.*
+
+79M, 364M, 1.18B(Gato) 세 모델을 학습하며 정규화 수익을 기록했습니다. 값 하나로 모으는 방법은 다음과 같습니다.
+
+1. 과제마다 전문가 점수 대비 비율을 구합니다.
+2. 표 1의 도메인마다 그 도메인 과제의 비율을 평균합니다.
+3. 모든 도메인의 평균을 다시 평균합니다.
+
+같은 토큰 수에서 모델이 클수록 성능이 뚜렷하게 높습니다.
+
+### 분포 밖 과제의 미세조정
+
+에이전트가 완전히 새로운 과제를 효율적으로 풀 수 있는지를 봅니다. 사전학습 데이터에서 네 과제의 데이터를 모두 뺐습니다.
+
+| 과제 | 도메인 |
+|------|--------|
+| cartpole.swingup | DM Control Suite |
+| assembly-v2 | Meta-World |
+| order_of_apples_forage_simple | DM Lab (초록 사과를 먼저, 금색 사과를 나중에 모으는 과제) |
+| boxing | ALE Atari |
+
+이상적으로는 원하는 행동의 시연을 프롬프트로 주는 것만으로 새 과제에 적응해야 합니다. 그러나 가속기 메모리 한계와 토큰화한 시연의 긴 길이 때문에, 가능한 최대 문맥 길이로는 충분한 정보를 담을 수 없었습니다. 그래서 한 과제의 적은 시연으로 파라미터를 미세조정하고 환경에서 성능을 쟀습니다.
+
+사전학습 데이터의 선택이 미세조정 후 성능에 주는 영향을 보려고 네 모델을 비교했습니다. 모든 조건에서 새 모델을 사전학습부터 다시 해야 하므로 연산량이 적은 364M 구조를 썼습니다.
+
+| 모델 | 사전학습 데이터 |
+|------|---------------|
+| Gato | 전체 데이터 |
+| same domain only data | 미세조정할 과제와 같은 도메인 데이터만 |
+| no control data | 제어 데이터를 뺀 텍스트·이미지 데이터만 |
+| scratch | 사전학습 없음 |
+
+![그림 9 — 분포 밖 과제 적은 데이터 성능](https://arxiv.org/html/2205.06175v3/ood_ablations.svg)
+
+*그림 9 — 사전학습 설정별 적은 데이터 미세조정 성능입니다. 주황은 전체 데이터로 사전학습한 Gato, 빨강은 적은 데이터만으로 처음부터 학습한 모델입니다.*
+
+| 과제 | 결과 |
+|------|------|
+| cartpole.swingup · assembly-v2 (이미지 처리 불필요) | 전체 데이터 사전학습이 가장 좋고, 같은 도메인만 쓴 사전학습이 다음. assembly-v2에서는 그 차이가 작지만 모든 데이터 크기에서 일관됨. 제어 데이터 없이 사전학습하면 cartpole.swingup은 이득이 없고 assembly-v2는 오히려 성능이 떨어짐(부정적 전이) |
+| order_of_apples_forage_simple | DM Lab 데이터만으로도 최대 보상 19에 가까워 다른 환경 데이터를 더한 이득이 보이지 않음. 이미지를 보는 환경이라 제어 데이터 없는 사전학습도 도움이 됨. 시뮬레이션이지만 자연스러운 이미지라 캡션·시각 질의응답에서 전이된 것으로 해석 |
+| boxing | 사전학습의 이득이 없음. 무작위 초기화 모델이 모든 사전학습 변형보다 나음. 게임 화면이 다른 데이터와 시각적으로 크게 달라 전이가 어렵다고 추정 |
+
+미세조정 설정은 부록 E에 있습니다.
+
+| 항목 | 값 |
+|------|-----|
+| 옵티마이저 | Adam, 고정 학습률 1e-5, $\beta_1=0.9$, $\beta_2=0.95$, $\epsilon=$ 1e-8 |
+| 배치 크기 · 시퀀스 길이 | 64 · 1024 |
+| 학습 걸음 | 10,000 |
+| 정규화 | 드롭아웃 0.1 |
+| 평가 | 100걸음마다 체크포인트를 10번 실행해 평균하고, 이 점수 5개의 이동 평균(실행 50번)을 구해 그 최댓값을 최종 성능으로 사용 |
+| 데이터 | 과제 데이터 중 수익이 가장 높은 2000 에피소드만 남기고, 거기서 1000 → 100 → 10 → 5 → 3 → 1 에피소드로 차례로 부분집합을 뽑음. 이 절차를 3번 반복해 부분집합 계열 3개를 만들고, 각 부분집합이 그래프의 점 하나 |
+
+### 로봇 블록 쌓기 미세조정
+
+![그림 10 왼쪽 — 실물 로봇 기술 일반화 미세조정](https://arxiv.org/html/2205.06175v3/figures/skill_gen_real_fewshot.png)
+
+![그림 10 오른쪽 — 시뮬레이션 기술 일반화 크기 비교](https://arxiv.org/html/2205.06175v3/figures/skill_gen_sim_ablations.png)
+
+*그림 10 — 왼쪽: 실물 로봇에서 시험 세 쌍 평균 성공률(Gato, 전문가, 전문가 에피소드 35k로 학습한 CRR 상한). 오른쪽: 시뮬레이션에서 파라미터 수별 성공률(전문가와 5k 에피소드 행동 복제 기준선 포함).*
+
+먼저 물체별 데이터로 미세조정하는 것이 도움이 되는지 확인했습니다. 실물 시험 물체를 쌓는 범용 sim-to-real 에이전트의 시연으로 시험 데이터셋을 만들고, 이를 무작위로 나눈 부분집합 다섯 개로 Gato를 따로 미세조정했습니다. Lee et al.(2022)의 행동 복제 5k 결과와 같은 5k 데이터셋을 썼고, 조건을 맞추려고 성공한 쌓기만 쓰는 대신 에피소드의 정규화 수익을 조건으로 줬습니다.
+
+- 실물(왼쪽 빨간 곡선)과 시뮬레이션(오른쪽 빨간 곡선) 모두에서 Gato는 **미세조정 에피소드 10개만으로 전문가 성능을 회복** 합니다.
+- 100개나 1000개에서 가장 높고, 이때 전문가를 넘습니다.
+- 5000개에서는 조금 떨어지지만 전문가 성능보다 크게 낮아지지 않습니다.
+
+모델 크기 비교는 시뮬레이션에서 했습니다. 1.18B Gato와 364M·79M 변형을 미세조정 데이터 양별로 비교하면, 364M 모델은 에피소드 1개에서 과적합해 성능이 떨어지지만 전체적으로 파라미터가 많을수록 적은 에피소드로 더 잘 적응합니다. 79M 모델은 두 큰 모델보다 확실히 낮습니다.
+
+### 지각 변화에 대한 적응
+
+![그림 11 — 학습·시험 목표 변화](https://arxiv.org/html/2205.06175v3/figures/real_robot_blue_on_green.png)
+
+*그림 11 — 위: 기술 일반화 벤치마크의 기본 과제 "빨강을 파랑 위에". 아래: 새 과제 "파랑을 초록 위에".*
+
+기술 일반화는 모양 변화에 대한 운동 기술 일반화는 보지만, 지각 변화나 목표 지정의 순서 바꿈에는 적응하는지를 보지 않습니다. 그래서 시험 세 쌍 1에서 **파랑을 초록 위에 쌓는** 새 과제를 만들었습니다.
+
+| 항목 | 내용 |
+|------|------|
+| 미세조정 데이터 | 실물 로봇에서 3D 마우스로 수집한 시연 500개, 총 2시간 45분 |
+| 사전학습 데이터와의 차이 | 사전학습의 시뮬레이션·실물 로봇 데이터는 모두 빨강을 파랑 위에 쌓는 장면이고, 시험 세트의 물체 모양도 없음 |
+| 추가 데이터 | "파랑을 초록 위에" 시뮬레이션 시연을 섞으면 성능이 오르고, 표본 비율 10%가 가장 좋음 |
+| 결과 | 미세조정한 Gato 성공률 60%. 이 데이터로 처음부터 학습한 행동 복제 기준선은 0.5%(200 에피소드 중 1번) |
+
+기준선은 파란 물체 쪽으로 계속 움직이고 가끔 집어 초록 위에 올리기도 했지만, 완전하고 안정된 쌓기는 거의 하지 못했습니다.
+
+### 사전학습 데이터 제거 실험 (부록 I)
+
+![그림 19 — 시뮬레이션 기술 일반화의 사전학습 데이터 비교](https://arxiv.org/html/2205.06175v3/figures/skill_gen_sim_data_ablations.png)
+
+*그림 19 — 시뮬레이션 기술 일반화의 적은 데이터 성능을 시험 물체별로 그렸습니다.*
+
+364M 크기에서 10장의 분포 밖 실험과 같은 기준선에 DM Control Suite 데이터만 쓴 기준선을 더했습니다.
+
+- DM Control만 쓴 에이전트는 미세조정 없는 전이와 미세조정 데이터가 많은 조건에서 기본 Gato보다 좋습니다. 저자들은 Gato가 로봇 과제에 적응할 때 텍스트 데이터에서 배운 표현을 쓰지 않는 것일 수 있다고 해석합니다.
+- 같은 도메인 데이터만 쓴 에이전트가 전체적으로 가장 좋습니다. 미세조정 에피소드 1개에서 CRR 기준선과 같고, 데이터가 늘면 CRR을 넘습니다. 저자들은 현재 규모의 Gato에서는 사전학습 데이터를 한 도메인으로 좁히면 일반화 능력은 줄지만 적은 데이터로 더 잘 적응한다고 봅니다.
+
+---
+
+## 11. 단일 도메인 전문가 에이전트
+
+범용이 아닌 전문가 에이전트 두 개를 같은 구조로 학습했습니다. 둘 다 한 도메인의 데이터만 쓰고, 과제별 미세조정 없이 학습 과제마다 500번 실행했습니다.
+
+### Meta-World
+
+5.1절의 가장 작은 79M 구조를 Meta-World 50개 과제 전체로 학습했습니다. 범용 Gato는 MuJoCo 물리 엔진 상태와 무제한 과제 시드를 썼지만, 이 에이전트는 추가 특징이나 과제 없이 표준 API만 씁니다. 과제마다 MPO 전문가를 따로 학습하며 궤적을 기록하고, 이 경험을 에이전트 하나로 증류(distillation)했습니다.
+
+결과는 **50개 과제 평균 성공률 96.6%** 입니다. 저자들이 아는 한 이 벤치마크에서 여러 과제를 동시에 거의 100% 평균 성공률로 수행한 첫 에이전트입니다. 부록 K의 표 7에서 성공률 0.95 미만인 과제는 다음과 같습니다.
+
+| 과제 | 성공률 |
+|------|--------|
+| reach-v2 | 0.796 |
+| push-wall-v2 | 0.784 |
+| reach-wall-v2 | 0.802 |
+| stick-pull-v2 | 0.882 |
+| dial-turn-v2 | 0.916 |
+| disassemble-v2 | 0.924 |
+| push-v2 | 0.944 |
+| handle-press-v2 | 0.946 |
+| sweep-v2 | 0.948 |
+| **50개 과제 평균** | **0.966** |
+
+*표 7 발췌 — Meta-World 전문가 에이전트 성공률. 과제당 500번 평가의 평균입니다.*
+
+### ALE Atari
+
+Atari는 Meta-World보다 훨씬 어려워서 1.18B Gato 구조로 51개 게임 전체를 학습했습니다. 이 에이전트는 **44개 게임에서 사람 평균을 넘습니다.** 나머지 7개 게임은 학습 데이터를 만든 온라인 전문가도 사람 평균보다 낮았습니다. 곧 데이터에 사람을 넘는 에피소드가 있는 모든 게임에서 사람 이상의 성능을 냈습니다.
+
+범용 Gato는 23개 게임에서 사람 이상이었으므로, 전문가 에이전트가 더 높습니다. 저자들은 Gato를 키우면 성능이 더 오를 수 있지만, 실물 로봇에서 실시간으로 실행하기 위해 크기를 일부러 제한했다고 적습니다.
+
+---
+
+## 12. 어텐션과 임베딩 시각화
+
+### 어텐션 지도
+
+![그림 12 — 어텐션 지도](https://arxiv.org/html/2205.06175v3/gato_attention_vis.svg)
+
+*그림 12 — Atari Breakout과 RGB 쌓기에서 첫 층의 선택한 헤드가 시간에 따라 이미지 어느 영역을 보는지 나타냅니다.*
+
+![그림 20 — 부록 어텐션 지도](https://arxiv.org/html/2205.06175v3/gato_attention_vis_app.svg)
+
+*그림 20 — Atari Breakout·Boxing·Pong·Freeway, Procgen CoinRun·Bossfight, RGB 쌓기, DM Control Suite Cheetah의 첫 층 어텐션 지도입니다.*
+
+부록 J의 계산 방법은 다음과 같습니다.
+
+1. 헤드 수 $H$, 토큰 수 $T$일 때 $(H, T, T)$ 크기의 어텐션 로짓을 꺼냅니다. $(h, i, j)$ 원소는 헤드 $h$에서 토큰 $i$가 토큰 $j$에 주는 어텐션입니다.
+2. 한 시점에 토큰이 여러 개이므로 그 시점에 해당하는 부분 행렬만 잘라냅니다.
+3. 이전 토큰에 주는 어텐션만 보려고 대각선을 음의 무한대로 두고 행마다 소프트맥스를 적용합니다.
+4. 패치의 중요도는 그 패치 열의 어텐션 가중치 평균입니다. 인과적(causal) Transformer라 어텐션 행렬이 하삼각이므로 대각선 아래 부분 열만 평균합니다.
+
+첫 층의 지도가 가장 해석하기 쉬웠고, 일부 헤드는 과제에 필요한 물체와 영역을 뚜렷하게 따라갑니다.
+
+### 과제 임베딩
+
+![그림 13 — 임베딩 시각화](https://arxiv.org/html/2205.06175v3/figures/gato_tsne.png)
+
+*그림 13 — 과제별 임베딩의 t-SNE 시각화입니다. M3W 임베딩의 상당 부분이 MassiveText와 겹치고, 행동이 있는 과제는 각자 따로 모입니다.*
+
+11개 과제에서 과제마다 에피소드 100개를 뽑아 토큰화하고, 에피소드마다 128 토큰 부분 시퀀스의 12층(전체 깊이의 절반) 임베딩을 평균했습니다. 이 평균 임베딩을 PCA로 50차원으로 줄인 뒤 t-SNE로 2차원에 그렸습니다. 같은 과제의 임베딩끼리 모이고, 같은 도메인·입력 형식의 과제 묶음도 서로 가깝습니다. 학습에서 뺀 cartpole.swingup도 DM Control Suite Pixels의 다른 과제 옆에 놓입니다.
+
+---
+
+## 13. 관련 연구
+
+| 분류 | 연구 | Gato와의 관계 |
+|------|------|-------------|
+| 제어용 언어 모델형 구조 | Decision Transformer, Trajectory Transformer | 가장 가까운 구조. 다만 과제마다 파라미터가 다름. Gato는 여러 입력 형식·몸체·대규모·범용 배포를 위해 설계를 바꾸고 모든 과제에 같은 가중치를 씀 |
+| 범용 언어·시각 언어 모델 | GPT-3, Gopher, Flamingo, PaLM | Gato가 착안한 연구 |
+| 여러 몸체 연속 제어 | Huang et al.(2020) 메시지 전달 그래프 망, Kurin et al.(2020) Transformer | 몸체가 다른 제어에서 형태 귀납 편향 없이도 Transformer가 그래프 방식보다 나을 수 있음을 보임 |
+| 초기 범용 모델 | NPI, MultiModel, "one big net for everything" | 서로 크게 다른 도메인을 모델 하나로 다룬 시도 |
+| 언어 모델로 과제 분해 | Huang et al.(2022), Ahn et al.(2022) | 언어 모델을 계획에 쓰는 흐름. Ahn et al.(2022)이 7편 SayCan |
+
+저자들은 "여러 과제에 같은 구조를 쓰는 것"과 "모든 과제에 같은 가중치의 신경망 하나를 쓰는 것"을 구분합니다. Atari57이나 DMLab에서 좋은 다중 과제 결과를 낸 강화 학습 에이전트가 있지만, 흔한 방식은 구조와 하이퍼파라미터만 공유하고 과제마다 파라미터를 따로 두는 것입니다. Gato는 후자, 곧 가중치 한 벌을 모든 과제에 씁니다.
+
+자기회귀 모델로 행동을 생성하면 교란 변수가 있을 때 인과적 "자기 망상(self-delusion)" 편향이 생길 수 있습니다. 관측과 행동 규격이 비슷한 과제가 여럿이면, 모델이 자기가 뽑은 행동에 조건화돼 엉뚱한 과제를 풀 수 있습니다. Gato는 모호한 과제에서 성공 시연을 프롬프트로 줘서 교란 변수를 차단하고 이 편향을 줄입니다.
+
+---
+
+## 14. 사회적 영향과 모델 카드
+
+저자들은 범용 에이전트가 초기 연구 단계이지만 위험과 이점에 대한 학제 간 분석이 필요하다고 봅니다. 투명성을 위해 부록 A에 모델 카드를 실었습니다.
+
+| 항목 | 내용 |
+|------|------|
+| 모델 유형 | 여러 과제·여러 입력 형식 행동 복제를 위한 ResNet 패치 임베딩 Transformer |
+| 주 용도 | 비디오 게임, 시뮬레이션 몸체 제어, 실물 블록 쌓기 같은 과제를 전문가 시연으로 학습 |
+| 주 사용자 | DeepMind 연구자 |
+| 용도 외 사용 | 상업·제품 용도가 아님. 군사 용도는 엄격히 금지 |
+| 성능 지표 | 제어 과제의 에피소드 수익. 분포 밖 과제의 검증 손실이 에피소드 수익과 잘 상관되지 않아 보고하지 않음 |
+| 데이터 관련 윤리 | 시각·언어 데이터에 인종차별적·성차별적이거나 해로운 내용이 포함됨 |
+| 위험 | 해로운 학습 데이터에 더해, 실물 몸체로 인한 오용·오작동의 물리적 안전 위험 |
+| 완화 | 시각·언어 데이터는 Alayrac et al.(2022)처럼 성적으로 노골적인 내용만 거름. 물리적 위험은 로봇 환경 설계자의 안전 장치로 완화 |
+
+사회적 영향 절의 요점은 다음과 같습니다.
+
+- 시각 언어 모델로도 동작하므로 기존 시각 언어 모델의 우려를 그대로 가집니다.
+- 실물 세계에서 행동할 수 있어, 사용자가 에이전트를 사람처럼 여겨 오작동하는 시스템을 과신하거나 악의적으로 이용될 수 있습니다.
+- 도메인 간 지식 전이가 의도치 않은 결과를 낳을 수 있습니다. 논문 예시는 아케이드 게임의 싸움 행동이 엉뚱한 맥락으로 전이되는 경우입니다.
+- 선호 학습, 불확실성 모델링, 가치 정렬이 사람과 공존할 수 있는 범용 에이전트 설계에서 특히 중요하다고 봅니다.
+- 현재 Gato를 어떤 사용자에게도 배포하지 않으므로 당장의 사회적 영향은 없을 것으로 예상합니다.
+
+---
+
+## 15. 저자가 밝힌 한계
+
+### 강화 학습 데이터 수집
+
+Gato는 모방 학습에서 나온 데이터 기반 방법입니다. 자연어나 이미지 데이터는 웹에서 비교적 쉽게 구하지만, 제어 과제의 웹 규모 데이터셋은 아직 없습니다. 저자들은 이 문제에 대한 기존 연구 방향을 나열합니다.
+
+| 방향 | 내용 |
+|------|------|
+| 오프라인 강화 학습 | 기존 제어 데이터셋 활용 연구가 늘면서 더 크고 다양한 데이터셋이 공개되고 있음 |
+| 풍부한 환경 | 메타버스 같은 환경, 이미 운영 중인 수천 개 온라인 게임(예: 대규모 Starcraft 2 게임 데이터) |
+| 실제 기록 데이터 | 사람 운전 기록으로 모은 자율주행 학습 데이터 |
+| 관측만 있는 데이터 | 행동 없이 관측만 있는 대규모 데이터 활용 연구(Baker et al., 2022). YouTube·Twitch 영상은 자연어 데이터만큼 모으기 쉬움 |
+
+동시에 시뮬레이션과 최고 수준에 가까운 에이전트를 한 번 갖추면 품질 높은 데이터를 대량으로 만들 수 있어, 품질이 낮기로 알려진 웹 데이터보다 실용적인 경우도 있다고 적습니다.
+
+### 짧은 문맥과 프롬프트
+
+- Gato는 전문가 시연을 프롬프트로 받습니다. 에이전트에게 과제 번호가 따로 주어지지 않으므로 프롬프트의 관측과 행동에서 과제를 추론합니다.
+- 문맥 길이가 1024 토큰이라 전체 시점 몇 개만 볼 때가 있습니다. 이미지 관측은 해상도에 따라 관측 하나가 100 토큰을 넘기도 합니다.
+- 이 짧은 문맥 때문에 프롬프트 구조를 바꾼 예비 실험의 성능이 거의 같았습니다.
+- 새 환경에서 프롬프트 기반 문맥 내 학습(in-context learning)을 시험한 초기 평가도, 프롬프트 없이 평가한 것보다 성능이 크게 오르지 않았습니다.
+- 주원인은 셀프 어텐션의 이차 계산량이고, 긴 문맥을 효율적으로 다루는 구조가 앞으로의 과제입니다.
+
+---
+
+## 16. 정리 — VLA와의 연결
+
+### 논문의 결론
+
+- 텍스트, 이미지, 관절 값, 버튼 입력을 모두 정수 토큰열로 바꾸면 **Transformer 하나가 같은 가중치로** 대화·캡션·게임·실물 로봇 제어를 함께 학습할 수 있습니다.
+- 연속값은 mu-law 변환 뒤 1024구간으로 이산화하고, 손실은 텍스트와 행동 위치에만 계산해 언어 모델과 같은 다음 토큰 예측으로 행동을 학습합니다.
+- 실물 블록 쌓기에서 이 과제만 학습한 기준선과 비슷하고, 적은 시연으로 미세조정하면 전문가를 넘습니다.
+- 같은 토큰 수에서 모델이 클수록 성능이 높고, 적은 데이터 적응도 좋아집니다.
+- 실시간 로봇 제어 조건 때문에 모델 크기가 1.2B로 제한됐고, 1024 토큰 문맥 때문에 프롬프트만으로 새 과제에 적응하는 데는 실패했습니다.
+
+### VLA 계보에서의 위치
+
+Gato가 보인 두 설계는 이후 VLA에 그대로 이어집니다. 첫째, 관측과 행동을 **한 토큰열** 에 넣고 Transformer의 다음 토큰 예측으로 행동을 뽑는 방식입니다. 둘째, 연속 행동을 **구간으로 이산화해 토큰으로 만드는** 방식입니다.
+
+| 항목 | Gato | [RT-1](/blog/paper-review/vla/rt-1) | RT-2 |
+|------|------|------|------|
+| 모델 크기 | 1.2B | 35M | 5B · 12B · 55B |
+| 사전학습 가중치 | 없음 (처음부터 학습) | ImageNet 사전학습 EfficientNet, 지시 임베딩용 Universal Sentence Encoder | 웹 데이터로 사전학습한 VLM 전체 |
+| 행동 표현 | 연속값을 1024구간으로 이산화한 토큰 | 차원별 256구간 이산 토큰 | 차원별 256구간 이산 토큰을 VLM 어휘에 대응 |
+| 과제 지정 | 성공 시연 프롬프트 | 언어 지시 | 언어 지시 |
+| 실물 로봇 과제 | 블록 쌓기 한 종류 | 사무실 주방의 지시 700개 이상 | RT-1 과제 + 웹 지식이 필요한 새 지시 |
+
+RT-1은 Gato를 비교 기준선으로 쓰면서, 실시간 제어를 위해 Gato를 37M 파라미터로 줄여 같은 데이터로 학습했습니다. RT-1 논문에서 Gato는 학습한 작업 65%, 처음 보는 작업 52%로 RT-1(97%, 76%)보다 낮습니다.
+
+[RT-2](/blog/paper-review/vla/rt-2)는 Gato와 방향이 다릅니다. Gato는 행동과 언어를 함께 다루는 새 모델을 처음부터 학습했고, RT-2는 이미 웹 데이터로 사전학습한 시각 언어 모델의 가중치를 그대로 가져와 행동 토큰을 추가로 학습합니다.
+
+다음 편은 로봇 관측을 대규모 언어 모델의 입력으로 직접 넣는 [9편 PaLM-E](/blog/paper-review/pre-vla/palm-e)입니다. 전체 목록은 [VLA 선행 연구 목차](/blog/paper-review/pre-vla)에 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/saycan","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"7편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/palm-e","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"9편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - PaLM-E: An Embodied Multimodal Language Model"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

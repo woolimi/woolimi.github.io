@@ -1,0 +1,491 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/19ve-6rei9iuk.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","paper-review","vla","open-x-embodiment"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","paper-review/vla/open-x-embodiment","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19ve-6rei9iuk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3lj8u5xv5ktpp.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2b-rkrpx92plj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1-lkrriw345pf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2xgagg06nhrfg.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Otz_2YXo8BEnEwlE5lLW7"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron","isHub":false,"order":"$undefined"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron","isHub":false,"order":"$undefined"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1","isHub":false,"order":"$undefined"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2","isHub":false,"order":"$undefined"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function","isHub":false,"order":"$undefined"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer","isHub":false,"order":"$undefined"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리","isHub":false,"order":"$undefined"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?","isHub":false,"order":"$undefined"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering","isHub":false,"order":"$undefined"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법","isHub":false,"order":"$undefined"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법","isHub":false,"order":"$undefined"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2","isHub":false,"order":"$undefined"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama","isHub":false,"order":"$undefined"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning","isHub":false,"order":"$undefined"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree","isHub":false,"order":"$undefined"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn","isHub":false,"order":"$undefined"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측","isHub":false,"order":"$undefined"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기","isHub":false,"order":"$undefined"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression","isHub":false,"order":"$undefined"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"OpenCV","type":"folder","path":"AI/OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"AI/OpenCV/00.basic.ko.md","slug":"AI/OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법","isHub":false,"order":"$undefined"},{"name":"01.camera.ko.md","type":"file","path":"AI/OpenCV/01.camera.ko.md","slug":"AI/OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리","isHub":false,"order":"$undefined"},{"name":"02.filtering.ko.md","type":"file","path":"AI/OpenCV/02.filtering.ko.md","slug":"AI/OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법","isHub":false,"order":"$undefined"},{"name":"03.histogram.ko.ipynb","type":"file","path":"AI/OpenCV/03.histogram.ko.ipynb","slug":"AI/OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화","isHub":false,"order":"$undefined"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"AI/OpenCV/04.mediapipe.ko.ipynb","slug":"AI/OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"physical-ai-101","type":"folder","path":"AI/physical-ai-101","children":[{"name":"01.what-is-physical-ai.ko.md","type":"file","path":"AI/physical-ai-101/01.what-is-physical-ai.ko.md","slug":"AI/physical-ai-101/what-is-physical-ai","locale":"ko","title":"Physical AI 101 - 1편 Physical AI 와 로봇의 두뇌","isHub":false,"order":"$undefined"},{"name":"02.research-landscape.ko.md","type":"file","path":"AI/physical-ai-101/02.research-landscape.ko.md","slug":"AI/physical-ai-101/research-landscape","locale":"ko","title":"Physical AI 101 - 2편 연구 지형 — foundation model · VLA · world model · 시뮬레이션","isHub":false,"order":"$undefined"},{"name":"03.finetuning-my-robot.ko.md","type":"file","path":"AI/physical-ai-101/03.finetuning-my-robot.ko.md","slug":"AI/physical-ai-101/finetuning-my-robot","locale":"ko","title":"Physical AI 101 - 3편 내 로봇에 맞추는 학습 — teleoperation · 모방학습 · LoRA · 강화학습","isHub":false,"order":"$undefined"},{"name":"04.inside-the-model.ko.md","type":"file","path":"AI/physical-ai-101/04.inside-the-model.ko.md","slug":"AI/physical-ai-101/inside-the-model","locale":"ko","title":"Physical AI 101 - 4편 모델의 내부 구조 — System 1/2 · action chunk · flow matching · 모방학습의 한계","isHub":false,"order":"$undefined"},{"name":"05.robot-basics-and-open-problems.ko.md","type":"file","path":"AI/physical-ai-101/05.robot-basics-and-open-problems.ko.md","slug":"AI/physical-ai-101/robot-basics-and-open-problems","locale":"ko","title":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제","isHub":false,"order":"$undefined"},{"name":"06.where-to-run.ko.md","type":"file","path":"AI/physical-ai-101/06.where-to-run.ko.md","slug":"AI/physical-ai-101/where-to-run","locale":"ko","title":"Physical AI 101 - 6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포","isHub":false,"order":"$undefined"}],"slug":"AI/physical-ai-101","order":"$undefined"},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro","isHub":false,"order":"$undefined"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler","isHub":false,"order":"$undefined"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection","isHub":false,"order":"$undefined"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"dev-tools","type":"folder","path":"dev-tools","children":[{"name":"claude","type":"folder","path":"dev-tools/claude","children":[{"name":"00.setup.md","type":"file","path":"dev-tools/claude/00.setup.md","slug":"dev-tools/claude/setup","locale":"$undefined","title":"claude 코드로 sudo","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Docker","type":"folder","path":"dev-tools/Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"dev-tools/Docker/00.basic.ko.md","slug":"dev-tools/Docker/basic","locale":"ko","title":"Docker 기본","isHub":false,"order":"$undefined"},{"name":"01.create-image.ko.md","type":"file","path":"dev-tools/Docker/01.create-image.ko.md","slug":"dev-tools/Docker/create-image","locale":"ko","title":"Docker 이미지 생성","isHub":false,"order":"$undefined"},{"name":"02.docker-hub.ko.md","type":"file","path":"dev-tools/Docker/02.docker-hub.ko.md","slug":"dev-tools/Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push","isHub":false,"order":"$undefined"},{"name":"03.useful-commands.ko.md","type":"file","path":"dev-tools/Docker/03.useful-commands.ko.md","slug":"dev-tools/Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"git","type":"folder","path":"dev-tools/git","children":[{"name":"00.config.ko.md","type":"file","path":"dev-tools/git/00.config.ko.md","slug":"dev-tools/git/config","locale":"ko","title":"Git Config 설정 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"jupyter-notebook","type":"folder","path":"dev-tools/jupyter-notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"dev-tools/jupyter-notebook/00.setup.ko..md","slug":"dev-tools/jupyter-notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Terminator","type":"folder","path":"dev-tools/Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"dev-tools/Terminator/00.shortcuts.md","slug":"dev-tools/Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Web","type":"folder","path":"dev-tools/Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"dev-tools/Web/00.cloudflared.ko.md","slug":"dev-tools/Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"paper-review","type":"folder","path":"paper-review","children":[{"name":"pre-vla","type":"folder","path":"paper-review/pre-vla","children":[{"name":"01.attention-is-all-you-need.ko.md","type":"file","path":"paper-review/pre-vla/01.attention-is-all-you-need.ko.md","slug":"paper-review/pre-vla/attention-is-all-you-need","locale":"ko","title":"논문해석 - Attention Is All You Need","isHub":false,"order":"$undefined"},{"name":"02.gpt-3.ko.md","type":"file","path":"paper-review/pre-vla/02.gpt-3.ko.md","slug":"paper-review/pre-vla/gpt-3","locale":"ko","title":"논문해석 - Language Models are Few-Shot Learners","isHub":false,"order":"$undefined"},{"name":"03.vit.ko.md","type":"file","path":"paper-review/pre-vla/03.vit.ko.md","slug":"paper-review/pre-vla/vit","locale":"ko","title":"논문해석 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale","isHub":false,"order":"$undefined"},{"name":"04.clip.ko.md","type":"file","path":"paper-review/pre-vla/04.clip.ko.md","slug":"paper-review/pre-vla/clip","locale":"ko","title":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision","isHub":false,"order":"$undefined"},{"name":"05.llava.ko.md","type":"file","path":"paper-review/pre-vla/05.llava.ko.md","slug":"paper-review/pre-vla/llava","locale":"ko","title":"논문해석 - Visual Instruction Tuning","isHub":false,"order":"$undefined"},{"name":"06.bc-z.ko.md","type":"file","path":"paper-review/pre-vla/06.bc-z.ko.md","slug":"paper-review/pre-vla/bc-z","locale":"ko","title":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning","isHub":false,"order":"$undefined"},{"name":"07.saycan.ko.md","type":"file","path":"paper-review/pre-vla/07.saycan.ko.md","slug":"paper-review/pre-vla/saycan","locale":"ko","title":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances","isHub":false,"order":"$undefined"},{"name":"08.gato.ko.md","type":"file","path":"paper-review/pre-vla/08.gato.ko.md","slug":"paper-review/pre-vla/gato","locale":"ko","title":"논문해석 - A Generalist Agent","isHub":false,"order":"$undefined"},{"name":"09.palm-e.ko.md","type":"file","path":"paper-review/pre-vla/09.palm-e.ko.md","slug":"paper-review/pre-vla/palm-e","locale":"ko","title":"논문해석 - PaLM-E: An Embodied Multimodal Language Model","isHub":false,"order":"$undefined"},{"name":"10.ddpm.ko.md","type":"file","path":"paper-review/pre-vla/10.ddpm.ko.md","slug":"paper-review/pre-vla/ddpm","locale":"ko","title":"논문해석 - Denoising Diffusion Probabilistic Models","isHub":false,"order":"$undefined"},{"name":"11.flow-matching.ko.md","type":"file","path":"paper-review/pre-vla/11.flow-matching.ko.md","slug":"paper-review/pre-vla/flow-matching","locale":"ko","title":"논문해석 - Flow Matching for Generative Modeling","isHub":false,"order":"$undefined"},{"name":"12.diffusion-policy.ko.md","type":"file","path":"paper-review/pre-vla/12.diffusion-policy.ko.md","slug":"paper-review/pre-vla/diffusion-policy","locale":"ko","title":"논문해석 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion","isHub":false,"order":"$undefined"},{"name":"13.act.ko.md","type":"file","path":"paper-review/pre-vla/13.act.ko.md","slug":"paper-review/pre-vla/act","locale":"ko","title":"논문해석 - Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware","isHub":false,"order":"$undefined"}],"slug":"paper-review/pre-vla","order":1},{"name":"vla","type":"folder","path":"paper-review/vla","children":[{"name":"01.rt-1.ko.md","type":"file","path":"paper-review/vla/01.rt-1.ko.md","slug":"paper-review/vla/rt-1","locale":"ko","title":"논문해석 - RT-1: Robotics Transformer for Real-World Control at Scale","isHub":false,"order":"$undefined"},{"name":"02.rt-2.ko.md","type":"file","path":"paper-review/vla/02.rt-2.ko.md","slug":"paper-review/vla/rt-2","locale":"ko","title":"논문해석 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control","isHub":false,"order":"$undefined"},{"name":"03.open-x-embodiment.ko.md","type":"file","path":"paper-review/vla/03.open-x-embodiment.ko.md","slug":"paper-review/vla/open-x-embodiment","locale":"ko","title":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models","isHub":false,"order":"$undefined"},{"name":"04.openvla.ko.md","type":"file","path":"paper-review/vla/04.openvla.ko.md","slug":"paper-review/vla/openvla","locale":"ko","title":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model","isHub":false,"order":"$undefined"},{"name":"05.pi0.ko.md","type":"file","path":"paper-review/vla/05.pi0.ko.md","slug":"paper-review/vla/pi0","locale":"ko","title":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control","isHub":false,"order":"$undefined"},{"name":"06.fast.ko.md","type":"file","path":"paper-review/vla/06.fast.ko.md","slug":"paper-review/vla/fast","locale":"ko","title":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models","isHub":false,"order":"$undefined"},{"name":"07.pi05.ko.md","type":"file","path":"paper-review/vla/07.pi05.ko.md","slug":"paper-review/vla/pi05","locale":"ko","title":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization","isHub":false,"order":"$undefined"},{"name":"08.openvla-oft.ko.md","type":"file","path":"paper-review/vla/08.openvla-oft.ko.md","slug":"paper-review/vla/openvla-oft","locale":"ko","title":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success","isHub":false,"order":"$undefined"},{"name":"09.gr00t-n1.ko.md","type":"file","path":"paper-review/vla/09.gr00t-n1.ko.md","slug":"paper-review/vla/gr00t-n1","locale":"ko","title":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots","isHub":false,"order":"$undefined"},{"name":"10.gemini-robotics.ko.md","type":"file","path":"paper-review/vla/10.gemini-robotics.ko.md","slug":"paper-review/vla/gemini-robotics","locale":"ko","title":"논문해석 - Gemini Robotics: Bringing AI into the Physical World","isHub":false,"order":"$undefined"}],"slug":"paper-review/vla","order":2},{"name":"umi","type":"folder","path":"paper-review/umi","children":[{"name":"01.umi.ko.md","type":"file","path":"paper-review/umi/01.umi.ko.md","slug":"paper-review/umi/umi","locale":"ko","title":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots","isHub":false,"order":"$undefined"},{"name":"02.fastumi.ko.md","type":"file","path":"paper-review/umi/02.fastumi.ko.md","slug":"paper-review/umi/fastumi","locale":"ko","title":"논문해석 - FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset","isHub":false,"order":"$undefined"},{"name":"03.exumi.ko.md","type":"file","path":"paper-review/umi/03.exumi.ko.md","slug":"paper-review/umi/exumi","locale":"ko","title":"논문해석 - exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation","isHub":false,"order":"$undefined"},{"name":"04.mv-umi.ko.md","type":"file","path":"paper-review/umi/04.mv-umi.ko.md","slug":"paper-review/umi/mv-umi","locale":"ko","title":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning","isHub":false,"order":"$undefined"},{"name":"05.mobile-umi.ko.md","type":"file","path":"paper-review/umi/05.mobile-umi.ko.md","slug":"paper-review/umi/mobile-umi","locale":"ko","title":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation","isHub":false,"order":"$undefined"},{"name":"06.rwor.ko.md","type":"file","path":"paper-review/umi/06.rwor.ko.md","slug":"paper-review/umi/rwor","locale":"ko","title":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot","isHub":false,"order":"$undefined"},{"name":"07.umi-agriculture.ko.md","type":"file","path":"paper-review/umi/07.umi-agriculture.ko.md","slug":"paper-review/umi/umi-agriculture","locale":"ko","title":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications","isHub":false,"order":"$undefined"},{"name":"08.gripper-design-demonstration-quality.ko.md","type":"file","path":"paper-review/umi/08.gripper-design-demonstration-quality.ko.md","slug":"paper-review/umi/gripper-design-demonstration-quality","locale":"ko","title":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning","isHub":false,"order":"$undefined"},{"name":"09.legato.ko.md","type":"file","path":"paper-review/umi/09.legato.ko.md","slug":"paper-review/umi/legato","locale":"ko","title":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool","isHub":false,"order":"$undefined"},{"name":"10.touch-in-the-wild.ko.md","type":"file","path":"paper-review/umi/10.touch-in-the-wild.ko.md","slug":"paper-review/umi/touch-in-the-wild","locale":"ko","title":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper","isHub":false,"order":"$undefined"},{"name":"11.umi-on-air.ko.md","type":"file","path":"paper-review/umi/11.umi-on-air.ko.md","slug":"paper-review/umi/umi-on-air","locale":"ko","title":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies","isHub":false,"order":"$undefined"},{"name":"12.farm.ko.md","type":"file","path":"paper-review/umi/12.farm.ko.md","slug":"paper-review/umi/farm","locale":"ko","title":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation","isHub":false,"order":"$undefined"},{"name":"13.tacumi.ko.md","type":"file","path":"paper-review/umi/13.tacumi.ko.md","slug":"paper-review/umi/tacumi","locale":"ko","title":"논문해석 - TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks","isHub":false,"order":"$undefined"},{"name":"14.rdt2.ko.md","type":"file","path":"paper-review/umi/14.rdt2.ko.md","slug":"paper-review/umi/rdt2","locale":"ko","title":"논문해석 - RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization","isHub":false,"order":"$undefined"},{"name":"15.umi-3d.ko.md","type":"file","path":"paper-review/umi/15.umi-3d.ko.md","slug":"paper-review/umi/umi-3d","locale":"ko","title":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception","isHub":false,"order":"$undefined"},{"name":"16.vista.ko.md","type":"file","path":"paper-review/umi/16.vista.ko.md","slug":"paper-review/umi/vista","locale":"ko","title":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training","isHub":false,"order":"$undefined"},{"name":"17.yubi.ko.md","type":"file","path":"paper-review/umi/17.yubi.ko.md","slug":"paper-review/umi/yubi","locale":"ko","title":"논문해석 - YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale","isHub":false,"order":"$undefined"},{"name":"18.umi-bench.ko.md","type":"file","path":"paper-review/umi/18.umi-bench.ko.md","slug":"paper-review/umi/umi-bench","locale":"ko","title":"논문해석 - UMI-Bench 1.0: An Open and Reproducible Real-World Benchmark for Tabletop Robotic Manipulation with UMI Data","isHub":false,"order":"$undefined"},{"name":"19.bridge.ko.md","type":"file","path":"paper-review/umi/19.bridge.ko.md","slug":"paper-review/umi/bridge","locale":"ko","title":"논문해석 - Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts","isHub":false,"order":"$undefined"}],"slug":"paper-review/umi","order":3},{"name":"wam","type":"folder","path":"paper-review/wam","children":[{"name":"01.flux-3-action.ko.md","type":"file","path":"paper-review/wam/01.flux-3-action.ko.md","slug":"paper-review/wam/flux-3-action","locale":"ko","title":"논문해석 - FLUX 3 Action: A 7B World Action Model for Robot Control","isHub":false,"order":"$undefined"}],"slug":"paper-review/wam","order":4}],"slug":"paper-review","order":"$undefined"},{"name":"programming","type":"folder","path":"programming","children":[{"name":"coding-test","type":"folder","path":"programming/coding-test","children":[{"name":"Brute-Force Search","type":"folder","path":"programming/coding-test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"programming/coding-test/Brute-Force Search/01.problem1.ko.ipynb","slug":"programming/coding-test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Data Structure","type":"folder","path":"programming/coding-test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"programming/coding-test/Data Structure/00.intro.ko.md","slug":"programming/coding-test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Sort","type":"folder","path":"programming/coding-test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"programming/coding-test/Sort/00.intro.ko.ipynb","slug":"programming/coding-test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"SQL","type":"folder","path":"programming/coding-test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"programming/coding-test/SQL/00.order-by.ko.md","slug":"programming/coding-test/SQL/order-by","locale":"ko","title":null,"isHub":false,"order":"$undefined"},{"name":"01.string.ko.md","type":"file","path":"programming/coding-test/SQL/01.string.ko.md","slug":"programming/coding-test/SQL/string","locale":"ko","title":null,"isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"computer-science","type":"folder","path":"programming/computer-science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"programming/computer-science/00.process-vs-thread.ko.md","slug":"programming/computer-science/process-vs-thread","locale":"ko","title":"프로세스와 스레드","isHub":false,"order":"$undefined"},{"name":"01.endian.ko.md","type":"file","path":"programming/computer-science/01.endian.ko.md","slug":"programming/computer-science/endian","locale":"ko","title":"엔디안","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"CPP","type":"folder","path":"programming/CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"programming/CPP/00.reference.ko.md","slug":"programming/CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)","isHub":false,"order":"$undefined"},{"name":"01.member-access-operator.ko.md","type":"file","path":"programming/CPP/01.member-access-operator.ko.md","slug":"programming/CPP/member-access-operator","locale":"ko","title":"member access operator","isHub":false,"order":"$undefined"},{"name":"02.template.ko.md","type":"file","path":"programming/CPP/02.template.ko.md","slug":"programming/CPP/template","locale":"ko","title":"Template","isHub":false,"order":"$undefined"},{"name":"03.smart-pointer.ko.md","type":"file","path":"programming/CPP/03.smart-pointer.ko.md","slug":"programming/CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"DB","type":"folder","path":"programming/DB","children":[{"name":"MySQL","type":"folder","path":"programming/DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"programming/DB/MySQL/00.install.ko.md","slug":"programming/DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행","isHub":false,"order":"$undefined"},{"name":"01.sql-language.ko.md","type":"file","path":"programming/DB/MySQL/01.sql-language.ko.md","slug":"programming/DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리","isHub":false,"order":"$undefined"},{"name":"02.user-management.ko.md","type":"file","path":"programming/DB/MySQL/02.user-management.ko.md","slug":"programming/DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리","isHub":false,"order":"$undefined"},{"name":"03.table.ko.md","type":"file","path":"programming/DB/MySQL/03.table.ko.md","slug":"programming/DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리","isHub":false,"order":"$undefined"},{"name":"04.dml.ko.md","type":"file","path":"programming/DB/MySQL/04.dml.ko.md","slug":"programming/DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)","isHub":false,"order":"$undefined"},{"name":"05.operators.ko.md","type":"file","path":"programming/DB/MySQL/05.operators.ko.md","slug":"programming/DB/MySQL/operators","locale":"ko","title":"MySQL 연산자","isHub":false,"order":"$undefined"},{"name":"06.union.ko.md","type":"file","path":"programming/DB/MySQL/06.union.ko.md","slug":"programming/DB/MySQL/union","locale":"ko","title":"MySQL UNION","isHub":false,"order":"$undefined"},{"name":"07.join.ko.md","type":"file","path":"programming/DB/MySQL/07.join.ko.md","slug":"programming/DB/MySQL/join","locale":"ko","title":"MySQL JOIN","isHub":false,"order":"$undefined"},{"name":"08.result-control.ko.md","type":"file","path":"programming/DB/MySQL/08.result-control.ko.md","slug":"programming/DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어","isHub":false,"order":"$undefined"},{"name":"09.backup.ko.md","type":"file","path":"programming/DB/MySQL/09.backup.ko.md","slug":"programming/DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원","isHub":false,"order":"$undefined"},{"name":"10.csv-to-db.ko.md","type":"file","path":"programming/DB/MySQL/10.csv-to-db.ko.md","slug":"programming/DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python","isHub":false,"order":"$undefined"},{"name":"11.aggregate-func.ko.md","type":"file","path":"programming/DB/MySQL/11.aggregate-func.ko.md","slug":"programming/DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY","isHub":false,"order":"$undefined"},{"name":"12.scalar-func.ko.md","type":"file","path":"programming/DB/MySQL/12.scalar-func.ko.md","slug":"programming/DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary","isHub":false,"order":"$undefined"},{"name":"13.subquery.ko.md","type":"file","path":"programming/DB/MySQL/13.subquery.ko.md","slug":"programming/DB/MySQL/subquery","locale":"ko","title":"Subquery","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"functional-programming","type":"folder","path":"programming/functional-programming","children":[{"name":"00.basic.ko.md","type":"file","path":"programming/functional-programming/00.basic.ko.md","slug":"programming/functional-programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic","isHub":false,"order":"$undefined"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"programming/functional-programming/01.functional-vs-imperative.ko.md","slug":"programming/functional-programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative","isHub":false,"order":"$undefined"},{"name":"02.fxts.ko.md","type":"file","path":"programming/functional-programming/02.fxts.ko.md","slug":"programming/functional-programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs","isHub":false,"order":"$undefined"},{"name":"03.monad.ko.md","type":"file","path":"programming/functional-programming/03.monad.ko.md","slug":"programming/functional-programming/monad","locale":"ko","title":"FP Workshop - 3. Monad","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Python","type":"folder","path":"programming/Python","children":[{"name":"00.settings.ko.md","type":"file","path":"programming/Python/00.settings.ko.md","slug":"programming/Python/settings","locale":"ko","title":"Python 개발환경 설정","isHub":false,"order":"$undefined"},{"name":"01.number.ko.md","type":"file","path":"programming/Python/01.number.ko.md","slug":"programming/Python/number","locale":"ko","title":"Python 숫자형","isHub":false,"order":"$undefined"},{"name":"02.string.ko.md","type":"file","path":"programming/Python/02.string.ko.md","slug":"programming/Python/string","locale":"ko","title":"Python 문자열","isHub":false,"order":"$undefined"},{"name":"03.list.ko.md","type":"file","path":"programming/Python/03.list.ko.md","slug":"programming/Python/list","locale":"ko","title":"Python 리스트","isHub":false,"order":"$undefined"},{"name":"04.tuple.ko.md","type":"file","path":"programming/Python/04.tuple.ko.md","slug":"programming/Python/tuple","locale":"ko","title":"Python 튜플","isHub":false,"order":"$undefined"},{"name":"05.dict.ko.md","type":"file","path":"programming/Python/05.dict.ko.md","slug":"programming/Python/dict","locale":"ko","title":"Python 딕셔너리","isHub":false,"order":"$undefined"},{"name":"06.set.ko.md","type":"file","path":"programming/Python/06.set.ko.md","slug":"programming/Python/set","locale":"ko","title":"Python 집합","isHub":false,"order":"$undefined"},{"name":"07.bool.ko.md","type":"file","path":"programming/Python/07.bool.ko.md","slug":"programming/Python/bool","locale":"ko","title":"Python 불리언","isHub":false,"order":"$undefined"},{"name":"08.statement.ko.md","type":"file","path":"programming/Python/08.statement.ko.md","slug":"programming/Python/statement","locale":"ko","title":"Python 제어문","isHub":false,"order":"$undefined"},{"name":"09.function.ko.md","type":"file","path":"programming/Python/09.function.ko.md","slug":"programming/Python/function","locale":"ko","title":"Python 함수","isHub":false,"order":"$undefined"},{"name":"10.pythonic.ko.md","type":"file","path":"programming/Python/10.pythonic.ko.md","slug":"programming/Python/pythonic","locale":"ko","title":"Pythonic Code","isHub":false,"order":"$undefined"},{"name":"11.class.ko.md","type":"file","path":"programming/Python/11.class.ko.md","slug":"programming/Python/class","locale":"ko","title":"Python 클래스","isHub":false,"order":"$undefined"},{"name":"12.dataclass.ko.md","type":"file","path":"programming/Python/12.dataclass.ko.md","slug":"programming/Python/dataclass","locale":"ko","title":"Python 데이터클래스","isHub":false,"order":"$undefined"},{"name":"13.package.ko.md","type":"file","path":"programming/Python/13.package.ko.md","slug":"programming/Python/package","locale":"ko","title":"Python 패키지와 모듈","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"Arduino","type":"folder","path":"Robotics/Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Robotics/Arduino/00.arduino.ko.md","slug":"Robotics/Arduino/arduino","locale":"ko","title":"Arduino 기본 지식","isHub":false,"order":"$undefined"},{"name":"01.switch.ko.md","type":"file","path":"Robotics/Arduino/01.switch.ko.md","slug":"Robotics/Arduino/switch","locale":"ko","title":"Arduino Switch","isHub":false,"order":"$undefined"},{"name":"02.serial.ko.md","type":"file","path":"Robotics/Arduino/02.serial.ko.md","slug":"Robotics/Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기","isHub":false,"order":"$undefined"},{"name":"03.led.ko..md","type":"file","path":"Robotics/Arduino/03.led.ko..md","slug":"Robotics/Arduino/led.ko.","locale":"$undefined","title":"Arduino LED","isHub":false,"order":"$undefined"},{"name":"04.rfid.ko.md","type":"file","path":"Robotics/Arduino/04.rfid.ko.md","slug":"Robotics/Arduino/rfid","locale":"ko","title":"Arduino RFID","isHub":false,"order":"$undefined"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Robotics/Arduino/05.arduino-llm.ko.md","slug":"Robotics/Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"introduction-to-robotics-craig","type":"folder","path":"Robotics/introduction-to-robotics-craig","children":[{"name":"00.craig-ch01-02-spatial-descriptions.ko.md","type":"file","path":"Robotics/introduction-to-robotics-craig/00.craig-ch01-02-spatial-descriptions.ko.md","slug":"Robotics/introduction-to-robotics-craig/craig-ch01-02-spatial-descriptions","locale":"ko","title":"Introduction to Robotics (Craig) - 1장 서론 · 2장 공간 기술과 변환","isHub":false,"order":"$undefined"}],"slug":"Robotics/introduction-to-robotics-craig","order":"$undefined"},{"name":"pinkrab","type":"folder","path":"Robotics/pinkrab","children":[{"name":"01.origin.ko.md","type":"file","path":"Robotics/pinkrab/01.origin.ko.md","slug":"Robotics/pinkrab/origin","locale":"ko","title":"Pinkrab - 게발의 시작","isHub":false,"order":"$undefined"}],"slug":"Robotics/pinkrab","order":"$undefined"},{"name":"ROS","type":"folder","path":"Robotics/ROS","children":[{"name":"concepts","type":"folder","path":"Robotics/ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"Robotics/ROS/concepts/01.nodes.ko.md","slug":"Robotics/ROS/concepts/nodes","locale":"ko","title":"basic - nodes","isHub":false,"order":"$undefined"},{"name":"02.interfaces.ko.md","type":"file","path":"Robotics/ROS/concepts/02.interfaces.ko.md","slug":"Robotics/ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces","isHub":false,"order":"$undefined"},{"name":"03.topics.ko.md","type":"file","path":"Robotics/ROS/concepts/03.topics.ko.md","slug":"Robotics/ROS/concepts/topics","locale":"ko","title":"basic - topics","isHub":false,"order":"$undefined"},{"name":"04.services.ko.md","type":"file","path":"Robotics/ROS/concepts/04.services.ko.md","slug":"Robotics/ROS/concepts/services","locale":"ko","title":"basic - services","isHub":false,"order":"$undefined"},{"name":"05.actions.ko.md","type":"file","path":"Robotics/ROS/concepts/05.actions.ko.md","slug":"Robotics/ROS/concepts/actions","locale":"ko","title":"basic - actions","isHub":false,"order":"$undefined"},{"name":"06.parameters.ko.md","type":"file","path":"Robotics/ROS/concepts/06.parameters.ko.md","slug":"Robotics/ROS/concepts/parameters","locale":"ko","title":"basic - parameters","isHub":false,"order":"$undefined"},{"name":"07.launch.ko.md","type":"file","path":"Robotics/ROS/concepts/07.launch.ko.md","slug":"Robotics/ROS/concepts/launch","locale":"ko","title":"basic - launch","isHub":false,"order":"$undefined"},{"name":"08.rcl.ko.md","type":"file","path":"Robotics/ROS/concepts/08.rcl.ko.md","slug":"Robotics/ROS/concepts/rcl","locale":"ko","title":"basic - rcl","isHub":false,"order":"$undefined"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"Robotics/ROS/concepts/09.ros_domain_id.ko.md","slug":"Robotics/ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID","isHub":false,"order":"$undefined"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"Robotics/ROS/concepts/10.middleware-vendors.ko.md","slug":"Robotics/ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors","isHub":false,"order":"$undefined"},{"name":"11.logging.ko.md","type":"file","path":"Robotics/ROS/concepts/11.logging.ko.md","slug":"Robotics/ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration","isHub":false,"order":"$undefined"},{"name":"12.qos.ko.md","type":"file","path":"Robotics/ROS/concepts/12.qos.ko.md","slug":"Robotics/ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings","isHub":false,"order":"$undefined"},{"name":"13.executors.ko.md","type":"file","path":"Robotics/ROS/concepts/13.executors.ko.md","slug":"Robotics/ROS/concepts/executors","locale":"ko","title":"intermediate - executors","isHub":false,"order":"$undefined"},{"name":"14.topic-statistics.ko.md","type":"file","path":"Robotics/ROS/concepts/14.topic-statistics.ko.md","slug":"Robotics/ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics","isHub":false,"order":"$undefined"},{"name":"15.rqt.ko.md","type":"file","path":"Robotics/ROS/concepts/15.rqt.ko.md","slug":"Robotics/ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt","isHub":false,"order":"$undefined"},{"name":"16.composition.ko.md","type":"file","path":"Robotics/ROS/concepts/16.composition.ko.md","slug":"Robotics/ROS/concepts/composition","locale":"ko","title":"intermediate - composition","isHub":false,"order":"$undefined"},{"name":"17.cross-compilation.ko.md","type":"file","path":"Robotics/ROS/concepts/17.cross-compilation.ko.md","slug":"Robotics/ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation","isHub":false,"order":"$undefined"},{"name":"18.ros2-security.ko.md","type":"file","path":"Robotics/ROS/concepts/18.ros2-security.ko.md","slug":"Robotics/ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security","isHub":false,"order":"$undefined"},{"name":"19.tf2.ko.md","type":"file","path":"Robotics/ROS/concepts/19.tf2.ko.md","slug":"Robotics/ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.install.ko.md","type":"file","path":"Robotics/ROS/00.install.ko.md","slug":"Robotics/ROS/install","locale":"ko","title":"맥에서 ros2 설치하기","isHub":false,"order":"$undefined"},{"name":"01.pkg.ko.md","type":"file","path":"Robotics/ROS/01.pkg.ko.md","slug":"Robotics/ROS/pkg","locale":"ko","title":"workspace & package","isHub":false,"order":"$undefined"},{"name":"02.nav2.ko.md","type":"file","path":"Robotics/ROS/02.nav2.ko.md","slug":"Robotics/ROS/nav2","locale":"ko","title":"ROS2 Nav2","isHub":false,"order":"$undefined"},{"name":"03.behavior-tree.ko.md","type":"file","path":"Robotics/ROS/03.behavior-tree.ko.md","slug":"Robotics/ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리","isHub":false,"order":"$undefined"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)","isHub":false,"order":"$undefined"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+18:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models\",\"description\":\"21개 기관이 가진 로봇 데이터 60개를 한 형식으로 모아 22종 로봇, 100만 개가 넘는 궤적의 데이터셋을 만들고, 여러 로봇 데이터로 함께 학습한 RT-1-X와 RT-2-X가 한 로봇 데이터만 쓴 모델보다 나은지를 실험한 Open X-Embodiment를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2310.08864v9/figures/data_vis_v3.jpg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/vla/open-x-embodiment\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L1d",["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models"}],"$L1e",false,false,"$L1f"]}]}]
+20:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+21:T9721,
+## 들어가며
+
+[RT-1](/blog/paper-review/vla/rt-1)과 [RT-2](/blog/paper-review/vla/rt-2)는 모두 구글 로봇 한 종이 사무실 주방에서 모은 시연으로 학습했습니다. RT-2는 웹 데이터로 시각·언어 지식을 넓혔지만, 로봇 행동 데이터는 여전히 로봇 한 종의 것이었습니다. 반면 로봇 학습 연구실은 전 세계에 많고, 연구실마다 Franka, UR5, WidowX 같은 서로 다른 로봇으로 데이터를 모아 왔습니다. 이 데이터는 대부분 각자의 형식으로 흩어져 있어서 한 모델의 학습에 같이 쓰이지 않았습니다.
+
+**Open X-Embodiment** 는 이 흩어진 데이터를 한 형식으로 모은 데이터셋이자, 그 데이터로 RT-1과 RT-2를 다시 학습한 실험 보고서입니다. 제목의 X-Embodiment는 cross-embodiment, 곧 여러 몸체(embodiment)에 걸친 학습을 뜻합니다. 몸체는 로봇의 팔 구조, 집게, 카메라 배치, 제어 방식까지 포함한 로봇 하드웨어 한 종을 가리킵니다. 논문이 묻는 질문은 다른 로봇의 데이터를 섞어 학습하면 내 로봇의 성능이 오르는가입니다.
+
+📄 [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) — Open X-Embodiment Collaboration (Abby O’Neill, Abdul Rehman, Abhinav Gupta 외, 저자 294명) / 21개 기관, 2023-10 공개 (v9 2025-05)
+
+프로젝트 페이지는 [robotics-transformer-x.github.io](https://robotics-transformer-x.github.io)이고, arxiv 식별자는 2310.08864입니다. 이 글은 arxiv v9를 기준으로 합니다.
+
+### 초록 요약
+
+자연어 처리와 컴퓨터 비전에서는 크고 다양한 데이터로 학습한 범용 모델 하나를 여러 응용의 출발점으로 쓰는 방식이 자리 잡았습니다. 로봇 학습은 여전히 응용마다, 로봇마다, 심지어 환경마다 모델을 따로 학습합니다. 저자들은 새 로봇·과제·환경에 효율적으로 맞출 수 있는 범용 교차 로봇 정책을 로봇에서도 만들 수 있는지 탐구하려고, 표준 형식의 데이터셋과 모델을 공개합니다. 데이터셋은 21개 기관의 협업으로 모은 22종 로봇의 데이터이고, 527개 기술(160266개 과제)을 담습니다. 이 데이터로 학습한 대용량 모델 RT-X는 다른 로봇의 경험을 활용해 여러 로봇의 성능을 끌어올리는 긍정적 전이(positive transfer)를 보입니다.
+
+![첫 페이지 그림 — Open X-Embodiment 데이터셋 개요](https://arxiv.org/html/2310.08864v9/figures/data_vis_v3.jpg)
+
+*첫 페이지 그림 — 34개 연구실·21개 기관의 60개 데이터셋에서 22종 몸체, 527개 기술, 100만 개 에피소드를 모았습니다.*
+
+그림 가운데 상자가 데이터셋의 규모를 요약합니다. 311개 장면에서 모은 100만 개 에피소드, 34개 연구실과 21개 기관, 22종 몸체, 527개 기술, 60개 데이터셋, 그리고 지시문에서 뽑은 속성 1,798개·물체 5,228개·공간 관계 23,486개입니다. 양옆은 QT-Opt, Bridge, RT-1, Cable Routing 같은 원래 데이터셋의 장면과 지시 예시입니다.
+
+---
+
+## 1. 문제 — 로봇마다 따로 학습하는 관행
+
+### 로봇 데이터의 규모와 폭
+
+비전과 자연어 처리의 교훈은 넓은 데이터로 학습한 범용 모델이 좁은 데이터로 학습한 전용 모델을 앞서는 경우가 많다는 것입니다. 웹에서 모은 이미지-텍스트로 학습한 [CLIP](/blog/paper-review/pre-vla/clip)이 고정 어휘 분류기를 앞서고, 거대 텍스트로 학습한 언어 모델이 과제 전용 시스템을 앞섭니다.
+
+로봇은 이 교훈을 적용하기 어렵습니다. 논문이 비교한 규모는 이렇습니다.
+
+| 분야 | 대표 벤치마크 데이터 규모 |
+|------|------------------------|
+| 비전 | 5M–18M |
+| 자연어 처리 | 1.5B–4.5B |
+| 로봇 | 가장 큰 수집 사업도 위 규모의 일부 |
+
+로봇 데이터셋은 규모도 작고, 대개 환경 하나, 물체 묶음 하나, 좁은 과제 범위처럼 어느 한 축에서 좁습니다. RT-1이 로봇 13대로 17개월을 들여 모은 약 13만 개 시연도 로봇 한 종, 사무실 주방 몇 곳의 데이터입니다.
+
+### 교차 몸체 학습이라는 관점
+
+저자들은 데이터셋 하나하나는 좁더라도, 여러 로봇·연구실·환경의 데이터셋을 합치면 환경과 로봇의 변화를 더 넓게 담는다고 봅니다. 그래서 일반화하는 로봇 정책을 얻으려면 여러 로봇 플랫폼의 데이터로 학습하는 **교차 몸체 학습(X-embodiment training)** 이 필요하다는 관점을 취합니다.
+
+논문의 목표는 두 가지입니다.
+
+1. 여러 로봇과 환경의 데이터로 학습한 정책이 **긍정적 전이** 를 보여, 평가 환경의 데이터만으로 학습한 정책보다 나은지 확인합니다.
+2. 이후 교차 몸체 연구를 위해 대규모 로봇 데이터셋을 정리해 공개합니다.
+
+저자들은 새로운 구조나 알고리즘을 제안하지 않는다고 명시합니다. RT-1과 RT-2를 거의 그대로 가져와 데이터만 바꿔 학습하고, 그 모델과 데이터, 도구를 함께 공개하는 것이 기여입니다.
+
+### 기존 연구와의 차이
+
+| 기존 연구 | 접근 | 이 논문과의 차이 |
+|-----------|------|----------------|
+| 몸체 간 전이 (시뮬레이션·실물) | 공유 행동 표현, 표현 학습 목적 함수, 몸체 정보로 정책 적응, 로봇·환경 표현 분리 등 몸체 차이를 줄이는 장치를 따로 설계 | 몸체 차이를 줄이는 장치 없이 여러 몸체 데이터로 정책을 직접 학습 |
+| 사람-로봇 전이 | 도메인 변환이나 전이 가능한 표현으로 사람 영상과 로봇의 차이를 줄임 | 사람 영상이 아니라 로봇 데이터끼리 결합 |
+| 대규모 로봇 데이터셋 (잡기, 밀기, 원격조작 시연 등) | RoboNet을 빼면 같은 종류 로봇의 데이터 | 여러 몸체에 걸친 데이터를 한 저장소로 표준화 |
+| 언어 조건 로봇 학습 ([BC-Z](/blog/paper-review/pre-vla/bc-z), RT-1, RT-2 등) | 사전학습 언어 임베딩이나 시각-언어 모델을 모방 학습에 사용 | 같은 방식을 대규모 다중 몸체 시연 데이터로 확장 |
+
+Transformer로 교차 몸체 학습과 전이를 보인 선행 연구([Gato](/blog/paper-review/pre-vla/gato), RoboCat 등)도 있습니다. 이 논문은 여기에 웹 규모 사전학습과 교차 몸체 전이가 어떻게 함께 작용하는지를 더해 분석합니다.
+
+---
+
+## 2. 긍정적 전이의 의미
+
+긍정적 전이는 "다른 데이터를 섞었더니 원래 과제 성능이 올랐다"는 결과를 가리킵니다. 이 논문에서는 비교 대상을 두 가지로 둡니다.
+
+- **원래 방법(Original Method)** — 그 데이터셋을 만든 연구팀이 자기 데이터로만 학습한 모델입니다. 그 데이터에 맞춰 최적화된 모델이므로 합리적인 기준선입니다.
+- **같은 데이터로만 학습한 RT-1** — 구조는 RT-1-X와 똑같고 학습 데이터만 평가 데이터셋 하나로 한정한 모델입니다.
+
+RT-1과 RT-1-X는 신경망 구조가 같습니다. 그래서 두 모델의 차이는 오로지 학습 데이터에서 옵니다. 실제 결과 하나를 예로 들면, 7절의 Cable Routing 과제에서 같은 구조의 RT-1은 자기 데이터로만 학습했을 때 18%이고, 여러 로봇 데이터를 섞은 RT-1-X는 56%입니다. 이 차이가 이 논문에서 말하는 긍정적 전이입니다. 반대로 섞은 데이터 때문에 성능이 떨어지면 부정적 전이라고 부릅니다. 7절의 Autolab UR5처럼 원래 방법보다 낮게 나오는 경우도 있습니다.
+
+---
+
+## 3. Open X-Embodiment 데이터셋
+
+### 규모
+
+Open X-Embodiment 저장소는 두 가지를 공개합니다. 22종 로봇 몸체에서 모은 100만 개가 넘는 로봇 궤적의 데이터셋과, 추론과 미세조정에 바로 쓸 수 있는 RT-X 모델 체크포인트입니다.
+
+| 항목 | 값 |
+|------|-----|
+| 실물 로봇 궤적 | 100만 개 이상 |
+| 로봇 몸체 | 22종 (단일 로봇 팔, 양팔 로봇, 사족 보행 로봇 포함) |
+| 원본 데이터셋 | 60개 |
+| 참여 연구실 | 34개 |
+| 참여 기관 | 21개 |
+| 장면 | 311개 |
+| 기술 | 527개 |
+| 과제 | 160266개 |
+
+60개 데이터셋은 새로 모은 것이 아니라 기존 로봇 데이터셋을 모아 형식을 통일한 것입니다. 저자들은 커뮤니티가 참여를 넓혀 데이터셋을 계속 키울 계획이라고 밝힙니다.
+
+### RLDS 형식
+
+데이터는 **RLDS(Reinforcement Learning Datasets)** 형식으로 저장합니다. RLDS는 데이터를 직렬화된 tfrecord 파일에 담는 형식입니다. 로봇마다 다른 행동 공간과 입력 종류, 이를테면 색 카메라 수가 다르거나 깊이 카메라나 점군(point cloud)이 있는 경우를 모두 수용하고, 주요 딥러닝 프레임워크에서 병렬로 빠르게 불러올 수 있습니다.
+
+데이터 한 건의 모양은 에피소드 하나가 시간 순서대로 이어진 걸음(step)의 목록인 구조입니다. 걸음 하나에는 그 시점의 관측, 로봇이 낸 행동, 과제 지시문이 들어갑니다. 논문 본문은 필드 이름까지 적지 않으므로, 아래 표는 두 데이터셋이 같은 틀에 들어가는 모양을 보여 주기 위한 예시입니다.
+
+| 걸음 안의 항목 | 데이터셋 A (카메라 2대, 위치 제어) | 데이터셋 B (카메라 1대 + 깊이, 속도 제어) |
+|---------------|--------------------------------|-------------------------------------|
+| 관측 — 이미지 | 손목 카메라, 3인칭 카메라 | 3인칭 카메라 |
+| 관측 — 기타 | 없음 | 깊이 이미지 |
+| 행동 | 말단장치 위치 변화량 + 집게 | 말단장치 속도 + 집게 |
+| 지시문 | "pick up the orange fruit" | "route cable" |
+
+*표의 구성은 설명을 위한 예시이며, 실제 60개 데이터셋별 구성은 프로젝트 페이지에 정리돼 있습니다.*
+
+형식은 같아도 안의 내용은 데이터셋마다 다릅니다.
+
+### 데이터셋 분석
+
+![그림 1 — 데이터셋 분석](https://arxiv.org/html/2310.08864v9/rtx_data_analysis.png)
+
+*그림 1 — (a) 몸체별 데이터셋 수 (b) 몸체별 장면 수 (c) 몸체별 궤적 수 (d) 자주 나오는 기술 (e) 자주 나오는 물체.*
+
+(a)는 22종 몸체마다 데이터셋이 몇 개인지를 보여 줍니다. Franka가 가장 많고, xArm 6개, Sawyer 4개, Google Robot·Kuka iiwa·UR5가 각 3개로 뒤를 잇습니다. Unitree A1 같은 사족 보행 로봇, RC Car, TurtleBot 2 같은 이동 로봇도 데이터셋 하나씩 들어 있습니다.
+
+(b) 장면 수는 데이터셋 메타데이터로 센 값입니다. Franka 데이터셋이 많아서 시각적으로 다른 장면도 Franka가 가장 많습니다. (c) 궤적 수는 양상이 다릅니다. xArm과 Google Robot이 가장 많은데, 소수의 대형 데이터셋이 궤적 수를 크게 차지하기 때문입니다. 데이터셋 수로는 Franka가, 궤적 수로는 xArm이 가장 많아서, 어느 기준으로 세느냐에 따라 데이터가 많은 몸체가 달라집니다.
+
+(d)와 (e)는 지시문으로 분석했습니다. PaLM 언어 모델로 지시문에서 물체와 행동을 뽑아 셌습니다. 기술은 집기(picking)가 압도적으로 많고 옮기기(moving), 밀기(pushing), 놓기(placing)가 뒤를 잇습니다. 대부분 집어-놓기 계열이지만, 닦기(wiping)나 조립하기(assembling)처럼 드물게 나오는 기술도 있습니다. 물체는 도형, 용기, 가구, 음식, 가전, 식기 범주에 걸쳐 가정용 물체를 폭넓게 담습니다.
+
+---
+
+## 4. 데이터 형식 통일 — 관측과 행동의 거친 정렬
+
+### 문제 — 로봇마다 다른 관측과 행동
+
+교차 몸체 모델을 만들 때 가장 먼저 부딪히는 문제는 로봇마다 관측 공간과 행동 공간이 크게 다르다는 것입니다. 카메라 수와 위치가 다르고, 어떤 로봇은 말단장치의 목표 위치를, 어떤 로봇은 속도를 명령으로 받습니다. 제어 주기도 다릅니다.
+
+아래 표는 그림 2 오른쪽에 실린 세 데이터셋의 행동 공간입니다.
+
+| 데이터셋 예시 (그림 2) | 제어 주기 | 집게 | 위치 행동 | 회전 행동 |
+|---------------------|----------|------|----------|----------|
+| Route cable | 10 Hz | 닫힌 상태로 고정 | 속도 | Z축 회전 속도만 |
+| Pick apple from top drawer and place on counter | 3 Hz | 사용 | 위치 변화량 | 회전 변화량 |
+| Pick up the orange fruit | 5 Hz | 사용 | 위치 변화량 | 회전 없음 |
+
+세 로봇은 명령의 주기, 단위, 차원 구성이 모두 다릅니다.
+
+### 해결 — 거친 정렬
+
+저자들은 데이터셋 사이의 관측·행동 공간을 **거칠게 정렬(coarse alignment)** 합니다. 물리적 의미까지 정확히 맞추지 않고, 모델이 같은 모양의 입력과 출력을 다룰 수 있을 정도로만 맞춥니다.
+
+**관측 쪽** 에서는 데이터셋마다 대표 카메라 시점 하나를 골라 입력 이미지로 쓰고, 공통 해상도로 크기를 맞춥니다. 모델은 최근 이미지 몇 장의 이력과 언어 지시를 관측으로 받습니다. 논문은 모델 입력에 로봇 종류를 따로 넣는다고 적지 않습니다.
+
+**행동 쪽** 에서는 원래 행동을 7차원 말단장치 행동으로 바꿉니다. x, y, z, 롤(roll), 피치(pitch), 요(yaw), 집게 벌림이고, 로봇에 따라 이 값 자체이거나 그 변화율입니다. 여기에 에피소드 종료 여부 1차원을 더해 모두 8차원이고, 각 차원을 256개 구간으로 균등하게 나눠 토큰으로 만듭니다. RT-1과 RT-2가 쓰던 이산화와 같습니다.
+
+### 데이터셋별 정규화
+
+이산화하기 전에 행동을 **데이터셋마다 따로 정규화(normalize)** 합니다. 그래서 모델이 낸 같은 출력도 어느 몸체에서 쓰는지에 따라 다른 물리량으로 되돌려(de-normalize) 해석됩니다.
+
+논문은 정규화 공식을 적지 않습니다. 아래 표는 흔히 쓰는 최솟값-최댓값 정규화를 가정하고, 모양을 보여 주기 위해 임의로 고른 값입니다.
+
+| 단계 | 데이터셋 A (x 위치 변화량) | 데이터셋 B (x 속도) |
+|------|-------------------------|-------------------|
+| 원래 값의 범위 | −0.02 ~ 0.02 m | −0.5 ~ 0.5 m/s |
+| 어떤 시점의 원래 값 | 0.01 m | 0.25 m/s |
+| −1 ~ 1로 정규화한 값 | 0.5 | 0.5 |
+| 256구간 번호 | 191 | 191 |
+
+*임의의 예시 값입니다. 구간 번호는 (정규화 값 + 1) ÷ 2 × 255를 내림한 값입니다.*
+
+두 데이터셋의 서로 다른 행동이 같은 토큰 191이 됩니다. 추론할 때 모델이 191을 내면, 데이터셋 A의 로봇에서는 x 방향으로 0.01 m 움직이라는 명령으로, 데이터셋 B의 로봇에서는 x 방향 0.25 m/s로 움직이라는 명령으로 되돌립니다.
+
+### 정렬하지 않은 부분
+
+거친 정렬이라서 맞추지 않은 것도 많습니다.
+
+- **카메라** — 로봇에 대한 카메라의 상대 위치와 카메라 특성이 데이터셋마다 달라서, 대표 시점을 골라도 이미지는 크게 다릅니다.
+- **좌표계** — 말단장치를 제어하는 좌표계를 데이터셋 사이에 맞추지 않습니다.
+- **행동의 의미** — 행동 값이 절대 위치인지 상대 위치인지, 위치인지 속도인지는 각 로봇의 원래 제어 방식을 따릅니다.
+
+그 결과 **같은 행동 벡터가 로봇마다 전혀 다른 움직임을 만들 수 있습니다.** 저자들은 이런 차이를 줄이는 장치 없이도 긍정적 전이가 나타나는지를 보려 합니다.
+
+---
+
+## 5. RT-X 모델 — RT-1-X와 RT-2-X
+
+![그림 2 — RT-1-X와 RT-2-X 구조](https://arxiv.org/html/2310.08864v9/rt12_teaser_model_vertical.svg)
+
+*그림 2 — 두 모델 모두 이미지와 텍스트 지시를 받아 이산화한 말단장치 행동을 냅니다. 오른쪽은 데이터셋마다 다른 행동 공간 예시입니다.*
+
+교차 몸체 데이터는 크고 이질적이라, 이 데이터를 활용할 만큼 용량이 큰 모델이 필요합니다. 저자들은 Transformer 기반 로봇 정책인 RT-1과 RT-2를 거의 그대로 가져와 교차 몸체 설정에 맞춥니다. 학습한 모델을 각각 **RT-1-X**, **RT-2-X** 라고 부릅니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "img",   "label": "대표 카메라 이미지 이력", "sub": "공통 해상도", "row": 0},
+    {"id": "txt",   "label": "언어 지시", "row": 0},
+    {"id": "rt1x",  "label": "RT-1-X", "sub": "FiLM EfficientNet + Transformer · 35M", "color": "blue", "row": 1},
+    {"id": "rt2x",  "label": "RT-2-X", "sub": "ViT + UL2 (PaLI-X) · 55B", "color": "blue", "row": 1},
+    {"id": "tok",   "label": "행동 토큰 8개", "sub": "차원당 256구간", "color": "orange", "row": 2},
+    {"id": "denorm","label": "데이터셋별 역정규화", "sub": "몸체마다 다른 물리량", "color": "green", "row": 3},
+    {"id": "robot", "label": "로봇 제어", "sub": "3–10 Hz", "row": 4}
+  ],
+  "edges": [
+    {"from": "img",   "to": "rt1x"},
+    {"from": "txt",   "to": "rt1x"},
+    {"from": "img",   "to": "rt2x"},
+    {"from": "txt",   "to": "rt2x"},
+    {"from": "rt1x",  "to": "tok"},
+    {"from": "rt2x",  "to": "tok"},
+    {"from": "tok",   "to": "denorm"},
+    {"from": "denorm","to": "robot"}
+  ],
+  "height": 460
+}
+```
+
+### RT-1-X
+
+RT-1은 로봇 제어용으로 설계한 35M 파라미터 Transformer입니다. 이 논문의 설명에 따르면 이미지 15장의 이력과 언어 지시를 받습니다. 이미지는 ImageNet으로 사전학습한 EfficientNet을 거치고, 지시는 USE 임베딩이 됩니다. 시각 표현과 언어 표현을 FiLM 층으로 섞어 시각-언어 토큰 81개를 만들고, decoder-only Transformer가 이 토큰에서 행동 토큰을 냅니다.
+
+이 설명은 [RT-1 논문해석](/blog/paper-review/vla/rt-1)과 두 군데가 다릅니다. RT-1 논문은 이미지 이력을 6장으로 쓰고, 이미지당 81개 토큰을 TokenLearner로 8개로 줄여 Transformer에 넣습니다. 이 논문은 15장이라고 적고 TokenLearner를 언급하지 않습니다. RT-1-X가 실제로 이력 길이를 바꿨는지, 요약하면서 생략한 것인지는 논문에서 확인할 수 없습니다.
+
+### RT-2-X
+
+RT-2는 인터넷 규모의 시각·언어 데이터와 로봇 제어 데이터로 함께 학습한 시각-언어-행동 모델(VLA) 계열입니다. 행동 토큰을 텍스트 토큰으로 바꾸기 때문에, 사전학습한 시각-언어 모델(VLM)이라면 무엇이든 로봇 제어용으로 미세조정할 수 있고 VLM 백본(backbone)의 일반화 능력 일부가 로봇 제어로 넘어옵니다.
+
+이 논문은 RT-2 가운데 **RT-2-PaLI-X** 변형을 씁니다. 시각 모델 [ViT](/blog/paper-review/pre-vla/vit)와 언어 모델 UL2로 이루어지고, 주로 WebLI 데이터셋으로 사전학습한 VLM이 백본입니다. 크기는 55B이고, 제거 실험에서는 5B도 씁니다.
+
+논문은 RT-2의 행동 문자열 예시로 `"1 128 91 241 5 101 127"` 을 다시 싣습니다. 이 예시는 정수가 7개라서 8차원 행동과 맞지 않습니다. RT-2 논문에서 옮겨 온 같은 예시이고, [RT-2 논문해석](/blog/paper-review/vla/rt-2)의 행동 토큰화 절에 8개짜리 예시와 함께 정리해 두었습니다.
+
+### 두 모델의 비교
+
+| 항목 | RT-1-X | RT-2-X |
+|------|--------|--------|
+| 구조 | 로봇 제어 전용 (FiLM EfficientNet + Transformer) | VLM 백본 (ViT + UL2) |
+| 파라미터 | 35M | 55B (제거 실험에서 5B) |
+| 사전학습 | ImageNet 이미지 부호기, USE 지시 임베딩 | 웹 규모 시각·언어 데이터로 학습한 VLM 전체 |
+| 학습 데이터 | 로봇 데이터 혼합만 | 원래 VLM 데이터와 로봇 데이터 혼합을 약 1:1로 섞은 공동 미세조정(co-fine-tuning) |
+| 손실 | 행동 구간에 대한 범주형 교차 엔트로피 | 전체 언어 토큰에 대한 범주형 교차 엔트로피 |
+| 추론 위치 | 로봇 쪽 로컬 | 클라우드 서비스에 올리고 네트워크로 질의 |
+| 추론 주기 | 로봇이 요구하는 3–10 Hz | 로봇이 요구하는 3–10 Hz |
+
+### 로봇 데이터 혼합
+
+모든 실험에 같은 **로봇 데이터 혼합** 을 씁니다. 로봇 팔 9종의 데이터이고, 다음 12개 데이터셋에서 가져왔습니다.
+
+| 데이터셋 | 데이터셋 | 데이터셋 |
+|---------|---------|---------|
+| RT-1 | QT-Opt | Bridge |
+| Task Agnostic Robot Play | Jaco Play | Cable Routing |
+| RoboTurk | NYU VINN | Austin VIOLA |
+| Berkeley Autolab UR5 | TOTO | Language Table |
+
+실험에 쓴 로봇은 9종으로 전체 데이터셋의 22종보다 적습니다. 저자들은 실험 시점에는 위 데이터가 전부였고 이후 데이터셋을 계속 늘렸기 때문이라고 설명합니다. 앞으로 늘어난 데이터셋으로도 정책을 학습할 계획이라고 밝힙니다.
+
+---
+
+## 6. 실험 설계 — 세 가지 질문
+
+실험은 교차 몸체 학습의 효과에 대한 세 가지 질문에 답합니다.
+
+1. 여러 로봇의 데이터로 함께 학습(co-training)하면 학습한 과제의 성능이 오르는가
+2. 여러 플랫폼과 과제의 데이터로 함께 학습하면 처음 보는 과제로 더 잘 일반화하는가
+3. 모델 크기, 구조, 데이터 구성 같은 설계 선택이 성능과 일반화에 어떤 영향을 주는가
+
+로봇 6종에서 모두 3600회의 평가 시행을 했습니다.
+
+| 절 | 평가 | 사용 모델 | 비교 대상 |
+|----|------|----------|----------|
+| 7 | 소규모 데이터셋 도메인의 분포 안 성능 | RT-1-X | 원래 방법, 해당 데이터로만 학습한 RT-1 |
+| 8 | 대규모 데이터셋 도메인의 분포 안 성능 | RT-1-X, RT-2-X | 원래 방법, 해당 데이터로만 학습한 RT-1 |
+| 9 | 분포 밖 일반화와 창발 기술 | RT-2-X | 구글 로봇 데이터로만 학습한 RT-2 |
+| 10 | 설계 결정 제거 실험 | RT-2-X 변형 | 행끼리 비교 |
+
+분포 안 평가는 두 종류로 나눕니다. 데이터가 적은 도메인에서는 큰 데이터셋에서 넘어오는 전이로 성능이 크게 오를 것으로 예상하고, 데이터가 많은 도메인에서는 추가 개선이 더 어려울 것으로 예상합니다. 모든 평가는 원래 논문과 같은 평가 방식과 같은 로봇으로 하고, 모델은 모두 전체 로봇 데이터 혼합으로 학습합니다.
+
+---
+
+## 7. 소규모 데이터셋 도메인
+
+![그림 3 — 소규모 데이터셋 도메인 결과](https://arxiv.org/html/2310.08864v9/figures/rtx_barplot_10.png)
+
+*그림 3 — 다섯 데이터셋에서 원래 방법·RT-1·RT-1-X의 성공률입니다. 연구실 로고는 실물 평가 장소, 로봇 그림은 평가에 쓴 몸체입니다.*
+
+| 평가 데이터셋 | 원래 방법 | 원래 방법 성공률 | RT-1 | RT-1-X |
+|--------------|----------|----------------|------|--------|
+| Kitchen Manipulation | MVP BC-RNN | 43 | 48 | **63** |
+| Cable Routing | ResNet + MLP | 24 | 18 | **56** |
+| NYU Door Opening | VINN | 53 | 65 | **80** |
+| Autolab UR5 | ResNet + MLP | **53** | 25 | 45 |
+| Task-Agnostic Play | TACORL, HULC2 | 33 | 68 | **72** |
+| **평균** | | 41 | 44 | **63** |
+
+*단위는 성공률(%)입니다. 그림 3의 막대에 인쇄된 값을 옮겼습니다.*
+
+RT-1-X는 다섯 데이터셋 가운데 네 곳에서 원래 방법을 앞섭니다. 예외는 Autolab UR5로, 원래 방법이 53%, RT-1-X가 45%입니다. 데이터가 적은 도메인일수록 다른 로봇 데이터를 함께 학습하는 이득이 크다는 것이 저자들의 해석입니다.
+
+같은 구조의 RT-1과 비교하면 전이의 크기가 더 분명합니다. Cable Routing에서 RT-1은 18%로 원래 방법보다도 낮지만, 같은 구조에 다른 로봇 데이터를 섞은 RT-1-X는 56%입니다. Autolab UR5에서도 RT-1의 25%가 RT-1-X에서 45%로 오릅니다. 구조가 같으니 이 차이는 로봇 데이터 혼합으로 함께 학습한 효과입니다.
+
+그림 3의 캡션과 논문 VI절(논의)은 RT-1-X의 평균 성공률이 원래 방법과 RT-1 **어느 쪽보다도 50% 높다** 고 적습니다. 인쇄된 평균으로 계산하면 원래 방법 대비 63 ÷ 41 ≈ 1.54배로 약 54% 높고, RT-1 대비 63 ÷ 44 ≈ 1.43배로 약 43% 높습니다. 또 RT-1의 평균은 다섯 값(48, 18, 65, 25, 68)으로 계산하면 44.8이라 그림의 44와 조금 다릅니다. 44.8로 계산하면 RT-1 대비 약 41% 높습니다. "50% 높다"는 원래 방법에 대해서는 대체로 맞고, RT-1에 대해서는 실제 차이보다 큰 표현입니다.
+
+---
+
+## 8. 대규모 데이터셋 도메인
+
+데이터가 이미 많은 도메인에서는 Bridge 데이터셋과 RT-1 데이터셋으로 분포 안 성능을 평가합니다. 로봇은 각각 WidowX와 Google Robot입니다.
+
+| 평가 설정 | Bridge | Bridge | RT-1 논문 6개 기술 |
+|----------|--------|--------|------------------|
+| 평가 장소 | IRIS (Stanford) | RAIL Lab (UCB) | Google Robotic Lab |
+| 로봇 몸체 | WidowX | WidowX | Google Robot |
+| 원래 방법 | LCBC | LCBC | - |
+| 원래 방법 성공률 | 13% | 13% | - |
+| RT-1 | 40% | 30% | 92% |
+| RT-1-X | 27% | 27% | 73% |
+| RT-2-X (55B) | **50%** | 30% | 91% |
+
+*표 1 — 대규모 다몸체 데이터를 흡수하는 데 모델 용량이 미치는 영향을 보는 실험입니다.*
+
+### RT-1-X의 과소적합
+
+데이터가 많은 도메인에서 RT-1-X는 해당 데이터로만 학습한 RT-1보다 낮습니다. IRIS에서 40% 대 27%, RAIL Lab에서 30% 대 27%, 구글 로봇에서 92% 대 73%입니다. 저자들은 이 결과를 **과소적합(underfitting)** 으로 해석합니다.
+
+과소적합은 모델이 학습 데이터조차 충분히 맞추지 못하는 상태입니다. RT-1-X의 35M 파라미터는 9종 로봇의 서로 다른 카메라 시점, 좌표계, 행동 단위를 한꺼번에 표현해야 합니다. 데이터가 적은 7절 도메인에서는 다른 데이터가 도움이 됐지만, 한 도메인의 데이터만으로도 이미 모델 용량을 채우는 경우에는 여러 로봇 데이터를 함께 담을 여유가 부족합니다.
+
+### RT-2-X의 결과
+
+55B 파라미터의 RT-2-X는 IRIS에서 50%로 원래 방법(13%)과 RT-1(40%)을 모두 앞섭니다. 저자들은 이를 근거로, 데이터가 풍부한 도메인에서도 교차 로봇 학습이 성능을 올릴 수 있지만 **충분히 큰 용량의 구조를 쓸 때만** 그렇다고 결론 내립니다.
+
+본문은 RT-2-X가 원래 방법과 RT-1을 모두 앞선다고 적지만, 표 1에서 그 설명이 성립하는 곳은 IRIS뿐입니다. RAIL Lab에서는 RT-2-X와 RT-1이 30%로 같고, RT-1 논문 6개 기술에서는 RT-2-X가 91%로 RT-1의 92%보다 1%p 낮습니다. 세 설정 모두에서 RT-2-X가 RT-1-X보다 높은 것은 맞습니다.
+
+---
+
+## 9. 분포 밖 일반화와 창발 기술
+
+이 절은 데이터가 많은 도메인에서 RT-2-X로, 교차 몸체 학습이 분포 밖 설정과 더 복잡한 새 지시로의 일반화를 돕는지 봅니다. 결과는 10절의 표 2에 함께 실려 있습니다.
+
+### 처음 보는 물체·배경·환경
+
+[RT-2 논문](/blog/paper-review/vla/rt-2)과 같은 일반화 평가를 합니다. 처음 보는 물체를 처음 보는 환경과 배경에서 다룰 수 있는지 봅니다. RT-2가 62%, RT-2-X가 61%로 거의 같습니다(표 2의 1행과 2행, 마지막 열). 저자들은 예상한 결과라고 설명합니다. RT-2는 VLM 백본 덕분에 이 축에서 이미 잘 일반화하므로, 로봇 데이터를 더 섞어도 더 오를 여지가 적습니다.
+
+### 창발 기술 평가
+
+![그림 4 — 창발 기술 평가 과제](https://arxiv.org/html/2310.08864v9/figures/rt2x_eval_v9.png)
+
+*그림 4 — Bridge 데이터셋에만 있고 구글 로봇 데이터셋에는 없는 기술을 구글 로봇으로 평가합니다.*
+
+로봇 사이의 지식 전이를 직접 보려고, 구글 로봇 데이터셋에는 없고 다른 로봇인 WidowX의 Bridge 데이터셋에만 있는 물체와 기술을 구글 로봇으로 시킵니다. 이 논문은 이런 기술을 **창발 기술(emergent skills)** 이라고 부릅니다. 그림 4의 과제는 세 종류입니다.
+
+| 종류 | 예시 지시 | 요구되는 것 |
+|------|----------|-----------|
+| (a) 절대 위치 동작 | "move the chip bag to the top right of the counter", "move to top right / right / bottom right" | 조리대나 화면 안의 절대 위치 개념 |
+| (b) 물체 기준 상대 동작 | "move apple between coke and cup" | 두 물체 사이라는 상대 위치 개념 |
+| (c) 전치사에 따른 행동 변화 | "put apple **on** cloth" 와 "move apple **near** cloth" | on·into·on top of와 near의 차이에 따라 다른 동작 |
+
+(c)는 같은 물체 두 개로 전치사만 바꿔, 올려놓아야 하는지 옆에 가져다 두기만 하면 되는지를 구분하게 합니다.
+
+| 모델 | 학습한 로봇 데이터 | 창발 기술 성공률 |
+|------|-----------------|---------------|
+| RT-2 (55B) | 구글 로봇 행동 데이터 | 27.3% |
+| RT-2-X (55B) | 로봇 데이터 혼합 | **75.8%** |
+| RT-2-X (55B) | 로봇 데이터 혼합에서 Bridge만 제외 | 42.8% |
+
+RT-2-X는 RT-2보다 약 3배 높습니다(75.8 ÷ 27.3 ≈ 2.78). 구글 로봇은 이미 자기 데이터가 많은 로봇인데도, 다른 로봇의 데이터를 함께 학습하자 자기 데이터셋에 없던 기술을 수행하게 됐습니다.
+
+Bridge 데이터셋만 빼고 나머지는 똑같이 학습한 RT-2-X는 42.8%로 크게 떨어집니다. 평가한 기술이 Bridge에만 있었으므로, 추가로 생긴 기술의 상당 부분이 WidowX 데이터에서 넘어왔다고 볼 수 있습니다. Bridge를 뺀 모델도 RT-2의 27.3%보다는 높은데, 논문은 이 차이를 따로 해석하지 않습니다.
+
+---
+
+## 10. 설계 결정 제거 실험
+
+| 행 | 모델 | 크기 | 이력 길이 | 데이터셋 | 웹 데이터와 공동 학습 | 초기 체크포인트 | 창발 기술 | 일반화 |
+|----|------|------|----------|---------|-------------------|--------------|----------|-------|
+| (1) | RT-2 | 55B | 없음 | 구글 로봇 행동 | 예 | 웹 사전학습 | 27.3% | 62% |
+| (2) | RT-2-X | 55B | 없음 | 로봇 데이터 | 예 | 웹 사전학습 | **75.8%** | 61% |
+| (3) | RT-2-X | 55B | 없음 | Bridge 제외 로봇 데이터 | 예 | 웹 사전학습 | 42.8% | 54% |
+| (4) | RT-2-X | 5B | 2 | 로봇 데이터 | 예 | 웹 사전학습 | 44.4% | 52% |
+| (5) | RT-2-X | 5B | 없음 | 로봇 데이터 | 예 | 웹 사전학습 | 14.5% | 30% |
+| (6) | RT-2-X | 5B | 2 | 로봇 데이터 | 아니오 | 처음부터 학습 | 0% | 1% |
+| (7) | RT-2-X | 5B | 2 | 로봇 데이터 | 아니오 | 웹 사전학습 | 48.7% | 47% |
+
+*표 2 — 일반화(처음 보는 물체·배경·환경)와 창발 기술(다른 데이터셋의 기술을 구글 로봇으로)에 대한 설계 결정의 영향입니다.*
+
+**초기 체크포인트** 는 학습을 웹으로 사전학습한 VLM 가중치에서 시작했는지, 무작위 가중치에서 시작했는지입니다. **웹 데이터와 공동 학습** 은 로봇 데이터로 학습하는 동안 원래 VLM 데이터를 계속 섞었는지입니다. "아니오"이면서 초기 체크포인트가 웹 사전학습인 (7)행은, 사전학습한 VLM에서 시작하되 로봇 데이터로만 미세조정한 모델입니다.
+
+**이력 길이** 는 현재 이미지 외에 과거 이미지를 몇 장 입력으로 넣는지를 나타내는 열입니다. "없음"은 현재 이미지 한 장만 보는 설정이고, 논문은 2가 현재 이미지를 포함한 장수인지 과거 이미지 수인지 따로 적지 않습니다.
+
+### 짧은 이미지 이력
+
+(4)행과 (5)행은 이력 길이만 다릅니다. 이력을 2로 두면 창발 기술 44.4%, 일반화 52%이고, 이력이 없으면 14.5%, 30%입니다. 짧은 이미지 이력이 일반화를 크게 높입니다.
+
+### 웹 사전학습
+
+(4)행과 (6)행은 초기 체크포인트와 공동 학습 여부가 다릅니다. 웹 사전학습 가중치에서 시작하면 44.4%, 52%이고, 처음부터 학습하면 0%, 1%입니다. RT-2 논문의 결론처럼, 큰 모델에서 높은 성능을 내려면 웹 사전학습이 결정적입니다.
+
+### 모델 크기
+
+저자들은 (2)행과 (4)행을 비교해 55B 모델이 5B 모델보다 창발 기술 성공률이 크게 높다고 설명합니다(75.8% 대 44.4%). 더 큰 용량이 로봇 데이터셋 사이의 전이를 더 크게 한다는 해석입니다. 다만 두 행은 크기 외에 이력 길이도 다릅니다. (2)행은 이력이 없고 (4)행은 이력이 2입니다. 이력을 넣은 쪽이 작은 모델이라 크기의 효과는 오히려 덜 드러나는 방향이지만, 이 비교에는 크기와 이력 두 요인이 함께 들어 있습니다.
+
+### 공동 미세조정과 미세조정
+
+(4)행과 (7)행은 웹 데이터와의 공동 학습 여부만 다릅니다. 공동 미세조정은 44.4%, 52%이고, 로봇 데이터만으로 미세조정하면 48.7%, 47%입니다. 창발 기술은 미세조정 쪽이, 일반화는 공동 미세조정 쪽이 조금 높아 두 방식이 비슷합니다.
+
+RT-2 논문에서는 공동 미세조정이 미세조정보다 분명히 나았습니다. 저자들은 결과가 달라진 이유를 RT-2-X의 로봇 데이터가 RT-2의 로봇 데이터보다 훨씬 다양하기 때문으로 봅니다. RT-2에서는 웹 데이터가 로봇 데이터에 없는 다양성을 채웠다면, 여러 로봇·환경의 데이터를 섞은 RT-2-X에서는 로봇 데이터 자체가 그 다양성을 어느 정도 갖췄다는 해석입니다.
+
+---
+
+## 11. 저자가 밝힌 한계
+
+첫째, 감지와 구동 방식이 크게 다른 로봇은 실험에서 다루지 않았습니다. 실험에 쓴 9종은 모두 로봇 팔이고, 입력도 대표 카메라 이미지 하나로 맞췄습니다.
+
+둘째, 학습 데이터에 없던 새 로봇으로의 일반화는 연구하지 않았습니다. 모든 평가는 학습 데이터에 포함된 몸체에서 했습니다.
+
+셋째, 긍정적 전이가 언제 일어나고 언제 일어나지 않는지에 대한 판단 기준을 제시하지 않았습니다. 7절의 Autolab UR5와 8절의 RT-1-X처럼 섞은 데이터가 성능을 낮춘 경우가 있었지만, 그 조건을 설명하는 기준은 앞으로의 과제로 남깁니다.
+
+저자들은 이 연구가 교차 로봇 학습이 실현 가능하고 실용적이라는 사례이자, 이 방향의 연구에 쓸 도구를 제공한다고 정리합니다.
+
+---
+
+## 12. 논문 안의 수치 불일치
+
+본문과 표를 대조하면서 확인한 불일치를 한곳에 모았습니다. 위치 열의 절 번호는 이 글 기준이고, 로마 숫자는 논문의 절 번호입니다.
+
+| 위치 | 논문의 서술 | 표·그림으로 확인한 값 |
+|------|-----------|-------------------|
+| 7절 · 그림 3 캡션과 논문 VI절 | RT-1-X 평균이 원래 방법·RT-1 어느 쪽보다도 50% 높음 | 원래 방법 대비 약 54%, RT-1 대비 약 43% (RT-1 평균을 44.8로 계산하면 약 41%) |
+| 7절 · 그림 3 평균 막대 | RT-1 평균 44 | 다섯 값의 평균은 44.8 |
+| 8절 · 논문 V-A절 | RT-2-X가 원래 방법과 RT-1을 모두 앞섬 | IRIS에서만 성립. RAIL Lab 30% 동률, RT-1 6개 기술 91% 대 92% |
+| 9절 · 논문 VI절 | RT-2-X가 약 3배의 일반화 향상 | 약 3배(27.3% → 75.8%)는 창발 기술 열. 일반화 열은 62% 대 61% |
+| 10절 · 논문 V-C절 | (2)행과 (4)행으로 크기 효과를 설명 | 두 행은 이력 길이도 다름 |
+| 5절 · 논문 IV-B절 | RT-1은 이미지 15장, 시각-언어 토큰 81개를 Transformer에 입력 | RT-1 논문은 이미지 6장, TokenLearner로 이미지당 8개 토큰 |
+| 5절 · 논문 IV-B절 | RT-2 행동 예시 `"1 128 91 241 5 101 127"` | 정수 7개. 행동은 8차원 |
+
+---
+
+## 13. 정리 — VLA 계보에서의 위치
+
+Open X-Embodiment는 새 모델 구조를 내놓은 논문이 아닙니다. RT-1과 RT-2의 구조를 거의 그대로 두고, 학습 데이터를 로봇 한 종에서 여러 로봇으로 바꿨을 때 무엇이 달라지는지를 측정한 논문입니다.
+
+- **데이터 통일** — 21개 기관의 60개 데이터셋을 RLDS 형식으로 모아, 22종 몸체와 100만 개가 넘는 궤적을 한 번에 불러올 수 있게 했습니다.
+- **거친 정렬** — 대표 카메라 한 대와 데이터셋별로 정규화한 7차원 말단장치 행동만 맞추고, 좌표계와 제어 방식의 차이는 그대로 둔 채 학습했습니다.
+- **긍정적 전이** — 데이터가 적은 도메인에서는 35M RT-1-X도 평균 41%에서 63%로 올랐고, 데이터가 많은 도메인에서는 55B RT-2-X처럼 큰 모델에서만 이득이 났습니다.
+- **로봇 간 기술 전이** — 구글 로봇이 WidowX 데이터에만 있던 기술을 27.3%에서 75.8%로 수행하게 됐고, Bridge를 빼면 42.8%로 떨어졌습니다.
+
+### RT-1·RT-2와의 비교
+
+| 항목 | RT-1 | RT-2 | RT-X |
+|------|------|------|------|
+| 로봇 데이터 | 구글 로봇 1종 | 구글 로봇 1종 (RT-1 데이터) | 9종 로봇, 12개 데이터셋 혼합 |
+| 모델 | 35M 로봇 전용 Transformer | VLM (5B · 12B · 55B) | RT-1 구조(35M), RT-2-PaLI-X 구조(5B · 55B) |
+| 행동 출력 | 256구간 이산 토큰 | 같은 이산화를 텍스트 토큰으로 | 같은 이산화, 데이터셋별 정규화 |
+| 새로 보인 것 | 대규모 실물 데이터로 학습한 Transformer 정책 | 웹 지식의 로봇 제어 전이 | 로봇 사이의 데이터 전이 |
+| 공개 | 모델 코드 | 비공개 | 데이터셋, RT-1-X 체크포인트 |
+
+[RT-2](/blog/paper-review/vla/rt-2)가 남긴 한계 가운데 하나는 로봇 행동 데이터가 로봇 한 종에 묶여 있다는 것이었습니다. Open X-Embodiment는 여러 로봇의 데이터를 모아 이 한계를 다루고, 그 데이터가 로봇 사이에서 실제로 전이된다는 것을 보였습니다. 그러나 가장 좋은 결과를 낸 RT-2-X의 백본 PaLI-X는 공개되지 않은 VLM이라, 다른 연구자가 그 가중치에서 출발해 미세조정할 수 없습니다. 다음 편의 [OpenVLA](/blog/paper-review/vla/openvla)는 Open X-Embodiment 데이터로 VLA를 학습하고 모델 가중치를 공개합니다.
+
+전체 목록은 [VLA 계보 목차](/blog/paper-review/vla)에서 볼 수 있습니다.
+1e:["$","article",null,{"children":["$","$L20",null,{"children":"$21"}]}]
+1f:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":["$L22","$L23"]}]
+24:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:["$","$L24",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L24",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L24",null,{"ref":null,"href":"/ko/blog/paper-review","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L24",null,{"ref":null,"href":"/ko/blog/paper-review/vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1d:["$","$L24",null,{"ref":"$undefined","href":"/ko/blog/paper-review/vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"3편"}]]}]
+22:["$","$L24",null,{"ref":"$undefined","href":"/ko/blog/paper-review/vla/rt-2","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"2편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control"}]]}]
+23:["$","$L24",null,{"ref":"$undefined","href":"/ko/blog/paper-review/vla/openvla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"4편",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model"}]]}]
+25:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models | 박우림"}],["$","meta","1",{"name":"description","content":"21개 기관이 가진 로봇 데이터 60개를 한 형식으로 모아 22종 로봇, 100만 개가 넘는 궤적의 데이터셋을 만들고, 여러 로봇 데이터로 함께 학습한 RT-1-X와 RT-2-X가 한 로봇 데이터만 쓴 모델보다 나은지를 실험한 Open X-Embodiment를 원본 그림과 함께 풀어봅니다."}],["$","link","2",{"rel":"author","href":"https://woolimi.github.io"}],["$","meta","3",{"name":"author","content":"박우림"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://woolimi.github.io/ko/blog/paper-review/vla/open-x-embodiment"}],["$","meta","8",{"property":"og:title","content":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models"}],["$","meta","9",{"property":"og:description","content":"21개 기관이 가진 로봇 데이터 60개를 한 형식으로 모아 22종 로봇, 100만 개가 넘는 궤적의 데이터셋을 만들고, 여러 로봇 데이터로 함께 학습한 RT-1-X와 RT-2-X가 한 로봇 데이터만 쓴 모델보다 나은지를 실험한 Open X-Embodiment를 원본 그림과 함께 풀어봅니다."}],["$","meta","10",{"property":"og:url","content":"https://woolimi.github.io/ko/blog/paper-review/vla/open-x-embodiment"}],["$","meta","11",{"property":"og:site_name","content":"박우림"}],["$","meta","12",{"property":"og:locale","content":"ko_KR"}],["$","meta","13",{"property":"og:image","content":"https://arxiv.org/html/2310.08864v9/figures/data_vis_v3.jpg"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:published_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","19",{"property":"article:modified_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","20",{"property":"article:author","content":"박우림"}],["$","meta","21",{"property":"article:section","content":"논문 해석"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models"}],["$","meta","24",{"name":"twitter:description","content":"21개 기관이 가진 로봇 데이터 60개를 한 형식으로 모아 22종 로봇, 100만 개가 넘는 궤적의 데이터셋을 만들고, 여러 로봇 데이터로 함께 학습한 RT-1-X와 RT-2-X가 한 로봇 데이터만 쓴 모델보다 나은지를 실험한 Open X-Embodiment를 원본 그림과 함께 풀어봅니다."}],["$","meta","25",{"name":"twitter:image","content":"https://arxiv.org/html/2310.08864v9/figures/data_vis_v3.jpg"}],["$","link","26",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","27",{"rel":"icon","href":"/favicon.ico"}],["$","link","28",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","29",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","30",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L25","31",{}]]

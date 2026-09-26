@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation\",\"description\":\"손에 드는 UMI 집게에 GelSight Mini를 심어 사람이 힘까지 시연하게 하고, 기하가 똑같은 구동형 쌍둥이 집게로 그 힘을 로봇에 재현한 FARM을 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2510.13324v1/figures/3_methods/data_collection.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/farm\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T04:41:38.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"12편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation"}]
+10:T4867,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)이 남긴 한계 목록의 첫 줄은 촉각이었습니다. [exUMI](/blog/paper-review/umi/exumi)가 그 빈칸을 촉각 센서와 표현학습으로 메웠고, 접촉 정보를 정책에 넣는 길을 열었습니다. 그런데 exUMI에서도, 그리고 그 뒤의 시각-촉각 연구 대부분에서도 촉각은 여전히 **관측(observation)** 자리에 머물러 있었습니다. 정책은 촉각을 보고 자세와 집게 폭을 정하고, 실제로 물체에 걸리는 힘은 그 명령의 부작용으로 결정됐습니다.
+
+FARM은 그 자리를 옮깁니다. 힘을 관측이 아니라 **행동(action)** 으로 놓아, 정책이 매 시점 목표 자세와 목표 집게 폭에 더해 목표 파지력(grip force)까지 함께 예측하고 그 힘을 폐루프로 제어합니다. 사람이 포도를 집을 때 얼마나 세게 쥘지를 손끝으로 정하듯, 정책도 쥐는 세기를 스스로 정하게 만든 셈입니다.
+
+하드웨어가 이 각도를 받치는 방식도 계보 안에서 눈여겨볼 만합니다. 시연용 손에 드는(handheld) UMI 집게와 로봇용 구동형(actuated) UMI 집게를 기하가 똑같은 쌍둥이로 따로 만들어, 재타기팅 없이 그대로 갈아 끼웁니다.
+
+📄 [Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation](https://arxiv.org/abs/2510.13324v1) — Erik Helmut, Niklas Funk, Tim Schneider, Cristiana de Farias, Jan Peters / Technical University of Darmstadt · DFKI · Hessian.AI · Robotics Institute Germany, 2025-10-15, cs.RO, arxiv 식별자 2510.13324
+
+코드와 설계 파일이 [tactile-farm.github.io](https://tactile-farm.github.io)에 오픈소스로 공개돼 있습니다.
+
+### 초록 요약
+
+접촉이 많은(contact-rich) 조작은 작업 내내 알맞은 파지력을 걸어 주느냐에 성패가 걸립니다. 깨지기 쉽거나 물렁한 물체를 다룰 때는 더 그렇습니다. 그런데 기존 모방학습(imitation learning)은 시각과 촉각 피드백을 관측 하나 더 붙이는 정도로만 쓰고, 정작 물체에 걸리는 힘은 집게 명령이 낳은 통제 밖의 결과로 내버려 둡니다. FARM은 고차원 촉각 데이터에서 촉각 조건부 힘 신호(tactile-conditioned force signal)를 뽑아내고, 그 힘이 그대로 힘 기반 행동 공간(force-based action space)이 되게 한 모방학습 프레임워크입니다. 시연은 GelSight Mini 시각 촉각 센서를 붙인 개조 손잡이형 UMI 집게로 모으고, 배포는 그것과 기하가 똑같은 구동형 UMI 집게로 합니다. 정책이 도는 동안 FARM 확산 정책(diffusion policy)은 로봇 자세와 집게 폭, 파지력을 한꺼번에 예측합니다. 큰 힘이 필요한 과제, 작은 힘이 필요한 과제, 힘을 시간에 따라 바꿔야 하는 과제 셋에서 여러 기준선(baseline)보다 나은 성적을 냅니다.
+
+---
+
+## 1. 시연 장면 — 사람이 힘까지 남깁니다
+
+![그림 1 — 개조 손잡이형 UMI 집게로 데이터를 수집하는 장면](https://arxiv.org/html/2510.13324v1/figures/3_methods/data_collection.png)
+
+*그림 1 — 오른쪽은 숙련자가 개조 손잡이형 UMI 집게로 과제를 수행하는 모습, 왼쪽 위는 집게 폭 측정용 ArUco 마커가 보이는 손안 RGB 카메라 시점, 왼쪽 아래는 GelSight Mini 촉각 영상과 그에 대응하는 FEATS 힘 추정 결과입니다.*
+
+원조 UMI가 시연에서 건져 내던 것은 자세와 집게 폭이었습니다. FARM의 시연에는 여기에 하나가 더 붙습니다. 사람이 물체에 실제로 걸어 준 접촉 힘 분포입니다. 사람은 시연하는 동안 이미 알맞은 힘을 걸고 있으니, 그 힘을 기록하기만 해도 원격조작(teleoperation)이나 직접교시(kinesthetic teaching)로는 얻지 못하는 힘 프로파일이 그대로 남습니다.
+
+---
+
+## 2. 하드웨어 — 기하가 일치하는 쌍둥이 집게
+
+![그림 2 — 개조 손잡이형 UMI 집게와 구동형 UMI 집게의 나란한 비교](https://arxiv.org/html/2510.13324v1/hardware_umi.png)
+
+*그림 2 — 왼쪽은 시연 수집용 개조 UMI 집게, 오른쪽은 로봇 배포용 구동형 UMI 집게입니다. 두 설계 모두 Intel RealSense D405 카메라, 한쪽 손끝의 GelSight Mini 촉각 센서, 동작 추적용 OptiTrack 마커, 집게 폭 측정용 ArUco 마커를 갖추고 센서 배치와 전체 기하를 일치시켰습니다.*
+
+손잡이형 쪽은 원조 UMI에서 세 군데를 손봤습니다. GoPro를 Intel RealSense D405로 바꿔 손안 RGB 영상을 얻고 OptiTrack 마커로 정밀 추적합니다. 탄성 TPU 손가락은 강체 손가락으로 갈았습니다. 한쪽 손가락 끝에는 GelSight Mini를 달고, 반대쪽에는 젤 패드는 같지만 전자부가 없는 껍데기를 달아 두 손끝의 기하와 접촉 특성을 맞췄습니다. 집게 폭은 두 손가락에 붙인 ArUco 마커를 손안 카메라로 추적해 잽니다.
+
+구동형 쪽은 DYNAMIXEL XL430-W250-T 모터 하나로 벨트를 돌려 두 손가락을 함께 움직이고, 손가락마다 하나씩 둔 코일 스프링 두 개가 토크가 풀리는 순간 열림 위치로 되돌립니다. 기하는 손잡이형을 그대로 따르고 GelSight Mini와 RealSense D405, OptiTrack 마커, ArUco 마커까지 모두 같은 자리에 놓습니다. 위치·속도·펄스 폭 변조 같은 여러 제어 모드를 지원하고 약 50 Hz로 도니 실시간 힘 제어까지 됩니다.
+
+계보에서 보면 이 설계는 시점 일관성 너머로 한 발 더 갑니다. [FastUMI](/blog/paper-review/umi/fastumi)가 손잡이형과 로봇 장착형의 화면을 맞췄다면, FARM은 접촉면의 기하와 센서 배치까지 맞춰 정책을 재타기팅 없이 옮깁니다.
+
+---
+
+## 3. 데이터 수집 — 25 Hz 촉각을 기준 시계로 삼습니다
+
+시연 한 번에 다음 스트림이 동기 기록됩니다. Intel RealSense D405의 RGB 영상($848 \times 480 \times 3$), 손가락 ArUco 마커에서 얻는 집게 폭, OptiTrack이 마커 구성으로 정의한 강체 좌표계의 집게 자세, GelSight Mini 촉각 영상($320 \times 240 \times 3$), 그리고 각 촉각 영상에서 FEATS 모델이 계산한 힘 분포 추정치입니다.
+
+FEATS는 유한요소해석(finite element analysis)으로 만든 라벨 데이터로 학습해, GelSight Mini 영상에서 공간적인 힘 분포를 추론합니다. 전단력(shear force)과 수직력(normal force)을 물리적으로 근거 있는 값으로 내놓는다는 점이 여기서 중요합니다. 집게 자세는 3차원 위치와 6차원 회전으로 나타냅니다. 수집은 ROS로 하고, 기록이 끝나면 모든 스트림을 25 Hz로 도는 GelSight Mini 영상에 맞춰 동기화합니다. 촉각이 가장 느린 축이니 그것을 기준 시계로 삼아, 궤적의 모든 샘플이 빠짐없는 관측 집합을 갖게 만드는 방식입니다.
+
+---
+
+## 4. FARM 확산 정책 — 힘을 넣고, 힘을 내놓습니다
+
+![그림 3 — FARM 확산 정책 구조](https://arxiv.org/html/2510.13324v1/farm_diffusion_policy_lowres.png)
+
+*그림 3 — 시각·자기수용감각·촉각 관측을 각각 부호화해 FiLM 조건화를 적용한 1차원 시간 CNN에 넣고, 절대 말단장치 자세·집게 폭·파지력을 포함한 행동 궤적을 예측합니다.*
+
+바탕은 Chi 등의 확산 정책이고, FiLM(Feature-wise Linear Modulation) 조건화를 쓰는 1차원 시간 합성곱 신경망(CNN) 변형입니다. FARM이 손댄 곳은 관측 공간과 행동 공간입니다.
+
+관측은 넷입니다. 계산량을 줄이려 $96 \times 96 \times 3$ 으로 축소한 손안 RGB 영상, 두 ArUco 마커 중심 사이의 유클리드 거리로 계산한 집게 폭, 고정된 사전학습 FEATS 모델이 뽑은 **3채널 힘 분포 이미지**($x$ 방향 전단력, $y$ 방향 전단력, $z$ 방향 수직력을 채널별로 정규화해 $96 \times 96 \times 3$ 으로 맞춤)와 그 수직력 분포를 적분한 총 수직력 스칼라, 그리고 3차원 위치와 6차원 회전으로 표현한 집게 자세입니다. 손안 RGB와 촉각 힘 이미지는 서로 다른 ResNet-18 부호화기로 따로 처리합니다.
+
+행동은 절대 목표 자세, 목표 집게 폭 $w^{d}$, 목표 파지력 $F_{z}^{d}$ 의 궤적입니다. 예측 지평(prediction horizon)은 32, 행동 실행 지평은 16, 관측 지평은 가장 최근 두 개입니다. 힘과 집게 폭이 상태이면서 동시에 행동이라, 지금 관측된 힘이 곧바로 다음 목표 힘에 영향을 줍니다. 이 되먹임이 물리적으로 말이 안 되는 파지 거동을 막아 줍니다. 학습은 잡음 제거 과정에서 더한 잡음에 대한 평균제곱오차로 하고, 구현은 LeRobot의 공개 확산 정책을 확장했습니다.
+
+---
+
+## 5. 배포 — 접촉 여부로 갈아타는 이중 모드 제어
+
+목표 힘은 접촉 중일 때만 의미가 있고, 물체에 다가가거나 놓을 때는 목표 집게 폭이 필요합니다. FARM은 둘 다 예측한 뒤 상황에 따라 갈아탑니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "gs", "label": "GelSight Mini", "sub": "촉각 영상 25 Hz"},
+    {"id": "feats", "label": "FEATS", "sub": "힘 분포 추정", "color": "blue"},
+    {"id": "pol", "label": "FARM 확산 정책", "sub": "7 Hz · 자세 + 폭 + 힘", "color": "blue"},
+    {"id": "sw", "label": "이중 모드 판정", "sub": "목표·추정 힘 < −0.5 N?", "color": "orange"},
+    {"id": "force", "label": "힘 제어", "sub": "PID + anti-windup · 25 Hz", "color": "green"},
+    {"id": "pos", "label": "폭 제어", "sub": "DYNAMIXEL 내부 PD", "color": "green"}
+  ],
+  "edges": [
+    {"from": "gs", "to": "feats"},
+    {"from": "feats", "to": "pol"},
+    {"from": "pol", "to": "sw"},
+    {"from": "sw", "to": "force", "label": "접촉"},
+    {"from": "sw", "to": "pos", "label": "비접촉"}
+  ],
+  "height": 320
+}
+```
+
+제어기는 목표 힘 $F_{z}^{d}$ 와 최신 GelSight Mini 영상 $I_{GS}$ 에서 FEATS로 얻은 추정 접촉력 $\hat{F}_{z}$ 를 함께 지켜봅니다. 둘 다 $-0.5\,\mathrm{N}$ 미만이면 접촉으로 보고 힘 제어로 넘어가고, 아니면 목표 집게 폭을 DYNAMIXEL 내부 PD 제어기로 그대로 보냅니다. 이 문턱값은 FEATS 모델의 잡음 특성을 보고 정했습니다. 힘 제어에서는 오차 $e = \hat{F}_{z} - F_{z}^{d}$ 에 적분항 누적을 막는 anti-windup PID를 적용하고, 그 값을 현재 집게 폭에 더해 위치 명령으로 내보냅니다.
+
+주파수는 층마다 다릅니다. 힘 제어 루프는 GelSight Mini 영상 취득과 FEATS 예측에 맞춰 25 Hz, 확산 정책은 7 Hz로 돕니다. 배포 전에는 OptiTrack 세계 좌표계와 로봇 베이스를 맞추는 손-눈 보정(hand-eye calibration), 그리고 ArUco 마커 거리로 잰 집게 폭과 모터 위치를 최소제곱으로 잇는 선형 사상, 두 가지 보정을 합니다.
+
+---
+
+## 6. 비교 대상 — 무엇을 빼면 무엇이 무너지는가
+
+기준선 셋은 자기수용감각(말단장치 자세, 집게 폭)과 시각 입력은 FARM과 같게 두고, 촉각 표현과 행동 공간만 달리합니다.
+
+| 방식 | 촉각 입력 | 행동 공간 |
+|---|---|---|
+| FARM | 3채널 힘 분포 이미지 + 총 수직력 스칼라 | 자세 + 집게 폭 + 파지력 |
+| Force-Aware | 총 수직력 스칼라만 | 자세 + 집게 폭 + 파지력 |
+| Tactile-Aware | 원본 GelSight Mini 영상 $96 \times 96 \times 3$ | 자세 + 집게 폭 |
+| Vision-Only | 없음 | 자세 + 이진 열림/닫힘 |
+
+Tactile-Aware에 목표 힘이 없는 것은 설계상 어쩔 수 없습니다. 원본 촉각 영상만으로는 접촉 상태를 어렴풋이 알 수 있을 뿐, 힘을 능동적으로 조절할 근거가 없기 때문입니다. Vision-Only는 시연 데이터의 집게 폭에 문턱값을 걸어 이진 상태로 바꿔 씁니다.
+
+---
+
+## 7. 실험 — 큰 힘, 작은 힘, 그리고 시간에 따라 변하는 힘
+
+![그림 4(a) — 화분 심기 과제](https://arxiv.org/html/2510.13324v1/figures/4_experiments_results/plant_insertion.png)
+
+*그림 4(a) — Franka Research 3가 플라스틱 화초를 흙이 담긴 화분에 심는 화분 심기(plant insertion) 과제입니다.*
+
+![그림 4(b) — 포도 따기 과제](https://arxiv.org/html/2510.13324v1/figures/4_experiments_results/grape_extraction.png)
+
+*그림 4(b) — 이쑤시개에 꽂힌 포도를 으깨지 않고 섬세하게 잡아 빼내는 포도 따기(grape picking) 과제입니다.*
+
+![그림 4(c) — 나사 조이기 과제](https://arxiv.org/html/2510.13324v1/figures/4_experiments_results/screw_tightening.png)
+
+*그림 4(c) — 로봇이 육각 렌치로 나사를 조이는 나사 조이기(screw tightening) 과제입니다.*
+
+전부 실제 Franka Research 3 로봇에 구동형 UMI 집게를 달고 수행했습니다. 로봇은 franky 제어 라이브러리의 데카르트 위치 임피던스 제어기로 제어합니다. 과제마다 같은 숙련자가 손잡이형 집게로 30개 시연을 모았고, 학습은 100단계 잡음 제거의 DDPM으로 60000회 반복, 추론은 10단계 DDIM으로 했습니다.
+
+세 과제는 힘 요구가 제각각입니다. 화분 심기는 잡은 화초를 놓치지 않을 큰 힘이 필요하고, 포도 따기는 으깨지도 미끄러지지도 않을 작은 힘이 필요합니다. 나사 조이기는 조여지는 정도를 촉각으로 알아채야 해서 시간에 따라 변하는 힘을 요구하는데, 시각만으로는 나사 상태를 알 길이 없습니다.
+
+---
+
+## 8. 결과 — 스칼라 힘으로 되는 일과 안 되는 일
+
+과제당 20회 실행한 성공률입니다.
+
+| 과제 | FARM | Force-Aware | Tactile-Aware | Vision-Only |
+|---|---|---|---|---|
+| 화분 심기 | 95% | 95% | 65% | 85% |
+| 포도 따기 | 95% | 85% | 60% | 0% |
+| 나사 조이기 | 100% | 10% | 40% | 0% |
+
+> 원문 그림 5(성공률 막대그래프)와 그림 6(힘 분포 그림)은 arxiv HTML 판에서 이미지가 렌더링되지 않아 표로 옮겼습니다. 나머지 그림 1~4는 모두 실었습니다.
+
+표에서 세 가지가 읽힙니다.
+
+먼저 힘을 행동으로 넣는 것만으로 대부분이 풀립니다. 화분 심기와 포도 따기에서 Force-Aware가 Tactile-Aware를 크게 앞서는데, 미끄러지지 않을 만큼 쥐거나 으깨지지 않을 만큼만 쥐는 일은 스칼라 힘 하나로도 폐루프 제어가 되기 때문입니다. Tactile-Aware는 촉각 영상을 보고도 힘을 직접 조절할 수단이 없어 자주 약하게 쥐다가 놓칩니다.
+
+시각만 쓰면 힘 요구가 정반대인 두 과제에서 결과도 정반대로 갈립니다. Vision-Only는 이진 명령으로 늘 세게 쥐니 화분 심기는 85%로 그럭저럭 해내지만, 포도 따기에서는 매번 포도를 으깨 0%입니다.
+
+스칼라 힘의 한계는 나사 조이기에서 드러납니다. Force-Aware가 10%까지 떨어집니다. 스칼라 수직력만으로는 나사가 조여지는 저항을 부분적으로밖에 못 읽고, 육각 렌치의 정렬을 유지하지 못해 나사 머리에서 빠져나옵니다. 정보량이 더 많은 Tactile-Aware가 40%로 오히려 앞서지만, 명시적인 힘 측정이 없어 조임 신호를 놓치고 집게를 일찍 엽니다. 전단력과 수직력을 함께 담은 힘 분포 이미지를 쓰는 FARM만 100%를 냅니다. 렌치를 물리는 아래 방향 압력을 정밀하게 유지하면서 조임 상태까지 읽어 내기 때문입니다.
+
+---
+
+## 9. 힘 영역에서의 비교 — 시연을 얼마나 닮았는가
+
+성공률만으로는 "힘을 시연처럼 걸었는가"까지는 알 수 없습니다. 저자들은 나사 조이기에서 시연과 정책 실행의 힘 분포를 Wasserstein-1 거리 $W_{1}$ 로 비교합니다. 궤적 길이가 제각각이라 표본을 그냥 모으면 긴 궤적 쪽으로 통계가 쏠리니, 궤적 $m$ 의 표본 하나에 $w_{k,m} = 1/(M \cdot n_{m})$ 가중치를 주는 등질량 가중을 씁니다.
+
+$$
+W_{1}(u,v) = \inf_{\pi \in \Gamma(u,v)} \int_{\mathbb{R}\times\mathbb{R}} |x-y| \, d\pi(x,y)
+$$
+
+$W_{1}$ 값은 한쪽 힘 분포를 다른 쪽에 맞추려면 평균 얼마만큼 옮겨야 하는지를 힘과 같은 단위(N)로 나타냅니다.
+
+| 방식 | Wasserstein-1 거리 |
+|---|---|
+| FARM | 0.7538 N |
+| Force-Aware | 1.6580 N |
+| Tactile-Aware | 4.3801 N |
+| Vision-Only | 5.0515 N |
+
+FARM이 시연 힘 분포에 가장 가깝습니다. 눈길이 가는 쪽은 Force-Aware입니다. 1.6580 N으로 힘 자체는 꽤 비슷하게 냈는데도 나사 조이기 성공률은 10%에 그쳤습니다. 힘을 맞추는 능력과 접촉 상태를 읽는 능력이 별개라는 뜻입니다. 어긋나는 방향도 갈립니다. Tactile-Aware는 4.3801 N으로 힘이 모자라는 쪽으로, Vision-Only는 5.0515 N으로 힘이 과한 쪽으로 벗어납니다.
+
+---
+
+## 10. 정리 — 계보에서 FARM의 자리
+
+FARM은 UMI 계보에서 촉각 갈래를 한 칸 더 밀어붙인 논문입니다.
+
+- **힘을 행동 공간에 넣습니다.** 정책이 자세·집게 폭과 함께 목표 파지력을 예측하므로, 접촉력이 명령의 부작용이 아니라 의도한 결과가 됩니다.
+- **고차원 힘 분포를 관측으로 씁니다.** 전단력 두 채널과 수직력 한 채널을 이미지로 넣어, 스칼라 힘으로는 못 잡던 접촉 상태를 읽습니다. 나사 조이기의 10% 대 100% 격차가 이 차이입니다.
+- **쌍둥이 집게로 재타기팅을 없앱니다.** 손잡이형과 구동형의 기하와 센서 배치를 일치시켜, 손 시연으로 배운 정책을 그대로 꽂습니다.
+
+세 과제 모두 접촉이 많고 힘 요구가 뚜렷한 작업이라, 이 결과를 일반 조작 전반으로 넓혀 읽기는 아직 이릅니다. 저자들이 남긴 다음 과제도 그 방향입니다. 양팔 조작으로 넓히고, 인간형 손(anthropomorphic hand)을 다루고, 정책의 반응성을 높이려 흐름 정합(flow matching) 목적함수를 써 보는 일입니다.
+
+같은 계보의 촉각 갈래를 이어 읽으려면 [exUMI](/blog/paper-review/umi/exumi)로 돌아가 촉각을 관측으로만 다루는 방식과 나란히 놓아 보면 대비가 선명합니다. 다음 편은 촉각·힘·자세를 한 집게에 모으고, 모은 시연을 의미 단위로 잘라내는 [TacUMI](/blog/paper-review/umi/tacumi)입니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/umi-on-air","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"11편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/tacumi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"13편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

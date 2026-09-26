@@ -1,0 +1,292 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/0s0kk4hrs0jt_.js","/_next/static/chunks/12z46sl2-43_c.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training\",\"description\":\"UMI로 모은 데이터를 대형 VLA에 그대로 먹이면 왜 성능이 오르지 않는지를 어안 시야의 분포 밖 문제와 궤적의 물리 비현실성으로 나눠 짚고, VQA 데이터셋과 물리 검증 파이프라인으로 메운 VISTA를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2606.04708v2/1.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/vista\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T04:41:38.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Otz_2YXo8BEnEwlE5lLW7"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"16편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training"}]
+10:T64e8,
+## 들어가며
+
+계보의 앞선 논문들은 대체로 더 잘 모으는 법을 다뤘습니다. [원조 UMI](/blog/paper-review/umi/umi)가 로봇 없이 모으는 길을 열었고, [FastUMI](/blog/paper-review/umi/fastumi)가 설치 문턱을 낮추며 1만 궤적을 열어젖혔습니다. 데이터가 쌓이자 다음 질문이 자연스럽게 따라옵니다. 그렇게 모은 데이터를 요즘 대형 모델에 그대로 먹이면 되는가.
+
+VISTA의 대답은 "그대로는 안 된다"입니다. 확산 정책(Diffusion Policy)이나 ACT 같은 작은 모방학습(imitation learning) 정책에는 UMI 데이터가 잘 먹혔지만, 인터넷 규모로 사전학습한 시각-언어-행동(Vision-Language-Action, VLA) 모델에 넣으면 이득이 크지 않고 배포도 불안정합니다. 저자는 원인을 둘로 쪼갭니다. 손목 어안 시야가 사전학습 시각-언어 모델(Vision-Language Model, VLM)에게 분포 밖(out-of-distribution, OOD)이라는 것, 그리고 사람이 모은 궤적이 로봇의 물리 제약을 지키지 않는다는 것입니다.
+
+계보에서 VISTA의 자리는 수집 장치 옆이 아니라 그 뒤입니다. 모은 데이터를 큰 모델이 소화할 수 있게 다듬는 층입니다.
+
+📄 [VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training](https://arxiv.org/abs/2606.04708) — Siyuan Yang, Linzheng Guo, Ouyang Lu, Zhaxizhuoma, Daoran Zhang, Xinmiao Wang, Ting Xiao, Fangzheng Yan, Zhijun Chen, Yan Ding, Chao Yu, Chenjia Bai, Xuelong Li (총 13인, TeleAI·China Telecom 외) / 2026-06-04, cs.RO, arxiv 식별자 2606.04708
+
+### 초록 요약
+
+UMI 덕분에 전용 원격조작 장비 없이도 실세계 로봇 데이터를 대규모로 모을 수 있게 됐지만, 그 데이터로 대형 VLA 모델을 학습시키는 일은 여전히 잘 풀리지 않습니다. 저자는 어긋남을 둘로 봅니다. 손목 어안 영상은 방사 왜곡(radial distortion)이 심하고 시점이 집게 주변에 갇혀 있어 사전학습 VLM에는 분포 밖이고, 사람이 모은 궤적은 기구학 한계를 넘거나 충돌을 일으키거나 제어기 대역폭(controller bandwidth)을 벗어나 있어서 VLA 정책에 물리적으로 실행할 수 없는 행동을 가르칩니다. VISTA는 이 두 격차를 부품 셋으로 메웁니다. 먼저 손목 어안 관측에 맞춰 만든 첫 대규모 시각질의응답(Visual Question Answering, VQA) 데이터셋 UMI-VQA가 보조 시각-언어 지도 노릇을 하며 VLM의 표현을 왜곡된 시각 영역 쪽으로 끌어옵니다. 다음으로 물리 검증 파이프라인이 데이터가 온전한지 먼저 훑은 뒤 궤적마다 연속성과 자기충돌 위험, 실행 충실도로 점수를 매겨 학습 전에 걸러 냅니다. 마지막으로 2단 공동학습(co-training) 레시피가 UMI-VQA의 시각-언어 근거화와 검증된 궤적의 행동 예측을 함께 배웁니다. 실험에서 UMI-VQA를 넣으면 하류 정책 성능이 일관되게 올랐고, 물리 검증 점수는 배포 성공을 꽤 정확히 맞혔습니다. 시뮬레이션과 실환경 조작 과제 전반에서 VISTA는 $\pi_{0.5}$, LingBot-VLA, Wall-X 같은 강한 기준선을 크게 앞섰습니다.
+
+---
+
+## 1. 두 가지 어긋남 — 문제의 지도
+
+![그림 1 — UMI 데이터가 VLA 학습에 던지는 두 가지 어긋남](https://arxiv.org/html/2606.04708v2/1.png)
+
+*그림 1 — 손목 어안 시야는 사전학습 VLM에 분포 밖이고, 사람이 모은 궤적은 목표 로봇 몸체에 물리적으로 실행 불가능할 수 있습니다. VISTA는 800만 표본의 UMI-VQA 데이터셋, 기구학 도달성·충돌 자유·추적 실현성을 보는 물리 검증 파이프라인, 그리고 2단 VQA-행동 공동학습으로 이를 다룹니다.*
+
+**시각 근거화(visual grounding) 어긋남.** 요즘 VLA 모델은 3인칭이나 주시점(main-view) 관측을 담은 로봇 시연과 표준 원근 영상에서 온 시각-언어 데이터로 학습합니다. 투영 기하가 규칙적이고 장면 배치가 안정적이라 공간 단서가 화면 전체에 고르게 보입니다. 반면 UMI와 FastUMI는 약 180° 시야의 손목 어안으로 모읍니다. 그렇게 찍힌 영상은 집게 주변에 갇혀 있고, 어안 투영 탓에 방사 왜곡이 심하며 해상도도 고르지 않아 중심은 세밀한 대신 주변이 심하게 눌립니다. 여기에 집게와 팔이 화면을 가리는 자기 가림(self-occlusion)까지 자주 겹칩니다.
+
+**물리 현실성(physical plausibility) 어긋남.** 로봇 없이 어디서나 시연할 수 있다는 자유가 UMI를 크게 키웠는데, 바로 그 자유가 궤적과 나중에 쓸 몸체의 물리 제약 사이를 끊어 놓습니다. 기록된 궤적은 목표 로봇의 관절 한계나 도달 작업공간, 운동 속도 한계에 매여 있지 않으니 닿지도 못할 자세나 추적이 튄 불연속, 역기구학으로 되돌릴 때 관절 속도가 과하게 요구되는 동작을 그대로 담습니다. 충돌 제약은 아예 없습니다. 추적계는 집게 자세만 볼 뿐이라, 사람은 자연스럽게 장애물을 피해도 로봇의 팔꿈치와 몸통과 베이스는 서로 부딪칩니다. 제어기 대역폭을 넘는 동작은 재생하거나 배포하는 단계에 가서야 드러납니다.
+
+---
+
+## 2. 하드웨어 — FastUMI Pro와 네 눈 시각계
+
+![그림 2 — FastUMI Pro와 관측 예시](https://arxiv.org/html/2606.04708v2/umi-hardware.png)
+
+*그림 2 — (왼쪽) 중앙 주 어안 카메라, 양옆 어안 카메라 두 대, 깊이 카메라, 6-DoF 자세 추정용 Vive Tracker, 인코더로 폭을 재는 방아쇠 구동 집게로 구성된 손잡이형 수집 장치입니다. (오른쪽) 같은 손목 카메라 구성을 RealMan, AC one, Galaxea R1 Pro 세 양팔 플랫폼에 올린 모습과 좌우 손목 어안 관측 쌍입니다.*
+
+수집 장치는 Lumos Robotics의 FastUMI Pro입니다. 무게 약 600 g짜리 한 덩어리에 센서를 여럿 담았습니다. 집게 턱 위 한가운데의 주 어안 카메라가 대각 약 180° 시야로 작업 공간을 담고, 여기에 양옆 어안 두 대와 깊이 카메라가 붙어 네 눈(quad-ocular) 시각계를 이룹니다. 가운데 시야가 손가락에 가리거나 무늬가 모자랄 때도 추적이 버티게 하는 이중화입니다.
+
+말단장치 자세는 두 갈래를 합쳐 얻습니다. 외부 라이트하우스로 6-DoF를 주는 Vive Tracker와, 온보드 카메라 배열 위에서 도는 실시간 시각-관성 SLAM입니다. 둘을 합친 자세는 약 3 mm로 센티미터 아래 정확도를 내고 잠깐씩 가려도 버팁니다. 집게 폭은 내부 인코더로 재고, 사람이 방아쇠로 연속해서 조절합니다.
+
+관측은 좌우 손목 어안 한 쌍이 전부이고 외부 주시점 카메라는 없습니다. 실내외 어디서나 모을 수 있다는 장점의 뒷면이 앞 절에서 짚은 시각 근거화 문제입니다.
+
+---
+
+## 3. UMI-VQA — 어안 영역을 위한 800만 표본
+
+![그림 3 — UMI-VQA 개요](https://arxiv.org/html/2606.04708v2/umi_vqa.png)
+
+*그림 3 — UMI-VQA는 서로 보완하는 두 출처에서 온 800만 표본으로 이뤄집니다. 실세계 손목 어안 UMI VQA 쌍 300만 개가 다섯 개 능력별 부분집합으로 정리되고, 원근 영상을 어안풍으로 옮긴 500만 개의 공간 다양성 보충분이 더해집니다.*
+
+VISTA는 어안 왜곡을 지우는 대신 모델을 어안에 맞추는 쪽을 택합니다. 그러려면 같은 시각 영역의 시각-언어 지도가 있어야 하는데, 그런 데이터셋이 없어서 직접 만들었습니다.
+
+첫 출처는 실세계 UMI 시연 프레임입니다. 앞 절의 손잡이형 장치로 모은 궤적에서 프레임을 뽑아 심한 방사 왜곡과 고르지 않은 해상도, 집게와 손이 만드는 자기 가림, 집게 주변에 갇힌 시점을 그대로 남깁니다. 주석은 반자동으로 답니다. 대형 VLM이 장면 내용과 물체 상태, 공간 관계를 담은 서술을 만들면 사람이 가볍게 검증합니다.
+
+| 부분집합 | 규모 | 비중 |
+|---|---|---|
+| Object Grounding | 842K | 27.5% |
+| Scene Understanding | 406K | 13.2% |
+| Captioning | 103K | 3.3% |
+| Interaction Grounding | 894K | 29.1% |
+| Spatial Reasoning | 824K | 26.9% |
+
+부분집합마다 겨냥하는 능력이 다릅니다. Object Grounding은 언어 지시를 과제와 관련된 시각 표적에 경계 상자로 잇고, Interaction Grounding은 물체 전체가 아니라 파지 지점이나 접촉 영역, 기능 부위처럼 조작이 실제로 일어나야 할 자리를 가리킵니다. Spatial Reasoning은 배치와 상대 위치, 깊이, 방향, 도달성, 충돌 제약을 다룹니다.
+
+둘째 출처가 더 흥미롭습니다. 실제 UMI 궤적은 어안 기하야 진짜지만 장면이 다양하지 않습니다. 그래서 3D 공간 추론에 특화된 RefSpatial 데이터셋 영상을 보태는데, 이쪽은 표준 원근이라 어안 영역으로 옮겨야 합니다. 다항식 왜곡 같은 고전적 기하 변환을 쓰면 문제가 생깁니다. 목표로 삼은 어안 시야가 원본 영상에 보이는 범위를 넘어서면, 대각 약 180° 렌즈가 딱 그런 경우인데, 주변부가 늘어지거나 어색하게 외삽되거나 아예 비어 버립니다. 기하 변환은 원본 시야뿔(viewing frustum) 밖의 장면 구조를 지어낼 수 없기 때문입니다.
+
+그래서 확산 기반 영상 편집 모델(FLUX.2-dev)로 의미를 아는 영상 간 번역을 합니다. 기하 왜곡을 걸면서 장면 전체의 의미에 맞춰 주변부 내용을 그럴듯하게 만들어 내니, 가장자리가 자연스럽게 눌린 어안풍 시야가 나옵니다. 원본 RefSpatial의 공간 관계 주석은 그대로 살아남습니다.
+
+---
+
+## 4. 물리 검증 — 이진 필터가 아니라 점수
+
+![그림 4 — 몸체 간 물리 검증 파이프라인](https://arxiv.org/html/2606.04708v2/cross_emb_val_pipline.png)
+
+*그림 4 — 원본 UMI 궤적을 시뮬레이션 안에서 목표 로봇 기구학으로 재생합니다. 각 궤적은 먼저 데이터 완전성 사전 점검을 거치고, 궤적 연속성·자기충돌 위험·실행 충실도 세 축으로 채점됩니다. 종합 점수 $S(\xi,e)$ 가 최종 평가 점수를 결정합니다.*
+
+앞선 UMI 계열은 관절 한계나 동역학 실현성을 어기는 궤적을 그냥 버리는 경성 필터링(hard filtering)을 썼습니다. VISTA는 연속 점수를 매기는 연성 검증(soft validation)으로 갑니다. 사전학습 시점에는 어느 로봇에 배포할지 정해져 있지 않으니, 임계값을 느슨하게 잡아 여러 후보 몸체에서 중간 점수를 받는 궤적까지 남깁니다. 그래야 다양성이 지켜지고 몸체를 가리지 않는 행동 사전확률(prior)을 배웁니다. 하류 미세조정에 가서는 목표 로봇에 맞춰 임계값을 조입니다.
+
+검증의 토대는 MuJoCo 시뮬레이션과 Mink 라이브러리로 만든 몸체 간 궤적 재생 시스템입니다. 과제와 로봇 종류를 고르면 로봇을 홈 자세로 세운 뒤, UMI에 맞춘 좌표계에서 모든 경유점을 지나는 매끄러운 궤적을 계획해 실행합니다. 관절 공간 궤적은 역기구학으로 얻습니다.
+
+**궤적 연속성 $s_{\text{tc}}$** 는 작업 공간에서 기록이 얼마나 곱게 이어지는지를 봅니다. 연속한 경유점 사이 변위 $d$ 에 대해 세 구간 함수를 씁니다. $d\leq d_{\text{min}}$ 이면 만점, 중간 구간은 선형 감점, $d_{\text{max}}$ 를 넘으면 지수 감쇠입니다. 마지막 구간은 하드웨어 고장이나 추적 상실에서 오는 심한 불연속을 겨냥합니다. 실제로 쓴 값은 병진에 대해 $d_{\text{min}}=5\,\text{mm}$, $d_{\text{max}}=45\,\text{mm}$, $d_{\text{scale}}=100\,\text{mm}$, 회전에 대해 $1^{\circ}$, $9^{\circ}$, $20^{\circ}$ 이고 $\alpha=40$, $\beta=60$ 입니다. 이 점수는 로봇에 옮기기 전의 원본 궤적을 보므로 몸체를 가리지 않습니다.
+
+**자기충돌 위험 $s_{\text{sr}}$** 은 재생하는 동안 지정한 링크 쌍 사이의 최소 거리를 기록해 채점합니다. 안전 여유를 넘으면 만점이고, 최소 거리 아래로 떨어지면 0점입니다. 장면에 놓인 물체는 빼고 자기충돌만 따로 봅니다.
+
+**실행 충실도 $s_{\text{ef}}$** 는 사람이 시연한 말단장치 운동을 목표 로봇이 얼마나 충실히 따라 하는지 봅니다. 관절 한계에 얼마나 붙었는지, 기구학 특이점(singularity)에 걸리는지, 작업공간 경계를 벗어나는지 같은 몸체별 요인이 여기 한꺼번에 담깁니다.
+
+종합 점수는 가중 곱 모형입니다.
+
+$$
+S(\xi,e)=100\cdot\left(\frac{s_{\text{tc}}(\xi)}{100}\right)^{w_{1}}\left(\frac{s_{\text{sr}}(\xi,e)}{100}\right)^{w_{2}}\left(\frac{s_{\text{ef}}(\xi,e)}{100}\right)^{w_{3}},\qquad \sum_{i=1}^{3}w_{i}=3
+$$
+
+곱 형태라 어느 한 축이 0이면 전체가 0입니다. 물리 실현성이 지녀야 할 강제 제약의 성질을 지키면서, 가중치로 어디에 무게를 둘지 조절할 수 있습니다. 따로 언급이 없으면 $w_{1}=w_{2}=w_{3}=1$ 을 씁니다.
+
+---
+
+## 5. 학습 — 2단 공동학습
+
+VISTA 모델은 $\pi_{0.5}$ 체크포인트에서 출발해 UMI-VQA 표본 800만 개와 실세계 로봇 궤적 10만 개 위에서 적응합니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "raw", "label": "원본 UMI 데이터", "sub": "손목 어안 + 궤적"},
+    {"id": "vqa", "label": "UMI-VQA 8M", "sub": "실사 3M + 어안 변환 5M", "color": "blue"},
+    {"id": "val", "label": "물리 검증", "sub": "연속성 · 자기충돌 · 충실도", "color": "orange"},
+    {"id": "s1", "label": "1단계 자기회귀 공동학습", "sub": "FAST 행동 토큰 + VQA 답 토큰", "color": "green"},
+    {"id": "s2", "label": "2단계 흐름 정합 전문가", "sub": "백본 동결 · 연속 행동", "color": "green"},
+    {"id": "ft", "label": "하류 미세조정", "sub": "엄격 임계값 · 전체 해동"},
+    {"id": "dep", "label": "다중 로봇 배포", "sub": "Zenoh 분산 추론"}
+  ],
+  "edges": [
+    {"from": "raw", "to": "vqa"},
+    {"from": "raw", "to": "val"},
+    {"from": "vqa", "to": "s1"},
+    {"from": "val", "to": "s1", "label": "느슨한 임계값"},
+    {"from": "s1", "to": "s2"},
+    {"from": "s2", "to": "ft"},
+    {"from": "ft", "to": "dep"}
+  ],
+  "height": 340
+}
+```
+
+**1단계 — VQA-행동 자기회귀 공동학습.** 연속 행동 묶음을 FAST 토큰 열로 이산화한 뒤, VQA 답변 토큰과 똑같은 다음 토큰 예측 목적함수로 함께 최적화합니다. 이 단계에서 백본이 손목 어안 관측에 적응합니다.
+
+**2단계 — 지식 격리 흐름 정합 전문가.** 이산 행동 토큰은 자기회귀 학습에 편하지만, 연속 제어에는 표현력이 더 좋은 생성기가 낫습니다. 1단계에서 얻은 지각과 이산 행동 지식이 파국적 망각(catastrophic forgetting)으로 날아가지 않도록, 사전학습된 VLM 백본은 얼린 채 연속 행동 전문가만 따로 흐름 정합(flow matching) 목적함수로 학습합니다.
+
+배포는 순수 파이썬 분산 구조입니다. 통신 미들웨어로 Zenoh를 써서 공유 메모리든 LAN이든 WAN이든 가리지 않고 실어 나르고, 여러 팔의 상태 흐름을 분산 GPU 노드에 모아 한꺼번에 추론한 뒤 예측한 행동 묶음을 시간 앙상블해 각 로봇에 되돌립니다. 무거운 ROS 의존을 걷어내고, UMI 말단장치 장착 규격만 맞으면 새 팔을 쉽게 붙일 수 있게 한 설계입니다.
+
+![그림 5 — 다중 기기 대 이종 로봇 배포 시스템 구조](https://arxiv.org/html/2606.04708v2/multi2multi.png)
+
+*그림 5 — 이종 로봇 팔들이 관측을 Zenoh 토픽에 발행하고, 호스트와 위성 노드가 이를 가져가 분산 추론을 수행합니다. 호스트 노드가 행동 앙상블과 라우팅을 맡아 최종 명령을 각 팔에 되돌립니다.*
+
+---
+
+## 6. 진단 실험 — 문제가 실제로 있는가
+
+### 어안이 정책 학습을 떨어뜨립니다 (표 1)
+
+RoboTwin에서 표준 주시점과 손목을 함께 쓰던 구성을 좁은 시야의 손목 전용으로 바꾸면 $\pi_{0.5}$ 성공률이 13.1%까지 무너집니다. 손목 카메라를 UMI식 광각 어안으로 넓히면 잃었던 맥락이 어느 정도 돌아오지만, 표준 시점과의 격차는 그대로 남습니다.
+
+| 모델 | LIBERO 표준 시점 | LIBERO 손목 어안 | RoboTwin 표준 시점 | RoboTwin 손목 어안 | 평균 하락 |
+|---|---|---|---|---|---|
+| $\pi_{0.5}$ | 96.3 | 92.2 | 82.0 | 59.4 | 13.4 |
+| Wall-X | 74.6 | 70.0 | 14.9 | 15.2 | 2.2 |
+| LingBot-VLA | 85.3 | 81.7 | 77.6 | 49.9 | 15.7 |
+
+### 어안이 시각 추론도 떨어뜨립니다 (표 2)
+
+정책 성능이 떨어지는 까닭이 백본이 어안 장면을 제대로 못 읽어서인지 보려고, 일반 VLM과 로봇 특화 VLM을 공간 추론 벤치마크 네 개에서 원본 영상과 어안 변환 영상으로 각각 평가했습니다. 값은 `원본 / 어안` 형식입니다.
+
+| 모델 | Where2Place | RefSpatial | ERQA | EmbSpatial | 평균 |
+|---|---|---|---|---|---|
+| Qwen2.5VL-3B | 0.300 / 0.200 | 0.330 / 0.262 | 0.328 / 0.345 | 0.415 / 0.404 | 0.343 / 0.303 (↓11.8%) |
+| Qwen3VL-4B | 0.680 / 0.650 | 0.485 / 0.441 | 0.383 / 0.363 | 0.539 / 0.539 | 0.522 / 0.498 (↓4.5%) |
+| Embodied-R1-3B-v1 | 0.570 / 0.460 | 0.398 / 0.293 | 0.348 / 0.318 | 0.431 / 0.437 | 0.437 / 0.377 (↓13.7%) |
+| RoboBrain2.5-4B | 0.780 / 0.690 | 0.550 / 0.535 | 0.353 / 0.333 | 0.542 / 0.528 | 0.556 / 0.522 (↓6.2%) |
+| VLASER-2B | 0.690 / 0.570 | 0.420 / 0.398 | 0.338 / 0.325 | 0.501 / 0.480 | 0.487 / 0.443 (↓9.0%) |
+
+모델 전체 평균으로 절대 4.0점, 상대 8.6% 떨어지고 개별 모델의 하락폭은 4.5%에서 13.7% 사이입니다. 사전학습 VLM이 왜곡된 손목 어안 영역에서는 물체와 공간 이해를 저절로 지켜 내지 못한다는 뜻입니다.
+
+### 원본 궤적이 늘 실행 가능하지는 않습니다
+
+![그림 6 — UMI 궤적 실현성 비교](https://arxiv.org/html/2606.04708v2/data_vali_mot.png)
+
+*그림 6 — 곡선은 실현 가능한 자세와 UMI가 의도한 자세의 차이로 계산한 위치·방향 오차입니다. 상자는 큰 자세 편차가 과제 실패로 이어지는 핵심 궤적 구간을 표시합니다.*
+
+풀 스틱 건네기와 서랍 당기기, 스테이플러 놓기 세 과제의 원본 UMI 시연을 RealMan 로봇에서 시뮬레이션과 실기로 재생했습니다. 궤적 자체는 멀쩡한데도 로봇 말단장치가 의도한 자세에 늘 닿지는 못하고, 그 편차가 실패의 뿌리로 드러납니다.
+
+---
+
+## 7. 데이터 수준 검증 — 두 처방이 듣는가
+
+### UMI-VQA의 효과 (표 3)
+
+$\pi_{0.5}$ 위에서 UMI 행동 데이터와 관측, 학습 예산, 최적화 절차를 전부 묶어 두고 보조 VQA 지도만 바꿔 비교했습니다. 과제 1·2·3은 각각 가운데 큐브 위에 옆 큐브 쌓기, 종이컵 쌓기, 펜꽂이 쌓기입니다.
+
+| 학습 설정 | 과제 1 | 과제 2 | 과제 3 | 종합 |
+|---|---|---|---|---|
+| 행동 전용 $\pi_{0.5}$ | 9/20 (45.0%) | 10/20 (50.0%) | 8/20 (40.0%) | 27/60 (45.0%) |
+| $\pi_{0.5}$ + 표준 시점 VQA | 4/20 (20.0%) | 4/20 (20.0%) | 11/20 (55.0%) | 19/60 (31.7%) |
+| $\pi_{0.5}$ + UMI-VQA | 8/20 (40.0%) | 11/20 (55.0%) | 14/20 (70.0%) | 33/60 (55.0%) |
+
+눈여겨볼 결과는 가운데 줄입니다. 표준 시점 VQA를 넣으면 행동만 쓸 때보다 오히려 떨어집니다(45.0% → 31.7%). 보조 VQA 지도라고 무조건 이롭지는 않다는 뜻입니다. 화면 전체가 규칙적으로 보이는 원근 관측으로 준 지도가, 왜곡된 집게 주변 단서에 기대야 하는 행동 예측에서는 표현 학습을 엉뚱한 쪽으로 끌고 갑니다. UMI-VQA로 바꾸면 45.0%에서 55.0%로 오릅니다.
+
+### 물리 점수의 효과 (표 4)
+
+스테이플러 놓기를 통제 사례로 삼아, 시연 개수는 같고 RealMan 기준 검증 점수만 다른 두 부분집합을 만들었습니다. 지표는 파지 성공률(GSR), 전체 성공률(OSR), 그리고 파지에 성공한 조건부 완수율인 파지 후 성공률(PSR = OSR/GSR)입니다.
+
+| 궤적 유형 | 개수 | 연속성 | 충돌 | 충실도 | 평균 점수 | GSR | OSR | PSR |
+|---|---|---|---|---|---|---|---|---|
+| 저점수 부분집합 | 50 | 100.00 | 94.69 | 39.35 | 35.50 | 0.55 | 0.00 | 0.00 |
+| 고점수 부분집합 | 50 | 100.00 | 100.00 | 99.21 | 99.21 | 0.65 | 0.65 | 1.00 |
+
+두 정책의 파지 성공률은 비슷한데 파지 이후가 완전히 갈립니다. 저점수 데이터로 학습한 정책은 잡기는 잡아도 놓기를 한 번도 끝내지 못했습니다.
+
+![그림 9 — RealMan 배포 실험 장면](https://arxiv.org/html/2606.04708v2/deploy_high_low_comparison.png)
+
+*그림 9 — 저점수 부분집합은 파지 이후 실행 실패로 이어지고, 고점수 부분집합은 과제 완수로 이어집니다.*
+
+### 점수는 몸체에 따라 달라집니다 (표 5)
+
+점수가 $S(\xi,e)$ 로 정의된 만큼, 같은 궤적이 로봇마다 다른 점수를 받습니다. RealMan 기준으로 고른 두 부분집합을 R1Pro와 ACone에서 다시 채점하고 배포했습니다.
+
+| 학습 데이터 | RealMan GSR/OSR/PSR | ACone GSR/OSR/PSR | R1Pro GSR/OSR/PSR |
+|---|---|---|---|
+| 저점수 부분집합 | 0.55 / 0.00 / 0.00 | 0.60 / 0.00 / 0.00 | 0.80 / 0.80 / 1.00 |
+| 고점수 부분집합 | 0.65 / 0.65 / 1.00 | 0.60 / 0.55 / 0.92 | 0.75 / 0.75 / 1.00 |
+
+RealMan에서 못 쓸 데이터가 R1Pro에서는 잘 돕니다(OSR 0.80). 데이터의 좋고 나쁨이 절대적이지 않고 목표 몸체에 따라 달라진다는 증거이고, 그래서 필터링도 몸체를 조건으로 걸어야 한다는 결론이 나옵니다.
+
+---
+
+## 8. 모델 평가 — 전체 시스템의 성능
+
+### 시뮬레이션 (표 6)
+
+모든 방법을 새로 모은 같은 손목 어안 시연으로 학습시켜, UMI식 적응을 뺀 나머지 조건을 맞췄습니다.
+
+| 모델 | RoboTwin-UMI | LIBERO-UMI | 평균 |
+|---|---|---|---|
+| LingBot-VLA | 0.499 | 0.817 | 0.658 |
+| Wall-X | 0.152 | 0.700 | 0.426 |
+| $\pi_{0.5}$ | 0.594 | 0.922 | 0.758 |
+| VISTA | 0.683 | 0.943 | 0.813 |
+
+평균에서 $\pi_{0.5}$ 를 5.5점, LingBot-VLA를 15.5점, Wall-X를 38.7점 앞섭니다.
+
+### 실로봇 (표 7)
+
+UMI로 모은 실환경 조작 과제 20종을 과제마다 20회씩 시행해 평균 성공률을 냈습니다.
+
+| 정책 | 평균 성공률 |
+|---|---|
+| LingBot-VLA | 0.313 |
+| $\pi_{0.5}$ | 0.528 |
+| VISTA | 0.598 |
+
+$\pi_{0.5}$ 보다 절대 7.0점 높습니다.
+
+### 부품 절제 (표 8)
+
+| 변형 | 2단계 전문가 | 상태 | 델타 행동 | 성공률 |
+|---|---|---|---|---|
+| VISTA | 자체 | ✓ | ✓ | 68.3 |
+| 2단계 없음, 처음부터 학습한 전문가 | scratch | ✓ | ✓ | 52.4 |
+| 2단계 없음, $\pi_{0.5}$ 전문가 | $\pi_{0.5}$ | ✓ | ✓ | 60.2 |
+| 고유수용 상태 제거 | 자체 | – | ✓ | 61.9 |
+| 델타 행동 제거 | 자체 | ✓ | – | 53.1 |
+
+2단계 전문가를 처음부터 학습시키면 68.3에서 52.4로 떨어지고, 델타 행동 예측을 절대 행동으로 바꾸면 53.1로 떨어집니다. 손잡이형 UMI 궤적을 로봇 실행으로 옮길 때 상대 행동 표현이 결정적이라는 뜻인데, 원조 UMI가 세운 교훈이 VLA 규모에서도 그대로 다시 확인됩니다.
+
+![그림 10 — 이중 손목 어안 관측에서의 어텐션 시각화](https://arxiv.org/html/2606.04708v2/attention_visualization.png)
+
+*그림 10 — 열은 각각 냄비 들기, 전자레인지 열기, 그릇 쌓기, 도장 찍기이고, 행은 입력 영상, $\pi_{0.5}$ 어텐션, VISTA 어텐션입니다.*
+
+예시는 모두 작업하지 않는 쪽 집게의 손목 카메라에서 뽑았습니다. 반대편 집게가 하는 일을 곁눈으로 보는 보조 관측자인 셈인데, $\pi_{0.5}$ 는 어텐션이 흩어지는 반면 VISTA는 작업 중인 집게와 조작 대상, 그 둘이 만나는 자리에 어텐션을 모읍니다.
+
+---
+
+## 9. 정리 — 계보에서 VISTA의 자리
+
+VISTA는 UMI 계보에서 수집 다음 칸을 채운 논문입니다. 앞선 논문들이 "어떻게 더 잘 모을까"를 물었다면, 이 논문은 "모아 둔 것을 큰 모델이 어떻게 소화하게 만들까"를 묻습니다.
+
+- **UMI-VQA**가 어안 왜곡을 지우는 대신 모델을 어안에 적응시킵니다. 표준 시점 VQA가 오히려 해로웠다는 결과가 이 선택의 근거입니다.
+- **물리 검증 점수**가 이진 필터를 연속 점수로 바꿔, 사전학습에서는 다양성을 지키고 미세조정에서는 몸체 적합성을 조입니다.
+- **몸체 조건부 채점**이 "데이터 품질"이라는 말을 상대적인 개념으로 다시 정의합니다. 같은 궤적이 RealMan에서는 0점짜리 배포 실패를, R1Pro에서는 0.80의 성공률을 냅니다.
+- **델타 행동 절제 결과**가 원조 UMI의 상대 궤적 표현이 아직 유효하다는 것을 보여 줍니다.
+
+한계도 뚜렷합니다. UMI-VQA 주석은 대형 VLM이 만든 것에 사람이 가볍게 손을 댄 정도라 상한이 생성 모델에 걸려 있고, 물리 검증은 시뮬레이션 재생에 기대므로 접촉 동역학이 중요한 과제에서는 실제 실현성과 어긋날 여지가 남습니다.
+
+계보의 출발점은 [원조 UMI 논문해석](/blog/paper-review/umi/umi)이고, 여기서 쓴 수집 장치의 앞 세대는 [FastUMI](/blog/paper-review/umi/fastumi)입니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/umi-3d","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"15편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/yubi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"17편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/0s0kk4hrs0jt_.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/12z46sl2-43_c.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
