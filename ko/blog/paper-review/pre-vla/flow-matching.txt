@@ -1,0 +1,665 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/3agf9wikrxppn.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","paper-review","pre-vla","flow-matching"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","paper-review/pre-vla/flow-matching","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3agf9wikrxppn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3lj8u5xv5ktpp.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2b-rkrpx92plj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1-lkrriw345pf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2xgagg06nhrfg.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"A-gfPA41_SOmu3fajNRh2"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron","isHub":false,"order":"$undefined"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron","isHub":false,"order":"$undefined"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1","isHub":false,"order":"$undefined"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2","isHub":false,"order":"$undefined"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function","isHub":false,"order":"$undefined"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer","isHub":false,"order":"$undefined"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리","isHub":false,"order":"$undefined"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?","isHub":false,"order":"$undefined"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering","isHub":false,"order":"$undefined"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법","isHub":false,"order":"$undefined"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법","isHub":false,"order":"$undefined"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2","isHub":false,"order":"$undefined"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama","isHub":false,"order":"$undefined"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning","isHub":false,"order":"$undefined"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree","isHub":false,"order":"$undefined"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn","isHub":false,"order":"$undefined"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측","isHub":false,"order":"$undefined"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기","isHub":false,"order":"$undefined"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression","isHub":false,"order":"$undefined"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"OpenCV","type":"folder","path":"AI/OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"AI/OpenCV/00.basic.ko.md","slug":"AI/OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법","isHub":false,"order":"$undefined"},{"name":"01.camera.ko.md","type":"file","path":"AI/OpenCV/01.camera.ko.md","slug":"AI/OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리","isHub":false,"order":"$undefined"},{"name":"02.filtering.ko.md","type":"file","path":"AI/OpenCV/02.filtering.ko.md","slug":"AI/OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법","isHub":false,"order":"$undefined"},{"name":"03.histogram.ko.ipynb","type":"file","path":"AI/OpenCV/03.histogram.ko.ipynb","slug":"AI/OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화","isHub":false,"order":"$undefined"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"AI/OpenCV/04.mediapipe.ko.ipynb","slug":"AI/OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"physical-ai-101","type":"folder","path":"AI/physical-ai-101","children":[{"name":"01.what-is-physical-ai.ko.md","type":"file","path":"AI/physical-ai-101/01.what-is-physical-ai.ko.md","slug":"AI/physical-ai-101/what-is-physical-ai","locale":"ko","title":"Physical AI 101 - 1편 Physical AI 와 로봇의 두뇌","isHub":false,"order":"$undefined"},{"name":"02.research-landscape.ko.md","type":"file","path":"AI/physical-ai-101/02.research-landscape.ko.md","slug":"AI/physical-ai-101/research-landscape","locale":"ko","title":"Physical AI 101 - 2편 연구 지형 — foundation model · VLA · world model · 시뮬레이션","isHub":false,"order":"$undefined"},{"name":"03.finetuning-my-robot.ko.md","type":"file","path":"AI/physical-ai-101/03.finetuning-my-robot.ko.md","slug":"AI/physical-ai-101/finetuning-my-robot","locale":"ko","title":"Physical AI 101 - 3편 내 로봇에 맞추는 학습 — teleoperation · 모방학습 · LoRA · 강화학습","isHub":false,"order":"$undefined"},{"name":"04.inside-the-model.ko.md","type":"file","path":"AI/physical-ai-101/04.inside-the-model.ko.md","slug":"AI/physical-ai-101/inside-the-model","locale":"ko","title":"Physical AI 101 - 4편 모델의 내부 구조 — System 1/2 · action chunk · flow matching · 모방학습의 한계","isHub":false,"order":"$undefined"},{"name":"05.robot-basics-and-open-problems.ko.md","type":"file","path":"AI/physical-ai-101/05.robot-basics-and-open-problems.ko.md","slug":"AI/physical-ai-101/robot-basics-and-open-problems","locale":"ko","title":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제","isHub":false,"order":"$undefined"},{"name":"06.where-to-run.ko.md","type":"file","path":"AI/physical-ai-101/06.where-to-run.ko.md","slug":"AI/physical-ai-101/where-to-run","locale":"ko","title":"Physical AI 101 - 6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포","isHub":false,"order":"$undefined"}],"slug":"AI/physical-ai-101","order":"$undefined"},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro","isHub":false,"order":"$undefined"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler","isHub":false,"order":"$undefined"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection","isHub":false,"order":"$undefined"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"dev-tools","type":"folder","path":"dev-tools","children":[{"name":"claude","type":"folder","path":"dev-tools/claude","children":[{"name":"00.setup.md","type":"file","path":"dev-tools/claude/00.setup.md","slug":"dev-tools/claude/setup","locale":"$undefined","title":"claude 코드로 sudo","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Docker","type":"folder","path":"dev-tools/Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"dev-tools/Docker/00.basic.ko.md","slug":"dev-tools/Docker/basic","locale":"ko","title":"Docker 기본","isHub":false,"order":"$undefined"},{"name":"01.create-image.ko.md","type":"file","path":"dev-tools/Docker/01.create-image.ko.md","slug":"dev-tools/Docker/create-image","locale":"ko","title":"Docker 이미지 생성","isHub":false,"order":"$undefined"},{"name":"02.docker-hub.ko.md","type":"file","path":"dev-tools/Docker/02.docker-hub.ko.md","slug":"dev-tools/Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push","isHub":false,"order":"$undefined"},{"name":"03.useful-commands.ko.md","type":"file","path":"dev-tools/Docker/03.useful-commands.ko.md","slug":"dev-tools/Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"git","type":"folder","path":"dev-tools/git","children":[{"name":"00.config.ko.md","type":"file","path":"dev-tools/git/00.config.ko.md","slug":"dev-tools/git/config","locale":"ko","title":"Git Config 설정 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"jupyter-notebook","type":"folder","path":"dev-tools/jupyter-notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"dev-tools/jupyter-notebook/00.setup.ko..md","slug":"dev-tools/jupyter-notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Terminator","type":"folder","path":"dev-tools/Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"dev-tools/Terminator/00.shortcuts.md","slug":"dev-tools/Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Web","type":"folder","path":"dev-tools/Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"dev-tools/Web/00.cloudflared.ko.md","slug":"dev-tools/Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"paper-review","type":"folder","path":"paper-review","children":[{"name":"pre-vla","type":"folder","path":"paper-review/pre-vla","children":[{"name":"01.attention-is-all-you-need.ko.md","type":"file","path":"paper-review/pre-vla/01.attention-is-all-you-need.ko.md","slug":"paper-review/pre-vla/attention-is-all-you-need","locale":"ko","title":"논문해석 - Attention Is All You Need","isHub":false,"order":"$undefined"},{"name":"02.gpt-3.ko.md","type":"file","path":"paper-review/pre-vla/02.gpt-3.ko.md","slug":"paper-review/pre-vla/gpt-3","locale":"ko","title":"논문해석 - Language Models are Few-Shot Learners","isHub":false,"order":"$undefined"},{"name":"03.vit.ko.md","type":"file","path":"paper-review/pre-vla/03.vit.ko.md","slug":"paper-review/pre-vla/vit","locale":"ko","title":"논문해석 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale","isHub":false,"order":"$undefined"},{"name":"04.clip.ko.md","type":"file","path":"paper-review/pre-vla/04.clip.ko.md","slug":"paper-review/pre-vla/clip","locale":"ko","title":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision","isHub":false,"order":"$undefined"},{"name":"05.llava.ko.md","type":"file","path":"paper-review/pre-vla/05.llava.ko.md","slug":"paper-review/pre-vla/llava","locale":"ko","title":"논문해석 - Visual Instruction Tuning","isHub":false,"order":"$undefined"},{"name":"06.bc-z.ko.md","type":"file","path":"paper-review/pre-vla/06.bc-z.ko.md","slug":"paper-review/pre-vla/bc-z","locale":"ko","title":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning","isHub":false,"order":"$undefined"},{"name":"07.saycan.ko.md","type":"file","path":"paper-review/pre-vla/07.saycan.ko.md","slug":"paper-review/pre-vla/saycan","locale":"ko","title":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances","isHub":false,"order":"$undefined"},{"name":"08.gato.ko.md","type":"file","path":"paper-review/pre-vla/08.gato.ko.md","slug":"paper-review/pre-vla/gato","locale":"ko","title":"논문해석 - A Generalist Agent","isHub":false,"order":"$undefined"},{"name":"09.palm-e.ko.md","type":"file","path":"paper-review/pre-vla/09.palm-e.ko.md","slug":"paper-review/pre-vla/palm-e","locale":"ko","title":"논문해석 - PaLM-E: An Embodied Multimodal Language Model","isHub":false,"order":"$undefined"},{"name":"10.ddpm.ko.md","type":"file","path":"paper-review/pre-vla/10.ddpm.ko.md","slug":"paper-review/pre-vla/ddpm","locale":"ko","title":"논문해석 - Denoising Diffusion Probabilistic Models","isHub":false,"order":"$undefined"},{"name":"11.flow-matching.ko.md","type":"file","path":"paper-review/pre-vla/11.flow-matching.ko.md","slug":"paper-review/pre-vla/flow-matching","locale":"ko","title":"논문해석 - Flow Matching for Generative Modeling","isHub":false,"order":"$undefined"},{"name":"12.diffusion-policy.ko.md","type":"file","path":"paper-review/pre-vla/12.diffusion-policy.ko.md","slug":"paper-review/pre-vla/diffusion-policy","locale":"ko","title":"논문해석 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion","isHub":false,"order":"$undefined"},{"name":"13.act.ko.md","type":"file","path":"paper-review/pre-vla/13.act.ko.md","slug":"paper-review/pre-vla/act","locale":"ko","title":"논문해석 - Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware","isHub":false,"order":"$undefined"}],"slug":"paper-review/pre-vla","order":1},{"name":"vla","type":"folder","path":"paper-review/vla","children":[{"name":"01.rt-1.ko.md","type":"file","path":"paper-review/vla/01.rt-1.ko.md","slug":"paper-review/vla/rt-1","locale":"ko","title":"논문해석 - RT-1: Robotics Transformer for Real-World Control at Scale","isHub":false,"order":"$undefined"},{"name":"02.rt-2.ko.md","type":"file","path":"paper-review/vla/02.rt-2.ko.md","slug":"paper-review/vla/rt-2","locale":"ko","title":"논문해석 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control","isHub":false,"order":"$undefined"},{"name":"03.open-x-embodiment.ko.md","type":"file","path":"paper-review/vla/03.open-x-embodiment.ko.md","slug":"paper-review/vla/open-x-embodiment","locale":"ko","title":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models","isHub":false,"order":"$undefined"},{"name":"04.openvla.ko.md","type":"file","path":"paper-review/vla/04.openvla.ko.md","slug":"paper-review/vla/openvla","locale":"ko","title":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model","isHub":false,"order":"$undefined"},{"name":"05.pi0.ko.md","type":"file","path":"paper-review/vla/05.pi0.ko.md","slug":"paper-review/vla/pi0","locale":"ko","title":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control","isHub":false,"order":"$undefined"},{"name":"06.fast.ko.md","type":"file","path":"paper-review/vla/06.fast.ko.md","slug":"paper-review/vla/fast","locale":"ko","title":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models","isHub":false,"order":"$undefined"},{"name":"07.pi05.ko.md","type":"file","path":"paper-review/vla/07.pi05.ko.md","slug":"paper-review/vla/pi05","locale":"ko","title":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization","isHub":false,"order":"$undefined"},{"name":"08.openvla-oft.ko.md","type":"file","path":"paper-review/vla/08.openvla-oft.ko.md","slug":"paper-review/vla/openvla-oft","locale":"ko","title":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success","isHub":false,"order":"$undefined"},{"name":"09.gr00t-n1.ko.md","type":"file","path":"paper-review/vla/09.gr00t-n1.ko.md","slug":"paper-review/vla/gr00t-n1","locale":"ko","title":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots","isHub":false,"order":"$undefined"},{"name":"10.gemini-robotics.ko.md","type":"file","path":"paper-review/vla/10.gemini-robotics.ko.md","slug":"paper-review/vla/gemini-robotics","locale":"ko","title":"논문해석 - Gemini Robotics: Bringing AI into the Physical World","isHub":false,"order":"$undefined"}],"slug":"paper-review/vla","order":2},{"name":"umi","type":"folder","path":"paper-review/umi","children":[{"name":"01.umi.ko.md","type":"file","path":"paper-review/umi/01.umi.ko.md","slug":"paper-review/umi/umi","locale":"ko","title":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots","isHub":false,"order":"$undefined"},{"name":"02.fastumi.ko.md","type":"file","path":"paper-review/umi/02.fastumi.ko.md","slug":"paper-review/umi/fastumi","locale":"ko","title":"논문해석 - FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset","isHub":false,"order":"$undefined"},{"name":"03.exumi.ko.md","type":"file","path":"paper-review/umi/03.exumi.ko.md","slug":"paper-review/umi/exumi","locale":"ko","title":"논문해석 - exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation","isHub":false,"order":"$undefined"},{"name":"04.mv-umi.ko.md","type":"file","path":"paper-review/umi/04.mv-umi.ko.md","slug":"paper-review/umi/mv-umi","locale":"ko","title":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning","isHub":false,"order":"$undefined"},{"name":"05.mobile-umi.ko.md","type":"file","path":"paper-review/umi/05.mobile-umi.ko.md","slug":"paper-review/umi/mobile-umi","locale":"ko","title":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation","isHub":false,"order":"$undefined"},{"name":"06.rwor.ko.md","type":"file","path":"paper-review/umi/06.rwor.ko.md","slug":"paper-review/umi/rwor","locale":"ko","title":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot","isHub":false,"order":"$undefined"},{"name":"07.umi-agriculture.ko.md","type":"file","path":"paper-review/umi/07.umi-agriculture.ko.md","slug":"paper-review/umi/umi-agriculture","locale":"ko","title":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications","isHub":false,"order":"$undefined"},{"name":"08.gripper-design-demonstration-quality.ko.md","type":"file","path":"paper-review/umi/08.gripper-design-demonstration-quality.ko.md","slug":"paper-review/umi/gripper-design-demonstration-quality","locale":"ko","title":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning","isHub":false,"order":"$undefined"},{"name":"09.legato.ko.md","type":"file","path":"paper-review/umi/09.legato.ko.md","slug":"paper-review/umi/legato","locale":"ko","title":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool","isHub":false,"order":"$undefined"},{"name":"10.touch-in-the-wild.ko.md","type":"file","path":"paper-review/umi/10.touch-in-the-wild.ko.md","slug":"paper-review/umi/touch-in-the-wild","locale":"ko","title":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper","isHub":false,"order":"$undefined"},{"name":"11.umi-on-air.ko.md","type":"file","path":"paper-review/umi/11.umi-on-air.ko.md","slug":"paper-review/umi/umi-on-air","locale":"ko","title":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies","isHub":false,"order":"$undefined"},{"name":"12.farm.ko.md","type":"file","path":"paper-review/umi/12.farm.ko.md","slug":"paper-review/umi/farm","locale":"ko","title":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation","isHub":false,"order":"$undefined"},{"name":"13.tacumi.ko.md","type":"file","path":"paper-review/umi/13.tacumi.ko.md","slug":"paper-review/umi/tacumi","locale":"ko","title":"논문해석 - TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks","isHub":false,"order":"$undefined"},{"name":"14.rdt2.ko.md","type":"file","path":"paper-review/umi/14.rdt2.ko.md","slug":"paper-review/umi/rdt2","locale":"ko","title":"논문해석 - RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization","isHub":false,"order":"$undefined"},{"name":"15.umi-3d.ko.md","type":"file","path":"paper-review/umi/15.umi-3d.ko.md","slug":"paper-review/umi/umi-3d","locale":"ko","title":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception","isHub":false,"order":"$undefined"},{"name":"16.vista.ko.md","type":"file","path":"paper-review/umi/16.vista.ko.md","slug":"paper-review/umi/vista","locale":"ko","title":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training","isHub":false,"order":"$undefined"},{"name":"17.yubi.ko.md","type":"file","path":"paper-review/umi/17.yubi.ko.md","slug":"paper-review/umi/yubi","locale":"ko","title":"논문해석 - YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale","isHub":false,"order":"$undefined"},{"name":"18.umi-bench.ko.md","type":"file","path":"paper-review/umi/18.umi-bench.ko.md","slug":"paper-review/umi/umi-bench","locale":"ko","title":"논문해석 - UMI-Bench 1.0: An Open and Reproducible Real-World Benchmark for Tabletop Robotic Manipulation with UMI Data","isHub":false,"order":"$undefined"},{"name":"19.bridge.ko.md","type":"file","path":"paper-review/umi/19.bridge.ko.md","slug":"paper-review/umi/bridge","locale":"ko","title":"논문해석 - Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts","isHub":false,"order":"$undefined"}],"slug":"paper-review/umi","order":3},{"name":"active-vision","type":"folder","path":"paper-review/active-vision","children":[{"name":"01.eyerobot.ko.md","type":"file","path":"paper-review/active-vision/01.eyerobot.ko.md","slug":"paper-review/active-vision/eyerobot","locale":"ko","title":"논문해석 - Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop","isHub":false,"order":"$undefined"},{"name":"02.eyerobot-2.ko.md","type":"file","path":"paper-review/active-vision/02.eyerobot-2.ko.md","slug":"paper-review/active-vision/eyerobot-2","locale":"ko","title":"논문해석 - EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras","isHub":false,"order":"$undefined"}],"slug":"paper-review/active-vision","order":4},{"name":"wam","type":"folder","path":"paper-review/wam","children":[{"name":"02.long-wam.ko.md","type":"file","path":"paper-review/wam/02.long-wam.ko.md","slug":"paper-review/wam/long-wam","locale":"ko","title":"논문해석 - Long-WAM: Scaling the Context of World-Action Models","isHub":false,"order":"$undefined"}],"slug":"paper-review/wam","order":5}],"slug":"paper-review","order":"$undefined"},{"name":"programming","type":"folder","path":"programming","children":[{"name":"coding-test","type":"folder","path":"programming/coding-test","children":[{"name":"Brute-Force Search","type":"folder","path":"programming/coding-test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"programming/coding-test/Brute-Force Search/01.problem1.ko.ipynb","slug":"programming/coding-test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Data Structure","type":"folder","path":"programming/coding-test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"programming/coding-test/Data Structure/00.intro.ko.md","slug":"programming/coding-test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Sort","type":"folder","path":"programming/coding-test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"programming/coding-test/Sort/00.intro.ko.ipynb","slug":"programming/coding-test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"SQL","type":"folder","path":"programming/coding-test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"programming/coding-test/SQL/00.order-by.ko.md","slug":"programming/coding-test/SQL/order-by","locale":"ko","title":null,"isHub":false,"order":"$undefined"},{"name":"01.string.ko.md","type":"file","path":"programming/coding-test/SQL/01.string.ko.md","slug":"programming/coding-test/SQL/string","locale":"ko","title":null,"isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"computer-science","type":"folder","path":"programming/computer-science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"programming/computer-science/00.process-vs-thread.ko.md","slug":"programming/computer-science/process-vs-thread","locale":"ko","title":"프로세스와 스레드","isHub":false,"order":"$undefined"},{"name":"01.endian.ko.md","type":"file","path":"programming/computer-science/01.endian.ko.md","slug":"programming/computer-science/endian","locale":"ko","title":"엔디안","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"CPP","type":"folder","path":"programming/CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"programming/CPP/00.reference.ko.md","slug":"programming/CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)","isHub":false,"order":"$undefined"},{"name":"01.member-access-operator.ko.md","type":"file","path":"programming/CPP/01.member-access-operator.ko.md","slug":"programming/CPP/member-access-operator","locale":"ko","title":"member access operator","isHub":false,"order":"$undefined"},{"name":"02.template.ko.md","type":"file","path":"programming/CPP/02.template.ko.md","slug":"programming/CPP/template","locale":"ko","title":"Template","isHub":false,"order":"$undefined"},{"name":"03.smart-pointer.ko.md","type":"file","path":"programming/CPP/03.smart-pointer.ko.md","slug":"programming/CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"DB","type":"folder","path":"programming/DB","children":[{"name":"MySQL","type":"folder","path":"programming/DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"programming/DB/MySQL/00.install.ko.md","slug":"programming/DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행","isHub":false,"order":"$undefined"},{"name":"01.sql-language.ko.md","type":"file","path":"programming/DB/MySQL/01.sql-language.ko.md","slug":"programming/DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리","isHub":false,"order":"$undefined"},{"name":"02.user-management.ko.md","type":"file","path":"programming/DB/MySQL/02.user-management.ko.md","slug":"programming/DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리","isHub":false,"order":"$undefined"},{"name":"03.table.ko.md","type":"file","path":"programming/DB/MySQL/03.table.ko.md","slug":"programming/DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리","isHub":false,"order":"$undefined"},{"name":"04.dml.ko.md","type":"file","path":"programming/DB/MySQL/04.dml.ko.md","slug":"programming/DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)","isHub":false,"order":"$undefined"},{"name":"05.operators.ko.md","type":"file","path":"programming/DB/MySQL/05.operators.ko.md","slug":"programming/DB/MySQL/operators","locale":"ko","title":"MySQL 연산자","isHub":false,"order":"$undefined"},{"name":"06.union.ko.md","type":"file","path":"programming/DB/MySQL/06.union.ko.md","slug":"programming/DB/MySQL/union","locale":"ko","title":"MySQL UNION","isHub":false,"order":"$undefined"},{"name":"07.join.ko.md","type":"file","path":"programming/DB/MySQL/07.join.ko.md","slug":"programming/DB/MySQL/join","locale":"ko","title":"MySQL JOIN","isHub":false,"order":"$undefined"},{"name":"08.result-control.ko.md","type":"file","path":"programming/DB/MySQL/08.result-control.ko.md","slug":"programming/DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어","isHub":false,"order":"$undefined"},{"name":"09.backup.ko.md","type":"file","path":"programming/DB/MySQL/09.backup.ko.md","slug":"programming/DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원","isHub":false,"order":"$undefined"},{"name":"10.csv-to-db.ko.md","type":"file","path":"programming/DB/MySQL/10.csv-to-db.ko.md","slug":"programming/DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python","isHub":false,"order":"$undefined"},{"name":"11.aggregate-func.ko.md","type":"file","path":"programming/DB/MySQL/11.aggregate-func.ko.md","slug":"programming/DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY","isHub":false,"order":"$undefined"},{"name":"12.scalar-func.ko.md","type":"file","path":"programming/DB/MySQL/12.scalar-func.ko.md","slug":"programming/DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary","isHub":false,"order":"$undefined"},{"name":"13.subquery.ko.md","type":"file","path":"programming/DB/MySQL/13.subquery.ko.md","slug":"programming/DB/MySQL/subquery","locale":"ko","title":"Subquery","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"functional-programming","type":"folder","path":"programming/functional-programming","children":[{"name":"00.basic.ko.md","type":"file","path":"programming/functional-programming/00.basic.ko.md","slug":"programming/functional-programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic","isHub":false,"order":"$undefined"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"programming/functional-programming/01.functional-vs-imperative.ko.md","slug":"programming/functional-programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative","isHub":false,"order":"$undefined"},{"name":"02.fxts.ko.md","type":"file","path":"programming/functional-programming/02.fxts.ko.md","slug":"programming/functional-programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs","isHub":false,"order":"$undefined"},{"name":"03.monad.ko.md","type":"file","path":"programming/functional-programming/03.monad.ko.md","slug":"programming/functional-programming/monad","locale":"ko","title":"FP Workshop - 3. Monad","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Python","type":"folder","path":"programming/Python","children":[{"name":"00.settings.ko.md","type":"file","path":"programming/Python/00.settings.ko.md","slug":"programming/Python/settings","locale":"ko","title":"Python 개발환경 설정","isHub":false,"order":"$undefined"},{"name":"01.number.ko.md","type":"file","path":"programming/Python/01.number.ko.md","slug":"programming/Python/number","locale":"ko","title":"Python 숫자형","isHub":false,"order":"$undefined"},{"name":"02.string.ko.md","type":"file","path":"programming/Python/02.string.ko.md","slug":"programming/Python/string","locale":"ko","title":"Python 문자열","isHub":false,"order":"$undefined"},{"name":"03.list.ko.md","type":"file","path":"programming/Python/03.list.ko.md","slug":"programming/Python/list","locale":"ko","title":"Python 리스트","isHub":false,"order":"$undefined"},{"name":"04.tuple.ko.md","type":"file","path":"programming/Python/04.tuple.ko.md","slug":"programming/Python/tuple","locale":"ko","title":"Python 튜플","isHub":false,"order":"$undefined"},{"name":"05.dict.ko.md","type":"file","path":"programming/Python/05.dict.ko.md","slug":"programming/Python/dict","locale":"ko","title":"Python 딕셔너리","isHub":false,"order":"$undefined"},{"name":"06.set.ko.md","type":"file","path":"programming/Python/06.set.ko.md","slug":"programming/Python/set","locale":"ko","title":"Python 집합","isHub":false,"order":"$undefined"},{"name":"07.bool.ko.md","type":"file","path":"programming/Python/07.bool.ko.md","slug":"programming/Python/bool","locale":"ko","title":"Python 불리언","isHub":false,"order":"$undefined"},{"name":"08.statement.ko.md","type":"file","path":"programming/Python/08.statement.ko.md","slug":"programming/Python/statement","locale":"ko","title":"Python 제어문","isHub":false,"order":"$undefined"},{"name":"09.function.ko.md","type":"file","path":"programming/Python/09.function.ko.md","slug":"programming/Python/function","locale":"ko","title":"Python 함수","isHub":false,"order":"$undefined"},{"name":"10.pythonic.ko.md","type":"file","path":"programming/Python/10.pythonic.ko.md","slug":"programming/Python/pythonic","locale":"ko","title":"Pythonic Code","isHub":false,"order":"$undefined"},{"name":"11.class.ko.md","type":"file","path":"programming/Python/11.class.ko.md","slug":"programming/Python/class","locale":"ko","title":"Python 클래스","isHub":false,"order":"$undefined"},{"name":"12.dataclass.ko.md","type":"file","path":"programming/Python/12.dataclass.ko.md","slug":"programming/Python/dataclass","locale":"ko","title":"Python 데이터클래스","isHub":false,"order":"$undefined"},{"name":"13.package.ko.md","type":"file","path":"programming/Python/13.package.ko.md","slug":"programming/Python/package","locale":"ko","title":"Python 패키지와 모듈","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"Arduino","type":"folder","path":"Robotics/Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Robotics/Arduino/00.arduino.ko.md","slug":"Robotics/Arduino/arduino","locale":"ko","title":"Arduino 기본 지식","isHub":false,"order":"$undefined"},{"name":"01.switch.ko.md","type":"file","path":"Robotics/Arduino/01.switch.ko.md","slug":"Robotics/Arduino/switch","locale":"ko","title":"Arduino Switch","isHub":false,"order":"$undefined"},{"name":"02.serial.ko.md","type":"file","path":"Robotics/Arduino/02.serial.ko.md","slug":"Robotics/Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기","isHub":false,"order":"$undefined"},{"name":"03.led.ko..md","type":"file","path":"Robotics/Arduino/03.led.ko..md","slug":"Robotics/Arduino/led.ko.","locale":"$undefined","title":"Arduino LED","isHub":false,"order":"$undefined"},{"name":"04.rfid.ko.md","type":"file","path":"Robotics/Arduino/04.rfid.ko.md","slug":"Robotics/Arduino/rfid","locale":"ko","title":"Arduino RFID","isHub":false,"order":"$undefined"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Robotics/Arduino/05.arduino-llm.ko.md","slug":"Robotics/Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"introduction-to-robotics-craig","type":"folder","path":"Robotics/introduction-to-robotics-craig","children":[{"name":"00.craig-ch01-02-spatial-descriptions.ko.md","type":"file","path":"Robotics/introduction-to-robotics-craig/00.craig-ch01-02-spatial-descriptions.ko.md","slug":"Robotics/introduction-to-robotics-craig/craig-ch01-02-spatial-descriptions","locale":"ko","title":"Introduction to Robotics (Craig) - 1장 서론 · 2장 공간 기술과 변환","isHub":false,"order":"$undefined"}],"slug":"Robotics/introduction-to-robotics-craig","order":"$undefined"},{"name":"pinkrab","type":"folder","path":"Robotics/pinkrab","children":[{"name":"01.origin.ko.md","type":"file","path":"Robotics/pinkrab/01.origin.ko.md","slug":"Robotics/pinkrab/origin","locale":"ko","title":"Pinkrab - 게발의 시작","isHub":false,"order":"$undefined"}],"slug":"Robotics/pinkrab","order":"$undefined"},{"name":"ROS","type":"folder","path":"Robotics/ROS","children":[{"name":"concepts","type":"folder","path":"Robotics/ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"Robotics/ROS/concepts/01.nodes.ko.md","slug":"Robotics/ROS/concepts/nodes","locale":"ko","title":"basic - nodes","isHub":false,"order":"$undefined"},{"name":"02.interfaces.ko.md","type":"file","path":"Robotics/ROS/concepts/02.interfaces.ko.md","slug":"Robotics/ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces","isHub":false,"order":"$undefined"},{"name":"03.topics.ko.md","type":"file","path":"Robotics/ROS/concepts/03.topics.ko.md","slug":"Robotics/ROS/concepts/topics","locale":"ko","title":"basic - topics","isHub":false,"order":"$undefined"},{"name":"04.services.ko.md","type":"file","path":"Robotics/ROS/concepts/04.services.ko.md","slug":"Robotics/ROS/concepts/services","locale":"ko","title":"basic - services","isHub":false,"order":"$undefined"},{"name":"05.actions.ko.md","type":"file","path":"Robotics/ROS/concepts/05.actions.ko.md","slug":"Robotics/ROS/concepts/actions","locale":"ko","title":"basic - actions","isHub":false,"order":"$undefined"},{"name":"06.parameters.ko.md","type":"file","path":"Robotics/ROS/concepts/06.parameters.ko.md","slug":"Robotics/ROS/concepts/parameters","locale":"ko","title":"basic - parameters","isHub":false,"order":"$undefined"},{"name":"07.launch.ko.md","type":"file","path":"Robotics/ROS/concepts/07.launch.ko.md","slug":"Robotics/ROS/concepts/launch","locale":"ko","title":"basic - launch","isHub":false,"order":"$undefined"},{"name":"08.rcl.ko.md","type":"file","path":"Robotics/ROS/concepts/08.rcl.ko.md","slug":"Robotics/ROS/concepts/rcl","locale":"ko","title":"basic - rcl","isHub":false,"order":"$undefined"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"Robotics/ROS/concepts/09.ros_domain_id.ko.md","slug":"Robotics/ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID","isHub":false,"order":"$undefined"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"Robotics/ROS/concepts/10.middleware-vendors.ko.md","slug":"Robotics/ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors","isHub":false,"order":"$undefined"},{"name":"11.logging.ko.md","type":"file","path":"Robotics/ROS/concepts/11.logging.ko.md","slug":"Robotics/ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration","isHub":false,"order":"$undefined"},{"name":"12.qos.ko.md","type":"file","path":"Robotics/ROS/concepts/12.qos.ko.md","slug":"Robotics/ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings","isHub":false,"order":"$undefined"},{"name":"13.executors.ko.md","type":"file","path":"Robotics/ROS/concepts/13.executors.ko.md","slug":"Robotics/ROS/concepts/executors","locale":"ko","title":"intermediate - executors","isHub":false,"order":"$undefined"},{"name":"14.topic-statistics.ko.md","type":"file","path":"Robotics/ROS/concepts/14.topic-statistics.ko.md","slug":"Robotics/ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics","isHub":false,"order":"$undefined"},{"name":"15.rqt.ko.md","type":"file","path":"Robotics/ROS/concepts/15.rqt.ko.md","slug":"Robotics/ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt","isHub":false,"order":"$undefined"},{"name":"16.composition.ko.md","type":"file","path":"Robotics/ROS/concepts/16.composition.ko.md","slug":"Robotics/ROS/concepts/composition","locale":"ko","title":"intermediate - composition","isHub":false,"order":"$undefined"},{"name":"17.cross-compilation.ko.md","type":"file","path":"Robotics/ROS/concepts/17.cross-compilation.ko.md","slug":"Robotics/ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation","isHub":false,"order":"$undefined"},{"name":"18.ros2-security.ko.md","type":"file","path":"Robotics/ROS/concepts/18.ros2-security.ko.md","slug":"Robotics/ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security","isHub":false,"order":"$undefined"},{"name":"19.tf2.ko.md","type":"file","path":"Robotics/ROS/concepts/19.tf2.ko.md","slug":"Robotics/ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.install.ko.md","type":"file","path":"Robotics/ROS/00.install.ko.md","slug":"Robotics/ROS/install","locale":"ko","title":"맥에서 ros2 설치하기","isHub":false,"order":"$undefined"},{"name":"01.pkg.ko.md","type":"file","path":"Robotics/ROS/01.pkg.ko.md","slug":"Robotics/ROS/pkg","locale":"ko","title":"workspace & package","isHub":false,"order":"$undefined"},{"name":"02.nav2.ko.md","type":"file","path":"Robotics/ROS/02.nav2.ko.md","slug":"Robotics/ROS/nav2","locale":"ko","title":"ROS2 Nav2","isHub":false,"order":"$undefined"},{"name":"03.behavior-tree.ko.md","type":"file","path":"Robotics/ROS/03.behavior-tree.ko.md","slug":"Robotics/ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리","isHub":false,"order":"$undefined"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)","isHub":false,"order":"$undefined"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)","isHub":false,"order":"$undefined"},{"name":"03.nvidia-isaac.ko.md","type":"file","path":"Robotics/03.nvidia-isaac.ko.md","slug":"Robotics/nvidia-isaac","locale":"ko","title":"NVIDIA Omniverse · Isaac Sim · Isaac Lab 입문","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+18:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+1e:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+1f:Tc498,
+## 들어가며
+
+[10편 DDPM](/blog/paper-review/pre-vla/ddpm)은 이미지에 잡음을 조금씩 더하는 과정을 거꾸로 되돌리도록 신경망을 학습해 새 이미지를 만들었습니다. 이 방식은 학습이 안정적이지만, 잡음을 더하는 과정의 수식이 경로를 미리 정해 버립니다. DDPM 논문은 이미지 하나를 만들 때 잡음 제거 신경망을 1000번 실행합니다.
+
+**Flow Matching(흐름 정합)** 은 경로를 확산 과정에서 유도하지 않고 직접 고릅니다. 잡음에서 데이터로 가는 경로를 먼저 정하고, 그 경로를 만들어 내는 속도(벡터장)를 신경망이 회귀로 맞추게 합니다. 학습 중에 미분방정식을 풀 필요가 없고, 경로를 직선으로 고르면 표본을 만들 때 신경망 실행 횟수도 줄어듭니다. VLA 계보의 [π0](/blog/paper-review/vla/pi0)는 이 방식으로 로봇 행동을 생성합니다.
+
+📄 [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) — Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matt Le / Meta AI (FAIR)·Weizmann Institute of Science, ICLR 2023
+
+arxiv 식별자는 2210.02747이고, 이 글은 2023년 2월에 올라온 v2를 기준으로 합니다.
+
+### 초록 요약
+
+저자들은 **연속 정규화 흐름(Continuous Normalizing Flow, CNF)** 을 바탕으로 한 생성 모델 학습 방법을 제안합니다. 제안한 Flow Matching 목적 함수는 미리 정해 둔 조건부 확률 경로의 벡터장에 신경망 출력을 회귀시켜 CNF를 학습합니다. 학습 과정에서 미분방정식을 수치로 풀지 않으므로 큰 규모로 학습할 수 있습니다.
+
+Flow Matching은 잡음과 데이터 사이를 잇는 가우시안 확률 경로 전체와 함께 쓸 수 있고, 기존 확산 모델의 경로도 그중 한 경우에 포함됩니다. 확산 경로에 Flow Matching을 적용하면 기존 확산 모델 학습보다 안정적이었습니다. 확산이 아닌 경로도 쓸 수 있는데, 저자들은 **최적 수송(Optimal Transport, OT)** 의 변위 보간으로 정의한 경로를 특히 추천합니다. 이 경로는 확산 경로보다 학습과 표본 생성이 빠르고 일반화도 좋았습니다. ImageNet에서 Flow Matching으로 학습한 CNF는 우도와 표본 품질 모두에서 확산 기반 방법보다 좋은 결과를 냈고, 기성 상미분방정식 풀이기로 빠르고 안정적으로 표본을 만들었습니다.
+
+![그림 1 — Flow Matching으로 학습한 ImageNet-128 표본](https://arxiv.org/html/2210.02747v2/figures/imagenet128/imagenet128_curated_.png)
+
+*그림 1 — 최적 수송 경로와 Flow Matching으로 학습한 CNF가 조건 없이 생성한 ImageNet 128×128 표본입니다.*
+
+---
+
+## 1. 배경 — 잡음 분포에서 데이터 분포로의 변환
+
+### 생성 모델의 입력과 출력
+
+생성 모델은 학습 데이터와 비슷한 새 데이터를 만듭니다. 32×32 컬러 이미지라면 이미지 한 장은 숫자 $32 \times 32 \times 3 = 3072$개로 이루어진 벡터이고, 학습 데이터 전체는 3072차원 공간에 흩어진 점들입니다. 이 점들이 어디에 몰려 있는지를 나타내는 분포를 데이터 분포 $q(x_1)$라고 부릅니다. 논문은 데이터 점을 $x_1$로, 잡음 점을 $x_0$로 적습니다.
+
+데이터 분포의 식은 아무도 모릅니다. 가진 것은 그 분포에서 뽑힌 이미지들뿐입니다. 반면 표준 정규분포 $\mathcal{N}(0, I)$처럼 식을 알고 점을 마음대로 뽑을 수 있는 분포는 쉽게 다룰 수 있습니다. 그래서 생성 모델은 대개 이렇게 동작합니다.
+
+1. 표준 정규분포에서 3072개 숫자를 무작위로 뽑습니다. 이 벡터는 화면에 띄우면 흑백 점이 흩뿌려진 잡음 이미지입니다.
+2. 학습한 신경망으로 이 벡터를 조금씩 바꿔 데이터 분포 안의 점, 곧 그럴듯한 이미지로 옮깁니다.
+
+2단계에서 벡터를 "어떤 경로로, 몇 번에 걸쳐" 옮기는지가 생성 모델마다 다릅니다.
+
+### 확산 모델의 경로
+
+[DDPM](/blog/paper-review/pre-vla/ddpm) 같은 확산 모델은 데이터에 잡음을 조금씩 더하는 과정을 먼저 수식으로 정하고, 그 과정을 되돌리는 방법을 학습합니다. 그러면 잡음에서 데이터로 가는 중간 분포들은 잡음을 더하는 수식이 자동으로 결정합니다. 저자들은 이 제약 때문에 쓸 수 있는 경로의 종류가 좁고, 학습 시간이 매우 길며, 표본을 빠르게 만들려면 별도의 가속 기법이 필요하다고 지적합니다.
+
+이 논문은 경로를 확산 과정에서 유도하지 않고, 원하는 경로를 직접 정한 뒤 그 경로를 따르도록 모델을 학습하는 방법을 제안합니다. 그 틀이 연속 정규화 흐름입니다.
+
+---
+
+## 2. 연속 정규화 흐름
+
+### 벡터장과 흐름
+
+**벡터장(vector field)** 은 공간의 각 위치와 시각에 "지금 이 점은 어느 방향으로 얼마나 빠르게 움직여야 하는가"를 알려 주는 함수입니다. 논문은 시각 $t \in [0, 1]$에서 위치 $x$의 속도를 $v_t(x)$로 적습니다. 3072차원 이미지 공간이라면 $v_t(x)$도 숫자 3072개짜리 벡터입니다. 픽셀 값마다 "이번 순간에 얼마나 올리거나 내릴지"가 하나씩 들어 있습니다.
+
+점 하나를 시각 0에 $x$에 두고 이 속도를 따라 움직이면, 시각 $t$의 위치 $\phi_t(x)$가 정해집니다. 이 위치를 정하는 식이 **상미분방정식(ordinary differential equation, ODE)** 입니다.
+
+$$
+\frac{d}{dt}\phi_t(x) = v_t(\phi_t(x)), \qquad \phi_0(x) = x
+$$
+
+첫 식은 "위치가 바뀌는 속도는 지금 위치에서 벡터장이 알려 주는 속도와 같다"는 뜻이고, 둘째 식은 출발점을 정합니다. $\phi_t$를 **흐름(flow)** 이라고 부릅니다.
+
+컴퓨터로는 이 식을 짧은 시간 간격으로 잘라 풉니다. 가장 단순한 방법은 오일러(Euler) 방법으로, 지금 속도에 시간 간격을 곱해 위치에 더하는 계산을 반복합니다. 1차원 벡터장 $v_t(x) = 1 - x$에서 $x = 0$을 출발점으로, 간격 0.25로 계산하면 다음과 같습니다.
+
+| 시각 $t$ | 위치 $x$ | 속도 $v = 1 - x$ | 다음 위치 $x + 0.25 \times v$ |
+|---------|---------|----------------|---------------------------|
+| 0.00 | 0.000 | 1.000 | 0.250 |
+| 0.25 | 0.250 | 0.750 | 0.438 |
+| 0.50 | 0.438 | 0.563 | 0.578 |
+| 0.75 | 0.578 | 0.422 | 0.684 |
+| 1.00 | 0.684 | — | — |
+
+*표의 벡터장과 수치는 계산 과정을 보여 주기 위한 임의의 예시 값입니다.*
+
+한 줄 내려갈 때마다 벡터장 $v_t$를 한 번 계산합니다. 벡터장이 신경망이라면 신경망을 한 번 실행하는 것이고, 이 횟수를 **함수 평가 횟수(number of function evaluations, NFE)** 라고 부릅니다. 위 표는 NFE 4로 풀었습니다. 간격을 줄이면 해가 정확해지는 대신 NFE가 늘어납니다. 뒤의 실험에서 쓰는 dopri5는 오차를 보면서 간격을 자동으로 조절하는 풀이기이고, 중점(midpoint) 방법은 한 걸음에 벡터장을 두 번 계산하는 고정 간격 풀이기입니다.
+
+### 확률 경로
+
+점 하나가 아니라 표준 정규분포에서 뽑은 점 수만 개를 같은 벡터장으로 동시에 움직이면, 점들이 모인 모양, 곧 분포가 시각에 따라 바뀝니다. 시각 $t$의 분포를 $p_t$로 적고, $p_0$부터 $p_1$까지 시간에 따라 바뀌는 분포 전체를 **확률 경로(probability path)** 라고 부릅니다.
+
+$$
+p_t = [\phi_t]_* \, p_0
+$$
+
+$[\phi_t]_*$는 **밀어내기(push-forward)** 연산으로, "$p_0$에서 뽑은 점들을 $\phi_t$로 옮겼을 때 점들이 이루는 분포"를 뜻합니다. 점들이 한곳으로 모이면 그 자리의 밀도가 높아지고 흩어지면 낮아지는데, 논문의 식 4는 이 밀도 변화를 흐름의 야코비안 행렬식으로 계산합니다. 벡터장 $v_t$가 이렇게 경로 $p_t$를 만들어 낼 때 "$v_t$가 $p_t$를 **생성한다(generate)**"고 표현합니다.
+
+CNF는 이 벡터장을 파라미터 $\theta$를 가진 신경망 $v_t(x; \theta)$로 두는 모델입니다. 목표는 $p_0$가 표준 정규분포이고 $p_1$이 데이터 분포와 같아지도록 신경망을 학습하는 것입니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "x0",   "label": "잡음 점 x₀", "sub": "표준 정규분포에서 추출", "row": 0},
+    {"id": "vf",   "label": "신경망 벡터장 v_t(x; θ)", "sub": "위치 x와 시각 t 입력", "color": "blue", "row": 1},
+    {"id": "ode",  "label": "상미분방정식 풀이기", "sub": "t = 0 → 1, NFE번 v_t 계산", "color": "orange", "row": 2},
+    {"id": "x1",   "label": "생성 표본 φ₁(x₀)", "sub": "데이터 분포 근처의 점", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "x0",  "to": "ode"},
+    {"from": "vf",  "to": "ode", "label": "속도 제공"},
+    {"from": "ode", "to": "x1"}
+  ],
+  "height": 380
+}
+```
+
+### 시뮬레이션 기반 학습의 비용
+
+CNF는 2018년에 제안됐지만 큰 이미지로 키우기 어려웠습니다. 기존의 최대 우도 학습은 학습 데이터 이미지 한 장의 확률을 구할 때마다 상미분방정식을 끝까지 수치로 풀어야 했습니다. 역전파에도 같은 풀이가 한 번 더 필요하고, 풀이는 시간 순서대로 진행되므로 병렬화도 어렵습니다. 저자들은 기존의 시뮬레이션 없는 학습 방법도 고차원에서 계산하기 어려운 적분이 남거나(Rozen et al., 2021), 미니배치 기울기가 편향되는(Ben-Hamu et al., 2022) 문제가 있었다고 정리합니다. 확산 모델은 잡음 제거 점수 정합(denoising score matching)으로 효율적으로 학습할 수 있는 드문 경우였습니다.
+
+Flow Matching은 CNF를 확산 경로에 묶이지 않은 채 시뮬레이션 없이 학습하는 방법입니다.
+
+---
+
+## 3. Flow Matching 목적 함수
+
+데이터 분포에 도달하는 확률 경로 $p_t$와, 그 경로를 생성하는 벡터장 $u_t$를 누군가 알려 준다고 가정합니다. 그러면 학습은 단순한 회귀 문제가 됩니다.
+
+$$
+\mathcal{L}_{\text{FM}}(\theta) = \mathbb{E}_{t,\, p_t(x)} \big\| v_t(x) - u_t(x) \big\|^2
+$$
+
+시각 $t$를 0과 1 사이에서 균등하게 뽑고, 그 시각의 분포 $p_t$에서 점 $x$를 뽑은 뒤, 신경망이 낸 속도 $v_t(x)$와 정답 속도 $u_t(x)$의 제곱 오차를 줄입니다. 손실이 0이 되면 신경망이 정답 벡터장과 같아지고, 그 벡터장을 따라 풀면 $p_t$가 그대로 재현됩니다. 이 과정에서 상미분방정식을 풀 일은 없습니다.
+
+문제는 정답이 없다는 것입니다. 데이터 분포에 도달하는 경로는 무수히 많고, 어떤 경로를 고르더라도 그 경로를 만드는 벡터장 $u_t$를 식으로 쓸 수 있는 경우가 거의 없습니다. 다음 장은 이 문제를 데이터 점 하나 단위로 나눠서 풉니다.
+
+---
+
+## 4. 조건부 확률 경로와 Conditional Flow Matching
+
+### 데이터 점 하나를 기준으로 한 경로
+
+데이터 전체가 아니라 학습 이미지 한 장 $x_1$만 생각하면 경로를 쉽게 정할 수 있습니다. 시각 0에는 표준 정규분포이고, 시각 1에는 $x_1$ 주변에 좁게 몰린 분포, 예를 들어 평균 $x_1$, 표준편차 $\sigma$가 아주 작은 정규분포 $\mathcal{N}(x \mid x_1, \sigma^2 I)$가 되도록 중간을 이으면 됩니다. 이 경로를 $x_1$에 대한 **조건부 확률 경로** $p_t(x \mid x_1)$라고 부르고, 이 경로를 생성하는 벡터장을 **조건부 벡터장** $u_t(x \mid x_1)$라고 부릅니다.
+
+### 조건부 경로를 합친 주변 경로
+
+모든 학습 이미지의 조건부 경로를 데이터 분포에 따라 평균하면 전체 경로가 됩니다.
+
+$$
+p_t(x) = \int p_t(x \mid x_1)\, q(x_1)\, dx_1
+$$
+
+시각 1에서 이 분포는 학습 이미지마다 그 이미지를 평균으로 하는 좁은 정규분포를 하나씩 두고 섞은 분포이므로 데이터 분포와 거의 같습니다. 이 전체 경로를 **주변 확률 경로(marginal probability path)** 라고 부릅니다.
+
+벡터장도 같은 방식으로 합칩니다.
+
+$$
+u_t(x) = \int u_t(x \mid x_1)\, \frac{p_t(x \mid x_1)\, q(x_1)}{p_t(x)}\, dx_1
+$$
+
+분수 부분은 "시각 $t$에 위치 $x$에 있는 점이 학습 이미지 $x_1$의 경로에서 왔을 확률"입니다. 위치 $x$에서의 전체 속도는 각 학습 이미지가 요구하는 속도를 이 확률로 가중 평균한 값입니다.
+
+**정리 1** 은 이렇게 합친 주변 벡터장 $u_t$가 실제로 주변 확률 경로 $p_t$를 생성한다는 내용입니다. 증명은 확률 경로와 벡터장이 만족해야 하는 연속 방정식(continuity equation)에 두 식을 대입해 확인합니다.
+
+구체적인 예로, 1차원 데이터에 학습 점이 $x_1 = -2$와 $x_1 = +2$ 두 개뿐이라고 하겠습니다. 뒤의 5장에서 소개할 최적 수송 경로를 쓰고 $\sigma_{\min}$을 0으로 두면, 조건부 벡터장은 $u_t(x \mid x_1) = (x_1 - x)/(1 - t)$입니다. 시각 $t = 0.5$, 위치 $x = 0$에서 계산하면 다음과 같습니다.
+
+| 학습 점 $x_1$ | 조건부 속도 $u_{0.5}(0 \mid x_1)$ | 위치 0이 이 경로에 속할 가중치 |
+|--------------|-------------------------------|--------------------------|
+| $-2$ | $(-2 - 0)/0.5 = -4$ | 0.5 |
+| $+2$ | $(+2 - 0)/0.5 = +4$ | 0.5 |
+| 주변 속도 $u_{0.5}(0)$ | $0.5 \times (-4) + 0.5 \times (+4) = 0$ | — |
+
+*두 학습 점과 계산 결과는 설명을 위한 임의의 예시 값입니다. 두 조건부 경로가 0을 기준으로 대칭이라 가중치가 같습니다.*
+
+위치 0에 있는 점은 두 학습 점 중 어느 쪽 경로에서 왔는지 알 수 없으므로 전체 속도는 0입니다. 개별 학습 점의 속도와 주변 속도가 다를 수 있다는 점이 다음 절의 핵심입니다.
+
+### CFM 목적 함수와 기울기의 일치
+
+주변 벡터장은 모든 학습 데이터에 대한 적분이라 여전히 계산할 수 없습니다. 저자들은 대신 조건부 벡터장에 바로 회귀하는 **Conditional Flow Matching(CFM)** 목적 함수를 제안합니다.
+
+$$
+\mathcal{L}_{\text{CFM}}(\theta) = \mathbb{E}_{t,\, q(x_1),\, p_t(x \mid x_1)} \big\| v_t(x) - u_t(x \mid x_1) \big\|^2
+$$
+
+학습 한 걸음은 다음 순서로 진행됩니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "data", "label": "학습 이미지 x₁ 추출", "sub": "q(x₁)", "row": 0},
+    {"id": "time", "label": "시각 t 추출", "sub": "0~1 균등", "row": 0},
+    {"id": "noise","label": "잡음 x₀ 추출", "sub": "N(0, I)", "row": 0},
+    {"id": "xt",   "label": "중간 점 x 계산", "sub": "x = ψ_t(x₀), 식으로 바로", "color": "blue", "row": 1},
+    {"id": "tgt",  "label": "정답 속도 계산", "sub": "u_t(x | x₁), 식으로 바로", "color": "blue", "row": 1},
+    {"id": "net",  "label": "신경망 출력 v_t(x; θ)", "color": "orange", "row": 2},
+    {"id": "loss", "label": "제곱 오차 → 역전파", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "data",  "to": "xt"},
+    {"from": "time",  "to": "xt"},
+    {"from": "noise", "to": "xt"},
+    {"from": "data",  "to": "tgt"},
+    {"from": "xt",    "to": "net"},
+    {"from": "tgt",   "to": "loss"},
+    {"from": "net",   "to": "loss"}
+  ],
+  "height": 420
+}
+```
+
+모든 계산이 식 한 줄이고, 상미분방정식을 풀지 않습니다.
+
+**정리 2** 는 이 CFM 손실이 원래의 FM 손실과 $\theta$에 무관한 상수만큼만 다르고, 따라서 두 손실의 기울기가 같다는 내용입니다. 기대값으로 보면 CFM을 최소화하는 것이 FM을 최소화하는 것과 같습니다.
+
+앞의 두 점 예시로 보면 이유가 드러납니다. 학습 중에 위치 0, 시각 0.5라는 같은 입력에 대해 어떤 걸음에서는 정답이 $-4$로, 어떤 걸음에서는 $+4$로 주어집니다. 같은 입력에 서로 다른 정답이 섞여 있을 때 제곱 오차를 최소화하는 출력은 정답들의 평균, 곧 0입니다. 신경망은 개별 학습 이미지로 가는 속도를 외우지 않고, 저절로 주변 속도를 학습합니다. "조건부 벡터장에 회귀하면 모델이 학습 이미지 하나만 복원하게 되지 않는가"라는 의문에 대한 답이 이것입니다.
+
+---
+
+## 5. 가우시안 조건부 경로
+
+### 평균과 표준편차로 정하는 경로
+
+CFM은 어떤 조건부 경로와도 함께 쓸 수 있습니다. 저자들은 그중 다루기 쉬운 가우시안 경로를 씁니다.
+
+$$
+p_t(x \mid x_1) = \mathcal{N}\big(x \mid \mu_t(x_1),\, \sigma_t(x_1)^2 I\big)
+$$
+
+$\mu_t(x_1)$은 시각에 따라 바뀌는 평균, $\sigma_t(x_1)$은 시각에 따라 바뀌는 표준편차 숫자 하나입니다. 경계 조건은 다음과 같습니다.
+
+| 시각 | 평균 $\mu_t(x_1)$ | 표준편차 $\sigma_t(x_1)$ | 분포 |
+|------|----------------|---------------------|------|
+| $t = 0$ | $0$ | $1$ | 모든 $x_1$에 대해 같은 표준 정규분포 |
+| $t = 1$ | $x_1$ | $\sigma_{\min}$ | $x_1$ 주변에 좁게 몰린 정규분포 |
+
+$\sigma_{\min}$은 충분히 작은 값으로 둡니다.
+
+같은 확률 경로를 생성하는 벡터장은 무수히 많습니다. 예를 들어 회전해도 모양이 같은 분포라면 점들을 제자리에서 빙빙 돌리는 성분을 더해도 분포는 변하지 않습니다. 이런 성분은 분포에 아무 영향 없이 계산만 늘리므로, 저자들은 가장 단순한 흐름을 고릅니다.
+
+$$
+\psi_t(x) = \sigma_t(x_1)\, x + \mu_t(x_1)
+$$
+
+표준 정규분포에서 뽑은 $x$에 표준편차를 곱하고 평균을 더하는 변환입니다. 결과는 평균 $\mu_t(x_1)$, 표준편차 $\sigma_t(x_1)$인 정규분포를 따릅니다. 학습에서 중간 점을 만들 때 이 식에 잡음 $x_0$를 넣으면 됩니다.
+
+**정리 3** 은 이 흐름을 만드는 조건부 벡터장이 하나로 정해지고, 그 식이 다음과 같다는 내용입니다. $f'$는 시각에 대한 미분입니다.
+
+$$
+u_t(x \mid x_1) = \frac{\sigma_t'(x_1)}{\sigma_t(x_1)}\big(x - \mu_t(x_1)\big) + \mu_t'(x_1)
+$$
+
+첫째 항은 표준편차가 줄어드는 만큼 점을 평균 쪽으로 당기는 속도이고, 둘째 항은 평균 자체가 움직이는 속도입니다. 이 식에 넣으면 CFM 손실은 다음처럼 잡음 $x_0$만으로 적을 수 있습니다.
+
+$$
+\mathcal{L}_{\text{CFM}}(\theta) = \mathbb{E}_{t,\, q(x_1),\, p(x_0)} \Big\| v_t\big(\psi_t(x_0)\big) - \frac{d}{dt}\psi_t(x_0) \Big\|^2
+$$
+
+$\mu_t$와 $\sigma_t$를 무엇으로 고르느냐에 따라 경로가 달라집니다. 논문은 두 가지 경우를 보입니다.
+
+### 확산 경로
+
+확산 모델의 경로도 이 가우시안 경로의 한 경우입니다. 논문은 시간 방향을 뒤집어 잡음이 $t = 0$, 데이터가 $t = 1$이 되도록 적습니다.
+
+**분산 폭발(Variance Exploding, VE)** 경로는 평균을 데이터 점에 고정하고 표준편차만 큰 값에서 0으로 줄입니다.
+
+$$
+p_t(x) = \mathcal{N}(x \mid x_1,\, \sigma_{1-t}^2 I), \qquad u_t(x \mid x_1) = -\frac{\sigma_{1-t}'}{\sigma_{1-t}}(x - x_1)
+$$
+
+여기서 $\sigma_t$는 $\sigma_0 = 0$에서 출발해 증가하는 함수이고 $\sigma_1 \gg 1$입니다.
+
+**분산 보존(Variance Preserving, VP)** 경로는 평균을 0에서 데이터 점 쪽으로, 표준편차를 1에서 0 쪽으로 함께 바꿉니다.
+
+$$
+p_t(x \mid x_1) = \mathcal{N}\big(x \mid \alpha_{1-t}\, x_1,\, (1 - \alpha_{1-t}^2) I\big), \qquad \alpha_t = e^{-\frac{1}{2}T(t)},\quad T(t) = \int_0^t \beta(s)\, ds
+$$
+
+$\beta$는 잡음 크기 일정(noise schedule) 함수입니다. 정리 3에 넣은 VP 경로의 조건부 벡터장은 논문 식 19이고, 부록 D는 이 벡터장이 Song et al. (2020b)의 확률 흐름 상미분방정식에 쓰인 벡터장과 같다는 것을 유도합니다. 부록 E의 기준선 실험에서는 $\beta(s) = \beta_{\min} + s(\beta_{\max} - \beta_{\min})$, $\beta_{\min} = 0.1$, $\beta_{\max} = 20$을 씁니다.
+
+확산 경로로 학습하더라도 기존의 점수 정합(score matching) 대신 Flow Matching 목적 함수를 쓸 수 있고, 저자들의 실험에서는 이쪽이 더 안정적이었습니다. 확산 경로에는 한계도 하나 남습니다. 확산 과정의 해로 유도한 경로라서 유한한 시간 안에 정확한 표준 정규분포에 도달하지 않고, 실제로는 $p_0$를 적당한 정규분포로 근사해 씁니다. 가우시안 경로를 직접 정하면 이런 근사 없이 $\mu_t$와 $\sigma_t$를 원하는 대로 둘 수 있습니다.
+
+### 최적 수송 경로
+
+저자들이 더 자연스러운 선택으로 제안하는 경로는 평균과 표준편차를 시간에 따라 **직선으로** 바꾸는 것입니다.
+
+$$
+\mu_t(x) = t\, x_1, \qquad \sigma_t(x) = 1 - (1 - \sigma_{\min})\, t
+$$
+
+정리 3에 넣으면 조건부 벡터장과 조건부 흐름은 다음과 같습니다.
+
+$$
+u_t(x \mid x_1) = \frac{x_1 - (1 - \sigma_{\min})\, x}{1 - (1 - \sigma_{\min})\, t}, \qquad \psi_t(x) = \big(1 - (1 - \sigma_{\min})\, t\big)\, x + t\, x_1
+$$
+
+흐름 $\psi_t(x_0)$는 잡음 점 $x_0$와 데이터 점 $x_1$을 잇는 선분 위를 움직입니다. 시각에 대해 미분하면 $x_1 - (1 - \sigma_{\min})\, x_0$로 시각과 무관한 값이므로, CFM 손실은 더 간단해집니다.
+
+$$
+\mathcal{L}_{\text{CFM}}(\theta) = \mathbb{E}_{t,\, q(x_1),\, p(x_0)} \Big\| v_t\big(\psi_t(x_0)\big) - \big(x_1 - (1 - \sigma_{\min})\, x_0\big) \Big\|^2
+$$
+
+정답 속도가 "데이터 점에서 (거의) 잡음 점을 뺀 값"이라는 뜻입니다. 1차원에서 $\sigma_{\min} = 0$, 잡음 점 $x_0 = -1$, 데이터 점 $x_1 = 3$으로 두고 간격 0.25의 오일러 방법으로 따라가면 다음과 같습니다.
+
+| 시각 $t$ | 위치 $x$ | 속도 $u_t = (3 - x)/(1 - t)$ | 다음 위치 |
+|---------|---------|-------------------------|---------|
+| 0.00 | $-1$ | 4 | 0 |
+| 0.25 | 0 | 4 | 1 |
+| 0.50 | 1 | 4 | 2 |
+| 0.75 | 2 | 4 | 3 |
+| 1.00 | 3 | — | — |
+
+*$\sigma_{\min}$, $x_0$, $x_1$은 계산 과정을 보여 주기 위한 임의의 예시 값입니다.*
+
+점은 매 걸음 같은 속도 4로 직선을 따라 움직이고, 오일러 방법 네 걸음이 정확히 데이터 점에 도착합니다. 경로가 곧으면 큰 간격으로 풀어도 오차가 작다는 것이 뒤의 표본 효율 실험과 이어집니다.
+
+이 선택이 "최적 수송"이라고 불리는 이유는 다음과 같습니다. 조건부 흐름 $\psi_t$는 두 정규분포 $p_0(x \mid x_1)$과 $p_1(x \mid x_1)$ 사이의 최적 수송 변위 사상과 같습니다. 최적 수송은 한 분포의 질량을 다른 분포로 옮길 때 옮기는 거리의 제곱 합이 가장 작은 방법이고, 그 중간 경로인 변위 보간(McCann, 1997)에서는 각 점이 일정한 속도로 직선을 따라 움직입니다. 첫 번째 분포가 표준 정규분포인 두 정규분포 사이에서는 이 변위 사상이 위의 $\psi_t$ 식이 됩니다.
+
+다만 이 최적성은 데이터 점 하나에 대한 조건부 흐름의 성질입니다. 저자들은 조건부 흐름을 합친 주변 벡터장이 최적 수송 해가 된다는 뜻은 아니라고 명시하고, 그래도 주변 벡터장이 비교적 단순하게 남을 것으로 기대한다고 적습니다. 앞의 두 점 예시에서도 위치 0의 주변 속도는 0이었고, 이는 두 조건부 경로 어느 쪽의 직선 속도와도 다릅니다.
+
+### 확산 경로와 최적 수송 경로의 비교
+
+![그림 2 — 조건부 점수 함수와 조건부 벡터장 색 막대](https://arxiv.org/html/2210.02747v2/figures/plots/2d_vf_reference.png)
+
+![그림 2(a) t=0.0](https://arxiv.org/html/2210.02747v2/2d_vf_score_dif_0.svg)
+![그림 2(a) t=1/3](https://arxiv.org/html/2210.02747v2/2d_vf_score_dif_1.svg)
+![그림 2(a) t=2/3](https://arxiv.org/html/2210.02747v2/2d_vf_score_dif_2.svg)
+![그림 2(a) t=1.0](https://arxiv.org/html/2210.02747v2/2d_vf_score_dif_3.svg)
+
+*그림 2(a) — 확산 경로의 조건부 점수 함수를 t = 0, 1/3, 2/3, 1에서 그린 것입니다.*
+
+![그림 2(b) t=0.0](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_ot_0.svg)
+![그림 2(b) t=1/3](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_ot_1.svg)
+![그림 2(b) t=2/3](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_ot_2.svg)
+![그림 2(b) t=1.0](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_ot_3.svg)
+
+*그림 2(b) — 최적 수송 경로의 조건부 벡터장입니다. 파란색은 크기가 큰 곳, 빨간색은 작은 곳입니다.*
+
+위 그림은 출발 분포와 도착 분포가 같은 두 경로에서, 신경망이 회귀해야 하는 목표를 시각별로 보여줍니다. 확산 모델이 보통 회귀하는 조건부 점수 함수 $\nabla \log p_t(x \mid x_1)$는 시각에 따라 크기와 모양이 크게 바뀝니다. 최적 수송 경로의 조건부 벡터장은 방향이 시각과 무관하게 일정합니다. 식으로도 $u_t(x \mid x_1) = g(t)\, h(x \mid x_1)$처럼 시각 함수와 위치 함수의 곱으로 나뉩니다. 저자들은 이 성질 때문에 신경망이 맞춰야 할 회귀 문제가 더 단순해진다고 봅니다.
+
+![그림 8 t=0.0](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_dif_0.svg)
+![그림 8 t=1/3](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_dif_1.svg)
+![그림 8 t=2/3](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_dif_2.svg)
+![그림 8 t=1.0](https://arxiv.org/html/2210.02747v2/2d_vf_flow_match_dif_3.svg)
+
+*그림 8(부록) — VP 확산 경로의 조건부 벡터장입니다. 그림 2와 비교하는 용도입니다.*
+
+![그림 3(a) — 확산 경로 궤적](https://arxiv.org/html/2210.02747v2/figures/2d_traj/2d_traj_diff.png)
+![그림 3(b) — 최적 수송 경로 궤적](https://arxiv.org/html/2210.02747v2/figures/2d_traj/2d_traj_ot.png)
+
+*그림 3 — 확산 조건부 벡터장(a)과 최적 수송 조건부 벡터장(b)으로 표본을 만들 때의 궤적입니다.*
+
+확산 경로의 궤적은 곡선을 그리고, 최종 표본을 지나쳤다가 되돌아오기도 합니다. 최적 수송 경로의 궤적은 항상 직선입니다.
+
+---
+
+## 6. 2차원 체커보드 실험
+
+이미지 실험에 앞서 저자들은 체커보드 무늬로 분포한 2차원 점 데이터를 학습합니다. 모델은 은닉 뉴런 512개짜리 층 5개로 이루어진 다층 퍼셉트론입니다.
+
+![그림 4 왼쪽(a) — 점수 정합·확산 경로](https://arxiv.org/html/2210.02747v2/figures/2d_checker/2d_checkerboard_score_dif.png)
+![그림 4 왼쪽(b) — Flow Matching·확산 경로](https://arxiv.org/html/2210.02747v2/figures/2d_checker/2d_checkerboard_flow_match_dif.png)
+![그림 4 왼쪽(c) — Flow Matching·최적 수송 경로](https://arxiv.org/html/2210.02747v2/figures/2d_checker/2d_checkerboard_flow_match_ot.png)
+
+*그림 4 왼쪽 — (a) 점수 정합·확산 경로, (b) Flow Matching·확산 경로, (c) Flow Matching·최적 수송 경로로 학습한 CNF의 궤적입니다.*
+
+![그림 4 오른쪽 — 점수 정합 NFE 4](https://arxiv.org/html/2210.02747v2/figures/2d_ode/score_dif_ss_0_5.png)
+![그림 4 오른쪽 — 점수 정합 NFE 8](https://arxiv.org/html/2210.02747v2/figures/2d_ode/score_dif_ss_0_25.png)
+![그림 4 오른쪽 — 점수 정합 NFE 10](https://arxiv.org/html/2210.02747v2/figures/2d_ode/score_dif_ss_0_2.png)
+![그림 4 오른쪽 — 점수 정합 NFE 20](https://arxiv.org/html/2210.02747v2/figures/2d_ode/score_dif_ss_0_1.png)
+
+![그림 4 오른쪽 — Flow Matching·확산 NFE 4](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_dif_ss_0_5.png)
+![그림 4 오른쪽 — Flow Matching·확산 NFE 8](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_dif_ss_0_25.png)
+![그림 4 오른쪽 — Flow Matching·확산 NFE 10](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_dif_ss_0_2.png)
+![그림 4 오른쪽 — Flow Matching·확산 NFE 20](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_dif_ss_0_1.png)
+
+![그림 4 오른쪽 — Flow Matching·최적 수송 NFE 4](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_ot_ss_0_5.png)
+![그림 4 오른쪽 — Flow Matching·최적 수송 NFE 8](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_ot_ss_0_25.png)
+![그림 4 오른쪽 — Flow Matching·최적 수송 NFE 10](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_ot_ss_0_2.png)
+![그림 4 오른쪽 — Flow Matching·최적 수송 NFE 20](https://arxiv.org/html/2210.02747v2/figures/2d_ode/flow_match_ot_ss_0_1.png)
+
+*그림 4 오른쪽 — 세 모델을 중점 방법으로 NFE 4, 8, 10, 20에 풀어 만든 표본입니다. 묶음 순서는 점수 정합·확산, Flow Matching·확산, Flow Matching·최적 수송입니다.*
+
+그림 4 왼쪽은 시각에 따라 점들이 체커보드 무늬를 만들어 가는 과정입니다. 최적 수송 경로는 체커보드 무늬가 훨씬 이른 시각에 나타나고, Flow Matching 두 모델은 점수 정합보다 학습이 안정적이었습니다. 그림 4 오른쪽은 적은 NFE로 풀었을 때의 결과로, 최적 수송 경로 모델이 가장 적은 계산으로 무늬를 복원합니다.
+
+![그림 9(a) — ScoreFlow 손실](https://arxiv.org/html/2210.02747v2/figures/2d_checker/2d_checkerboard_scoreflow_dif.png)
+![그림 9(b) — DDPM 손실](https://arxiv.org/html/2210.02747v2/figures/2d_checker/2d_checkerboard_noise_dif.png)
+
+*그림 9(부록) — 그림 4와 같은 학습률·조절값으로 ScoreFlow 손실(a)과 DDPM 손실(b)을 써 학습한 CNF의 궤적입니다.*
+
+---
+
+## 7. 이미지 생성 실험
+
+### 실험 설정
+
+데이터셋은 CIFAR-10과 해상도 32, 64, 128의 ImageNet입니다. 모든 방법은 Dhariwal & Nichol (2021)의 U-Net 구조를 거의 그대로 쓰고, 같은 구조·같은 조절값·같은 학습 세대 수로 학습합니다. 기준선에는 수렴을 위해 더 많은 반복을 허용했습니다. 모두 조건 없는(unconditional) 생성 모델입니다.
+
+비교한 학습 방법은 다섯 가지입니다.
+
+| 방법 | 경로 | 신경망이 회귀하는 목표 |
+|------|-----|-------------------|
+| DDPM (Ho et al., 2020) | VP 확산 | 더해진 잡음 |
+| Score Matching (Song et al., 2020b) | VP 확산 | 점수 함수, 가중치 $\lambda(t) = \sigma_t^2$ |
+| ScoreFlow (Song et al., 2021) | VP 확산 | 점수 함수, 음의 로그 가능도 상한에서 온 가중치 $\lambda(t) = \beta(1 - t)$ |
+| FM w/ Diffusion (이 논문) | VP 확산 | 조건부 벡터장 |
+| FM w/ OT (이 논문) | 최적 수송 | 조건부 벡터장 |
+
+확산 기준선도 표본은 같은 상미분방정식 풀이기로 만듭니다. 점수 정합 모델은 학습한 점수 함수를 부록 식 46의 벡터장으로 바꿔 풀고, DDPM 모델은 잡음 예측값을 점수로 바꾼 뒤 같은 식으로 풉니다. 따라서 아래 표의 DDPM NFE는 DDPM 논문의 원래 표본 생성 절차가 아니라, DDPM 손실로 학습한 모델을 상미분방정식으로 풀었을 때의 값입니다.
+
+평가는 따로 적지 않은 한 dopri5 풀이기를 절대·상대 허용 오차 1e-5로 써서 합니다.
+
+| 조절값 | CIFAR10 | ImageNet-32 | ImageNet-64 | ImageNet-128 |
+|--------|---------|-------------|-------------|--------------|
+| 채널 수 | 256 | 256 | 192 | 256 |
+| 깊이 | 2 | 3 | 3 | 3 |
+| 채널 배수 | 1,2,2,2 | 1,2,2,2 | 1,2,3,4 | 1,1,2,3,4 |
+| 헤드 수 | 4 | 4 | 4 | 4 |
+| 헤드 채널 | 64 | 64 | 64 | 64 |
+| 주의 해상도 | 16 | 16,8 | 32,16,8 | 32,16,8 |
+| 드롭아웃 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 유효 배치 크기 | 256 | 1024 | 2048 | 1536 |
+| GPU 수 | 2 | 4 | 16 | 32 |
+| 세대 수 | 1000 | 200 | 250 | 571 |
+| 반복 수 | 391k | 250k | 157k | 500k |
+| 학습률 | 5e-4 | 1e-4 | 1e-4 | 1e-4 |
+| 학습률 일정 | 다항 감소 | 다항 감소 | 상수 | 다항 감소 |
+| 워밍업 걸음 | 45k | 20k | - | 20k |
+
+*표 3(부록) — 각 모델의 학습 조절값입니다.*
+
+CIFAR10과 ImageNet-32는 32비트 정밀도로, ImageNet-64/128/256은 16비트 혼합 정밀도로 학습했습니다. 최적화기는 Adam($\beta_1 = 0.9$, $\beta_2 = 0.999$, 가중치 감쇠 0.0, $\epsilon = 10^{-8}$)입니다. 다항 감소 일정은 워밍업 동안 학습률을 1e-8에서 최대값까지 선형으로 올린 뒤 마지막 걸음까지 1e-8로 선형으로 내립니다.
+
+CIFAR10 열은 세대 수와 반복 수가 서로 맞지 않습니다. 학습 이미지 50,000장을 배치 256으로 1000세대 돌리면 약 195k번 반복이지만 표에는 391k로 적혀 있어, 두 값 중 어느 쪽이 실제 설정인지 논문만으로는 알 수 없습니다.
+
+### 평가 지표
+
+세 지표를 씁니다.
+
+- **음의 로그 가능도(negative log-likelihood, NLL)** — 모델이 시험 이미지에 매기는 확률이 얼마나 높은지를 **차원당 비트(bits per dimension, BPD)** 로 적은 값입니다. 픽셀 값 0~255를 아무 정보 없이 균등하게 맞히려면 값 하나에 $\log_2 256 = 8$비트가 필요합니다. BPD 3.53이라면 모델이 픽셀 값 하나를 평균 3.53비트로 표현한다는 뜻이고, 낮을수록 좋습니다. CNF는 부록 C의 방법으로 상미분방정식을 거꾸로 풀어 이 확률을 정확히 계산할 수 있습니다.
+- **FID(Fréchet Inception Distance)** — 생성 이미지 묶음과 실제 이미지 묶음을 사전학습된 Inception 신경망에 넣어 뽑은 특징의 통계가 얼마나 다른지를 잰 값입니다. 낮을수록 실제 이미지와 비슷합니다.
+- **NFE** — 적응형 풀이기가 정한 허용 오차에 도달할 때까지 벡터장을 계산한 횟수를 표본 50k개에 대해 평균한 값입니다. 낮을수록 표본을 빨리 만듭니다.
+
+### 우도와 표본 품질
+
+| 모델 | CIFAR-10 NLL↓ | FID↓ | NFE↓ | ImageNet 32 NLL↓ | FID↓ | NFE↓ | ImageNet 64 NLL↓ | FID↓ | NFE↓ |
+|------|------|------|------|------|------|------|------|------|------|
+| DDPM | 3.12 | 7.48 | 274 | 3.54 | 6.99 | 262 | 3.32 | 17.36 | 264 |
+| Score Matching | 3.16 | 19.94 | 242 | 3.56 | 5.68 | 178 | 3.40 | 19.74 | 441 |
+| ScoreFlow | 3.09 | 20.78 | 428 | 3.55 | 14.14 | 195 | 3.36 | 24.95 | 601 |
+| FM w/ Diffusion | 3.10 | 8.06 | 183 | 3.54 | 6.37 | 193 | 3.33 | 16.88 | 187 |
+| **FM w/ OT** | **2.99** | **6.35** | **142** | **3.53** | **5.02** | **122** | **3.31** | **14.45** | **138** |
+
+*표 1 왼쪽 — 같은 모델을 방법만 바꿔 학습했을 때의 우도(BPD), 표본 품질(FID), 평가 시간(NFE)입니다.*
+
+세 데이터셋과 세 지표 모두에서 FM w/ OT가 가장 좋습니다. 같은 확산 경로를 쓰는 FM w/ Diffusion도 CIFAR-10과 ImageNet 64에서는 점수 정합 두 방법보다 NFE가 낮습니다. 저자들은 CIFAR-10의 FID가 이전 연구들보다 높게 나온 이유를, 이 구조가 CIFAR-10에 맞춰 최적화되지 않았기 때문일 수 있다고 적습니다.
+
+| 모델 | ImageNet 128×128 NLL↓ | FID↓ |
+|------|------|------|
+| MGAN (Hoang et al., 2018) | – | 58.9 |
+| PacGAN2 (Lin et al., 2018) | – | 57.5 |
+| Logo-GAN-AE (Sage et al., 2018) | – | 50.9 |
+| Self-cond. GAN (Lučić et al., 2019) | – | 41.7 |
+| Uncond. BigGAN (Lučić et al., 2019) | – | 25.3 |
+| PGMGAN (Armandpour et al., 2021) | – | 21.7 |
+| **FM w/ OT** | **2.90** | **20.9** |
+
+*표 1 오른쪽 — ImageNet 128×128 조건 없는 생성 결과입니다.*
+
+ImageNet 128×128에서 FM w/ OT의 FID 20.9는 조건 없는 생성 모델 가운데 최고 기록입니다. 자기지도 학습 ResNet50 특징으로 조건을 주는 IC-GAN은 조건 설정이 달라 표에서 뺐다고 밝힙니다.
+
+### 학습 속도
+
+![그림 5 — ImageNet-64 학습 중 FID](https://arxiv.org/html/2210.02747v2/fid_vs_epoch_imagenet64.svg)
+
+*그림 5 — ImageNet 64×64 학습 중 세대에 따른 FID 변화입니다.*
+
+기존 확산 모델은 매우 긴 학습을 씁니다. ScoreFlow는 1.3m번, VDM은 10m번 반복을 보고했습니다. 그림 5에서 FM w/ OT는 다른 방법보다 FID를 더 빨리, 더 낮게 내립니다.
+
+ImageNet-128에서 Dhariwal & Nichol (2021)은 배치 256으로 4.36m번 반복했습니다. Flow Matching은 25% 더 큰 모델로 배치 1.5k, 500k번 반복했고, 학습에 넣은 이미지 수는 33% 적습니다. $4.36\text{m} \times 256 \approx 1116\text{m}$장과 $500\text{k} \times 1.5\text{k} = 750\text{m}$장을 비교한 값입니다.
+
+![그림 10 — CIFAR-10 학습 중 표본 생성 NFE](https://arxiv.org/html/2210.02747v2/nfe_vs_epochs_cifar.svg)
+
+*그림 10(부록) — CIFAR-10 학습 중 dopri5(허용 오차 1e-5)로 표본을 만들 때 필요한 NFE의 변화입니다.*
+
+점수 정합으로 학습하면 표본 생성 비용이 학습 도중에 크게 바뀌지만, Flow Matching으로 학습하면 거의 일정하게 유지됩니다.
+
+---
+
+## 8. 표본 생성 효율
+
+표본은 표준 정규분포에서 잡음 $x_0$를 뽑고, 학습한 벡터장으로 상미분방정식을 $t = 0$부터 $t = 1$까지 풀어 $\phi_1(x_0)$를 구해 만듭니다. 확산 모델은 확률미분방정식(SDE)으로도 표본을 만들 수 있지만 매우 비효율적일 수 있고, 빠른 표본 생성 기법 상당수가 상미분방정식 관점을 씁니다. 같은 계산 비용에서 상미분방정식 풀이기의 오차가 더 작고, 풀이기의 종류도 많기 때문입니다.
+
+### 표본 경로
+
+![그림 6(a) — Score Matching w/ Diffusion](https://arxiv.org/html/2210.02747v2/figures/imagenet64/imagenet64_sm_difv2.png)
+
+![그림 6(b) — Flow Matching w/ Diffusion](https://arxiv.org/html/2210.02747v2/figures/imagenet64/imagenet64_fm_difv2.png)
+
+![그림 6(c) — Flow Matching w/ OT](https://arxiv.org/html/2210.02747v2/figures/imagenet64/imagenet64_fm_otv2.png)
+
+*그림 6 — ImageNet 64×64로 학습한 세 모델에 같은 잡음을 넣고 풀어 가는 중간 과정입니다. (a) 점수 정합·확산, (b) Flow Matching·확산, (c) Flow Matching·최적 수송입니다.*
+
+같은 난수 시드에서 출발해도 최적 수송 경로 모델은 잡음을 거의 일정한 비율로 줄여 이른 시각부터 이미지 윤곽이 나타납니다. 확산 경로 모델은 마지막 시각 직전까지 잡음이 이미지를 덮고 있다가 끝에서 한꺼번에 사라집니다. 세 모델이 최종적으로 만든 이미지 자체도 서로 다릅니다.
+
+### 적은 NFE에서의 오차와 품질
+
+이번에는 고정 간격 풀이기로 NFE 100 이하에서 표본을 만들어, 표 1의 ImageNet-32 모델들을 비교합니다.
+
+![그림 7(a) — NFE에 따른 상미분방정식 해의 오차](https://arxiv.org/html/2210.02747v2/error_vs_nfe.svg)
+![그림 7(b) — FM w/ OT의 NFE별 FID](https://arxiv.org/html/2210.02747v2/fid_vs_nfe_imagenet32_fm_ot.svg)
+![그림 7(c) — FM w/ Diffusion의 NFE별 FID](https://arxiv.org/html/2210.02747v2/fid_vs_nfe_imagenet32_fm_dif.svg)
+![그림 7(d) — Score Matching w/ Diffusion의 NFE별 FID](https://arxiv.org/html/2210.02747v2/fid_vs_nfe_imagenet32_sm_dif.svg)
+
+*그림 7 — ImageNet 32×32 모델에서 NFE에 따른 수치 오차(a, 중점 방법)와 세 모델의 FID(b~d)입니다.*
+
+그림 7(a)는 256개 잡음 시드에 대해, 적은 NFE로 구한 해와 NFE 1000으로 구한 해의 픽셀당 평균제곱오차를 비교합니다. FM w/ OT는 같은 오차에 도달하는 데 확산 모델 NFE의 약 60%만 필요합니다. 그림 7(b)~(d)에서도 FM w/ OT는 NFE가 아주 적을 때 이미 괜찮은 FID를 내어, 품질과 계산 비용의 균형이 가장 좋습니다.
+
+![그림 17 첫째 행 NFE 10](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_17_05.png)
+![그림 17 첫째 행 NFE 20](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_17_10.png)
+![그림 17 첫째 행 NFE 40](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_17_20.png)
+![그림 17 첫째 행 NFE 100](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_17_50.png)
+
+![그림 17 둘째 행 NFE 10](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_46_05.png)
+![그림 17 둘째 행 NFE 20](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_46_10.png)
+![그림 17 둘째 행 NFE 40](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_46_20.png)
+![그림 17 둘째 행 NFE 100](https://arxiv.org/html/2210.02747v2/figures/imagenet128/solver_samples/imagenet128_fm_ot_46_50.png)
+
+*그림 17(부록, 일부) — ImageNet-128로 학습한 FM w/ OT에 같은 잡음을 넣고 NFE 10, 20, 40, 100으로 만든 표본입니다. 원 그림의 여러 행 가운데 두 행을 실었습니다.*
+
+![그림 18 NFE 10](https://arxiv.org/html/2210.02747v2/figures/imagenet256/solver_samples/imagenet256_fm_ot_08_05.png)
+![그림 18 NFE 20](https://arxiv.org/html/2210.02747v2/figures/imagenet256/solver_samples/imagenet256_fm_ot_08_10.png)
+![그림 18 NFE 40](https://arxiv.org/html/2210.02747v2/figures/imagenet256/solver_samples/imagenet256_fm_ot_08_20.png)
+![그림 18 NFE 60](https://arxiv.org/html/2210.02747v2/figures/imagenet256/solver_samples/imagenet256_fm_ot_08_30.png)
+![그림 18 NFE 100](https://arxiv.org/html/2210.02747v2/figures/imagenet256/solver_samples/imagenet256_fm_ot_08_50.png)
+
+*그림 18(부록, 일부) — ImageNet 256×256으로 학습한 FM w/ OT에 같은 잡음을 넣고 NFE 10, 20, 40, 60, 100으로 만든 표본입니다. 원 그림의 여러 행 가운데 한 행을 실었습니다.*
+
+NFE 10에서도 이미지의 구도와 물체가 이미 정해져 있고, NFE를 늘리면 세부가 선명해집니다.
+
+---
+
+## 9. 저해상도 이미지를 조건으로 한 생성
+
+Flow Matching은 조건부 생성에도 쓸 수 있습니다. 64×64 이미지를 조건으로 받아 256×256 이미지를 만드는 **초해상도(super-resolution)** 실험을 SR3(Saharia et al., 2022)의 평가 절차대로 진행했습니다.
+
+| 모델 | FID↓ | IS↑ | PSNR↑ | SSIM↑ |
+|------|------|-----|-------|-------|
+| 원본 이미지 (Reference) | 1.9 | 240.8 | – | – |
+| 회귀 (Regression) | 15.2 | 121.1 | 27.9 | 0.801 |
+| SR3 (Saharia et al., 2022) | 5.2 | 180.1 | 26.4 | 0.762 |
+| **FM w/ OT** | **3.4** | **200.8** | 24.7 | 0.747 |
+
+*표 2 — ImageNet 검증 세트의 초해상도 결과입니다.*
+
+원본 이미지 행은 검증 세트 원본 이미지로 잰 FID이고, 회귀 행은 논문이 기준선으로 둔 회귀 모델입니다. FM w/ OT는 PSNR과 SSIM이 SR3와 비슷하면서 FID와 IS를 크게 개선했습니다. PSNR과 SSIM은 픽셀 값이 원본과 얼마나 같은지를 재는 지표이고, SR3 논문은 생성 품질을 판단하기에는 FID와 IS가 더 적합하다고 주장합니다.
+
+![그림 14 — 초해상도 예시 1](https://arxiv.org/html/2210.02747v2/figures/upsampled/upsample_8.png)
+![그림 14 — 초해상도 예시 2](https://arxiv.org/html/2210.02747v2/figures/upsampled/upsample_10.png)
+![그림 14 — 초해상도 예시 3](https://arxiv.org/html/2210.02747v2/figures/upsampled/upsample_11.png)
+![그림 14 — 초해상도 예시 4](https://arxiv.org/html/2210.02747v2/figures/upsampled/upsample_17.png)
+
+*그림 14(부록, 일부) — FM w/ OT로 검증 세트 이미지를 64×64에서 256×256으로 올린 결과입니다. 원 그림 12장 가운데 4장을 실었습니다.*
+
+![그림 15 — 초해상도 예시 5](https://arxiv.org/html/2210.02747v2/figures/upsampled/upsampled2/upsample_47.png)
+![그림 15 — 초해상도 예시 6](https://arxiv.org/html/2210.02747v2/figures/upsampled/upsampled2/upsample_51.png)
+
+*그림 15(부록, 일부) — 같은 설정의 추가 초해상도 결과입니다. 원 그림 12장 가운데 2장을 실었습니다.*
+
+---
+
+## 10. 부록 자료
+
+### 우도 추정의 표본 수
+
+NLL은 픽셀 값에 균등 잡음을 더하는 균등 역양자화(uniform dequantization)를 쓰고, 잡음 표본 $K$개의 중요도 가중 평균으로 추정합니다.
+
+| 모델 | CIFAR-10 K=1 | K=20 | K=50 | ImageNet 32 K=1 | K=5 | K=15 | ImageNet 64 K=1 | K=5 | K=10 |
+|------|------|------|------|------|------|------|------|------|------|
+| DDPM | 3.24 | 3.14 | 3.12 | 3.62 | 3.57 | 3.54 | 3.36 | 3.33 | 3.32 |
+| Score Matching | 3.28 | 3.18 | 3.16 | 3.65 | 3.59 | 3.57 | 3.43 | 3.41 | 3.40 |
+| ScoreFlow | 3.21 | 3.11 | 3.09 | 3.63 | 3.57 | 3.55 | 3.39 | 3.37 | 3.36 |
+| FM w/ Diffusion | 3.23 | 3.13 | 3.10 | 3.64 | 3.58 | 3.56 | 3.37 | 3.34 | 3.33 |
+| FM w/ OT | 3.11 | 3.01 | 2.99 | 3.62 | 3.56 | 3.53 | 3.35 | 3.33 | 3.31 |
+
+*표 4(부록) — 서로 다른 $K$로 추정한 시험 세트의 음의 로그 가능도(BPD)입니다.*
+
+$K$를 늘릴수록 추정값이 낮아지고, 가장 큰 $K$의 값은 표 1의 NLL과 대부분 같습니다. ImageNet 32의 두 칸만 다릅니다. Score Matching은 표 1에 3.56, 표 4의 $K = 15$에 3.57로, FM w/ Diffusion은 표 1에 3.54, 표 4에 3.56으로 적혀 있습니다. 논문만으로는 어느 값이 맞는지 알 수 없어 두 표의 값을 그대로 옮겼습니다. 어느 쪽이든 ImageNet 32에서 FM w/ OT(3.53)가 가장 낮다는 결론은 같습니다.
+
+부록 E.1은 확산 기준선의 시간 구간 끝을 "학습과 우도 계산에는 $\epsilon = 10^{-5}$, 표본 생성에는 $\epsilon = 10^{-5}$"로 적어 같은 값을 두 번 씁니다. 두 값을 달리 쓰려던 것인지는 논문에 설명이 없습니다.
+
+### 조건 없는 생성 표본
+
+![그림 11 — ImageNet-32 표본](https://arxiv.org/html/2210.02747v2/figures/imagenet32/imagenet32_samples.png)
+
+*그림 11 — FM w/ OT로 학습한 CNF가 조건 없이 생성한 ImageNet-32 표본입니다. 고르지 않고 그대로 실은 것입니다.*
+
+![그림 12 — ImageNet-64 표본](https://arxiv.org/html/2210.02747v2/figures/imagenet64/imagenet64_samples.png)
+
+*그림 12 — 같은 방식의 ImageNet-64 표본입니다.*
+
+![그림 13 — ImageNet-128 표본](https://arxiv.org/html/2210.02747v2/figures/imagenet128/imagenet128_samples_.png)
+
+*그림 13 — 같은 방식의 ImageNet-128 표본입니다.*
+
+부록 그림 번호는 15 다음이 17이고, 그림 16은 논문에 없습니다.
+
+---
+
+## 11. 결론과 향후 과제
+
+논문에는 한계 절이 따로 없습니다. 결론에서 저자들은 Flow Matching이 확산 모델을 보는 다른 관점을 준다고 정리합니다. 확률적인 확산 과정을 먼저 세우는 대신 확률 경로를 직접 정하면, 표본 생성이 빠르거나 생성 품질이 좋은 경로를 설계할 수 있다는 것입니다. 앞으로는 등방성이 아닌 가우시안이나 더 일반적인 커널처럼 다양한 확률 경로를 쓸 수 있을 것으로 봅니다.
+
+사회적 책임 절에서는 이미지 생성이 해로운 목적에 쓰일 수 있고, 내용을 관리한 학습 세트와 이미지 검증·분류가 이를 줄이는 데 도움이 된다고 적습니다. 또 큰 모델 학습의 에너지 수요가 빠르게 늘고 있어, 더 적은 기울기 갱신과 이미지 처리량으로 학습하는 방법이 시간과 에너지를 크게 줄일 수 있다고 덧붙입니다.
+
+---
+
+## 12. 정리 — VLA 선행 연구에서의 위치
+
+- **Flow Matching 목적 함수** 는 확률 경로를 생성하는 벡터장에 신경망을 회귀시켜, 상미분방정식을 풀지 않고 CNF를 학습합니다.
+- **Conditional Flow Matching** 은 데이터 점 하나 기준의 조건부 벡터장에 회귀해도 기울기가 전체 목적 함수와 같다는 정리 2 덕분에, 계산할 수 없던 주변 벡터장 없이 학습합니다.
+- **가우시안 조건부 경로** 는 평균과 표준편차 두 함수로 경로를 정하고, 확산 모델의 VE·VP 경로를 그 특수한 경우로 포함합니다.
+- **최적 수송 경로** 는 평균과 표준편차를 직선으로 바꿔 잡음 점과 데이터 점을 선분으로 잇습니다. 정답 속도가 $x_1 - (1 - \sigma_{\min})x_0$로 단순하고, 표본 궤적이 곧아 적은 NFE로 풀어도 오차가 작습니다.
+- ImageNet 실험에서 FM w/ OT는 같은 구조의 확산 기반 학습보다 NLL·FID·NFE가 모두 좋았고, ImageNet 128×128에서 조건 없는 생성 FID 20.9를 기록했습니다.
+
+### VLA와의 연결
+
+VLA 계보 5편에서 다루는 π0(arxiv 2410.24164)는 이 논문의 방법으로 로봇 행동을 생성합니다. π0 논문에 적힌 설정은 다음과 같습니다.
+
+| 항목 | 이 논문(이미지 생성) | π0(로봇 행동 생성) |
+|------|------------------|-----------------|
+| 생성 대상 $x_1$ | 이미지 한 장 | 앞으로 50걸음의 행동 묶음(action chunk) $\mathbf{A}_t$ |
+| 조건 | 없음, 또는 저해상도 이미지 | 카메라 이미지들, 언어 지시, 로봇 관절 상태 |
+| 학습 목적 함수 | Conditional Flow Matching | Conditional Flow Matching (이 논문 인용) |
+| 경로 | 최적 수송 경로 | 선형 가우시안 경로, 논문 표기로 $\mathcal{N}(\tau \mathbf{A}_t, (1 - \tau)\mathbf{I})$ |
+| 정답 속도 | $x_1 - (1 - \sigma_{\min})x_0$ | $\mathbf{A}_t - \epsilon$ |
+| 표본 생성 | dopri5 또는 고정 간격 풀이기 | 오일러 방법 10걸음(간격 0.1) |
+| 학습 시각 추출 | 0~1 균등 | 잡음이 많은 시각을 더 자주 뽑는 베타 분포 |
+
+π0는 이미지 대신 행동 50걸음을 한 번에 생성하고, 선형 경로 위에서 오일러 방법 10걸음으로 행동 묶음 하나를 만듭니다. 행동 묶음 하나에 행동 생성 신경망을 10번 실행한다는 뜻입니다. [DDPM](/blog/paper-review/pre-vla/ddpm) 논문은 표본 하나를 만들 때 잡음 제거를 $T = 1000$번 반복합니다. 로봇은 정해진 제어 주기 안에 다음 행동을 내야 하므로, 신경망 실행 횟수는 곧 행동 하나를 내는 데 걸리는 시간과 연결됩니다.
+
+다음 편은 확산 모델로 로봇 행동을 생성한 [Diffusion Policy](/blog/paper-review/pre-vla/diffusion-policy)에 대한 이야기입니다. 선행 연구 전체 목차는 [VLA 선행 연구 허브](/blog/paper-review/pre-vla)에 있습니다.
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Flow Matching for Generative Modeling"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Flow Matching for Generative Modeling\",\"description\":\"잡음 분포를 데이터 분포로 옮기는 벡터장을 시뮬레이션 없이 회귀로 학습하는 Flow Matching과, 곧은 직선 경로를 만드는 최적 수송 경로를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2210.02747v2/figures/imagenet128/imagenet128_curated_.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/flow-matching\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L1d",["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Flow Matching for Generative Modeling"}],["$","article",null,{"children":["$","$L1e",null,{"children":"$1f"}]}],false,false,"$L20"]}]}]
+20:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":["$L21","$L22"]}]
+23:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:["$","$L23",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L23",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L23",null,{"ref":null,"href":"/ko/blog/paper-review","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L23",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1d:["$","$L23",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"11편"}]]}]
+21:["$","$L23",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla/ddpm","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"10편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Denoising Diffusion Probabilistic Models"}]]}]
+22:["$","$L23",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla/diffusion-policy","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"12편",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion"}]]}]
+24:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"논문해석 - Flow Matching for Generative Modeling | 박우림"}],["$","meta","1",{"name":"description","content":"잡음 분포를 데이터 분포로 옮기는 벡터장을 시뮬레이션 없이 회귀로 학습하는 Flow Matching과, 곧은 직선 경로를 만드는 최적 수송 경로를 원본 그림과 함께 풀어봅니다."}],["$","link","2",{"rel":"author","href":"https://woolimi.github.io"}],["$","meta","3",{"name":"author","content":"박우림"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://woolimi.github.io/ko/blog/paper-review/pre-vla/flow-matching"}],["$","meta","8",{"property":"og:title","content":"논문해석 - Flow Matching for Generative Modeling"}],["$","meta","9",{"property":"og:description","content":"잡음 분포를 데이터 분포로 옮기는 벡터장을 시뮬레이션 없이 회귀로 학습하는 Flow Matching과, 곧은 직선 경로를 만드는 최적 수송 경로를 원본 그림과 함께 풀어봅니다."}],["$","meta","10",{"property":"og:url","content":"https://woolimi.github.io/ko/blog/paper-review/pre-vla/flow-matching"}],["$","meta","11",{"property":"og:site_name","content":"박우림"}],["$","meta","12",{"property":"og:locale","content":"ko_KR"}],["$","meta","13",{"property":"og:image","content":"https://arxiv.org/html/2210.02747v2/figures/imagenet128/imagenet128_curated_.png"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"논문해석 - Flow Matching for Generative Modeling"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:published_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","19",{"property":"article:modified_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","20",{"property":"article:author","content":"박우림"}],["$","meta","21",{"property":"article:section","content":"논문 해석"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"논문해석 - Flow Matching for Generative Modeling"}],["$","meta","24",{"name":"twitter:description","content":"잡음 분포를 데이터 분포로 옮기는 벡터장을 시뮬레이션 없이 회귀로 학습하는 Flow Matching과, 곧은 직선 경로를 만드는 최적 수송 경로를 원본 그림과 함께 풀어봅니다."}],["$","meta","25",{"name":"twitter:image","content":"https://arxiv.org/html/2210.02747v2/figures/imagenet128/imagenet128_curated_.png"}],["$","link","26",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","27",{"rel":"icon","href":"/favicon.ico"}],["$","link","28",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","29",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","30",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L24","31",{}]]

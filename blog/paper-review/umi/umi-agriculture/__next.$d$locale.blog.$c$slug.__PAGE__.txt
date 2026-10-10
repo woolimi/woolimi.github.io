@@ -1,0 +1,154 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications\",\"description\":\"사과 과수원에서 UMI를 굴리려다 부딪힌 두 벽 — 작업마다 영상을 따로 찍어야 하는 번거로움과 야외에서 흔들리는 SLAM — 을 자동 분할과 EKF 융합으로 푼 연구를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2506.09494/x1.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/umi-agriculture\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T02:13:34.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"7편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications"}]
+10:T2c25,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)의 자랑은 "현장(in-the-wild)"이었습니다. 집·사무실·식당·야외 30개 장소에서 1400회 시연을 모았으니까요. 그런데 그 야외는 어디까지나 도시의 야외였습니다.
+
+과수원은 다릅니다. 잎과 가지가 비슷비슷한 무늬로 화면을 채워 시각 특징이 부족하고, 조명은 시시각각 바뀌며, 같은 동작을 하루에 수백 번 반복합니다. 이 연구는 저가 손잡이 집게 UMI를 실제 사과 수확 현장에 들여놓으면 무엇이 깨지는지, 그리고 무엇을 고쳐야 하는지를 다룹니다. 저자들이 아는 한 **농업 과일 수확에 시연학습을 도입한 최초 시도** 입니다.
+
+📄 [Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications](https://arxiv.org/abs/2506.09494v1) — Alberto San-Miguel-Tello, Gennaro Scarati, Alejandro Hernández, Mario Cavero-Vidal, Aakash Maroti, Néstor García / Eurecat, Centre Tecnològic de Catalunya, 바르셀로나, 2025-06-11, cs.RO, arxiv 식별자 2506.09494
+
+시연 영상은 [youtu.be/BaHs9nDfU18](https://youtu.be/BaHs9nDfU18)에 있습니다.
+
+### 초록 요약
+
+로봇 자율화가 발전했지만 농업의 많은 작업, 특히 과일 수확은 여전히 사람 손에 의존합니다. **시연학습(Learning from Demonstration, LfD)** 은 대안이 될 수 있지만 농업 분야에 적용된 사례는 거의 없었습니다. 이 논문은 저가 손잡이 집게 UMI를 야외 농업 환경에 맞게 개선합니다.
+
+기존 UMI 파이프라인은 농업 현장에서 두 가지 약점이 있습니다. 첫째, 시연 샘플을 하나씩 개별 영상으로 녹화해야 해서 반복되는 수확 작업에는 대기시간과 사람 실수가 늘어납니다. 둘째, 궤적 생성을 ORB-SLAM3에 의존하는데 초기 지도작성 단계가 까다롭고 무늬가 부족한 야외에서는 신뢰성이 떨어집니다.
+
+해법은 둘입니다. 마커 검출과 그립 감시로 감지한 **작업 이벤트(task event)** 를 이용해 하나의 연속 영상에서 모든 작업 샘플을 자동 추출하는 알고리즘, 그리고 온보드 카메라의 관성 측정과 외부 다중 카메라의 마커 위치추정을 **확장 칼만 필터(Extended Kalman Filter, EKF)** 로 결합해 궤적을 생성하는 방법입니다.
+
+---
+
+## 1. 무엇을 바꿨나
+
+```flow
+{
+  "nodes": [
+    {"id": "old1", "label": "기존 — 작업별 개별 영상", "sub": "수동 녹화", "row": 0},
+    {"id": "old2", "label": "기존 — ORB-SLAM3", "sub": "지도작성 의존 · 야외 취약", "color": "red", "row": 0},
+    {"id": "new1", "label": "제안 — 연속 시연 영상 1개", "sub": "사과 여러 개 연속", "row": 1},
+    {"id": "new2", "label": "제안 — 작업 이벤트 자동 분할", "sub": "그립 폭 + 마커 거리", "color": "green", "row": 1},
+    {"id": "new3", "label": "제안 — EKF 융합", "sub": "관성 측정 + 외부 마커", "color": "green", "row": 1}
+  ],
+  "edges": [
+    {"from": "old1", "to": "old2"},
+    {"from": "new1", "to": "new2"},
+    {"from": "new2", "to": "new3"}
+  ],
+  "height": 260
+}
+```
+
+기존 UMI가 **카메라 하나로 스스로 위치를 찾는** 방식이었다면, 이 연구는 **외부에서 마커를 봐주고 관성 센서로 메우는** 방식으로 갈아탑니다. 실험실 밖에서 SLAM을 신뢰할 수 없다면, 신뢰할 수 있는 기준을 현장에 심어 두는 편이 낫다는 판단입니다.
+
+---
+
+## 2. 하드웨어 개조와 실험 구성
+
+![그림 1 — 하드웨어 개조와 실험 셋업](https://arxiv.org/html/2506.09494/x1.png)
+
+*그림 1 — (a) 표준 UMI 집게, (b) 농업용 개조 버전(개조 부분은 녹색 강조), (c) 샘플 추출 셋업, (d) EKF 기반 궤적 생성 셋업입니다.*
+
+**(a) 표준 UMI 집게** — 저가 3D 프린트 손잡이 집게로, 거울과 어안(fisheye) 렌즈로 장면의 시야각을 넓힙니다. 정책 학습은 확산 정책(diffusion policy) 기반이라 적은 샘플로도 견고하게 기술을 배웁니다. 손가락마다 ArUco 마커가 붙어 있어 그립 폭을 행동 값으로 쓸 수 있습니다.
+
+**(b) 농업용 개조 버전** — 기본 버전의 큐브 배열 마커에 더해 옆면 추가 부품에 **새 마커** 를 붙였습니다. 이 마커들은 여러 외부 시점에서 집게 위치를 잡게 해주고, 특히 가지에서 열매를 떼어내는 **비틀기(twist)** 동작처럼 전진축 회전이 심한 움직임도 추적할 수 있게 합니다. 온보드 전면 조명과 외부 조명도 추가했습니다.
+
+**(c) 샘플 추출 셋업** — 저장 위치(상자·컨베이어) 근처 고정 위치에 ArUco 마커를 두어, 집게가 저장 위치를 떠나는 시점을 거리로 감지합니다.
+
+**(d) EKF 기반 궤적 생성 셋업** — 외부 카메라 2대를 두는데 하나는 위에서, 다른 하나는 반대편 아래에서 봅니다. 각 카메라는 AprilTag 마커 위에 고정 장착되어 상호 위치추정으로 두 카메라 사이 상대 위치·자세 오차를 최소화합니다. 실험은 벽 형태로 배치한 실제 사과 과수원 환경에서 수행했습니다.
+
+---
+
+## 3. 첫 번째 알고리즘 — 연속 시연을 잘라냅니다
+
+한 장면에서 여러 과일을 따는 연속 시연은 모두 같은 단계를 따릅니다. 식별 → 접근 → 그립 → **떼어내기(detaching)** → 저장 위치에 놓기. 마지막 놓기 단계를 찾으면 작업 경계를 나눌 수 있습니다.
+
+여기에 두 가지 특징을 씁니다.
+
+| 조건 | 무엇을 보는가 | 왜 필요한가 |
+|---|---|---|
+| 그립 폭 조건 | 손가락 ArUco 마커로 재는 그립 폭이 최대 개방 위치와 허용 최대 과일 크기 사이에 있는지 | 열매를 쥐고 놓는 순간, 즉 작업 종료를 감지 |
+| 저장 위치 마커 거리 조건 | 저장 위치 근처 고정 마커까지의 거리가 임계값을 넘는지 | 그립 폭만 쓰면 다음 작업 시작점이 "놓기 직후"로 잡혀, 정책이 다음 따기 전에 놓기 위치부터 찾으려 함 |
+
+두 번째 조건이 왜 필요한지가 이 알고리즘의 묘미입니다. 그립 폭만으로 잘라 놓으면 각 작업 샘플이 "놓는 동작"에서 시작하게 되고, 그 데이터로 학습한 정책은 사과를 따러 가기 전에 상자부터 찾습니다. 그래서 **집게가 저장 위치를 떠나는 순간** 을 다음 작업의 시작으로 잡습니다.
+
+```remotion
+UmiAgriSegment
+```
+
+---
+
+## 4. 두 번째 알고리즘 — SLAM 자리에 EKF를 놓습니다
+
+외부 카메라 2대가 집게의 ArUco 마커를 검출해 검출마다 집게 자세를 추정합니다. 가림이나 빠른 움직임으로 마커 검출이 끊길 때를 대비해, 이 마커 기반 위치추정을 온보드 카메라의 **관성 측정(IMU)** 과 EKF로 결합합니다.
+
+즉 ORB-SLAM3의 온보드 시각 위치추정을 **외부 다중 카메라 마커 위치추정으로 대체** 하되, 견고성과 정확도를 위해 관성 측정은 그대로 활용하는 상보적 융합입니다.
+
+---
+
+## 5. 실험 — 사과 3개를 연달아
+
+![그림 2 — 실험 결과](https://arxiv.org/html/2506.09494/x2.png)
+
+*그림 2 — (a) 작업 이벤트 기준에 따른 작업 추출 결과, (b) 생성된 궤적과 위치·자세 오차, (c) ORB-SLAM3와 EKF 구현의 정답 대비 오차 시간 변화입니다.*
+
+실험은 한 장면에서 **사과 3개** 를 접근·그립·떼어내기·놓기까지 연속 수확하는 완전한 시연으로 진행했습니다.
+
+**(a) 작업 추출** — 그립 폭과 저장 위치 마커 거리 신호를 함께 감시하며 임계값으로 작업 전환을 잡습니다. 개방 트리거 후 위치 거리 감시가 각 작업의 끝을 정확히 설정합니다.
+
+**(b) 생성된 궤적과 오차** — 세 작업 각각에 대해 ORB-SLAM3와 제안 EKF로 생성한 궤적을, Optitrack 동작 포착으로 얻은 정답과 함께 비교했습니다.
+
+**(c) 오차 시간 변화** — 제안 **EKF 구현이 세 작업 모두에서 가장 낮은 위치·자세 오차** 를 달성했습니다. ORB-SLAM3는 연속한 점 사이 이동거리가 커서 정답보다 **부풀려진(oversized)** 궤적을 그리는데, 비선형 렌즈 사용으로 증폭된 시각 위치추정 성능 저하가 원인으로 보입니다. 자세 오차는 두 방법이 비슷하되, 빠른 회전이 필요한 떼어내기 동작에서 둘 다 오차 봉우리가 나타납니다.
+
+### 비용과 구현
+
+| 항목 | 내용 |
+|---|---|
+| 추가 비용 | 외부 카메라·추가 3D 프린트 부품·전후면 조명으로 **600유로** |
+| 전체 예산 | **900유로 이하** |
+| 카메라·관성 센서 내부 보정 | Open IMU-Camera Calibrator |
+| 외부 카메라 자세 오차 최소화 | Nelder-Mead 법 |
+| EKF 구현 | robot_localization (ROS) |
+
+한 가지 실무 메모가 눈에 띕니다. UMI 기본 ORB-SLAM3 설정은 신뢰할 만한 궤적 생성에 실패해, 시각 특징 수를 **2500에서 3000으로** 늘려야 했습니다. 야외에서 SLAM을 굴린다는 것이 어떤 일인지 보여주는 한 줄입니다.
+
+---
+
+## 6. 한계와 향후 과제
+
+- **정책 학습 영향 미검증** — 이 연구는 데이터 **수집** 품질까지만 다룹니다. 개선된 샘플이 실제 확산 정책 학습과 로봇 실행 성능에 어떤 영향을 주는지는 향후 과제로 남겼습니다.
+- **고속 움직임 대응** — 떼어내기 같은 빠른 회전에서 오차 봉우리가 나타나, 고속 움직임에 맞춘 EKF 설정 조정이 필요합니다.
+- **외부 셋업 의존** — 마커·외부 다중 카메라·AprilTag 기준 셋업이 필요해, 완전한 현장이라기보다 준비된 과수원 환경을 전제합니다.
+- **소규모 검증** — 사과 3개 단일 연속 시연 규모의 결과로, 다양한 작물과 환경으로의 일반화는 아직 열려 있습니다.
+
+---
+
+## 7. 정리 — 계보에서 이 논문의 자리
+
+이 논문은 UMI 계보에서 조금 다른 결을 가집니다. 앞선 [FastUMI](/blog/paper-review/umi/fastumi)·[exUMI](/blog/paper-review/umi/exumi)·[MV-UMI](/blog/paper-review/umi/mv-umi)가 "더 잘 모으는 장치"를 만들었다면, 이 연구는 **하나의 실제 산업 현장에 UMI를 밀어 넣어 보고 깨진 곳을 기록** 합니다.
+
+- 900유로 이하 손잡이 장치만으로 야외 농업 시연 데이터를 모을 수 있게 해 시연학습의 진입 장벽을 낮췄습니다.
+- 무늬 부족·조명·가림에 약한 카메라 SLAM을 **관성 측정 + 외부 마커 EKF 융합** 으로 대체해, 야외 궤적 신뢰성을 실측으로 개선했습니다.
+- 연속 시연 **자동 분할** 로 대기시간과 사람의 인지 부하를 줄여, 반복 수확 시나리오에 UMI를 실용적으로 맞췄습니다.
+
+원조 UMI가 한계로 꼽았던 "무늬가 부족한 환경에서의 취약성"과, 그 보완책으로 제시했던 "삼인칭 고정 카메라와 집게에 붙인 추가 마커"가 여기서 실제로 구현된 셈입니다. 계보의 출발점은 [원조 UMI 논문해석](/blog/paper-review/umi/umi)에 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/rwor","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"6편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/gripper-design-demonstration-quality","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"8편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,866 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model\",\"description\":\"공개 VLM인 Prismatic-7B를 Open X-Embodiment 로봇 궤적 97만 개로 미세조정해 55B RT-2-X보다 높은 성공률을 내고, 가중치·코드·미세조정 방법까지 공개한 7B VLA인 OpenVLA를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2406.09246v3/openvla_teaser.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/vla/openvla\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"4편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model"}]
+10:T10d69,
+## 들어가며
+
+[RT-2 논문해석](/blog/paper-review/vla/rt-2)은 시각-언어 모델(Vision-Language Model, VLM)이 로봇 행동을 텍스트 토큰처럼 출력하게 만들면, 웹에서 배운 지식이 로봇 제어로 넘어온다는 것을 보였습니다. [Open X-Embodiment 논문해석](/blog/paper-review/vla/open-x-embodiment)은 여러 기관의 로봇 데이터를 한 형식으로 모아 RT-2-X를 학습했습니다. 두 연구 모두 결과는 강했지만, 모델 가중치와 학습 코드는 공개되지 않았습니다. 다른 연구자가 같은 모델을 내려받아 자기 로봇에 맞게 고칠 방법이 없었습니다.
+
+OpenVLA는 그 조건을 바꿉니다. 누구나 내려받을 수 있는 VLM인 Prismatic-7B를 Open X-Embodiment의 로봇 궤적 97만 개로 미세조정했고, 모델 가중치와 학습 코드, 미세조정 노트북을 모두 공개했습니다. 파라미터 수는 RT-2-X(55B)의 약 7분의 1인 7B인데, 29개 평가 과제의 성공률은 RT-2-X보다 16.5%p 높습니다. 논문은 여기에 더해, 새 로봇에 VLA를 맞추는 미세조정 방법과 소비자용 GPU에서 학습·추론하는 방법(LoRA, 양자화)을 처음으로 체계적으로 실험합니다.
+
+📄 [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) — Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti (공동 1저자) 외 / Stanford University·UC Berkeley·Toyota Research Institute·Google DeepMind·Physical Intelligence·MIT, 2024-06 공개 (v3 2024-09)
+
+프로젝트 페이지는 [openvla.github.io](https://openvla.github.io)이고, arxiv 식별자는 2406.09246입니다. 이 글은 v3을 기준으로 합니다.
+
+### 초록 요약
+
+인터넷 규모의 시각-언어 데이터와 다양한 로봇 시연으로 사전학습한 큰 정책이 있으면, 새 행동을 처음부터 학습하지 않고 그 정책을 미세조정해 쓸 수 있습니다. 이런 모델이 시각-언어-행동(Vision-Language-Action, VLA) 모델입니다. 그런데 기존 VLA는 대부분 비공개였고, 새 과제에 VLA를 효율적으로 미세조정하는 방법도 연구되지 않았습니다.
+
+OpenVLA는 실제 로봇 시연 97만 개로 학습한 7B 파라미터 공개 VLA입니다. Llama 2 언어 모델에, DINOv2와 SigLIP의 사전학습 특징을 합친 시각 부호기를 붙인 구조입니다. 29개 과제와 여러 로봇 몸체에서 RT-2-X(55B)보다 절대 성공률이 16.5% 높고, 파라미터는 7배 적습니다. 새 환경에 미세조정했을 때는 물체가 여럿 있고 언어 지시를 정확히 따라야 하는 다중 과제 환경에서 특히 강하며, 처음부터 학습하는 모방 학습 방법인 Diffusion Policy보다 20.4% 높습니다. 저랭크 적응(LoRA)으로 소비자용 GPU에서 미세조정하고 양자화로 추론 메모리를 줄여도 성공률이 떨어지지 않는다는 것도 보입니다. 모델 저장본, 미세조정 노트북, Open X-Embodiment 데이터로 VLA를 대규모 학습하는 PyTorch 코드를 모두 공개했습니다.
+
+![그림 1 — OpenVLA 개요](https://arxiv.org/html/2406.09246v3/openvla_teaser.png)
+
+*그림 1 — 로봇 에피소드 97만 개로 VLM을 미세조정해 여러 로봇을 제어하고, 데이터·가중치·코드를 공개합니다.*
+
+그림 위쪽은 학습 흐름입니다. 로봇 데이터로 기본 VLM([ViT](/blog/paper-review/pre-vla/vit)와 Llama 2 7B)을 미세조정하면, 사용자가 "Wipe the table." 같은 지시를 주었을 때 모델이 $[\Delta x, \Delta\theta, \Delta\text{Grip}]$ 형태의 행동을 답합니다. 아래쪽은 이 논문이 실험한 로봇 셋입니다. 왼쪽부터 WidowX, [RT-1](/blog/paper-review/vla/rt-1)·RT-2 평가에 쓰인 Google 이동형 조작기, 그리고 미세조정 실험에 쓴 Franka 팔입니다.
+
+---
+
+## 1. 문제 — 비공개 VLA와 미세조정 방법의 부재
+
+학습된 로봇 조작 정책은 학습 데이터 밖으로 잘 일반화하지 못합니다. 물체 위치나 조명이 조금 바뀌는 정도는 견디지만, 방해물이 놓이거나 처음 보는 물체가 나오거나 처음 듣는 지시가 오면 실패합니다. 반면 CLIP, SigLIP, Llama 2 같은 시각·언어 기반 모델은 인터넷 규모 사전학습 덕분에 이런 일반화를 해냅니다. 가장 큰 로봇 조작 데이터셋도 예시가 10만~100만 개 수준이라, 로봇 데이터로 같은 규모의 사전학습을 재현하기는 아직 어렵습니다. 그래서 이미 학습된 시각·언어 기반 모델을 로봇 정책의 출발점으로 쓰자는 방향이 나왔고, RT-2가 그 방식으로 VLA를 만들었습니다.
+
+저자들은 VLA가 널리 쓰이지 못하는 이유를 두 가지로 봅니다.
+
+1. **비공개** — 기존 VLA(RT-2, RT-2-X 등)는 모델 구조, 학습 절차, 데이터 혼합 비율이 거의 공개되지 않았습니다.
+2. **미세조정 방법의 부재** — 새 로봇·환경·과제에 VLA를 맞추는 방법, 특히 소비자용 GPU 같은 일반 하드웨어에서 하는 방법이 연구되지 않았습니다.
+
+### 기존 범용 로봇 정책과의 비교
+
+| 모델 | 파라미터 | 구조 | 공개 여부 | 미세조정 |
+|------|---------|------|---------|---------|
+| RT-1-X | 35M | 처음부터 학습한 Transformer 정책 | 논문에 언급 없음 | 논문에서 다루지 않음 |
+| Octo | 93M | 사전학습 구성 요소(언어 임베딩 등)에 처음부터 학습한 층을 붙여 함께 학습 | 공개 | 지원 |
+| RT-2-X | 55B | 인터넷 사전학습 VLM을 로봇 데이터로 공동 미세조정한 VLA | 비공개 (API로만 질의) | API로는 불가 |
+| **OpenVLA** | **7B** | **공개 VLM 전체를 로봇 행동 토큰 예측으로 미세조정한 VLA** | **데이터 구성·코드·가중치 공개** | **전체 미세조정·LoRA·양자화 실험** |
+
+Octo 같은 기존 범용 정책은 사전학습된 언어 임베딩이나 시각 부호기에, 처음부터 초기화한 층을 붙여 정책 학습 중에 둘을 맞춥니다. OpenVLA는 VLM 전체를 그대로 가져와, 로봇 행동을 언어 모델 어휘의 토큰으로 두고 끝까지 함께 미세조정합니다. RT-2-X와의 차이는 네 가지입니다. 공개 VLM과 더 큰 로봇 데이터를 써서 크기가 한 자릿수 작은데도 성능이 높고, 미세조정을 체계적으로 실험했고, LoRA와 양자화를 VLA에 처음 적용했으며, 처음으로 공개된 범용 VLA입니다.
+
+OpenVLA가 쓰는 SigLIP·DINOv2·Llama 2는 가중치만 공개됐고 학습 데이터와 코드는 공개되지 않았습니다. 저자들이 공개한 것은 이 구성 요소 위에서 OpenVLA를 재현하는 데 필요한 학습 데이터 구성, 코드, 가중치입니다.
+
+---
+
+## 2. 기본 VLM — Prismatic-7B
+
+### 최근 VLM의 세 부분
+
+최근 공개 VLM은 대부분 같은 구조를 씁니다. [LLaVA 논문해석](/blog/paper-review/pre-vla/llava)에서 본 시각 부호기 → 투영 층 → 언어 모델 구조입니다.
+
+1. **시각 부호기(visual encoder)** — 이미지를 작은 패치로 잘라, 패치마다 벡터 하나를 만듭니다. 이 벡터를 이미지 패치 임베딩이라고 부릅니다.
+2. **투영기(projector)** — 시각 부호기의 출력 벡터를 언어 모델의 입력 임베딩과 같은 크기로 바꿉니다.
+3. **언어 모델 백본(LLM backbone)** — 투영된 이미지 벡터와 텍스트 토큰 임베딩을 한 줄로 이어 받아 다음 토큰을 예측합니다.
+
+VLM은 인터넷에서 모은 이미지-텍스트 데이터로, 다음 텍스트 토큰을 맞히는 목적 함수로 끝까지 함께 학습합니다. 초기 VLM은 시각 특징과 언어 특징 사이에 교차 주의를 두는 여러 구조를 시도했지만, 최근 공개 VLM은 패치 특징을 그대로 토큰으로 넣는 "패치를 토큰으로(patch-as-token)" 방식으로 모였습니다. 이 방식은 언어 모델 학습 도구를 거의 그대로 VLM 학습에 쓸 수 있고, OpenVLA는 그 도구로 VLA 학습 규모를 키웁니다.
+
+### Prismatic-7B의 구성
+
+OpenVLA의 출발점은 Prismatic-7B입니다.
+
+| 구성 요소 | 내용 |
+|----------|------|
+| 시각 부호기 | 600M 파라미터. 사전학습된 SigLIP과 DINOv2 두 개 |
+| 투영기 | 2층 MLP |
+| 언어 모델 백본 | Llama 2 7B |
+| VLM 학습 데이터 | LLaVA 1.5 데이터 혼합, 공개 데이터셋의 이미지-텍스트·텍스트 전용 샘플 약 100만 개 |
+
+![그림 2 — OpenVLA 구조](https://arxiv.org/html/2406.09246v3/openvla_model.png)
+
+*그림 2 — ① DINOv2·SigLIP 시각 부호기 ② MLP 투영기 ③ Llama 2 7B, 그리고 행동 역토큰화기가 7차원 로봇 행동을 만듭니다.*
+
+```flow
+{
+  "nodes": [
+    {"id": "img",   "label": "입력 이미지", "sub": "224 × 224 px", "row": 0},
+    {"id": "inst",  "label": "언어 지시", "sub": "\"Put eggplant in bowl\"", "row": 0},
+    {"id": "dino",  "label": "DINOv2", "sub": "공간 특징", "color": "blue", "row": 1},
+    {"id": "sig",   "label": "SigLIP", "sub": "의미 특징", "color": "blue", "row": 1},
+    {"id": "tok",   "label": "Llama 토크나이저", "sub": "What should the robot do to {task}? A:", "row": 1},
+    {"id": "cat",   "label": "채널 방향 이어 붙이기", "sub": "패치마다 두 벡터를 연결", "color": "blue", "row": 2},
+    {"id": "proj",  "label": "2층 MLP 투영기", "sub": "LLM 입력 크기로 변환", "color": "blue", "row": 3},
+    {"id": "llm",   "label": "Llama 2 7B", "sub": "다음 토큰 예측", "color": "orange", "row": 4},
+    {"id": "act",   "label": "행동 토큰 7개", "sub": "차원당 256구간 중 하나", "color": "orange", "row": 5},
+    {"id": "detok", "label": "행동 역토큰화", "sub": "구간 번호 → 연속값", "color": "green", "row": 6},
+    {"id": "robot", "label": "7차원 로봇 행동", "sub": "Δx · Δθ · ΔGrip", "row": 7}
+  ],
+  "edges": [
+    {"from": "img",   "to": "dino"},
+    {"from": "img",   "to": "sig"},
+    {"from": "inst",  "to": "tok"},
+    {"from": "dino",  "to": "cat"},
+    {"from": "sig",   "to": "cat"},
+    {"from": "cat",   "to": "proj"},
+    {"from": "proj",  "to": "llm", "label": "이미지 토큰"},
+    {"from": "tok",   "to": "llm", "label": "텍스트 토큰"},
+    {"from": "llm",   "to": "act"},
+    {"from": "act",   "to": "detok"},
+    {"from": "detok", "to": "robot"}
+  ],
+  "height": 680
+}
+```
+
+### 두 시각 부호기의 특징 결합
+
+같은 이미지 패치가 SigLIP과 DINOv2를 각각 통과하면, 패치 하나에서 벡터가 두 개 나옵니다. Prismatic은 이 두 벡터를 **채널 방향으로 이어 붙입니다(channel-wise concatenation).** 더하거나 평균 내지 않고, 한 벡터 뒤에 다른 벡터를 그대로 붙여 더 긴 벡터 하나로 만드는 연산입니다.
+
+| 패치 번호 | SigLIP 벡터 | DINOv2 벡터 | 이어 붙인 벡터 |
+|----------|------------|------------|--------------|
+| 0 | (0.3, −1.2, 0.8) | (0.5, 0.1) | (0.3, −1.2, 0.8, 0.5, 0.1) |
+| 1 | (−0.4, 0.9, 0.2) | (−0.7, 1.1) | (−0.4, 0.9, 0.2, −0.7, 1.1) |
+| … | … | … | … |
+
+*표의 차원 수(3, 2)와 숫자는 연산 모양을 보여 주기 위한 임의의 예시 값입니다. 실제 두 부호기의 출력 차원은 논문에 적혀 있지 않습니다.*
+
+이어 붙인 벡터는 패치 수만큼 생기고, MLP 투영기가 이 벡터를 하나씩 Llama 2의 입력 임베딩 크기로 바꿉니다. 그러면 이미지 패치 하나가 언어 모델 입장에서 텍스트 토큰 하나와 같은 크기의 입력이 됩니다.
+
+두 부호기를 함께 쓰는 이유는 둘이 학습한 데이터와 담는 정보가 다르기 때문입니다. SigLIP은 [CLIP](/blog/paper-review/pre-vla/clip)처럼 이미지-텍스트 데이터로 학습해 높은 수준의 의미 정보를 담고, DINOv2는 이미지 전용 데이터로 학습해 낮은 수준의 공간 정보를 담습니다. Prismatic 연구에서 DINOv2 특징을 더하면 공간 추론이 좋아졌고, 저자들은 이것이 로봇 제어에 특히 도움이 된다고 봅니다.
+
+---
+
+## 3. 행동의 토큰화
+
+VLM의 언어 모델은 어휘표 안의 토큰만 출력할 수 있습니다. 로봇 행동은 "x 방향으로 0.005m 이동" 같은 연속값입니다. OpenVLA는 RT-2와 같은 방식으로 이 연속값을 정수 구간 번호로 바꾸고, 그 번호를 언어 모델의 토큰에 대응시킵니다. 그러면 행동 예측이 "이미지와 지시를 받아 문자열을 답하는" 시각-언어 과제가 됩니다.
+
+### 7차원 행동
+
+그림 2의 출력은 7차원 로봇 행동입니다. 그림에는 $\Delta x$, $\Delta\theta$, $\Delta\text{Grip}$으로 적혀 있습니다. 말단장치(end-effector)의 위치 변화, 회전 변화, 집게 벌림 변화를 뜻합니다. 차원별 구성은 논문 본문에 따로 적혀 있지 않습니다. RT-2가 위치 변위 3개, 회전 변위 3개, 집게 1개로 연속 차원 7개를 두었으므로, 이와 같은 형태로 읽으면 됩니다.
+
+### 차원별 256구간 이산화
+
+차원마다 따로 256개 구간을 만듭니다. 구간의 폭은 학습 데이터에 나온 그 차원 행동값의 **1번째 백분위수에서 99번째 백분위수 사이**를 256등분해 정합니다.
+
+x 방향 위치 변화 차원 하나로 계산해 보겠습니다.
+
+| 단계 | 계산 | 결과 |
+|------|------|------|
+| ① 학습 데이터의 1번째 백분위수 | 데이터에서 계산 | −0.020 m |
+| ② 학습 데이터의 99번째 백분위수 | 데이터에서 계산 | +0.020 m |
+| ③ 구간 폭 | (0.020 − (−0.020)) ÷ 256 | 0.00015625 m |
+| ④ 행동값 0.005 m의 구간 번호 | (0.005 − (−0.020)) ÷ 0.00015625 의 정수 부분 | 160 |
+| ⑤ 역토큰화 | 구간 번호 160을 다시 연속값으로 되돌림 | 약 0.005 m |
+
+*①②의 백분위수 값과 ④의 행동값은 계산 과정을 보여 주기 위한 임의의 예시 값이고, ③④는 그 값으로 계산한 결과입니다.*
+
+7개 차원에서 이렇게 하면 행동 하나가 0~255 범위의 정수 7개가 됩니다.
+
+### 최솟값·최댓값 대신 백분위수를 쓰는 이유
+
+RT-2는 구간 범위를 데이터의 최솟값과 최댓값으로 정했습니다. OpenVLA는 1~99번째 백분위수로 바꿨습니다. 데이터에 드물게 섞인 이상치가 구간 범위를 크게 넓혀 버리는 것을 막기 위해서입니다.
+
+| 범위 설정 | 범위 | 구간 폭 | 0.005 m 차이를 구분할 수 있는가 |
+|----------|------|--------|---------------------------|
+| 1~99번째 백분위수 | −0.020 ~ +0.020 m | 약 0.00016 m | 약 32개 구간 차이로 구분됨 |
+| 최솟값~최댓값 (이상치 0.5 m 하나 포함) | −0.020 ~ +0.500 m | 약 0.00203 m | 약 2개 구간 차이로만 구분됨 |
+
+*범위 값은 임의의 예시 값이고, 구간 폭과 구간 수 차이는 그 값으로 계산한 결과입니다.*
+
+이상치 하나 때문에 구간 폭이 약 13배 넓어지면, 실제로 자주 쓰이는 작은 동작 범위에 배정되는 구간 수가 그만큼 줄어듭니다. 백분위수를 쓰면 이상치를 무시하고, 256개 구간을 실제로 자주 나오는 범위에 촘촘히 씁니다. 범위 밖 값을 어떻게 처리하는지는 논문에 적혀 있지 않습니다.
+
+### 언어 모델 어휘에 행동 토큰 넣기
+
+구간 번호 0~255를 언어 모델이 출력하려면, 번호마다 어휘표의 토큰 하나를 배정해야 합니다. Llama 토크나이저는 미세조정 때 새로 추가할 수 있는 "특수 토큰" 자리를 100개만 비워 두었는데, 필요한 토큰은 256개입니다. 저자들은 RT-2를 따라, Llama 어휘에서 **가장 적게 쓰이는 토큰 256개**를 행동 토큰으로 덮어씁니다. 논문에 따르면 이 토큰들은 어휘표의 마지막 256개입니다.
+
+학습 샘플 하나는 세 부분의 토큰으로 이루어집니다.
+
+| 순서 | 입력 내용 | 손실 계산 |
+|------|---------|---------|
+| 1 | 이미지 패치 토큰들 (투영기 출력) | 하지 않음 |
+| 2 | "What should the robot do to put eggplant in bowl? A:" 텍스트 토큰들 | 하지 않음 |
+| 3 | 행동 토큰 7개 (예: 160, 131, 98, 127, 127, 140, 255번 구간에 대응하는 토큰) | **함** |
+
+*3행의 구간 번호는 임의의 예시 값입니다. 프롬프트 형식은 그림 2에 적힌 것을 따랐습니다.*
+
+학습 목적 함수는 일반 언어 모델과 같은 다음 토큰 예측입니다. 차이는 교차 엔트로피 손실을 **행동 토큰 7개에서만** 계산한다는 점입니다. 이미지와 지시 부분은 입력으로만 쓰이고, 모델이 그 부분을 맞히도록 학습하지 않습니다. 추론할 때는 모델이 행동 토큰 7개를 차례로 생성하고, 행동 역토큰화기가 각 토큰의 구간 번호를 연속값으로 되돌려 로봇에 보냅니다.
+
+---
+
+## 4. 학습 데이터
+
+### Open X-Embodiment에서 고른 97만 개 궤적
+
+학습 데이터의 목표는 로봇 몸체, 장면, 과제의 다양성을 넓게 담는 것입니다. 그래야 여러 로봇을 바로 제어하고, 새 로봇에 효율적으로 미세조정할 수 있습니다. 출발점은 Open X-Embodiment(OpenX)입니다. 논문 작성 시점에 OpenX는 70개가 넘는 로봇 데이터셋, 200만 개가 넘는 로봇 궤적을 한 형식으로 모은 데이터였습니다.
+
+저자들은 이 원본 데이터를 두 가지 목표로 걸러 냅니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "oxe",   "label": "Open X-Embodiment", "sub": "70개 이상 데이터셋 · 200만 개 이상 궤적", "row": 0},
+    {"id": "f1",    "label": "입출력 공간 통일", "sub": "3인칭 카메라 1대 이상 · 한 팔 말단장치 제어", "color": "blue", "row": 1},
+    {"id": "f2",    "label": "혼합 비율 조정", "sub": "Octo의 데이터별 가중치 사용", "color": "blue", "row": 2},
+    {"id": "droid", "label": "DROID 추가", "sub": "가중치 10% · 학습 마지막 3분의 1에서 제외", "color": "orange", "row": 2},
+    {"id": "mix",   "label": "OpenVLA 학습 혼합", "sub": "궤적 97만 개", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "oxe",   "to": "f1"},
+    {"from": "f1",    "to": "f2"},
+    {"from": "f2",    "to": "mix"},
+    {"from": "droid", "to": "mix"}
+  ],
+  "height": 360
+}
+```
+
+1. **입력과 출력 형식을 맞춥니다.** Octo와 Open X-Embodiment 연구를 따라, 3인칭 카메라가 하나 이상 있고 한 팔의 말단장치를 제어하는 조작 데이터셋만 남깁니다. 센서 구성과 행동 공간이 제각각인 데이터를 함께 학습하는 문제는 이후 연구로 남겼습니다.
+2. **로봇 몸체·과제·장면의 비율을 맞춥니다.** 첫 단계를 통과한 데이터셋에는 Octo가 정한 혼합 가중치를 그대로 씁니다. Octo는 다양성이 낮은 데이터셋의 가중치를 줄이거나 빼고, 과제와 장면이 다양한 데이터셋의 가중치를 높였습니다.
+
+Octo 발표 이후 OpenX에 추가된 데이터셋 몇 개도 넣었습니다. 그중 DROID는 혼합 가중치 10%로 조심스럽게 넣었지만, 학습 내내 DROID의 행동 토큰 정확도가 낮게 머물렀습니다. DROID의 다양성을 학습하려면 가중치나 모델을 더 키워야 할 것으로 보고, 최종 모델 품질을 지키기 위해 학습 마지막 3분의 1 동안 DROID를 뺐습니다.
+
+### 데이터 혼합 비율
+
+| 데이터셋 | 비율 | 데이터셋 | 비율 |
+|---------|-----|---------|-----|
+| Fractal | 12.7% | Furniture Bench Dataset | 2.4% |
+| Kuka | 12.7% | UCSD Kitchen Dataset | <0.1% |
+| Bridge | 13.3% | Austin Sailor Dataset | 2.2% |
+| Taco Play | 3.0% | Austin Sirius Dataset | 1.7% |
+| Jaco Play | 0.4% | DLR EDAN Shared Control | <0.1% |
+| Berkeley Cable Routing | 0.2% | IAMLab CMU Pickup Insert | 0.9% |
+| Roboturk | 2.3% | UTAustin Mutex | 2.2% |
+| Viola | 0.9% | Berkeley Fanuc Manipulation | 0.7% |
+| Berkeley Autolab UR5 | 1.2% | CMU Stretch | 0.2% |
+| Toto | 2.0% | [BC-Z](/blog/paper-review/pre-vla/bc-z) | 7.5% |
+| Language Table | 4.4% | FMB Dataset | 7.1% |
+| Stanford Hydra Dataset | 4.4% | DobbE | 1.4% |
+| Austin Buds Dataset | 0.2% | DROID | 10.0% |
+| NYU Franka Play Dataset | 0.8% | | |
+
+*표 3 — OpenVLA 학습 데이터 혼합. DROID는 학습 마지막 3분의 1에서 빼고 그 가중치를 나머지 데이터셋에 나눠 줍니다.*
+
+표에 인쇄된 27개 비율을 더하면 약 94.9%입니다(<0.1%는 0.05%로 계산). 100%에 약 5%p 모자라는 이유는 논문에 설명이 없습니다. 반올림 차이만으로는 설명되지 않는 크기라, 인쇄된 값을 그대로 옮기고 합계가 맞지 않는다는 사실만 적어 둡니다.
+
+### Bridge 데이터의 정지 행동 제거
+
+부록 C에 따르면, 원래 BridgeData V2에는 모든 값이 0인 행동(아무것도 하지 않는 행동)이 많이 들어 있습니다. 예를 들어 모든 시연의 첫 시점에 0 행동이 정답으로 기록돼 있습니다. 표현력이 큰 VLA를 이 데이터로 그대로 학습하면, 정책이 0 행동을 자주 예측해 평가 중에 멈춰 버립니다. 저자들은 시연마다 첫 전이를 빼고 학습했고, 대부분의 경우 이것으로 멈춤 현상이 사라졌습니다.
+
+---
+
+## 5. 설계 결정
+
+최종 학습 전에, 전체 OpenX 대신 BridgeData V2 하나로 작은 규모의 실험을 반복해 설계를 정했습니다. 반복 속도를 높이고 계산 비용을 줄이기 위해서입니다.
+
+| 항목 | 비교한 선택지 | 결과 | 최종 선택 |
+|------|------------|------|---------|
+| VLM 백본 | IDEFICS-1, LLaVA, Prismatic | 물체가 하나인 과제에서는 IDEFICS-1과 LLaVA가 비슷함. 물체가 여럿이고 지시한 물체를 골라야 하는 언어 접지 과제 5개에서 LLaVA가 IDEFICS-1보다 절대 성공률 35% 높음. Prismatic은 단일 물체·다중 물체 과제 모두에서 LLaVA보다 약 10% 높음 | Prismatic |
+| 이미지 해상도 | 224 × 224 px, 384 × 384 px | 성능 차이 없음. 384 px은 학습 시간이 3배 | 224 × 224 px |
+| 시각 부호기 | 고정, 미세조정 | 미세조정이 좋은 성능에 필수 | 미세조정 |
+| 학습 세대 수 | LLM·VLM의 통상적인 1~2세대, 그 이상 | 학습 행동 토큰 정확도가 95%를 넘을 때까지 실제 로봇 성능이 계속 올라감 | 27세대 |
+| 학습률 | 여러 자릿수에 걸쳐 탐색 | 고정 학습률 2e-5가 가장 좋음(VLM 사전학습 때와 같은 값). 워밍업 효과 없음 | 2e-5, 워밍업 없음 |
+
+각 결정의 근거를 조금 더 풀어 보겠습니다.
+
+**VLM 백본.** 저자들은 Prismatic이 LLaVA보다 나은 이유를 SigLIP과 DINOv2를 합친 시각 부호기의 공간 추론 능력에서 찾습니다. 성능 외에 코드가 모듈식이라 쓰기 쉽다는 점도 선택 이유로 적었습니다.
+
+**이미지 해상도.** 해상도가 높을수록 이미지 패치 토큰이 많아집니다. 예를 들어 패치 한 변이 14 px이라면 224 px 이미지는 가로세로 16개씩 256개 패치, 384 px 이미지는 가로세로 약 27개씩 약 729개 패치가 됩니다(패치 크기는 계산을 보여 주기 위한 가정입니다). 주의(attention) 연산량은 토큰 수의 제곱에 비례해 늘어나므로 학습 계산이 크게 늘어납니다. VLM 벤치마크에서는 해상도를 높이면 성능이 오르는 경우가 많지만, VLA에서는 (아직) 그런 경향이 보이지 않았다고 적습니다.
+
+**시각 부호기 미세조정.** VLM 연구에서는 시각 부호기를 고정하는 편이 보통 성능이 높았습니다. 인터넷 규모 사전학습으로 얻은 특징을 그대로 보존하기 때문으로 해석합니다. VLA에서는 반대였습니다. 저자들은 사전학습된 시각 부호기가 정밀한 로봇 제어에 필요한 장면의 세밀한 공간 정보를 충분히 담지 못하기 때문이라고 가설을 세웁니다. 이 결과는 11절의 제거 실험에서 다시 확인합니다.
+
+**학습 세대 수.** 1세대(epoch)는 학습 데이터 전체를 한 번 훑는 것입니다. 행동 토큰 정확도는 모델이 예측한 행동 토큰이 정답 구간 번호와 정확히 같은 비율입니다. 일반적인 LLM·VLM은 1~2세대에서 학습을 끝내지만, OpenVLA는 이 정확도가 95%를 넘을 때까지 실제 로봇 성능이 계속 올랐고, 최종 학습은 27세대까지 진행했습니다.
+
+---
+
+## 6. 학습·추론 인프라
+
+### 학습 계산량
+
+| 항목 | 값 |
+|------|-----|
+| GPU | A100 64개 |
+| 학습 기간 | 14일 |
+| 총 계산량 | 21,500 A100-시간 |
+| 배치 크기 | 2048 |
+
+64개 × 14일 × 24시간 = 21,504 A100-시간이므로, 논문의 21,500은 이 값을 반올림한 것입니다.
+
+### 추론 메모리와 속도
+
+bfloat16 정밀도로 불러오면 추론에 GPU 메모리 15GB가 필요하고, RTX 4090 한 장에서 컴파일이나 추측 디코딩(speculative decoding) 같은 가속 기법 없이 약 6Hz로 실행됩니다.
+
+bfloat16은 숫자 하나를 16비트(2바이트)로 저장하는 형식입니다. 파라미터 70억 개를 2바이트씩 저장하면 가중치만 약 14GB이고, 여기에 추론 중 계산에 쓰는 메모리가 더해져 15GB 정도가 됩니다. 이 계산은 크기를 가늠하기 위한 것이고, 논문은 15GB라는 측정값만 적었습니다.
+
+![그림 6 — GPU별 추론 속도](https://arxiv.org/html/2406.09246v3/inference_speed.png)
+
+*그림 6 — GPU 종류와 정밀도(bfloat16·8비트·4비트)에 따른 초당 행동 수. ♠ 표시는 두 GPU에 나눠 올린 경우입니다.*
+
+그래프의 막대 높이를 읽어 표로 옮겼습니다.
+
+| GPU | bfloat16 | 8비트 | 4비트 |
+|-----|---------|------|------|
+| 1080Ti | 약 0.8 (두 장에 분할) | 약 0.75 | 약 0.8 |
+| 2080Ti | 약 1.2 (두 장에 분할) | 약 2.2 | 약 1.3 |
+| A5000 | 약 3.4 | 약 1.2 | 약 2.9 |
+| A100 | 약 2.9 | 약 0.75 | 약 2.1 |
+| RTX 4090 | 약 6.2 | 약 2.1 | 약 6.0 |
+| H100 | 약 6.6 | 측정 없음 | 약 4.4 |
+
+*단위는 초당 행동 수입니다. 막대 높이에서 읽은 값이라 소수 첫째 자리 정도의 오차가 있습니다.*
+
+그림 캡션은 Ada Lovelace 구조 GPU(RTX 4090, H100)에서 bfloat16과 4비트의 처리량이 특히 높다고 적었습니다. RTX 4090은 Ada Lovelace 구조가 맞지만 H100은 Hopper 구조라, 캡션의 구조 이름은 H100에 대해서는 정확하지 않습니다. TensorRT-LLM 같은 LLM 추론 프레임워크를 쓰면 더 빨라질 수 있다고 적습니다.
+
+로봇 옆에 강한 GPU가 없어도 되도록, 원격 추론 서버를 구현해 행동 예측을 실시간으로 로봇에 스트리밍하는 방식도 함께 공개했습니다.
+
+### 공개 코드베이스
+
+OpenVLA 코드베이스는 VLA 학습용 모듈식 PyTorch 코드입니다. GPU 한 장의 미세조정부터 여러 노드의 수십억 파라미터 학습까지 지원합니다.
+
+| 지원 기능 | 내용 |
+|---------|------|
+| 자동 혼합 정밀도(AMP) | 계산 일부를 낮은 정밀도로 해 속도와 메모리를 줄임 |
+| FlashAttention | 주의 연산을 메모리 효율적으로 계산 |
+| 완전 분할 데이터 병렬(FSDP) | 모델 가중치·기울기·옵티마이저 상태를 여러 GPU에 나눠 저장 |
+| Open X 데이터 | 기본 지원 |
+| HuggingFace AutoModel | 통합 |
+| LoRA 미세조정·양자화 추론 | 지원 |
+
+---
+
+## 7. 실험 1 — 추가 학습 없는 여러 로봇 평가
+
+실험은 세 가지 질문에 답합니다.
+
+1. 여러 로봇과 여러 종류의 일반화에서 OpenVLA가 기존 범용 로봇 정책과 비교해 어떤가
+2. OpenVLA를 새 로봇과 과제에 효과적으로 미세조정할 수 있는가, 데이터 효율적인 최신 모방 학습과 비교하면 어떤가
+3. 파라미터 효율 미세조정과 양자화로 학습·추론 계산 요구량을 줄일 수 있는가, 성능과 계산량의 교환 관계는 어떤가
+
+모든 평가는 A/B 평가입니다. 비교하는 방법들을 같은 과제, 같은 로봇·물체 초기 상태 묶음에서 실행해 공정하게 비교합니다.
+
+### 평가 로봇과 일반화 축
+
+추가 학습 없이 두 로봇에서 평가합니다. BridgeData V2 평가에 쓰인 **WidowX** 로봇과, RT-1·RT-2 평가에 쓰인 이동형 조작 로봇(**Google 로봇**)입니다.
+
+| 일반화 축 | 바뀌는 조건 |
+|---------|-----------|
+| 시각 | 처음 보는 배경, 방해물, 물체의 색·겉모습 |
+| 동작 | 처음 보는 물체 위치·방향 |
+| 물리 | 처음 보는 물체 크기·모양 |
+| 의미 | 처음 보는 대상 물체, 지시, 인터넷에서 온 개념 |
+| 언어 접지 | 물체가 여럿인 장면에서 지시한 물체를 조작하는가 |
+
+| 로봇 | 과제 수 | 과제당 시행 | 방법당 총 시행 |
+|------|--------|-----------|-------------|
+| WidowX (BridgeData V2) | 17 | 10 | 170 |
+| Google 로봇 | 12 | 5 | 60 |
+
+### 기준선
+
+| 기준선 | 파라미터 | 설명 |
+|--------|---------|------|
+| RT-1-X | 35M | OpenX 일부로 처음부터 학습한 Transformer 정책 |
+| Octo | 93M | OpenX 일부로 처음부터 학습한 Transformer 정책. 공개 조작 정책 중 최고 성능 |
+| RT-2-X | 55B | 인터넷 사전학습 시각·언어 백본을 쓰는 비공개 최신 VLA |
+
+### WidowX 결과
+
+![그림 3 — BridgeData V2 WidowX 평가 결과](https://arxiv.org/html/2406.09246v3/bridge_results.png)
+
+*그림 3 — 방법당 170회 시행의 평균 성공률과 일반화 범주별 성공률, 범주별 과제 예시입니다.*
+
+| 범주 | RT-1-X | Octo | RT-2-X | OpenVLA |
+|------|--------|------|--------|---------|
+| **평균** | **18.5 ± 2.7** | **20.0 ± 2.6** | **50.6 ± 3.5** | **70.6 ± 3.2** |
+| 시각 일반화 | 8.0 | 29.0 | 52.0 | 87.0 |
+| 동작 일반화 | 25.0 | 7.5 | 55.0 | 60.0 |
+| 물리 일반화 | 10.0 | 20.0 | 26.7 | 76.7 |
+| 의미 일반화 | 26.3 | 0.0 | 38.8 | 36.3 |
+| 언어 접지 | 30.0 | 40.0 | 85.0 | 90.0 |
+
+*단위는 성공률(%)입니다. 평균 행의 ± 뒤 값은 표준오차입니다.*
+
+![그림 7 — BridgeData V2 WidowX 평가 과제](https://arxiv.org/html/2406.09246v3/bridge_tasks_vertical.png)
+
+*그림 7 — 17개 과제의 시작 상태와 과제를 끝낸 뒤의 예시 상태를 짝으로 보여 줍니다. 아래 세 줄은 언어 접지 과제입니다.*
+
+17개 과제는 시각 일반화 5개, 동작 일반화 2개, 물리 일반화 3개, 의미 일반화 4개, 언어 접지 3개입니다. 성공은 1점, 실패는 0점이고, 일부 어려운 과제는 대상 물체로 다가가는 등 일부만 해내면 0.5점을 줍니다. 원래 데이터에 쓰인 물체를 똑같이 구하지 못했기 때문에, 모든 과제에는 어떤 형태로든 분포 변화가 들어 있습니다.
+
+| 범주 | 과제 | RT-1-X | Octo | RT-2-X | OpenVLA |
+|------|------|--------|------|--------|---------|
+| 시각 | Put Eggplant into Pot (Easy Version) | 1 | 5 | 7 | 10 |
+| 시각 | Put Eggplant into Pot | 0 | 1 | 5 | 10 |
+| 시각 | Put Cup from Counter into Sink | 1 | 1 | 0 | 7 |
+| 시각 | Put Eggplant into Pot (w/ Clutter) | 1 | 3.5 | 6 | 7.5 |
+| 시각 | Put Yellow Corn on Pink Plate | 1 | 4 | 8 | 9 |
+| 동작 | Lift Eggplant | 3 | 0.5 | 6.5 | 7.5 |
+| 동작 | Put Carrot on Plate (w/ Height Change) | 2 | 1 | 4.5 | 4.5 |
+| 물리 | Put Carrot on Plate | 1 | 0 | 1 | 8 |
+| 물리 | Flip Pot Upright | 2 | 6 | 5 | 8 |
+| 물리 | Lift AAA Battery | 0 | 0 | 2 | 7 |
+| 의미 | Move Skull into Drying Rack | 1 | 0 | 5 | 5 |
+| 의미 | Lift White Tape | 3 | 0 | 0 | 1 |
+| 의미 | Take Purple Grapes out of Pot | 6 | 0 | 5 | 4 |
+| 의미 | Stack Blue Cup on Pink Cup | 0.5 | 0 | 5.5 | 4.5 |
+| 언어 접지 | Put {Eggplant, Red Bottle} into Pot | 2.5 | 4 | 8.5 | 7.5 |
+| 언어 접지 | Lift {Cheese, Red Chili Pepper} | 1.5 | 2.5 | 8.5 | 10 |
+| 언어 접지 | Put {Blue Cup, Pink Cup} on Plate | 5 | 5.5 | 8.5 | 9.5 |
+| | **평균 성공률** | **18.5 ± 2.7%** | **20.0 ± 2.6%** | **50.6 ± 3.5%** | **70.6 ± 3.2%** |
+
+*표 4 — 과제별 10회 시행 중 성공 횟수. 0.5는 부분 성공 점수입니다.*
+
+평가 과제가 원래 학습 데이터와 얼마나 다른지도 부록에 적혀 있습니다.
+
+![그림 8 — 원래 BridgeData V2 싱크대 환경 과제](https://arxiv.org/html/2406.09246v3/original_bridge_tasks.png)
+
+*그림 8 — 원래 데이터의 싱크대 환경 시연은 모두 말단장치가 대상 물체 바로 위에서 시작합니다.*
+
+원래 BridgeData V2의 싱크대 환경에는 "Flip Pot Upright", "Put Carrot on Plate", "Put Cup from Counter (or Drying Rack) into Sink", "Put Eggplant into Pot", "Put Knife on Cutting Board", "Put Spoon in Pot", "Turn Lever Vertical to Front" 7개 과제의 시연이 있습니다. 이 시연은 모두 말단장치가 대상 물체 바로 위에서 시작합니다. 평가에서는 "Put Eggplant into Pot (Easy Version)" 하나만 그렇게 시작하고, 나머지 16개는 싱크대 위 고정 위치에서 시작해 로봇이 물체까지 수평으로 팔을 뻗어야 합니다. 여기에 로봇·싱크대·카메라 위치, 조명과 배경, 물체가 원래 데이터와 조금씩 달라서, RT-1-X와 Octo의 성공률이 이전 연구에서 보고한 값보다 낮게 나왔습니다.
+
+### Google 로봇 결과
+
+![그림 4 — Google 로봇 평가 결과](https://arxiv.org/html/2406.09246v3/rt1_results.png)
+
+*그림 4 — 방법당 60회 시행의 평균 성공률과, 학습 분포 안·밖 과제별 성공률입니다.*
+
+| 범주 | RT-1-X | Octo | RT-2-X | OpenVLA |
+|------|--------|------|--------|---------|
+| **평균** | **33.3 ± 6.1** | **26.7 ± 5.8** | **78.3 ± 5.4** | **85.0 ± 4.6** |
+| 분포 안 (5개 과제) | 32.0 | 44.0 | 72.0 | 88.0 |
+| 분포 밖 (7개 과제) | 34.3 | 14.3 | 82.9 | 82.9 |
+
+*단위는 성공률(%)입니다.*
+
+![그림 9 — Google 로봇 평가 과제](https://arxiv.org/html/2406.09246v3/figures/rt1_robot_tasks.jpeg)
+
+*그림 9 — 분포 안 과제와, 처음 보는 배경·물체·지시·인터넷 개념이 들어간 분포 밖 과제입니다.*
+
+| 범주 | 과제 | 분포 밖인 이유 | RT-1-X | Octo | RT-2-X | OpenVLA |
+|------|------|-------------|--------|------|--------|---------|
+| 분포 안 | Pick Coke Can | — | 5 | 1 | 5 | 5 |
+| 분포 안 | Move Apple near Green Can | — | 3 | 3 | 3 | 5 |
+| 분포 안 | Move Blue Chip Bag near Apple | — | 0 | 3 | 4 | 5 |
+| 분포 안 | Place Coke Can Upright | — | 0 | 0 | 4 | 4 |
+| 분포 안 | Open Middle Drawer | — | 0 | 4 | 2 | 3 |
+| 분포 밖 | Move Orange near Brown Chip Bag | 처음 보는 물체(오렌지)와 식탁보 배경 | 1 | 2 | 5 | 5 |
+| 분포 밖 | Pick Pepsi Can | 처음 보는 물체와 식탁보 배경 | 3 | 0 | 5 | 4 |
+| 분포 밖 | Pick Banana | 처음 보는 대상 물체 | 5 | 3 | 5 | 5 |
+| 분포 밖 | Pick Green Cup | 장면의 모든 물체가 처음 봄 | 1 | 0 | 5 | 5 |
+| 분포 밖 | Place Apple on Plate | 처음 보는 물체 관계("위에") | 0 | 0 | 4 | 4 |
+| 분포 밖 | Place Banana in Pan | 처음 보는 대상 물체와 물체 관계 | 0 | 0 | 2 | 4 |
+| 분포 밖 | Move Coke Can near Taylor Swift | 로봇 데이터에 없는 유명인 사진 | 2 | 0 | 3 | 2 |
+| | **평균 성공률** | | **33.3 ± 6.1%** | **26.7 ± 5.8%** | **78.3 ± 5.4%** | **85.0 ± 4.6%** |
+
+*표 6 — 과제별 5회 시행 중 성공 횟수. 오차 막대가 겹쳐 논문은 RT-2-X와 OpenVLA의 평균을 모두 굵게 표시했습니다.*
+
+부록 본문의 과제 이름은 "Move Coke Can to Taylor Swift"이고 표 6의 이름은 "Move Coke Can near Taylor Swift"입니다. 같은 과제를 가리킵니다.
+
+### 결과 해석
+
+RT-1-X와 Octo는 시험한 과제에서 고전했습니다. 방해물이 있으면 엉뚱한 물체를 조작하는 경우가 많았고, 팔을 목적 없이 휘젓기도 했습니다. 이 평가는 인터넷 사전학습 VLA를 시험하려고 이전 연구보다 더 강한 일반화를 요구하므로, 인터넷 사전학습이 없는 모델의 성능이 낮은 것은 예상된 결과라고 저자들은 적습니다. RT-2-X는 두 모델보다 확실히 높아, 큰 사전학습 VLM이 로봇에 도움이 된다는 것을 보여 줍니다.
+
+OpenVLA는 Google 로봇에서 RT-2-X와 비슷하고, WidowX에서는 RT-2-X보다 크게 높습니다. 정성적으로도 RT-2-X와 OpenVLA는 방해물이 있을 때 올바른 물체로 다가가고, 대상 물체 방향에 맞춰 말단장치를 회전하고, 불안정하게 잡은 물체를 다시 잡는 등 다른 모델보다 강건하게 움직였습니다.
+
+RT-2-X가 앞선 범주는 WidowX의 의미 일반화(38.8 대 36.3)뿐입니다. 저자들은 RT-2-X가 더 큰 인터넷 사전학습 데이터를 쓰고, 로봇 데이터와 인터넷 데이터를 함께 쓰는 공동 미세조정으로 사전학습 지식을 더 잘 보존했기 때문으로 봅니다. OpenVLA는 로봇 데이터만으로 미세조정했습니다. 나머지 범주에서 OpenVLA가 비슷하거나 높은 이유로는 세 가지를 듭니다.
+
+| 요인 | OpenVLA | RT-2-X |
+|------|---------|--------|
+| 학습 궤적 수 | 97만 개 | 35만 개 |
+| 데이터 정리 | Bridge의 0 행동 제거 등 | 하지 않음 |
+| 시각 부호기 | SigLIP + DINOv2 결합 | 단일 부호기 |
+
+29개 과제 전체로 보면, WidowX 170회와 Google 로봇 60회를 합친 230회 기준 평균이 OpenVLA 74.4%, RT-2-X 57.8%로 차이가 16.5%p입니다. 표 4와 표 6의 평균을 시행 수로 가중해 계산한 값이며, 초록의 16.5%와 일치합니다.
+
+### RT-2-X 질의 방식 보정
+
+부록 C에 따르면 RT-2-X는 Bridge 데이터의 0 행동을 정리하지 않고 학습돼, 그대로 쓰면 평가 중에 자주 멈춥니다. 비공개 모델이라 재학습할 수 없으므로, 저자들은 **두 번째로 확률이 높은 행동**을 질의하는 방식으로 평가했습니다. 가장 확률이 높은 행동이 0인 경우가 많았고, 두 번째 행동은 0이 아니었기 때문입니다. Open X-Embodiment 연구에서 RT-2-X 개발자들이 BridgeData V2 평가에 쓴 방법과 같습니다.
+
+첫 번째 행동이 0일 때만 두 번째 행동을 다시 질의하는 동적 방식도 시도했지만, 항상 두 번째 행동을 쓰는 방식보다 성능이 낮았습니다. 궤적 중간에 다시 질의하는 동안 생기는 지연이 로봇 움직임을 잠깐씩 끊어, 동역학이 달라지기 때문으로 봅니다.
+
+---
+
+## 8. 실험 2 — 새 로봇 설정의 데이터 효율적 적응
+
+기존 연구는 주로 VLA를 추가 학습 없이 평가했습니다. 새 과제와 로봇에 VLA를 효과적으로 미세조정하는 방법은 널리 쓰이려면 꼭 필요한데도 거의 연구되지 않았습니다.
+
+### 실험 설정
+
+목표 과제의 시연 10~150개로 모델의 모든 파라미터를 미세조정하는 단순한 방법을 씁니다. 전체 미세조정 한 번에 A100 8장으로 과제당 5~15시간(데이터 크기에 따라)이 걸렸습니다.
+
+| 설정 | 로봇 | 제어기 |
+|------|------|-------|
+| Franka-Tabletop | 테이블에 고정한 Franka Emika Panda 7자유도 팔 | 5Hz 비차단 제어기 |
+| Franka-DROID | DROID 데이터셋의 Franka 팔 설정, 이동식 스탠딩 책상에 설치 | 15Hz 비차단 제어기 |
+
+Franka 팔은 로봇 학습 연구에서 널리 쓰여 OpenVLA를 미세조정할 가능성이 높은 로봇이라 골랐고, 제어 주기가 다른 두 설정으로 여러 사용 상황을 확인합니다.
+
+### 과제와 시연 수
+
+| 설정 | 과제 | 종류 | 학습 시연 수 | 분포 밖 평가 조건 |
+|------|------|------|-----------|---------------|
+| Franka-Tabletop | Put Carrot in Bowl | 단일 지시 | 50 | 당근 대신 처음 보는 가지 |
+| Franka-Tabletop | Pour Corn into Pot | 단일 지시 | 50 | 처음 보는 갈색 식탁보 |
+| Franka-Tabletop | Flip Pot Upright | 단일 지시 | 10 | 처음 보는 흰색 식탁보 |
+| Franka-Tabletop | Move \<object\> onto Plate | 다중 지시 | 150 | 처음 보는 물체 세 개 |
+| Franka-Tabletop | Knock \<object\> Over | 다중 지시 | 70 | 물체 뒤에 처음 보는 방해물 두 개(빨간 컵, 갈색 상자) |
+| Franka-Tabletop | Cover \<object\> with Towel | 다중 지시 | 45 | 물체를 뒤집어 처음 보는 위치에 둠 |
+| Franka-DROID | Wipe Table | 시각 강건성 | 70 | 처음 보는 방해물 |
+
+단일 지시 과제는 장면과 지시가 좁게 정해진 과제입니다. 다중 지시 과제는 물체 세 개 중 지시가 가리키는 하나를 골라 조작해야 합니다.
+
+![그림 10 — Franka-Tabletop 미세조정 과제](https://arxiv.org/html/2406.09246v3/franka_tabletop_tasks.png)
+
+*그림 10 — 위 세 줄은 단일 지시 과제, 아래 세 줄은 다중 지시 과제입니다. 첫째 열은 학습 분포 안 초기 상태, 둘째 열은 분포 밖 초기 상태입니다.*
+
+![그림 11 — Franka-DROID 미세조정 과제](https://arxiv.org/html/2406.09246v3/figures/droid_wipe_task.jpeg)
+
+*그림 11 — "Wipe Table" 과제. 왼쪽은 분포 안 시행, 오른쪽은 방해물이 놓인 분포 밖 시행입니다.*
+
+"Wipe Table"은 솔을 잡고 작은 갈색 물체 세 개를 쓰레받기에 쓸어 담는 과제입니다. 시행마다 최대 2점이고, 세 개를 모두 담으면 2점, 한두 개를 담으면 1점, 그 외에는 0점입니다. 분포 안 18회, 분포 밖 12회를 시행해 방법마다 60점 만점으로 채점합니다. Franka-Tabletop 과제는 분포 안 10~12회, 분포 밖 5~6회 시행하고, 다중 지시 과제와 "Flip Pot Upright"에는 부분 성공 0.5점이 있습니다.
+
+### 비교 방법
+
+| 방법 | 설명 |
+|------|------|
+| Diffusion Policy | 데이터 효율적인 최신 모방 학습. 처음부터 학습. 이미지와 자기수용 상태의 두 시점 관측 이력을 받고, 미래 행동 $T$개를 예측해 앞의 $X$개를 실행한 뒤 다시 예측(15Hz: $T=16$, $X=8$ / 5Hz: $T=8$, $X=3$). 이 절에서 유일하게 절대 직교좌표로 로봇을 제어 |
+| Diffusion Policy (matched) | OpenVLA와 입력·출력을 맞춘 버전. 이미지 한 장만 입력, 자기수용 상태·관측 이력 없음, 행동 묶음 없이 상대 위치 행동 하나만 예측 |
+| Octo | 미세조정을 지원하는 현재 최고의 범용 정책. 같은 데이터로 미세조정 (RT-2-X는 API로 미세조정 불가) |
+| OpenVLA (scratch) | OpenX 사전학습 없이 기본 Prismatic VLM을 바로 목표 데이터로 미세조정. 대규모 로봇 사전학습의 효과를 보는 제거 실험 |
+| **OpenVLA** | OpenX로 사전학습한 OpenVLA를 같은 데이터로 미세조정 |
+
+Diffusion Policy의 행동 묶음과 관측 이력은 [Diffusion Policy 논문해석](/blog/paper-review/pre-vla/diffusion-policy)에서 자세히 다룹니다.
+
+### 결과
+
+![그림 5 — 새 로봇 설정 적응 결과](https://arxiv.org/html/2406.09246v3/finetune_results.png)
+
+*그림 5 — Franka-Tabletop 6개 과제와 Franka-DROID 1개 과제에서 처음부터 학습한 Diffusion Policy와 미세조정한 범용 정책의 성공률입니다.*
+
+| 설정 | 조건 | 시행 | Diffusion Policy | DP (matched) | Octo | OpenVLA (scratch) | OpenVLA |
+|------|------|-----|-----------------|-------------|------|------------------|---------|
+| Tabletop | Put Carrot in Bowl (분포 안) | 10 | 90.0 | 80.0 | 40.0 | 70.0 | 70.0 |
+| Tabletop | Put Carrot in Bowl (분포 밖) | 5 | 20.0 | 0.0 | 20.0 | 0.0 | 40.0 |
+| Tabletop | Pour Corn into Pot (분포 안) | 10 | 100.0 | 90.0 | 0.0 | 10.0 | 50.0 |
+| Tabletop | Pour Corn into Pot (분포 밖) | 5 | 80.0 | 60.0 | 0.0 | 20.0 | 60.0 |
+| Tabletop | Flip Pot Upright (분포 안) | 10 | 100.0 | 85.0 | 40.0 | 85.0 | 100.0 |
+| Tabletop | Flip Pot Upright (분포 밖) | 5 | 50.0 | 20.0 | 0.0 | 40.0 | 80.0 |
+| Tabletop | Move \<object\> onto Plate (분포 안) | 12 | 25.0 | 25.0 | 41.7 | 8.3 | 75.0 |
+| Tabletop | Move \<object\> onto Plate (분포 밖) | 6 | 8.3 | 33.3 | 8.3 | 33.3 | 58.3 |
+| Tabletop | Knock \<object\> Over (분포 안) | 12 | 33.3 | 25.0 | 83.3 | 75.0 | 75.0 |
+| Tabletop | Knock \<object\> Over (분포 밖) | 6 | 16.7 | 16.7 | 33.3 | 58.3 | 83.3 |
+| Tabletop | Cover \<object\> with Towel (분포 안) | 12 | 16.7 | 20.8 | 91.7 | 41.7 | 50.0 |
+| Tabletop | Cover \<object\> with Towel (분포 밖) | 6 | 16.7 | 33.3 | 91.7 | 50.0 | 50.0 |
+| Tabletop | **평균** | | **48.5 ± 4.9** | **43.4 ± 4.7** | **43.4 ± 4.4** | **43.4 ± 4.6** | **67.2 ± 4.0** |
+| DROID | Wipe Table (분포 안) | 18 | 50.0 | 27.8 | 52.8 | 25.0 | 55.6 |
+| DROID | Wipe Table + 방해물 (분포 밖) | 12 | 12.5 | 25.0 | 16.7 | 16.7 | 62.5 |
+| DROID | **평균** | | **35.0 ± 8.0** | **26.7 ± 7.5** | **38.3 ± 8.5** | **21.7 ± 6.6** | **58.3 ± 7.2** |
+
+*표 7 — 단위는 성공률(%)입니다. Franka-Tabletop은 5Hz, Franka-DROID는 15Hz입니다.*
+
+과제 성격에 따라 강한 방법이 다릅니다. "Put Carrot in Bowl"과 "Pour Corn into Pot" 같은 좁은 단일 지시 과제에서는 두 Diffusion Policy가 범용 정책과 비슷하거나 더 높습니다. 물체가 여럿이고 언어 지시를 따라야 하는 다양한 과제에서는 사전학습한 범용 정책(Octo, OpenVLA)이 더 높습니다. OpenX 사전학습이 이런 과제 적응에 도움이 된다는 근거로, 사전학습을 뺀 OpenVLA (scratch)의 낮은 성능을 듭니다.
+
+그림 5의 과제별 막대는 표 7의 분포 안·밖 결과를 시행 수로 가중해 합친 값입니다. 예를 들어 OpenVLA의 "Put Carrot in Bowl"은 (70.0 × 10 + 40.0 × 5) ÷ 15 = 60.0입니다.
+
+| 방법 | Carrot | Corn | Flip | Move | Knock | Cover | Wipe | 그림 5 평균 |
+|------|--------|------|------|------|-------|-------|------|----------|
+| Diffusion Policy | 66.7 | 93.3 | 83.3 | 19.4 | 27.8 | 16.7 | 35.0 | 43.4 |
+| DP (matched) | 53.5 | 80.0 | 63.3 | 27.8 | 22.2 | 25.0 | 26.7 | 37.1 |
+| Octo | 33.3 | 0.0 | 26.7 | 30.6 | 66.7 | 91.7 | 38.3 | 41.5 |
+| OpenVLA (scratch) | 46.7 | 13.3 | 70.0 | 16.7 | 69.4 | 44.4 | 21.7 | 35.2 |
+| **OpenVLA** | **60.0** | **53.3** | **93.3** | **69.4** | **77.8** | **50.0** | **58.3** | **63.8** |
+
+*그림 5에 인쇄된 값을 옮긴 표입니다.*
+
+OpenVLA는 전체 평균이 가장 높고, 이 과제 단위 값으로 보면 7개 과제 모두에서 50% 이상인 유일한 방법입니다. 다만 분포 안·밖을 나눈 표 7의 개별 조건으로 보면 "Put Carrot in Bowl" 분포 밖 조건이 40.0%입니다. 논문의 "모든 과제에서 50% 이상"은 과제 단위로 합친 값 기준입니다. 저자들은 이 결과를 근거로, 다양한 언어 지시가 들어간 모방 학습 과제라면 OpenVLA가 좋은 기본 선택이 될 수 있다고 봅니다. 좁지만 정교한 과제에서는 Diffusion Policy의 궤적이 여전히 더 부드럽고 정밀했고, Diffusion Policy의 행동 묶음과 시간 방향 평활화를 OpenVLA에 넣는 것을 이후 연구 방향으로 제시합니다.
+
+#### 그림 5 평균값의 계산 방식
+
+초록의 "Diffusion Policy보다 20.4% 높다"는 그림 5 평균(63.8 − 43.4)에서 나온 값입니다. 그런데 그림 5 평균은 표 7의 두 설정 평균을 단순 평균하거나 시행 수 129회로 가중한 값과 맞지 않습니다.
+
+| 합치는 방식 | OpenVLA | Diffusion Policy | 차이 |
+|-----------|---------|-----------------|------|
+| 두 설정 평균의 단순 평균 | 62.8 | 41.7 | 21.0 |
+| 시행 수 가중 (Tabletop 99회 + DROID 30회) | 65.1 | 45.4 | 19.8 |
+| 점수 가중 (Tabletop 99회 + DROID 60점) | 63.8 | 43.4 | 20.4 |
+| 그림 5 인쇄 값 | 63.8 | 43.4 | 20.4 |
+
+*위 세 행은 표 7에서 계산한 값입니다.*
+
+DROID 과제의 가중치를 시행 수 30이 아니라 만점 60점으로 두면 다섯 방법 모두 그림 5의 평균과 일치합니다. 그림 5 캡션은 "129회 시행"으로 계산했다고 적었지만, 실제 값은 DROID를 60으로 가중한 계산과 맞습니다.
+
+---
+
+## 9. 실험 3 — 파라미터 효율 미세조정
+
+앞 절의 전체 미세조정은 A100 8장으로 과제당 5~15시간이 걸렸습니다. VLA 사전학습보다는 훨씬 적지만, 저자들은 계산량과 학습 파라미터 수를 더 줄이는 방법을 비교합니다.
+
+### 비교한 방법
+
+| 방법 | 학습하는 부분 |
+|------|------------|
+| 전체 미세조정(Full FT) | 모든 가중치 |
+| 마지막 층만(Last layer only) | Transformer 백본의 마지막 층과 토큰 임베딩 행렬 |
+| 시각 고정(Frozen vision) | 시각 부호기를 고정하고 나머지 전부 |
+| 샌드위치(Sandwich) | 시각 부호기, 토큰 임베딩 행렬, 마지막 층 |
+| LoRA | 모델의 모든 선형 층에 저랭크 적응 적용 (랭크 $r$ 여러 값) |
+
+### LoRA의 구조
+
+LoRA(Low-Rank Adaptation)는 원래 가중치 행렬 $W$를 고정하고, 작은 행렬 두 개의 곱 $BA$를 더해서 쓰는 방법입니다. 학습하는 것은 $A$와 $B$뿐입니다.
+
+$$
+W' = W + BA
+$$
+
+가로세로 4096인 가중치 행렬 하나로 파라미터 수를 세어 보겠습니다.
+
+| 방식 | 학습하는 행렬 | 학습 파라미터 수 |
+|------|------------|--------------|
+| 전체 미세조정 | $W$ (4096 × 4096) | 16,777,216 |
+| LoRA, $r=32$ | $A$ (32 × 4096), $B$ (4096 × 32) | 262,144 |
+| LoRA, $r=64$ | $A$ (64 × 4096), $B$ (4096 × 64) | 524,288 |
+
+*행렬 크기 4096은 계산을 보여 주기 위한 임의의 예시 값이고, 파라미터 수는 그 크기로 계산한 결과입니다.*
+
+$A$는 4096차원 입력을 32차원으로 줄이고 $B$는 다시 4096차원으로 되돌리므로, $BA$는 $W$와 같은 4096 × 4096 크기이면서 32개 방향으로만 변화를 줍니다. 이 예시에서는 학습 파라미터가 전체의 약 1.6%입니다. 랭크 $r$을 키우면 표현할 수 있는 변화의 방향이 늘고, 학습 파라미터도 $r$에 비례해 늘어납니다.
+
+### 결과
+
+| 방법 | 성공률 | 학습 파라미터 (× 10⁶) | GPU 메모리 (배치 16) |
+|------|-------|-------------------|------------------|
+| 전체 미세조정 | 69.7 ± 7.2% | 7,188.1 | 163.3 GB* |
+| 마지막 층만 | 30.3 ± 6.1% | 465.1 | 51.4 GB |
+| 시각 고정 | 47.0 ± 6.9% | 6,760.4 | 156.2 GB* |
+| 샌드위치 | 62.1 ± 7.9% | 914.2 | 64.0 GB |
+| LoRA, 랭크 32 | 68.2 ± 7.5% | 97.6 | 59.7 GB |
+| LoRA, 랭크 64 | 68.2 ± 7.8% | 195.2 | 60.5 GB |
+
+*표 1 — 방법당 33회 시행. \*는 FSDP로 GPU 두 장에 나눠 올린 경우입니다.*
+
+| 과제 | 시행 | 전체 | 마지막 층만 | 시각 고정 | 샌드위치 | LoRA r=32 | LoRA r=64 |
+|------|-----|------|----------|--------|--------|----------|----------|
+| Put Carrot in Bowl (분포 안) | 10 | 90.0 | 40.0 | 40.0 | 90.0 | 60.0 | 90.0 |
+| Put Carrot in Bowl (분포 밖) | 5 | 40.0 | 0.0 | 40.0 | 0.0 | 60.0 | 40.0 |
+| Move \<object\> onto Plate (분포 안) | 12 | 79.2 | 33.3 | 50.0 | 75.0 | 75.0 | 62.5 |
+| Move \<object\> onto Plate (분포 밖) | 6 | 41.7 | 33.3 | 58.3 | 41.7 | 75.0 | 66.7 |
+| **평균** | | **69.7 ± 7.2%** | **30.3 ± 6.1%** | **47.0 ± 6.9%** | **62.1 ± 7.9%** | **68.2 ± 7.5%** | **68.2 ± 7.8%** |
+
+*표 8 — Franka-Tabletop의 단일 지시 과제 하나와 다중 지시 과제 하나. 학습 시연은 각각 50개와 150개로 8절과 같습니다.*
+
+이 절과 다음 절의 실험은 최종 OpenVLA가 아니라 조금 작은 버전으로 했습니다. Octo와 같은 OpenX 혼합으로 사전학습했고, 시각 부호기로 SigLIP 하나만 씁니다.
+
+마지막 층만 학습하거나 시각 부호기를 고정하면 성능이 낮습니다. 목표 장면에 맞춰 시각 특징을 더 조정하는 것이 중요하다는 뜻입니다. 샌드위치 방식은 시각 부호기를 학습하므로 성능이 더 좋고, LLM 백본 전체를 학습하지 않아 메모리도 적게 씁니다. LoRA는 성능과 학습 메모리의 균형이 가장 좋습니다. 샌드위치보다 높고 전체 미세조정과 비슷한 성공률을 내면서, 학습하는 파라미터는 전체의 1.4%(97.6 ÷ 7,188.1)입니다. 랭크는 성능에 거의 영향이 없어 기본값으로 $r=32$를 권합니다. LoRA를 쓰면 A100 한 장으로 10~15시간에 새 과제를 미세조정할 수 있어, 전체 미세조정보다 계산량이 8배 줄어듭니다.
+
+---
+
+## 10. 실험 4 — 양자화를 이용한 메모리 효율 추론
+
+### 양자화
+
+OpenVLA는 7B 모델이라, 파라미터가 1억 개 미만인 Octo 같은 기존 공개 정책보다 추론 메모리를 많이 씁니다. 기본 방식은 bfloat16으로 저장·로드하는 것이고, 32비트보다 메모리가 절반이라 16GB GPU에서 실행할 수 있습니다. **양자화(quantization)** 는 가중치를 이보다 더 적은 비트로 저장하는 방법입니다.
+
+| 정밀도 | 숫자 하나당 | 표현할 수 있는 서로 다른 값 | 7B 파라미터 가중치 크기 |
+|--------|----------|---------------------|-------------------|
+| bfloat16 | 16비트 | 부동소수점 | 약 14 GB |
+| int8 | 8비트 | 256개 | 약 7 GB |
+| int4 | 4비트 | 16개 | 약 3.5 GB |
+
+*가중치 크기는 파라미터 70억 개에 비트 수를 곱해 계산한 값입니다. 실제 추론에는 계산용 메모리가 더 필요합니다.*
+
+int4는 가중치 하나를 16개 값 중 하나로만 표현하므로, 원래 값과 조금씩 달라집니다. 메모리를 줄이는 대신 정확도가 떨어지거나, 양자화 연산이 추가돼 추론이 느려질 수 있습니다.
+
+### 결과
+
+| 정밀도 | Bridge 성공률 | GPU 메모리 |
+|--------|-------------|----------|
+| bfloat16 | 71.3 ± 4.8% | 16.8 GB |
+| int8 | 58.1 ± 5.1% | 10.2 GB |
+| int4 | 71.9 ± 4.7% | 7.0 GB |
+
+*표 2 — 대표 BridgeData V2 과제 8개, 방법당 80회 시행.*
+
+| 범주 | 과제 | bfloat16 | int8 | int4 |
+|------|------|---------|------|------|
+| 시각 | Put Eggplant into Pot (Easy Version) | 9 | 7 | 9 |
+| 시각 | Put Eggplant into Pot | 7 | 7 | 7 |
+| 시각 | Put Cup from Counter into Sink | 5 | 3 | 7 |
+| 동작 | Lift Eggplant | 6 | 4 | 7.5 |
+| 물리 | Put Carrot on Plate | 6 | 5 | 7 |
+| 물리 | Lift AAA Battery | 7 | 5 | 3 |
+| 의미 | Take Purple Grapes out of Pot | 8 | 8 | 9 |
+| 언어 접지 | Put {Eggplant, Red Bottle} into Pot | 9 | 7.5 | 8 |
+| | **평균 성공률** | **71.3 ± 4.8%** | **58.1 ± 5.1%** | **71.9 ± 4.7%** |
+
+*표 5 — 과제별 10회 시행 중 성공 횟수.*
+
+int4는 bfloat16과 성공률이 같은 수준이면서 메모리를 절반 이하로 씁니다. int8은 성공률이 크게 떨어졌습니다. 그림 6에서 보듯 8비트 양자화는 추가 연산 때문에 대부분의 GPU에서 추론이 오히려 느려집니다. 평가에 쓴 A5000에서 int8은 1.2Hz로만 실행되는데, BridgeData V2 과제는 5Hz 비차단 제어기로 수집한 데이터라 로봇 동역학이 학습 때와 크게 달라집니다. int4는 GPU 메모리 전송량이 줄어 양자화 연산 비용을 상쇄하고, A5000에서 3Hz로 실행돼 수집 때의 동역학에 더 가깝습니다.
+
+본문 3.5절은 bfloat16 추론에 15GB가 필요하다고 적었고, 표 2는 bfloat16 메모리를 16.8GB로 적었습니다. 표 2의 실험은 위에서 말한 SigLIP 단일 부호기 버전으로 했지만, 두 측정의 조건 차이는 논문에 설명되어 있지 않아 두 값을 모두 적습니다.
+
+### 속도와 행동 품질의 분리 — 차단 제어 실험
+
+저자들은 int8의 성능 하락이 행동 예측 품질이 아니라 추론 속도 때문이라고 가설을 세웁니다. 학습 데이터로 오프라인 평가하면 int8과 int4 모두 bfloat16과 비슷한 토큰 정확도를 냈기 때문입니다. 부록 D.4는 이 가설을 **차단 제어(blocking control)** 로 확인합니다.
+
+| 제어 방식 | 동작 | 추론 속도의 영향 |
+|---------|------|-------------|
+| 비차단 제어 (본 실험) | 로봇이 이전 행동을 실행하는 동안에도 정책이 다음 행동을 계산하고, 준비되는 대로 명령을 바꿈 | 추론이 느리면 같은 시간에 보내는 명령 수가 줄어 로봇 동역학이 달라짐 |
+| 차단 제어 (D.4) | 행동 하나를 로봇이 끝까지 실행한 뒤에 다음 행동을 예측 | 느린 방법에 맞춰 모두 같은 동역학으로 실행되므로, 예측 품질만 비교됨 |
+
+| 범주 | 과제 | bfloat16 | int8 | int4 |
+|------|------|---------|------|------|
+| 시각 | Put Eggplant into Pot (Easy Version) | 10 | 10 | 10 |
+| 시각 | Put Eggplant into Pot | 9 | 10 | 10 |
+| 시각 | Put Cup from Counter into Sink | 5 | 5 | 3 |
+| 동작 | Lift Eggplant | 8 | 7 | 7.5 |
+| 물리 | Put Carrot on Plate | 10 | 10 | 10 |
+| 물리 | Lift AAA Battery | 3 | 6 | 4 |
+| 의미 | Take Purple Grapes out of Pot | 2 | 2 | 2 |
+| 언어 접지 | Put {Eggplant, Red Bottle} into Pot | 9 | 9.5 | 8.5 |
+| | **평균 성공률** | **70.0 ± 5.1%** | **74.4 ± 4.9%** | **68.8 ± 5.2%** |
+
+*표 11 — 차단 제어로 평가한 양자화 추론 결과. 세 평균의 오차 막대가 모두 겹칩니다.*
+
+차단 제어에서는 int8이 bfloat16, int4와 비슷한 성능을 냅니다. 비차단 제어에서의 int8 성능 하락이 추론 속도 때문이라는 가설과 맞는 결과이고, 가장 낮은 정밀도인 int4에서도 큰 성능 저하가 없습니다.
+
+부록 D의 도입부와 D.4는 양자화 실험을 "5.3절"에서 다뤘다고 적었지만, 양자화 실험은 5.4절입니다(5.3절은 파라미터 효율 미세조정). 이 글에서는 10절에 해당합니다.
+
+---
+
+## 11. 추가 제거 실험
+
+### OpenX 학습의 효과와 시각 부호기 결합의 효과
+
+| 모델 | 시각 부호기 | 로봇 학습 데이터 |
+|------|----------|--------------|
+| OpenVLA | SigLIP + DINOv2 | OpenX 혼합 |
+| OpenVLA-Bridge | SigLIP + DINOv2 | BridgeData V2만 |
+| OpenVLA-Bridge-SigLIP | SigLIP만 | BridgeData V2만 |
+
+| 범주 | 과제 | OpenVLA | OpenVLA-Bridge | OpenVLA-Bridge-SigLIP |
+|------|------|---------|---------------|---------------------|
+| 시각 | Put Eggplant into Pot (Easy Version) | 10 | 8 | 8 |
+| 시각 | Put Eggplant into Pot | 10 | 2 | 3 |
+| 시각 | Put Cup from Counter into Sink | 7 | 4 | 2 |
+| 동작 | Lift Eggplant | 7.5 | 5.5 | 6.5 |
+| 물리 | Put Carrot on Plate | 8 | 4 | 1 |
+| 물리 | Lift AAA Battery | 7 | 2 | 2 |
+| 의미 | Take Purple Grapes out of Pot | 4 | 3 | 3 |
+| 언어 접지 | Put {Eggplant, Red Bottle} into Pot | 7.5 | 8 | 7 |
+| | **평균 성공률** | **76.3 ± 4.8%** | **45.6 ± 5.6%** | **40.6 ± 5.5%** |
+
+*표 9 — 대표 BridgeData V2 WidowX 과제 8개, 과제별 10회 시행 중 성공 횟수.*
+
+OpenX 혼합 대신 BridgeData V2만으로 학습하면 절대 성공률이 약 30%p(76.3 → 45.6) 떨어집니다. 언어 접지 과제는 영향이 없지만 모든 일반화 범주에서 성능이 떨어져, OpenX의 다양한 장면·물체·과제가 일반화에 필요하다는 근거가 됩니다. 같은 BridgeData V2 학습에서 DINOv2를 빼면 약 5%p(45.6 → 40.6) 더 떨어집니다. DINOv2의 낮은 수준 공간 특징은 일부 경우에만 일반화를 돕고, 효과는 OpenX 학습보다 훨씬 작습니다.
+
+표 9의 OpenVLA 열은 표 4의 같은 과제 결과와 값이 같습니다. 같은 8개 과제를 쓴 표 5의 bfloat16 열(71.3%)과 값이 다른 것은, 표 5가 9절에서 말한 SigLIP 단일 부호기 버전으로 평가했기 때문입니다.
+
+### 시각 부호기의 미세조정과 고정
+
+Prismatic 저장소의 서로 다른 사전학습 VLM 두 개(SigLIP ViT-SO 224px, LLaVa v1.5 7B (Reproduction))를 BridgeData V2로 미세조정하면서, 시각 부호기를 고정한 경우와 함께 학습한 경우를 비교합니다. 프로젝트 초기에 한 평가라 초기 환경 구성이 다른 Bridge 실험과 달라, 수치를 직접 비교할 수는 없습니다.
+
+| 과제 | 시행 | SigLIP ViT-SO 고정 | SigLIP ViT-SO 미세조정 | LLaVa v1.5 고정 | LLaVa v1.5 미세조정 |
+|------|-----|-----------------|--------------------|---------------|-----------------|
+| Put Eggplant into Pot | 10 | 7 | 10 | 5 | 9 |
+| Put Corn on Plate | 10 | 10 | 9 | 0 | 9 |
+| **평균 성공률** | | **85** | **95** | **25** | **90** |
+| Put {Eggplant, Red Bottle} into Pot | 4 | 2 | 4 | – | 3 |
+| Put {Blue Cup, Pink Cup} on Plate | 4 | 0 | 0 | – | 0 |
+| Lift {Cheese, Red Chili Pepper} | 4 | 0 | 3 | – | 2 |
+| Put {Strawberry, Lime} into Pot | 4 | 1 | 0 | – | 3 |
+| Move {Sushi, Grapes} | 4 | 3 | 4 | – | 3 |
+| **평균 성공률** | | **30** | **55** | **–** | **55** |
+
+*표 10 — 과제별 성공 횟수. "–"는 성능이 거의 0이고 로봇 동작이 불안정해 평가를 중단한 경우입니다.*
+
+두 VLA 모두 시각 부호기를 함께 미세조정하면 여러 과제에서 성공률이 크게 오릅니다. 고정한 쪽은 일부 경우 로봇이 불안정하게 움직였고, 그래서 개발 초기에 고정 시각 부호기 실험을 더 하지 않기로 했습니다. 두 방식을 모두 평가한 경우만 모으면 미세조정 평균 80.0%, 고정 평균 46.7%입니다. 시행 수로 계산하면 미세조정은 48 ÷ 60, 고정은 28 ÷ 60이라 표 캡션의 값과 일치합니다.
+
+---
+
+## 12. LIBERO 시뮬레이션 실험
+
+부록 E는 OpenVLA를 시뮬레이션 과제에 미세조정합니다. 실제 로봇 데이터로만 사전학습한 모델이 시뮬레이션 환경에도 적응하는지 보고, 로봇 하드웨어가 없는 연구자도 재현할 수 있게 하려는 목적입니다.
+
+### 설정
+
+LIBERO 벤치마크의 네 과제 묶음을 씁니다. 묶음마다 과제 10개, 과제당 사람 원격조작 시연 50개입니다.
+
+| 과제 묶음 | 바뀌는 것 | 시험하는 능력 |
+|---------|---------|-----------|
+| LIBERO-Spatial | 물체는 같고 배치가 다름 | 공간 관계 이해 |
+| LIBERO-Object | 배치는 같고 물체가 다름 | 물체 종류 이해 |
+| LIBERO-Goal | 물체와 배치는 같고 과제 목표가 다름 | 과제별 행동 지식 |
+| LIBERO-Long (LIBERO-10) | 물체·배치·과제가 모두 다양한 장기 과제 | 긴 과제 수행 |
+
+학습 데이터에는 다섯 가지 수정을 합니다.
+
+1. **해상도 재생성** — 원래 128 × 128 px 이미지를 단순히 키우면 화질이 나빠, 저장된 시연 행동으로 시뮬레이터를 다시 실행해 256 × 256 px 이미지를 새로 렌더링합니다.
+2. **정지 행동 제거** — 이동·회전 성분이 거의 0이고 집게 상태도 바꾸지 않는 행동을 뺍니다. OpenVLA처럼 표현력이 큰 단일 시점 정책은 이런 행동을 흉내 내 특정 상태에서 계속 멈추기 때문입니다.
+3. **이미지 회전** — 저자들의 하드웨어에서 LIBERO가 위아래가 뒤집힌 이미지를 반환해, 학습과 평가 모두 3인칭 이미지를 180도 돌립니다.
+4. **실패 시연 제거** — 시연을 시뮬레이터에서 다시 실행해 과제에 실패한 시연을 뺍니다. Spatial 500개 중 68개, Object 500개 중 46개, Goal 500개 중 72개, Long 500개 중 121개를 뺐습니다.
+5. **3인칭 카메라만 사용** — OpenVLA의 입력이 3인칭 이미지뿐이라, 공정한 비교를 위해 모든 방법에서 손목 카메라 이미지를 쓰지 않습니다.
+
+비교 방법은 처음부터 학습한 Diffusion Policy(DistilBERT 언어 임베딩으로 조건을 거는 DROID 논문 구현), 미세조정한 Octo, LoRA($r=32$)로 미세조정한 OpenVLA입니다. 과제 묶음마다 따로 학습하고, 묶음마다 500회 시행을 무작위 시드 3개로 반복해 평균합니다(통계값 하나당 1500회).
+
+### 결과
+
+| 방법 | Spatial | Object | Goal | Long | 평균 |
+|------|--------|--------|------|------|------|
+| Diffusion Policy (처음부터) | 78.3 ± 1.1% (3위) | 92.5 ± 0.7% (1위) | 68.3 ± 1.2% (3위) | 50.5 ± 1.3% (3위) | 72.4 ± 0.7% (평균 순위 2.5) |
+| Octo (미세조정) | 78.9 ± 1.0% (2위) | 85.7 ± 0.9% (3위) | 84.6 ± 0.9% (1위) | 51.1 ± 1.3% (2위) | 75.1 ± 0.6% (평균 순위 2) |
+| **OpenVLA (미세조정)** | **84.7 ± 0.9% (1위)** | 88.4 ± 0.8% (2위) | 79.2 ± 1.0% (2위) | **53.7 ± 1.3% (1위)** | **76.5 ± 0.6% (평균 순위 1.5)** |
+
+*표 12 — LIBERO 시뮬레이션 벤치마크 결과. 순위는 과제 묶음 안에서 1이 가장 좋습니다.*
+
+저자들은 과제 묶음마다 난이도가 달라 평균 성공률보다 평균 순위가 기본 방법을 고르는 데 더 유용하다고 적습니다. OpenVLA가 평균 성공률과 평균 순위 모두 가장 좋지만, 다른 방법과의 차이는 실제 로봇 미세조정 실험보다 작습니다. OpenVLA가 실제 로봇 데이터로만 사전학습돼 시뮬레이션과의 환경·동역학 차이가 있기 때문으로 봅니다. 역시 실제 로봇 데이터로 사전학습한 Octo도 처음부터 학습한 Diffusion Policy보다 조금만 높았습니다. 사전학습 혼합에 시뮬레이션 데이터를 넣으면 차이가 커질 것으로 예상합니다.
+
+---
+
+## 13. 저자가 밝힌 한계
+
+첫째, 이미지 한 장만 관측으로 받습니다. 실제 로봇 설정은 센서 구성이 다양하므로 여러 이미지, 자기수용 상태, 관측 이력을 받도록 확장해야 합니다. 이미지와 텍스트가 섞인 데이터로 사전학습한 VLM을 쓰면 이런 입력을 다루기 쉬울 수 있다고 봅니다.
+
+둘째, 추론 처리량을 높여야 합니다. 50Hz로 동작하는 ALOHA 같은 고주파 제어 설정에서 VLA를 쓰려면 필요하고, 그래야 이 논문에서 다룬 것보다 정교한 양팔 조작 과제도 시험할 수 있습니다. 행동 묶음(action chunking)이나 추측 디코딩 같은 추론 최적화를 해결책 후보로 듭니다.
+
+셋째, 성능을 더 올릴 여지가 있습니다. 기존 범용 정책보다는 높지만, 시험한 과제에서 성공률이 보통 90% 미만이라 신뢰성이 아주 높지는 않습니다.
+
+넷째, 계산 자원 한계로 여러 VLA 설계 질문을 충분히 탐색하지 못했습니다. 기본 VLM 크기가 VLA 성능에 미치는 영향, 로봇 행동 데이터와 인터넷 시각-언어 데이터를 함께 학습하는 공동 학습의 효과, VLA에 가장 적합한 시각 특징이 무엇인지가 남은 질문입니다. 저자들은 모델과 코드 공개가 이 질문들을 함께 연구하는 데 쓰이기를 기대합니다.
+
+---
+
+## 14. 정리 — 계보에서의 위치
+
+- **공개 VLM에서 출발한 공개 VLA** — Prismatic-7B(SigLIP + DINOv2 → 2층 MLP → Llama 2 7B)를 로봇 행동 토큰 예측으로 미세조정하고, 데이터 구성·코드·가중치를 모두 공개했습니다.
+- **RT-2의 행동 토큰화 계승과 수정** — 차원별 256구간 이산화와 드문 토큰 256개 덮어쓰기는 그대로 쓰고, 구간 범위를 최솟값·최댓값 대신 1~99번째 백분위수로 정했습니다.
+- **데이터 정리** — OpenX에서 3인칭 카메라·한 팔 말단장치 제어 데이터만 골라 Octo 가중치로 섞은 97만 개 궤적을 27세대 학습했고, Bridge의 0 행동을 뺐습니다.
+- **결과** — 29개 과제에서 55B RT-2-X보다 16.5%p 높았고, 새 Franka 설정 미세조정에서 Diffusion Policy보다 20.4%p 높았습니다.
+- **효율적인 적응과 추론** — LoRA로 파라미터 1.4%만 학습해 전체 미세조정과 같은 성능을 냈고, int4 양자화로 메모리 7.0GB에서 bfloat16과 같은 성공률을 냈습니다.
+
+### RT-2와의 비교
+
+| 항목 | RT-2 | OpenVLA |
+|------|------|---------|
+| 파라미터 | 5B · 12B · 55B | 7B |
+| 기본 VLM | PaLI-X, [PaLM-E](/blog/paper-review/pre-vla/palm-e) (비공개) | Prismatic-7B (공개 구성 요소) |
+| 시각 부호기 | ViT-22B, ViT-4B | SigLIP + DINOv2 결합 |
+| 로봇 데이터 | 구글 로봇 한 종의 시연 | OpenX 97만 개 궤적, 여러 로봇 |
+| 학습 방식 | 웹 데이터와 공동 미세조정 | 로봇 데이터만으로 미세조정 |
+| 행동 이산화 범위 | 최솟값~최댓값 | 1~99번째 백분위수 |
+| 추론 | 여러 TPU의 클라우드 (1–5 Hz) | RTX 4090 한 장에서 약 6Hz |
+| 공개 | 비공개 | 데이터 구성·코드·가중치 공개 |
+
+OpenVLA가 남긴 한계는 이후 VLA 연구가 다룬 문제와 이어집니다. 행동을 256구간 토큰으로 하나씩 자기회귀 생성하는 방식은 행동 하나에 토큰 7개를 차례로 만들어야 해서 느리고, 구간 폭보다 정밀한 값을 표현할 수 없습니다. 저자들도 고주파 제어와 정교한 과제에서 행동 묶음이 필요하다고 적었습니다. 이후 [π0](/blog/paper-review/vla/pi0)은 VLM에 연속 행동 묶음을 flow matching으로 생성하는 별도 모듈을 붙였고, [OpenVLA-OFT](/blog/paper-review/vla/openvla-oft)는 OpenVLA의 미세조정 방식을 바꿔 속도와 성공률을 높였습니다.
+
+전체 목록은 [VLA 계보 목차](/blog/paper-review/vla)에서 볼 수 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/vla/open-x-embodiment","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"3편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/vla/pi0","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"5편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

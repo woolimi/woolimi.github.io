@@ -1,0 +1,656 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models\",\"description\":\"로봇 행동 묶음을 이산 코사인 변환과 바이트 쌍 부호화로 압축해 토큰 수를 줄이고, 자기회귀 VLA가 50Hz 양팔 조작까지 학습하게 만든 FAST와 범용 토크나이저 FAST+, π0-FAST를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2501.09747v1/figures/convergence_2.jpg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/vla/fast\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"6편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models"}]
+10:Tc551,
+## 들어가며
+
+[RT-2 논문해석](/blog/paper-review/vla/rt-2)과 [OpenVLA 논문해석](/blog/paper-review/vla/openvla)은 로봇 행동을 차원마다 256개 구간으로 나눠 토큰으로 바꾸고, 시각-언어 모델(Vision-Language Model, VLM)이 그 토큰을 [GPT-3 논문해석](/blog/paper-review/pre-vla/gpt-3)에서 다룬 다음 토큰 예측으로 하나씩 생성하게 했습니다. 이 방식은 초당 3~5번 정도 명령을 내는 로봇 데이터에서는 잘 동작했습니다. 그런데 초당 20번, 50번 명령을 내는 정교한 조작 데이터에서는 학습이 거의 진행되지 않았습니다.
+
+[π0 논문해석](/blog/paper-review/vla/pi0)은 이 문제를 행동 생성 방식 자체를 바꿔서 풀었습니다. 행동을 토큰으로 만들지 않고, 연속 행동 묶음을 flow matching으로 생성하는 별도 모듈을 VLM에 붙였습니다. FAST는 다른 방향을 택합니다. 행동을 토큰으로 바꾸는 방법만 고치고, 모델 구조와 다음 토큰 예측 학습은 그대로 둡니다. 행동 묶음을 이산 코사인 변환(discrete cosine transform, DCT)으로 주파수 성분으로 바꾸고, 대부분 0이 되는 성분을 바이트 쌍 부호화(byte-pair encoding, BPE)로 압축해 짧은 토큰 열로 만듭니다. 이렇게 만든 토큰으로 π0를 자기회귀 방식으로 학습한 π0-FAST는 확산 방식 π0와 비슷한 성능을 내면서 학습 GPU 시간을 5배 줄였습니다.
+
+📄 [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2501.09747) — Karl Pertsch, Kyle Stachowicz, Brian Ichter, Danny Driess, Suraj Nair, Quan Vuong, Oier Mees, Chelsea Finn, Sergey Levine / Physical Intelligence·UC Berkeley·Stanford, 2025-01 공개
+
+프로젝트 페이지는 [pi.website/research/fast](https://pi.website/research/fast)이고, arxiv 식별자는 2501.09747입니다. 이 글은 v1을 기준으로 합니다.
+
+### 초록 요약
+
+Transformer 기반 VLA 정책 같은 자기회귀 시퀀스 모델은 복잡하고 일반화되는 로봇 행동을 잘 학습합니다. 다만 연속 행동 신호를 어떤 이산 기호로 바꿀지, 곧 행동 토큰화(tokenization) 방법을 정해야 합니다. 저자들은 지금 널리 쓰는 방식인 차원별·시점별 구간 나누기가 고주파 로봇 데이터에서 정교한 기술을 학습할 때 대체로 성능이 낮다는 것을 확인했습니다.
+
+이를 해결하려고 이산 코사인 변환을 이용한 압축 기반 토큰화 방법 **FAST(Frequency-space Action Sequence Tokenization)** 를 제안합니다. FAST를 쓰면 기존 이산화 방법이 완전히 실패하던 고주파·고난도 과제에서도 자기회귀 VLA를 학습할 수 있습니다. 여기에 더해 실제 로봇 행동 궤적 100만 개로 학습한 범용 행동 토크나이저 **FAST+** 를 공개합니다. FAST+는 행동 공간과 제어 주파수가 다른 여러 로봇의 행동 묶음에 그대로 쓸 수 있습니다. 마지막으로 π0 VLA와 결합하면 로봇 데이터 1만 시간 규모로 학습해도 확산 방식 VLA와 같은 성능을 내면서 학습 시간을 최대 5배 줄인다는 것을 보입니다.
+
+![그림 1 — FAST와 π0-FAST 개요](https://arxiv.org/html/2501.09747v1/figures/convergence_2.jpg)
+
+*그림 1 — 시계열 압축으로 로봇 행동 궤적을 토큰화하는 FAST와, 확산 π0와 같은 성능을 5배 빠르게 학습하는 π0-FAST입니다.*
+
+---
+
+## 1. 문제 — 고주파 행동 데이터와 단순 구간 토큰화
+
+### 행동 묶음과 토큰 수
+
+최근 로봇 정책은 행동을 한 걸음씩 내지 않고, 앞으로 $H$걸음 동안의 행동 $a_{1:H}$를 한 번에 예측합니다. 이것을 **행동 묶음(action chunk)** 이라고 합니다. 묶음으로 예측하면 시간적으로 매끄러운 행동이 나오고, 한 걸음씩 예측할 때 오차가 쌓이는 문제도 줄어듭니다.
+
+행동 토큰화는 연속값으로 된 행동 묶음을 어휘표 크기 $|\mathcal{V}|$인 이산 토큰 $n$개의 열로 바꾸는 규칙입니다. 문장 길이가 같아도 텍스트 토큰 수가 다를 수 있듯이, 행동 묶음마다 토큰 수 $n$이 달라도 됩니다.
+
+지금까지 가장 많이 쓰인 방식은 RT-2와 OpenVLA가 쓴 **단순 구간 토큰화(naïve binning tokenization)** 입니다. 차원마다 학습 데이터의 값 범위를 256개 구간으로 나누고, 걸음마다 차원마다 토큰 하나를 만듭니다. $D$차원 행동을 $H$걸음 묶으면 토큰은 정확히 $H \times D$개입니다.
+
+| 데이터 | 행동 차원 $D$ | 제어 주파수 | 1초 묶음의 걸음 수 $H$ | 단순 구간 토큰 수 $H \times D$ |
+|--------|-------------|-----------|---------------------|---------------------------|
+| BridgeV2 | 7 | 5 Hz | 5 | 35 |
+| DROID | 7 | 15 Hz | 15 | 105 |
+| 테이블 정리(Bussing) | 7 | 20 Hz | 20 | 140 |
+| 티셔츠 접기(Shirt Fold) | 14 | 50 Hz | 50 | 700 |
+
+*차원·주파수·토큰 수는 논문 표 I의 값이고, 걸음 수는 1초 묶음 기준으로 계산한 값입니다.*
+
+50Hz로 양팔 14차원을 제어하는 티셔츠 접기에서는 1초 행동 묶음 하나가 토큰 700개가 됩니다. 토큰이 많으면 학습이 어렵고, 추론할 때도 700개를 하나씩 생성해야 해서 느립니다.
+
+![그림 2 — FAST의 효과와 단순 구간 토큰화와의 비교](https://arxiv.org/html/2501.09747v1/teaser.png)
+
+*그림 2 — 왼쪽: FAST로 다음 토큰 예측만으로 정교한 로봇 제어를 학습합니다. 오른쪽: 고주파 데이터일수록 FAST가 OpenVLA식 구간 토큰화보다 앞섭니다.*
+
+---
+
+## 2. 사례 연구 — 표본화 주파수와 예측 오차
+
+### 3차 스플라인 보간 실험
+
+저자들은 토큰화가 학습에 미치는 영향을 단순한 합성 과제로 먼저 확인합니다. 무작위로 만든 점 4개를 지나는 3차 스플라인(cubic spline) 곡선을 예측하는 과제입니다. 모델은 점 4개를 조건으로 받아 곡선 전체를 출력합니다. 조건 정보를 받아 연속값 열을 내므로 행동 묶음을 예측하는 정책과 같은 구조입니다.
+
+같은 곡선을 한 시퀀스당 25걸음에서 800걸음까지 여러 표본화 주파수로 나눠 목표 시퀀스를 만들고, 각 걸음 값을 256개 구간 중 하나로 이산화합니다. 곡선 자체는 바뀌지 않고 몇 걸음으로 잘게 나누느냐만 바뀝니다. 작은 자기회귀 Transformer를 이 토큰으로 학습합니다.
+
+![그림 3 — 표본화 주파수에 따른 예측 성능](https://arxiv.org/html/2501.09747v1/figures/case_study.png)
+
+*그림 3 — 위: 표본화 주파수별 평균 예측 오차. 아래: 점 4개(원)를 보고 검은 점선 곡선을 예측한 결과입니다.*
+
+단순 구간 토큰화로 학습한 모델은 표본화 주파수가 낮을 때 오차가 작습니다. 주파수를 높이면 오차가 가파르게 커지고, 결국 첫 번째 행동값을 계속 복사하는 출력을 냅니다(그림 3 아래 왼쪽). 데이터 분포의 복잡도는 그대로이고 모델 용량과 학습 걸음 수도 같으므로, 원인은 데이터가 아니라 토큰화 방식에 있습니다. DCT 기반 FAST 토큰으로 학습한 모델은 모든 주파수에서 오차가 낮게 유지됩니다.
+
+### 다음 토큰 예측의 학습 신호
+
+자기회귀 모델은 앞선 토큰 $T_{1:i-1}$을 보고 다음 토큰 $T_i$를 맞히도록 학습합니다. 모델이 받는 학습 신호의 크기는 앞선 토큰을 이미 알 때 $T_i$가 추가로 담고 있는 정보량에 비례합니다.
+
+매끄러운 신호를 잘게 나누면 한 걸음 사이의 값 변화가 걸음 간격에 비례해 작아집니다. 그러면 다음 토큰은 거의 직전 토큰과 같은 값이 되고, 추가 정보량은 0에 가까워집니다. 모델은 "직전 토큰을 그대로 복사한다"는 단순한 규칙만으로도 손실을 낮게 만들 수 있고, 곡선의 모양을 배우지 못한 채 그 상태에 머뭅니다.
+
+아래 표는 한 차원 행동 8걸음의 계산 예시입니다. 값은 −1~1로 정규화했다고 가정하고, 256개 구간 번호는 $\lfloor (a+1)/2 \times 256 \rfloor$로 구했습니다.
+
+| 걸음 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|------|---|---|---|---|---|---|---|---|
+| 정규화한 행동값 | 0.10 | 0.14 | 0.19 | 0.25 | 0.30 | 0.34 | 0.37 | 0.38 |
+| 구간 토큰 | 140 | 145 | 152 | 160 | 166 | 171 | 175 | 176 |
+| 직전 토큰과의 차이 | — | +5 | +7 | +8 | +6 | +5 | +4 | +1 |
+
+*행동값은 임의의 예시 값이고, 구간 토큰과 차이는 그 값으로 계산한 값입니다.*
+
+256가지 토큰 중 하나를 맞히는 문제인데, 실제 정답은 늘 직전 토큰에서 +1~+8 안에 있습니다. 이 8걸음을 80걸음으로 더 잘게 나누면 차이는 대부분 0이나 1이 되고, 복사만 해도 거의 맞게 됩니다. OpenVLA가 저주파 BridgeV2·[RT-1](/blog/paper-review/vla/rt-1) 데이터에서는 잘 학습됐지만 15Hz DROID 데이터에서는 학습이 잘 되지 않았던 것도 같은 원인이라고 저자들은 봅니다.
+
+---
+
+## 3. 이산 코사인 변환
+
+해결 방향은 학습 전에 행동 신호를 압축해 서로 비슷한 토큰이 반복되지 않게 하는 것입니다. 언어 모델이 자주 나오는 글자 조합을 한 토큰으로 합치는 BPE도 압축 기반 토큰화입니다. 다만 로봇 행동은 연속값이므로 연속 신호에 맞는 압축 방법이 필요하고, 저자들은 이산 코사인 변환을 고릅니다.
+
+### 주파수 성분으로의 변환
+
+DCT는 길이 $H$인 신호를 서로 다른 주파수의 코사인 파형 $H$개의 가중합으로 다시 표현하는 변환입니다. 입력이 8걸음이면 출력도 계수 8개입니다. 1번 계수는 신호 전체의 평균 수준, 2번 계수는 반 주기 코사인으로 표현되는 전체적인 증가·감소 경향, 뒤쪽 계수는 짧은 주기로 흔들리는 성분의 크기입니다. 낮은 주파수 계수가 신호의 전체 모양을, 높은 주파수 계수가 급격한 변화를 담습니다.
+
+JPEG 이미지 압축도 DCT를 씁니다. 이미지 픽셀은 이웃끼리 값이 비슷하게 변하므로, DCT를 하면 정보가 앞쪽 계수 몇 개에 몰리고 나머지 계수는 0에 가까워집니다. 로봇 행동도 대부분 매끄럽게 변하므로 같은 성질이 나타납니다. 벡터 양자화 같은 학습 기반 압축과 달리 DCT는 수식으로 정해진 변환이라 학습이 필요 없고 계산이 빠릅니다.
+
+### 8걸음 신호의 계산 예시
+
+앞 절의 8걸음 행동값에 DCT를 적용한 결과입니다. 예시 계산에는 정규직교 DCT-II를 썼습니다.
+
+| 계수 번호 (낮은 주파수 → 높은 주파수) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|------|---|---|---|---|---|---|---|---|
+| DCT 계수 | 0.732 | −0.279 | −0.036 | −0.007 | −0.004 | −0.000 | −0.004 | −0.001 |
+| 10을 곱하고 반올림 | 7 | −3 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+*입력은 임의의 예시 값이고, 계수와 반올림 결과는 그 값으로 계산한 값입니다.*
+
+8개였던 행동값이 0이 아닌 정수 2개(7, −3)로 줄었습니다. 이 두 정수에서 역변환으로 되돌리면 0.100, 0.123, 0.164, 0.218, 0.277, 0.331, 0.372, 0.395가 나오고, 원래 값과의 최대 차이는 0.032입니다. 곱하는 수를 10 대신 100으로 하면 0이 아닌 정수가 4개(73, −28, −4, −1)로 늘고 최대 차이는 0.005로 줄어듭니다. 곱하는 수가 압축률과 복원 정확도를 함께 정합니다.
+
+구간 토큰화에서는 8개 토큰이 서로 거의 같은 정보를 반복했지만, DCT 계수에서는 서로 다른 정보를 담은 소수의 값만 남습니다.
+
+---
+
+## 4. FAST 토큰화 과정
+
+논문 그림 4의 토큰화 과정은 아래 도식의 순서로 진행됩니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "raw",   "label": "행동 묶음", "sub": "H 걸음 × D 차원 연속값", "row": 0},
+    {"id": "norm",  "label": "분위수 정규화", "sub": "1~99번째 분위수 → [−1, 1]", "color": "blue", "row": 1},
+    {"id": "dct",   "label": "차원별 DCT", "sub": "D × H 계수 행렬", "color": "blue", "row": 2},
+    {"id": "quant", "label": "크기 조정 후 반올림", "sub": "γ = 10 · 대부분 0", "color": "blue", "row": 3},
+    {"id": "flat",  "label": "낮은 주파수 우선 평탄화", "sub": "차원을 번갈아 1차원 정수 열", "color": "orange", "row": 4},
+    {"id": "bpe",   "label": "BPE 압축", "sub": "어휘 1024", "color": "orange", "row": 5},
+    {"id": "tok",   "label": "행동 토큰 열", "sub": "VLM 어휘의 드문 토큰에 대응", "color": "green", "row": 6}
+  ],
+  "edges": [
+    {"from": "raw",   "to": "norm"},
+    {"from": "norm",  "to": "dct"},
+    {"from": "dct",   "to": "quant"},
+    {"from": "quant", "to": "flat"},
+    {"from": "flat",  "to": "bpe"},
+    {"from": "bpe",   "to": "tok"}
+  ],
+  "height": 620
+}
+```
+
+### 단계 1 — 분위수 정규화
+
+차원마다 학습 데이터에서 1번째 분위수와 99번째 분위수를 구하고, 그 두 값이 −1과 1이 되도록 행동값의 범위를 맞춥니다. 값 범위를 일정하게 맞추면 행동 크기가 로봇마다 다른 데이터도 같은 토크나이저로 다룰 수 있습니다. 최솟값·최댓값 대신 분위수를 쓰는 이유는 대규모 로봇 데이터에 가끔 섞인 이상치 행동 때문에 범위가 넓어지는 것을 막기 위해서입니다. OpenVLA가 구간 범위를 정할 때 쓴 것과 같은 기준입니다.
+
+### 단계 2 — 차원별 DCT
+
+정규화한 행동 묶음의 각 차원에 따로 DCT를 적용합니다. $D$차원 행동 $H$걸음이면 결과는 $D \times H$ 계수 행렬입니다. 행 하나가 행동 차원 하나이고, 열이 주파수 순서입니다.
+
+### 단계 3 — 크기 조정과 반올림
+
+계수에 크기 조정값 $\gamma$를 곱하고 정수로 반올림합니다. 작은 계수는 0이 되므로, 중요도가 낮은 주파수 성분을 버리는 효과가 납니다. $\gamma$가 클수록 0이 아닌 계수가 많이 남아 복원이 정확해지고, 작을수록 압축이 커집니다. 반올림 뒤의 계수 행렬은 대부분이 0이고 차원마다 의미 있는 계수 몇 개만 남습니다.
+
+그림 4에 실린 예시 행렬(앞 5개 차원 중 일부 계수)은 다음과 같은 모양입니다.
+
+| 차원 | 1번 계수 | 2번 | 3번 | 4번 | 5번 | 6번 | 7번 |
+|------|--------|-----|-----|-----|-----|-----|-----|
+| 1 | 124 | 12 | −3 | 0 | 0 | 0 | 12 |
+| 2 | −86 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | 344 | 3 | 1 | 0 | 0 | 1 | 5 |
+| 4 | −45 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | 178 | 15 | −1 | 0 | 0 | 0 | −2 |
+
+*논문 그림 4에 표시된 값을 옮긴 것입니다.*
+
+### 단계 4 — 낮은 주파수 우선 평탄화
+
+BPE는 1차원 정수 열을 입력으로 받으므로 행렬을 한 줄로 펴야 합니다. 방법은 두 가지입니다.
+
+| 평탄화 순서 | 방법 | 예시 행렬의 앞부분 |
+|-----------|------|----------------|
+| 열 우선 (FAST가 선택) | 모든 차원의 1번 계수 → 모든 차원의 2번 계수 → … | 124, −86, 344, −45, 178, 12, 0, 3, 0, 15, … |
+| 행 우선 | 1번 차원의 모든 계수 → 2번 차원의 모든 계수 → … | 124, 12, −3, 0, 0, 0, 12, −86, 0, … |
+
+*열 우선 순서의 앞부분은 논문 그림 4에 표시된 순서이고, 행 우선 순서는 같은 행렬로 만든 비교용 예시입니다.*
+
+FAST는 열 우선을 씁니다. 자기회귀 모델이 행동 묶음의 전체 모양을 정하는 낮은 주파수 성분을 모든 차원에 대해 먼저 생성하고, 세부 성분은 나중에 생성하게 됩니다. 저자들은 이 순서가 로봇 실행을 더 안정적으로 만든다고 보고합니다.
+
+3절의 두 차원 예시로 보면, 첫 번째 차원 계수가 (7, −3, 0, …), 두 번째 차원 계수가 (−13, −1, 0, …)일 때 열 우선 평탄화 결과는 7, −13, −3, −1, 0, 0, 0, …이 됩니다. 정수 16개 중 앞 4개만 0이 아니고 나머지 12개는 0입니다. 이 예시에서 두 번째 차원 행동값은 −0.50, −0.50, −0.49, −0.47, −0.45, −0.44, −0.44, −0.44로 두었습니다.
+
+*두 번째 차원 행동값은 임의의 예시 값이고, 계수와 평탄화 결과는 그 값으로 계산한 값입니다.*
+
+### 단계 5 — BPE 압축
+
+평탄화한 정수 열에 BPE를 학습해 적용합니다. BPE는 학습 데이터에서 자주 함께 나오는 기호 조합을 새 토큰 하나로 합치는 무손실 압축입니다. 계수 열에서는 반복되는 0들이 적은 수의 토큰으로 합쳐지고, 차원 사이에 자주 같이 나오는 계수 조합도 한 토큰이 됩니다. 그림 4 예시에서는 "124, −86"이 토큰 978로, "344, −45"가 토큰 233으로, "178, 12, 0"이 토큰 19로, "3, 0"이 토큰 1022로 합쳐집니다.
+
+BPE를 고른 이유는 효율적인 구현이 많고, 출력 어휘 크기를 정해 둘 수 있어 VLM의 기존 어휘에 넣기 쉽기 때문입니다. 허프만 부호화나 gzip에 쓰이는 렘펠-지브 방식 같은 다른 무손실 압축도 쓸 수 있지만 논문에서는 시험하지 않았습니다.
+
+### 알고리즘과 하이퍼파라미터
+
+```text
+알고리즘 1  FAST 토크나이저
+입력: 크기 조정값 γ, (추론 시) BPE 사전 Φ
+FASTTokenizer(a_1:H):
+    C[i][j]  ← DCT(a[i]_1:H)                 # 차원 i의 DCT 계수
+    C̄[i][j] ← round(γ · C[i][j])             # 계수 양자화
+    [T_k]    ← [C̄[1][1], C̄[2][1], …, C̄[1][2], …, C̄[n][H]]   # 낮은 주파수 우선 평탄화
+BPE 학습:  φ ← TrainBPE(D := {[T_k]})
+토큰화:    [T̄_1, …, T̄_k̄] ← BPE([T_1, …, T_k], φ)
+반환: 행동 토큰
+```
+
+모든 단계가 되돌릴 수 있으므로, 모델이 생성한 토큰을 BPE 복호 → 평탄화 역순 → $\gamma$로 나누기 → 역 DCT → 정규화 역변환 순서로 빠르게 연속 행동으로 바꿀 수 있습니다.
+
+하이퍼파라미터는 두 개뿐입니다. 반올림 전에 곱하는 크기 조정값과 BPE 어휘 크기입니다. 저자들은 두 값에 성능이 크게 민감하지 않다고 보고하며, 데이터셋 하나로 토크나이저를 만드는 모든 실험에서 **크기 조정값 10, BPE 어휘 크기 1024** 를 똑같이 씁니다. 벡터 양자화 기반의 학습형 압축 모듈은 학습이 까다롭고 데이터셋마다 하이퍼파라미터를 신중하게 골라야 좋은 복원 품질이 나오는 것과 대비됩니다.
+
+---
+
+## 5. 범용 행동 토크나이저 FAST+
+
+FAST에서 학습이 필요한 부분은 BPE 어휘뿐입니다. 이 학습은 보통 몇 분이면 끝나지만, 새 데이터셋마다 해야 한다는 번거로움이 남습니다. 그래서 저자들은 어떤 로봇의 행동 묶음에도 쓸 수 있는 범용 토크나이저 **FAST+** 를 학습합니다.
+
+학습 데이터는 한 팔·양팔·이동형 조작 로봇의 **1초 행동 묶음 약 100만 개** 입니다. 관절 공간과 말단장치 공간 행동, 여러 제어 주파수가 섞여 있습니다. 차원 수가 다른 행동 공간을 함께 다루려고 모든 행동을 32차원으로 채운(padding) 뒤 토큰화합니다.
+
+### 학습 데이터 구성
+
+아래 표는 부록 A의 데이터 구성을 행동 공간별로 묶은 것입니다.
+
+| 묶음 | 포함 데이터 | 제어 주파수 | 혼합 비율 합 (%) |
+|------|----------|-----------|--------------|
+| 자체 데이터, 관절 공간 | ARX 7.2 · AgileX 1.8 · Fibocom 2.9 · Franka FR3 3.7 · Mobile Trossen 2.5 · Trossen Biarm 4.3 · UR5 single 10.3 · UR5 biarm 2.4 · ARX slate mobile 2.5 | 20 또는 50 Hz | 37.6 |
+| 자체 데이터, 말단장치 월드 좌표 | 같은 9개 로봇의 EE 버전 | 20 또는 50 Hz | 18.7 |
+| 자체 데이터, 말단장치 카메라 좌표 | 같은 9개 로봇의 CamFrame 버전 | 20 또는 50 Hz | 18.7 |
+| 공개 데이터 | ALOHA 5.0 · DROID 11.2 · Bridge V2 5.0 · OpenX 3.8 | 50 · 15 · 5 Hz · 혼합 | 25.0 |
+
+*혼합 비율은 논문 부록 표의 값이고, 묶음별 합은 그 값으로 계산한 값입니다. 전체 31개 항목의 합은 100.0%입니다.*
+
+자체 데이터는 같은 로봇 데이터를 관절 공간, 말단장치 월드 좌표, 말단장치 카메라 좌표 세 가지로 표현해 모두 넣었습니다. 한 로봇의 같은 동작이 여러 행동 공간으로 표현돼도 토크나이저가 처리할 수 있게 하려는 구성입니다. [Open X-Embodiment](/blog/paper-review/vla/open-x-embodiment), DROID, Bridge V2는 원래 형태 그대로 넣었습니다.
+
+### 공개 코드
+
+FAST+는 HuggingFace `AutoProcessor` 클래스로 공개돼 있어 세 줄로 쓸 수 있습니다.
+
+```python
+from transformers import AutoProcessor
+tokenizer = AutoProcessor.from_pretrained("physical-intelligence/fast", trust_remote_code=True)
+tokens = tokenizer(action_chunk)
+```
+
+새 데이터셋에 맞춘 FAST 토크나이저도 같은 모듈에서 `tokenizer.fit(action_dataset)`으로 학습할 수 있습니다. 저자들은 가장 좋은 압축을 얻으려면 행동을 4절의 분위수 정규화로 [−1, 1]에 맞추고, 1초 단위 묶음으로 토큰화하라고 권합니다.
+
+---
+
+## 6. 실험 설정
+
+### 사용한 VLA
+
+토큰화 방식만 바꿔 비교하려고 두 VLA를 기반 모델로 씁니다.
+
+| 기반 모델 | 기반 VLM | 쓰임 |
+|---------|--------|-----|
+| π0 | PaliGemma-3B | 대부분의 실험 |
+| OpenVLA | Prismatic 7B | 기반 모델과 무관한지 확인하는 제거 실험 |
+
+학습할 때는 1초 행동 묶음을 토큰화하고, RT-2·OpenVLA와 같은 방식으로 VLM 어휘에서 가장 적게 쓰이는 토큰을 행동 토큰으로 덮어씁니다. 가중치는 고정하지 않고 전부 미세조정합니다.
+
+![그림 5 — 평가 환경](https://arxiv.org/html/2501.09747v1/figures/environments.jpg)
+
+*그림 5 — 실제 로봇 과제 6개와 시뮬레이션 환경 1개로 이루어진 평가 환경 7개입니다.*
+
+### 평가 과제
+
+| 과제 | 로봇 | 제어 주파수 | 내용 | 점수 |
+|------|-----|-----------|-----|-----|
+| Libero | 시뮬레이션 | — | Libero-Spatial·Object·Goal·10 네 묶음 평균 | 에피소드 성공 여부 |
+| 테이블 정리 | UR5 한 팔 | 20 Hz | 물체 12개를 쓰레기통과 플라스틱 용기로 분류 | 올바르게 치운 물체 비율 |
+| 티셔츠 접기 | ARX 양팔 | 50 Hz | 테이블에 펼쳐 둔 셔츠 접기 | 사람이 판정한 접기 성공 비율 |
+| 장보기 가방 담기 | UR5 한 팔 | 20 Hz | 물건 7개를 쓰러뜨리거나 찢지 않고 종이 가방에 넣기 | 가방에 넣은 물건 비율 |
+| 토스터에서 빵 꺼내기 | Trossen ViperX 양팔 | 50 Hz | 빵 두 조각을 꺼내 접시에 놓기 | 4점 만점 진행 점수 |
+| 빨래 개기 | ARX 양팔 | 50 Hz | 바구니에서 옷을 꺼내 펴고 접어 쌓기 | 개어 쌓은 옷 비율 |
+| DROID 무학습 조작 | Franka | 15 Hz | 처음 보는 환경에서 자연어 지시만으로 탁상 조작 | 과제 진행 점수 |
+
+*논문 6-A절과 부록 E의 설명을 정리한 표입니다.*
+
+빨래 개기는 이 논문에서 가장 정교한 과제입니다. 엉킨 옷을 여러 번 펼치고 편 뒤에야 접을 수 있고, 접은 옷을 기존 더미 위에 정확히 올려야 합니다. 장보기 가방 담기, 토스터, 빨래 개기 세 과제는 π0 논문을 따라 가장 강한 범용 VLA를 평가하는 12절에서만 씁니다.
+
+DROID 평가는 새 테이블, 배경, 물체, 카메라 시점, 테이블 높이까지 모두 처음 보는 환경에서 합니다. 공동 학습이나 미세조정 없이 사전학습 모델에 자연어로 지시만 주는 방식이며, 저자들은 DROID 정책을 이렇게 평가한 것이 처음이라고 밝힙니다.
+
+### 비교한 토크나이저
+
+| 토크나이저 | 방식 |
+|----------|-----|
+| 단순 구간 토큰화 | RT-2·RT-2-X·OpenVLA의 차원별 256구간. 묶음의 걸음마다 따로 적용한 뒤 이어 붙임 |
+| FSQ | 행동 묶음을 양자화된 잠재 표현으로 바꾸는 신경망을 따로 학습. VQ-VAE보다 단순한 유한 스칼라 양자화(finite scalar quantization) |
+| FAST | 평가 데이터셋마다 따로 학습한 DCT 기반 토크나이저 |
+| FAST+ | 행동 묶음 100만 개로 학습한 범용 DCT 기반 토크나이저 |
+
+FSQ도 압축된 표현을 쓰지만, 압축을 수식 변환 대신 학습한 신경망으로 합니다. 그래서 FAST의 제거 실험 성격도 가집니다. FAST+ 학습 데이터에는 이 논문의 실제 로봇 평가 과제 데이터도 들어 있습니다.
+
+---
+
+## 7. 토큰 수 비교
+
+1초 행동 묶음 하나를 토큰화했을 때 평균 토큰 수입니다. 두 방식 모두 기본 하이퍼파라미터를 썼고, 이때 복원 오차는 비슷한 수준입니다.
+
+| 데이터셋 | 행동 차원 | 제어 주파수 | 단순 구간 토큰 수 | FAST 토큰 수 | 압축 비율 |
+|--------|---------|-----------|---------------|-----------|---------|
+| BridgeV2 | 7 | 5 Hz | 35 | 20 | 1.75 |
+| DROID | 7 | 15 Hz | 105 | 29 | 3.6 |
+| 테이블 정리 | 7 | 20 Hz | 140 | 28 | 5.0 |
+| 티셔츠 접기 | 14 | 50 Hz | 700 | 53 | 13.2 |
+
+*표 I — 1초 행동 묶음당 평균 토큰 수.*
+
+모든 데이터셋에서 토큰 수가 줄고, 제어 주파수가 높을수록 더 많이 줄어듭니다. 단순 구간 토큰 수는 주파수에 비례해 늘지만, FAST 토큰 수는 한 팔 데이터에서 20~29개, 양팔 데이터에서 53개로 주파수와 거의 무관합니다. 저자들은 FAST가 행동 신호 자체의 복잡도에 맞는 표현을 찾기 때문이라고 해석합니다.
+
+FAST 압축은 완전한 무손실이 아닙니다. BPE 단계는 무손실이지만 반올림 단계에서 작은 계수를 버리므로, 크기 조정값 $\gamma$가 압축률과 복원 정확도를 함께 정합니다.
+
+### 압축률과 복원 오차의 관계
+
+부록 그림 12는 여섯 데이터셋(CALVIN, LIBERO, Bridge, DROID, ARX 빨래 개기, UR5 테이블 정리)에서 토큰 수(가로축, 로그 눈금)와 복원 오차(세로축, 로그 눈금)의 관계를 비교합니다.
+
+| 토크나이저 | 토큰 수를 바꾸는 하이퍼파라미터 | 그림 12에서의 경향 |
+|----------|---------------------------|---------------|
+| FAST | 반올림 크기 조정값 | 토큰 수를 늘릴수록 복원 오차가 가파르게 줄어듦 |
+| FAST+ | (기본값 하나) | 곡선 위 별표 한 점으로 표시 |
+| 단순 구간 토큰화 | 부분 표본화 주파수 | 같은 오차에 훨씬 많은 토큰이 필요. 부분 표본화 없는 기본 설정은 검은 점으로 표시 |
+| FSQ | 잠재 토큰 수 | 토큰이 적은 저정밀 구간에서는 FAST보다 효율적이지만, 오차를 더 낮추려 해도 잘 내려가지 않음 |
+
+*그림 12의 곡선 모양을 설명한 표입니다. 모든 토크나이저의 어휘 크기는 같게 두었습니다.*
+
+FAST는 복원 정밀도를 높이는 방향으로 잘 확장되므로, 정밀한 제어가 필요한 문제에 더 적합하다고 저자들은 결론 내립니다.
+
+---
+
+## 8. 토크나이저별 정책 성능
+
+π0 기반 모델에 네 토크나이저를 각각 적용해 학습한 결과가 그림 6입니다. 논문은 막대 값을 숫자로 적지 않았으므로, 아래 표의 값은 그래프 눈금에서 읽은 대략값입니다.
+
+| 과제 (점수 단위) | 단순 구간 | FSQ | FAST | FAST+ |
+|---------------|--------|-----|------|-------|
+| Libero (성공률) | 약 56 | 약 80 | 약 85 | 약 83 |
+| DROID (진행 점수) | 약 20 | 약 55 | 약 58 | 약 50 |
+| 테이블 정리 20 Hz (진행 점수) | 약 1 | 약 27 | 약 87 | 약 83 |
+| 티셔츠 접기 50 Hz (성공률) | 약 1 | 약 27 | 약 68 | 약 73 |
+| 평균 (성공률) | 약 20 | 약 47 | 약 72 | 약 70 |
+
+*그림 6 — 토크나이저별 정책 성능. 값은 그래프에서 읽은 대략값이며, 논문은 평균과 95% 신뢰구간을 막대로만 표시했습니다.*
+
+단순 구간 토큰화는 제어 주파수가 가장 높은 테이블 정리(20Hz)와 티셔츠 접기(50Hz)에서 과제를 거의 진행하지 못합니다. 행동을 압축하는 두 방식(FAST, FSQ)은 학습이 진행됩니다. FAST는 FSQ와 같거나 더 높고, 특히 정교한 고주파 실제 로봇 과제에서 차이가 큽니다. 별도 신경망을 학습하지 않는데도 그렇습니다. 범용 토크나이저 FAST+는 데이터셋별 FAST와 비슷한 성능을 냅니다.
+
+### DROID 무학습 평가
+
+![그림 7 — DROID 정책의 평가 환경](https://arxiv.org/html/2501.09747v1/droid_quali.png)
+
+*그림 7 — 같은 정책 저장본이 Berkeley, Stanford, U.Washington 세 대학 캠퍼스의 처음 보는 환경에서 탁상 과제를 수행합니다.*
+
+FAST 토큰화로 DROID 데이터셋 전체를 학습해, 처음 보는 환경에서 미세조정 없이 자연어 지시만으로 평가할 수 있는 범용 정책을 처음으로 얻었습니다. 원래 DROID 논문과 OpenVLA를 포함한 이전 연구는 무학습 결과를 보이지 않고 공동 학습이나 미세조정 평가만 했습니다.
+
+정책은 물체 집어 옮기기, 찬장 열고 닫기, 수도꼭지 켜기 같은 단순 조작을 여러 장면과 카메라 시점에서 수행합니다. 실패한 시행에서도 전자레인지나 식기세척기 문 손잡이로 다가가는 등 과제에 맞는 동작을 보였다고 저자들은 적습니다. 완벽하지는 않지만, 일반화와 강건성이 이전 DROID 정책보다 크게 높다고 평가합니다.
+
+정량 평가에 쓴 과제와 시행 수는 부록 표 II에 있습니다.
+
+| 과제 | 시행 수 |
+|------|-------|
+| Put the spoon in the dish rack | 4 |
+| Put carrot in bowl | 4 |
+| Put plate in dish rack | 2 |
+| Wipe the table | 2 |
+| Put the plate on the table | 2 |
+| Clean up the table | 2 |
+| Close the drawer | 4 |
+| Put the stapler on the notebook | 2 |
+| Put stapler in the drawer | 4 |
+| Clean the whiteboard | 2 |
+| Put the marker in the cup | 4 |
+| Put the black sponge in the blue bowl | 2 |
+| Put the red bottle in the black bowl | 2 |
+| Put the watermelon in the purple bowl | 2 |
+| Move the watermelon from the purple bowl to the blue bowl | 2 |
+| Put the tape in the purple bowl | 2 |
+| Put the water bottle on the left side of the table | 2 |
+| **합계** | **44** |
+
+*표 II — DROID 평가 과제. 시행마다 올바른 물체를 집으면 1점, 올바른 용기에 놓으면 1점 같은 진행 점수로 채점합니다.*
+
+![그림 14 — DROID 정량 평가 장면](https://arxiv.org/html/2501.09747v1/droid_eval_setups.png)
+
+*그림 14 — DROID 정량 평가에 쓴 장면입니다.*
+
+---
+
+## 9. 범용 토크나이저 FAST+ 평가
+
+FAST+가 처음 보는 로봇에도 쓸 수 있는지 확인하려고, 토크나이저 학습에 쓰지 않은 작은 데이터셋들로 압축률을 잽니다.
+
+| 형태 | 데이터셋 | 로봇 | 행동 공간 | 행동 차원 | 제어 주파수 (Hz) | 과제 |
+|------|--------|-----|---------|---------|---------------|-----|
+| 한 팔 | SOAR | WidowX | 말단장치 | 7 | 5 | 집어 옮기기 |
+| 한 팔 | DROID-Eval EEF | Franka | 말단장치 | 7 | 15 | 집어 옮기기 |
+| 한 팔 | DROID-Eval Joint | Franka | 관절 | 8 | 15 | 집어 옮기기 |
+| 한 팔 | SERL | Franka | 말단장치 | 7 | 10 | 삽입 |
+| 한 팔 | π 테이블 정리 | UR5 | 관절 | 8 | 20 | 집어 옮기기 |
+| 정교한 손 | NYU DexHand | ALLEGRO | 관절+말단장치 | 30 | 16 | 손 조작 |
+| 정교한 손 | Berkeley DexHand | ALLEGRO | 관절 | 16 | 20 | 손 안 조작 |
+| 정교한 손 | Berkeley DexArm | xArm+ALLEGRO | 관절 | 23 | 20 | 손으로 집어 옮기기 |
+| 정교한 손 | HATO | UR5+Psyonic Hand | 말단장치+관절 | 24 | 10 | 손으로 집어 옮기기 |
+| UMI | UMI | UMI | 말단장치 | 7 | 20 | 집어 옮기기 |
+| UMI | UMI on Legs | UMI | 말단장치 | 7 | 20 | 전신 조작 |
+| 휴머노이드 | HumanPlus | Unitree H1 | 관절 | 40 | 50 | 전신 조작 |
+| 휴머노이드 | UCSD TeleVision | 목 달린 Unitree H1 | 관절 | 28 | 60 | 조작 + 능동 인지 |
+| 주행 | Waymo | Waymo 차량 | 2차원 변위 | 2 | 10 | 자율주행 |
+
+*표 III — 범용 토크나이저 평가 데이터셋.*
+
+그림 8은 이 데이터셋들에서 압축 비율(단순 구간 토큰 수 ÷ FAST+ 토큰 수)을 막대로 보여 줍니다. 아래 표의 값은 그래프 눈금에서 읽은 대략값입니다.
+
+| 형태 | 데이터셋과 압축 비율 (대략값) |
+|------|------------------------|
+| 한 팔 | SERL 약 2.5 · SOAR 약 2.5 · T-DROID EEF 약 3 · T-DROID Joint 약 4.5 · 테이블 정리 약 9 |
+| 정교한 손 | Berkeley Dex Hand 약 2.5 · HATO 약 3.5 · Berkeley Dex Arm 약 4.5 · NYU Hand 약 11 |
+| UMI | UMI on Legs 약 7.5 · UMI 약 9 |
+| 휴머노이드 | HumanPlus 약 3.5 · Open Television 약 14 |
+| 주행 | Waymo 약 2.5 |
+
+*그림 8 — 범용 토크나이저 FAST+의 압축 비율. 값은 그래프 눈금에서 읽은 대략값입니다.*
+
+FAST+는 모든 데이터셋에서 토큰 수를 2배 이상 줄이고, 일부에서는 훨씬 많이 줄입니다. 로봇 형태, 행동 공간, 제어 주파수가 달라도 토크나이저를 다시 학습하지 않고 쓸 수 있습니다. 8절 그림 6의 정책 학습 결과에서도 FAST+가 데이터셋별 FAST와 비슷한 성능을 냈으므로, 저자들은 FAST+를 로봇 행동 토큰화의 기본값으로 쓸 수 있다고 봅니다.
+
+---
+
+## 10. 제거 실험
+
+### 기반 모델 교체 — OpenVLA
+
+FAST의 효과가 π0 구조에만 해당하는지 확인하려고, OpenVLA를 50Hz 티셔츠 접기 데이터로 학습합니다. 과제 설정에 맞추려고 OpenVLA 코드를 고쳐 여러 입력 이미지를 받고 1초 행동 묶음을 예측하게 했습니다.
+
+| 설정 | 티셔츠 접기 성공률 (대략값) |
+|------|----------------------|
+| OpenVLA (원래 단순 구간 토큰화) | 약 0 |
+| OpenVLA + FAST+ | 약 56 |
+
+*논문 10절 첫 번째 작은 그림에서 읽은 대략값입니다.*
+
+원래 토큰화로는 학습이 되지 않던 고주파 데이터를 FAST+로 바꾸자 학습이 진행됩니다. FAST는 특정 기반 모델에 묶이지 않고, 사전학습된 자기회귀 Transformer라면 폭넓게 적용할 수 있다고 저자들은 봅니다.
+
+### BPE 단계 제거
+
+토크나이저에서 유일하게 학습하는 부분인 BPE를 빼고, DCT와 반올림까지만 거친 정수 열을 토큰으로 씁니다.
+
+| 과제 | FAST (대략값) | BPE를 뺀 FAST (대략값) |
+|------|------------|-------------------|
+| 테이블 정리 (진행 점수) | 약 88 | 약 58 |
+| 티셔츠 접기 (성공률) | 약 70 | 약 15 |
+
+*논문 10절 두 번째 작은 그림에서 읽은 대략값입니다.*
+
+BPE를 빼도 단순 구간 토큰화보다는 높습니다. DCT만으로도 신호 정보가 소수의 계수에 몰리므로 학습 신호가 좋아지기 때문입니다. 그러나 BPE가 없으면 0 토큰이 수백 개 반복돼 학습 신호가 약해지고, 모델이 행동 토큰 수백 개를 하나씩 생성해야 해서 추론도 크게 느려집니다. 결과적으로 성능이 떨어집니다. 4절 예시에서 정수 16개 중 12개가 0이었던 것이 고주파 양팔 데이터에서는 수백 개 규모로 커진다고 보면 됩니다.
+
+---
+
+## 11. 확산 방식 π0와의 비교
+
+### 단일 과제 학습
+
+π0는 행동 묶음을 flow matching으로 생성합니다. 논문은 이 방식을 "flow-matching (diffusion) VLA"라고 부르며 확산 방식 VLA의 한 종류로 다룹니다. 여기에 FAST 토큰과 자기회귀 복호를 결합한 모델을 **π0-FAST** 라고 부르고, 두 모델을 과제별로 따로 학습해 비교합니다. 아래 표의 값은 그림 9 그래프 눈금에서 읽은 대략값입니다.
+
+| 과제 | π0-FAST | 확산 π0 | 확산 π0 (계산량 3배) |
+|------|--------|--------|----------------|
+| Libero | 약 85 | 약 95 | — |
+| 테이블 정리 | 약 87 | 약 57 | 약 79 |
+| 티셔츠 접기 | 약 70 | 약 55 | — |
+| DROID | 약 61 | 약 22 | — |
+| 평균 | 약 73 | 약 57 | — |
+
+*그림 9 — 단일 과제 학습에서 확산 π0와 π0-FAST 비교(과제 진행 점수, 대략값).*
+
+학습 데이터가 50시간보다 적은 작은 데이터셋(Libero, 티셔츠 접기)에서는 두 모델이 비슷합니다. 테이블 정리처럼 큰 데이터셋에서는 π0-FAST가 훨씬 빨리 수렴해, 확산 π0보다 학습 걸음을 3배 적게 쓰고도 높은 성능에 도달합니다. DROID에서는 확산 π0가 언어 지시를 자주 무시해 점수가 낮았고, π0-FAST는 지시를 더 잘 따랐습니다. 확산 VLA와 자기회귀 VLA의 언어 지시 추종 능력 차이는 저자들이 후속 연구 과제로 남겼습니다.
+
+### 추론 속도
+
+자기회귀 VLA의 현재 한계는 추론 속도입니다.
+
+| 항목 | 확산 π0 | π0-FAST |
+|------|--------|--------|
+| 1초 행동 묶음 하나의 추론 시간 (NVIDIA 4090) | 100ms 이내 | 약 750ms |
+| 행동을 만드는 반복 횟수 | 확산 걸음 10회 | 행동 토큰 30~60개를 하나씩 복호 |
+| 반복마다 실행하는 부분 | 3억 파라미터 "행동 전문가(action expert)" | 20억 파라미터 언어 모델 전체 |
+
+*논문 6-E절에 적힌 값을 정리한 표입니다.*
+
+π0-FAST가 느린 이유는 두 가지가 겹치기 때문입니다. 반복 횟수가 3~6배 많고, 반복 한 번에 실행하는 모델이 약 7배 큽니다. 이 논문에서 평가한 정적인 조작 과제에서는 느린 추론이 성능을 떨어뜨리지 않았지만, 평가 시간은 크게 늘었습니다. 추측 디코딩, 양자화, 전용 추론 커널처럼 대형 언어 모델에서 쓰는 가속 기법을 적용하는 연구는 후속 과제로 남깁니다.
+
+---
+
+## 12. 대규모 로봇 데이터 학습
+
+### 학습 데이터와 평가
+
+π0-FAST를 π0 논문과 같은 여러 로봇 혼합 데이터로 학습합니다. 저자들은 지금까지 가장 큰 정교한 로봇 조작 데이터셋이라고 설명합니다. 자체 데이터가 903M 걸음이고, 전체 혼합의 9.1%는 공개 데이터셋인 BRIDGE v2, DROID, OXE입니다. 초록에서 말한 1만 시간 규모가 이 데이터입니다.
+
+학습한 범용 정책을 π0 논문의 과제로 평가해 확산 π0와 비교합니다. 아래 표의 값은 그림 11 그래프 눈금에서 읽은 대략값입니다.
+
+| 과제 | π0-FAST | 확산 π0 |
+|------|--------|--------|
+| 티셔츠 접기 | 약 69 | 약 80 |
+| 테이블 정리 | 약 88 | 약 73 |
+| 장보기 가방 담기 | 약 87 | 약 76 |
+| 토스터에서 빵 꺼내기 | 약 41 | 약 68 |
+| 빨래 개기 | 약 80 | 약 82 |
+| 평균 | 약 73 | 약 75 |
+
+*그림 11 — 범용 정책 비교(과제 진행 점수, 대략값). 논문은 평균과 95% 신뢰구간을 막대로 표시했습니다.*
+
+평균으로 보면 π0-FAST가 확산 π0와 같은 수준이고, 가장 어려운 빨래 개기에서도 비슷합니다. 과제별로는 테이블 정리와 장보기 가방 담기에서 π0-FAST가 높고, 티셔츠 접기와 토스터에서 확산 π0가 높습니다.
+
+![그림 10 — 빨래 개기 과제의 π0-FAST 실행 장면](https://arxiv.org/html/2501.09747v1/quali_rollout.png)
+
+*그림 10 — π0-FAST가 바구니에서 옷을 꺼내 펴고 접는 과정을 10장면으로 보여 줍니다.*
+
+### 학습 계산량
+
+같은 성능에 이르기까지 π0-FAST가 쓴 계산량이 훨씬 적습니다. 위 평가에 쓴 π0-FAST는 π0 논문의 확산 π0 모델보다 **학습 GPU 시간이 5배 적었습니다.** 그림 1 위쪽은 학습 도중 여러 저장본의 로봇 평가 결과(테이블 정리와 티셔츠 접기의 평균)를 보여 주며, π0-FAST가 높은 성능에 훨씬 빨리 도달합니다. 최신 VLA 학습은 수천 GPU 시간을 쓰는 경우가 많으므로, 필요한 계산량이 5배 줄어드는 차이는 큽니다.
+
+계산량을 똑같이 맞춘 확산 π0 저장본과의 비교는 부록 그림 15에 있습니다. 표의 값은 그래프 눈금에서 읽은 대략값입니다.
+
+| 과제 | π0-FAST | 확산 π0 (계산량 동일) |
+|------|--------|-------------------|
+| 티셔츠 접기 | 약 72 | 약 51 |
+| 테이블 정리 | 약 89 | 약 43 |
+| 장보기 가방 담기 | 약 87 | 약 31 |
+| 토스터에서 빵 꺼내기 | 약 42 | 약 70 |
+| 평균 | 약 74 | 약 50 |
+
+*그림 15 — π0-FAST와 계산량을 맞춘 확산 π0 비교(과제 진행 점수, 대략값).*
+
+같은 계산량이면 π0-FAST가 수렴이 빨라 평균이 크게 높습니다. 다만 토스터 과제에서는 이 비교에서도 확산 π0가 높습니다.
+
+---
+
+## 13. 정책 학습 설정
+
+### 입력 구성
+
+| 입력 | 처리 방식 |
+|------|---------|
+| 이미지 | 과제에 따라 2~3장(3인칭 카메라 1대, 로봇 팔마다 손목 카메라 1대), 224×224. 사전학습 시각 부호기로 한 장씩 부호화한 토큰을 이어 붙임 |
+| 언어 지시 | 언어 모델 토크나이저로 문자열 토큰화 |
+| 로봇 자기수용 상태 | RT-2 행동 토큰화처럼 256구간으로 이산화한 정수를 텍스트 입력에 넣음 |
+
+자기수용 상태는 정책의 입력이라 단순한 구간 토큰화로 충분합니다. 이 논문의 실험이 보여 주듯 정교한 토큰화가 필요한 쪽은 모델이 생성해야 하는 행동 출력입니다.
+
+### 학습 하이퍼파라미터
+
+| 항목 | 값 |
+|------|---|
+| 학습률 | 1k 걸음 선형 예열 후 5e-5 고정 |
+| 최적화기 | AdamW ($b_1 = 0.9$, $b_2 = 0.95$), 가중치 감쇠 없음 |
+| 기울기 크기 제한 | 1 |
+| 가중치 지수이동평균 | 0.999 |
+| 복호 방식 | 탐욕 자기회귀 복호. 양팔 과제(티셔츠 접기, 토스터, 빨래 개기)는 온도 $\beta = 0.7$ |
+
+양팔 과제에서 온도를 쓴 이유는 학습 데이터 일부에 에피소드 시작 때 로봇이 초기 자세에서 멈춰 있는 행동 묶음이 있어, 탐욕 복호로는 로봇이 초기 자세에서 움직이지 않는 경우가 있었기 때문입니다.
+
+### DROID 학습 설정
+
+| 항목 | 설정 |
+|------|-----|
+| 카메라 | 3인칭 1대 + 손목 1대. DROID의 외부 카메라 두 대 중 3인칭 시점을 학습 때 무작위로 고름 |
+| 언어 지시 | 에피소드마다 달린 주석 3개 중 무작위로 고름 |
+| 카메라 보정 정보 | 쓰지 않음. 새 시점에서 보정 없이 바로 시험 가능 |
+| 행동 공간 | 관절 속도 + 집게 절대 위치 |
+| 행동 묶음 | 15걸음 예측, 추론 때 8걸음 또는 15걸음을 개루프로 실행 |
+| 데이터 정리 | "성공" 표시 에피소드 75k개만 사용, 모든 행동이 0인 정지 걸음 제거 |
+| 학습량 | 3세대(240k 반복, 배치 256), 8×H100에서 약 4일, 3B 파라미터 VLA |
+
+### 과제 초기 설정
+
+![그림 13(a) — 테이블 정리](https://arxiv.org/html/2501.09747v1/figures/task_bus.jpeg)
+
+*그림 13(a) — 테이블 정리 평가 장면. 젓가락, 투명 플라스틱, 반사되는 용기처럼 어려운 물체가 서로 겹쳐 있습니다.*
+
+![그림 13(b) — 티셔츠 접기](https://arxiv.org/html/2501.09747v1/figures/task_shirt.jpeg)
+
+*그림 13(b) — 티셔츠 접기 평가 장면. 색과 크기가 다른 셔츠 5장을 번갈아 펼친 상태에서 시작합니다.*
+
+![그림 13(c) — 장보기 가방 담기](https://arxiv.org/html/2501.09747v1/figures/task_grocery.jpeg)
+
+*그림 13(c) — 장보기 가방 담기 평가 장면. 모양·크기·재질·무게가 다른 물건 7개와 큰 종이 가방입니다.*
+
+![그림 13(d) — 토스터에서 빵 꺼내기](https://arxiv.org/html/2501.09747v1/figures/task_toast.jpeg)
+
+*그림 13(d) — 토스터에서 빵 꺼내기 평가 장면. 빵 한 조각을 꺼내면 1점, 접시에 놓으면 1점입니다.*
+
+![그림 13(e) — 빨래 개기](https://arxiv.org/html/2501.09747v1/figures/task_laundry.jpeg)
+
+*그림 13(e) — 빨래 개기 평가 장면. 빨래 바구니에 옷 5벌을 무작위로 넣어 둡니다.*
+
+과제별 학습 데이터는 테이블 정리가 물체 약 70개가 섞인 무작위 장면의 시연, 티셔츠 접기가 크기·색·모양이 다른 셔츠 약 150장의 시연입니다. Libero는 네 묶음 데이터를 합친 27만 표본으로 정책 하나를 40k 반복(약 40세대) 학습했고, OpenVLA 논문에서 다시 렌더링한 데이터를 썼습니다. 장보기 가방 담기와 토스터는 π0 전체 혼합 데이터로 사전학습한 모델을 추가 학습 없이 평가했고, 빨래 개기는 사전학습 모델을 소량의 고품질 과제 데이터로 미세조정해 평가했습니다.
+
+---
+
+## 14. 논문 안에서 서로 맞지 않는 부분
+
+| 위치 | 논문의 서술 | 대조 결과 |
+|------|----------|---------|
+| 부록 E, DROID | "16 tasks and 44 trials total" | 표 II에는 과제가 17행 있습니다. 시행 수 합계 44는 표와 일치합니다. 과제 수는 표의 17로 적었습니다. |
+| 부록 E, DROID | "240k iterations (≈3 episodes)" | 부록 D는 같은 학습을 "three epochs (240k iterations @ 256 batch size)"라고 적었고, 240k × 256 = 약 6144만 표본을 21M 표본으로 나누면 약 2.93입니다. "episodes"는 세대(epoch)의 오기로 보고 3세대로 적었습니다. |
+| 5-B절 | FAST가 로봇 팔 하나당 행동 묶음마다 "roughly 30 action tokens"을 만든다 | 표 I의 한 팔 데이터는 20~29개, 양팔 티셔츠 접기는 53개(팔당 26.5개)입니다. 값 자체는 표 I을 따랐습니다. |
+| 6-A절과 부록 E | 테이블 정리 로봇을 6-A절은 UR5, 부록 E는 UR5e로 적음 | 어느 쪽이 정확한지 논문 안에서 판단할 근거가 없어 평가 과제 표에는 6-A절의 UR5로 적었습니다. |
+| 6-A절과 부록 E | Libero 네 번째 묶음을 6-A절은 Libero-10, 부록 E는 Libero-Long으로 적음 | 두 이름이 섞여 있어 표에는 6-A절의 이름을 적었습니다. |
+| 6-F절과 그림 15 | "full comparison across all tasks for a compute-matched π0 checkpoint", 그림 15 캡션은 π0-FAST가 "clearly outperforms" | 그림 15에는 빨래 개기가 없어 4개 과제만 있고, 토스터 과제에서는 확산 π0가 더 높습니다. 평균은 π0-FAST가 높습니다. |
+
+---
+
+## 15. 저자가 밝힌 한계와 향후 과제
+
+첫째, 행동 토크나이저 연구가 남아 있습니다. 이 논문의 정책 실험은 고정된 로봇 조작기에서만 했습니다. 이동 로봇, 정교한 손, 휴머노이드에서는 FAST+의 압축률만 오프라인으로 확인했고 실제 정책 성능은 시험하지 않았습니다. 다른 압축 방식을 탐색하는 것, 압축 기반 행동 표현을 확산 같은 비자기회귀 복호와 결합하는 것도 과제로 남겼습니다.
+
+둘째, VLA 구조 선택입니다. 자기회귀 복호 VLA와 확산 복호 VLA 사이의 장단점을 처음 비교했지만 어느 구조가 가장 좋은지는 아직 정해지지 않았습니다. 학습 속도, 언어 지시를 행동에 연결하는 능력, 표현력의 차이를 더 자세히 연구해야 한다고 적습니다.
+
+셋째, 추론 속도입니다. π0-FAST는 전체 성능은 확산 π0와 같지만 추론이 느립니다. 이 논문의 정적인 과제에서는 문제가 되지 않았지만, 빠르게 움직여야 하는 동적 과제를 풀려면 자기회귀 VLA의 추론을 빠르게 만들어야 합니다. 대형 언어 모델의 추론 최적화 연구를 그대로 적용할 수 있다고 봅니다.
+
+---
+
+## 16. 정리 — 계보에서의 위치
+
+- **토큰화가 원인이라는 진단** — 고주파 행동을 걸음마다 구간 토큰으로 바꾸면 이웃 토큰이 거의 같은 값이 되어 다음 토큰 예측의 학습 신호가 사라지고, 모델은 직전 토큰을 복사하는 출력에 머뭅니다.
+- **DCT + BPE 압축** — 분위수 정규화, 차원별 DCT, 크기 조정 후 반올림, 낮은 주파수 우선 평탄화, BPE 순서로 1초 묶음을 20~53개 토큰으로 줄였습니다. 하이퍼파라미터는 크기 조정값 10과 어휘 1024 두 개입니다.
+- **범용 토크나이저 FAST+** — 1초 행동 묶음 100만 개로 학습해, 학습에 쓰지 않은 한 팔·정교한 손·휴머노이드·주행 데이터에서도 토큰 수를 2배 이상 줄였습니다.
+- **자기회귀 VLA의 고주파 학습** — 단순 구간 토큰화로는 학습되지 않던 20Hz·50Hz 과제를 학습했고, DROID 전체로 학습한 정책을 처음으로 새 환경에서 무학습 평가했습니다.
+- **π0-FAST** — 1만 시간 규모 데이터에서 확산 π0와 같은 평균 성능을 내면서 학습 GPU 시간은 5배 적었고, 추론은 약 750ms로 확산 π0의 100ms 이내보다 느립니다.
+
+### 행동 출력 방식 비교
+
+| 항목 | RT-2 · OpenVLA | π0 | π0-FAST |
+|------|--------------|----|--------|
+| 행동 표현 | 걸음·차원마다 256구간 토큰 | 연속 행동 묶음 | DCT 계수를 BPE로 압축한 토큰 |
+| 생성 방식 | 다음 토큰 예측 | flow matching (행동 전문가 모듈) | 다음 토큰 예측 |
+| 1초 묶음의 출력 (50Hz 양팔) | 700 토큰 | 묶음 전체를 확산 걸음 10회로 생성 | 약 53 토큰 |
+| 모델 구조 변경 | 없음 | 행동 전문가 모듈 추가 | 없음 (토크나이저만 교체) |
+| 추론 (1초 묶음, 4090) | — | 100ms 이내 | 약 750ms |
+| 학습 계산량 | — | 기준 | 5배 적음 |
+
+*RT-2·OpenVLA 열의 700 토큰은 표 I의 단순 구간 토큰 수이고, 추론·계산량은 이 논문에서 측정한 두 π0 모델만 적었습니다.*
+
+FAST는 RT-2와 OpenVLA가 쓴 "행동을 토큰으로 생성한다"는 설계를 버리지 않고, 토큰으로 바꾸는 규칙만 압축 방식으로 바꿔 고주파 데이터에서도 쓸 수 있게 만들었습니다. 같은 문제를 π0는 행동 생성 방식을 flow matching으로 바꿔서 풀었으므로, 두 논문은 학습 속도와 언어 지시 추종에서 유리한 자기회귀 방식과 추론 속도에서 유리한 flow matching 방식의 비교 기준을 함께 제공합니다. 다음 편인 [π0.5 논문해석](/blog/paper-review/vla/pi05)은 이 기반 위에서 처음 보는 집 환경으로 일반화하는 문제를 다룹니다.
+
+전체 목록은 [VLA 계보 목차](/blog/paper-review/vla)에서 볼 수 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/vla/pi0","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"5편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/vla/pi05","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"7편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

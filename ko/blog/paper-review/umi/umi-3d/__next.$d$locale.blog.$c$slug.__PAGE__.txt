@@ -1,0 +1,263 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception\",\"description\":\"원조 UMI의 단안 시각 SLAM이 가림과 동적 장면에서 무너지던 자리를 손목에 얹은 저가 LiDAR로 바꿔 끼우고, 시공간 정합 파이프라인까지 통째로 공개한 UMI-3D를 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2604.14089v1/image/UMI-3D.jpg\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/umi-3d\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T04:41:38.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"15편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception"}]
+10:T5b0e,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)에서 본 대로, UMI의 자세 추정은 손목에 달린 카메라 한 대에 전부 걸려 있습니다. 단안 시각 SLAM(monocular visual SLAM)이 흔들리면 궤적이 흔들리고, 궤적이 흔들리면 데이터가 통째로 못 쓰게 됩니다. 무늬 없는 흰 벽, 문이나 서랍을 열 때 시야를 가리는 큰 물체, 움직이는 방해물. 전부 시각 SLAM이 약한 조건입니다.
+
+[FastUMI](/blog/paper-review/umi/fastumi)는 이 문제를 구현 난이도 쪽에서 풀었습니다. ORB-SLAM3를 걷어내고 T265 같은 시판 추적 모듈을 꽂아 배치를 쉽게 만들었습니다. UMI-3D는 같은 문제를 센서 자체로 되돌려 봅니다. 카메라로 자세를 재는 일을 아예 그만두고, 손목에 저가 LiDAR를 얹어 기하를 직접 잽니다. 계보로 보면 추적 갈래에서 가장 멀리 나간 분기입니다.
+
+📄 [UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception](https://arxiv.org/abs/2604.14089) — Ziming Wang (HKU, USTC) / 2026-04-15, cs.RO, arxiv 식별자 2604.14089
+
+### 초록 요약
+
+UMI-3D는 UMI에 여러 감지 양식(multimodal)을 얹은 체화 조작(embodied manipulation) 데이터 수집 시스템입니다. UMI 덕분에 손목에 얹은 장치만 들고 다니며 시연을 모을 수 있게 됐지만, 자세를 단안 시각 SLAM에 맡긴 탓에 가림(occlusion)이 생기거나 장면이 움직이면 추적이 끊겨 실환경에서 쓸 자리가 좁았습니다. UMI-3D는 가볍고 값싼 LiDAR를 손목 인터페이스에 바짝 붙여 넣고, 조건이 나빠도 미터 단위 실척(metric-scale)으로 자세를 내놓는 LiDAR 중심 SLAM을 씁니다. 여기에 하드웨어 수준에서 시계를 맞춘 감지 파이프라인과, 시각 관측을 LiDAR 점군에 포개는 시공간 캘리브레이션(spatiotemporal calibration) 체계를 함께 만들었습니다. 정책은 원래의 2D 시각운동 정책(visuomotor policy) 형식을 그대로 뒀는데도, 수집한 데이터의 품질과 신뢰도가 오른 것이 곧바로 정책 성능으로 이어집니다. 실환경 실험에서 UMI-3D는 표준 조작 과제를 높은 성공률로 해내고, 큰 변형체를 다루거나 관절체를 여는 것처럼 시각 전용 UMI로는 어렵거나 아예 안 되던 과제까지 학습해 냅니다. 하드웨어와 소프트웨어는 전부 오픈소스로 공개했습니다.
+
+---
+
+## 1. 전체 그림 — 수집·처리·배포의 세 단계
+
+![그림 1 — UMI-3D 시스템 개요](https://arxiv.org/html/2604.14089v1/image/UMI-3D.jpg)
+
+*그림 1 — 왼쪽부터 (1) 손목 장착 다중모드 센서(LiDAR·카메라·IMU)로 동기화 관측을 모으는 하드웨어·데이터 수집, (2) 정확한 미터 단위 궤적과 일관된 3D 표현을 만드는 LiDAR 중심 SLAM·데이터 처리, (3) 동기화된 시각-행동 데이터로 시각운동 정책을 학습하고 배포하는 단계입니다.*
+
+논문의 주장은 SLAM의 역할을 바꾸는 데 있습니다. 기존 UMI 계열에서 SLAM은 궤적을 뽑아내는 보조 부품이었습니다. UMI-3D에서는 지각과 행동을 하나의 미터 공간에 포개는 중심 장치가 됩니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "hw", "label": "손목 다중모드 센서", "sub": "LiDAR + 카메라 + IMU"},
+    {"id": "sync", "label": "하드웨어 시간 동기화", "sub": "STM32 단일 클럭", "color": "blue"},
+    {"id": "cal", "label": "시공간 캘리브레이션", "sub": "어안 내부 + LiDAR-카메라 외부", "color": "blue"},
+    {"id": "lio", "label": "LiDAR-관성 오도메트리", "sub": "ESIKF · 복셀 지도", "color": "orange"},
+    {"id": "pack", "label": "데이터 패키징", "sub": "Zarr 리플레이 버퍼", "color": "orange"},
+    {"id": "pol", "label": "확산 정책 학습", "sub": "RGB + 상대 EE 자세", "color": "green"},
+    {"id": "run", "label": "로봇 배포", "sub": "수신 지평 + 시간 앙상블", "color": "green"}
+  ],
+  "edges": [
+    {"from": "hw", "to": "sync"},
+    {"from": "sync", "to": "cal"},
+    {"from": "cal", "to": "lio"},
+    {"from": "lio", "to": "pack"},
+    {"from": "pack", "to": "pol"},
+    {"from": "pol", "to": "run", "label": "미터 공간 일관성"}
+  ],
+  "height": 300
+}
+```
+
+---
+
+## 2. 진단 — UMI 변형들이 놓친 것
+
+논문은 기존 UMI 변형을 두 갈래로 정리하고 둘 다 근본 해결은 아니라고 봅니다. 첫째는 시각 SLAM을 외부 추적 장치로 통째로 갈아 치우는 갈래입니다. HTC Vive Tracker 같은 적외선 추적은 밀리미터 정확도를 내지만 베이스 스테이션이라는 외부 설비가 있어야 하니, 야외에서 모은다는 UMI의 설계 철학과 부딪칩니다.
+
+둘째는 시각 SLAM을 그대로 두고 쓰기 편하게 다듬는 갈래입니다. FastUMI가 대표적인데, VIO 구현을 시판 모듈로 갈아끼워 진입 문턱을 낮췄습니다. 저자는 여기에 반론을 셋 답니다.
+
+- 상용 SLAM 모듈은 닫힌 상자(black box)라 과제나 환경에 맞춰 손볼 여지가 없습니다.
+- 추적 장치와 관측 센서가 떨어지면 시간 정합이 깨집니다. FastUMI는 T265로 자세를 재고 GoPro로 영상을 찍지만, 원조 UMI는 그 두 일을 한 센서가 했습니다.
+- 무엇보다 시각 SLAM의 한계는 영상 특징에 기댄다는 데서 옵니다. 엔지니어링을 아무리 해도 무늬 없는 환경과 심한 가림은 넘지 못합니다.
+
+이 진단에서 저자는 UMI 계열 시스템이 지켜야 할 원칙을 셋 뽑습니다. 집게에 달린 센서만으로 자세를 푸는 자족적 자세 추정, 정확한 시간 동기와 공간 캘리브레이션으로 여러 양식을 묶는 시공간 일관성, 유리한 조건에서만 잘 나오지는 않는 측위 정확도의 일관성입니다. 세 번째가 특히 중요합니다. 대규모 수집에서는 환경을 고를 수 없으니, 최고 정확도보다 어디서나 고르게 나오는 정확도가 값어치가 큽니다.
+
+---
+
+## 3. 하드웨어 — 기계는 그대로, 감지만 바꿉니다
+
+![그림 2 — UMI-3D 시연 인터페이스 설계](https://arxiv.org/html/2604.14089v1/image/UMI_hardware_v2.jpg)
+
+*그림 2 — 사람 시연(왼쪽)과 로봇 실행(오른쪽)에서 관측이 일관되도록 손목 장착 감지 설계를 채택했습니다. 넓은 시야각 어안 카메라가 몸체 사이 공통 관측 공간을 주고, 연속적인 집게 추적이 정밀한 행동 기록과 제어를 가능하게 합니다.*
+
+UMI-3D는 방아쇠로 작동하는 손잡이형 3D 프린팅 평행 집게와 부드러운 손가락을 원조 UMI에서 그대로 물려받습니다. 센서 장착용 상단 커버 조립체를 뺀 나머지 부품은 원조 UMI와 완전히 호환됩니다. 바뀐 것은 감지 방식뿐입니다.
+
+- **HD1. 손목 장착 다중모드 센서.** 모든 감지 양식을 집게에 함께 얹어, 사람 시연과 로봇 실행에서 관측 기하가 같도록 만듭니다. 카메라는 정책 학습용 외관 정보를, LiDAR는 3D 기하 구조와 SE(3) 운동 추정을 맡습니다.
+- **HD2. 넓은 시야각.** 원조 UMI의 어안 설계를 이어받되 M12 렌즈로 약 185°까지 넓혔습니다. 왜곡 보정 없이 원본 어안 영상을 그대로 쓰는 것도 원조와 같습니다. 시야가 넓으면 LiDAR 시야와 겹치는 영역이 커져 두 양식을 맞추는 토대가 됩니다.
+- **HD3. 기하에 근거한 공간 지각.** 원조 UMI는 옆거울 한 쌍으로 한 장의 영상 안에 암묵적 스테레오를 만들어 깊이를 흉내 냈습니다. UMI-3D는 이 근사를 LiDAR의 직접 측정으로 바꿉니다.
+- **HD4. 연속 집게 제어.** 이진 개폐가 아니라 연속 폭 제어를 쓰고, 폭은 ArUco 마커로 추적합니다.
+
+카메라는 소비자용 GoPro 대신 산업용 CMOS 카메라(Hikrobot MV-CB013-A0UC-S)를 씁니다. 붙여 넣기도 쉽고 지연과 동기화도 유리하기 때문입니다.
+
+수치로 보면 UMI-3D 집게는 무게 1120 g, 외형 치수 $L285\,\text{mm}\times W175\,\text{mm}\times H300\,\text{mm}$, 손가락 행정 80 mm입니다. 3D 프린팅 집게의 자재비(BoM)가 $50이고, Livox MID-360 LiDAR와 Hikrobot 카메라를 합치면 $650입니다.
+
+---
+
+## 4. 시간 동기화 — 클럭을 하나로 묶습니다
+
+![그림 3 — 하드웨어 수준 시간 동기화](https://arxiv.org/html/2604.14089v1/image/UMI-3D-wire.jpg)
+
+*그림 3 — STM32 마이크로컨트롤러가 LiDAR와 카메라의 단일 클럭원 역할을 합니다. 1 Hz PPS 신호와 유사 GPRMC 메시지로 LiDAR를 동기화하고, 분주로 20 Hz 하드웨어 트리거를 만들어 카메라에 넣습니다. LiDAR는 이더넷으로 10 Hz 점군을, 카메라는 하드웨어 트리거로 20 Hz RGB 영상을 냅니다.*
+
+앞 절에서 지적한 "추적 장치와 관측 센서의 시간 정합"이 여기서 풀립니다. LiDAR ROS 드라이버가 타임스탬프를 공유 메모리 버퍼에 올리면 카메라 드라이버가 그것을 시간 기준으로 가져다 씁니다. 두 관측이 같은 시간 축 위에 놓인 채로 rosbag 하나에 기록됩니다. 소프트웨어로 맞출 때 생기는 지연과 표류(drift)를 애초에 없앤 설계입니다.
+
+---
+
+## 5. 캘리브레이션 — 어안과 LiDAR를 같은 공간에 놓습니다
+
+![그림 4 — 어안 카메라 내부 파라미터 캘리브레이션](https://arxiv.org/html/2604.14089v1/image/fisheye_checkboard.jpg)
+
+*그림 4 — (A) 넓은 시야로 평면 체커보드를 담은 원본 어안 영상, (B) 등거리 투영 모형(equidistant projection model)으로 추정한 내부 파라미터를 적용해 왜곡을 편 영상입니다.*
+
+초광각 어안에는 등거리 투영 모형이 잘 맞습니다. 카메라 좌표계의 3D 점 $\mathbf{X}_{c}=(X,Y,Z)$ 는 다음처럼 상에 맺힙니다.
+
+$$
+\theta=\arctan\left(\frac{\sqrt{X^{2}+Y^{2}}}{Z}\right),\quad r=f\cdot\theta
+$$
+
+여기서 $\theta$ 는 입사각, $r$ 은 주점에서의 반경 거리입니다. 초점거리·주점·왜곡계수는 재투영 오차(reprojection error)를 최소화해 얻습니다.
+
+![그림 5 — LiDAR와 카메라의 외부 파라미터 캘리브레이션](https://arxiv.org/html/2604.14089v1/image/LiDAR_cam_calib.jpg)
+
+*그림 5 — (A) 일반 가정 환경에서 캘리브레이션 보드 하나만으로 진행하는 설정, (B) 캘리브레이션 표적의 기하 배치와 기준 마커, (C) 어안 영상과 대응 LiDAR 점군, (D) 추정한 외부 변환을 적용해 색을 입힌 점군입니다.*
+
+LiDAR에서 카메라로의 변환 ${}^{L}\mathbf{T}_{C}\in SE(3)$ 는 원형 구멍 네 개와 기준 마커를 가진 표적으로 구합니다. 구멍 중심의 3D 위치를 LiDAR 쪽에서는 경계 기반 기하 적합으로, 카메라 쪽에서는 마커 기반 자세 복원으로 각각 추정한 뒤 3D-3D 대응을 강체 정렬 문제로 풀면 특이값 분해(SVD)로 닫힌 해가 나옵니다. 저자는 이 모듈에 livox2cam이라는 이름을 붙이고, 고체 상태(solid-state) LiDAR의 불규칙한 표본화를 감당하는 스캔 패턴 비의존 경계 추출, 점이 번져 굵어진 경계를 바로잡는 타원 적합, 다중 프레임 결합 최적화를 넣었습니다.
+
+이 변환 하나가 두 가지 일을 합니다. LiDAR 중심 SLAM이 낸 자세를 카메라 좌표계로 옮겨 시간적으로 일관된 시각 자세 라벨을 만들고, LiDAR 점을 영상 평면에 투영해 깊이를 붙이는 토대를 놓습니다.
+
+---
+
+## 6. LiDAR-관성 오도메트리 — 미분 다양체 위의 ESIKF
+
+![그림 6 — UMI-3D LiDAR-관성 오도메트리 개요](https://arxiv.org/html/2604.14089v1/image/slam_system.jpg)
+
+*그림 6 — 미분 다양체(differentiable manifold) 위의 반복 오차상태 칼만 필터(ESIKF) 틀을 따릅니다. IMU가 고주파 전방 전파를 구동하고, LiDAR 스캔은 복셀 지도에 대한 잔차 계산을 거칩니다. 추정한 LiDAR 궤적으로 복셀 지도를 증분 구축하고, 캘리브레이션한 외부 변환으로 카메라 자세를 얻습니다.*
+
+첫 IMU 프레임 $I$ 를 전역 프레임 $G$ 로 잡고, 상태를 다양체 $\mathcal{M}=SO(3)\times\mathbb{R}^{15}\times SO(3)\times\mathbb{R}^{3}$ 위에 정의합니다. 측정 모형은 복셀별 확률 평면 특징에 기반합니다. 각 복셀을 평면 $\Pi=(\mathbf{n},\mathbf{q})$ 와 공분산 $\Sigma_{\Pi}$ 로 표현하고, 점-평면 잔차를 다음처럼 둡니다.
+
+$$
+r_{i}=\mathbf{n}^{T}\left({}^{G}\mathbf{p}_{i}-\mathbf{q}\right)
+$$
+
+잔차 공분산에 점 단위 불확실성과 평면 단위 불확실성이 함께 담기고, 마할라노비스 거리(Mahalanobis distance) 게이팅이 대응을 걸러냅니다. 불확실성을 아는 형식이라 관측이 성기거나 멀거나 기하가 퇴화(degeneracy)해도 잔차 가중이 알아서 조정됩니다.
+
+![그림 7 — 통합 좌표계와 프레임 변환](https://arxiv.org/html/2604.14089v1/image/Coordinate.jpg)
+
+*그림 7 — 전역 프레임 $G$ 는 첫 IMU 프레임으로 초기화되고, 모든 상태가 이 기준에 대해 증분 추정됩니다. 카메라 궤적은 LiDAR 자세에 ${}^{L}\mathbf{T}_{C}$ 를 적용해 얻습니다.*
+
+변환 세 개가 지각과 행동을 한 사슬로 잇습니다. IMU-LiDAR 변환 ${}^{I}\mathbf{T}_{L}$ 은 공장 캘리브레이션 값으로 고정이고, LiDAR-카메라 변환 ${}^{L}\mathbf{T}_{C}$ 는 앞 절의 절차로 구하며, LiDAR-공구 중심점(TCP) 변환 ${}^{L}\mathbf{T}_{TCP}$ 는 말단장치의 기계 설계로 정해집니다.
+
+---
+
+## 7. 정책 인터페이스 — 형식은 원조 UMI 그대로
+
+![그림 8 — 정책 인터페이스와 상대 행동 표현](https://arxiv.org/html/2604.14089v1/image/UMI-Method.jpg)
+
+*그림 8 — (왼쪽) 정책은 RGB 영상, 상대 말단장치(EE) 자세, 집게 상태를 동기화해 받고 감지·구동 지연을 명시적으로 정렬합니다. 확산 정책이 미래 EE 자세 열을 예측하고, 수신 지평(receding horizon) 방식으로 시간 앙상블과 함께 실행합니다. (오른쪽) 행동은 현재 EE 프레임 기준의 상대 $SE(3)$ 궤적으로 표현합니다.*
+
+정책 쪽 설계는 원조 UMI를 거의 그대로 따르고, 바뀐 것은 둘입니다. GoPro 대신 USB로 직결한 산업용 카메라를 써서 감지와 전송 지연을 줄였고, 팔과 집게를 같은 CAN 버스의 같은 모터 제어계로 묶어 구동 지연을 모든 자유도에서 고르게 만들었습니다.
+
+데이터 패키징은 원본 ROS bag에서 시작합니다. 카메라 프레임은 프레임별 타임스탬프를 그대로 지닌 채 MP4로 뽑고, LiDAR 프레임마다 시간 게이팅 창 안에서 가장 가까운 카메라 관측을 짝지어 교차 표본화 비율을 일정하게 지킵니다. 그다음 영상 타임스탬프를 기본 시간축으로 삼아 SLAM 자세를 10 ms 수준의 좁은 허용오차로 갖다 붙이고, ArUco 태그로 물체와 집게 상태를 뽑습니다. 최종 결과물은 Zarr 기반 리플레이 버퍼라, 확산 정책을 대규모로 학습할 때 필요한 무작위 접근과 병렬 적재가 됩니다.
+
+---
+
+## 8. SLAM 견고성 — 시각이 무너지는 세 장면
+
+![그림 10 — 어려운 실환경 조건에서의 LiDAR 중심 SLAM](https://arxiv.org/html/2604.14089v1/image/SLAM_result.jpg)
+
+*그림 10 — (1) 시각 특징이 거의 없는 무늬 없는 흰 벽, (2) 강한 조명 변화 아래 큰 변형 운동을 동반한 빠른 커튼 젖히기, (3) 관절 구조와 동적 가림이 있는 장기 지평 조작입니다. 모두 시각 전용 SLAM에는 매우 어려운 조건이지만 UMI-3D는 안정적이고 정확한 자세 추정과 지도 작성을 유지합니다.*
+
+저자는 최고 측위 정확도를 자랑하는 대신 일관성을 앞세웁니다. 다양하고 어려운 실환경에서 고르게 높은 정확도를 내는 쪽이 대규모 수집에서 값어치가 크다는 것입니다. 덤으로 미터 단위로 일관된 3D 지도가 남는데, 여기서 실용적인 이득이 둘 나옵니다. 벽 두께나 구조 연속성 같은 인공물이 자세 추정 정확도를 그대로 드러내니 품질을 눈으로 검사할 수 있고, 전역 지도가 여러 시퀀스와 장치의 데이터를 포개는 공간 기준이 됩니다.
+
+---
+
+## 9. 과제 실험 — 네 가지 능력 시험
+
+### 컵 정리 (그림 11)
+
+![그림 11 — 물체 조합별 컵 정리 성능](https://arxiv.org/html/2604.14089v1/image/cup_640.jpg)
+
+*그림 11 — 8×8 컵-받침 조합에 대한 정량 결과입니다. 각 칸은 10회 시행이며, 우상단 숫자는 3,500개 학습 시연에서 이 조합이 차지한 비율, 회색 값은 누적 점수(만점 60), 빨간 값은 정규화 점수입니다. 초록 상자는 학습에 나온 조합, 주황은 부분 미지, 빨강은 완전 미지 조합입니다.*
+
+시연 궤적 3,500개를 모아 CLIP ViT-L/14 인코더로 확산 정책을 학습했습니다. 평가는 모두 미지 환경에서 했고, 컵 8개와 받침 8개를 맞춘 64개 조합을 각각 10회씩 총 640회 시행했습니다. 채점은 파지와 배치 두 단계로 각각 0~3점, 시행당 만점 6점입니다.
+
+| 조합 유형 | 평균 정규화 점수 |
+|---|---|
+| 학습에 나온 조합(seen) | 0.863 |
+| 부분 미지(컵 또는 받침 하나가 미지) | 0.788 |
+| 완전 미지 | 0.736 |
+
+분포 이동(distribution shift)이 커져도 점수는 완만하게만 떨어집니다. 실패는 갈색 받침(그림 11의 일곱째 행)에 몰려 있는데, 배경과 대비가 낮은 데다 학습 분포에서도 벗어나 있어 놓을 자리를 확신하지 못합니다.
+
+### 커튼 젖히기 (그림 12)
+
+![그림 12 — 조건별 커튼 젖히기 성능](https://arxiv.org/html/2604.14089v1/image/curtain_all.jpg)
+
+*그림 12 — 왼쪽은 학습과 평가에 쓴 커튼 세 종류와 769개 시연 궤적에서의 등장 비율, 그리고 40회 시행에 대한 누적 점수(만점 160)와 정규화 점수입니다. 오른쪽은 초기 상태·커튼 가장자리 파지·젖히기 동작의 대표 실행 열입니다.*
+
+시연 궤적 769개로 DINOv2 ViT-L/14 인코더 확산 정책을 학습하고, 강한 조명과 역광까지 포함한 조건에서 총 120회 시행했습니다. 파지와 당기기 두 단계로 각각 0~2점, 시행당 만점 4점입니다.
+
+| 커튼 종류 | 등장 비율 | 누적 점수 | 정규화 점수 |
+|---|---|---|---|
+| 1 | 24.58% | 140/160 | 0.88 |
+| 2 | 46.55% | 143/160 | 0.90 |
+| 3 | 28.87% | 154/160 | 0.96 |
+
+이 과제가 논문의 핵심 증거입니다. 손목 카메라 화면을 강한 조명 변화 아래 무늬 없는 커튼의 움직임이 거의 다 채우는 상황에서는 시각 전용 SLAM으로 자세를 낼 수 없습니다. 수집 단계의 자세를 LiDAR가 붙잡아 준 덕에, 추론할 때는 시각만 쓰는 정책인데도 학습이 됩니다.
+
+### 문 열고 컵 놓기 (그림 13)
+
+![그림 13 — 장기 지평 조작: 문 열기, 컵 파지, 배치](https://arxiv.org/html/2604.14089v1/image/door_cup_all.jpg)
+
+*그림 13 — 왼쪽은 문 바깥, 수납장 안, 탁자 위의 세 공간 구역으로 나눈 과제 분해와 전체 시행 점수입니다. 오른쪽은 상키 다이어그램(Sankey diagram)으로 그린 실패 전파 분석입니다.*
+
+시연 궤적 340개로 학습하고 초기 상태를 무작위로 흩어 40회 시행했습니다. 세 단계 각각 0~2점, 시행당 만점 6점입니다.
+
+| 단계 | 성공률 |
+|---|---|
+| 문 열기 | 97.5% |
+| 컵 파지 | 47.5% |
+| 최종 배치 | 5.0% |
+
+관절체를 다루는 것 자체는 정책이 잘 배웁니다. 문제는 그다음입니다. 시행의 32.5%가 문 열기와 컵 파지까지 해내고도 마지막 배치에서 로봇의 역기구학(IK) 제약에 걸려 실패했습니다. 사람이 시연한 동작과 로봇이 실제로 취할 수 있는 구성 공간(configuration space)이 어긋나서 생기는 일입니다. 저자는 기구학 필터링을 더 조이거나 몸체를 아는 정책 제약을 넣어야 한다고 적었습니다.
+
+### 몸체 간 이식 — 마우스 놓기 (그림 14)
+
+![그림 14 — UMI에서 UMI-3D로의 몸체 간 정책 이식](https://arxiv.org/html/2604.14089v1/image/mouse_all.jpg)
+
+*그림 14 — 왼쪽은 학습-배포 파이프라인으로, 원조 UMI 시스템으로 학습한 정책을 미세조정 없이 UMI-3D 하드웨어에 그대로 올립니다. 가운데는 미지 환경에서의 4×4 마우스-패드 조합 결과(각 칸 5회 시행, 누적 점수 만점 30)입니다.*
+
+원조 UMI로만 학습한 기존 정책을 미세조정 없이 UMI-3D 하드웨어에 올렸습니다. 마우스 4개와 패드 4개로 만든 16개 조합을 각각 5회씩 총 80회 시행했더니 정규화 점수가 0.73에서 1.00 사이로 나왔습니다. 하드웨어와 감지 양식이 달라져도 관측 공간이 충분히 가깝게 남아 있다는 뜻이고, 두 데이터셋을 합쳐 학습하는 길도 함께 열립니다.
+
+---
+
+## 10. 저자가 밝힌 한계
+
+첫째는 하드웨어 무게와 인체공학입니다. LiDAR와 부속 부품이 붙으면서 무거워져 오래 모으면 손이 지칩니다.
+
+둘째는 팔이 하나뿐이라는 점입니다. 양손을 맞춰야 하는 과제는 다루지 못합니다.
+
+셋째는 3D 정보를 놀리고 있다는 점입니다. LiDAR가 SLAM 견고성과 데이터 품질을 좌우하는데도 정작 학습된 정책은 추론할 때 시각 관측만 씁니다. 시연하는 동안 물체 구조와 공간 관계를 이미 같은 시계로 담아 뒀으니, 그것을 정책 학습에 직접 넣는 일이 다음 과제입니다.
+
+넷째는 이동 조작으로 넓히는 일입니다. 고정 베이스를 벗어나 이동과 조작을 한 파이프라인으로 묶는 방향입니다.
+
+---
+
+## 11. 정리 — 계보에서 UMI-3D의 자리
+
+UMI-3D는 UMI 계보의 추적 문제를 우회하지 않고 정면으로 바꾼 논문입니다.
+
+- **손목 LiDAR**가 무늬 없는 벽, 큰 변형체, 심한 가림에서도 자세를 붙잡습니다.
+- **STM32 단일 클럭과 livox2cam**이 여러 양식을 하나의 시공간에 묶습니다. FastUMI가 남긴 시간 정합 문제에 곧바로 답한 셈입니다.
+- **커튼 젖히기와 문 열기**가 시각 전용으로는 애초에 모을 수 없던 데이터가 모인다는 증거입니다.
+- **원조 UMI 정책의 무수정 이식**이 관측 공간 호환성을 보여 줍니다.
+
+흥미로운 지점은 LiDAR가 정책의 입력이 아니라는 데 있습니다. 정책은 여전히 2D 시각운동 정책이고, LiDAR는 오직 수집 단계의 데이터 품질에만 쓰입니다. "좋은 정책은 좋은 데이터에서 나온다"는 말을 하드웨어로 구현한 셈이고, 3D 정보를 정책에 넣는 일은 저자 스스로 다음 숙제로 남겼습니다.
+
+계보의 출발점이 궁금하다면 [원조 UMI 논문해석](/blog/paper-review/umi/umi)으로, 추적 갈래의 앞 세대가 궁금하다면 [FastUMI](/blog/paper-review/umi/fastumi)로 돌아가면 됩니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/rdt2","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"14편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/vista","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"16편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,654 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances\",\"description\":\"대규모 언어 모델이 매긴 \\\"이 기술이 지시에 쓸모 있는가\\\"의 확률과 가치 함수가 매긴 \\\"지금 이 기술이 성공하는가\\\"의 확률을 곱해 다음 기술을 고르고, 101개 주방 지시를 실물 로봇으로 수행한 SayCan을 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2204.01691v2/figures/intro.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/saycan\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"7편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"}]
+10:Td4a5,
+## 들어가며
+
+[6편 BC-Z](/blog/paper-review/pre-vla/bc-z)의 정책은 "pick up the apple"처럼 동사 하나와 명사 하나로 된 짧은 명령을 받아 행동을 냈습니다. 사람이 로봇에게 실제로 하는 요청은 이보다 깁니다. "음료를 쏟았는데 좀 도와줄래?"라는 요청을 처리하려면 무엇을 가져와야 하는지 판단하고, 그 일을 짧은 기술 여러 개의 순서로 나눠야 합니다.
+
+대규모 언어 모델(Large Language Model, LLM)은 이런 판단에 필요한 상식을 텍스트에서 학습했습니다. 하지만 언어 모델은 자기가 낸 문장이 실제 환경에서 어떤 결과를 내는지 본 적이 없습니다. 쏟은 음료를 치우는 방법으로 "진공청소기를 써 보세요"라고 답할 수 있는데, 로봇 앞에 진공청소기가 없거나 로봇이 청소기를 다룰 수 없으면 이 답은 쓸 수 없습니다.
+
+**SayCan** 은 언어 모델의 판단과 로봇이 지금 실제로 할 수 있는 일을 확률 곱 하나로 결합합니다. 언어 모델은 각 기술이 지시를 푸는 데 쓸모 있는 정도를 점수로 매기고(Say), 강화 학습으로 얻은 가치 함수는 각 기술이 현재 상태에서 성공할 확률을 매깁니다(Can). 두 값을 곱해 가장 높은 기술을 실행하고, 실행한 기술을 문장에 이어 붙여 다음 기술을 다시 고릅니다.
+
+이 논문의 계획 방식은 [VLA 계보 1편 RT-1](/blog/paper-review/vla/rt-1)의 장기 과제 평가에서 그대로 쓰입니다. RT-1은 SayCan 안에서 하위 기술을 실행하는 정책 자리에 들어갑니다.
+
+📄 [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) — Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar 외 (저자 알파벳순) / Robotics at Google·Everyday Robots, 2022-04 공개 (v2 2022-08)
+
+프로젝트 페이지는 [say-can.github.io](https://say-can.github.io)이고, 탁상 환경에서 실행되는 오픈소스 구현도 같은 페이지에 있습니다. arxiv 식별자는 2204.01691입니다.
+
+### 초록 요약
+
+대규모 언어 모델은 세상에 대한 의미 지식을 많이 담고 있고, 자연어로 주어지는 길고 추상적인 지시를 수행해야 하는 로봇에게 이 지식은 쓸모가 큽니다. 문제는 언어 모델에 실제 환경의 경험이 없다는 것입니다. 쏟은 음료를 치우는 방법을 물으면 그럴듯한 설명을 내놓지만, 특정 환경에 있는 특정 로봇이 그 설명을 실행할 수 있다는 보장은 없습니다.
+
+저자들은 사전학습된 기술로 언어 모델을 실제 환경에 접지(grounding)합니다. 언어 모델이 제안할 수 있는 행동을 로봇이 가진 기술의 자연어 설명으로 제한하고, 각 기술의 가치 함수로 지금 상태에서 그 기술이 실행 가능한지를 반영합니다. 언어 모델은 과제를 푸는 절차에 대한 상위 지식을 제공하고, 가치 함수는 그 지식을 현재 물리 환경과 연결합니다. 이동형 조작기로 실제 주방에서 여러 과제를 평가해 이 접지가 필요하다는 것과, 이 방법으로 길고 추상적인 자연어 지시를 수행할 수 있다는 것을 보였습니다.
+
+![그림 1 — 접지되지 않은 언어 모델과 SayCan](https://arxiv.org/html/2204.01691v2/figures/intro.png)
+
+*그림 1 — 언어 모델은 환경과 상호작용한 적이 없고, SayCan은 사전학습 기술의 가치 함수로 언어 모델을 접지해 긴 지시를 실물 로봇에서 실행합니다.*
+
+---
+
+## 1. 배경 — 언어 모델의 확률과 가치 함수
+
+SayCan은 서로 다른 두 분야의 확률을 곱합니다. 하나는 언어 모델이 문장에 매기는 확률이고, 다른 하나는 강화 학습의 가치 함수가 매기는 성공 확률입니다.
+
+### 언어 모델의 문장 확률
+
+언어 모델은 문자열 $w$ 의 열로 된 텍스트 $W = \{w_0, w_1, \dots, w_n\}$ 의 확률 $p(W)$ 를 모델링합니다. 연쇄 법칙으로 이 확률을 앞 문자열이 주어졌을 때 다음 문자열이 나올 확률의 곱으로 분해합니다.
+
+$$
+p(W) = \prod_{j=0}^{n} p(w_j \mid w_{<j})
+$$
+
+[2편 GPT-3](/blog/paper-review/pre-vla/gpt-3)에서 다룬 다음 토큰 예측이 이 식입니다. 보통의 생성 응용은 이 분포에서 표본을 뽑거나 가장 확률이 높은 문장을 복호화합니다. SayCan은 같은 모델을 다른 방식으로 씁니다. 후보 문장 몇 개를 미리 정해 두고, 모델이 각 후보에 매기는 확률을 읽어 점수로 씁니다.
+
+### 가치 함수와 실행 가능성
+
+강화 학습에서 문제는 마르코프 결정 과정(Markov decision process, MDP) $\mathcal{M} = (\mathcal{S}, \mathcal{A}, P, R, \gamma)$ 으로 정의합니다. $\mathcal{S}$ 와 $\mathcal{A}$ 는 상태와 행동 공간, $P$ 는 상태 전이 확률, $R$ 은 보상 함수, $\gamma$ 는 할인율입니다.
+
+상태-행동 가치 함수 $Q^\pi(s, a)$ 는 상태 $s$ 에서 행동 $a$ 를 하고 이후 정책 $\pi$ 를 따랐을 때 받는 보상의 할인 합입니다. 시간차(temporal-difference, TD) 학습은 데이터셋 $\mathcal{D}$ 에서 다음 손실을 최소화해 이 함수를 학습합니다.
+
+$$
+L_{TD}(\theta) = \mathbb{E}_{(s,a,s') \sim \mathcal{D}} \left[ R(s,a) + \gamma \, \mathbb{E}_{a^* \sim \pi} Q^\pi_\theta(s', a^*) - Q^\pi_\theta(s, a) \right]
+$$
+
+저자들은 여기서 한 가지 성질을 씁니다. 할인하지 않고, 에피소드 끝에 성공하면 보상 1.0, 실패하면 0.0을 주는 희소 보상(sparse reward) 설정에서는 가치 함수 값이 곧 "현재 상태에서 이 기술을 실행하면 성공할 확률"이 됩니다. 생태심리학에서 환경이 행위자에게 허용하는 행동 가능성을 뜻하는 **실행 가능성(affordance)** 을, 이렇게 학습한 가치 함수로 표현합니다.
+
+---
+
+## 2. 문제 정의 — 과제 접지와 세계 접지
+
+### 입력과 기술 집합
+
+시스템은 사람이 준 자연어 지시 $i$ 를 받습니다. 지시는 길 수도 있고 추상적이거나 모호할 수도 있습니다. 로봇에는 기술 집합 $\Pi$ 가 주어집니다. 각 기술 $\pi \in \Pi$ 는 특정 물체 집기 같은 짧은 과제를 수행하고, 다음 두 가지를 함께 가집니다.
+
+| 구성 | 기호 | 뜻 |
+|------|------|-----|
+| 자연어 설명 | $\ell_\pi$ | "find a sponge" 같은 짧은 기술 이름 |
+| 실행 가능성 함수 | $p(c_\pi \mid s, \ell_\pi)$ | 상태 $s$ 에서 설명 $\ell_\pi$ 의 기술을 실행했을 때 완료($c$)할 확률 |
+
+$c_\pi$ 는 기술이 성공했는지를 나타내는 베르누이 확률 변수입니다. 실행 가능성 함수는 "로봇에게 $\ell_\pi$ 를 시키면 해낼까?"라는 질문에 대한 답이고, 강화 학습 용어로는 성공 보상 1, 실패 보상 0일 때 그 기술의 가치 함수입니다.
+
+### 확률의 분해
+
+언어 모델이 주는 것은 $p(\ell_\pi \mid i)$, 곧 기술 설명이 지시의 다음 단계로 알맞을 확률입니다. 실제로 필요한 것은 그 기술이 지시 수행을 실제로 진전시킬 확률 $p(c_i \mid i, s, \ell_\pi)$ 입니다.
+
+저자들은 두 가지를 가정합니다. 성공한 기술은 확률 $p(\ell_\pi \mid i)$ 로 지시를 진전시키고, 실패한 기술은 지시를 전혀 진전시키지 못합니다. 그러면 필요한 확률은 두 확률의 곱에 비례합니다.
+
+$$
+p(c_i \mid i, s, \ell_\pi) \propto p(c_\pi \mid s, \ell_\pi) \, p(\ell_\pi \mid i)
+$$
+
+| 항 | 이름 | 답하는 질문 | 계산하는 모델 |
+|----|------|-----------|-------------|
+| $p(\ell_\pi \mid i)$ | 과제 접지(task-grounding) | 이 기술이 지시에 쓸모 있는가 | 대규모 언어 모델 |
+| $p(c_\pi \mid s, \ell_\pi)$ | 세계 접지(world-grounding) | 지금 상태에서 이 기술이 성공하는가 | 기술별 가치 함수 |
+
+---
+
+## 3. 방법 — 점수 방식 언어 모델과 가치 함수의 결합
+
+### 언어 모델 출력을 기술 목록으로 제한
+
+언어 모델에게 "로봇이 사과를 가져오려면 어떻게 해야 해?"라고 물으면 "로봇이 가까운 가게에 가서 사과를 사 올 수 있습니다" 같은 답이 나올 수 있습니다. 프롬프트에 대한 답으로는 자연스럽지만, 기술 목록이 좁고 고정된 로봇에게는 실행할 수 없는 답입니다.
+
+첫 번째 해결책은 프롬프트 설계(prompt engineering)입니다. 프롬프트에 예시를 넣어 응답 구조를 따라 하게 만듭니다. 이것만으로는 출력을 로봇이 가진 기술로 완전히 제한할 수 없습니다. 실행할 수 없는 행동이나 단계별로 나누기 어려운 형식의 문장이 여전히 나옵니다.
+
+SayCan은 점수 방식(scoring) 언어 모델을 씁니다. 기술 설명 목록 $\ell_\Pi$ 전체를 후보 완성 문장으로 두고, 언어 모델이 각 후보에 매기는 확률 $p(\ell_\pi \mid i)$ 를 계산합니다. 출력은 항상 기술 목록 안에서 고른 것이 되고, 선택되지 않은 후보들의 확률도 함께 볼 수 있어 결정 과정을 해석할 수 있습니다.
+
+![그림 14 — 점수 방식 언어 모델](https://arxiv.org/html/2204.01691v2/figures/llm.png)
+
+*그림 14 — 예시가 담긴 프롬프트와 지시를 넣으면 언어 모델이 각 기술이 선택될 확률을 내고, 고른 기술을 문장에 붙여 다음 단계를 다시 묻습니다.*
+
+계획은 사용자와 로봇의 대화 형식으로 짭니다. 사용자가 "How would you bring me a coke can?"이라고 물으면 모델은 "I would: 1. find a coke can, 2. pick up the coke can, 3. bring it to you"처럼 번호가 붙은 순서로 답합니다. 한 단계를 고르면 그 단계를 응답에 이어 붙이고 다음 번호의 기술을 다시 점수로 고릅니다.
+
+이렇게 하면 출력은 항상 로봇이 가진 기술이지만, 그 기술이 로봇의 현재 상황에 맞는지는 알 수 없습니다. "사과를 가져와"라는 지시에 필요한 기술 순서는 시야에 사과가 없을 때와 이미 사과를 들고 있을 때 서로 다릅니다.
+
+### 가치 함수 공간
+
+![그림 2(a) — 가치 함수 모듈](https://arxiv.org/html/2204.01691v2/figures/vfs.png)
+
+*그림 2(a) — 현재 관측으로 가치 함수 모듈을 조회해 기본 동작들의 가치 함수 공간을 만듭니다.*
+
+기술마다 가치 함수가 $p(c_\pi \mid s, \ell_\pi)$ 를 주므로, 현재 상태 하나에 대해 모든 기술의 실행 가능성을 모은 집합 $\{p(c_\pi \mid s, \ell_\pi)\}_{\pi \in \Pi}$ 를 만들 수 있습니다. 저자들은 이를 가치 함수 공간이라고 부릅니다.
+
+![그림 2(b) — 물체가 보일 때의 집기 가치](https://arxiv.org/html/2204.01691v2/figures/vf_values_two.png)
+
+*그림 2(b) — 장면에 레드불 캔과 사과가 있어 두 물체의 집기 기술 가치가 높습니다.*
+
+![그림 2(c) — 빈 공간에서의 집기 가치](https://arxiv.org/html/2204.01691v2/figures/vf_values_none.png)
+
+*그림 2(c) — 로봇이 빈 공간을 이동 중이라 어떤 집기 기술도 높은 가치를 받지 못합니다.*
+
+그림 2(b)와 (c)는 집기 기술의 가치를 시각화한 것입니다. 장면에 레드불 캔과 사과가 있으면 "Pick up the red bull can"과 "Pick up the apple"의 가치가 높고, 로봇이 빈 공간을 지나고 있으면 모든 집기 기술의 가치가 낮습니다.
+
+### 결합과 반복
+
+기술마다 언어 모델 확률과 실행 가능성을 곱하고, 곱이 가장 큰 기술을 고릅니다.
+
+$$
+\pi = \arg\max_{\pi \in \Pi} \; p(c_\pi \mid s, \ell_\pi) \, p(\ell_\pi \mid i)
+$$
+
+고른 기술의 정책을 로봇이 실행하고, 그 기술의 설명 $\ell_\pi$ 를 언어 모델 질의에 이어 붙인 뒤 같은 과정을 반복합니다. 종료 토큰 "done"이 선택되면 멈춥니다.
+
+![그림 5 — SayCan의 기술 선택](https://arxiv.org/html/2204.01691v2/figures/vfs_llm_all.png)
+
+*그림 5 — 언어 모델 확률(지시에 쓸모 있는 정도)과 가치 함수 확률(성공할 확률)을 곱해 가능하면서 쓸모 있는 기술을 고릅니다.*
+
+논문의 알고리즘 1을 흐름으로 옮기면 다음과 같습니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "inst",  "label": "사용자 지시 i", "sub": "+ 지금까지 고른 기술 설명", "row": 0},
+    {"id": "obs",   "label": "현재 관측 s_n", "row": 0},
+    {"id": "llm",   "label": "언어 모델 점수", "sub": "p(ℓ_π | i, ℓ_π(n-1), …, ℓ_π0)", "color": "blue", "row": 1},
+    {"id": "vf",    "label": "실행 가능성 점수", "sub": "p(c_π | s_n, ℓ_π)", "color": "orange", "row": 1},
+    {"id": "mul",   "label": "기술별 곱", "sub": "모든 π ∈ Π", "color": "green", "row": 2},
+    {"id": "pick",  "label": "argmax 기술 π_n", "color": "green", "row": 3},
+    {"id": "exec",  "label": "정책 실행", "sub": "상태 s_(n+1)로 갱신", "row": 4},
+    {"id": "done",  "label": "\"done\"이면 종료", "row": 4}
+  ],
+  "edges": [
+    {"from": "inst", "to": "llm"},
+    {"from": "obs",  "to": "vf"},
+    {"from": "llm",  "to": "mul"},
+    {"from": "vf",   "to": "mul"},
+    {"from": "mul",  "to": "pick"},
+    {"from": "pick", "to": "exec", "label": "기술"},
+    {"from": "pick", "to": "done", "label": "종료 토큰"},
+    {"from": "exec", "to": "inst", "label": "설명을 질의에 추가"}
+  ],
+  "height": 480
+}
+```
+
+두 확률을 곱한 값은 확률로 해석할 수 있습니다. 언어 모델 쪽은 기술이 지시에 쓸모 있을 확률이고 실행 가능성 쪽은 기술이 성공할 확률이므로, 곱은 이 기술이 사용자의 지시 수행을 실제로 진전시킬 확률입니다. 선택된 기술들이 자연어 문장으로 이어지므로, 로봇이 어떤 순서로 무엇을 할지가 사람이 읽을 수 있는 계획으로 남습니다.
+
+---
+
+## 4. 로봇 시스템 구현 — 기술, 정책, 가치 함수
+
+### 언어 조건 정책과 가치 함수
+
+SayCan에 넣는 기술 하나에는 정책, 가치 함수, 짧은 자연어 설명이 필요합니다. 저자들은 기술 정책을 두 방식으로 학습합니다. 이미지 기반 행동 복제는 [BC-Z](/blog/paper-review/pre-vla/bc-z) 방법을 따르고, 강화 학습은 MT-Opt를 따릅니다. 정책을 어느 방식으로 얻었든 실행 가능성에는 TD 방식으로 학습한 가치 함수를 씁니다.
+
+현재 데이터 수집 단계에서는 행동 복제 정책의 성공률이 더 높았습니다. 그래도 강화 학습 정책이 주는 가치 함수는 로봇의 제어 능력을 장면의 의미 이해로 옮기는 데 필수라고 저자들은 설명합니다.
+
+기술마다 따로 모델을 학습하면 비용이 크므로, 기술 설명에 조건화된 다중 과제 행동 복제 정책과 다중 과제 강화 학습 모델을 하나씩 학습합니다. 기술 설명은 사전학습된 문장 인코더(Universal Sentence Encoder)로 임베딩하고, 학습 중 인코더 파라미터는 고정합니다. 이 임베딩이 정책과 가치 함수에 "어떤 기술을 수행할지"를 지정하는 입력입니다.
+
+정책을 조건화하는 문장 인코더와 계획에 쓰는 대규모 언어 모델은 서로 다른 모델입니다. 지시를 해석해 기술 설명들로 나누는 일은 여전히 대규모 언어 모델이 맡고, 문장 인코더는 짧은 기술 설명 하나를 정책이 알아듣는 벡터로 바꾸는 일만 합니다.
+
+### 보상과 행동 공간
+
+보상은 희소합니다. 에피소드 끝에 언어 명령을 성공적으로 수행했으면 1.0, 아니면 0.0입니다. 성공 여부는 사람 평가자가 로봇 영상과 명령을 보고 판정하며, 평가자 셋 중 둘이 성공이라고 하면 양의 보상을 줍니다.
+
+| 행동 구성 | 내용 |
+|----------|------|
+| 말단장치 | 6자유도 자세 |
+| 집게 | 열기·닫기 명령 |
+| 이동 베이스 | x-y 위치와 요(yaw) 방향 변화량 |
+| 종료 | 에피소드 종료 행동 |
+
+### 기술 목록
+
+부엌에서 로봇에게 흔히 시킬 만한 일을 기준으로, 7개 기술 계열과 17개 물체에 걸친 기술 551개를 제안합니다. 물체 집기·놓기·재배치, 서랍 열고 닫기, 여러 위치로 이동, 물체를 특정 배치로 놓기가 들어갑니다. 실험에는 이 가운데 조합과 계획에 쓰기 좋고 현재 수집 단계에서 성능이 높은 기술만 씁니다.
+
+### 정책 네트워크 구조
+
+![그림 11 — 강화 학습 정책 구조](https://arxiv.org/html/2204.01691v2/figures/rl_architecture.png)
+
+*그림 11 — MT-Opt와 비슷한 강화 학습 정책 구조로, 출력 Q값은 시그모이드를 거쳐 [0, 1] 안에 있습니다.*
+
+강화 학습 모델은 MT-Opt 구조에 자연어 입력을 받도록 조금 바꾼 형태입니다. 카메라 이미지는 합성곱 층 7개를 먼저 지납니다. 언어 명령 임베딩은 로봇 행동, 집게 높이 같은 이미지가 아닌 상태와 이어 붙입니다. 로봇이 이전 행동을 수행하는 도중에 추론하는 비동기 제어를 지원하려고, 이전 행동이 얼마나 남았는지도 입력으로 줍니다. 이 조건 입력은 완전연결층을 지난 뒤 공간 방향으로 복제돼 합성곱 볼륨에 더해지고, 합성곱 층 11개를 더 지납니다. 출력은 시그모이드를 거치므로 Q값이 항상 $[0, 1]$ 안에 있습니다.
+
+![그림 12 — 행동 복제 정책 구조](https://arxiv.org/html/2204.01691v2/figures/bc_architecture.png)
+
+*그림 12 — BC-Z와 비슷한 행동 복제 정책 구조로, 문장 임베딩이 FiLM으로 ResNet-18을 조건화합니다.*
+
+행동 복제 모델은 BC-Z 구조를 따릅니다. 언어 명령을 Universal Sentence Encoder로 임베딩해 ResNet-18 기반 구조를 FiLM으로 조건화합니다. 강화 학습 모델과 달리 이전 행동이나 집게 높이는 넣지 않았는데, 정책 학습에 필요하지 않았기 때문입니다. 마지막 시각 특징에 완전연결층 여러 개를 붙여 팔 위치, 팔 방향, 집게, 종료 행동을 각각 출력합니다.
+
+### 학습 설정
+
+| 항목 | 강화 학습 (가치 함수) | 행동 복제 (정책) |
+|------|---------------------|----------------|
+| 데이터 | Everyday Robots 시뮬레이터에서 온라인 수집, 시뮬레이션 시연으로 초기 성공 확보 | 원격조작 시연 68000개 (로봇 10대, 11개월) + 학습된 정책의 자율 에피소드 276000개 중 성공한 12000개 |
+| 시뮬레이션-실물 차이 | RetinaGAN으로 시뮬레이션 이미지를 실제처럼 변환 | 해당 없음 |
+| 손실 | 보상이 0 또는 1이므로 로그 손실 | 연속 행동은 평균제곱오차, 이산 행동은 교차 엔트로피, 구성별 가중치 동일 |
+| 입력 해상도 | 640 × 512 전체 크기 | 256 × 320 절반 크기 |
+| 연산 | TPUv3 16개로 약 100시간, 에피소드 수집 CPU 3000개 + 목표 Q값 계산 CPU 3000개 | TPUv3 16개로 약 27시간 |
+| 기타 | 우선순위 경험 재생(prioritized experience replay), 기술별 재생 버퍼 성공률이 50%에 가깝도록 우선순위 조정 | 위험·불필요·실행 불가로 표시된 에피소드 제외 |
+
+강화 학습 쪽 에피소드 우선순위는 $1 + 10 \cdot |p - 0.5|$ 로 정하고, $p$ 는 재생 버퍼 속 에피소드의 평균 성공률입니다. 원격조작자는 VR 헤드셋 컨트롤러로 손 움직임을 추적해 말단장치 자세에 대응시키고, 조이스틱으로 베이스를 움직입니다. 두 모델 모두 밝기·대비 무작위 변환과 무작위 자르기를 씁니다. 640 × 512 이미지를 좌우 100픽셀, 상하 40픽셀 덧댄 뒤 원래 크기로 다시 잘라, 시야를 줄이지 않고 위치를 무작위로 옮깁니다. 행동 복제 정책은 절반 크기 이미지로도 학습 성능이 거의 떨어지지 않았지만, 실행 가능성 가치 함수는 절반 크기에서 잘 학습되지 않아 전체 크기를 썼습니다.
+
+### 기술 평가와 성장
+
+![그림 13 — 기술별 성능과 기술 수의 변화](https://arxiv.org/html/2204.01691v2/figures/task_scaling.png)
+
+*그림 13 — 프로젝트 기간 동안 최고 정책의 기술별 성공률과 다룰 수 있는 기술 수가 함께 늘어납니다.*
+
+정책을 개선하는 동안에는 모의 주방 작업대에서 별도 평가 절차를 씁니다. 기술 계열(집기, 넘어뜨리기, 세우기, 서랍 열고 닫기, 물체를 다른 물체 근처로 옮기기)별로 나누고, 계열 안에서 미리 정한 물체 세 개 조합으로 18~48개 기술을 뽑습니다. 물체 위치는 매 에피소드 무작위이고 물체 한두 개가 방해물 역할을 합니다. 에피소드는 행동 50개를 하거나 정책이 종료 행동을 뽑으면 끝납니다.
+
+기존 모델보다 기술별 성능이 좋은 모델은 실제 주방에서 같은 절차로 다시 평가한 뒤 SayCan에 넣습니다. 모의 작업대와 실제 주방 사이에 환경 차이가 있어도, 모의 작업대 성공률이 높으면 실제 주방 성공률도 대체로 높았습니다. 평가한 기술 수는 2021년 4월 지시 1개에서 논문 공개 시점 수백 개로 늘었고, 그동안 실물 모델 평가를 366번 했습니다.
+
+### 기술 계열별 정책과 실행 가능성 함수
+
+부록 D.2는 실험에 실제로 쓴 기술 계열마다 정책과 실행 가능성 함수를 다르게 구성했다고 밝힙니다. 확률 인터페이스만 맞으면 어떤 정책이든 넣을 수 있다는 것을 보이려는 구성입니다.
+
+| 기술 계열 | 자연어 설명 | 정책 | 실행 가능성 함수 |
+|----------|-----------|------|---------------|
+| 집기 | "pick up the object" | 행동 복제 정책 | 같은 기술로 학습한 강화 학습 가치 함수, 정규화 |
+| 이동 | "go to location", "find object" | 물체 위치를 안다고 가정한 고전적 계획 기반 주행 | 목표 위치까지의 거리 |
+| 놓기 | "put down the object" | 직교좌표 공간 운동 계획. 잡기 직전 자세에서 놓는 자세까지 경로를 따라가다 표면에 닿으면 집게를 엶 | 항상 1.0 |
+| 종료 | "done" | — | 0.1 |
+
+가치 함수 $v(s) = \max_a Q^\pi(s, a)$ 는 MT-Opt와 같이 교차 엔트로피 방법(cross entropy method)으로 최적화해 구합니다. 학습과 구현에서 생긴 편향 때문에 가치 함수를 곧바로 확률로 쓸 수는 없어서, 실험적으로 정한 값으로 보정합니다.
+
+$$
+p^{\text{affordance}}_{\text{pick}} = \text{clamp}\left(\frac{v_{\text{pick}} - v^{\min}_{\text{pick}}}{v^{\max}_{\text{pick}} - v^{\min}_{\text{pick}}}, 0, 1\right), \quad v^{\max}_{\text{pick}} = 0.5, \; v^{\min}_{\text{pick}} = 0.2
+$$
+
+$$
+p^{\text{affordance}}_{\text{goto}} = \text{clamp}\left(\frac{d^{\max}_{\text{goto}} - d_{\text{goto}}}{d^{\max}_{\text{goto}} - d^{\min}_{\text{goto}}}, 0, 1\right), \quad d^{\max}_{\text{goto}} = 100, \; d^{\min}_{\text{goto}} = 0
+$$
+
+거리 $d$ 의 단위는 미터입니다. 놓기는 집은 뒤에만 가능하다는 것을 언어만으로 충분히 파악한다고 보고 실행 가능성을 1.0으로 둡니다. 종료에 작은 값 0.1을 주는 이유는, 실행 가능한 기술이 하나도 없을 때 계획이 끝나게 하려는 것입니다. 이미 완료해 보상을 받은 기술(예: 이미 앞에 서 있는 테이블로 이동)은 다시 고르지 않도록 실행 가능성에 상한을 두는 규칙도 넣었습니다.
+
+"move object near object"와 "knock object over" 같은 조작 기술은 장기 과제에 자연스럽게 들어가지 않아 쓰지 않았고, 서랍 열기는 장기 계획에 쓸 만큼 안정적이지 않아 본 실험에서 뺐습니다. 서랍 기술은 뒤의 9장에서 새 기술 추가 사례로 따로 다룹니다.
+
+---
+
+## 5. 프롬프트 설계
+
+### 예시 수와 계획 성공률
+
+SayCan 전체를 실행하려면 실제 환경의 실행 가능성이 필요하므로, 프롬프트를 빠르게 바꿔 가며 조절하기 어렵습니다. 저자들은 언어 기반 시뮬레이터를 따로 만들었습니다. 질의와 정답 기술 순서를 주면 그에 맞는 실행 가능성 값과 방해용 실행 가능성 값을 만들어 주고, SayCan이 정답 순서를 복원하는지 확인합니다. 이 시뮬레이터에서 지시 50개로 프롬프트 예시 수에 따른 계획 성공률을 쟀습니다.
+
+| 예시 수 | 종료 요구 | 종료 요구 없음 |
+|--------|----------|-------------|
+| 0 | 10% | 52% |
+| 1 | 64% | 74% |
+| 2 | 68% | 76% |
+| 4 | 82% | 84% |
+| 8 | 80% | 80% |
+| 전체 프롬프트 (17) | 88% | 88% |
+
+*표 5 — 프롬프트 예시 수에 따른 계획 성공률. "종료 요구"는 계획이 마지막에 "done"을 내야 성공으로 칩니다.*
+
+예시가 없으면 언어 모델은 "done"을 거의 내지 않아, 종료를 요구하면 10%에 그칩니다. 본문은 이 조건의 종료 요구 없음 값을 54%라고 쓰지만 표 5는 52%로 적혀 있고, 논문 안에서 어느 쪽이 맞는지 판단할 근거가 없어 표 값을 싣습니다. 예시가 없어도 "Can I have a redbull please?"와 "Move the chips bag from the table to the counter." 같은 지시는 맞게 계획했습니다. 예시 하나만 넣어도 두 성공률이 빠르게 오르고, 예시 넷에서 82%를 기록하며 남은 오류는 대부분 장기 과제 계열에 몰려 있습니다. 실제 실험에 쓴 프롬프트는 예시 17개로 88%입니다.
+
+### 프롬프트 구성에서 얻은 교훈
+
+- 단계를 "and then" 같은 말로 잇지 않고 1., 2. 처럼 번호를 붙이면 성능이 오릅니다. 단계마다 줄을 바꾸는 것도 도움이 됩니다.
+- 예시에 실제 계획에 쓰일 물체가 지나치게 많이 나오면 결과가 그 물체 쪽으로 치우칩니다. 예시가 전부 사과 이야기면 사과 점수가 틀어집니다.
+- 언어 모델이 자기회귀 방식으로 점수를 매기므로, 기술과 물체 이름을 자연스럽게 짓는 것이 중요합니다. 오타나 "a"와 "an"의 불일치도 문제를 일으킵니다. 반면 사용자 지시는 입력으로 그대로 받으므로 사용자 문장의 이런 오류에는 강합니다.
+- PaLM에서는 상호작용을 "How would you - I would" 대화로 짜는 편이 더 자연스럽고 성능도 좋았습니다. 프롬프트는 대화 형식이지만 실제 배치에서는 명령문에도 일반화했습니다.
+
+실제 프롬프트(논문 목록 1)의 앞부분은 이런 형식입니다.
+
+```text
+Robot: Hi there, I'm a robot operating in an office kitchen.
+Robot: You can ask me to do various tasks and I'll tell you the sequence of actions I would do to accomplish your task.
+Human: How would you hold the snickers?
+Robot: 1. pick up the snickers, 2. done.
+Human: How would you put the trailmix here?
+Robot: 1. put down the trailmix, 2. done.
+Human: How would you bring me some snacks?
+Robot: 1. find a twix, 2. pick up the twix, 3. bring it to you, 4. put down the twix, 5. find an dried fruit, 6. pick up the dried fruit, 7. bring it to you, 8. put down the dried fruit, 9. done.
+```
+
+---
+
+## 6. 실험 설정 — 주방, 지시, 지표
+
+### 환경과 로봇
+
+![그림 6(a) — 모의 주방](https://arxiv.org/html/2204.01691v2/figures/mk_setup.png)
+
+*그림 6(a) — 실제 사무실 주방을 본뜬 모의 주방 환경입니다.*
+
+![그림 6(b) — 실험 물체](https://arxiv.org/html/2204.01691v2/figures/object_setup3.jpg)
+
+*그림 6(b) — 사무실 주방에서 흔히 볼 수 있는 실험 물체입니다.*
+
+![그림 6(c) — 로봇](https://arxiv.org/html/2204.01691v2/figures/robot_setup.png)
+
+*그림 6(c) — RGB 관측으로 학습한 정책을 쓰는 이동형 조작기입니다.*
+
+평가 환경은 둘입니다. 실제 사무실 주방과, 그 주방을 본떠 만든 모의 주방입니다. 모의 주방은 로봇 기술을 학습한 환경이기도 합니다. 사무실 주방에서 흔한 물체 15개와 의미가 있는 위치 5곳(조리대 두 곳, 테이블, 쓰레기통, 사용자 위치)을 씁니다.
+
+로봇은 Everyday Robots의 이동형 조작기로, 7자유도 팔과 두 손가락 집게를 갖췄습니다. 언어 모델은 따로 밝히지 않는 한 540B 파라미터 PaLM이고, 이 조합을 **PaLM-SayCan** 이라고 부릅니다.
+
+### 지시 계열
+
+지시는 7개 계열의 101개입니다. Amazon Mechanical Turk 크라우드소싱과 실제 주방 사용자, ALFRED와 BEHAVIOR 같은 벤치마크를 참고해 만들었고, 시간 길이(기본 동작 하나부터 10단계 이상), 언어 복잡도(구조화된 문장부터 크라우드소싱한 요청까지), 몸체 조건(로봇과 환경 상태의 변화)이 모두 달라지게 구성했습니다.
+
+| 지시 계열 | 수 | 설명 | 예시 지시 |
+|----------|----|------|----------|
+| NL Single Primitive | 15 | 기본 동작 하나에 대응하는 자연어 질의 | Let go of the coke can |
+| NL Nouns | 15 | 명사(물체·위치)를 추상적 표현이나 동의어로 바꾼 질의 | Bring me a fruit |
+| NL Verbs | 15 | 동사(행동)를 추상적 표현이나 동의어로 바꾼 질의 | Restock the rice chips on the far counter |
+| Structured Language | 15 | NL Verbs와 같은 과제를 풀이 순서 그대로 적은 구조화 질의 | Move the rice chips to the far counter. |
+| Embodiment | 11 | 환경과 로봇의 현재 상태 이해를 시험하는 질의 | Put the coke on the counter. (완료 단계가 서로 다른 상태에서 시작) |
+| Crowd-Sourced | 15 | 형식이 정해지지 않은 요청 | My favorite drink is redbull, bring one |
+| Long-Horizon | 15 | 여러 단계의 추론이 필요한 긴 질의 | I spilled my coke on the table, throw it away and bring me something to clean |
+
+*표 1 — 지시 계열 정의. 계열마다 방법의 서로 다른 측면을 시험합니다.*
+
+Structured Language 계열은 NL Verbs와 같은 과제를 풀이까지 적어 주는 질의라, 두 계열을 비교하면 자연어 질의를 이해하는 데서 생기는 손실을 볼 수 있습니다. Crowd-Sourced 계열은 Mechanical Turk 작업자에게 "사과를 앞으로 옮겼다" 같은 상황 설명을 보여 주고 로봇에게 뭐라고 요청할지 받거나, 로봇의 능력을 아는 실제 주방 사용자에게 직접 요청하게 해서 모았습니다.
+
+### 지표
+
+| 지표 | 측정 대상 | 판정 |
+|------|---------|------|
+| 계획 성공률(plan success rate) | 모델이 고른 기술 순서가 지시에 맞는지. 실제 실행 성공 여부와 무관 | 평가자 3명 중 2명이 유효하다고 판단하면 성공 |
+| 실행 성공률(execution success rate) | PaLM-SayCan 전체 시스템이 로봇으로 지시를 실제로 해냈는지 | 평가자 3명이 실행 영상을 보고 3명 중 2명이 성공이라고 판단하면 성공 |
+
+한 지시에 유효한 계획이 여러 개일 수 있습니다. "스펀지를 가져오고 캔을 버려"라는 지시는 스펀지를 먼저 가져와도 되고 캔을 먼저 버려도 됩니다.
+
+---
+
+## 7. 결과 — 계획 성공률과 실행 성공률
+
+### 전체 성능
+
+| 계열 | 수 | 모의 주방 PaLM-SayCan 계획 | 모의 주방 PaLM-SayCan 실행 | 주방 PaLM-SayCan 계획 | 주방 PaLM-SayCan 실행 | 실행 가능성 없음: No VF 계획 | 실행 가능성 없음: Gen. 계획 | 언어 모델 없음: BC NL 실행 | 언어 모델 없음: BC USE 실행 |
+|------|----|------|------|------|------|------|------|------|------|
+| NL Single | 15 | 100% | 100% | 93% | 87% | 73% | 87% | 0% | 60% |
+| NL Nouns | 15 | 67% | 47% | 60% | 40% | 53% | 53% | 0% | 0% |
+| NL Verbs | 15 | 100% | 93% | 93% | 73% | 87% | 93% | 0% | 0% |
+| Structured | 15 | 93% | 87% | 93% | 47% | 93% | 100% | 0% | 0% |
+| Embodiment | 11 | 64% | 55% | 64% | 55% | 18% | 36% | 0% | 0% |
+| Crowd Sourced | 15 | 87% | 87% | 73% | 60% | 67% | 80% | 0% | 0% |
+| Long-Horizon | 15 | 73% | 47% | 73% | 47% | 67% | 60% | 0% | 0% |
+| **합계** | **101** | **84%** | **74%** | **81%** | **60%** | **67%** | **74%** | **0%** | **9%** |
+
+*표 2 — 지시 계열별 성공률. No VF는 언어 모델 점수만으로 기술을 고르고, Gen.은 생성형 언어 모델 출력을 USE 임베딩으로 가장 가까운 기술에 대응시키며, BC NL은 지시 전체를 정책에 넣고, BC USE는 지시를 USE 임베딩으로 가장 가까운 기술 명령에 대응시켜 정책에 넣습니다.*
+
+기술을 학습한 모의 주방에서 PaLM-SayCan은 계획 성공률 84%, 실행 성공률 74%를 기록했습니다. 실험실 밖의 실제 주방으로 옮기면 계획이 3%, 실행이 14% 떨어져 각각 81%와 60%입니다. 저자들은 PaLM-SayCan과 하위 정책이 실제 주방에도 비교적 잘 일반화한다고 해석합니다.
+
+[RT-1 논문해석](/blog/paper-review/vla/rt-1)의 SayCan 비교표에서 "원래 SayCan"으로 실린 계획 73%·실행 47%는 이 표의 모의 주방 Long-Horizon 계열 값과 같습니다.
+
+### 장기 과제 실행 사례
+
+![그림 7(a) — 운동 후 음료와 간식 요청](https://arxiv.org/html/2204.01691v2/figures/overhead_workout.png)
+
+*그림 7(a) — "I just worked out, can you bring me a drink and a snack to recover?" 수행 과정의 시간 경과 장면입니다.*
+
+![그림 7(b) — 세 물체 버리고 스펀지 가져오기](https://arxiv.org/html/2204.01691v2/figures/overhead_three_sponge.png)
+
+*그림 7(b) — "I left out a coke, apple, and water, can you throw them away and then bring me a sponge to wipe the table?" 수행 과정입니다.*
+
+두 지시 모두 여러 단계를 틀리지 않고 계획해야 하고, 로봇이 주방의 넓은 영역을 이동하며 물체를 다뤄야 합니다. 그림 7(a)에서는 "운동 후 회복"이라는 말에서 건강한 음식이 필요하다는 것을 이해해 탄산음료와 과자 대신 물과 사과를 가져옵니다. 음료를 이미 가져왔으니 끝내기 전에 간식도 가져와야 한다는 순서와 이력도 파악해야 합니다. 그림 7(b)에서는 버려야 할 "them"이 어떤 물체들인지와 스펀지를 어디로 가져가야 하는지를 추적해야 합니다.
+
+### 결정 과정의 시각화
+
+![그림 8 — PaLM-SayCan의 결정 과정](https://arxiv.org/html/2204.01691v2/spill_coke_rc5.png)
+
+*그림 8 — 기술마다 언어 모델 점수, 실행 가능성 점수, 결합 점수를 표시하며, 결합 점수 1위가 올바른 기술을 고릅니다.*
+
+두 확률을 각각 시각화하면 PaLM-SayCan이 어떤 후보를 언어적으로 고려하고 무엇이 실행 가능하다고 보는지 사용자가 볼 수 있습니다. 물체에 다가간 뒤 집고, 집은 뒤 가져간다는 순서도 반영됩니다. 그림 8의 질의에는 콜라가 나오지만, PaLM-SayCan은 치우는 데 필요한 물건이 중요하다고 판단해 스펀지를 가져옵니다.
+
+논문 서두의 예시인 "I spilled something, can you help?"에 접지되지 않은 언어 모델은 "청소부를 불러 드릴게요"나 "진공청소기로 치울게요"처럼 이 로봇이 할 수 없는 답을 냅니다. PaLM-SayCan은 "I would: 1. find a sponge, 2. pick up the sponge, 3. bring it to you, 4. done"이라고 답하고, 실제 주방에서 이 순서를 실행합니다.
+
+### 계열별 분석
+
+- **NL Nouns가 NL Verbs보다 낮습니다.** 가능한 명사는 물체 15개와 위치 5곳이지만 동사는 6개라서, 명사를 맞히는 선택지가 훨씬 많습니다.
+- **Structured Language 계획은 93%, 대응하는 NL Verbs는 100%입니다.** 풀이를 적어 준 질의보다 자연어 질의에서 오히려 높으므로, 언어 모델이 질의를 제대로 해석한다는 뜻입니다.
+- **Embodiment 계획은 64%입니다.** 실패는 대체로 실행 가능성 함수의 오분류에서 나왔습니다.
+- **Crowd-Sourced 질의는 다른 계열과 비슷한 수준으로 계획하고 실행했습니다.**
+- **Long-Horizon이 가장 어렵습니다.** 실패 대부분은 언어 모델이 일찍 종료한 경우입니다. 물체 하나를 가져오고 두 번째 물체를 가져오지 않는 식입니다.
+- **부정과 모호한 지시에 약합니다.** "사과가 아닌 간식을 가져와"나 "카페인이 든 음료" 같은 요청이 여기에 해당하며, 하위 언어 모델에서 물려받은 알려진 문제입니다.
+
+전체 오류 가운데 65%는 언어 모델 오류, 35%는 실행 가능성 오류였습니다.
+
+### 언어 모델을 뺀 제거 실험
+
+언어 모델의 역할을 확인하려고, 언어 조건 정책만으로 지시를 처리하는 두 방식을 비교합니다.
+
+| 방식 | 구성 | 실행 성공률 |
+|------|------|-----------|
+| BC NL | 긴 지시 $i$ 전체를 그대로 정책에 입력. 표준적인 강화 학습·행동 복제 기반 지시 추종 방식 | 모든 계열 0% |
+| BC USE | 지시, 모든 기술, 기술 순서 조합("1. find coke can, 2. pick coke can" 등)을 USE로 임베딩하고 코사인 유사도가 가장 높은 명령을 정책에 입력 | NL Single 60%, 나머지 계열 0%, 합계 9% |
+
+긴 지시를 정책에 바로 넣으면 기술 하나짜리 요청조차 수행하지 못합니다. 지시를 해석하고 기술 순서로 나누는 언어 모델 단계가 필요하다는 결과입니다.
+
+### 실행 가능성을 뺀 제거 실험
+
+| 방식 | 구성 | 계획 성공률 |
+|------|------|-----------|
+| No VF | 가치 함수 없이 언어 모델 점수가 가장 높은 기술 선택 | 67% |
+| Generative | 생성형 언어 모델로 계획을 만든 뒤, 단계마다 USE 코사인 유사도가 가장 높은 기술로 대응 | 74% |
+| PaLM-SayCan | 언어 모델 점수 × 실행 가능성 | 84% |
+
+Generative 방식은 SayCan과 같은 시기에 나온 Huang et al.의 방식에 해당합니다. 생성 결과를 기술에 대응시키므로 후보별 확률이 사라지고, 그 때문에 해석이 어렵고 실행 가능성 확률과 곱할 수도 없습니다. Generative에는 BERT 임베딩도 시도했지만 성능이 낮았습니다. 두 방식 모두 PaLM-SayCan보다 낮고, 차이가 가장 큰 계열은 현재 상태를 알아야 하는 Embodiment입니다(No VF 18%, Gen. 36%, PaLM-SayCan 64%).
+
+---
+
+## 8. 언어 모델 크기와 종류
+
+### 생성 방식으로 비교한 언어 모델 크기
+
+| 계열 | 수 | PaLM 540B | PaLM 62B | PaLM 8B | FLAN 137B |
+|------|----|-----------|----------|---------|-----------|
+| NL Single | 15 | 87% | 73% | 20% | 40% |
+| NL Nouns | 15 | 53% | 47% | 20% | 40% |
+| NL Verbs | 15 | 93% | 100% | 60% | 87% |
+| Structured | 15 | 100% | 100% | 67% | 73% |
+| Embodiment | 11 | 36% | 27% | 27% | 0% |
+| Crowd Sourced | 15 | 80% | 73% | 47% | 47% |
+| Long-Horizon | 15 | 60% | 73% | 20% | 0% |
+| **합계** | **101** | **74%** | **72%** | **38%** | **43%** |
+
+*표 7 — 언어 모델 크기에 따른 계획 성공률. 가치 함수 없이 생성형 출력을 USE 임베딩으로 기술에 대응시킨 조건입니다.*
+
+실행 가능성 없이 생성형 출력만 비교하면 대체로 큰 모델이 낫지만, 62B와 540B의 차이는 작습니다(72% 대 74%). 저자들은 사고 사슬 프롬프팅 연구의 결과를 근거로, 더 어려운 문제에서는 크기 차이가 더 벌어질 수 있다고 보고 9장의 사례로 보입니다. PaLM 540B의 열은 표 2의 Gen. 계획 열과 같은 값입니다. FLAN은 지시 응답 데이터로 미세조정한 137B 모델인데도 PaLM보다 낮았습니다. 저자들은 PaLM의 더 넓고 개선된 학습 데이터가 이 차이를 메웠을 수 있다고 봅니다.
+
+### 전체 SayCan에서의 PaLM과 FLAN
+
+| 계열 | 수 | PaLM-SayCan 계획 | PaLM-SayCan 실행 | FLAN-SayCan 계획 | FLAN-SayCan 실행 |
+|------|----|------|------|------|------|
+| NL Single | 15 | 100% | 100% | 67% | 67% |
+| NL Nouns | 15 | 67% | 47% | 60% | 53% |
+| NL Verbs | 15 | 100% | 93% | 80% | 67% |
+| Structured | 15 | 93% | 87% | 100% | 87% |
+| Embodiment | 11 | 64% | 55% | 64% | 55% |
+| Crowd Sourced | 15 | 87% | 87% | 73% | 67% |
+| Long-Horizon | 15 | 73% | 47% | 47% | 33% |
+| **합계** | **101** | **84%** | **74%** | **70%** | **61%** |
+
+*표 3 — 실행 가능성까지 포함한 전체 SayCan에서 PaLM과 FLAN의 성공률 비교입니다.*
+
+실제 로봇에서 SayCan 알고리즘 전체를 실행하면 PaLM-SayCan은 계획 84%, 실행 74%, FLAN-SayCan은 계획 70%, 실행 61%입니다. 저자들은 PaLM이 FLAN 대비 오류를 절반으로 줄였다고 씁니다. 계획 오류는 30%에서 16%로 거의 절반이 됐지만, 실행 오류는 39%에서 26%로 약 3분의 1이 줄었습니다.
+
+저자들은 언어 모델의 개선이 로봇 성능의 개선으로 그대로 이어지는 것을 처음 확인한 결과라고 강조합니다. 로봇 쪽 정책과 가치 함수를 바꾸지 않고 언어 모델만 바꿨는데 로봇의 성공률이 올라갔기 때문입니다.
+
+---
+
+## 9. PaLM-SayCan의 새 능력 사례
+
+### 새 기술 추가 — 서랍 조작
+
+SayCan에 새 기술을 넣으려면 그 기술을 언어 모델의 후보에 추가하고, 가치 함수를 제공하고, 프롬프트에 그 기술을 쓰는 예시를 넣으면 됩니다. 서랍 조작 기술은 "open the drawer", "close the drawer", "put the object in the drawer", "take the object out of the drawer"이고, 행동은 행동 복제 정책에서, 실행 가능성은 휴리스틱(로봇이 서랍 옆에 있으면 모든 서랍 기술이 가능)에서 얻습니다. 서랍 기술을 순서대로 잇는 법은 프롬프트 예시로 가르칩니다.
+
+```text
+Human: restock orange juice into the drawer
+Robot: 1. go to the drawers, 2. open the drawer, 3. put orange juice in the drawer, 4. close the drawer, 5. done.
+```
+
+![그림 9 — 서랍에서 쌀과자 꺼내기](https://arxiv.org/html/2204.01691v2/figures/drawer_seq.png)
+
+*그림 9 — 팔이 하나뿐이라 쌀과자를 서랍에서 꺼내 조리대에 두고, 서랍을 닫은 뒤 다시 집는 긴 순서를 계획합니다.*
+
+| 지시 | 계획 성공률 | 실행 성공률 |
+|------|-----------|-----------|
+| restock the coke and pepsi into the drawer | 1.0 | 0.0 |
+| hide the 7up in the drawer | 1.0 | 0.83 |
+| restock the coke into the drawer | 1.0 | 0.17 |
+
+*표 8 — 서랍 과제의 계획·실행 성공률입니다.*
+
+계획 성공률은 100%, 실행 성공률은 33%였고, 서랍 기술을 넣은 뒤에도 다른 지시의 성능은 떨어지지 않았습니다. 실행 실패는 대부분 조작 실패로, 물체를 넣을 만큼 서랍을 넓게 열지 못하거나 서랍을 끝까지 닫지 못한 경우입니다. 본문은 질의 21개로 평가했다고 쓰지만, 표 8의 0.83과 0.17은 지시당 6회(총 18회)일 때 나오는 값이라 두 숫자가 맞지 않습니다. 논문에서는 어느 쪽이 맞는지 확인할 수 없어 두 값을 함께 적습니다.
+
+### 사고 사슬 추론
+
+기본 SayCan은 부정이 들어간 지시를 잘 처리하지 못합니다. 저자들은 사고 사슬(chain-of-thought) 프롬프팅으로 이 문제를 줄였습니다. 프롬프트에 "Explanation" 부분을 추가하고 언어 모델 사용 방식을 조금 바꿉니다. 먼저 생성형 복호화로 설명을 만들고, 그 설명을 프롬프트에 넣은 뒤 점수 방식으로 기술을 고릅니다.
+
+사고 사슬 프롬프트는 장면의 물체 목록(7up, apple, tea, multigrain chips 등 15개)과 위치 목록(close counter, far counter, table, you, trash, bowl)을 앞에 적고, 예시마다 설명 한 줄을 붙입니다.
+
+| 사용자 요청 | 모델이 생성한 설명 | 로봇 계획 |
+|-----------|----------------|---------|
+| Can you bring a fruit-flavored drink without caffeine? | The user has asked for a drink that is fruit-flavored and does not have caffeine, I will bring the lime soda. | 1. find a lime soda, 2. pick up the lime soda, 3. bring it to you, 4. put down the lime soda, 5. done |
+| Bring me the spicy chips. | The user has asked for chips that are spicy, I will bring the Jalapeno chips. | 1. find the jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done |
+| The snack is too small, bring me something more filling. | The user has asked for a snack that is more filling, I will bring the multigrain chips. | 1. find the multigrain chips, 2. pick up the multigrain chips, 3. bring it to you, 4. put down the multigrain chips, 5. done |
+
+*표 4 — PaLM-SayCan의 사고 사슬 계획 실행 예시. 설명 열이 모델이 생성한 사고 사슬입니다.*
+
+설명 단계를 거치면 "카페인이 없는" 같은 부정 조건과 "더 든든한" 같은 추론이 필요한 요청을 처리합니다.
+
+### 다국어 질의
+
+| 지시 | 언어 | 계획 성공률 |
+|------|------|-----------|
+| bring me a can of coke | 영어 | 1.0 |
+| throw away the coke can | 영어 | 1.0 |
+| I spilled my coke, can you bring me something to help clean | 영어 | 1.0 |
+| 拿一罐可乐给我 | 중국어 | 1.0 |
+| 扔掉可乐罐 | 중국어 | 1.0 |
+| 我的可乐洒了，你能给我拿点东西来帮忙打扫吗 | 중국어 | 1.0 |
+| apporte moi une canette de coca | 프랑스어 | 1.0 |
+| jeter la canette de coca | 프랑스어 | 1.0 |
+| J'ai renversé mon coca, peux-tu m'apporter quelque chose pour m'aider à nettoyer | 프랑스어 | 0.0 |
+| tráeme una lata de coca cola | 스페인어 | 1.0 |
+| tirar la lata de coca cola | 스페인어 | 1.0 |
+| Derramé mi coca cola, ¿puedes traerme algo para ayudar a limpiar | 스페인어 | 1.0 |
+
+*표 9 — 다국어 질의의 계획 성공률. 4~12번은 1~3번 영어 질의의 중국어·프랑스어·스페인어 번역입니다.*
+
+다국어 처리를 위해 따로 설계하지 않았지만, PaLM이 다국어 말뭉치로 학습했기 때문에 영어가 아닌 질의도 처리합니다. 12개 가운데 프랑스어로 된 음료 쏟음 질의 하나만 실패했습니다.
+
+### 닫힌 루프 계획
+
+지금의 SayCan은 현재 결정 단계의 가치 함수로만 환경 정보를 받습니다. 기술이 실패하거나 환경이 바뀌어도 그 사실이 계획에 전달되지 않을 수 있습니다. 후속 연구인 Inner Monologue(Huang et al.)는 SayCan 위에 성공 감지기, 장면 설명기, 사람 피드백 같은 환경 정보를 언어로 넣어 닫힌 루프 계획을 구현했습니다.
+
+---
+
+## 10. 오픈소스 탁상 환경
+
+![그림 10 — 오픈소스 탁상 환경](https://arxiv.org/html/2204.01691v2/figures/open_source.png)
+
+*그림 10 — UR5 로봇과 색 블록·그릇이 있는 탁상 환경에서 CLIPort 정책으로 SayCan을 실행합니다.*
+
+저자들은 SayCan 구현을 Google Colab 노트북으로 공개했습니다. 환경은 UR5 로봇과 무작위로 만든 색 블록·그릇 세트가 놓인 탁상입니다. 구성 요소는 실물 실험과 다릅니다.
+
+| 구성 | 실물 실험 | 오픈소스 환경 |
+|------|---------|------------|
+| 언어 모델 | PaLM 540B | GPT-3 |
+| 하위 정책 | 행동 복제 정책, 계획 기반 주행·놓기 | CLIPort (집을 위치와 놓을 위치 출력) |
+| 실행 가능성 | 강화 학습 가치 함수, 거리 등 | ViLD 물체 검출기 (CLIPort에 가치 함수가 없음) |
+| 단계 형식 | "pick up the object" 등 | "pick up the object and place it in location" |
+
+"move all the blocks into their matching colored bowls"라는 과제에는 "Step 1. pick up the blue block and place it in the blue bowl"처럼 단계를 냅니다.
+
+---
+
+## 11. 추가 결과와 실패 사례
+
+### 추가 결정 과정 시각화
+
+![그림 23(a) — 추가 결정 과정 시각화 1](https://arxiv.org/html/2204.01691v2/spill_coke_rc5_2.png)
+
+*그림 23(a) — "I spilled my coke, can you bring me a replacement?"에 콜라 캔 찾기 → 집기 → 가져오기 → 종료를 고르는 과정입니다.*
+
+![그림 23(b) — 추가 결정 과정 시각화 2](https://arxiv.org/html/2204.01691v2/spill_coke_rc5.png)
+
+*그림 23(b) — 본문 그림 8과 같은 이미지로, 콜라가 언급돼도 스펀지를 고르는 과정입니다.*
+
+![그림 23(c) — 과일 가져오기](https://arxiv.org/html/2204.01691v2/bring_me_a_fruit_mk.png)
+
+*그림 23(c) — "How would you bring me a fruit?"에 사과 찾기 → 집기 → 가져오기 → 종료를 고르는 과정입니다.*
+
+![그림 23(d) — 스펀지를 가까운 조리대에 놓기](https://arxiv.org/html/2204.01691v2/embodiment_example.png)
+
+*그림 23(d) — "How would you put the sponge on the close counter?"에 스펀지 찾기 → 집기 → 조리대 이동 → 내려놓기 → 종료의 5단계를 고르는 과정입니다.*
+
+### 장기 과제 순서
+
+부록 그림 24와 26(같은 내용)은 이미지 없이 캡션만 HTML 판에 남아 있어 내용만 옮깁니다.
+
+| 사례 | 내용 |
+|------|------|
+| 탄산음료 두 개 | 언어 모델이 두 탄산음료에 모두 높은 점수를 줍니다. 콜라를 가져온 뒤에는 펩시 점수가 높아집니다. 첫 캔을 가져온 직후 일찍 종료할 수 있었지만 실행 가능성 점수가 이를 막았습니다. |
+| 9단계 계획 | 9단계 계획을 끝까지 수행했고, 5단계에서 일찍 종료할 뻔했습니다. |
+
+### 실패 사례
+
+![그림 25(a) — 과자 봉지 실행 가능성 실패](https://arxiv.org/html/2204.01691v2/failure_case_lm.png)
+
+*그림 25(a) — 실행 가능성 모델이 두 과자 봉지 모두 집을 수 있다고 판단하지 못해, 언어 모델이 조리대로 두 번 이동합니다.*
+
+![그림 25(b) — 스펀지 실행 가능성 실패](https://arxiv.org/html/2204.01691v2/failure_case_vf.png)
+
+*그림 25(b) — 실행 가능성 모델이 스펀지를 집을 수 있다고 판단하지 못합니다.*
+
+![그림 25(c) — 이른 종료](https://arxiv.org/html/2204.01691v2/failure_early_stop.png)
+
+*그림 25(c) — 언어 모델이 장기 과제를 끝나기 전에 종료합니다.*
+
+실패 사례 세 개 중 두 개는 실행 가능성 모델의 오판이고, 하나는 언어 모델의 이른 종료입니다. 계획 성공률 84%에서 남은 오류는 65%가 언어 모델 오류, 35%가 실행 가능성 오류였습니다.
+
+---
+
+## 12. 저자가 밝힌 한계
+
+첫째, 대규모 언어 모델의 한계와 편향을 그대로 물려받습니다. 언어 모델이 학습 데이터에 의존한다는 점도 포함됩니다.
+
+둘째, 사용자는 자연어로 로봇과 상호작용할 수 있지만 시스템의 주된 병목은 하위 기술의 범위와 능력입니다. 기술 목록을 넓히고 각 기술을 더 안정적으로 만드는 후속 연구가 이 한계를 줄일 것이라고 봅니다.
+
+셋째, 기술이 높은 가치를 보고했는데도 실패하는 상황에 곧바로 대응하기 어렵습니다. 언어 모델에 수정을 요청하는 프롬프트로 해결할 수 있을 가능성을 언급합니다.
+
+저자들은 몇 가지 후속 질문도 남깁니다. 로봇 경험으로 접지한 정보를 언어 모델 자체의 사실성과 물리 상식 추론 개선에 쓸 수 있는지, 가치 함수 외에 로봇이 아닌 맥락의 다른 접지 정보를 같은 방식으로 넣을 수 있는지, 그리고 자연어가 로봇을 프로그래밍하는 표현으로 적절한지입니다. 자연어는 환경의 맥락과 의미를 담고 로봇이 자기 인식과 실행 가능성으로 실행 방법을 정할 수 있는 추상 수준을 주지만, 사후 목표 이미지(hindsight goal image)와 달리 사람의 주석이 필요하고 과제에 따라서는 가장 정확한 표현이 아닐 수 있습니다.
+
+---
+
+## 13. 정리 — VLA 선행 연구에서의 위치
+
+SayCan은 긴 자연어 지시를 처리하는 일을 두 모델로 나눴습니다. 대규모 언어 모델은 기술 설명 목록에서 지시에 쓸모 있는 기술에 점수를 매기고, 기술별 가치 함수는 현재 상태에서 그 기술이 성공할 확률을 매깁니다. 두 값의 곱으로 기술을 하나씩 고르고, 고른 기술을 문장에 이어 붙여 다음 기술을 고릅니다.
+
+- **점수 방식 언어 모델** 로 출력을 로봇이 가진 기술 목록 안으로 제한하고, 후보별 확률로 결정 과정을 해석할 수 있게 했습니다.
+- **희소 보상 가치 함수를 실행 가능성으로** 써서, 언어 모델이 현재 장면과 로봇 상태를 반영하게 했습니다. 이 항을 빼면 계획 성공률이 84%에서 67%(No VF)로 떨어집니다.
+- **실제 주방 101개 지시** 에서 계획 81%, 실행 60%를 기록했고, 긴 지시를 정책에 바로 넣는 방식(BC NL)은 0%였습니다.
+- **언어 모델만 바꿔도 로봇 성공률이 올랐습니다.** FLAN에서 PaLM으로 바꾸자 실행 성공률이 61%에서 74%가 됐습니다.
+
+### VLA와의 연결
+
+SayCan 구조에서 계획을 세우는 언어 모델은 카메라 이미지를 보지 않고, 로봇 행동도 직접 내지 않습니다. 장면 정보는 가치 함수 점수로만 들어오고, 행동은 따로 학습한 하위 정책이 냅니다. VLA 계보는 이 분리를 줄여 가는 방향으로 이어집니다.
+
+| 모델 | 지시 해석과 계획 | 카메라 이미지 입력 | 저수준 행동 출력 |
+|------|---------------|---------------|---------------|
+| SayCan | 대규모 언어 모델 (텍스트만 입력) | 가치 함수와 하위 정책만 사용 | 기술별 하위 정책 |
+| SayCan + [RT-1](/blog/paper-review/vla/rt-1) | 대규모 언어 모델 | 가치 함수와 RT-1 정책 | RT-1이 하위 기술 실행 |
+| [PaLM-E](/blog/paper-review/pre-vla/palm-e) | 이미지와 센서 입력을 받는 언어 모델 | 계획 모델이 직접 입력 | 별도 하위 정책 |
+| [RT-2](/blog/paper-review/vla/rt-2) | 시각-언어 모델 하나 | 같은 모델이 직접 입력 | 같은 모델이 행동 토큰으로 출력 |
+
+RT-1 논문은 SayCan의 장기 과제 계열로 RT-1을 평가하며, 계획 방식은 그대로 두고 하위 정책만 Gato·BC-Z·RT-1로 바꿔 실행 성공률을 비교합니다. 이후 PaLM-E는 계획을 세우는 언어 모델에 카메라 이미지를 직접 넣었고, RT-2는 계획과 행동 출력을 시각-언어 모델 하나에서 처리합니다.
+
+다음 편은 게임·대화·로봇 제어를 Transformer 하나로 처리한 [Gato](/blog/paper-review/pre-vla/gato)입니다. 전체 목록은 [VLA 선행 연구 목차](/blog/paper-review/pre-vla)에서 볼 수 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/bc-z","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"6편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/gato","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"8편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - A Generalist Agent"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,702 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Denoising Diffusion Probabilistic Models"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Denoising Diffusion Probabilistic Models\",\"description\":\"데이터에 가우시안 노이즈를 1000단계에 걸쳐 섞고, 각 단계에서 섞인 노이즈를 맞히도록 학습한 신경망으로 순수 노이즈에서 이미지를 거꾸로 만들어 CIFAR10 FID 3.17을 기록한 DDPM을 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2006.11239v2/images/celebahq256_header_image_4x4.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/ddpm\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"10편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Denoising Diffusion Probabilistic Models"}]
+10:Tc9c3,
+## 들어가며
+
+[9편 PaLM-E](/blog/paper-review/pre-vla/palm-e)까지의 모델은 출력이 모두 토큰이었습니다. 문장을 내든 로봇 계획을 내든, 모델은 어휘표에 있는 번호 중 하나를 고릅니다. 로봇 팔의 관절 각도나 말단장치 이동량은 연속적인 실수이므로, 토큰으로 내려면 값의 범위를 구간으로 잘라 번호를 붙여야 합니다. VLA 계보의 [RT-2](/blog/paper-review/vla/rt-2)는 행동의 각 차원을 256개 구간으로 나누는 방식을 씁니다.
+
+10편부터 13편까지는 연속적인 값을 구간으로 자르지 않고 직접 생성하는 방법을 다룹니다. 그 첫 편인 **DDPM(Denoising Diffusion Probabilistic Models)** 은 이미지 생성 논문입니다. 데이터에 노이즈를 조금씩 섞어 완전한 노이즈로 만드는 과정을 먼저 정해 두고, 신경망이 그 과정을 한 단계씩 되돌리도록 학습합니다. 학습이 끝나면 무작위 노이즈에서 출발해 1000번 되돌리는 계산으로 새 이미지를 만듭니다. 이미지 대신 로봇 행동 값의 열에 같은 방법을 적용한 것이 12편의 [Diffusion Policy](/blog/paper-review/pre-vla/diffusion-policy)입니다.
+
+📄 [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) — Jonathan Ho, Ajay Jain, Pieter Abbeel / UC Berkeley, 2020-06 arxiv 공개 (v2 2020-12)
+
+코드는 [github.com/hojonathanho/diffusion](https://github.com/hojonathanho/diffusion)에 공개돼 있고, arxiv 식별자는 2006.11239입니다.
+
+### 초록 요약
+
+확산 확률 모델(diffusion probabilistic model)은 비평형 열역학에서 착안한 잠재 변수 모델입니다. 이 논문은 이 모델로 고품질 이미지를 생성할 수 있음을 처음으로 보입니다. 저자들은 확산 모델과, 여러 노이즈 크기에서의 노이즈 제거 점수 정합(denoising score matching) 및 랑주뱅 동역학(Langevin dynamics) 사이의 연결을 새로 찾았고, 그 연결에 맞춰 가중치를 바꾼 변분 하한으로 학습했을 때 가장 좋은 결과를 얻었습니다. 이 모델의 표본 추출 과정은 점진적인 손실 압축 해제로도 해석할 수 있으며, 이는 자기회귀(autoregressive) 복호화를 일반화한 형태입니다. 조건 없는 CIFAR10에서 Inception 점수 9.46과 당시 최고 수준인 FID 3.17을 얻었고, 256×256 LSUN에서는 ProgressiveGAN과 비슷한 품질을 냈습니다.
+
+![그림 1 — 생성 표본](https://arxiv.org/html/2006.11239v2/images/celebahq256_header_image_4x4.png)
+
+![그림 1 — 생성 표본 (CIFAR10)](https://arxiv.org/html/2006.11239v2/images/cifar10_eps-fixedlarge-mse_20x20.png)
+
+*그림 1 — 위: CelebA-HQ 256×256 생성 표본. 아래: 조건 없는 CIFAR10 생성 표본.*
+
+---
+
+## 1. 배경 — 생성 모델의 목표
+
+### 데이터 분포와 표본
+
+CIFAR10 이미지 한 장은 가로 32, 세로 32 픽셀에 색 채널 3개이므로 숫자 3072개(32 × 32 × 3)로 이루어진 배열입니다. 가능한 3072개 숫자 조합은 거의 무한히 많지만, 그중 사람이 보기에 자동차나 개처럼 보이는 조합은 아주 일부입니다. 학습 데이터의 이미지들은 그 일부 영역에서 뽑힌 예시이고, 이런 조합들이 어떤 확률로 나오는지를 **데이터 분포** 라고 부릅니다.
+
+**생성 모델(generative model)** 의 목표는 이 분포를 학습해, 학습 데이터에 없던 새 배열을 같은 분포에서 뽑아내는 것입니다. 뽑아낸 새 배열 하나를 **표본(sample)** 이라고 하고, 표본을 만드는 계산을 **표본 추출(sampling)** 이라고 합니다. 데이터 분포의 수식은 아무도 모르므로, 모델은 학습 데이터만 보고 "이런 배열이 나올 법하다"는 규칙을 신경망 가중치에 담아야 합니다.
+
+### 기존 생성 모델 계열
+
+논문이 나올 무렵 고품질 표본을 내던 생성 모델은 다음 계열이었습니다.
+
+| 계열 | 표본을 만드는 방식 |
+|------|------------------|
+| 생성적 적대 신경망(GAN) | 무작위 벡터를 생성기 신경망에 한 번 통과시켜 이미지를 냄. 판별기와 경쟁하며 학습 |
+| 자기회귀 모델 | 픽셀을 정해진 순서로 하나씩 앞 픽셀에 조건화해 생성 |
+| 정규화 흐름(flow) | 가역 변환으로 단순한 분포를 데이터 분포로 옮김 |
+| 변분 오토인코더(VAE) | 잠재 벡터를 뽑아 복호기로 이미지를 냄 |
+| 에너지 기반 모델·점수 정합 | 데이터 밀도가 높아지는 방향을 학습해 그 방향으로 반복 이동 |
+
+확산 모델은 2015년 Sohl-Dickstein 등이 제안했습니다. 정의가 간단하고 학습도 효율적이지만, 고품질 표본을 만들 수 있다는 결과는 그때까지 없었습니다. DDPM은 이 공백을 채운 논문입니다.
+
+---
+
+## 2. 전방 과정 — 데이터에 노이즈를 섞는 규칙
+
+### 이미지 값의 범위
+
+DDPM은 0부터 255까지의 정수 픽셀 값을 $[-1, 1]$ 범위로 선형 변환해 씁니다. 픽셀 값 230은 $230 \times 2/255 - 1 \approx 0.80$이 됩니다. 뒤에서 섞을 노이즈가 평균 0, 표준편차 1인 표준 정규분포이므로, 데이터와 노이즈의 크기를 비슷한 범위에 맞춘 것입니다.
+
+### 한 단계의 노이즈 추가
+
+**전방 과정(forward process)** 은 원본 이미지 $\mathbf{x}_0$에서 시작해 $T$번에 걸쳐 노이즈를 조금씩 섞는 규칙입니다. $t-1$번째 결과 $\mathbf{x}_{t-1}$에서 $t$번째 결과 $\mathbf{x}_t$를 만드는 한 단계는 다음 분포에서 뽑습니다.
+
+$$
+q(\mathbf{x}_t \mid \mathbf{x}_{t-1}) = \mathcal{N}\left(\mathbf{x}_t;\ \sqrt{1-\beta_t}\,\mathbf{x}_{t-1},\ \beta_t \mathbf{I}\right)
+$$
+
+기호를 풀어 쓰면 이렇습니다. $\mathbf{x}_{t-1}$의 모든 숫자에 $\sqrt{1-\beta_t}$를 곱해 조금 줄이고, 거기에 평균 0·분산 $\beta_t$인 가우시안 노이즈를 숫자마다 독립적으로 더합니다. $\mathbf{I}$는 3072개 숫자에 서로 독립인 노이즈를 같은 분산으로 더한다는 뜻입니다. $\mathbf{x}_1$부터 $\mathbf{x}_T$까지는 모두 원본과 같은 크기(CIFAR10이면 숫자 3072개)의 배열입니다.
+
+$\sqrt{1-\beta_t}$를 곱해 줄이는 이유는 분산을 일정하게 유지하기 위해서입니다. 줄이지 않고 노이즈만 계속 더하면 값의 분산이 단계마다 커집니다. 원래 분산이 1인 값에 $\sqrt{1-\beta_t}$를 곱하면 분산이 $1-\beta_t$가 되고, 분산 $\beta_t$인 노이즈를 더하면 다시 1이 됩니다. 덕분에 신경망은 어느 단계에서든 비슷한 크기의 입력을 받습니다.
+
+### 분산 일정
+
+$\beta_1, \dots, \beta_T$를 **분산 일정(variance schedule)** 이라고 합니다. 단계마다 노이즈를 얼마나 섞을지를 정한 숫자 목록입니다. 이 값은 학습으로 정할 수도 있지만, DDPM은 학습하지 않는 상수로 고정했습니다.
+
+| 설정 | 값 |
+|------|-----|
+| 전체 단계 수 $T$ | 1000 |
+| $\beta_1$ | $10^{-4}$ |
+| $\beta_T$ | 0.02 |
+| $\beta_1$에서 $\beta_T$ 사이 | 선형으로 증가 |
+
+$T=1000$은 표본 추출 때 신경망을 계산하는 횟수를 이전 연구와 맞추려고 정한 값이고, 따로 탐색하지 않았습니다. $\beta_t$ 일정은 상수·선형·2차 일정 중에서 골랐고, 셋 모두 마지막 단계의 결과가 거의 순수 노이즈가 되도록 제한했습니다.
+
+### 원본에서 임의 단계로 한 번에 가는 식
+
+한 단계씩 1000번 노이즈를 섞지 않아도, 원본 $\mathbf{x}_0$에서 임의의 $t$번째 결과를 한 번에 뽑을 수 있습니다. $\alpha_t = 1-\beta_t$, $\bar{\alpha}_t = \alpha_1 \alpha_2 \cdots \alpha_t$로 두면 다음이 성립합니다.
+
+$$
+q(\mathbf{x}_t \mid \mathbf{x}_0) = \mathcal{N}\left(\mathbf{x}_t;\ \sqrt{\bar{\alpha}_t}\,\mathbf{x}_0,\ (1-\bar{\alpha}_t)\mathbf{I}\right)
+$$
+
+표준 정규분포에서 뽑은 노이즈 $\boldsymbol{\epsilon}$을 써서 같은 내용을 한 줄로 적으면 이렇습니다.
+
+$$
+\mathbf{x}_t = \sqrt{\bar{\alpha}_t}\,\mathbf{x}_0 + \sqrt{1-\bar{\alpha}_t}\,\boldsymbol{\epsilon}, \qquad \boldsymbol{\epsilon} \sim \mathcal{N}(\mathbf{0}, \mathbf{I})
+$$
+
+$\bar{\alpha}_t$는 $t$번째 결과에 원본이 얼마나 남았는지를 나타냅니다. 원본 성분의 계수가 $\sqrt{\bar{\alpha}_t}$, 노이즈 성분의 계수가 $\sqrt{1-\bar{\alpha}_t}$이고, 두 계수의 제곱의 합은 항상 1입니다.
+
+### 숫자 하나로 본 전방 과정
+
+픽셀 하나의 값 $x_0 = 0.8$에 노이즈 $\epsilon = -0.5$를 쓰면, 위 식으로 각 단계의 값을 바로 계산할 수 있습니다. $\beta_t$와 $\bar{\alpha}_t$는 논문의 선형 일정으로 계산한 값이고, $x_0$와 $\epsilon$은 임의의 예시 값입니다.
+
+| 단계 $t$ | $\beta_t$ | $\bar{\alpha}_t$ | 원본 계수 $\sqrt{\bar{\alpha}_t}$ | 노이즈 계수 $\sqrt{1-\bar{\alpha}_t}$ | $x_t$ |
+|---------|----------|-----------------|------------------|-------------------|------|
+| 1 | 0.000100 | 0.999900 | 0.9999 | 0.0100 | 0.7950 |
+| 10 | 0.000279 | 0.998105 | 0.9991 | 0.0435 | 0.7775 |
+| 100 | 0.002072 | 0.897018 | 0.9471 | 0.3209 | 0.5972 |
+| 250 | 0.005060 | 0.524085 | 0.7239 | 0.6899 | 0.2342 |
+| 500 | 0.010040 | 0.078587 | 0.2803 | 0.9599 | −0.2557 |
+| 750 | 0.015020 | 0.003351 | 0.0579 | 0.9983 | −0.4529 |
+| 1000 | 0.020000 | 0.000040 | 0.0064 | 1.0000 | −0.4949 |
+
+$t=250$ 근처에서 원본과 노이즈의 계수가 비슷해지고, $t=1000$에서는 원본 계수가 0.0064라 값이 거의 노이즈 $-0.5$와 같아집니다. 실제 이미지에서는 이 계산이 숫자 3072개에 각자 다른 $\epsilon$으로 동시에 일어납니다. 논문은 $\mathbf{x}_T$와 표준 정규분포 사이의 차이(쿨백-라이블러 발산)가 차원당 약 $10^{-5}$비트라고 보고합니다. 1000단계 뒤의 결과는 원본 정보가 사실상 남지 않은 표준 정규분포 노이즈입니다.
+
+### 전방 과정의 성질
+
+전방 과정에는 학습할 파라미터가 없습니다. $\beta_t$가 상수이므로, 원본 이미지와 무작위 노이즈만 있으면 누구나 같은 규칙으로 $\mathbf{x}_t$를 만들 수 있습니다. 학습해야 하는 것은 반대 방향입니다.
+
+![그림 2 — 확산 모델의 방향 그래프](https://arxiv.org/html/2006.11239v2/pgm_diagram_xarrow_small.png)
+
+*그림 2 — 오른쪽에서 왼쪽으로 가는 $q$는 노이즈를 섞는 고정 규칙, 왼쪽으로 되돌리는 $p_\theta$는 학습하는 과정입니다.*
+
+---
+
+## 3. 역방향 과정 — 노이즈를 걷어내는 학습 대상
+
+### 한 단계의 되돌리기
+
+**역방향 과정(reverse process)** 은 순수 노이즈 $\mathbf{x}_T \sim \mathcal{N}(\mathbf{0}, \mathbf{I})$에서 출발해 $\mathbf{x}_{T-1}, \mathbf{x}_{T-2}, \dots$를 거쳐 $\mathbf{x}_0$까지 한 단계씩 되돌아가는 과정입니다. 한 단계도 가우시안 분포로 둡니다.
+
+$$
+p_\theta(\mathbf{x}_{t-1} \mid \mathbf{x}_t) = \mathcal{N}\left(\mathbf{x}_{t-1};\ \boldsymbol{\mu}_\theta(\mathbf{x}_t, t),\ \boldsymbol{\Sigma}_\theta(\mathbf{x}_t, t)\right)
+$$
+
+$\theta$는 신경망 가중치입니다. 신경망은 현재 값 $\mathbf{x}_t$와 단계 번호 $t$를 받아, 한 단계 전 값이 어디쯤 있을지(평균 $\boldsymbol{\mu}_\theta$)를 냅니다. 원 확산 모델 논문에 따르면, 한 단계에 섞이는 노이즈가 작을 때는 전방 과정과 역방향 과정이 같은 함수 형태를 가지므로 되돌리는 한 단계도 가우시안으로 표현됩니다. 그래서 DDPM은 $\beta_t$를 최대 0.02로 작게 잡습니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "x0", "label": "x₀", "sub": "원본 이미지", "row": 0},
+    {"id": "x1", "label": "x₁", "sub": "노이즈 조금", "row": 0},
+    {"id": "xm", "label": "…", "sub": "x₂ ~ x₉₉₉", "row": 0},
+    {"id": "xT", "label": "x₁₀₀₀", "sub": "거의 순수 노이즈", "color": "orange", "row": 0},
+    {"id": "r1", "label": "p_θ(x₉₉₉ | x₁₀₀₀)", "sub": "신경망 한 번", "color": "blue", "row": 1},
+    {"id": "rm", "label": "…", "sub": "신경망 998번", "color": "blue", "row": 1},
+    {"id": "r0", "label": "p_θ(x₀ | x₁)", "sub": "신경망 한 번", "color": "blue", "row": 1},
+    {"id": "out", "label": "생성 이미지", "color": "green", "row": 2}
+  ],
+  "edges": [
+    {"from": "x0", "to": "x1", "label": "q"},
+    {"from": "x1", "to": "xm", "label": "q"},
+    {"from": "xm", "to": "xT", "label": "q"},
+    {"from": "xT", "to": "r1"},
+    {"from": "r1", "to": "rm"},
+    {"from": "rm", "to": "r0"},
+    {"from": "r0", "to": "out"}
+  ],
+  "height": 380
+}
+```
+
+### 분산의 고정
+
+역방향 한 단계의 분산 $\boldsymbol{\Sigma}_\theta$는 학습하지 않고 $\sigma_t^2 \mathbf{I}$로 고정합니다. 실험에서는 $\sigma_t^2 = \beta_t$와 $\sigma_t^2 = \tilde{\beta}_t = \frac{1-\bar{\alpha}_{t-1}}{1-\bar{\alpha}_t}\beta_t$ 두 가지가 비슷한 결과를 냈습니다. 논문에 따르면 앞의 값은 데이터가 표준 정규분포일 때, 뒤의 값은 데이터가 한 점에 고정돼 있을 때 최적이며, 둘은 역방향 과정 엔트로피의 상한과 하한에 해당하는 양 끝 선택입니다. 따라서 신경망이 학습하는 대상은 평균 $\boldsymbol{\mu}_\theta$ 하나입니다.
+
+### 학습 목표 — 변분 하한
+
+생성 모델을 학습하는 표준 방법은 학습 데이터가 모델에서 나올 확률 $p_\theta(\mathbf{x}_0)$를 최대화하는 것입니다. 확산 모델에서는 이 확률을 직접 계산할 수 없어서, 대신 계산 가능한 상한인 **변분 하한(variational bound)** $L$을 최소화합니다. 이 $L$을 정리하면 세 종류의 항으로 나뉩니다.
+
+$$
+L = \mathbb{E}_q\Big[\underbrace{D_{\mathrm{KL}}\big(q(\mathbf{x}_T \mid \mathbf{x}_0)\,\|\,p(\mathbf{x}_T)\big)}_{L_T} + \sum_{t>1}\underbrace{D_{\mathrm{KL}}\big(q(\mathbf{x}_{t-1} \mid \mathbf{x}_t, \mathbf{x}_0)\,\|\,p_\theta(\mathbf{x}_{t-1} \mid \mathbf{x}_t)\big)}_{L_{t-1}} \underbrace{- \log p_\theta(\mathbf{x}_0 \mid \mathbf{x}_1)}_{L_0}\Big]
+$$
+
+$D_{\mathrm{KL}}$은 **쿨백-라이블러 발산(KL divergence)** 으로, 두 확률 분포가 얼마나 다른지를 나타내는 0 이상의 값입니다. 두 분포가 같으면 0입니다. 각 항의 뜻은 이렇습니다.
+
+| 항 | 비교하는 두 분포 | DDPM에서의 처리 |
+|----|---------------|---------------|
+| $L_T$ | 원본에서 만든 마지막 노이즈 분포 vs 표준 정규분포 | $\beta_t$가 상수라 학습 파라미터가 없음 → 상수로 보고 무시 |
+| $L_{t-1}$ ($t = 2, \dots, T$) | 원본을 알 때의 정답 되돌리기 분포 vs 신경망의 되돌리기 분포 | 두 분포가 모두 가우시안이라 닫힌 식으로 계산 |
+| $L_0$ | 마지막 한 단계에서 정수 픽셀 값이 나올 확률 | 별도의 이산 복호기로 계산 |
+
+### 원본을 알 때의 정답 되돌리기
+
+$L_{t-1}$은 $q(\mathbf{x}_{t-1} \mid \mathbf{x}_t, \mathbf{x}_0)$와 신경망 분포를 비교합니다. 노이즈 섞인 $\mathbf{x}_t$만 보고 $\mathbf{x}_{t-1}$을 맞히기는 어렵지만, 원본 $\mathbf{x}_0$까지 알면 $\mathbf{x}_{t-1}$의 분포를 정확한 가우시안으로 계산할 수 있습니다.
+
+$$
+q(\mathbf{x}_{t-1} \mid \mathbf{x}_t, \mathbf{x}_0) = \mathcal{N}\left(\mathbf{x}_{t-1};\ \tilde{\boldsymbol{\mu}}_t(\mathbf{x}_t, \mathbf{x}_0),\ \tilde{\beta}_t \mathbf{I}\right)
+$$
+
+$$
+\tilde{\boldsymbol{\mu}}_t(\mathbf{x}_t, \mathbf{x}_0) = \frac{\sqrt{\bar{\alpha}_{t-1}}\,\beta_t}{1-\bar{\alpha}_t}\mathbf{x}_0 + \frac{\sqrt{\alpha_t}\,(1-\bar{\alpha}_{t-1})}{1-\bar{\alpha}_t}\mathbf{x}_t
+$$
+
+학습 때는 원본 $\mathbf{x}_0$을 알고 있으므로 이 정답 분포를 만들 수 있습니다. 신경망은 원본을 모른 채 $\mathbf{x}_t$만 받아 이 정답 분포에 가까운 분포를 내도록 학습합니다. 두 분포 모두 가우시안이므로 KL 발산은 표본을 여러 번 뽑아 평균을 내지 않고 식으로 바로 계산됩니다.
+
+---
+
+## 4. 노이즈 예측 — DDPM의 매개변수화
+
+### 평균 예측을 노이즈 예측으로 바꾸는 과정
+
+분산을 $\sigma_t^2$로 고정하면 $L_{t-1}$은 두 평균의 제곱 거리가 됩니다.
+
+$$
+L_{t-1} = \mathbb{E}_q\left[\frac{1}{2\sigma_t^2}\left\|\tilde{\boldsymbol{\mu}}_t(\mathbf{x}_t, \mathbf{x}_0) - \boldsymbol{\mu}_\theta(\mathbf{x}_t, t)\right\|^2\right] + C
+$$
+
+$C$는 $\theta$와 무관한 상수입니다. 가장 직접적인 방법은 신경망이 정답 평균 $\tilde{\boldsymbol{\mu}}_t$를 그대로 맞히게 하는 것입니다.
+
+DDPM은 여기서 한 단계 더 나아갑니다. 2절의 한 줄 식 $\mathbf{x}_t = \sqrt{\bar{\alpha}_t}\,\mathbf{x}_0 + \sqrt{1-\bar{\alpha}_t}\,\boldsymbol{\epsilon}$을 $\mathbf{x}_0$에 대해 풀어 $\tilde{\boldsymbol{\mu}}_t$에 넣으면, 정답 평균이 $\mathbf{x}_t$와 노이즈 $\boldsymbol{\epsilon}$만으로 적힙니다.
+
+$$
+\tilde{\boldsymbol{\mu}}_t = \frac{1}{\sqrt{\alpha_t}}\left(\mathbf{x}_t - \frac{\beta_t}{\sqrt{1-\bar{\alpha}_t}}\boldsymbol{\epsilon}\right)
+$$
+
+신경망은 입력으로 $\mathbf{x}_t$를 이미 받습니다. 모르는 것은 $\boldsymbol{\epsilon}$ 하나뿐입니다. 그래서 신경망 $\boldsymbol{\epsilon}_\theta(\mathbf{x}_t, t)$가 **$\mathbf{x}_t$에 섞여 있는 노이즈를 예측** 하게 하고, 평균은 그 예측값으로 계산합니다.
+
+$$
+\boldsymbol{\mu}_\theta(\mathbf{x}_t, t) = \frac{1}{\sqrt{\alpha_t}}\left(\mathbf{x}_t - \frac{\beta_t}{\sqrt{1-\bar{\alpha}_t}}\boldsymbol{\epsilon}_\theta(\mathbf{x}_t, t)\right)
+$$
+
+이렇게 바꾸면 $L_{t-1}$은 실제 노이즈와 예측 노이즈의 제곱 거리에 단계별 가중치가 붙은 형태가 됩니다.
+
+$$
+\mathbb{E}_{\mathbf{x}_0, \boldsymbol{\epsilon}}\left[\frac{\beta_t^2}{2\sigma_t^2\,\alpha_t\,(1-\bar{\alpha}_t)}\left\|\boldsymbol{\epsilon} - \boldsymbol{\epsilon}_\theta\left(\sqrt{\bar{\alpha}_t}\,\mathbf{x}_0 + \sqrt{1-\bar{\alpha}_t}\,\boldsymbol{\epsilon},\ t\right)\right\|^2\right]
+$$
+
+### 숫자 하나로 본 노이즈 예측
+
+2절 예시의 $t=250$을 다시 씁니다. 신경망이 받는 입력은 $x_{250} = 0.2342$와 $t = 250$입니다. 신경망이 섞인 노이즈를 정확히 $\epsilon_\theta = -0.5$로 맞혔다면, 원본은 식을 거꾸로 풀어 계산됩니다.
+
+$$
+\hat{x}_0 = \frac{x_{250} - \sqrt{1-\bar{\alpha}_{250}}\,\epsilon_\theta}{\sqrt{\bar{\alpha}_{250}}} = \frac{0.2342 - 0.6899 \times (-0.5)}{0.7239} \approx 0.800
+$$
+
+노이즈를 알면 원본이 복원되고, 원본을 알면 한 단계 전의 정답 평균도 계산됩니다. 신경망이 맞혀야 하는 값은 3072개 숫자로 된 노이즈 배열 하나이고, 정답은 학습 데이터를 만들 때 직접 뽑은 $\boldsymbol{\epsilon}$이므로 항상 알고 있습니다. 실제로는 신경망이 노이즈를 정확히 맞히지 못하므로 한 번에 원본으로 가지 않고, 1000단계에 걸쳐 조금씩 되돌립니다.
+
+신경망이 원본 $\mathbf{x}_0$를 직접 예측하게 하는 방법도 가능하지만, 저자들의 초기 실험에서는 표본 품질이 더 나빴다고 적었습니다.
+
+### 노이즈 제거 점수 정합과 랑주뱅 동역학의 관계
+
+노이즈 예측 방식은 기존의 두 기법과 수식이 같은 형태가 됩니다.
+
+**노이즈 제거 점수 정합** 은 데이터에 노이즈를 섞은 뒤, 노이즈 섞인 점에서 원래 데이터 쪽을 가리키는 방향(데이터 밀도의 기울기, 점수)을 신경망이 맞히도록 학습하는 방법입니다. 노이즈 $\boldsymbol{\epsilon}$을 예측하는 것은, 그 반대 방향이 원본 쪽이므로 같은 방향을 예측하는 것과 같습니다. 위의 가중치 붙은 손실은 단계 $t$로 노이즈 크기를 바꿔 가며 하는 노이즈 제거 점수 정합과 같은 형태입니다.
+
+**랑주뱅 동역학** 은 데이터 밀도의 기울기 방향으로 조금 이동하고 작은 무작위 노이즈를 더하는 계산을 반복해 표본을 뽑는 방법입니다. DDPM의 표본 추출 한 단계를 식으로 쓰면 이렇습니다.
+
+$$
+\mathbf{x}_{t-1} = \frac{1}{\sqrt{\alpha_t}}\left(\mathbf{x}_t - \frac{\beta_t}{\sqrt{1-\bar{\alpha}_t}}\boldsymbol{\epsilon}_\theta(\mathbf{x}_t, t)\right) + \sigma_t \mathbf{z}, \qquad \mathbf{z} \sim \mathcal{N}(\mathbf{0}, \mathbf{I})
+$$
+
+예측한 노이즈의 반대 방향으로 이동하고 $\sigma_t \mathbf{z}$만큼 새 노이즈를 더하므로, 학습된 $\boldsymbol{\epsilon}_\theta$를 데이터 밀도의 기울기로 쓰는 랑주뱅 동역학과 같은 모양입니다.
+
+두 연결을 합치면, 노이즈 제거 점수 정합과 같은 목표로 학습하는 것이 곧 랑주뱅 동역학과 비슷한 표본 추출 사슬을 변분 추론으로 맞추는 것과 같다는 결론이 나옵니다. 저자들은 이 등가성을 주요 기여 중 하나로 꼽습니다. 부록 C에 따르면 기존 점수 정합 모델(NCSN)은 표본 추출 계수를 학습 뒤에 사람이 따로 정했지만, DDPM은 계수가 전방 과정의 $\beta_t$에서 수식으로 정해지고 표본 추출기 자체를 학습합니다.
+
+---
+
+## 5. 단순화한 손실 — L_simple
+
+### 가중치를 뗀 손실
+
+변분 하한을 그대로 써서 학습할 수 있지만, 저자들은 단계별 가중치를 떼어낸 다음 손실이 표본 품질에 더 좋고 구현도 간단하다는 것을 찾았습니다.
+
+$$
+L_{\mathrm{simple}}(\theta) = \mathbb{E}_{t, \mathbf{x}_0, \boldsymbol{\epsilon}}\left[\left\|\boldsymbol{\epsilon} - \boldsymbol{\epsilon}_\theta\left(\sqrt{\bar{\alpha}_t}\,\mathbf{x}_0 + \sqrt{1-\bar{\alpha}_t}\,\boldsymbol{\epsilon},\ t\right)\right\|^2\right]
+$$
+
+$t$는 1부터 $T$ 사이에서 균등하게 뽑습니다. 이 손실은 이미지 분류의 교차 엔트로피처럼 매 학습 단계마다 계산하는 평균제곱오차입니다. 정답은 직접 뽑은 노이즈 $\boldsymbol{\epsilon}$, 예측은 신경망 출력 $\boldsymbol{\epsilon}_\theta$입니다.
+
+- $t = 1$인 경우는 $L_0$을 근사한 것에 해당합니다. 이산 복호기의 적분을 가우시안 밀도 × 구간 폭으로 근사하고 $\sigma_1^2$와 가장자리 효과를 무시한 형태입니다.
+- $t > 1$인 경우는 4절의 가중치 붙은 식에서 가중치를 뗀 형태입니다.
+- $L_T$는 $\beta_t$가 고정돼 있으므로 나오지 않습니다.
+
+### 가중치를 떼어낸 효과
+
+원래 가중치를 떼면 단계별 손실의 상대적 크기가 달라집니다. 논문의 설정에서는 작은 $t$의 항, 곧 노이즈가 아주 조금 섞인 이미지를 복원하는 항의 비중이 줄어듭니다. 노이즈가 조금 섞인 이미지를 되돌리는 일은 쉬우므로, 그 비중을 낮추고 노이즈가 많이 섞인 큰 $t$의 어려운 복원에 학습을 집중하게 됩니다. 이 재가중치가 표본 품질을 높인다는 것을 뒤의 제거 실험에서 확인합니다. 대신 $L_{\mathrm{simple}}$은 원래의 변분 하한이 아니므로 로그 가능도(부호 길이)는 원래 하한으로 학습한 모델보다 나쁩니다.
+
+### 학습 알고리즘
+
+```text
+알고리즘 1  학습
+1: repeat
+2:   x₀ ~ q(x₀)                          # 학습 데이터에서 이미지 한 장
+3:   t ~ Uniform({1, …, T})               # 단계 번호를 무작위로
+4:   ε ~ N(0, I)                          # 이미지와 같은 크기의 노이즈
+5:   다음 값의 기울기로 경사 하강 한 번:
+6:     ∇θ ‖ ε − ε_θ(√ᾱ_t · x₀ + √(1−ᾱ_t) · ε, t) ‖²
+7: until 수렴
+```
+
+학습 한 번에 필요한 것은 이미지 한 장, 단계 번호 하나, 노이즈 배열 하나입니다. 1000단계를 차례로 계산하지 않고 2절의 한 줄 식으로 $\mathbf{x}_t$를 바로 만들기 때문에, 한 번의 학습 계산은 신경망을 한 번 통과시키는 것으로 끝납니다.
+
+### 표본 추출 알고리즘
+
+```text
+알고리즘 2  표본 추출
+1: x_T ~ N(0, I)                                     # 순수 노이즈에서 시작
+2: for t = T, …, 1 do
+3:   z ~ N(0, I)  (t > 1일 때),  z = 0  (t = 1일 때)
+4:   x_{t−1} = 1/√α_t · ( x_t − (1−α_t)/√(1−ᾱ_t) · ε_θ(x_t, t) ) + σ_t · z
+5: end for
+6: return x₀
+```
+
+표본 하나를 만들려면 신경망을 $T = 1000$번 계산해야 합니다. 마지막 단계($t=1$)에서는 새 노이즈를 더하지 않고, 논문은 표본 추출이 끝나면 $\boldsymbol{\mu}_\theta(\mathbf{x}_1, 1)$을 노이즈 없이 그대로 보여 준다고 적습니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "data", "label": "학습 이미지 x₀", "row": 0},
+    {"id": "t", "label": "단계 t", "sub": "1~1000 균등", "row": 0},
+    {"id": "eps", "label": "노이즈 ε", "sub": "N(0, I)", "color": "orange", "row": 0},
+    {"id": "xt", "label": "x_t", "sub": "√ᾱ_t·x₀ + √(1−ᾱ_t)·ε", "row": 1},
+    {"id": "net", "label": "U-Net ε_θ(x_t, t)", "color": "blue", "row": 2},
+    {"id": "loss", "label": "‖ε − ε_θ‖²", "sub": "L_simple", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "data", "to": "xt"},
+    {"from": "t", "to": "xt"},
+    {"from": "eps", "to": "xt"},
+    {"from": "xt", "to": "net"},
+    {"from": "t", "to": "net"},
+    {"from": "net", "to": "loss", "label": "예측"},
+    {"from": "eps", "to": "loss", "label": "정답"}
+  ],
+  "height": 420
+}
+```
+
+### 마지막 단계의 이산 복호기
+
+학습 이미지의 픽셀은 원래 256개 정수 중 하나입니다. 로그 가능도를 정수 데이터 기준으로 정확히 계산하기 위해, 역방향 과정의 마지막 단계 $p_\theta(\mathbf{x}_0 \mid \mathbf{x}_1)$는 연속 가우시안이 아니라 이산 복호기로 둡니다. 픽셀 값 하나가 차지하는 폭 $2/255$ 구간 안에 가우시안 $\mathcal{N}(\boldsymbol{\mu}_\theta(\mathbf{x}_1, 1), \sigma_1^2)$의 확률이 얼마나 들어가는지를 계산하고, 양 끝 값 $-1$과 $1$의 구간은 각각 $-\infty$와 $+\infty$까지 넓힙니다. 이렇게 하면 변분 하한이 이산 데이터의 무손실 부호 길이가 되고, 데이터에 노이즈를 더하거나 스케일 변환의 야코비안을 계산할 필요가 없습니다.
+
+---
+
+## 6. 신경망 구조와 학습 설정
+
+### U-Net과 단계 번호 입력
+
+$\boldsymbol{\epsilon}_\theta$는 입력과 출력의 크기가 같아야 합니다. 이미지 크기의 $\mathbf{x}_t$를 받아 이미지 크기의 노이즈 예측을 내기 때문입니다. DDPM은 이런 구조에 쓰이는 **U-Net** 을 씁니다. U-Net은 해상도를 단계적으로 줄였다가 다시 키우고, 같은 해상도끼리 줄일 때의 특징을 키울 때 이어 붙이는 합성곱 신경망입니다.
+
+| 항목 | 설정 |
+|------|------|
+| 기본 구조 | PixelCNN++의 U-Net 백본(Wide ResNet 기반), 마스크 없음 |
+| 정규화 | 가중치 정규화 대신 그룹 정규화(group normalization) |
+| 해상도 단계 | 32×32 모델은 4단계(32×32 → 4×4), 256×256 모델은 6단계 |
+| 해상도당 블록 | 합성곱 잔차 블록 2개 |
+| 자기 주의 | 16×16 해상도에서 합성곱 블록 사이에 삽입 |
+| 단계 번호 $t$ 입력 | Transformer 사인파 위치 임베딩으로 바꿔 모든 잔차 블록에 더함 |
+| 파라미터 수 | CIFAR10 35.7M, LSUN·CelebA-HQ 114M, 큰 LSUN Bedroom 약 256M |
+
+1000개 단계마다 신경망을 따로 두지 않고 하나의 신경망을 모든 단계가 공유합니다. 신경망이 지금 몇 번째 단계를 처리하는지 알아야 노이즈 크기에 맞는 예측을 낼 수 있으므로, 단계 번호 $t$를 1편 Transformer의 사인파 위치 부호화와 같은 방식으로 벡터로 바꿔 넣습니다. 문장 안의 위치 번호 대신 확산 단계 번호를 부호화하는 것입니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "xt", "label": "x_t", "sub": "32×32×3", "row": 0},
+    {"id": "t", "label": "단계 번호 t", "row": 0},
+    {"id": "temb", "label": "사인파 임베딩", "sub": "모든 잔차 블록에 더함", "color": "orange", "row": 1},
+    {"id": "down", "label": "해상도 축소", "sub": "32 → 16 → 8 → 4", "color": "blue", "row": 1},
+    {"id": "up", "label": "해상도 복원", "sub": "4 → 8 → 16 → 32", "color": "blue", "row": 2},
+    {"id": "out", "label": "ε_θ(x_t, t)", "sub": "32×32×3", "color": "green", "row": 3}
+  ],
+  "edges": [
+    {"from": "xt", "to": "down"},
+    {"from": "t", "to": "temb"},
+    {"from": "temb", "to": "down"},
+    {"from": "temb", "to": "up"},
+    {"from": "down", "to": "up", "label": "같은 해상도 연결"},
+    {"from": "up", "to": "out"}
+  ],
+  "height": 400
+}
+```
+
+### 학습 설정
+
+하이퍼파라미터는 대부분 CIFAR10 표본 품질을 기준으로 탐색한 뒤 다른 데이터셋에 그대로 옮겼습니다.
+
+| 항목 | 설정 | 탐색 여부 |
+|------|------|---------|
+| $\beta_t$ 일정 | 선형, $10^{-4}$ → 0.02 | 상수·선형·2차 중 선택 |
+| $T$ | 1000 | 탐색 안 함 |
+| 드롭아웃 | CIFAR10 0.1, 나머지 0 | CIFAR10에서 {0.1, 0.2, 0.3, 0.4} 탐색 |
+| 좌우 뒤집기 증강 | CIFAR10과 LSUN Bedroom을 뺀 나머지에 사용 | CIFAR10에서 사용 여부 비교 |
+| 최적화기 | Adam, 기본 설정 | 초기에 RMSProp과 비교 |
+| 학습률 | $2 \times 10^{-4}$, 256×256은 $2 \times 10^{-5}$ | 탐색 안 함 |
+| 배치 크기 | CIFAR10 128, 큰 이미지 64 | 탐색 안 함 |
+| 파라미터 지수 이동 평균(EMA) | 감쇠 0.9999 | 탐색 안 함 |
+
+드롭아웃 없이 CIFAR10을 학습하면 규제 없는 PixelCNN++의 과적합과 비슷한 결함이 표본에 나타났습니다. 256×256 이미지는 큰 학습률에서 학습이 불안정해 보여 학습률을 낮췄습니다.
+
+| 데이터셋 | 장비 | 학습 속도 | 학습 단계 | 표본 추출 시간 |
+|---------|------|---------|---------|-------------|
+| CIFAR10 | TPU v3-8 (V100 8장과 비슷) | 초당 21단계, 배치 128 | 800k (10.6시간) | 이미지 256장에 17초 |
+| CelebA-HQ·LSUN 256×256 | TPU v3-8 | 초당 2.2단계, 배치 64 | CelebA-HQ 0.5M, Bedroom 2.4M, Cat 1.8M, Church 1.2M, 큰 Bedroom 1.15M | 이미지 128장에 300초 |
+
+최종 실험은 한 번씩만 학습했고, 학습 도중 표본 품질을 계속 측정해 FID가 가장 낮았던 시점의 점수와 로그 가능도를 보고합니다.
+
+---
+
+## 7. 표본 품질
+
+### 평가 지표
+
+| 지표 | 계산 방식 | 좋은 방향 |
+|------|---------|---------|
+| Inception 점수(IS) | 사전학습된 이미지 분류기가 생성 표본 하나하나를 한 클래스로 확신하는지, 전체 표본이 여러 클래스에 고르게 퍼져 있는지를 함께 측정 | 높을수록 좋음 |
+| FID(Fréchet Inception Distance) | 분류기 내부 특징 공간에서 생성 표본 5만 장의 분포와 실제 이미지 분포의 거리를 측정 | 낮을수록 좋음 |
+| 음의 로그 가능도(NLL) | 테스트 이미지를 모델 기준으로 부호화할 때 필요한 비트 수, 차원당 비트(bits/dim) | 낮을수록 좋음 |
+
+CIFAR10의 IS와 FID는 표본 5만 장으로 OpenAI와 TTUR 저장소의 원래 코드로 계산했고, LSUN의 FID는 StyleGAN2 저장소 코드로 계산했습니다.
+
+### CIFAR10 결과
+
+| 모델 | IS | FID | NLL 테스트 (학습) |
+|------|----|-----|-----------------|
+| **조건부** | | | |
+| EBM | 8.30 | 37.9 | |
+| JEM | 8.76 | 38.4 | |
+| BigGAN | 9.22 | 14.73 | |
+| StyleGAN2 + ADA (v1) | **10.06** | **2.67** | |
+| **조건 없음** | | | |
+| Diffusion (원 논문) | | | ≤ 5.40 |
+| Gated PixelCNN | 4.60 | 65.93 | 3.03 (2.90) |
+| Sparse Transformer | | | **2.80** |
+| PixelIQN | 5.29 | 49.46 | |
+| EBM | 6.78 | 38.2 | |
+| NCSNv2 | | 31.75 | |
+| NCSN | 8.87±0.12 | 25.32 | |
+| SNGAN | 8.22±0.05 | 21.7 | |
+| SNGAN-DDLS | 9.09±0.10 | 15.42 | |
+| StyleGAN2 + ADA (v1) | **9.74**±0.05 | 3.26 | |
+| DDPM ($L$, 고정 등방 $\boldsymbol{\Sigma}$) | 7.67±0.13 | 13.51 | ≤ 3.70 (3.69) |
+| DDPM ($L_{\mathrm{simple}}$) | 9.46±0.11 | **3.17** | ≤ 3.75 (3.72) |
+
+*표 1 — CIFAR10 결과. NLL 단위는 차원당 비트.*
+
+조건 없는 DDPM의 FID 3.17은 클래스 조건부 모델을 포함한 문헌 속 대부분의 모델보다 좋습니다. 이 FID는 관례대로 학습 세트 기준으로 계산했고, 테스트 세트 기준으로 계산하면 5.24입니다. 원래 변분 하한 $L$로 학습한 모델은 NLL이 3.70으로 더 좋지만 FID는 13.51이고, $L_{\mathrm{simple}}$로 학습한 모델은 NLL이 3.75로 조금 나쁜 대신 표본 품질이 가장 좋습니다. NLL은 Sparse Transformer(2.80) 같은 다른 가능도 기반 모델보다 뒤처집니다.
+
+### LSUN 결과
+
+![그림 3 — LSUN Church 표본](https://arxiv.org/html/2006.11239v2/images/lsun_church_layout.jpg)
+
+*그림 3 — LSUN Church 256×256 생성 표본, FID 7.89.*
+
+![그림 4 — LSUN Bedroom 표본](https://arxiv.org/html/2006.11239v2/images/lsun_bedroom_layout_l192_step155600.jpg)
+
+*그림 4 — LSUN Bedroom 256×256 생성 표본, FID 4.90.*
+
+논문 4.1절 본문은 LSUN 표본 그림을 "Fig. 4 and Fig. 4"로 가리키지만, Church 표본은 그림 3이고 Bedroom 표본이 그림 4입니다.
+
+| 모델 | LSUN Bedroom | LSUN Church | LSUN Cat |
+|------|-------------|------------|---------|
+| ProgressiveGAN | 8.34 | 6.42 | 37.52 |
+| StyleGAN | 2.65 | 4.21* | 8.53* |
+| StyleGAN2 | – | 3.86 | 6.93 |
+| DDPM ($L_{\mathrm{simple}}$) | 6.36 | 7.89 | 19.75 |
+| DDPM ($L_{\mathrm{simple}}$, 큰 모델) | 4.90 | – | – |
+
+*표 3 — LSUN 256×256 FID. \*는 StyleGAN2 논문이 기준선으로 보고한 값, 나머지는 각 저자가 보고한 값.*
+
+---
+
+## 8. 제거 실험 — 예측 대상과 손실
+
+신경망이 무엇을 예측하는지(정답 평균 $\tilde{\boldsymbol{\mu}}$ 또는 노이즈 $\boldsymbol{\epsilon}$)와 어떤 손실로 학습하는지를 바꿔 CIFAR10에서 비교했습니다.
+
+| 예측 대상 | 학습 목표 | IS | FID |
+|---------|---------|----|-----|
+| $\tilde{\boldsymbol{\mu}}$ 예측 (기준선) | $L$, 학습하는 대각 $\boldsymbol{\Sigma}$ | 7.28±0.10 | 23.69 |
+| | $L$, 고정 등방 $\boldsymbol{\Sigma}$ | 8.06±0.09 | 13.22 |
+| | $\|\tilde{\boldsymbol{\mu}} - \tilde{\boldsymbol{\mu}}_\theta\|^2$ | – | – |
+| $\boldsymbol{\epsilon}$ 예측 (DDPM) | $L$, 학습하는 대각 $\boldsymbol{\Sigma}$ | – | – |
+| | $L$, 고정 등방 $\boldsymbol{\Sigma}$ | 7.67±0.13 | 13.51 |
+| | $\|\tilde{\boldsymbol{\epsilon}} - \boldsymbol{\epsilon}_\theta\|^2$ ($L_{\mathrm{simple}}$) | **9.46±0.11** | **3.17** |
+
+*표 2 — 역방향 과정 매개변수화와 학습 목표의 제거 실험. "–"는 학습이 불안정해 범위를 벗어난 점수의 나쁜 표본이 나온 설정입니다.*
+
+표에서 읽히는 결과는 세 가지입니다.
+
+1. 평균 $\tilde{\boldsymbol{\mu}}$를 예측하는 기준선은 원래 변분 하한으로 학습할 때만 잘 작동하고, 가중치 없는 평균제곱오차로 학습하면 불안정합니다.
+2. 역방향 분산을 학습하게 하면($L$, 학습하는 대각 $\boldsymbol{\Sigma}$) 학습이 불안정하고 표본 품질이 고정 분산보다 나쁩니다.
+3. 노이즈 $\boldsymbol{\epsilon}$을 예측하면 원래 변분 하한에서는 평균 예측과 비슷하지만(FID 13.51 대 13.22), $L_{\mathrm{simple}}$로 학습할 때 FID 3.17로 크게 좋아집니다.
+
+노이즈 예측과 가중치를 뗀 손실은 함께 쓸 때만 효과가 납니다.
+
+---
+
+## 9. 점진적 부호화 — 레이트와 왜곡
+
+### 부호 길이의 대부분이 쓰이는 곳
+
+표 1에서 학습과 테스트의 NLL 차이는 차원당 최대 0.03비트로, 다른 가능도 기반 모델에서 보고된 차이와 비슷해 과적합은 없다고 봅니다. 그런데 표본 품질은 좋은데 NLL은 다른 가능도 기반 모델보다 나쁩니다. 저자들은 이 차이를 손실 압축의 두 양으로 나눠 봅니다.
+
+- **레이트(rate)** — 이미지를 보내는 데 쓰는 비트 수. 변분 하한의 $L_1 + \cdots + L_T$ 항.
+- **왜곡(distortion)** — 받은 쪽이 복원한 이미지와 원본의 차이. $L_0$ 항.
+
+가장 표본 품질이 좋은 CIFAR10 모델은 레이트가 차원당 1.78비트, 왜곡이 차원당 1.97비트입니다. 둘을 더하면 표 1의 NLL 3.75와 같습니다. 왜곡 1.97비트는 0~255 척도에서 평균제곱근오차 0.95에 해당하므로, 픽셀 값으로 1도 안 되는 차이를 표현하는 데 전체 무손실 부호 길이의 절반 이상이 쓰인다는 뜻입니다. 저자들은 이 결과를 확산 모델이 사람이 알아채지 못하는 세부보다 알아챌 수 있는 구조에 비트를 먼저 쓰는 좋은 손실 압축기라는 근거로 해석합니다.
+
+### 점진적 손실 압축
+
+알고리즘 3과 4는 변분 하한의 식 모양대로 이미지를 주고받는 절차입니다. 보내는 쪽은 $\mathbf{x}_T$부터 $\mathbf{x}_0$까지 차례로 보내고, 각 단계에서 받는 쪽이 이미 가진 $p_\theta$ 분포를 이용해 평균 $D_{\mathrm{KL}}$ 비트만 씁니다. 받는 쪽은 어느 시점 $t$에서든 받은 $\mathbf{x}_t$로 원본을 추정할 수 있습니다.
+
+$$
+\hat{\mathbf{x}}_0 = \left(\mathbf{x}_t - \sqrt{1-\bar{\alpha}_t}\,\boldsymbol{\epsilon}_\theta(\mathbf{x}_t)\right) / \sqrt{\bar{\alpha}_t}
+$$
+
+이 절차는 최소 무작위 부호화(minimal random coding) 같은 방법이 있다고 가정하는데, 고차원 데이터에서는 계산이 불가능합니다. 부록은 이것이 실용 압축 시스템이 아니라 변분 하한을 압축 관점에서 해석한 개념 증명이라고 밝힙니다.
+
+표 4는 CIFAR10 테스트 세트에서 역방향 과정을 진행하며 누적 레이트와 왜곡을 잰 값입니다. 논문 그림 5는 이 값을 선 그래프 세 개(단계에 따른 왜곡, 단계에 따른 레이트, 레이트에 따른 왜곡)로 그린 것입니다.
+
+| 역방향 과정 시점 ($T-t+1$) | 레이트 (bits/dim) | 왜곡 (RMSE, 0~255 척도) |
+|------------------------|-----------------|---------------------|
+| 1000 | 1.77581 | 0.95136 |
+| 900 | 0.11994 | 12.02277 |
+| 800 | 0.05415 | 18.47482 |
+| 700 | 0.02866 | 24.43656 |
+| 600 | 0.01507 | 30.80948 |
+| 500 | 0.00716 | 38.03236 |
+| 400 | 0.00282 | 46.12765 |
+| 300 | 0.00081 | 54.18826 |
+| 200 | 0.00013 | 60.97170 |
+| 100 | 0.00000 | 67.60125 |
+
+*표 4 — 조건 없는 CIFAR10 테스트 세트의 레이트-왜곡 값 (그림 5에 대응).*
+
+900단계까지 받은 비트는 차원당 0.12비트뿐인데 왜곡은 67.6에서 12.0으로 떨어집니다. 마지막 100단계에서 비트가 1.66비트 가까이 더 쓰이지만 왜곡은 12.0에서 0.95로 줄어듭니다. 레이트가 낮은 구간에서 왜곡이 가파르게 떨어지고, 비트의 대부분은 눈에 띄지 않는 왜곡을 줄이는 데 쓰입니다.
+
+### 점진적 생성
+
+무작위 노이즈에서 알고리즘 2로 표본을 만들면서, 각 단계에서 위 식의 $\hat{\mathbf{x}}_0$를 계산해 보면 생성 과정 중간에 모델이 예상하는 최종 이미지를 볼 수 있습니다.
+
+![그림 6 — CIFAR10 점진적 생성](https://arxiv.org/html/2006.11239v2/images/cifar10_eps-fixedlarge-mse_20_progressive.jpg)
+
+*그림 6 — 왼쪽에서 오른쪽으로 역방향 과정이 진행되며 예상 최종 이미지 $\hat{\mathbf{x}}_0$가 바뀝니다.*
+
+큰 구조가 먼저 나타나고 세부는 마지막에 나타납니다. 부록 그림 10은 같은 과정에서 $\hat{\mathbf{x}}_0$의 Inception 점수와 FID를 역방향 단계($T-t$, 0~1000)에 따라 그린 선 그래프 두 개입니다. 이 그래프는 arxiv HTML 판에 이미지 파일이 없어 여기에 싣지 못했습니다.
+
+![그림 7 — 같은 중간 값에서 뽑은 표본](https://arxiv.org/html/2006.11239v2/images/stochastic_decoding.jpg)
+
+*그림 7 — 오른쪽 아래 칸이 중간 값 $\mathbf{x}_t$이고, 나머지 칸은 그 값에서 역방향 과정을 여러 번 따로 진행한 표본입니다.*
+
+표본 추출에서 무작위성은 시작 노이즈 $\mathbf{x}_T$와 매 단계 더하는 $\sigma_t \mathbf{z}$ 두 곳에서 옵니다. 그림 7은 역방향 과정 하나를 $t \in \{1000, 750, 500, 250\}$에서 여러 번 복제해 각각 따로 진행한 결과입니다. $t=1000$에서 나누면 표본이 서로 크게 다르지만, 더 진행한 뒤 나누면 성별, 머리색, 안경, 채도, 자세, 표정 같은 큰 속성을 공유하고 세부만 달라집니다. 사람 눈에는 노이즈로 보이는 $\mathbf{x}_{750}$ 같은 중간 값에도 이런 속성이 이미 들어 있다는 뜻입니다.
+
+### 자기회귀 복호화와의 관계
+
+변분 하한은 다음 형태로도 쓸 수 있습니다.
+
+$$
+L = D_{\mathrm{KL}}\big(q(\mathbf{x}_T)\,\|\,p(\mathbf{x}_T)\big) + \mathbb{E}_q\Big[\sum_{t \ge 1} D_{\mathrm{KL}}\big(q(\mathbf{x}_{t-1} \mid \mathbf{x}_t)\,\|\,p_\theta(\mathbf{x}_{t-1} \mid \mathbf{x}_t)\big)\Big] + H(\mathbf{x}_0)
+$$
+
+여기서 확산 길이 $T$를 데이터 차원 수와 같게 두고, 전방 과정 한 단계가 노이즈를 섞는 대신 좌표 하나를 지우도록(마스킹) 바꾸고, $p(\mathbf{x}_T)$를 빈 이미지로 두면, $p_\theta$는 남은 좌표를 그대로 복사하고 지워진 좌표 하나를 나머지 좌표로 예측하도록 학습됩니다. 이것은 좌표를 하나씩 예측하는 자기회귀 모델의 학습과 같습니다.
+
+따라서 가우시안 확산 모델은 데이터 좌표의 순서를 바꾸는 것으로는 표현할 수 없는 일반화된 비트 순서를 쓰는 자기회귀 모델로 볼 수 있습니다. 저자들은 이미지에는 마스킹보다 가우시안 노이즈를 더하는 쪽이 더 자연스러운 방식일 수 있다고 추측합니다. 또 가우시안 확산의 길이는 데이터 차원과 같을 필요가 없어서, 32×32×3이나 256×256×3보다 훨씬 짧은 $T=1000$을 씁니다. 빠른 표본 추출이 필요하면 더 짧게, 표현력이 필요하면 더 길게 둘 수 있습니다.
+
+---
+
+## 10. 보간
+
+두 원본 이미지 $\mathbf{x}_0$, $\mathbf{x}'_0$를 전방 과정으로 같은 단계 $t$까지 노이즈를 섞어 $\mathbf{x}_t$, $\mathbf{x}'_t$를 만든 뒤, 둘을 섞은 $\bar{\mathbf{x}}_t = (1-\lambda)\mathbf{x}_t + \lambda\mathbf{x}'_t$를 역방향 과정으로 되돌리면 두 이미지 사이의 이미지를 만들 수 있습니다. 논문 4.4절의 식은 섞는 대상을 $(1-\lambda)\mathbf{x}_0 + \lambda\mathbf{x}'_0$로 적었지만, 같은 문장이 노이즈 섞인 잠재 값을 선형 보간한다고 설명하고 그림 8 왼쪽 도식도 $\mathbf{x}_t$끼리 섞으므로 여기서는 $\mathbf{x}_t$로 적었습니다.
+
+노이즈 섞인 두 이미지를 픽셀 단위로 섞으면 겹친 흔적이 생기는데, 역방향 과정이 그 흔적을 지우고 자연스러운 이미지로 복원합니다. $\lambda$ 값을 바꿀 때 노이즈를 고정해 $\mathbf{x}_t$와 $\mathbf{x}'_t$가 같게 유지했습니다.
+
+![그림 8 — CelebA-HQ 보간](https://arxiv.org/html/2006.11239v2/images/interp_with_diagram.jpg)
+
+*그림 8 — 왼쪽은 보간 절차 도식, 오른쪽은 $t=500$에서의 CelebA-HQ 256×256 보간과 복원입니다.*
+
+$t=500$에서 역방향 과정은 원본을 높은 품질로 복원하고, 자세·피부색·머리 모양·표정·배경은 부드럽게 바뀌는 보간을 만듭니다. 안경은 부드럽게 바뀌지 않았습니다. $t$를 키우면 더 거칠고 다양한 보간이 나오고, $t=1000$에서는 원본과 무관한 새 표본이 나옵니다.
+
+![그림 9 — 거친 보간에서 세밀한 보간까지](https://arxiv.org/html/2006.11239v2/interp_coarse_to_fine_jpg_small.png)
+
+*그림 9 — 섞기 전 확산 단계 수를 바꿔 가며 만든 보간입니다.*
+
+확산 단계 수가 0이면 픽셀 공간에서 두 이미지를 그대로 섞은 것이고, 단계 수를 늘릴수록 원본 구조가 더 많이 지워져 모델이 역방향 과정에서 채우는 부분이 커집니다. 1000단계 뒤에는 원본 정보가 사라져 보간 결과가 새 표본이 됩니다.
+
+---
+
+## 11. 부록 표본
+
+부록 D는 선별하지 않은 표본을 싣습니다.
+
+![그림 11 — CelebA-HQ 생성 표본](https://arxiv.org/html/2006.11239v2/images/celebahq256_extended_samples_jpg.jpg)
+
+*그림 11 — CelebA-HQ 256×256 생성 표본.*
+
+![그림 12(a) — CelebA-HQ 픽셀 공간 최근접 이웃](https://arxiv.org/html/2006.11239v2/images/celebahq256_more_nnpixelspace.jpg)
+
+![그림 12(b) — CelebA-HQ Inception 특징 공간 최근접 이웃](https://arxiv.org/html/2006.11239v2/images/celebahq256_more_nninception.jpg)
+
+*그림 12 — 맨 왼쪽 열이 생성 표본, 나머지 열이 얼굴 주변 100×100 영역 기준으로 찾은 학습 세트 최근접 이웃입니다. (a) 픽셀 공간 (b) Inception 특징 공간.*
+
+![그림 13 — CIFAR10 생성 표본](https://arxiv.org/html/2006.11239v2/images/cifar10_eps-fixedlarge-mse_20x20.png)
+
+*그림 13 — 조건 없는 CIFAR10 생성 표본 (그림 1 아래와 같은 이미지).*
+
+![그림 14 — CIFAR10 점진적 생성](https://arxiv.org/html/2006.11239v2/images/cifar10_eps-fixedlarge-mse_20_progressive.jpg)
+
+*그림 14 — 조건 없는 CIFAR10 점진적 생성 (그림 6과 같은 이미지).*
+
+![그림 15(a) — CIFAR10 픽셀 공간 최근접 이웃](https://arxiv.org/html/2006.11239v2/images/cifar10_eps-fixedlarge-mse_20_nn.jpg)
+
+![그림 15(b) — CIFAR10 Inception 특징 공간 최근접 이웃](https://arxiv.org/html/2006.11239v2/images/cifar10_eps-fixedlarge-mse_20_nninception.jpg)
+
+*그림 15 — 맨 왼쪽 열이 생성 표본, 나머지 열이 학습 세트 최근접 이웃입니다. (a) 픽셀 공간 (b) Inception 특징 공간.*
+
+최근접 이웃 그림은 생성 표본이 학습 이미지를 그대로 복사한 것이 아닌지 확인하는 용도입니다. 표 1의 학습·테스트 NLL 차이가 작다는 결과와 함께 과적합이 없다는 근거로 쓰입니다.
+
+![그림 16 — LSUN Church 생성 표본](https://arxiv.org/html/2006.11239v2/images/lsun_church_samples_10x10_highlight_step1152000_small.jpg)
+
+*그림 16 — LSUN Church 생성 표본, FID 7.89.*
+
+![그림 17 — LSUN Bedroom 생성 표본, 큰 모델](https://arxiv.org/html/2006.11239v2/images/lsun_bedroom_10x10_highlight_l192_step155600_small.jpg)
+
+*그림 17 — LSUN Bedroom 생성 표본, 큰 모델, FID 4.90.*
+
+![그림 18 — LSUN Bedroom 생성 표본, 작은 모델](https://arxiv.org/html/2006.11239v2/images/lsun_bedroom_10x10_highlight_step2388000_smallest.jpg)
+
+*그림 18 — LSUN Bedroom 생성 표본, 작은 모델, FID 6.36.*
+
+![그림 19 — LSUN Cat 생성 표본](https://arxiv.org/html/2006.11239v2/images/lsun_cat_10x10_highlight_step1761000_fid19point75_smallest.jpg)
+
+*그림 19 — LSUN Cat 생성 표본, FID 19.75.*
+
+---
+
+## 12. 기존 점수 정합 모델과의 차이
+
+부록 C는 DDPM이 NCSN과 다른 점을 정리합니다.
+
+| 항목 | NCSN | DDPM |
+|------|------|------|
+| 신경망 | 팽창 합성곱을 쓰는 RefineNet | 자기 주의를 넣은 U-Net |
+| 노이즈 크기 입력 | 정규화 층에만(v1) 또는 출력에만(v2) | 사인파 임베딩을 모든 층에 더함 |
+| 노이즈를 섞을 때 데이터 축소 | 없음 | 단계마다 $\sqrt{1-\beta_t}$를 곱해 분산이 커지지 않게 함 |
+| 마지막 노이즈 | 신호가 남음 | 신호가 사라짐 ($D_{\mathrm{KL}} \approx 0$), 사전 분포와 일치 |
+| 노이즈 크기 | 큼 | $\beta_t$가 매우 작아 조건부 가우시안으로 되돌릴 수 있음 |
+| 표본 추출 계수 | 학습 뒤 사람이 따로 정함 | $\beta_t$에서 수식으로 정해지고, 표본 추출기 자체를 변분 추론으로 학습 |
+
+마지막 노이즈가 사전 분포와 일치하는 것과 $\beta_t$가 작은 것은 둘 다 표본 추출 중 분포 이동을 막는 역할을 합니다.
+
+---
+
+## 13. 사회적 영향
+
+저자들은 확산 모델도 다른 생성 모델과 같은 범위의 영향을 가진다고 봅니다. 정치적 목적으로 유명인의 가짜 이미지나 영상을 만드는 악용이 쉬워질 수 있고, 인터넷에서 자동 수집한 데이터셋의 편향이 생성 표본에 그대로 반영돼 퍼질 수 있습니다. 반대로 데이터 압축, 레이블 없는 데이터의 표현 학습, 예술·사진·음악 같은 창작 분야에 쓰일 가능성도 적었습니다.
+
+---
+
+## 14. 논문에서 드러난 제약
+
+논문에는 한계 절이 따로 없어서, 본문과 부록에 적힌 제약만 모았습니다.
+
+- **로그 가능도가 낮습니다.** 표본 품질은 좋지만 NLL은 다른 가능도 기반 모델에 비해 경쟁력이 없습니다(표 1).
+- **표본 추출이 느립니다.** 표본 하나에 신경망을 1000번 계산해야 해서, CIFAR10 이미지 256장에 17초, 256×256 이미지 128장에 300초가 걸립니다.
+- **압축 해석은 개념 증명입니다.** 알고리즘 3·4가 가정하는 부호화 절차는 고차원 데이터에서 계산할 수 없습니다.
+- **분산 일정과 하이퍼파라미터는 대부분 CIFAR10 기준으로 정했습니다.** 다른 데이터셋에는 탐색 없이 옮겼습니다.
+
+---
+
+## 15. 정리 — VLA 선행 연구에서의 위치
+
+DDPM은 노이즈를 섞는 고정 규칙과 그 규칙을 한 단계씩 되돌리는 신경망으로 고품질 이미지를 생성할 수 있음을 보였습니다.
+
+- **전방 과정은 학습하지 않습니다.** 선형 $\beta_t$ 일정으로 1000단계에 걸쳐 노이즈를 섞고, 임의의 단계 $\mathbf{x}_t$를 원본에서 한 번에 계산합니다.
+- **신경망은 섞인 노이즈를 예측합니다.** 이 매개변수화는 노이즈 제거 점수 정합의 학습, 랑주뱅 동역학의 표본 추출과 같은 수식이 됩니다.
+- **가중치를 뗀 $L_{\mathrm{simple}}$** 이 노이즈 예측과 함께 쓰일 때 CIFAR10 FID 3.17을 냈습니다.
+- **생성은 큰 구조에서 세부로 진행되고,** 비트의 대부분은 눈에 띄지 않는 세부에 쓰입니다.
+
+### VLA와의 연결
+
+VLA 계보에서 행동을 출력하는 방식은 크게 두 가지입니다. RT-2는 행동의 각 차원을 256개 구간으로 나눠 토큰으로 내고, 확산 계열 방법은 연속 값을 구간으로 자르지 않고 노이즈에서 되돌려 생성합니다.
+
+| 항목 | RT-2의 행동 토큰 | 확산 방식의 행동 생성 |
+|------|---------------|------------------|
+| 출력 값 | 256개 구간 중 하나의 번호 | 연속 실수 |
+| 한 번에 내는 것 | 토큰 하나씩 차례로 | 값 배열 전체를 여러 단계에 걸쳐 함께 다듬음 |
+| 여러 가능한 답의 표현 | 토큰 확률 분포 | 시작 노이즈와 단계별 노이즈에 따라 다른 표본 |
+| 생성 비용 | 토큰 수만큼 모델 계산 | 되돌리는 단계 수만큼 신경망 계산 |
+
+12편 Diffusion Policy는 DDPM의 학습·표본 추출 절차를 그대로 쓰되, 이미지 대신 앞으로의 로봇 행동 여러 스텝을 묶은 값 배열을 생성하고 카메라 관측을 조건으로 넣습니다. 다음 편의 Flow Matching은 노이즈와 데이터를 잇는 경로를 따라 이동하는 속도를 학습하는 방식으로, VLA 계보의 [π0](/blog/paper-review/vla/pi0)이 연속 행동을 생성할 때 씁니다. 두 방법 모두 이 편의 전방 과정·역방향 과정 개념 위에서 설명됩니다.
+
+다음 편: [11편 Flow Matching](/blog/paper-review/pre-vla/flow-matching)
+
+전체 목록은 [VLA 선행 연구 목차](/blog/paper-review/pre-vla)에서 볼 수 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/palm-e","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"9편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - PaLM-E: An Embodied Multimodal Language Model"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/pre-vla/flow-matching","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"11편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Flow Matching for Generative Modeling"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

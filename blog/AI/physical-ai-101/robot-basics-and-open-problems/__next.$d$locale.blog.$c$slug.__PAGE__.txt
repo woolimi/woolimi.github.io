@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"AI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/AI/physical-ai-101","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Physical AI 101","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제\",\"description\":\"로봇의 구조를 적는 URDF, 손끝을 움직이는 FK 와 IK, 계층 제어와 제어 주기, 로봇이 보고 느끼는 관측을 정리하고, 이 분야가 아직 풀지 못한 문제 다섯 가지를 정리합니다.\",\"image\":\"https://images.prismic.io/woolimi/S_Rw1Sm2YBfE2au3_g-joint-link.png?w=1200&h=630&fit=fill&fill=blur&fm=jpg&q=80\",\"url\":\"https://woolimi.github.io/ko/blog/AI/physical-ai-101/robot-basics-and-open-problems\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-10T18:38:21.000Z\",\"dateModified\":\"2026-09-13T14:36:56.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/AI/physical-ai-101","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Physical AI 101 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"5편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제"}]
+10:T271e,
+## 이 편의 목표
+
+로봇을 다룰 때 반드시 만나는 개념과 용어를 이해하는 것입니다. 구조 기술, 제어, 관측 순서로 설명합니다.
+
+## 로봇 구조 기술 — URDF
+
+로봇의 물리 구조를 XML 로 적은 표준이 **URDF(Unified Robot Description Format)** 입니다. 어떤 부품(link)이 어떤 관절(joint)로 연결되고, 무게와 충돌 형상이 어떤지가 들어갑니다. 관절 개수가 그 로봇의 자유도를 결정합니다. ROS 생태계의 사실상 표준이고, 시뮬레이터에 로봇을 올릴 때 입력이 됩니다.
+
+![회전·직동 관절과 강체 링크가 사슬 구조로 연결된 로봇 운동학 구조](https://images.prismic.io/woolimi/S_Rw1Sm2YBfE2au3_g-joint-link.png?auto=format,compress)
+
+_출처: Wikimedia Commons, [Cylindrical configuration](https://commons.wikimedia.org/wiki/File:Cylindrical_configuration.png) · CC BY-SA 3.0_
+
+> [!TERM]
+>
+> **link / joint**
+>
+> link 는 움직이지 않는 강체 한 토막, joint 는 두 link 를 잇는 관절입니다. 회전하는 revolute joint 와 직선으로 미끄러지는 prismatic joint 가 대표입니다. 로봇은 link 와 joint 가 번갈아 이어진 사슬(또는 나무)입니다.
+
+최신 시뮬레이션 파이프라인에서는 URDF 를 더 풍부한 3D 장면 표준인 **OpenUSD** 로 변환해 렌더링·물리 시뮬레이션에 씁니다. URDF 가 로봇 한 대의 구조만 적는다면 USD 는 로봇과 환경을 층층이 합성한 장면 전체를 적습니다.
+
+## end-effector 와 FK / IK
+
+로봇팔 끝에서 실제로 물건을 잡는 부분이 **end-effector(EEF)** 입니다. 그리퍼나 손이 여기에 해당합니다.
+
+관절 각도에서 손끝 위치를 구하는 것이 **forward kinematics(FK)**, 반대로 "손끝을 여기로" 지정하면 관절 각도를 역산하는 것이 **inverse kinematics(IK)** 입니다. FK 는 답이 하나이고 계산이 쉽습니다. IK 는 해가 여러 개일 수 있고(같은 손끝 위치를 만드는 팔 자세는 여럿), 아예 없을 수도 있습니다(닿지 않는 위치).
+
+| 방향 | 입력 | 출력 | 해의 개수 |
+| --- | --- | --- | --- |
+| FK | 관절 각도 | 손끝 위치·자세 | 항상 하나 |
+| IK | 손끝 위치·자세 | 관절 각도 | 여럿 또는 없음 |
+
+FK · IK 가 어디에 쓰이는지는 행동을 관절 각도로 적을지 손끝 위치로 적을지에 따라 다릅니다. 그 선택에 따라 변환이 수집 때 들어가기도 하고 추론 때 들어가기도 합니다.
+
+- **수집 때** — 리더 팔로 조종하면 사람이 관절을 직접 움직이므로 관절 각도가 그대로 기록되고 변환이 없습니다. VR 컨트롤러나 손잡이 장치로 조종하면 손끝 위치만 얻어지므로, 로봇이 그 손끝을 따라가게 하려고 수집 중에 IK 로 관절 명령을 만듭니다.
+- **추론 때** — 정책이 관절 각도를 내면 변환이 없습니다. 정책이 손끝 위치를 내도록 학습했다면 추론 때 IK 로 관절 명령을 만듭니다.
+- **그 밖에** — 관절 한계·충돌 검사 같은 안전 제한과 시뮬레이션 검증에서는 손끝이 어디 있는지 알아야 하므로 FK 가 늘 쓰입니다.
+
+수집 때 IK 와 추론 때 IK 는 장단점이 다릅니다.
+
+| | 수집 때 IK (관절 각도로 저장·학습) | 추론 때 IK (손끝 위치로 저장·학습) |
+| --- | --- | --- |
+| 실행 | 단순하고 빠름. 저장된 관절값은 로봇이 실제로 취한 자세라 그대로 재현됨 | 매 스텝 IK 계산과 실패 처리가 실시간 경로에 들어감 |
+| IK 실패 | 수집 단계에서 걸러짐. 실패한 episode 는 버리면 됨 | 정책이 도달 불가 위치를 내면 그 자리에서 실패 |
+| 팔 자세 | 데이터에 고정됨 | 같은 손끝에 팔 자세가 여럿이라 스텝마다 튈 수 있어 연속성 유지 로직이 필요 |
+| 이식성 | 낮음. 그 로봇 전용 데이터 | 높음. 로봇이 달라도, 로봇 없이 손잡이 장치로 모아도 됨 |
+| 맞는 경우 | 로봇 한 대를 정해 두고 쓸 때 | 여러 로봇에 옮기거나 손잡이 장치로 수집할 때 |
+
+실무에서는 **수집 때 IK 를 써서 관절값으로 저장하는 쪽** 이 많습니다. 정책은 관절 각도를 배우고, 추론 때는 IK 를 돌리지 않습니다.
+
+관절 각도 쪽으로 기운 이유는 손끝 위치만으로는 팔의 자세와 양팔 사이의 간섭을 표현할 수 없기 때문입니다. 양팔·휴머노이드로 갈수록 그 정보가 필요합니다.
+
+## 계층 제어와 제어 주기
+
+로봇 제어는 보통 두 층으로 나뉩니다. "어디로 갈지, 무엇을 할지" 를 낮은 빈도로 정하는 **high-level policy** 와, 그것을 실제 관절 명령으로 빠르게 바꾸는 **low-level policy** 입니다. 갱신 빈도를 **control frequency(제어 주기, Hz)** 라 하고, 보통 low-level 이 훨씬 빠릅니다. 걷기 제어는 50 Hz 이상, 상위 판단은 5~10 Hz 정도입니다.
+
+![폐루프 제어 블록 다이어그램. 기준값에서 측정 출력을 뺀 오차가 제어기와 시스템을 거치고, 센서가 출력을 되먹입니다.](https://images.prismic.io/woolimi/4bnWCDBqaGylWwA2_g-loop-control.png?auto=format,compress)
+
+_출처: Orzetto, Wikimedia Commons, [Feedback loop with descriptions](https://commons.wikimedia.org/wiki/File:Feedback_loop_with_descriptions.svg) · CC BY-SA 4.0_
+
+![계층 제어. high-level policy 가 5~10 Hz 로 목표를 정하고, low-level policy 가 50 Hz 이상으로 관절 목표를 만들며, 모터 제어기가 1 kHz 로 토크를 냅니다. 센서 값은 각 층으로 되먹임됩니다.](https://woolimi.cdn.prismic.io/woolimi/xtBAL7MDVx5VPPdk_d-control-hierarchy.svg)
+
+[4편의 System 2 / System 1](/blog/AI/physical-ai-101/inside-the-model#system-2-와-system-1-이해와-행동의-분리) 이 바로 이 계층의 학습형 구현입니다. VLM 이 낮은 빈도로 이해하고, action head 가 chunk 로 높은 빈도의 명령을 채웁니다. "느린 추론과 빠른 제어의 주파수 불일치" 가 미해결 문제로 꼽히는 이유도 여기에 있습니다.
+
+## 관측의 종류
+
+로봇이 받는 입력에는 여러 종류(modality)가 있습니다.
+
+| modality | 무엇 | 왜 중요한가 |
+| --- | --- | --- |
+| 카메라 영상 | 3인칭 고정 카메라, 1인칭·손목 카메라 | 물체와 장면을 봅니다 |
+| 언어 지시 | "빨간 컵을 왼쪽에" | 무엇을 할지 정합니다 |
+| 고유감각(proprioception) | 자기 관절 각도·속도·토크 | 카메라 없이도 팔이 어디 있는지 압니다 |
+| 힘·접촉 | 손목 force-torque, 그리퍼 압력 | 잡았는지, 얼마나 세게 쥐었는지 압니다 |
+
+> [!TERM]
+>
+> **고유감각(proprioception)**
+>
+> 로봇이 자기 몸 상태를 내부 센서로 아는 것입니다. 관절 인코더가 주는 각도·속도가 대표이고, VLA 의 "robot state" 입력이 이것입니다.
+
+> [!TERM]
+>
+> **ego view / wrist camera**
+>
+> 로봇의 1인칭·손목 시점 카메라입니다. 조작 대상 물체를 가까이서 보기 때문에 정밀한 집기에 결정적입니다. 대부분의 조작 데이터셋이 손목 카메라를 포함합니다.
+
+## 미해결 문제 다섯 가지
+
+마지막으로 이 분야가 아직 풀지 못한 문제를 다섯 가지로 묶습니다. 데모 영상이나 논문을 볼 때 어느 문제의 진전인지 가늠하는 기준으로 쓰시면 됩니다.
+
+| 문제 | 핵심 질문 | 현재 한계 |
+| --- | --- | --- |
+| representation — 행동 표현 | 행동을 어떤 형태로 표현해야 잘 배우고 잘 옮겨지나. raw action 인지, chunk 인지, 언어·코드인지 | 표현마다 정밀도·일반화·속도의 trade-off 가 다르고 정답 표현이 없음 |
+| execution — 실행 | 느린 추론(System 2)과 빠른 제어(System 1)의 주파수 불일치를 어떻게 메우나 | 큰 VLA 는 무거워 로봇 위 실시간이 어렵고, 클라우드로 빼면 지연·연결 문제 |
+| generalization — 전이 | 한 로봇·한 환경에서 배운 것을 다른 몸·새 물체·새 장면으로 얼마나 옮기나 | sim-to-real gap 과 cross-embodiment 전이는 여전히 미해결 |
+| safety — 안전 | 물리적으로 힘을 쓰는 로봇이 사람·환경에 위험하지 않다고 어떻게 보장하나 | 실패가 물리 피해로 직결. 전용 survey 가 따로 나올 만큼 독립 난제 |
+| dataset & eval — 데이터와 평가 | 데이터를 어떻게 충분히 모으고(teleoperation 은 비쌈), 모델을 어떻게 공정히 비교하나 | loss 로는 성공을 못 잼. 벤치마크·rollout 성공률도 표준화 진행 중 |
+
+다섯 문제는 서로 얽혀 있습니다. 표현이 좋아지면 일반화가 쉬워지고, 평가가 정확해야 안전을 보장할 수 있습니다. 인상적인 데모를 볼 때 이 다섯 중 무엇을 실제로 전진시켰는지 물으면 과장과 진짜 진전을 가릴 수 있습니다.
+
+## 다섯 편 요약
+
+각 편의 한 문장 요약입니다.
+
+1. Physical AI 는 현실에서 행동하는 AI 이고, 그 두뇌는 관측 → 행동 함수인 policy 입니다.
+2. 연구는 foundation model 위에서 돌아가고, VLA 는 backbone 의 선택지, diffusion / flow matching 은 action head 의 선택지입니다.
+3. 내 로봇에 맞추는 흐름은 사전학습 → 시연 모방(SFT) → 보상 강화(RFT) 입니다.
+4. 모델 안에서는 System 2 가 이해하고 System 1 이 chunk 를 flow matching 으로 뽑으며, 모방학습의 한계은 covariate shift 입니다.
+5. 로봇 자체는 URDF · FK / IK · 제어 주기 · 고유감각(proprioception)의 언어로 다루고, 미해결 문제는 다섯 가지입니다.
+
+마지막 6편에서는 시뮬레이션과 학습을 어디서 돌리는지에 대한 이야기입니다.
+
+**다음 편 →** [6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포](/blog/AI/physical-ai-101/where-to-run)
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/AI/physical-ai-101/inside-the-model","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"4편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"Physical AI 101 - 4편 모델의 내부 구조 — System 1/2 · action chunk · flow matching · 모방학습의 한계"}]]}],["$","$L3",null,{"href":"/ko/blog/AI/physical-ai-101/where-to-run","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"6편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"Physical AI 101 - 6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

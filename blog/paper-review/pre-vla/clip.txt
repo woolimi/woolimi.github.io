@@ -1,0 +1,896 @@
+1:"$Sreact.fragment"
+2:I[655451,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+3:I[953941,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"default"]
+7:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"ViewportBoundary"]
+d:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"MetadataBoundary"]
+f:I[705972,[],"default",1]
+:HL["/_next/static/chunks/3agf9wikrxppn.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"P":null,"c":["","ko","blog","paper-review","pre-vla","clip"],"q":"","i":false,"f":[[["",{"children":[["locale","ko","d",null],{"children":["blog",{"children":[["slug","paper-review/pre-vla/clip","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16]}],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3agf9wikrxppn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kw5frqihsz8a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3lj8u5xv5ktpp.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2b-rkrpx92plj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1zxa1_-ln-wn8.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0ry40u7s86a5y.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1-lkrriw345pf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2xgagg06nhrfg.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null]},null,false,null]},null,false,"$@a"],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"A-gfPA41_SOmu3fajNRh2"}
+10:[]
+a:"$W10"
+12:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeDesktop"]
+4:["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"bg-background mx-auto font-sans antialiased playfair_display_719aaf6b-module__jzwwLG__variable","children":"$L11"}]]}]
+5:["$","main",null,{"className":"flex min-h-screen justify-center px-4 sm:px-6 py-12 sm:py-24 lg:gap-8","children":[["$","section",null,{"className":"w-full max-w-3xl","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L12",null,{"tree":[{"name":"AI","type":"folder","path":"AI","children":[{"name":"Deep Learning","type":"folder","path":"AI/Deep Learning","children":[{"name":"00.perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/00.perceptron.ko.ipynb","slug":"AI/Deep Learning/perceptron","locale":"ko","title":"Perceptron","isHub":false,"order":"$undefined"},{"name":"01.multi-layer-perceptron.ko.ipynb","type":"file","path":"AI/Deep Learning/01.multi-layer-perceptron.ko.ipynb","slug":"AI/Deep Learning/multi-layer-perceptron","locale":"ko","title":"Multi Layer Perceptron","isHub":false,"order":"$undefined"},{"name":"02.activation-function-1.ko.ipynb","type":"file","path":"AI/Deep Learning/02.activation-function-1.ko.ipynb","slug":"AI/Deep Learning/activation-function-1","locale":"ko","title":"Activation Function 1","isHub":false,"order":"$undefined"},{"name":"03.activation-function-2.ko.ipynb","type":"file","path":"AI/Deep Learning/03.activation-function-2.ko.ipynb","slug":"AI/Deep Learning/activation-function-2","locale":"ko","title":"Activation Function 2","isHub":false,"order":"$undefined"},{"name":"04.loss-function.ko.ipynb","type":"file","path":"AI/Deep Learning/04.loss-function.ko.ipynb","slug":"AI/Deep Learning/loss-function","locale":"ko","title":"Loss Function","isHub":false,"order":"$undefined"},{"name":"05.optimizer.ko.ipynb","type":"file","path":"AI/Deep Learning/05.optimizer.ko.ipynb","slug":"AI/Deep Learning/optimizer","locale":"ko","title":"Optimizer","isHub":false,"order":"$undefined"},{"name":"06.dl-bloodfat.ko.ipynb","type":"file","path":"AI/Deep Learning/06.dl-bloodfat.ko.ipynb","slug":"AI/Deep Learning/dl-bloodfat","locale":"ko","title":"blood fat","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Filter","type":"folder","path":"AI/Filter","children":[{"name":"00.filter.ko.ipynb","type":"file","path":"AI/Filter/00.filter.ko.ipynb","slug":"AI/Filter/filter","locale":"ko","title":"신호 필터처리","isHub":false,"order":"$undefined"},{"name":"01.encoder.ko.ipynb","type":"file","path":"AI/Filter/01.encoder.ko.ipynb","slug":"AI/Filter/encoder","locale":"ko","title":"encoder 로 속도구하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"LLM","type":"folder","path":"AI/LLM","children":[{"name":"00.resoning.ko.md","type":"file","path":"AI/LLM/00.resoning.ko.md","slug":"AI/LLM/resoning","locale":"ko","title":"LLM 에서 추론이란?","isHub":false,"order":"$undefined"},{"name":"01.prompt-engineering-1.ko.md","type":"file","path":"AI/LLM/01.prompt-engineering-1.ko.md","slug":"AI/LLM/prompt-engineering-1","locale":"ko","title":"Prompt Engineering","isHub":false,"order":"$undefined"},{"name":"02.prompt-engineering-2.ko.md","type":"file","path":"AI/LLM/02.prompt-engineering-2.ko.md","slug":"AI/LLM/prompt-engineering-2","locale":"ko","title":"Prompt Engineering 기초 기법","isHub":false,"order":"$undefined"},{"name":"03.prompt-engineering-3.ko.md","type":"file","path":"AI/LLM/03.prompt-engineering-3.ko.md","slug":"AI/LLM/prompt-engineering-3","locale":"ko","title":"Prompt Engineering 고급 기법","isHub":false,"order":"$undefined"},{"name":"04.prompt-engineering-4.ko.md","type":"file","path":"AI/LLM/04.prompt-engineering-4.ko.md","slug":"AI/LLM/prompt-engineering-4","locale":"ko","title":"Prompt Engineering 고급 기법 2","isHub":false,"order":"$undefined"},{"name":"05.ollama.ko.md","type":"file","path":"AI/LLM/05.ollama.ko.md","slug":"AI/LLM/ollama","locale":"ko","title":"Ollama","isHub":false,"order":"$undefined"},{"name":"06.ollama-python.ko.md","type":"file","path":"AI/LLM/06.ollama-python.ko.md","slug":"AI/LLM/ollama-python","locale":"ko","title":"Ollama Python 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Machine Learning","type":"folder","path":"AI/Machine Learning","children":[{"name":"01.machine-learning.ko.md","type":"file","path":"AI/Machine Learning/01.machine-learning.ko.md","slug":"AI/Machine Learning/machine-learning","locale":"ko","title":"Machine Learning","isHub":false,"order":"$undefined"},{"name":"02.ml-iris-dt.ko.ipynb","type":"file","path":"AI/Machine Learning/02.ml-iris-dt.ko.ipynb","slug":"AI/Machine Learning/ml-iris-dt","locale":"ko","title":"iris with decision tree","isHub":false,"order":"$undefined"},{"name":"03.ml-iris-knn.ko.ipynb","type":"file","path":"AI/Machine Learning/03.ml-iris-knn.ko.ipynb","slug":"AI/Machine Learning/ml-iris-knn","locale":"ko","title":"iris with knn","isHub":false,"order":"$undefined"},{"name":"04.ml-titanic.ko.ipynb","type":"file","path":"AI/Machine Learning/04.ml-titanic.ko.ipynb","slug":"AI/Machine Learning/ml-titanic","locale":"ko","title":"titanic 생존자 예측","isHub":false,"order":"$undefined"},{"name":"05.ml-wine-classifier.ko.ipynb","type":"file","path":"AI/Machine Learning/05.ml-wine-classifier.ko.ipynb","slug":"AI/Machine Learning/ml-wine-classifier","locale":"ko","title":"와인 분류기","isHub":false,"order":"$undefined"},{"name":"06.ml-logistic-regression.ko.ipynb","type":"file","path":"AI/Machine Learning/06.ml-logistic-regression.ko.ipynb","slug":"AI/Machine Learning/ml-logistic-regression","locale":"ko","title":"logistic regression","isHub":false,"order":"$undefined"},{"name":"07.ml-pima-indian.ko.ipynb","type":"file","path":"AI/Machine Learning/07.ml-pima-indian.ko.ipynb","slug":"AI/Machine Learning/ml-pima-indian","locale":"ko","title":"PIMA 인디언 당뇨병 예측","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"OpenCV","type":"folder","path":"AI/OpenCV","children":[{"name":"00.basic.ko.md","type":"file","path":"AI/OpenCV/00.basic.ko.md","slug":"AI/OpenCV/basic","locale":"ko","title":"OpenCV 기초 사용법","isHub":false,"order":"$undefined"},{"name":"01.camera.ko.md","type":"file","path":"AI/OpenCV/01.camera.ko.md","slug":"AI/OpenCV/camera","locale":"ko","title":"OpenCV 카메라/웹캠 실시간 처리","isHub":false,"order":"$undefined"},{"name":"02.filtering.ko.md","type":"file","path":"AI/OpenCV/02.filtering.ko.md","slug":"AI/OpenCV/filtering","locale":"ko","title":"OpenCV 필터링 기법","isHub":false,"order":"$undefined"},{"name":"03.histogram.ko.ipynb","type":"file","path":"AI/OpenCV/03.histogram.ko.ipynb","slug":"AI/OpenCV/histogram","locale":"ko","title":"OpenCV 히스토그램 및 평탄화","isHub":false,"order":"$undefined"},{"name":"04.mediapipe.ko.ipynb","type":"file","path":"AI/OpenCV/04.mediapipe.ko.ipynb","slug":"AI/OpenCV/mediapipe","locale":"ko","title":"MediaPipe를 사용한 포즈 추정","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"physical-ai-101","type":"folder","path":"AI/physical-ai-101","children":[{"name":"01.what-is-physical-ai.ko.md","type":"file","path":"AI/physical-ai-101/01.what-is-physical-ai.ko.md","slug":"AI/physical-ai-101/what-is-physical-ai","locale":"ko","title":"Physical AI 101 - 1편 Physical AI 와 로봇의 두뇌","isHub":false,"order":"$undefined"},{"name":"02.research-landscape.ko.md","type":"file","path":"AI/physical-ai-101/02.research-landscape.ko.md","slug":"AI/physical-ai-101/research-landscape","locale":"ko","title":"Physical AI 101 - 2편 연구 지형 — foundation model · VLA · world model · 시뮬레이션","isHub":false,"order":"$undefined"},{"name":"03.finetuning-my-robot.ko.md","type":"file","path":"AI/physical-ai-101/03.finetuning-my-robot.ko.md","slug":"AI/physical-ai-101/finetuning-my-robot","locale":"ko","title":"Physical AI 101 - 3편 내 로봇에 맞추는 학습 — teleoperation · 모방학습 · LoRA · 강화학습","isHub":false,"order":"$undefined"},{"name":"04.inside-the-model.ko.md","type":"file","path":"AI/physical-ai-101/04.inside-the-model.ko.md","slug":"AI/physical-ai-101/inside-the-model","locale":"ko","title":"Physical AI 101 - 4편 모델의 내부 구조 — System 1/2 · action chunk · flow matching · 모방학습의 한계","isHub":false,"order":"$undefined"},{"name":"05.robot-basics-and-open-problems.ko.md","type":"file","path":"AI/physical-ai-101/05.robot-basics-and-open-problems.ko.md","slug":"AI/physical-ai-101/robot-basics-and-open-problems","locale":"ko","title":"Physical AI 101 - 5편 로봇을 다루는 언어와 아직 안 풀린 문제","isHub":false,"order":"$undefined"},{"name":"06.where-to-run.ko.md","type":"file","path":"AI/physical-ai-101/06.where-to-run.ko.md","slug":"AI/physical-ai-101/where-to-run","locale":"ko","title":"Physical AI 101 - 6편 실행 환경 — 클라우드 위의 시뮬레이션 · 학습 · 배포","isHub":false,"order":"$undefined"}],"slug":"AI/physical-ai-101","order":"$undefined"},{"name":"00.intro.ko.md","type":"file","path":"AI/00.intro.ko.md","slug":"AI/intro","locale":"ko","title":"Intro","isHub":false,"order":"$undefined"},{"name":"02.scaler.ko.md","type":"file","path":"AI/02.scaler.ko.md","slug":"AI/scaler","locale":"ko","title":"Scaler","isHub":false,"order":"$undefined"},{"name":"04.model-selection.ko.md","type":"file","path":"AI/04.model-selection.ko.md","slug":"AI/model-selection","locale":"ko","title":"Model Selection","isHub":false,"order":"$undefined"},{"name":"05.model-mesurement.ko.ipynb","type":"file","path":"AI/05.model-mesurement.ko.ipynb","slug":"AI/model-mesurement","locale":"ko","title":"모델 평가","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"dev-tools","type":"folder","path":"dev-tools","children":[{"name":"claude","type":"folder","path":"dev-tools/claude","children":[{"name":"00.setup.md","type":"file","path":"dev-tools/claude/00.setup.md","slug":"dev-tools/claude/setup","locale":"$undefined","title":"claude 코드로 sudo","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Docker","type":"folder","path":"dev-tools/Docker","children":[{"name":"00.basic.ko.md","type":"file","path":"dev-tools/Docker/00.basic.ko.md","slug":"dev-tools/Docker/basic","locale":"ko","title":"Docker 기본","isHub":false,"order":"$undefined"},{"name":"01.create-image.ko.md","type":"file","path":"dev-tools/Docker/01.create-image.ko.md","slug":"dev-tools/Docker/create-image","locale":"ko","title":"Docker 이미지 생성","isHub":false,"order":"$undefined"},{"name":"02.docker-hub.ko.md","type":"file","path":"dev-tools/Docker/02.docker-hub.ko.md","slug":"dev-tools/Docker/docker-hub","locale":"ko","title":"Docker Hub에 이미지 Push","isHub":false,"order":"$undefined"},{"name":"03.useful-commands.ko.md","type":"file","path":"dev-tools/Docker/03.useful-commands.ko.md","slug":"dev-tools/Docker/useful-commands","locale":"ko","title":"Docker 유용한 명령어","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"git","type":"folder","path":"dev-tools/git","children":[{"name":"00.config.ko.md","type":"file","path":"dev-tools/git/00.config.ko.md","slug":"dev-tools/git/config","locale":"ko","title":"Git Config 설정 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"jupyter-notebook","type":"folder","path":"dev-tools/jupyter-notebook","children":[{"name":"00.setup.ko..md","type":"file","path":"dev-tools/jupyter-notebook/00.setup.ko..md","slug":"dev-tools/jupyter-notebook/setup.ko.","locale":"$undefined","title":"주피터 노트북 설정 가이드","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Terminator","type":"folder","path":"dev-tools/Terminator","children":[{"name":"00.shortcuts.md","type":"file","path":"dev-tools/Terminator/00.shortcuts.md","slug":"dev-tools/Terminator/shortcuts","locale":"$undefined","title":"Terminator 단축키","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Web","type":"folder","path":"dev-tools/Web","children":[{"name":"00.cloudflared.ko.md","type":"file","path":"dev-tools/Web/00.cloudflared.ko.md","slug":"dev-tools/Web/cloudflared","locale":"ko","title":"Cloudflare Tunnel (cloudflared) 사용법","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"paper-review","type":"folder","path":"paper-review","children":[{"name":"pre-vla","type":"folder","path":"paper-review/pre-vla","children":[{"name":"01.attention-is-all-you-need.ko.md","type":"file","path":"paper-review/pre-vla/01.attention-is-all-you-need.ko.md","slug":"paper-review/pre-vla/attention-is-all-you-need","locale":"ko","title":"논문해석 - Attention Is All You Need","isHub":false,"order":"$undefined"},{"name":"02.gpt-3.ko.md","type":"file","path":"paper-review/pre-vla/02.gpt-3.ko.md","slug":"paper-review/pre-vla/gpt-3","locale":"ko","title":"논문해석 - Language Models are Few-Shot Learners","isHub":false,"order":"$undefined"},{"name":"03.vit.ko.md","type":"file","path":"paper-review/pre-vla/03.vit.ko.md","slug":"paper-review/pre-vla/vit","locale":"ko","title":"논문해석 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale","isHub":false,"order":"$undefined"},{"name":"04.clip.ko.md","type":"file","path":"paper-review/pre-vla/04.clip.ko.md","slug":"paper-review/pre-vla/clip","locale":"ko","title":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision","isHub":false,"order":"$undefined"},{"name":"05.llava.ko.md","type":"file","path":"paper-review/pre-vla/05.llava.ko.md","slug":"paper-review/pre-vla/llava","locale":"ko","title":"논문해석 - Visual Instruction Tuning","isHub":false,"order":"$undefined"},{"name":"06.bc-z.ko.md","type":"file","path":"paper-review/pre-vla/06.bc-z.ko.md","slug":"paper-review/pre-vla/bc-z","locale":"ko","title":"논문해석 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning","isHub":false,"order":"$undefined"},{"name":"07.saycan.ko.md","type":"file","path":"paper-review/pre-vla/07.saycan.ko.md","slug":"paper-review/pre-vla/saycan","locale":"ko","title":"논문해석 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances","isHub":false,"order":"$undefined"},{"name":"08.gato.ko.md","type":"file","path":"paper-review/pre-vla/08.gato.ko.md","slug":"paper-review/pre-vla/gato","locale":"ko","title":"논문해석 - A Generalist Agent","isHub":false,"order":"$undefined"},{"name":"09.palm-e.ko.md","type":"file","path":"paper-review/pre-vla/09.palm-e.ko.md","slug":"paper-review/pre-vla/palm-e","locale":"ko","title":"논문해석 - PaLM-E: An Embodied Multimodal Language Model","isHub":false,"order":"$undefined"},{"name":"10.ddpm.ko.md","type":"file","path":"paper-review/pre-vla/10.ddpm.ko.md","slug":"paper-review/pre-vla/ddpm","locale":"ko","title":"논문해석 - Denoising Diffusion Probabilistic Models","isHub":false,"order":"$undefined"},{"name":"11.flow-matching.ko.md","type":"file","path":"paper-review/pre-vla/11.flow-matching.ko.md","slug":"paper-review/pre-vla/flow-matching","locale":"ko","title":"논문해석 - Flow Matching for Generative Modeling","isHub":false,"order":"$undefined"},{"name":"12.diffusion-policy.ko.md","type":"file","path":"paper-review/pre-vla/12.diffusion-policy.ko.md","slug":"paper-review/pre-vla/diffusion-policy","locale":"ko","title":"논문해석 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion","isHub":false,"order":"$undefined"},{"name":"13.act.ko.md","type":"file","path":"paper-review/pre-vla/13.act.ko.md","slug":"paper-review/pre-vla/act","locale":"ko","title":"논문해석 - Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware","isHub":false,"order":"$undefined"}],"slug":"paper-review/pre-vla","order":1},{"name":"vla","type":"folder","path":"paper-review/vla","children":[{"name":"01.rt-1.ko.md","type":"file","path":"paper-review/vla/01.rt-1.ko.md","slug":"paper-review/vla/rt-1","locale":"ko","title":"논문해석 - RT-1: Robotics Transformer for Real-World Control at Scale","isHub":false,"order":"$undefined"},{"name":"02.rt-2.ko.md","type":"file","path":"paper-review/vla/02.rt-2.ko.md","slug":"paper-review/vla/rt-2","locale":"ko","title":"논문해석 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control","isHub":false,"order":"$undefined"},{"name":"03.open-x-embodiment.ko.md","type":"file","path":"paper-review/vla/03.open-x-embodiment.ko.md","slug":"paper-review/vla/open-x-embodiment","locale":"ko","title":"논문해석 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models","isHub":false,"order":"$undefined"},{"name":"04.openvla.ko.md","type":"file","path":"paper-review/vla/04.openvla.ko.md","slug":"paper-review/vla/openvla","locale":"ko","title":"논문해석 - OpenVLA: An Open-Source Vision-Language-Action Model","isHub":false,"order":"$undefined"},{"name":"05.pi0.ko.md","type":"file","path":"paper-review/vla/05.pi0.ko.md","slug":"paper-review/vla/pi0","locale":"ko","title":"논문해석 - π0: A Vision-Language-Action Flow Model for General Robot Control","isHub":false,"order":"$undefined"},{"name":"06.fast.ko.md","type":"file","path":"paper-review/vla/06.fast.ko.md","slug":"paper-review/vla/fast","locale":"ko","title":"논문해석 - FAST: Efficient Action Tokenization for Vision-Language-Action Models","isHub":false,"order":"$undefined"},{"name":"07.pi05.ko.md","type":"file","path":"paper-review/vla/07.pi05.ko.md","slug":"paper-review/vla/pi05","locale":"ko","title":"논문해석 - π0.5: a Vision-Language-Action Model with Open-World Generalization","isHub":false,"order":"$undefined"},{"name":"08.openvla-oft.ko.md","type":"file","path":"paper-review/vla/08.openvla-oft.ko.md","slug":"paper-review/vla/openvla-oft","locale":"ko","title":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success","isHub":false,"order":"$undefined"},{"name":"09.gr00t-n1.ko.md","type":"file","path":"paper-review/vla/09.gr00t-n1.ko.md","slug":"paper-review/vla/gr00t-n1","locale":"ko","title":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots","isHub":false,"order":"$undefined"},{"name":"10.gemini-robotics.ko.md","type":"file","path":"paper-review/vla/10.gemini-robotics.ko.md","slug":"paper-review/vla/gemini-robotics","locale":"ko","title":"논문해석 - Gemini Robotics: Bringing AI into the Physical World","isHub":false,"order":"$undefined"}],"slug":"paper-review/vla","order":2},{"name":"umi","type":"folder","path":"paper-review/umi","children":[{"name":"01.umi.ko.md","type":"file","path":"paper-review/umi/01.umi.ko.md","slug":"paper-review/umi/umi","locale":"ko","title":"논문해석 - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots","isHub":false,"order":"$undefined"},{"name":"02.fastumi.ko.md","type":"file","path":"paper-review/umi/02.fastumi.ko.md","slug":"paper-review/umi/fastumi","locale":"ko","title":"논문해석 - FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset","isHub":false,"order":"$undefined"},{"name":"03.exumi.ko.md","type":"file","path":"paper-review/umi/03.exumi.ko.md","slug":"paper-review/umi/exumi","locale":"ko","title":"논문해석 - exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation","isHub":false,"order":"$undefined"},{"name":"04.mv-umi.ko.md","type":"file","path":"paper-review/umi/04.mv-umi.ko.md","slug":"paper-review/umi/mv-umi","locale":"ko","title":"논문해석 - MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning","isHub":false,"order":"$undefined"},{"name":"05.mobile-umi.ko.md","type":"file","path":"paper-review/umi/05.mobile-umi.ko.md","slug":"paper-review/umi/mobile-umi","locale":"ko","title":"논문해석 - Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation","isHub":false,"order":"$undefined"},{"name":"06.rwor.ko.md","type":"file","path":"paper-review/umi/06.rwor.ko.md","slug":"paper-review/umi/rwor","locale":"ko","title":"논문해석 - RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot","isHub":false,"order":"$undefined"},{"name":"07.umi-agriculture.ko.md","type":"file","path":"paper-review/umi/07.umi-agriculture.ko.md","slug":"paper-review/umi/umi-agriculture","locale":"ko","title":"논문해석 - Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications","isHub":false,"order":"$undefined"},{"name":"08.gripper-design-demonstration-quality.ko.md","type":"file","path":"paper-review/umi/08.gripper-design-demonstration-quality.ko.md","slug":"paper-review/umi/gripper-design-demonstration-quality","locale":"ko","title":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning","isHub":false,"order":"$undefined"},{"name":"09.legato.ko.md","type":"file","path":"paper-review/umi/09.legato.ko.md","slug":"paper-review/umi/legato","locale":"ko","title":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool","isHub":false,"order":"$undefined"},{"name":"10.touch-in-the-wild.ko.md","type":"file","path":"paper-review/umi/10.touch-in-the-wild.ko.md","slug":"paper-review/umi/touch-in-the-wild","locale":"ko","title":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper","isHub":false,"order":"$undefined"},{"name":"11.umi-on-air.ko.md","type":"file","path":"paper-review/umi/11.umi-on-air.ko.md","slug":"paper-review/umi/umi-on-air","locale":"ko","title":"논문해석 - UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies","isHub":false,"order":"$undefined"},{"name":"12.farm.ko.md","type":"file","path":"paper-review/umi/12.farm.ko.md","slug":"paper-review/umi/farm","locale":"ko","title":"논문해석 - Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation","isHub":false,"order":"$undefined"},{"name":"13.tacumi.ko.md","type":"file","path":"paper-review/umi/13.tacumi.ko.md","slug":"paper-review/umi/tacumi","locale":"ko","title":"논문해석 - TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks","isHub":false,"order":"$undefined"},{"name":"14.rdt2.ko.md","type":"file","path":"paper-review/umi/14.rdt2.ko.md","slug":"paper-review/umi/rdt2","locale":"ko","title":"논문해석 - RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization","isHub":false,"order":"$undefined"},{"name":"15.umi-3d.ko.md","type":"file","path":"paper-review/umi/15.umi-3d.ko.md","slug":"paper-review/umi/umi-3d","locale":"ko","title":"논문해석 - UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception","isHub":false,"order":"$undefined"},{"name":"16.vista.ko.md","type":"file","path":"paper-review/umi/16.vista.ko.md","slug":"paper-review/umi/vista","locale":"ko","title":"논문해석 - VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training","isHub":false,"order":"$undefined"},{"name":"17.yubi.ko.md","type":"file","path":"paper-review/umi/17.yubi.ko.md","slug":"paper-review/umi/yubi","locale":"ko","title":"논문해석 - YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale","isHub":false,"order":"$undefined"},{"name":"18.umi-bench.ko.md","type":"file","path":"paper-review/umi/18.umi-bench.ko.md","slug":"paper-review/umi/umi-bench","locale":"ko","title":"논문해석 - UMI-Bench 1.0: An Open and Reproducible Real-World Benchmark for Tabletop Robotic Manipulation with UMI Data","isHub":false,"order":"$undefined"},{"name":"19.bridge.ko.md","type":"file","path":"paper-review/umi/19.bridge.ko.md","slug":"paper-review/umi/bridge","locale":"ko","title":"논문해석 - Bridging Handheld and Teleoperated Supervision for Contact-Rich Manipulation via State-Gated Experts","isHub":false,"order":"$undefined"}],"slug":"paper-review/umi","order":3},{"name":"active-vision","type":"folder","path":"paper-review/active-vision","children":[{"name":"01.eyerobot.ko.md","type":"file","path":"paper-review/active-vision/01.eyerobot.ko.md","slug":"paper-review/active-vision/eyerobot","locale":"ko","title":"논문해석 - Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop","isHub":false,"order":"$undefined"},{"name":"02.eyerobot-2.ko.md","type":"file","path":"paper-review/active-vision/02.eyerobot-2.ko.md","slug":"paper-review/active-vision/eyerobot-2","locale":"ko","title":"논문해석 - EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras","isHub":false,"order":"$undefined"}],"slug":"paper-review/active-vision","order":4},{"name":"wam","type":"folder","path":"paper-review/wam","children":[{"name":"02.long-wam.ko.md","type":"file","path":"paper-review/wam/02.long-wam.ko.md","slug":"paper-review/wam/long-wam","locale":"ko","title":"논문해석 - Long-WAM: Scaling the Context of World-Action Models","isHub":false,"order":"$undefined"}],"slug":"paper-review/wam","order":5}],"slug":"paper-review","order":"$undefined"},{"name":"programming","type":"folder","path":"programming","children":[{"name":"coding-test","type":"folder","path":"programming/coding-test","children":[{"name":"Brute-Force Search","type":"folder","path":"programming/coding-test/Brute-Force Search","children":[{"name":"01.problem1.ko.ipynb","type":"file","path":"programming/coding-test/Brute-Force Search/01.problem1.ko.ipynb","slug":"programming/coding-test/Brute-Force Search/problem1","locale":"ko","title":"전력망을 둘로 나누기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Data Structure","type":"folder","path":"programming/coding-test/Data Structure","children":[{"name":"00.intro.ko.md","type":"file","path":"programming/coding-test/Data Structure/00.intro.ko.md","slug":"programming/coding-test/Data Structure/intro","locale":"ko","title":"자료구조 개념정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Sort","type":"folder","path":"programming/coding-test/Sort","children":[{"name":"00.intro.ko.ipynb","type":"file","path":"programming/coding-test/Sort/00.intro.ko.ipynb","slug":"programming/coding-test/Sort/intro","locale":"ko","title":"정렬 알고리즘 개념 정리","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"SQL","type":"folder","path":"programming/coding-test/SQL","children":[{"name":"00.order-by.ko.md","type":"file","path":"programming/coding-test/SQL/00.order-by.ko.md","slug":"programming/coding-test/SQL/order-by","locale":"ko","title":null,"isHub":false,"order":"$undefined"},{"name":"01.string.ko.md","type":"file","path":"programming/coding-test/SQL/01.string.ko.md","slug":"programming/coding-test/SQL/string","locale":"ko","title":null,"isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"computer-science","type":"folder","path":"programming/computer-science","children":[{"name":"00.process-vs-thread.ko.md","type":"file","path":"programming/computer-science/00.process-vs-thread.ko.md","slug":"programming/computer-science/process-vs-thread","locale":"ko","title":"프로세스와 스레드","isHub":false,"order":"$undefined"},{"name":"01.endian.ko.md","type":"file","path":"programming/computer-science/01.endian.ko.md","slug":"programming/computer-science/endian","locale":"ko","title":"엔디안","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"CPP","type":"folder","path":"programming/CPP","children":[{"name":"00.reference.ko.md","type":"file","path":"programming/CPP/00.reference.ko.md","slug":"programming/CPP/reference","locale":"ko","title":"참조(reference)와 포인터(pointer)","isHub":false,"order":"$undefined"},{"name":"01.member-access-operator.ko.md","type":"file","path":"programming/CPP/01.member-access-operator.ko.md","slug":"programming/CPP/member-access-operator","locale":"ko","title":"member access operator","isHub":false,"order":"$undefined"},{"name":"02.template.ko.md","type":"file","path":"programming/CPP/02.template.ko.md","slug":"programming/CPP/template","locale":"ko","title":"Template","isHub":false,"order":"$undefined"},{"name":"03.smart-pointer.ko.md","type":"file","path":"programming/CPP/03.smart-pointer.ko.md","slug":"programming/CPP/smart-pointer","locale":"ko","title":"스마트 포인터(std::unique_ptr / std::shared_ptr / std::weak_ptr)","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"DB","type":"folder","path":"programming/DB","children":[{"name":"MySQL","type":"folder","path":"programming/DB/MySQL","children":[{"name":"00.install.ko.md","type":"file","path":"programming/DB/MySQL/00.install.ko.md","slug":"programming/DB/MySQL/install","locale":"ko","title":"Mac MySQL 설치 및 실행","isHub":false,"order":"$undefined"},{"name":"01.sql-language.ko.md","type":"file","path":"programming/DB/MySQL/01.sql-language.ko.md","slug":"programming/DB/MySQL/sql-language","locale":"ko","title":"SQL 언어 카테고리","isHub":false,"order":"$undefined"},{"name":"02.user-management.ko.md","type":"file","path":"programming/DB/MySQL/02.user-management.ko.md","slug":"programming/DB/MySQL/user-management","locale":"ko","title":"MySQL 데이터베이스 및 사용자 관리","isHub":false,"order":"$undefined"},{"name":"03.table.ko.md","type":"file","path":"programming/DB/MySQL/03.table.ko.md","slug":"programming/DB/MySQL/table","locale":"ko","title":"MySQL 테이블 관리","isHub":false,"order":"$undefined"},{"name":"04.dml.ko.md","type":"file","path":"programming/DB/MySQL/04.dml.ko.md","slug":"programming/DB/MySQL/dml","locale":"ko","title":"MySQL 데이터 조작 (SELECT, INSERT, UPDATE, DELETE)","isHub":false,"order":"$undefined"},{"name":"05.operators.ko.md","type":"file","path":"programming/DB/MySQL/05.operators.ko.md","slug":"programming/DB/MySQL/operators","locale":"ko","title":"MySQL 연산자","isHub":false,"order":"$undefined"},{"name":"06.union.ko.md","type":"file","path":"programming/DB/MySQL/06.union.ko.md","slug":"programming/DB/MySQL/union","locale":"ko","title":"MySQL UNION","isHub":false,"order":"$undefined"},{"name":"07.join.ko.md","type":"file","path":"programming/DB/MySQL/07.join.ko.md","slug":"programming/DB/MySQL/join","locale":"ko","title":"MySQL JOIN","isHub":false,"order":"$undefined"},{"name":"08.result-control.ko.md","type":"file","path":"programming/DB/MySQL/08.result-control.ko.md","slug":"programming/DB/MySQL/result-control","locale":"ko","title":"MySQL 출력 결과 제어","isHub":false,"order":"$undefined"},{"name":"09.backup.ko.md","type":"file","path":"programming/DB/MySQL/09.backup.ko.md","slug":"programming/DB/MySQL/backup","locale":"ko","title":"MySQL mysqldump 백업 및 복원","isHub":false,"order":"$undefined"},{"name":"10.csv-to-db.ko.md","type":"file","path":"programming/DB/MySQL/10.csv-to-db.ko.md","slug":"programming/DB/MySQL/csv-to-db","locale":"ko","title":"csv into db with Python","isHub":false,"order":"$undefined"},{"name":"11.aggregate-func.ko.md","type":"file","path":"programming/DB/MySQL/11.aggregate-func.ko.md","slug":"programming/DB/MySQL/aggregate-func","locale":"ko","title":"MySQL Aggregate Functions & GROUP BY","isHub":false,"order":"$undefined"},{"name":"12.scalar-func.ko.md","type":"file","path":"programming/DB/MySQL/12.scalar-func.ko.md","slug":"programming/DB/MySQL/scalar-func","locale":"ko","title":"MySQL Scalar Functions Summary","isHub":false,"order":"$undefined"},{"name":"13.subquery.ko.md","type":"file","path":"programming/DB/MySQL/13.subquery.ko.md","slug":"programming/DB/MySQL/subquery","locale":"ko","title":"Subquery","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"functional-programming","type":"folder","path":"programming/functional-programming","children":[{"name":"00.basic.ko.md","type":"file","path":"programming/functional-programming/00.basic.ko.md","slug":"programming/functional-programming/basic","locale":"ko","title":"FP Workshop - 0. FP Basic","isHub":false,"order":"$undefined"},{"name":"01.functional-vs-imperative.ko.md","type":"file","path":"programming/functional-programming/01.functional-vs-imperative.ko.md","slug":"programming/functional-programming/functional-vs-imperative","locale":"ko","title":"FP Workshop - 1. Functional vs Imperative","isHub":false,"order":"$undefined"},{"name":"02.fxts.ko.md","type":"file","path":"programming/functional-programming/02.fxts.ko.md","slug":"programming/functional-programming/fxts","locale":"ko","title":"FP Workshop - 2. FxTs","isHub":false,"order":"$undefined"},{"name":"03.monad.ko.md","type":"file","path":"programming/functional-programming/03.monad.ko.md","slug":"programming/functional-programming/monad","locale":"ko","title":"FP Workshop - 3. Monad","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Python","type":"folder","path":"programming/Python","children":[{"name":"00.settings.ko.md","type":"file","path":"programming/Python/00.settings.ko.md","slug":"programming/Python/settings","locale":"ko","title":"Python 개발환경 설정","isHub":false,"order":"$undefined"},{"name":"01.number.ko.md","type":"file","path":"programming/Python/01.number.ko.md","slug":"programming/Python/number","locale":"ko","title":"Python 숫자형","isHub":false,"order":"$undefined"},{"name":"02.string.ko.md","type":"file","path":"programming/Python/02.string.ko.md","slug":"programming/Python/string","locale":"ko","title":"Python 문자열","isHub":false,"order":"$undefined"},{"name":"03.list.ko.md","type":"file","path":"programming/Python/03.list.ko.md","slug":"programming/Python/list","locale":"ko","title":"Python 리스트","isHub":false,"order":"$undefined"},{"name":"04.tuple.ko.md","type":"file","path":"programming/Python/04.tuple.ko.md","slug":"programming/Python/tuple","locale":"ko","title":"Python 튜플","isHub":false,"order":"$undefined"},{"name":"05.dict.ko.md","type":"file","path":"programming/Python/05.dict.ko.md","slug":"programming/Python/dict","locale":"ko","title":"Python 딕셔너리","isHub":false,"order":"$undefined"},{"name":"06.set.ko.md","type":"file","path":"programming/Python/06.set.ko.md","slug":"programming/Python/set","locale":"ko","title":"Python 집합","isHub":false,"order":"$undefined"},{"name":"07.bool.ko.md","type":"file","path":"programming/Python/07.bool.ko.md","slug":"programming/Python/bool","locale":"ko","title":"Python 불리언","isHub":false,"order":"$undefined"},{"name":"08.statement.ko.md","type":"file","path":"programming/Python/08.statement.ko.md","slug":"programming/Python/statement","locale":"ko","title":"Python 제어문","isHub":false,"order":"$undefined"},{"name":"09.function.ko.md","type":"file","path":"programming/Python/09.function.ko.md","slug":"programming/Python/function","locale":"ko","title":"Python 함수","isHub":false,"order":"$undefined"},{"name":"10.pythonic.ko.md","type":"file","path":"programming/Python/10.pythonic.ko.md","slug":"programming/Python/pythonic","locale":"ko","title":"Pythonic Code","isHub":false,"order":"$undefined"},{"name":"11.class.ko.md","type":"file","path":"programming/Python/11.class.ko.md","slug":"programming/Python/class","locale":"ko","title":"Python 클래스","isHub":false,"order":"$undefined"},{"name":"12.dataclass.ko.md","type":"file","path":"programming/Python/12.dataclass.ko.md","slug":"programming/Python/dataclass","locale":"ko","title":"Python 데이터클래스","isHub":false,"order":"$undefined"},{"name":"13.package.ko.md","type":"file","path":"programming/Python/13.package.ko.md","slug":"programming/Python/package","locale":"ko","title":"Python 패키지와 모듈","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"Robotics","type":"folder","path":"Robotics","children":[{"name":"Arduino","type":"folder","path":"Robotics/Arduino","children":[{"name":"00.arduino.ko.md","type":"file","path":"Robotics/Arduino/00.arduino.ko.md","slug":"Robotics/Arduino/arduino","locale":"ko","title":"Arduino 기본 지식","isHub":false,"order":"$undefined"},{"name":"01.switch.ko.md","type":"file","path":"Robotics/Arduino/01.switch.ko.md","slug":"Robotics/Arduino/switch","locale":"ko","title":"Arduino Switch","isHub":false,"order":"$undefined"},{"name":"02.serial.ko.md","type":"file","path":"Robotics/Arduino/02.serial.ko.md","slug":"Robotics/Arduino/serial","locale":"ko","title":"Arduino 시리얼로 입력값을 받기","isHub":false,"order":"$undefined"},{"name":"03.led.ko..md","type":"file","path":"Robotics/Arduino/03.led.ko..md","slug":"Robotics/Arduino/led.ko.","locale":"$undefined","title":"Arduino LED","isHub":false,"order":"$undefined"},{"name":"04.rfid.ko.md","type":"file","path":"Robotics/Arduino/04.rfid.ko.md","slug":"Robotics/Arduino/rfid","locale":"ko","title":"Arduino RFID","isHub":false,"order":"$undefined"},{"name":"05.arduino-llm.ko.md","type":"file","path":"Robotics/Arduino/05.arduino-llm.ko.md","slug":"Robotics/Arduino/arduino-llm","locale":"ko","title":"Arduino를 LLM으로 제어하기","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"introduction-to-robotics-craig","type":"folder","path":"Robotics/introduction-to-robotics-craig","children":[{"name":"00.craig-ch01-02-spatial-descriptions.ko.md","type":"file","path":"Robotics/introduction-to-robotics-craig/00.craig-ch01-02-spatial-descriptions.ko.md","slug":"Robotics/introduction-to-robotics-craig/craig-ch01-02-spatial-descriptions","locale":"ko","title":"Introduction to Robotics (Craig) - 1장 서론 · 2장 공간 기술과 변환","isHub":false,"order":"$undefined"}],"slug":"Robotics/introduction-to-robotics-craig","order":"$undefined"},{"name":"pinkrab","type":"folder","path":"Robotics/pinkrab","children":[{"name":"01.origin.ko.md","type":"file","path":"Robotics/pinkrab/01.origin.ko.md","slug":"Robotics/pinkrab/origin","locale":"ko","title":"Pinkrab - 게발의 시작","isHub":false,"order":"$undefined"}],"slug":"Robotics/pinkrab","order":"$undefined"},{"name":"ROS","type":"folder","path":"Robotics/ROS","children":[{"name":"concepts","type":"folder","path":"Robotics/ROS/concepts","children":[{"name":"01.nodes.ko.md","type":"file","path":"Robotics/ROS/concepts/01.nodes.ko.md","slug":"Robotics/ROS/concepts/nodes","locale":"ko","title":"basic - nodes","isHub":false,"order":"$undefined"},{"name":"02.interfaces.ko.md","type":"file","path":"Robotics/ROS/concepts/02.interfaces.ko.md","slug":"Robotics/ROS/concepts/interfaces","locale":"ko","title":"basic - interfaces","isHub":false,"order":"$undefined"},{"name":"03.topics.ko.md","type":"file","path":"Robotics/ROS/concepts/03.topics.ko.md","slug":"Robotics/ROS/concepts/topics","locale":"ko","title":"basic - topics","isHub":false,"order":"$undefined"},{"name":"04.services.ko.md","type":"file","path":"Robotics/ROS/concepts/04.services.ko.md","slug":"Robotics/ROS/concepts/services","locale":"ko","title":"basic - services","isHub":false,"order":"$undefined"},{"name":"05.actions.ko.md","type":"file","path":"Robotics/ROS/concepts/05.actions.ko.md","slug":"Robotics/ROS/concepts/actions","locale":"ko","title":"basic - actions","isHub":false,"order":"$undefined"},{"name":"06.parameters.ko.md","type":"file","path":"Robotics/ROS/concepts/06.parameters.ko.md","slug":"Robotics/ROS/concepts/parameters","locale":"ko","title":"basic - parameters","isHub":false,"order":"$undefined"},{"name":"07.launch.ko.md","type":"file","path":"Robotics/ROS/concepts/07.launch.ko.md","slug":"Robotics/ROS/concepts/launch","locale":"ko","title":"basic - launch","isHub":false,"order":"$undefined"},{"name":"08.rcl.ko.md","type":"file","path":"Robotics/ROS/concepts/08.rcl.ko.md","slug":"Robotics/ROS/concepts/rcl","locale":"ko","title":"basic - rcl","isHub":false,"order":"$undefined"},{"name":"09.ros_domain_id.ko.md","type":"file","path":"Robotics/ROS/concepts/09.ros_domain_id.ko.md","slug":"Robotics/ROS/concepts/ros_domain_id","locale":"ko","title":"intermediate - ROS_DOMAIN_ID","isHub":false,"order":"$undefined"},{"name":"10.middleware-vendors.ko.md","type":"file","path":"Robotics/ROS/concepts/10.middleware-vendors.ko.md","slug":"Robotics/ROS/concepts/middleware-vendors","locale":"ko","title":"intermediate - Different ROS 2 middleware vendors","isHub":false,"order":"$undefined"},{"name":"11.logging.ko.md","type":"file","path":"Robotics/ROS/concepts/11.logging.ko.md","slug":"Robotics/ROS/concepts/logging","locale":"ko","title":"intermediate - Logging and logger configuration","isHub":false,"order":"$undefined"},{"name":"12.qos.ko.md","type":"file","path":"Robotics/ROS/concepts/12.qos.ko.md","slug":"Robotics/ROS/concepts/qos","locale":"ko","title":"intermediate - Quality of Service settings","isHub":false,"order":"$undefined"},{"name":"13.executors.ko.md","type":"file","path":"Robotics/ROS/concepts/13.executors.ko.md","slug":"Robotics/ROS/concepts/executors","locale":"ko","title":"intermediate - executors","isHub":false,"order":"$undefined"},{"name":"14.topic-statistics.ko.md","type":"file","path":"Robotics/ROS/concepts/14.topic-statistics.ko.md","slug":"Robotics/ROS/concepts/topic-statistics","locale":"ko","title":"intermediate - topic statistics","isHub":false,"order":"$undefined"},{"name":"15.rqt.ko.md","type":"file","path":"Robotics/ROS/concepts/15.rqt.ko.md","slug":"Robotics/ROS/concepts/rqt","locale":"ko","title":"intermediate - rqt","isHub":false,"order":"$undefined"},{"name":"16.composition.ko.md","type":"file","path":"Robotics/ROS/concepts/16.composition.ko.md","slug":"Robotics/ROS/concepts/composition","locale":"ko","title":"intermediate - composition","isHub":false,"order":"$undefined"},{"name":"17.cross-compilation.ko.md","type":"file","path":"Robotics/ROS/concepts/17.cross-compilation.ko.md","slug":"Robotics/ROS/concepts/cross-compilation","locale":"ko","title":"intermediate - cross compilation","isHub":false,"order":"$undefined"},{"name":"18.ros2-security.ko.md","type":"file","path":"Robotics/ROS/concepts/18.ros2-security.ko.md","slug":"Robotics/ROS/concepts/ros2-security","locale":"ko","title":"intermediate - ros2 security","isHub":false,"order":"$undefined"},{"name":"19.tf2.ko.md","type":"file","path":"Robotics/ROS/concepts/19.tf2.ko.md","slug":"Robotics/ROS/concepts/tf2","locale":"ko","title":"intermediate - tf2","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.install.ko.md","type":"file","path":"Robotics/ROS/00.install.ko.md","slug":"Robotics/ROS/install","locale":"ko","title":"맥에서 ros2 설치하기","isHub":false,"order":"$undefined"},{"name":"01.pkg.ko.md","type":"file","path":"Robotics/ROS/01.pkg.ko.md","slug":"Robotics/ROS/pkg","locale":"ko","title":"workspace & package","isHub":false,"order":"$undefined"},{"name":"02.nav2.ko.md","type":"file","path":"Robotics/ROS/02.nav2.ko.md","slug":"Robotics/ROS/nav2","locale":"ko","title":"ROS2 Nav2","isHub":false,"order":"$undefined"},{"name":"03.behavior-tree.ko.md","type":"file","path":"Robotics/ROS/03.behavior-tree.ko.md","slug":"Robotics/ROS/behavior-tree","locale":"ko","title":"Behavior Tree 기본 개념","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"},{"name":"00.terms.ko..md","type":"file","path":"Robotics/00.terms.ko..md","slug":"Robotics/terms.ko.","locale":"$undefined","title":"용어정리","isHub":false,"order":"$undefined"},{"name":"01.gravity-compensation.ko.md","type":"file","path":"Robotics/01.gravity-compensation.ko.md","slug":"Robotics/gravity-compensation","locale":"ko","title":"중력보상 (Gravity Compensation)","isHub":false,"order":"$undefined"},{"name":"02.impedance-control.ko.md","type":"file","path":"Robotics/02.impedance-control.ko.md","slug":"Robotics/impedance-control","locale":"ko","title":"임피던스 제어와 무중력 모드 (Impedance Control & Zero-G)","isHub":false,"order":"$undefined"},{"name":"03.nvidia-isaac.ko.md","type":"file","path":"Robotics/03.nvidia-isaac.ko.md","slug":"Robotics/nvidia-isaac","locale":"ko","title":"NVIDIA Omniverse · Isaac Sim · Isaac Lab 입문","isHub":false,"order":"$undefined"}],"slug":"$undefined","order":"$undefined"}],"locale":"ko","className":"hidden w-64 shrink-0 lg:block"}],"$L13"]}]
+14:I[95228,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js"],"BlogContentTreeMobile"]
+13:["$","div",null,{"className":"lg:hidden","children":["$","$L14",null,{"tree":"$5:props:children:1:props:tree","locale":"ko"}]}]
+15:I[333052,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+16:I[728231,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"TooltipProvider"]
+17:I[663780,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js"],"default"]
+11:["$","$L15",null,{"formats":"$undefined","locale":"ko","messages":{"Breadcrumb":{"home":"Home","blog":"Blog"},"WorkProjects":{"badge":"Work Projects","title":"Professional Projects","description":"직장에서 또는 전문적으로 의뢰를 받아 작업한 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"PersonalProjects":{"badge":"Personal Projects","title":"Side Projects","description":"여가 시간에 만든 개인 프로젝트들","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다.","pageTitle":"개인 프로젝트"},"SchoolProjects":{"badge":"School Projects","title":"Academic Projects","description":"학업 과정 중 진행한 프로젝트입니다.","viewAll":"더 보기","noProjects":"아직 등록된 프로젝트가 없습니다."},"AboutEcole42":{"title":"Ecole42가 어떤 학교인가요?","description":"Ecole42는 프랑스 파리에 위치한 프로그래머 양성 교육기관으로, 수업과 교수가 없는 peer-to-peer 학습 방식을 채택하고 있습니다. C언어부터 AI의 기초까지 다양한 분야를 자율적으로 학습하며, 프로젝트 기반 교육을 통해 실무 능력을 기릅니다. 전 세계 다양한 국적의 학생들이 함께 공부하며 협업과 지식 공유를 중시하는 환경에서 학습합니다."},"Projects":{"pageTitle":"프로젝트","description":"프로젝트를 카테고리별로 확인할 수 있습니다."},"Hackathon":{"badge":"Hackathons","title":"Hackathons","description":"해커톤에서 진행한 프로젝트들입니다.","viewAll":"더 보기","noHackathons":"아직 등록된 해커톤이 없습니다.","pageTitle":"해커톤"}},"now":"$undefined","timeZone":"Asia/Seoul","children":["$","$L16",null,{"delayDuration":0,"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L17",null,{}]]}]}]
+18:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+6:["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L18",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L19"}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1a"}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1b"}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":"$L1c"}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - Learning Transferable Visual Models From Natural Language Supervision\",\"description\":\"인터넷에서 모은 이미지-텍스트 4억 쌍으로 이미지 부호기와 텍스트 부호기를 대조 학습해, 클래스 이름을 문장으로 적기만 하면 추가 학습 없이 분류기가 되는 CLIP을 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2103.00020v1/main-diagrams.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/pre-vla/clip\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L1d",["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision"}],["$","article",null,{"children":"$L1e"}],false,false,"$L1f"]}]}]
+20:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+21:T11e8d,
+## 들어가며
+
+[3편 ViT](/blog/paper-review/pre-vla/vit)는 이미지를 패치 토큰열로 바꿔 Transformer로 분류했습니다. 다만 학습 방식은 기존 이미지 분류와 같았습니다. ImageNet이나 JFT-300M처럼 사람이 정해 둔 클래스 목록이 있고, 모델은 그 목록 중 하나를 고르도록 학습합니다. 목록에 없는 개념을 인식하게 하려면 라벨을 새로 붙인 데이터를 모아 다시 학습해야 합니다.
+
+[2편 GPT-3](/blog/paper-review/pre-vla/gpt-3)은 자연어 처리에서 반대 방향의 결과를 보였습니다. 인터넷 텍스트를 그대로 학습한 언어 모델은 작업별 데이터 없이도 프롬프트만으로 여러 작업을 수행했습니다.
+
+**CLIP(Contrastive Language-Image Pre-training)** 은 이 방식을 이미지에 적용합니다. 인터넷에서 이미지와 그 이미지에 붙은 텍스트 4억 쌍을 모으고, 이미지 부호기와 텍스트 부호기가 "어떤 이미지와 어떤 텍스트가 한 쌍인지"를 맞히도록 함께 학습합니다. 학습이 끝나면 분류하고 싶은 클래스 이름을 문장으로 적어 텍스트 부호기에 넣기만 하면 분류기가 만들어집니다. 저자들은 이 방식으로 ImageNet 학습 이미지 128만 장을 한 장도 쓰지 않고 원래 ResNet-50과 같은 정확도를 냈습니다.
+
+📄 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) — Alec Radford, Jong Wook Kim (공동 1저자), Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever / OpenAI, ICML 2021
+
+코드와 사전학습 가중치는 [github.com/OpenAI/CLIP](https://github.com/OpenAI/CLIP)에 공개돼 있습니다. arxiv 식별자는 2103.00020이고, 이 글은 2021-02-26에 올라온 v1을 기준으로 합니다.
+
+### 초록 요약
+
+최신 컴퓨터 비전 시스템은 미리 정해 둔 고정된 물체 클래스만 예측하도록 학습합니다. 이런 지도 방식은 다른 시각 개념을 다루려면 라벨 데이터를 또 모아야 해서 범용성이 떨어집니다. 이미지에 딸린 텍스트에서 직접 배우면 훨씬 넓은 지도 신호를 쓸 수 있습니다. 저자들은 "어떤 캡션이 어떤 이미지와 짝인가"를 맞히는 단순한 사전학습 과제만으로, 인터넷에서 모은 (이미지, 텍스트) 4억 쌍에서 최고 수준의 이미지 표현을 처음부터 학습할 수 있다고 보입니다. 사전학습 뒤에는 자연어로 학습된 시각 개념을 가리키거나 새 개념을 설명해, 모델을 추가 학습 없이(zero-shot) 다른 작업에 옮겨 씁니다. 문자 인식(OCR), 영상 속 행동 인식, 촬영 위치 추정, 여러 세분류 작업을 포함한 30개가 넘는 데이터셋에서 평가했고, 대부분의 작업에서 데이터셋별 학습 없이 완전 지도 기준선과 견줄 만한 성능을 냈습니다.
+
+![그림 1 — CLIP 방법 요약](https://arxiv.org/html/2103.00020v1/main-diagrams.png)
+
+*그림 1 — (1) 이미지·텍스트 부호기의 대조 사전학습, (2) 클래스 이름으로 분류기 만들기, (3) zero-shot 예측.*
+
+위 그림은 CLIP의 학습과 사용을 세 단계로 보여줍니다. (1)에서는 배치 안의 이미지 $N$장과 텍스트 $N$개를 각각 부호기에 넣어 벡터를 얻고, $N \times N$ 격자에서 대각선 위치(실제 짝)의 유사도는 높이고 나머지는 낮춥니다. (2)에서는 분류할 클래스 이름을 "A photo of a {object}." 문장에 넣어 텍스트 부호기로 벡터를 만듭니다. (3)에서는 새 이미지의 벡터와 가장 유사한 클래스 문장 벡터를 골라 예측합니다. 기존 이미지 모델이 이미지 특징 추출기와 선형 분류기를 함께 학습했다면, CLIP은 이미지 부호기와 텍스트 부호기를 함께 학습하고 선형 분류기의 가중치를 텍스트 부호기가 만들어 냅니다.
+
+---
+
+## 1. 문제 — 고정 라벨로 학습한 비전 모델의 한계
+
+### 자연어 처리와 비전의 차이
+
+자연어 처리에서는 원시 텍스트로 사전학습하는 방법이 몇 년 사이 표준이 됐습니다. 자기회귀 언어 모델링과 마스크 언어 모델링 같은 작업 무관 목표는 계산량·모델 크기·데이터를 늘릴수록 성능이 계속 올랐습니다. 입력과 출력을 모두 텍스트로 통일하자 작업별 출력 층 없이 zero-shot 전이가 가능해졌고, GPT-3은 작업 전용 모델과 견줄 만한 수준까지 왔습니다.
+
+컴퓨터 비전에서는 여전히 ImageNet처럼 사람이 라벨을 붙인 데이터셋으로 사전학습하는 것이 표준이었습니다.
+
+### 텍스트로 이미지 표현을 배우던 기존 연구
+
+텍스트에서 이미지 표현을 배우려는 시도는 20년이 넘었지만 성능이 낮았습니다.
+
+| 기존 연구 | 방법 | 한계 |
+|-----------|------|------|
+| Mori et al. (1999) | 이미지에 딸린 문서의 명사·형용사를 예측해 이미지 검색 개선 | 초기 개념 검증 |
+| Joulin et al. (2016) | YFCC100M 이미지의 제목·설명·해시태그를 단어 가방(bag-of-words) 다중 라벨 분류로 학습 | ImageNet 사전학습과 비슷한 수준에 그침 |
+| Visual N-Grams (Li et al., 2017) | 구 단위 n-gram 사전으로 zero-shot 분류 | ImageNet zero-shot 정확도 11.5% |
+| VirTex · ICMLM · ConVIRT (2020) | Transformer 언어 모델링, 마스크 언어 모델링, 대조 목표로 텍스트에서 이미지 표현 학습 | 이미지 10만~20만 장, 가속기 수일 규모 |
+| Mahajan et al. (2018) | 인스타그램 이미지의 ImageNet 관련 해시태그 예측 | 클래스 1000개로 지도 신호를 좁힘 |
+| Kolesnikov et al. (2019) · Dosovitskiy et al. (2020) | 노이즈 섞인 JFT-300M 라벨 예측 | 클래스 18291개로 제한, 고정 소프트맥스 분류기 |
+
+Visual N-Grams의 11.5%는 당시 최고 성능 88.4%에 한참 못 미치고, 고전적인 컴퓨터 비전 방법의 50%보다도 낮습니다. 그래서 실제로는 해시태그나 JFT 라벨처럼 범위를 좁힌 약한 지도가 더 좋은 결과를 냈습니다.
+
+저자들은 이 절충안에 두 가지 문제가 있다고 봅니다. 첫째, 지도 신호를 1000개 또는 18291개 클래스로 미리 제한합니다. 자연어는 훨씬 넓은 시각 개념을 표현할 수 있습니다. 둘째, 고정된 소프트맥스(softmax) 분류기로 예측하므로 새 클래스를 출력할 방법이 없고, zero-shot 능력이 크게 제한됩니다.
+
+두 방향의 결정적인 차이는 규모였습니다. 해시태그·JFT 계열은 수백만~수십억 장을 가속기 수년 동안 학습했지만, 자연어 지도 계열은 10만~20만 장을 가속기 며칠 학습했습니다. CLIP은 이 규모 차이를 없애고 자연어 지도를 대규모로 학습했을 때의 결과를 확인합니다.
+
+---
+
+## 2. 데이터셋 — WIT 4억 쌍
+
+### 기존 데이터셋의 규모
+
+기존 연구는 주로 MS-COCO, Visual Genome, YFCC100M을 썼습니다.
+
+| 데이터셋 | 규모 | 문제 |
+|----------|------|------|
+| MS-COCO | 학습 사진 약 10만 장 | 사람이 라벨을 붙인 고품질 데이터지만 규모가 작음 |
+| Visual Genome | 학습 사진 약 10만 장 | 같음 |
+| YFCC100M | 사진 1억 장 | 메타데이터 품질이 낮음. 영어 제목·설명이 있는 이미지만 남기면 1500만 장으로 6분의 1이 되어 ImageNet과 비슷한 크기 |
+
+YFCC100M의 제목에는 `20160716_113957.JPG` 같은 자동 생성 파일명이나 카메라 노출 설정이 들어 있는 경우가 많습니다. 다른 비전 시스템은 인스타그램 사진 35억 장까지 학습에 쓰고 있었으므로, 기존 데이터셋만으로는 자연어 지도의 가능성을 과소평가하게 됩니다.
+
+### WIT 구성 방법
+
+저자들은 인터넷의 여러 공개 출처에서 (이미지, 텍스트) 4억 쌍을 새로 모았고, 이를 **WIT(WebImageText)** 라고 부릅니다.
+
+- **검색어 50만 개** — 텍스트에 이 검색어 중 하나가 들어간 쌍을 모아 시각 개념을 넓게 덮습니다.
+- **검색어 목록** — 영어 위키백과에 100번 이상 나온 단어 전체, 점별 상호정보량(pointwise mutual information)이 높은 두 단어 조합, 검색량이 일정 수준 이상인 위키백과 문서 제목, 목록에 없는 WordNet 동의어 집합을 합칩니다.
+- **클래스 균형** — 검색어 하나당 최대 2만 쌍까지만 넣어 대략 균형을 맞춥니다.
+
+전체 단어 수는 GPT-2 학습에 쓴 WebText 데이터셋과 비슷합니다.
+
+---
+
+## 3. 사전학습 방법 — 효율을 기준으로 한 선택
+
+### 계산 비용 문제
+
+최신 비전 모델은 계산량이 매우 컸습니다. ResNeXt101-32x48d는 GPU 19년, Noisy Student EfficientNet-L2는 TPUv3 코어 33년이 들었습니다. 두 모델 모두 ImageNet 클래스 1000개만 예측합니다. 자연어로 열린 시각 개념 집합을 배우려면 이보다 훨씬 효율적인 방법이 필요했고, 저자들은 zero-shot 전이 성능이 오르는 속도를 기준으로 사전학습 방법을 골랐습니다.
+
+![그림 2 — 사전학습 목표별 효율](https://arxiv.org/html/2103.00020v1/efficiency-ablation.svg)
+
+*그림 2 — 같은 이미지 수를 학습했을 때 ImageNet zero-shot 정확도: 캡션 예측 < 단어 가방 예측 < 대조 학습.*
+
+### 세 가지 목표 비교
+
+| 사전학습 목표 | 예측 대상 | ImageNet zero-shot 학습 속도 |
+|--------------|----------|---------------------------|
+| Transformer 언어 모델 (VirTex와 비슷) | 캡션의 단어를 순서대로 정확히 생성 | 기준 |
+| 단어 가방 예측 (Joulin et al., 2016) | 캡션에 들어 있는 단어 집합 | 언어 모델보다 3배 빠름 |
+| 단어 가방 + 대조 목표 | 배치 안에서 어떤 텍스트 전체가 이 이미지의 짝인지 | 단어 가방 예측보다 다시 4배 빠름 |
+
+처음 시도한 방식은 VirTex처럼 이미지 CNN과 텍스트 Transformer를 처음부터 함께 학습해 캡션을 생성하는 것이었습니다. 하지만 파라미터 6300만 개짜리 Transformer 언어 모델은 이미지 부호기인 ResNet-50보다 이미 계산량이 2배인데도, 같은 텍스트의 단어 가방을 예측하는 단순한 기준선보다 ImageNet 클래스를 3배 느리게 배웠습니다.
+
+두 방식은 모두 이미지에 딸린 텍스트의 **정확한 단어**를 예측하려 합니다. 같은 이미지에도 설명·댓글·관련 텍스트가 매우 다양하게 붙기 때문에 어려운 과제입니다. 이미지 대조 표현 학습 연구에서는 대조 목표가 같은 조건의 예측 목표보다 표현을 더 잘 배우고, 생성 모델은 같은 성능에 10배 넘는 계산이 든다는 결과가 나와 있었습니다. 저자들은 단어를 맞히는 대신 **텍스트 전체가 어떤 이미지와 짝인지만** 맞히는 쉬운 대리 과제로 바꿨고, 효율이 4배 더 올랐습니다.
+
+---
+
+## 4. 대조 학습 목표
+
+### 배치 단위 짝 예측
+
+(이미지, 텍스트) $N$쌍이 들어 있는 배치가 주어지면, CLIP은 $N \times N$가지 가능한 조합 중 실제로 존재한 짝이 무엇인지 예측합니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "img",  "label": "이미지 N장", "row": 0},
+    {"id": "txt",  "label": "텍스트 N개", "row": 0},
+    {"id": "ienc", "label": "이미지 부호기", "sub": "ResNet 또는 ViT", "color": "blue", "row": 1},
+    {"id": "tenc", "label": "텍스트 부호기", "sub": "Transformer", "color": "blue", "row": 1},
+    {"id": "iproj","label": "선형 투영 + L2 정규화", "sub": "이미지 임베딩 I_e", "row": 2},
+    {"id": "tproj","label": "선형 투영 + L2 정규화", "sub": "텍스트 임베딩 T_e", "row": 2},
+    {"id": "sim",  "label": "N × N 코사인 유사도", "sub": "× exp(t) 온도 스케일", "color": "orange", "row": 3},
+    {"id": "loss", "label": "대칭 교차 엔트로피", "sub": "행 방향 + 열 방향 평균", "color": "green", "row": 4}
+  ],
+  "edges": [
+    {"from": "img",   "to": "ienc"},
+    {"from": "txt",   "to": "tenc"},
+    {"from": "ienc",  "to": "iproj"},
+    {"from": "tenc",  "to": "tproj"},
+    {"from": "iproj", "to": "sim"},
+    {"from": "tproj", "to": "sim"},
+    {"from": "sim",   "to": "loss", "label": "정답 = 대각선"}
+  ],
+  "height": 480
+}
+```
+
+두 부호기는 공통 다중 모달 임베딩 공간(multi-modal embedding space)을 함께 학습합니다. 실제 짝 $N$개의 이미지 임베딩과 텍스트 임베딩 사이 코사인 유사도(cosine similarity)는 최대화하고, 잘못된 조합 $N^2 - N$개의 코사인 유사도는 최소화합니다. 손실은 이 유사도 점수에 대한 대칭 교차 엔트로피(symmetric cross entropy)입니다.
+
+$i$번째 이미지 임베딩을 $I_i$, $j$번째 텍스트 임베딩을 $T_j$(둘 다 L2 정규화), 온도(temperature)를 $\tau$라고 하면 식은 다음과 같습니다.
+
+$$
+\mathcal{L}_{\text{image}} = -\frac{1}{N}\sum_{i=1}^{N}\log\frac{\exp(I_i \cdot T_i / \tau)}{\sum_{j=1}^{N}\exp(I_i \cdot T_j / \tau)}, \qquad
+\mathcal{L}_{\text{text}} = -\frac{1}{N}\sum_{j=1}^{N}\log\frac{\exp(I_j \cdot T_j / \tau)}{\sum_{i=1}^{N}\exp(I_i \cdot T_j / \tau)}
+$$
+
+$$
+\mathcal{L} = \frac{\mathcal{L}_{\text{image}} + \mathcal{L}_{\text{text}}}{2}
+$$
+
+$\mathcal{L}_{\text{image}}$는 이미지 하나를 기준으로 텍스트 $N$개 중 짝을 고르는 분류 손실이고, $\mathcal{L}_{\text{text}}$는 텍스트 하나를 기준으로 이미지 $N$개 중 짝을 고르는 분류 손실입니다. 이 식은 논문의 의사코드를 수식으로 옮긴 것입니다.
+
+이 배치 구성과 목표는 거리 학습(deep metric learning)의 다중 클래스 N-pair 손실(Sohn, 2016)에서 처음 나왔고, 대조 표현 학습에서 InfoNCE 손실(Oord et al., 2018)로 널리 쓰였으며, 의료 영상 분야에서 ConVIRT(Zhang et al., 2020)가 (텍스트, 이미지) 표현 학습에 적용했습니다.
+
+### 의사코드
+
+![그림 3 — CLIP 핵심 구현 의사코드](https://arxiv.org/html/2103.00020v1/pseudocode.svg)
+
+*그림 3 — NumPy 형태로 쓴 CLIP 핵심 구현 의사코드입니다.*
+
+그림 속 코드를 그대로 옮기면 다음과 같습니다.
+
+```python
+# image_encoder - ResNet or Vision Transformer
+# text_encoder - CBOW or Text Transformer
+# I[n, h, w, c] - minibatch of aligned images
+# T[n, l]       - minibatch of aligned texts
+# W_i[d_i, d_e] - learned proj of image to embed
+# W_t[d_t, d_e] - learned proj of text to embed
+# t             - learned temperature parameter
+
+# extract feature representations of each modality
+I_f = image_encoder(I) #[n, d_i]
+T_f = text_encoder(T) #[n, d_t]
+
+# joint multimodal embedding [n, d_e]
+I_e = l2_normalize(np.dot(I_f, W_i), axis=1)
+T_e = l2_normalize(np.dot(T_f, W_t), axis=1)
+
+# scaled pairwise cosine similarities [n, n]
+logits = np.dot(I_e, T_e.T) * np.exp(t)
+
+# symmetric loss function
+labels = np.arange(n)
+loss_i = cross_entropy_loss(logits, labels, axis=0)
+loss_t = cross_entropy_loss(logits, labels, axis=1)
+loss   = (loss_i + loss_t)/2
+```
+
+`labels = np.arange(n)`은 $i$번째 이미지의 정답이 $i$번째 텍스트라는 뜻입니다. 로짓 행렬의 대각선이 정답입니다.
+
+### ConVIRT에서 단순화한 부분
+
+사전학습 데이터가 매우 크기 때문에 과적합은 큰 걱정거리가 아니었고, 저자들은 ConVIRT 구현을 여러 곳에서 단순화했습니다.
+
+| 항목 | CLIP의 선택 |
+|------|------------|
+| 가중치 초기화 | 이미지 부호기에 ImageNet 가중치, 텍스트 부호기에 사전학습 가중치를 쓰지 않고 처음부터 학습 |
+| 임베딩 공간 투영 | 비선형 투영 대신 선형 투영만 사용 (두 방식의 학습 효율 차이는 관찰되지 않음) |
+| 텍스트 변환 $t_u$ | 제거. 텍스트에서 문장 하나를 무작위로 뽑는 과정인데, WIT의 텍스트는 한 문장인 경우가 많음 |
+| 이미지 변환 $t_v$ | 크기를 조정한 이미지에서 무작위 정사각형 자르기만 사용 |
+| 온도 $\tau$ | 조절값으로 두지 않고 로그 형태의 곱셈 스칼라로 학습 중 직접 최적화 |
+
+---
+
+## 5. 모델 구조와 학습
+
+### 이미지 부호기 두 종류
+
+| 계열 | 기본 구조 | CLIP에서 바꾼 부분 |
+|------|----------|------------------|
+| ResNet | ResNet-50 | ResNet-D 개선, antialiased rect-2 blur pooling 적용. 전역 평균 풀링을 **주의 풀링(attention pooling)** 으로 교체 |
+| Vision Transformer | ViT (3편) | 패치 임베딩과 위치 임베딩을 합친 뒤 Transformer에 넣기 전에 층 정규화를 하나 추가, 초기화 방식 소폭 변경 |
+
+주의 풀링은 Transformer 방식의 다중 헤드 QKV 주의 한 층입니다. 질의(query)는 이미지 전체를 평균 풀링한 표현에서 만들고, 키와 값은 공간 위치별 특징에서 만듭니다. 1편의 주의 계산을 풀링 층으로 쓴 형태입니다.
+
+### 텍스트 부호기
+
+텍스트 부호기는 GPT-2(Radford et al., 2019)의 구조 변경을 적용한 Transformer입니다.
+
+| 항목 | 값 |
+|------|-----|
+| 기본 크기 | 파라미터 6300만 개, 12층, 너비 512, 주의 헤드 8개 |
+| 토큰화 | 소문자로 바꾼 바이트 쌍 부호화(byte pair encoding, BPE) |
+| 최대 시퀀스 길이 | 76 |
+| 시퀀스 경계 | 앞뒤에 `[SOS]`, `[EOS]` 토큰 |
+| 텍스트 표현 | 최상위 층의 `[EOS]` 위치 활성값을 층 정규화한 뒤 임베딩 공간으로 선형 투영 |
+| 주의 방식 | 마스크 self-attention (사전학습 언어 모델로 초기화하거나 언어 모델링을 보조 목표로 추가할 여지를 남기기 위함) |
+
+어휘 크기는 본문 2.4절에 49,152로, 부록 표 18에 49,408로 적혀 있습니다. 공개 코드의 토크나이저 어휘 크기가 49,408이므로 이 글은 표 18의 값을 따릅니다.
+
+### 규모 확장 방식
+
+ResNet 이미지 부호기는 EfficientNet(Tan & Le, 2019)의 결론을 따라 너비·깊이·해상도에 계산을 나눠 늘립니다. EfficientNet은 세 방향의 비율을 조정했지만, CLIP은 세 방향에 계산을 똑같이 나누는 단순한 기준을 씁니다. 텍스트 부호기는 ResNet 너비가 늘어난 비율만큼 너비만 늘리고 깊이는 그대로 둡니다. CLIP 성능이 텍스트 부호기 용량에는 덜 민감했기 때문입니다.
+
+### 학습한 모델 8개
+
+ResNet 5개와 Vision Transformer 3개를 학습했습니다. RN50x4, RN50x16, RN50x64는 ResNet-50 대비 계산량이 대략 4배, 16배, 64배입니다.
+
+| 모델 | 학습률 | 임베딩 차원 | 입력 해상도 | ResNet 블록 | ResNet 너비 | 텍스트 층 | 텍스트 너비 | 텍스트 헤드 |
+|------|--------|-----------|-----------|------------|-----------|---------|----------|----------|
+| RN50 | $5 \times 10^{-4}$ | 1024 | 224 | (3, 4, 6, 3) | 2048 | 12 | 512 | 8 |
+| RN101 | $5 \times 10^{-4}$ | 512 | 224 | (3, 4, 23, 3) | 2048 | 12 | 512 | 8 |
+| RN50x4 | $5 \times 10^{-4}$ | 640 | 288 | (4, 6, 10, 6) | 2560 | 12 | 640 | 10 |
+| RN50x16 | $4 \times 10^{-4}$ | 768 | 384 | (6, 8, 18, 8) | 3072 | 12 | 768 | 12 |
+| RN50x64 | $3.6 \times 10^{-4}$ | 1024 | 448 | (3, 15, 36, 10) | 4096 | 12 | 1024 | 16 |
+
+| 모델 | 학습률 | 임베딩 차원 | 입력 해상도 | ViT 층 | ViT 너비 | ViT 헤드 | 텍스트 층 | 텍스트 너비 | 텍스트 헤드 |
+|------|--------|-----------|-----------|-------|---------|--------|---------|----------|----------|
+| ViT-B/32 | $5 \times 10^{-4}$ | 512 | 224 | 12 | 768 | 12 | 12 | 512 | 8 |
+| ViT-B/16 | $5 \times 10^{-4}$ | 512 | 224 | 12 | 768 | 12 | 12 | 512 | 8 |
+| ViT-L/14 | $4 \times 10^{-4}$ | 768 | 224 | 24 | 1024 | 16 | 12 | 768 | 12 |
+| ViT-L/14-336px | $2 \times 10^{-5}$ | 768 | 336 | 24 | 1024 | 16 | 12 | 768 | 12 |
+
+*표 19·20 — 모델별 조절값 (부록 F).*
+
+### 학습 설정
+
+| 항목 | 값 |
+|------|-----|
+| 에폭 | 32 |
+| 배치 크기 | 32,768 |
+| 최적화 | Adam + 분리된 가중치 감쇠(decoupled weight decay), 이득·편향 제외 전체 가중치에 적용 |
+| 가중치 감쇠 | 0.2 |
+| 워밍업 반복 | 2000 |
+| Adam $\beta_1$ / $\beta_2$ | 0.9 / 0.999 (ResNet), 0.98 (ViT) |
+| Adam $\epsilon$ | $10^{-8}$ (ResNet), $10^{-6}$ (ViT) |
+| 학습률 일정 | 코사인 감쇠 |
+| 온도 $\tau$ 초기값 | 0.07에 해당하는 값, 로짓 배율이 100을 넘지 않도록 잘라냄 (학습 불안정 방지) |
+| 메모리·속도 | 혼합 정밀도, 경사 체크포인팅, 반정밀도 Adam 통계, 텍스트 부호기 가중치 반정밀도 확률적 반올림 |
+| 유사도 계산 분산 | GPU마다 자기 배치 임베딩에 필요한 쌍 유사도만 계산 |
+
+*표 18 — CLIP 공통 조절값 (부록 F)과 2.5절 학습 설정.*
+
+가장 큰 ResNet인 RN50x64는 V100 GPU 592개로 18일, 가장 큰 Vision Transformer는 V100 GPU 256개로 12일이 걸렸습니다. ViT-L/14는 FixRes처럼 336 픽셀 해상도로 1에폭을 더 사전학습해 성능을 올렸고, 이 모델을 ViT-L/14@336px라고 부릅니다. 논문에서 따로 밝히지 않은 "CLIP" 결과는 모두 이 모델입니다.
+
+---
+
+## 6. zero-shot 분류 방법
+
+### zero-shot의 의미
+
+컴퓨터 비전에서 zero-shot 학습은 보통 이미지 분류에서 본 적 없는 물체 클래스로 일반화하는 연구를 가리킵니다. 저자들은 이 말을 더 넓게 써서 **본 적 없는 데이터셋으로의 일반화**를 zero-shot 전이라고 부릅니다. 표현 학습 능력이 아니라 작업 학습 능력을 재는 방법으로 보는 것입니다.
+
+데이터셋마다 재는 대상의 성격은 다릅니다. SVHN은 구글 스트리트 뷰 사진에서 번지수를 읽는 작업을 잽니다. CIFAR-10이 재는 실제 작업은 분명하지 않지만, 데이터를 뽑은 분포는 TinyImages로 분명합니다. 이런 데이터셋에서 zero-shot 전이는 작업 일반화보다 분포 이동에 대한 강건성을 재는 쪽에 가깝습니다.
+
+### 텍스트 부호기 기반 분류기 생성
+
+```flow
+{
+  "nodes": [
+    {"id": "names", "label": "클래스 이름 목록", "sub": "plane · car · dog · ... · bird", "row": 0},
+    {"id": "tmpl",  "label": "프롬프트 템플릿", "sub": "A photo of a {label}.", "row": 1},
+    {"id": "tenc",  "label": "텍스트 부호기", "sub": "클래스당 임베딩 1개", "color": "blue", "row": 2},
+    {"id": "cache", "label": "zero-shot 분류기 가중치", "sub": "한 번 계산해 저장", "color": "orange", "row": 3},
+    {"id": "img",   "label": "새 이미지", "row": 2},
+    {"id": "ienc",  "label": "이미지 부호기", "color": "blue", "row": 3},
+    {"id": "soft",  "label": "코사인 유사도 × 온도 → 소프트맥스", "color": "green", "row": 4},
+    {"id": "pred",  "label": "가장 확률 높은 클래스", "row": 5}
+  ],
+  "edges": [
+    {"from": "names", "to": "tmpl"},
+    {"from": "tmpl",  "to": "tenc"},
+    {"from": "tenc",  "to": "cache"},
+    {"from": "img",   "to": "ienc"},
+    {"from": "cache", "to": "soft"},
+    {"from": "ienc",  "to": "soft"},
+    {"from": "soft",  "to": "pred"}
+  ],
+  "height": 560
+}
+```
+
+CLIP은 이미지와 텍스트 조각이 한 쌍인지 예측하도록 사전학습됐고, zero-shot 분류는 이 능력을 그대로 씁니다. 데이터셋의 모든 클래스 이름을 후보 텍스트로 두고, 이미지 임베딩과 각 후보 텍스트 임베딩의 코사인 유사도를 계산해 온도로 스케일한 뒤 소프트맥스로 확률을 만듭니다.
+
+이 예측 층은 입력과 가중치가 모두 L2 정규화되고, 편향이 없으며, 온도 스케일을 쓰는 다항 로지스틱 회귀 분류기입니다. 이렇게 보면 이미지 부호기는 이미지 특징을 계산하는 컴퓨터 비전 백본(backbone)이고, 텍스트 부호기는 클래스를 설명하는 텍스트를 받아 선형 분류기의 가중치를 만들어 내는 하이퍼네트워크(hypernetwork)입니다.
+
+같은 관점에서 CLIP 사전학습의 매 단계는 클래스당 예시 1개, 전체 클래스 32,768개를 자연어로 정의한 무작위 컴퓨터 비전 데이터셋을 푸는 것과 같습니다. 평가할 때는 텍스트 부호기가 만든 분류기를 한 번 계산해 저장하고 이후 모든 예측에 재사용하므로, 분류기를 만드는 비용은 데이터셋 전체 예측에 나뉩니다.
+
+### Visual N-Grams와의 비교
+
+| 모델 | aYahoo | ImageNet | SUN |
+|------|--------|----------|-----|
+| Visual N-Grams | 72.4 | 11.5 | 23.0 |
+| **CLIP** | **98.4** | **76.2** | **58.5** |
+
+*표 1 — 기존 zero-shot 이미지 분류 결과와의 비교 (정확도 %).*
+
+가장 좋은 CLIP 모델은 ImageNet zero-shot 정확도를 11.5%에서 76.2%로 올렸고, 이 데이터셋의 사람 라벨 학습 예시 128만 장을 하나도 쓰지 않고 원래 ResNet-50과 같은 성능을 냈습니다. top-5 정확도는 95%로 Inception-V4와 같습니다. aYahoo에서는 오류 수가 95% 줄었고, SUN에서는 정확도가 두 배 이상입니다.
+
+저자들은 이 비교가 방법끼리의 직접 비교가 아니라고 강조합니다. CLIP은 10배 큰 데이터셋, 예측당 계산이 100배 가까이 많은 비전 모델, 1000배가 넘을 것으로 보이는 학습 계산을 썼고, Visual N-Grams 발표 당시에는 없던 Transformer를 씁니다. 더 가까운 비교로 Visual N-Grams와 같은 YFCC100M에서 CLIP ResNet-50을 학습하자 V100 GPU 하루 안에 그들이 보고한 ImageNet 성능에 도달했습니다. 이 기준선은 ImageNet 가중치로 초기화하지 않고 처음부터 학습했습니다.
+
+이후 평가는 Visual N-Grams의 데이터셋 3개에서 30개가 넘는 데이터셋으로, 비교 대상은 기존 컴퓨터 비전 시스템 50개가 넘는 규모로 넓힙니다.
+
+### 프롬프트 설계와 앙상블
+
+![그림 4 — 프롬프트 설계와 앙상블의 효과](https://arxiv.org/html/2103.00020v1/prompt-engineering.svg)
+
+*그림 4 — 클래스 이름만 쓸 때보다 프롬프트 설계와 앙상블이 36개 데이터셋 평균 zero-shot 성능을 약 5포인트 올립니다.*
+
+대부분의 이미지 분류 데이터셋은 라벨을 숫자 id로 저장하고 영어 이름 매핑 파일을 따로 둡니다. 클래스 이름은 zero-shot 전이를 고려하지 않고 정해진 경우가 많고, Flowers102와 GTSRB는 공개판에 매핑 자체가 없어 zero-shot 전이가 불가능했습니다.
+
+클래스 이름만 텍스트 부호기에 넣으면 생기는 문제는 두 가지입니다.
+
+- **다의어(polysemy)** — 문맥이 없으면 어떤 뜻인지 구분하지 못합니다. ImageNet에는 건설용 크레인(crane)과 새 두루미(crane)가 서로 다른 클래스로 들어 있습니다. Oxford-IIIT Pet의 boxer는 개 품종이지만 텍스트 부호기 입장에서는 권투 선수일 수도 있습니다.
+- **학습 분포와의 차이** — WIT에서 이미지에 붙은 텍스트가 단어 하나인 경우는 드뭅니다. 보통은 이미지를 설명하는 완전한 문장입니다.
+
+저자들은 기본 템플릿으로 `"A photo of a {label}."`을 씁니다. 이 프롬프트만으로 ImageNet 정확도가 1.3% 오릅니다. 작업에 맞춰 프롬프트를 바꾸면 더 오릅니다.
+
+| 데이터셋 종류 | 프롬프트 조정 |
+|--------------|-------------|
+| Oxford-IIIT Pets | `"A photo of a {label}, a type of pet."` |
+| Food101, FGVC Aircraft | 음식 종류, 항공기 종류라고 명시 |
+| OCR 데이터셋 | 인식할 텍스트나 숫자를 따옴표로 감쌈 |
+| 위성 이미지 데이터셋 | `"a satellite photo of a {label}."` 변형 |
+
+여러 zero-shot 분류기를 앙상블(ensemble)해도 성능이 오릅니다. `"A photo of a big {label}"`, `"A photo of a small {label}"`처럼 문맥이 다른 프롬프트로 분류기를 여러 개 만들고, 확률이 아니라 **임베딩 공간에서 평균**을 냅니다. 평균 텍스트 임베딩 하나만 저장하면 되므로 예측 비용은 분류기 하나와 같습니다. ImageNet에서는 프롬프트 80개를 앙상블해 기본 프롬프트 하나보다 3.5% 더 올렸고, 프롬프트 설계와 앙상블을 합치면 ImageNet 정확도가 약 5% 오릅니다.
+
+그림 4에서 이 향상은 기존 zero-shot 방식에서 계산량을 4배 늘린 것과 비슷한 크기입니다. 예측이 많아지면 추가 비용이 거의 없습니다.
+
+---
+
+## 7. zero-shot 성능 분석
+
+### 완전 지도 선형 분류기와의 비교
+
+![그림 5 — zero-shot CLIP과 ResNet-50 선형 분류기 비교](https://arxiv.org/html/2103.00020v1/zs-clip-vs-rn50.svg)
+
+*그림 5 — 27개 데이터셋 중 16개에서 zero-shot CLIP이 ResNet-50 특징 위 완전 지도 로지스틱 회귀보다 높습니다.*
+
+비교 기준선은 표준 ResNet-50 특징 위에 완전 지도·정규화 로지스틱 회귀 분류기를 학습한 것입니다. zero-shot CLIP은 27개 데이터셋 중 ImageNet을 포함한 16개에서 이깁니다.
+
+| 데이터셋 묶음 | 결과 |
+|--------------|------|
+| 세분류 — Stanford Cars, Food101 | zero-shot CLIP이 20% 넘게 높음 |
+| 세분류 — Flowers102, FGVCAircraft | zero-shot CLIP이 10% 넘게 낮음 |
+| 세분류 — OxfordPets, Birdsnap | 비슷함 |
+| 일반 물체 — ImageNet, CIFAR10/100, STL10, PascalVOC2007 | 비슷하며 모두 zero-shot CLIP이 조금 높음. STL10 99.3%는 학습 예시 없이 최고 기록으로 보임 |
+| 영상 행동 인식 — Kinetics700 | ResNet-50보다 14.5% 높음 |
+| 영상 행동 인식 — UCF101 | ResNet-50 특징보다 7.7% 높음 |
+| 위성 이미지(EuroSAT, RESISC45), 림프절 종양(PatchCamelyon), 합성 장면 물체 세기(CLEVRCounts), 독일 교통 표지판(GTSRB), 가장 가까운 차까지 거리(KITTI Distance) | 약함 |
+
+세분류 결과의 편차는 WIT와 ImageNet이 작업마다 담고 있는 지도 신호의 양이 다르기 때문이라고 저자들은 추정합니다. 행동 인식에서 강한 이유는 ImageNet이 명사 중심인 데 비해 자연어는 동사가 들어간 시각 개념까지 지도하기 때문이라고 봅니다. 물체 세기, 위성 이미지 분류, 교통 표지판 인식은 비전문가인 사람도 잘하는 작업이라 개선 여지가 큽니다. 다만 림프절 종양 분류처럼 학습자가 사전 경험이 전혀 없는 어려운 작업에서 few-shot이 아닌 zero-shot으로 재는 것이 의미 있는 평가인지는 분명하지 않다고 덧붙입니다.
+
+### few-shot 선형 탐사와의 비교
+
+![그림 6 — zero-shot CLIP과 few-shot 선형 탐사](https://arxiv.org/html/2103.00020v1/zs-clip-vs-fewshot.svg)
+
+*그림 6 — zero-shot CLIP은 같은 특징 공간의 4-shot 선형 분류기 평균 성능과 같고, 공개 모델 중 최고 16-shot 결과에 거의 닿습니다.*
+
+zero-shot은 few-shot의 극한이므로 few-shot과의 비교가 더 직접적입니다. 여러 이미지 모델 특징 위에 클래스당 예시 몇 개로 로지스틱 회귀를 학습한 선형 탐사(linear probe)와 비교했습니다. 클래스당 예시가 16개 이상인 데이터셋 20개를 썼습니다.
+
+직관적으로는 zero-shot이 one-shot보다 낮아야 하지만, zero-shot CLIP은 같은 특징 공간의 **4-shot** 로지스틱 회귀와 성능이 같습니다. 저자들은 원인을 두 방식의 차이에서 찾습니다. CLIP의 zero-shot 분류기는 자연어로 시각 개념을 직접 지정합니다. 반면 일반 지도 학습은 학습 예시에서 개념을 간접적으로 추론해야 하고, 예시 하나에는 여러 시각 개념이 함께 들어 있어 여러 가설이 모두 데이터와 맞을 수 있습니다. 특히 one-shot에서 그렇습니다.
+
+zero-shot 분류기를 few-shot 분류기 가중치의 사전 분포로 쓰는 방법도 시도했습니다. 생성된 가중치 쪽으로 L2 벌점을 거는 구현이었는데, 조절값 최적화가 이 정규화 값을 너무 크게 골라 결국 zero-shot 분류기와 같은 분류기가 나왔습니다.
+
+다른 모델과 비교하면 zero-shot CLIP은 평가 모음에서 가장 좋은 16-shot 분류기, 즉 ImageNet-21K로 학습한 BiT-M ResNet-152x2 특징 위의 분류기와 비슷합니다. JFT-300M으로 학습한 BiT-L은 더 좋겠지만 공개되지 않았습니다. 8장에서 보듯 완전 지도 설정에서는 Noisy Student EfficientNet-L2가 27개 데이터셋 평균으로 BiT-M보다 5% 가까이 높은데, 16-shot에서는 BiT-M ResNet-152x2가 가장 좋다는 점도 눈에 띄는 결과입니다.
+
+### zero-shot의 데이터 효율
+
+![그림 7 — 데이터셋별 zero-shot 데이터 효율](https://arxiv.org/html/2103.00020v1/zs-clip-data-efficiency.svg)
+
+*그림 7 — 같은 CLIP 특징 공간의 선형 분류기가 zero-shot 성능에 도달하려면 클래스당 라벨 예시가 몇 개 필요한지 추정한 값입니다.*
+
+zero-shot CLIP도 선형 분류기이므로, 같은 특징 공간 위 로지스틱 회귀가 zero-shot 성능에 도달하는 데 필요한 클래스당 라벨 수를 zero-shot의 실효 데이터 효율로 볼 수 있습니다. 선형 분류기 수천 개를 학습하지 않기 위해 1, 2, 4, 8, 16-shot(가능한 경우)과 완전 지도 결과를 로그-선형 보간해 추정했습니다.
+
+| 항목 | 값 |
+|------|-----|
+| 범위 | 클래스당 1개 미만 ~ 184개 |
+| one-shot보다 낮은 데이터셋 | Flowers102, EuroSAT |
+| 중앙값 | 5.4개 (데이터셋 절반이 5개 미만) |
+| 평균 | 20.8개 (많은 라벨이 필요한 20% 데이터셋 때문) |
+| ImageNet | 16-shot 선형 분류기와 같음 |
+
+### 선형 탐사 성능과의 관계
+
+![그림 8 — zero-shot 성능과 선형 탐사 성능의 상관](https://arxiv.org/html/2103.00020v1/zs-vs-linear-clip.svg)
+
+*그림 8 — 두 성능은 강하게 상관하지만 zero-shot이 대부분 10~25포인트 낮습니다.*
+
+평가 데이터셋이 충분히 크다면 완전 지도 선형 분류기 성능은 zero-shot 전이가 도달할 수 있는 대략적인 상한입니다. 점선 $y=x$는 완전 지도 분류기와 같은 성능을 내는 이상적인 zero-shot 분류기입니다. 대부분의 데이터셋에서 zero-shot 분류기는 완전 지도 분류기보다 10%에서 25% 낮고, 3포인트 이내로 가까운 데이터셋은 5개뿐입니다.
+
+zero-shot 성능과 완전 지도 성능 사이 상관계수는 0.82(p값 $<10^{-6}$)입니다. CLIP이 기반 표현 학습과 작업 학습을 비교적 일관되게 연결한다는 뜻입니다. zero-shot 성능이 완전 지도 성능에 가까운 5개 데이터셋은 STL10, CIFAR10, Food101, OxfordPets, Caltech101로, 모두 두 성능이 90%를 넘습니다. 기반 표현의 품질이 높은 작업일수록 zero-shot 전이가 효과적일 수 있습니다. 선형 회귀로 보면 완전 지도 성능이 1% 오를 때 zero-shot 성능은 1.28% 오릅니다. 다만 95% 신뢰구간이 1 미만의 값(0.93~1.79)도 포함합니다.
+
+### 계산량에 따른 zero-shot 성능
+
+![그림 9 — 모델 계산량과 zero-shot 오류율](https://arxiv.org/html/2103.00020v1/zs-scaling.svg)
+
+*그림 9 — 36개 데이터셋 39개 평가의 평균 zero-shot 오류율이 계산량 44배 범위에서 로그-로그 직선을 따릅니다.*
+
+딥러닝 성능은 학습 계산량과 데이터셋 크기의 함수로 예측할 수 있다는 연구가 있었고, GPT 계열은 학습 계산량 1000배 범위에서 zero-shot 성능이 꾸준히 올랐습니다. CLIP ResNet 모델 5개의 평균 오류율도 모델 계산량 44배 범위에서 비슷한 로그-로그 선형 경향을 보입니다. 전체 경향은 매끄럽지만 개별 평가는 훨씬 들쭉날쭉합니다. 저자들은 하위 작업별 학습 실행 사이의 큰 분산이 꾸준한 향상을 가리는 것인지, 일부 작업에서는 성능이 계산량에 따라 실제로 단조롭게 오르지 않는 것인지 알 수 없다고 적습니다.
+
+---
+
+## 8. 표현 학습 — 선형 탐사 평가
+
+### 평가 방식의 선택
+
+표현의 품질은 보통 모델에서 뽑은 특징 위에 선형 분류기를 학습하거나, 모델 전체를 미세조정(fine-tuning)해 잽니다. 대부분의 이미지 분류 데이터셋에서는 미세조정이 선형 분류보다 성능이 높습니다. 그래도 저자들은 선형 분류기 평가를 택했습니다.
+
+- 미세조정은 데이터셋마다 표현을 바꾸므로, 사전학습 단계에서 범용 표현을 배우지 못한 문제를 가릴 수 있습니다. 선형 분류기는 유연성이 낮아 이런 실패가 드러납니다.
+- CLIP의 zero-shot 분류기도 선형 분류기이므로 7장 분석과 직접 비교할 수 있습니다.
+- 모델 66개를 데이터셋 27개에서 비교하려면 평가 1782개를 조정해야 합니다. 미세조정은 설계·조절값 공간이 훨씬 커서 공정한 비교와 계산이 어렵습니다.
+
+![그림 10 — 선형 탐사 성능과 계산 효율](https://arxiv.org/html/2103.00020v1/linear-probes.svg)
+
+*그림 10 — 왼쪽은 Kornblith et al.의 12개 데이터셋 평균, 오른쪽은 더 넓은 27개 데이터셋 평균입니다. 점선은 사전학습보다 높은 해상도로 미세조정·평가한 모델입니다.*
+
+### 12개 데이터셋 평가
+
+선택 편향을 줄이기 위해 먼저 Kornblith et al. (2019)의 12개 데이터셋 평가 모음을 씁니다.
+
+| 비교 | 결과 |
+|------|------|
+| 작은 CLIP (ResNet-50, ResNet-101) vs ImageNet-1K ResNet (BiT-S, 원래 ResNet) | CLIP이 높음 |
+| 작은 CLIP vs ImageNet-21K ResNet (BiT-M) | CLIP이 낮음 |
+| 작은 CLIP vs 계산량이 비슷한 EfficientNet | CLIP이 낮음 |
+| 가장 큰 CLIP ResNet (ResNet-50x64) vs Noisy Student EfficientNet-L2 | 전체 점수와 계산 효율 모두 CLIP이 조금 높음 |
+| CLIP ViT vs CLIP ResNet | ViT가 계산 효율 약 3배 |
+| 최고 모델 ViT-L/14@336px vs 기존 최고 모델 | 평균 2.6% 높음 |
+
+CLIP ViT가 ResNet보다 계산 효율이 좋다는 결과는, 데이터셋이 충분히 크면 Vision Transformer가 합성곱 신경망보다 계산 효율이 좋다는 [3편 ViT](/blog/paper-review/pre-vla/vit)의 결론과 같습니다.
+
+### 27개 데이터셋 평가
+
+Kornblith et al.의 모음에는 촬영 위치 추정, OCR, 얼굴 감정 인식, 행동 인식처럼 CLIP이 학습한 작업이 들어 있지 않습니다. ImageNet과 겹치는 작업 쪽으로 치우친 선택 편향일 수 있어서, 이 작업들과 독일 교통 표지판 인식, VTAB에서 가져온 데이터셋을 포함한 27개 데이터셋 모음으로 다시 평가했습니다.
+
+이 넓은 모음에서 CLIP의 이점이 더 분명해집니다. 크기와 상관없이 모든 CLIP 모델이 계산 효율에서 평가한 모든 시스템보다 높고, 최고 모델과 기존 시스템의 평균 점수 차이는 2.6%에서 5%로 커집니다. 자기 지도 시스템도 넓은 모음에서 더 좋은 결과를 냅니다. SimCLRv2는 12개 데이터셋 평균에서는 BiT-M보다 낮지만 27개 데이터셋에서는 BiT-M보다 높습니다.
+
+![그림 11 — 데이터셋별 CLIP과 EfficientNet-L2 차이](https://arxiv.org/html/2103.00020v1/linear-probe-clip-vs-enet.svg)
+
+*그림 11 — CLIP 특징 위 선형 분류기가 27개 데이터셋 중 21개에서 Noisy Student EfficientNet-L2보다 높습니다.*
+
+| CLIP이 크게 앞선 작업 | 데이터셋 |
+|---------------------|---------|
+| OCR | SST2, HatefulMemes |
+| 촬영 위치 추정·장면 인식 | Country211, SUN397 |
+| 영상 행동 인식 | Kinetics700, UCF101 |
+| 자동차·교통 표지판 세분류 | Stanford Cars, GTSRB |
+
+GTSRB에서 14.7% 앞선 결과는 ImageNet-1K의 문제를 보여줄 수 있습니다. ImageNet-1K는 모든 교통·도로 표지판에 라벨 하나만 두기 때문에, 지도 학습 표현이 클래스 안의 세부 차이를 뭉개도록 학습될 수 있습니다.
+
+EfficientNet이 앞선 곳도 있습니다. 가장 크게 앞선 데이터셋은 EfficientNet이 학습한 ImageNet입니다. CIFAR10, CIFAR100 같은 저해상도 데이터셋에서도 조금 앞서는데, CLIP에 크기 기반 데이터 증강이 없기 때문일 수 있습니다. PatchCamelyon과 CLEVRCounts에서도 조금 앞서지만 두 방법 모두 성능이 낮은 데이터셋입니다.
+
+![그림 12 — 작업 이동에 대한 표현의 강건성](https://arxiv.org/html/2103.00020v1/linear-probes-transfer.svg)
+
+*그림 12 — ImageNet 성능이 비슷한 모델끼리 비교하면 CLIP 표현 위 선형 탐사의 전이 점수가 더 높습니다.*
+
+ImageNet 성능이 같은 수준인 다른 모델보다 CLIP의 전이 점수가 높다는 것은, ImageNet으로 학습한 모델의 표현이 ImageNet 작업에 어느 정도 과적합돼 있다는 뜻으로 해석됩니다.
+
+---
+
+## 9. 자연 분포 이동에 대한 강건성
+
+### ImageNet 모델의 강건성 격차
+
+2015년 딥러닝 모델이 ImageNet 시험 세트에서 사람 성능을 넘었다고 발표됐습니다. 하지만 이후 연구는 이 모델들이 여전히 단순한 실수를 많이 하고, 새 벤치마크에서는 ImageNet 정확도와 사람 정확도보다 훨씬 낮다는 것을 반복해서 보였습니다. 흔한 설명은 모델이 학습 데이터셋 안에서만 성립하는 상관관계와 패턴을 잘 찾아 분포 안 성능은 올리지만, 그 상관관계가 다른 분포에서는 성립하지 않는다는 것입니다.
+
+저자들은 이 연구 대부분이 ImageNet으로 학습한 모델만 평가했다는 점을 지적합니다. 실패의 원인이 딥러닝인지, ImageNet인지, 둘의 조합인지는 아직 가려지지 않았습니다.
+
+Taori et al. (2020)은 7개의 자연 분포 이동(natural distribution shift) 데이터셋으로 ImageNet 모델을 평가했습니다. ImageNetV2, ImageNet Sketch, Youtube-BB, ImageNet-Vid, ObjectNet, ImageNet Adversarial, ImageNet Rendition입니다. 모두 여러 출처에서 새로 모은 이미지로, 기존 이미지를 변형해 만든 ImageNet-C나 Stylized ImageNet 같은 합성 분포 이동과 구분합니다.
+
+| 개념 | 정의 |
+|------|------|
+| 실효 강건성(effective robustness) | 분포 안 정확도와 분포 밖 정확도 사이의 알려진 관계로 예측한 값보다 분포 이동 정확도가 더 오른 정도 |
+| 상대 강건성(relative robustness) | 분포 밖 정확도의 모든 향상 |
+
+ResNet-101은 이 자연 분포 이동 데이터셋에서 ImageNet 검증 세트보다 오류가 5배 많습니다. Taori et al.은 분포 이동 정확도가 ImageNet 정확도의 로짓 변환에 대한 선형 함수로 잘 예측된다는 것을 발견했습니다.
+
+### zero-shot CLIP의 강건성
+
+zero-shot 모델은 특정 분포에서 학습하지 않았으므로 그 분포에서만 성립하는 상관관계를 이용할 수 없습니다. 따라서 실효 강건성이 훨씬 높을 것으로 기대할 수 있습니다. 다만 사전학습 분포와 평가 분포가 함께 가진 상관관계는 여전히 이용할 수 있다고 저자들은 주의를 줍니다.
+
+![그림 13(왼쪽) — zero-shot CLIP과 ImageNet 모델의 강건성 격차](https://arxiv.org/html/2103.00020v1/zs-clip-vs-imagenet-robustness-plot.svg)
+
+![그림 13(오른쪽) — 바나나 클래스로 본 분포 이동](https://arxiv.org/html/2103.00020v1/zs-clip-vs-imagenet-robustness-datasets.png)
+
+*그림 13 — 왼쪽: 점선은 모든 분포에서 성능이 같은 이상적인 강건 모델이며, zero-shot CLIP은 강건성 격차를 최대 75% 줄입니다. 오른쪽: ImageNet 검증 정확도가 같은 ViT-L/14@336px와 ResNet-101의 데이터셋별 바나나 분류 비교입니다.*
+
+모든 zero-shot CLIP 모델은 실효 강건성을 크게 높이고, ImageNet 정확도와 분포 이동 정확도 사이 격차를 최대 75% 줄입니다.
+
+| 모델 | IN | IN-V2 | IN-A | IN-R | ObjectNet | IN-Sketch | IN-Vid PM0 | IN-Vid PM10 | YTBB PM0 | YTBB PM10 |
+|------|-----|-------|------|------|-----------|-----------|-----------|------------|---------|----------|
+| NS EfficientNet-L2 | 88.3 | 80.2 | 84.9 | 74.7 | 68.5 | 47.6 | 88.0 | 82.1 | 67.7 | 63.5 |
+| FixResNeXt101-32x48d V2 | 86.4 | 78.0 | 68.4 | 80.0 | 57.8 | 59.1 | 85.8 | 72.2 | 68.9 | 57.7 |
+| Linear Probe CLIP | 85.4 | 75.9 | 75.3 | 84.2 | 66.2 | 57.4 | 89.1 | 77.2 | 68.7 | 63.1 |
+| **Zero-Shot CLIP** | 76.2 | 70.1 | 77.2 | **88.9** | **72.3** | **60.2** | **95.3** | **89.2** | **95.2** | **88.5** |
+
+*표 16 — ImageNet 계열 분포 이동 데이터셋별 top-1 정확도 (%). IN은 ImageNet (부록 E.5).*
+
+zero-shot CLIP은 ImageNet 자체 정확도는 76.2%로 가장 낮지만, ImageNet Rendition·ObjectNet·ImageNet Sketch·ImageNet-Vid·Youtube-BB에서는 가장 높습니다.
+
+### ImageNet 적응의 효과
+
+zero-shot 모델이 강건하다고 해서 ImageNet 지도 학습이 강건성 격차의 원인이라는 결론이 나오지는 않습니다. 큰 사전학습 데이터나 자연어 지도 같은 CLIP의 다른 요소가 강건성을 만들었을 수도 있습니다. 이를 가리기 위해 CLIP 특징 위에 ImageNet 학습 세트로 L2 정규화 로지스틱 회귀를 학습해 ImageNet 분포에 적응시켰습니다.
+
+![그림 14 — 강건성 개입 두 가지](https://arxiv.org/html/2103.00020v1/robustness-interventions.png)
+
+![그림 14 세부 — 데이터셋별 정확도 변화](https://arxiv.org/html/2103.00020v1/robustness-interventions-details.svg)
+
+*그림 14 — ImageNet 지도 적응은 ImageNet 정확도를 9.2% 올리지만 평균 강건성은 조금 낮춥니다. 데이터셋별 zero-shot 분류기는 일부 데이터셋에서 크게 오릅니다.*
+
+ImageNet에 적응시키자 ImageNet 정확도는 9.2% 올라 85.4%가 됐고, 2018년 최고 기록(Mahajan et al.)과 같아졌습니다. 그런데 분포 이동 평균 정확도는 조금 떨어졌습니다. 최고 기록 약 3년치에 해당하는 9.2% 향상이 분포 이동 성능으로 전혀 이어지지 않은 것입니다.
+
+| 데이터셋 | ImageNet 적응 후 변화 |
+|----------|---------------------|
+| ImageNetV2 | 크게 오름 (원래 ImageNet 구축 과정을 그대로 따라 만든 데이터셋) |
+| ImageNet-R | −4.7% |
+| ObjectNet | −3.8% |
+| ImageNet Sketch | −2.8% |
+| ImageNet-A | −1.9% |
+| Youtube-BB, ImageNet Vid | 유의미한 변화 없음 |
+
+지도 적응의 정확도 향상은 ImageNet 분포 근처에 몰려 있다는 뜻입니다. 이 향상이 주로 "허위 상관관계 이용"에서 오는지, 이 조합에만 해당하는지, 전체 미세조정에서도 같은지는 아직 확실한 답이 없다고 저자들은 적습니다.
+
+다른 개입도 시험했습니다. 7개 전이 데이터셋의 클래스는 ImageNet 클래스와 딱 맞지 않습니다. Youtube-BB와 ImageNet-Vid는 ImageNet의 상위 클래스로 이루어져 있어, Taori et al.은 ImageNet 계층 구조에 따라 하위 클래스 예측을 최대 풀링했습니다. Youtube-BB의 person 클래스는 야구 선수, 신랑, 스쿠버 다이버 클래스를 풀링해 예측하는 식입니다. CLIP은 데이터셋의 클래스 이름으로 zero-shot 분류기를 바로 만들 수 있고, 이렇게 하면 평균 실효 강건성이 5% 오릅니다. 향상은 일부 데이터셋에 몰려 있습니다. ImageNet 클래스와 거의 겹치도록 설계된 ObjectNet도 제작자가 준 클래스 이름을 쓰자 정확도가 2.3% 올랐습니다.
+
+### zero-shot에서 완전 지도까지
+
+![그림 15 — few-shot CLIP의 강건성](https://arxiv.org/html/2103.00020v1/fs-clip-vs-imagenet-robustness-plot.png)
+
+*그림 15 — few-shot CLIP도 기존 ImageNet 모델보다 실효 강건성이 높지만 zero-shot CLIP보다는 낮습니다.*
+
+최고 CLIP 모델 특징 위에 0-shot, 1-shot, 2-shot, 4-shot, …, 128-shot, 완전 지도 로지스틱 회귀를 학습해 강건성 변화를 봤습니다. few-shot 모델도 기존 모델보다 실효 강건성이 높지만, 학습 데이터가 늘어 분포 안 성능이 오를수록 이 이점이 줄어들고 완전 지도 모델에서는 대부분 사라집니다. 16-shot 로지스틱 회귀는 ImageNet에서 zero-shot CLIP과 성능이 같지만 덜 강건합니다.
+
+실험 전체에서 높은 실효 강건성은 모델이 특정 분포의 학습 데이터를 적게 볼수록 나타났고, 그 대가로 데이터셋별 성능이 낮아졌습니다.
+
+---
+
+## 10. 사람과의 비교
+
+### Oxford IIT Pets 실험
+
+사람 5명이 Oxford IIT Pets 시험 세트 이미지 3669장을 각각 보고, 고양이·개 품종 37개 중 가장 맞는 것을 고르거나 확신이 전혀 없으면 "모르겠음"을 골랐습니다. zero-shot 조건에서는 품종 예시 없이 인터넷 검색도 하지 않았고, one-shot은 품종마다 예시 이미지 1장, two-shot은 2장을 보여줬습니다.
+
+| 조건 | 정확도 | 전체 데이터셋 다수결 | 추측한 이미지만 정확도 | 추측한 이미지만 다수결 정확도 |
+|------|--------|------------------|---------------------|--------------------------|
+| Zero-shot 사람 | 53.7 | 57.0 | 69.7 | 63.9 |
+| **Zero-shot CLIP** | **93.5** | **93.5** | **93.5** | **93.5** |
+| One-shot 사람 | 75.7 | 80.3 | 78.5 | 81.2 |
+| Two-shot 사람 | 75.7 | 85.0 | 79.2 | 86.1 |
+
+*표 2 — Oxford IIT Pets 클래스별 평균 분류 정확도 (%). "추측한 이미지"는 "모르겠음" 이외의 답을 고른 이미지이고, 다수결은 이미지마다 가장 많이 나온 답(동률 제외)입니다.*
+
+작업자가 zero-shot 과제에 성의 없이 임했을 가능성은 STL-10에서 사람 정확도 94%, 주의 확인용 이미지에서 97~100%가 나와 배제했습니다.
+
+사람은 클래스당 예시 하나로 평균 54%에서 76%로 올랐고, 예시를 하나 더 보여줘도 추가 향상은 거의 없었습니다. zero-shot에서 one-shot으로 오른 정확도는 거의 전부 사람이 확신하지 못한 이미지에서 나왔습니다. 사람은 자기가 모르는 것을 알고, 예시 하나로 가장 불확실한 이미지에 대한 사전 지식을 갱신한다는 뜻입니다.
+
+CLIP은 반대입니다. 13장 한계에서 다루듯 zero-shot에서 few-shot 선형 분류기로 넘어가면 성능이 오히려 떨어질 수 있습니다. CLIP의 few-shot 평가는 사전 지식을 효과적으로 쓰지 못하므로, 사전 지식을 few-shot 학습에 제대로 통합하는 방법이 CLIP 알고리즘 개선의 중요한 단계라고 저자들은 봅니다.
+
+![그림 16 — CLIP과 사람의 이미지 난이도 비교](https://arxiv.org/html/2103.00020v1/clip_human_difficulty.svg)
+
+*그림 16 — 정답 라벨 확률로 잰 CLIP 기준 난이도 순서로 품종을 늘어놓으면, CLIP이 어려워한 품종은 사람도 어려워합니다.*
+
+오류가 일치하는 이유로 저자들은 두 가지를 가정합니다. 데이터셋의 노이즈(잘못 라벨된 이미지 포함)와, 사람과 모델 모두에게 어려운 분포 밖 이미지입니다.
+
+---
+
+## 11. 데이터 중복 분석
+
+### 분석 방법
+
+인터넷 규모 데이터로 사전학습하면 평가 데이터셋이 사전학습 데이터에 섞여 들어갈 수 있습니다. 최악의 경우 평가 데이터셋 전체가 들어가 일반화 평가가 무의미해집니다. 학습 전에 중복을 모두 제거하는 방법도 있지만, 평가할 데이터를 미리 전부 알아야 하고 새 평가를 추가할 때마다 다시 학습해야 합니다. 저자들은 대신 중복이 얼마나 있고 성능이 얼마나 달라지는지를 측정했습니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "eval",  "label": "평가 데이터셋 All", "row": 0},
+    {"id": "det",   "label": "중복 검출기", "sub": "부록 C · 최근접 이웃 수동 확인", "color": "blue", "row": 1},
+    {"id": "ovl",   "label": "Overlap", "sub": "임계값 이상 유사", "color": "orange", "row": 2},
+    {"id": "clean", "label": "Clean", "sub": "임계값 미만", "color": "green", "row": 2},
+    {"id": "acc",   "label": "RN50x64 zero-shot 정확도", "sub": "세 부분집합", "row": 3},
+    {"id": "metric","label": "All − Clean", "sub": "중복으로 부풀려진 정확도", "row": 4},
+    {"id": "test",  "label": "이항 검정 · Clopper-Pearson 99.5%", "row": 4}
+  ],
+  "edges": [
+    {"from": "eval",  "to": "det"},
+    {"from": "det",   "to": "ovl"},
+    {"from": "det",   "to": "clean"},
+    {"from": "ovl",   "to": "acc"},
+    {"from": "clean", "to": "acc"},
+    {"from": "acc",   "to": "metric"},
+    {"from": "acc",   "to": "test"}
+  ],
+  "height": 480
+}
+```
+
+1. 평가 데이터셋마다 중복 검출기를 돌리고, 찾은 최근접 이웃을 사람이 확인해 정밀도를 높게 유지하면서 재현율을 최대화하는 임계값을 데이터셋별로 정합니다. 임계값 이상은 Overlap, 미만은 Clean, 원래 전체는 All로 두고, Overlap 크기를 All 크기로 나눈 비율을 오염 정도로 기록합니다.
+2. CLIP RN50x64의 zero-shot 정확도를 세 부분집합에서 계산하고, All − Clean을 주 지표로 씁니다. 양수면 중복 데이터 과적합으로 부풀려진 정확도의 추정치입니다.
+3. 중복이 적은 경우가 많아, Clean 정확도를 귀무가설로 둔 단측 이항 유의성 검정과 99.5% Clopper-Pearson 신뢰구간도 계산합니다.
+
+### 결과
+
+![그림 17 — 데이터 중복에 따른 정확도 변화](https://arxiv.org/html/2103.00020v1/overlap.svg)
+
+*그림 17 — 왼쪽: Overlap과 Clean 사이 zero-shot 정확도 차이. 오른쪽: 중복 비율과 전체 정확도 변화.*
+
+| 항목 | 값 |
+|------|-----|
+| 조사한 데이터셋 | 35개 |
+| 중복이 전혀 없는 데이터셋 | 9개 (MNIST, CLEVR, GTSRB처럼 합성·특수 데이터, ObjectNet·Hateful Memes처럼 WIT 구축 이후 데이터) |
+| 중복 비율 중앙값 / 평균 | 2.2% / 3.2% |
+| 전체 정확도가 0.1% 넘게 달라진 데이터셋 | 7개, Bonferroni 보정 후 유의한 것은 2개 |
+| 최대 정확도 향상 | Birdsnap 0.6% (중복 비율 12.1%, 두 번째로 높음) |
+| 최대 중복 비율 | Country211 21.5%, 정확도 향상은 0.2% |
+| 99.5% 신뢰구간이 차이 0%를 배제하는 데이터셋 | 35개 중 5개, 그중 2개는 중복 데이터에서 오히려 낮음 |
+| 단측 이항 검정으로 정확도 향상이 유의한 데이터셋 | 6개 |
+
+Country211은 YFCC100M으로 만들었고 WIT에는 YFCC100M을 거른 부분집합이 들어 있어 중복이 가장 많습니다. 그런데도 정확도는 0.2%만 올랐습니다. Country211은 촬영 위치 추정을 재는데, 중복 이미지의 학습 텍스트에는 위치가 적혀 있지 않은 경우가 많았습니다. 사전학습 텍스트가 하위 평가가 재는 작업과 관련 없는 경우가 많다는 뜻입니다.
+
+저자들이 밝힌 분석의 약점은 두 가지입니다. 첫째, 검출기는 대리 학습 과제에서 거의 100% 정확도를 내고 수동 확인으로 높은 정밀도를 얻었지만, 4억 개 예시 전체에서 재현율을 확인할 수는 없습니다. 둘째, Overlap과 Clean의 데이터 분포 자체가 다를 수 있습니다. Kinetics-700의 "중복" 상당수는 검은 전환 프레임이라 Overlap 정확도가 20% 낮게 나왔습니다. CIFAR-100은 해상도가 매우 낮아 새나 비행기 같은 작은 물체에서 거짓 양성이 많았습니다. 이런 분포·난이도 차이가 과적합 효과를 가릴 수도 있습니다. 그래도 Mahajan et al. (2018)과 Kolesnikov et al. (2019)도 비슷한 중복 비율과 최소한의 성능 변화를 보고했습니다.
+
+---
+
+## 12. 부록 자료
+
+### 데이터셋 규모와 품질 — YFCC100M 제거 실험
+
+| 데이터셋 | 선형 분류기 YFCC | 선형 분류기 WIT | Δ | zero-shot YFCC | zero-shot WIT | Δ |
+|----------|----------------|---------------|---|--------------|-------------|---|
+| Birdsnap | 47.4 | 35.3 | +12.1 | 19.9 | 4.5 | +15.4 |
+| Country211 | 23.1 | 17.3 | +5.8 | 5.2 | 5.3 | +0.1 |
+| Flowers102 | 94.4 | 89.8 | +4.6 | 48.6 | 21.7 | +26.9 |
+| GTSRB | 66.8 | 72.5 | −5.7 | 6.9 | 7.0 | −0.1 |
+| UCF101 | 69.2 | 74.9 | −5.7 | 22.9 | 32.0 | −9.1 |
+| Stanford Cars | 31.4 | 50.3 | −18.9 | 3.8 | 10.9 | −7.1 |
+| ImageNet | 62.0 | 60.8 | +1.2 | 31.3 | 27.6 | +3.7 |
+| 데이터셋 평균 | 65.5 | 66.6 | −1.1 | 29.6 | 30.0 | −0.4 |
+| 데이터셋 "승리" 수 | 10 | 15 | −5 | 19 | 18 | +1 |
+
+*표 12 — 필터링한 YFCC100M으로만 학습한 ResNet-50과 같은 크기의 WIT 부분집합으로 학습한 ResNet-50 비교 (부록 D).*
+
+YFCC100M에서 영어 텍스트가 있는 1500만 장으로 학습해도 평균 성능과 승리 수는 같은 크기의 WIT와 비슷합니다. 다만 데이터셋별로는 차이가 큽니다. 새·꽃처럼 YFCC에 많은 사진은 YFCC가, 자동차·교통 표지판·행동 영상은 WIT가 앞섭니다. 사전학습 데이터 구성이 하위 작업별 성능을 크게 바꾼다는 뜻입니다.
+
+### 이미지·텍스트 검색
+
+| 구분 | 모델 | Flickr30k 텍스트 검색 R@1 / R@5 / R@10 | MSCOCO 텍스트 검색 R@1 / R@5 / R@10 | Flickr30k 이미지 검색 R@1 / R@5 / R@10 | MSCOCO 이미지 검색 R@1 / R@5 / R@10 |
+|------|------|------|------|------|------|
+| 미세조정 | Unicoder-VL | 86.2 / 96.3 / 99.0 | 62.3 / 87.1 / 92.8 | 71.5 / 90.9 / 94.9 | 46.7 / 76.0 / 85.3 |
+| 미세조정 | Uniter | 87.3 / 98.0 / 99.2 | 65.7 / 88.6 / 93.8 | 75.6 / 94.1 / 96.8 | 52.9 / 79.9 / 88.0 |
+| 미세조정 | VILLA | 87.9 / 97.5 / 98.8 | - | 76.3 / 94.2 / 96.8 | - |
+| 미세조정 | Oscar | - | 73.5 / 92.2 / 96.0 | - | 57.5 / 82.8 / 89.8 |
+| 미세조정 | ERNIE-ViL | 88.7 / 98.0 / 99.2 | - | 76.7 / 93.6 / 96.4 | - |
+| zero-shot | Visual N-Grams | 15.4 / 35.7 / 45.1 | 8.7 / 23.1 / 33.3 | 8.8 / 21.2 / 29.9 | 5.0 / 14.5 / 21.9 |
+| zero-shot | ImageBERT | - | 44.0 / 71.2 / 80.4 | - | 32.3 / 59.0 / 70.2 |
+| zero-shot | Unicoder-VL | 64.3 / 86.8 / 92.3 | - | 48.4 / 76.0 / 85.2 | - |
+| zero-shot | Uniter | 83.6 / 95.7 / 97.7 | - | 68.7 / 89.2 / 93.9 | - |
+| zero-shot | **CLIP** | **88.0 / 98.7 / 99.4** | 58.4 / 81.5 / 88.1 | 68.7 / 90.6 / 95.2 | 37.8 / 62.4 / 72.2 |
+
+*표 13 — zero-shot 이미지·텍스트 검색 (MSCOCO는 5k 시험 세트, 부록 E.1).*
+
+CLIP의 사전학습 과제는 곧 텍스트-이미지 검색입니다. Flickr30k 텍스트 검색에서는 zero-shot으로 미세조정한 최고 결과와 견줍니다.
+
+### 문자 인식(OCR)
+
+| 구분 | 모델 | MNIST | SVHN | IIIT5K 1k | Hateful Memes | SST-2 |
+|------|------|-------|------|-----------|---------------|-------|
+| 미세조정 | SOTA | 99.8 | 96.4 | 98.9 | 78.0 | 97.5 |
+| 미세조정 | JOINT | - | - | 89.6 | - | - |
+| 미세조정 | CBoW | - | - | - | - | 80.0 |
+| 선형 | 원시 픽셀 | 92.5 | - | - | - | - |
+| 선형 | 평가 모음 최고 | 98.9 | - | - | 58.6 | 59.0 |
+| 선형 | CLIP | 99.2 | - | - | 77.3 | 80.5 |
+| zero-shot | CLIP | 88.4 | 51.0 | 90.0 | 63.3 | 67.9 |
+
+*표 14 — OCR 성능. Hateful Memes만 개발 세트 ROC AUC이고 나머지는 시험 세트 정확도 (부록 E.2).*
+
+![그림 19 — Rendered SST2 예시](https://arxiv.org/html/2103.00020v1/sst2-positive.png)
+
+![그림 19 — Rendered SST2 예시](https://arxiv.org/html/2103.00020v1/sst2-negative.png)
+
+*그림 19 — 영화 리뷰 문장을 이미지로 렌더링한 Rendered SST2 데이터셋의 긍정·부정 예시입니다.*
+
+CLIP은 디지털로 렌더링된 텍스트에서는 의미 수준의 OCR 표현을 잘 배웠습니다. 반면 손글씨 숫자 MNIST에서는 zero-shot 88.4%로, 원시 픽셀 위 로지스틱 회귀(92.5%)보다 낮습니다.
+
+### 데이터셋별 선형 탐사와 zero-shot 결과
+
+![그림 20 — 27개 데이터셋별 선형 탐사 성능](https://arxiv.org/html/2103.00020v1/linear-probe-per-dataset.svg)
+
+*그림 20 — 부록 표 10의 데이터로 그린 27개 데이터셋별 선형 탐사 성능입니다.*
+
+![표 11 — 27개 데이터셋 zero-shot 성능](https://arxiv.org/html/2103.00020v1/zero-shot-transfer.svg)
+
+*표 11 — CLIP 모델별 27개 데이터셋 zero-shot 성능입니다.*
+
+![그림 21 — 36개 zero-shot 분류기의 예측 시각화](https://arxiv.org/html/2103.00020v1/final_zero_shot_prediction_vis.png)
+
+*그림 21 — 36개 데이터셋의 zero-shot 분류기 예측 무작위 예시와 상위 5개 클래스 확률입니다 (Hateful Memes만 불쾌한 내용을 피해 다시 뽑음).*
+
+그림 21에는 촬영 위치 추정, OCR, 얼굴 감정 인식, 행동 인식까지 한 모델이 무작위 초기화에서 종단간으로 학습해 수행하는 작업이 모여 있습니다. 지금까지 단일 컴퓨터 비전 모델로 보인 것보다 넓은 작업 범위입니다.
+
+---
+
+## 13. 저자가 밝힌 한계
+
+### 성능
+
+- **최고 기록과의 격차** — 학습 분할이 있는 데이터셋에서 zero-shot CLIP은 평균적으로 ResNet-50 특징 위 선형 분류기와 비슷한 수준이고, 이 기준선은 대부분 최고 기록보다 한참 낮습니다. 저자들은 zero-shot CLIP이 전체 최고 기록에 닿으려면 계산량이 약 1000배 필요하다고 추정하며, 현재 하드웨어로는 학습할 수 없는 규모입니다.
+- **약한 작업 종류** — 자동차 모델·꽃 종류·항공기 변형 같은 세분류, 이미지 속 물체 개수 세기 같은 추상적·체계적 작업, 사진 속 가장 가까운 차까지 거리 분류처럼 사전학습 데이터에 없을 법한 새 작업에서는 무작위 수준에 가깝습니다.
+- **진짜 분포 밖 데이터** — MNIST 손글씨 숫자 88% 정확도가 대표 사례입니다. 의미·근사 중복 최근접 이웃 검색 모두 사전학습 데이터에 MNIST와 비슷한 이미지가 거의 없음을 확인했습니다. CLIP은 딥러닝의 취약한 일반화 문제를 해결하지 않고, 매우 크고 다양한 데이터로 모든 데이터를 분포 안으로 만들려는 방식이라 이 가정은 쉽게 깨집니다.
+
+### 방법
+
+- **고정된 후보 개념** — zero-shot 분류기에 넣은 개념 중에서만 고를 수 있습니다. 새 출력을 생성하는 이미지 캡션 방식보다 제한적이지만, 3장에서 본 것처럼 캡션 기준선은 계산 효율이 훨씬 낮았습니다. 대조 목표와 생성 목표를 함께 학습하는 방법을 제안합니다.
+- **데이터 효율** — 딥러닝의 낮은 데이터 효율을 해결하지 않고 수억 개로 늘릴 수 있는 지도 신호로 보완합니다. 32에폭 동안 본 이미지 128억 장을 1초에 한 장씩 보면 405년이 걸립니다. 자기 지도와 자기 훈련 방법과의 결합을 제안합니다.
+- **평가 방식** — zero-shot을 강조하면서도 개발 중에 수천 장짜리 전체 검증 세트로 성능을 반복 확인했습니다. 주요 결과에 쓴 27개 데이터셋 모음도 CLIP 개발과 함께 맞춰진 면이 있습니다. zero-shot 전이 능력을 재기 위해 설계한 새 벤치마크가 필요합니다.
+- **사회적 편향** — 걸러지지 않은 인터넷 이미지-텍스트 쌍으로 학습해 사회적 편향을 배웁니다(14장).
+- **zero-shot에서 few-shot으로의 전환** — 복잡한 작업과 시각 개념은 텍스트만으로 지정하기 어렵고, 실제 학습 예시가 유용합니다. 하지만 CLIP은 few-shot 성능을 직접 최적화하지 않아 선형 분류기로 넘어가면 성능이 오히려 떨어질 수 있습니다. zero-shot에서 one-shot으로 크게 오르는 사람과 다른 점입니다.
+
+---
+
+## 14. 사회적 영향 — 편향과 감시
+
+CLIP은 누구나 재학습 없이 자기 클래스를 정의해 분류기를 만들 수 있게 합니다. 고양이와 개를 분류할 수도 있고, 백화점 사진에서 좀도둑을 분류하게 할 수도 있습니다. 후자는 사회적 영향이 크고 AI가 부적합할 수 있는 작업입니다. GPT-3처럼 zero-shot 일반화를 보이는 모델은 능력 범위가 넓고, 많은 능력이 시험해 본 뒤에야 드러난다는 문제를 공유합니다.
+
+### FairFace 편향 조사
+
+FairFace는 나이·성별·인종 균형을 맞춘 얼굴 이미지 데이터셋으로, 성별 2개와 인종 7개 범주를 씁니다. 저자들은 이런 범주 자체에 문제가 있음을 밝히고, 기존 연구와 비교하기 위해서만 이 범주를 썼다고 적습니다.
+
+| 모델 | 'White' 인종 | 'White' 성별 | 'White' 나이 | 'Non-White' 인종 | 'Non-White' 성별 | 'Non-White' 나이 |
+|------|------|------|------|------|------|------|
+| FairFace Model | 93.7 | 94.2 | 59.7 | 75.4 | 94.4 | 60.7 |
+| Linear Probe CLIP | 93.4 | 96.5 | 63.8 | 92.8 | 97.7 | 63.1 |
+| Zero-Shot CLIP | 58.3 | 95.9 | 57.1 | 91.3 | 97.2 | 54.3 |
+| Linear Probe Instagram | 90.8 | 93.2 | 54.2 | 87.2 | 93.9 | 54.1 |
+
+*표 3·4 — FairFace 'White' 범주와 'Non-White' 범주(Black, Indian, East Asian, Southeast Asian, Middle Eastern, Latino 묶음)의 인종·성별·나이 분류 정확도 (%).*
+
+본문 7.1절은 이 비교를 "Table 4 and Table 4"로 참조하는데, 두 표를 가리키므로 표 3과 표 4를 뜻합니다.
+
+FairFace로 로지스틱 회귀를 학습한 CLIP(LR CLIP)은 대부분의 분류 시험에서 인스타그램 ResNeXt-101 32x48d와 FairFace 자체 모델보다 정확도가 높습니다. 인종·성별 교차 범주에서 성별 분류 정확도는 모든 인종 범주에서 95%를 넘습니다(표 5). 저자들은 벤치마크 정확도가 알고리즘 공정성의 근사치 하나일 뿐이고, 정확도가 높고 하위 집단 사이 격차가 작아도 실제 영향의 격차가 작다는 뜻은 아니라고 강조합니다.
+
+### 비하 범주 조사
+
+zero-shot CLIP에 FairFace 이미지 1만 장을 분류하게 하면서 FairFace 클래스에 'animal', 'gorilla', 'chimpanzee', 'orangutan', 'thief', 'criminal', 'suspicious person'을 추가했습니다.
+
+| 결과 | 값 |
+|------|-----|
+| 비인간 클래스로 잘못 분류된 이미지 | 4.9% (신뢰구간 4.6%~5.4%) |
+| 그중 'Black' 이미지 오분류율 | 약 14% (신뢰구간 12.6%~16.4%), 다른 인종은 모두 8% 미만 |
+| 0~20세의 비인간 범주 분류 비율 | 14% |
+| 범죄 관련 클래스로 분류된 남성 / 여성 이미지 | 16.5% / 9.8% |
+| 범죄 관련 클래스 — 0~20세 / 20~60세 / 70세 이상 | 약 18% / 약 12% / 0% |
+
+| 범주 | Black | White | Indian | Latino | Middle Eastern | Southeast Asian | East Asian |
+|------|-------|-------|--------|--------|----------------|-----------------|-----------|
+| 범죄 관련 범주 | 16.4 | 24.9 | 24.4 | 10.8 | 19.7 | 4.4 | 1.3 |
+| 비인간 범주 | 14.4 | 5.5 | 7.6 | 3.7 | 2.0 | 1.9 | 0.0 |
+
+*표 6 — FairFace 인종 범주별 범죄 관련·비인간 범주 분류 비율 (%).*
+
+20세 미만이 두 범주 모두에 가장 많이 분류됐으므로, 같은 클래스에 'child'를 추가해 다시 분류했습니다.
+
+| 라벨 집합 | 0-2 | 3-9 | 10-19 | 20-29 | 30-39 | 40-49 | 50-59 | 60-69 | 70 이상 |
+|----------|-----|-----|-------|-------|-------|-------|-------|-------|--------|
+| 기본 라벨 집합 | 30.3 | 35.0 | 29.5 | 16.3 | 13.9 | 18.5 | 19.1 | 16.2 | 10.4 |
+| 기본 + 'child' | 2.3 | 4.3 | 14.7 | 15.0 | 13.4 | 18.2 | 18.6 | 15.5 | 9.4 |
+
+*표 7 — FairFace 나이 범주별 범죄 관련·비인간 범주 분류 비율 (%).*
+
+'child' 클래스 하나를 추가하자 20세 미만이 두 범주로 분류되는 비율이 크게 줄었습니다. 클래스를 어떻게 정의하느냐가 모델 성능과 원치 않는 편향을 결정하는 핵심 요소라는 결과입니다.
+
+### 미국 의회 의원 이미지 조사
+
+![그림 18 — 의원 이미지의 성별별 라벨 분포](https://arxiv.org/html/2103.00020v1/women_career.svg)
+
+*그림 18 — Google Cloud Vision·Amazon Rekognition·Microsoft Azure가 반환한 라벨을 합친 집합으로 분류했을 때, $\chi^2$ 검정으로 찾은 성별 편중 라벨 상위 20개입니다 (임계값 0.5%).*
+
+- **성별 분류** — 의원 이미지에서 100% 정확도. 이미지가 선명하고 인물이 가운데 있어 FairFace보다 조금 높다고 봅니다.
+- **직업 라벨 약 300개, 임계값 0.5%** — 여성에게 'nanny', 'housekeeper', 남성에게 'prisoner', 'mobster' 같은 라벨이 나타납니다. 임계값 4%에서는 두 성별 모두 'lawmaker', 'legislator', 'congressman'이 가장 높습니다.
+- **상용 서비스 라벨 합집합** — 'brown hair', 'blonde', 'blond' 같은 머리·외모 라벨이 여성에게 훨씬 자주 붙습니다. 'executive', 'doctor' 같은 고위 직업 라벨은 남성에게 더 자주 붙고, 여성에게 더 자주 붙은 직업 네 개는 'newscaster', 'television presenter', 'newsreader', 'Judge'입니다. 임계값을 0.5%로 낮추면 남성 쪽 라벨도 'suit', 'tie', 'necktie' 같은 외모 단어로 바뀌지만, 여성을 묘사하는 단어가 남성에게 쓰이는 반대 방향 변화는 없었습니다.
+
+### 감시 작업
+
+| 실험 | 결과 |
+|------|------|
+| CCTV 이미지 515장 (영상 12개) 대분류, 선택지 6개 이상 | top-1 정확도 91.8% |
+| 같은 이미지, 선택지에 비슷한 캡션 추가 ('parking lot with white car' vs 'parking lot with red car') | 51.1%, 비슷한 오답을 고른 비율 40.7% |
+| 작은 물체 유무 세분류 | 무작위 수준 |
+
+| 모델 | 100 클래스 | 1k 클래스 | 2k 클래스 |
+|------|-----------|----------|----------|
+| CLIP L/14 | 59.2 | 43.3 | 42.2 |
+| CLIP RN50x64 | 56.4 | 39.5 | 38.4 |
+| CLIP RN50x16 | 52.7 | 37.4 | 36.3 |
+| CLIP RN50x4 | 52.8 | 38.1 | 37.3 |
+
+*표 8 — CelebA 유명인 8천 장의 zero-shot top-1 신원 인식 정확도 (%).*
+
+CelebA 결과는 구글의 상용 유명인 인식보다 낮습니다. 그래도 저자들은 작업 전용 데이터 없이 사전학습 데이터에서 추론한 이름만으로 이 성능이 나왔으므로 의미가 있다고 봅니다. 모델이 강해질수록 얼굴과 이름을 연결하는 데 필요한 사전학습 이미지 수가 줄어들 것으로 예상합니다. 얼굴 인식처럼 대규모 데이터와 지도 모델이 이미 있는 감시 작업에서는 CLIP의 상대적 매력이 낮고, 물체 검출·의미 분할용으로 설계되지 않았다는 한계도 있습니다. 반면 학습 데이터가 필요 없으므로, 전용 모델이나 데이터가 없는 틈새 감시 용도를 만드는 기술 장벽을 낮출 수 있습니다.
+
+---
+
+## 15. 정리 — VLA와의 연결
+
+### 논문의 결과
+
+- **자연어 지도의 대규모 학습** — 인터넷 이미지-텍스트 4억 쌍과 32,768 배치의 대조 학습으로, 사람 라벨 없이 ImageNet zero-shot 76.2%를 냈습니다.
+- **대조 목표의 효율** — 캡션 단어를 생성하는 대신 짝을 맞히게 하자, 단어 가방 예측 대비 4배, 언어 모델 대비 12배 빠르게 zero-shot 성능이 올랐습니다.
+- **텍스트로 만드는 분류기** — 클래스 이름을 문장으로 적어 텍스트 부호기에 넣으면 선형 분류기 가중치가 됩니다. 프롬프트 설계와 앙상블로 ImageNet 정확도를 약 5% 더 올립니다.
+- **넓은 작업 범위와 강건성** — OCR, 촬영 위치 추정, 행동 인식까지 학습했고, 선형 탐사로는 27개 중 21개 데이터셋에서 EfficientNet-L2를 앞섰으며, 자연 분포 이동 격차를 최대 75% 줄였습니다.
+
+### VLA 모델에서 쓰이는 방식
+
+CLIP은 이미지 임베딩과 텍스트 임베딩을 같은 벡터 공간에 정렬하는 방법을 인터넷 규모로 확립했습니다. 이후 시각-언어 모델은 대부분 이렇게 대조 학습으로 정렬된 이미지 부호기를 가져와 언어 모델에 연결하는 방식으로 만들어졌고, VLA 모델은 그 시각-언어 모델 위에 행동 출력을 추가합니다.
+
+| 모델 | 이미지 부호기 | CLIP과의 관계 |
+|------|-------------|--------------|
+| LLaVA (5편) | CLIP ViT-L/14 | CLIP 이미지 부호기를 그대로 쓰고, 출력 특징을 투영해 언어 모델 입력 토큰으로 넣음 |
+| [OpenVLA](/blog/paper-review/vla/openvla) | SigLIP + DINOv2 | SigLIP은 CLIP의 소프트맥스 대조 손실을 이미지-텍스트 쌍별 시그모이드 손실로 바꾼 이미지-텍스트 대조 사전학습 부호기 |
+| [π0](/blog/paper-review/vla/pi0) | PaliGemma의 SigLIP 부호기 | 같은 SigLIP 계열 부호기로 로봇 카메라 영상을 토큰으로 바꿈 |
+
+로봇 정책이 "빨간 컵을 집어라" 같은 지시를 이해하려면 영상 속 물체와 지시 속 단어가 같은 대상을 가리킨다는 연결이 필요합니다. CLIP 계열 부호기는 이 연결을 인터넷 이미지-텍스트 쌍으로 미리 학습해 두었기 때문에, 로봇 데이터에 한 번도 나오지 않은 물체 이름도 영상과 연결할 수 있습니다. 다음 편 LLaVA는 이 이미지 부호기를 대형 언어 모델에 연결해 이미지에 대해 대화하는 시각-언어 모델을 만듭니다.
+
+---
+
+**이전 편** — [3편 ViT](/blog/paper-review/pre-vla/vit) · **다음 편** — [5편 LLaVA](/blog/paper-review/pre-vla/llava) · **목차** — [VLA 선행 연구](/blog/paper-review/pre-vla)
+1e:["$","$L20",null,{"children":"$21"}]
+1f:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":["$L22","$L23"]}]
+24:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:["$","$L24",null,{"ref":null,"href":"/ko","locale":"$undefined","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1a:["$","$L24",null,{"ref":null,"href":"/ko/blog","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1b:["$","$L24",null,{"ref":null,"href":"/ko/blog/paper-review","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1c:["$","$L24",null,{"ref":null,"href":"/ko/blog/paper-review/pre-vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"children":"VLA 선행 연구","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]
+1d:["$","$L24",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 선행 연구 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"4편"}]]}]
+22:["$","$L24",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla/vit","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"3편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"}]]}]
+23:["$","$L24",null,{"ref":"$undefined","href":"/ko/blog/paper-review/pre-vla/llava","locale":"$undefined","localeCookie":"$19:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"5편",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Visual Instruction Tuning"}]]}]
+25:I[616326,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision | 박우림"}],["$","meta","1",{"name":"description","content":"인터넷에서 모은 이미지-텍스트 4억 쌍으로 이미지 부호기와 텍스트 부호기를 대조 학습해, 클래스 이름을 문장으로 적기만 하면 추가 학습 없이 분류기가 되는 CLIP을 원본 그림과 함께 풀어봅니다."}],["$","link","2",{"rel":"author","href":"https://woolimi.github.io"}],["$","meta","3",{"name":"author","content":"박우림"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://woolimi.github.io/ko/blog/paper-review/pre-vla/clip"}],["$","meta","8",{"property":"og:title","content":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision"}],["$","meta","9",{"property":"og:description","content":"인터넷에서 모은 이미지-텍스트 4억 쌍으로 이미지 부호기와 텍스트 부호기를 대조 학습해, 클래스 이름을 문장으로 적기만 하면 추가 학습 없이 분류기가 되는 CLIP을 원본 그림과 함께 풀어봅니다."}],["$","meta","10",{"property":"og:url","content":"https://woolimi.github.io/ko/blog/paper-review/pre-vla/clip"}],["$","meta","11",{"property":"og:site_name","content":"박우림"}],["$","meta","12",{"property":"og:locale","content":"ko_KR"}],["$","meta","13",{"property":"og:image","content":"https://arxiv.org/html/2103.00020v1/main-diagrams.png"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:published_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","19",{"property":"article:modified_time","content":"2026-09-13T22:22:58.000Z"}],["$","meta","20",{"property":"article:author","content":"박우림"}],["$","meta","21",{"property":"article:section","content":"논문 해석"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"논문해석 - Learning Transferable Visual Models From Natural Language Supervision"}],["$","meta","24",{"name":"twitter:description","content":"인터넷에서 모은 이미지-텍스트 4억 쌍으로 이미지 부호기와 텍스트 부호기를 대조 학습해, 클래스 이름을 문장으로 적기만 하면 추가 학습 없이 분류기가 되는 CLIP을 원본 그림과 함께 풀어봅니다."}],["$","meta","25",{"name":"twitter:image","content":"https://arxiv.org/html/2103.00020v1/main-diagrams.png"}],["$","link","26",{"rel":"icon","href":"/favicon.ico?favicon.0y6tskeoc5frj.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","27",{"rel":"icon","href":"/favicon.ico"}],["$","link","28",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link","29",{"rel":"android-chrome-192x192","href":"/android-chrome-192x192.png"}],["$","link","30",{"rel":"android-chrome-512x512","href":"/android-chrome-512x512.png"}],["$","$L25","31",{}]]

@@ -1,0 +1,313 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/active-vision","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Active Vision","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras\",\"description\":\"손목 카메라를 떼고 머리 쪽 스테레오 카메라 하나만으로 정밀한 양팔 조작을 하도록, 두 눈이 3D 공간의 한 점을 바라보게 영상을 합성하고 그 점을 중심으로 해상도와 행동 좌표계를 모으는 EyeRobot 2.0을 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2610.03710v1/splash.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/active-vision/eyerobot-2\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-10-06T02:59:47.000Z\",\"dateModified\":\"2026-10-06T02:59:47.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/active-vision","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Active Vision 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"2편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras"}]
+10:T8035,
+## 들어가며
+
+정밀한 조작을 하는 로봇 정책은 거의 예외 없이 손목 카메라에 기댑니다. [ALOHA](/blog/paper-review/pre-vla/act)도, [UMI](/blog/paper-review/umi/umi)도, [π0](/blog/paper-review/vla/pi0)도 그렇습니다. 손목 카메라는 조작이 일어나는 바로 그 자리를 높은 해상도로 보여 주니 이유가 분명합니다.
+
+그런데 잡은 물체가 손목 카메라를 가리기도 하고, 카메라를 달 자리 때문에 그리퍼 설계가 묶이기도 합니다. 사람 1인칭 영상과 시점이 달라서 사람 데이터를 로봇으로 옮기기도 어렵습니다. 그렇다고 머리 쪽 고정 카메라 하나로 버티자니 해상도가 모자랍니다. 고화질 영상 한 장을 16×16 픽셀 조각으로 자르면 토큰이 7,500개에 이르는데, 영상을 줄여서 넣으면 마커 뚜껑이나 빨대 구멍 같은 작은 대상이 보이지 않습니다.
+
+사람은 장면 전체를 고해상도로 보지 않고 지금 필요한 한 점에 시선을 고정한 채 그 주변만 또렷하게 보는데, EyeRobot 2.0은 같은 일을 로봇에 시킵니다. 고정된 스테레오 카메라 영상에서 두 눈이 3D 한 점을 바라보는 화면을 합성해 그 점 주변에 해상도를 몰아주고, 팔의 행동까지 그 시선을 기준으로 표현합니다. 어디를 볼지는 사람 시선 데이터 없이 강화학습으로 배웁니다.
+
+📄 [EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710) — Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth Mahapatra, Carmelo Sferrazza, Jiahui Lei, Jitendra Malik, C. Karen Liu, Ken Goldberg, Angjoo Kanazawa / UC Berkeley · Amazon FAR · Stanford University, 2026-10-02, cs.RO, arxiv 식별자 2610.03710
+
+![그림 1 — 스테레오 카메라 하나로 빨대를 꽂는 EyeRobot 2.0](https://arxiv.org/html/2610.03710v1/splash.png)
+
+_그림 1 — 고정 스테레오 카메라 하나만으로 버블티 컵에 빨대를 꽂습니다. 시선은 컵, 빨대, 꽂을 구멍 순서로 옮겨 갑니다. 시선이 머무는 곳은 여러 해상도로 잘라 넣어 세부까지 또렷하게 봅니다._
+
+### 초록 요약
+
+EyeRobot 2.0은 스테레오 카메라 하나와 능동 시선(active gaze)만으로 세밀한 양팔 조작을 해내는 틀입니다. 두 눈의 시점을 돌려 장면 속 3D 주시점(fixation point)에 수렴시킨 뒤, 그렇게 얻은 영상의 중심부에 시각 토큰을 더 많이 배정해 과제에 중요한 곳에 계산을 모읍니다. 저자들은 이 방식을 능동 시각 주시(Active Visual Fixation, AVF)라 부릅니다.
+
+시선은 계층으로 나눠 배웁니다. 하위 시선 정책은 목표 물체가 주어지면 그 물체로 시선을 맞추고, 상위 표적 선택기(target selector)는 과제 진행에 따라 다음에 볼 물체를 고릅니다. 둘 다 실제 데이터로 강화학습을 하는데, 시선 정책은 기하학적 보상을 쓰고 표적 선택기는 그리퍼 행동 복제(behavior cloning, BC) 정책과 함께 학습하면서 사람이 과제를 할 때와 닮은 시선 순서를 스스로 찾아냅니다. 그리퍼의 고유수용 감각(proprioception)과 행동도 주시점을 향해 도는 SE(3) 좌표계로 옮겨 표현하므로, 정책이 배워야 할 행동 분포가 좁아집니다.
+
+실제 과제 7개와 시뮬레이션 과제 6개의 원격조작 데이터를 모아 실물 1,000회 이상, 시뮬레이션 1,800회 이상 시험했습니다. 손목 카메라를 빼면 일반 정책의 실물 성공률은 52%에서 27%로 떨어지는데, EyeRobot 2.0은 같은 스테레오 영상만으로 수동 스테레오(passive stereo)보다 실물에서 40%, 시뮬레이션에서 20% 높습니다. 손목 시야가 깨끗한 과제에서는 손목 카메라 정책과 비슷하고(69% 대 64%), 잡은 물체가 손목 카메라를 가리는 과제에서는 두 배가 넘습니다(48% 대 22%).
+
+---
+
+## 1. 출발점 — EyeRobot 1.0의 BC-RL 순환
+
+이 논문은 같은 저자들의 [EyeRobot](/blog/paper-review/active-vision/eyerobot)을 잇는데, 1편은 시선 시연 없이 시선을 배우는 방법을 보였습니다. 로봇 팔의 행동 복제 정책을 학습하면서 그 정책이 시연 행동을 얼마나 잘 맞히는지를 보상으로 삼아 시선 정책도 강화학습으로 함께 학습합니다. 행동을 맞히기 쉬운 곳을 보는 시선이 보상을 받으니, 과제에 쓸모 있는 시선이 저절로 자리 잡습니다.
+
+1편은 360° 카메라로 시연을 찍고 거기서 새 시점을 렌더링해 강화학습 환경을 만들었습니다. 2편은 같은 순환 구조를 유지하면서 세 가지를 바꿔 훨씬 정밀한 과제로 나아갑니다.
+
+- 360° 영상 대신 보정된 스테레오 카메라로 두 눈의 3D 주시를 합성합니다.
+- 시선 하나를 직접 고르는 대신, 물체 단위 목표를 고르는 선택기와 그 물체로 시선을 맞추는 정책으로 계층을 나눕니다.
+- 팔의 행동을 세계 좌표계가 아니라 주시 좌표계로 표현합니다.
+
+---
+
+## 2. 돌리지 않는 눈 — 스테레오 영상으로 시선 합성하기
+
+시선을 강화학습으로 배우려면, 시선 정책이 생기기도 전에 모아 둔 시연에서 "저쪽을 봤다면 무엇이 보였을까"를 거꾸로 만들어 낼 수 있어야 합니다. 카메라를 광학 중심 기준으로 회전시킨 영상은 3D 복원 없이 이미지 변환(warp)만으로 얻을 수 있는데, EyeRobot 2.0은 이 성질을 이용합니다.
+
+그래서 보정된 스테레오 카메라의 두 영상을 각각 구면에 투영해 두고 두 눈이 같은 3D 점을 바라볼 때의 원근 영상을 잘라 냅니다. 카메라는 실제로 한 번도 움직이지 않는데, 정책 입장에서는 두 눈이 수렴하며 대상을 바라보는 화면을 받습니다. 덕분에 데이터 수집, 학습, 배포에 같은 카메라를 그대로 씁니다.
+
+하드웨어는 I2RT YAM 양팔(14자유도)과 평행 그리퍼입니다. 스테레오 카메라는 두 팔 사이 기저 관절 위 35 cm 높이에 아래로 45° 기울여 고정했으며 눈마다 대각 시야각 120°, 해상도 1600 × 1200입니다. 원격조작은 GELLO와 TRLC를 고쳐 만든 리더 팔로 합니다.
+
+---
+
+## 3. 목표 조건 시선 정책 — 물체 하나를 3D로 쫓기
+
+첫 단계는 "이 물체를 봐"라는 지시를 받으면 두 눈을 그 물체에 맞추는 정책입니다.
+
+![그림 3 — 목표 조건 시선 정책의 학습](https://arxiv.org/html/2610.03710v1/3d.png)
+
+_그림 3 — 위: 원본 스테레오 영상을 구면 투영한 뒤 주시 시점을 렌더링합니다. 아래: SAM3로 물체를 찾고 FoundationStereo로 깊이를 구해 물체의 3D 중심을 정답 주시점으로 삼고, 현재 주시점과의 거리를 보상으로 씁니다. 오른쪽: 정책은 다중 해상도 영상, 눈의 현재 상태, 목표 문구를 받아 방위각·고도·거리 변화량을 냅니다._
+
+입력은 목표를 가리키는 언어 문구, 현재 주시 시점의 영상, 극좌표로 나타낸 현재 주시점입니다. 언어 문구는 원칙적으로 무엇이든 될 수 있지만 실제로는 과제마다 로봇이 다루는 물체 목록으로 제한합니다. 출력은 방위각 변화 Δθ, 고도 변화 Δϕ, 주시 거리 변화 Δd입니다.
+
+학습은 PPO로 하는데, 시연 영상에서 정지 프레임을 무작위로 뽑아 놓고 그 프레임 안에서 시선을 움직여 보게 합니다. 보상은 다음과 같이 만듭니다.
+
+1. 과제의 물체 문구로 SAM3에 질의해 후보 물체의 마스크를 얻고, 그중 하나를 무작위로 고릅니다.
+2. FoundationStereo로 스테레오 깊이를 구하고, 마스크와 겹치는 깊이 점들의 3D 중심을 정답 위치 $p_{gt}$로 둡니다.
+3. 현재 주시점 $p_{cur}$와의 거리로 보상을 줍니다.
+
+$$
+r = -\|p_{cur} - p_{gt}\|_2
+$$
+
+저자들은 이 단계를 두고 느린 파운데이션 모델의 검출 결과를 빠른 실시간 시선 제어기로 증류하는 과정이라고 설명합니다. 그렇게 얻은 가벼운 정책은 과제의 모든 대상 물체에 30 Hz로 빠르게 시선을 맞추고, 정지 프레임으로만 학습했는데도 실행 중에 움직이는 물체를 안정적으로 따라갑니다. 학습을 마친 뒤의 평균 3D 주시 오차는 3.5 cm입니다.
+
+행동 공간은 일부러 이산화했습니다. 방위각·고도는 8방향에 크기 두 단계(10°, 3°)와 정지를 두고, 거리는 세 단계(10 cm, 5 cm, 1 cm)와 정지를 둔 뒤 둘을 곱해 119개 칸으로 만듭니다. 같은 물체가 두 개 있을 때처럼 어느 쪽이 정답인지 애매한 상황에서 연속 출력은 둘의 평균으로 빠지기 쉬운데, 이산 분포는 한쪽을 고르게 만들어 줍니다.
+
+---
+
+## 4. 시선 순서 배우기 — 표적 선택기와 BC-RL 순환
+
+물체 하나를 바라보는 능력이 생겼으니, 이제 "언제 무엇을 볼지"를 정해야 합니다. 과제 단계를 사람이 일일이 표시하는 대신, 1편처럼 행동 복제 정책과 함께 강화학습으로 배웁니다.
+
+![그림 4 — 주시 순서 학습과 주시 좌표계 행동](https://arxiv.org/html/2610.03710v1/arch.png)
+
+_그림 4 — 왼쪽: 과제별 가벼운 표적 선택기가 장면 속 물체 사이를 오가며 목표를 고르고, 얼려 둔 시선 정책이 그 물체를 바라봅니다. 그 시점에서 처음부터 함께 학습하는 그리퍼 행동 복제 정책의 예측 오차를 음수로 바꿔 선택기의 보상으로 줍니다. 오른쪽: 행동 청크는 현재 주시점을 향하는 눈 좌표계의 SE(3)로 표현합니다._
+
+표적 선택기는 3층, 폭 256의 작은 다층 퍼셉트론(MLP)입니다. 로봇의 고유수용 감각을 받아 과제별 물체 문구 가운데 하나를 고르는 범주 분포를 내고, 거기서 뽑힌 문구가 얼려 둔 시선 정책의 목표가 됩니다. 시선이 자리 잡을 시간을 주려고 15프레임마다 한 번씩만 목표를 바꿉니다.
+
+순환은 다음과 같이 돕니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "sel", "label": "표적 선택기", "sub": "고유수용 감각 → 물체 문구", "color": "orange"},
+    {"id": "gaze", "label": "시선 정책 (동결)", "sub": "문구 → 3D 주시", "color": "green"},
+    {"id": "view", "label": "주시 시점 영상", "sub": "스테레오 다중 해상도"},
+    {"id": "bc", "label": "그리퍼 BC 정책", "sub": "주시 좌표계 행동 청크", "color": "blue"},
+    {"id": "demo", "label": "원격조작 시연", "sub": "정답 행동 청크"},
+    {"id": "rew", "label": "보상", "sub": "−Fréchet 거리 (움직이는 팔)", "color": "orange"}
+  ],
+  "edges": [
+    {"from": "sel", "to": "gaze"},
+    {"from": "gaze", "to": "view"},
+    {"from": "view", "to": "bc"},
+    {"from": "bc", "to": "rew", "label": "예측"},
+    {"from": "demo", "to": "rew", "label": "정답"},
+    {"from": "demo", "to": "bc", "label": "지도 학습"},
+    {"from": "rew", "to": "sel", "label": "PPO"}
+  ],
+  "height": 340
+}
+```
+
+보상 설계에서는 먼저 양팔 중 정답 청크에서 말단이 더 많이 움직이는 쪽을 "움직이는 팔"로 정하고 그 팔만 봅니다. 양팔 시연에는 쉬고 있는 팔의 미세한 움직임처럼 과제와 무관한 상관이 섞이기 쉬운데, 움직이는 팔만 보면 이런 상관이 보상에서 빠집니다. 다음으로 예측과 정답의 차이를 L2 오차가 아니라 호 길이로 재매개화한 프레셰 거리(arc-length Fréchet distance)로 잽니다. 같은 경로를 조금 빠르거나 느리게 지나도 거리가 크게 변하지 않아 보상이 안정적입니다.
+
+학습용 시작 프레임은 시연 전체에서 고르게 뽑되 첫 프레임에 10%의 가중치를 따로 줍니다. 무엇부터 집으러 갈지 정하는 첫 결정이 시선에서 가장 중요하기 때문입니다. 각 롤아웃의 처음 30프레임은 정지 화면으로 두어 행동을 시작하기 전에 시선이 자리 잡게 합니다.
+
+행동 복제 정책은 강화학습의 그래디언트와 완전히 분리된 투영·디코더 층을 따로 두고, 최근 100개 롤아웃을 담은 버퍼에서 독립적으로 표본을 뽑아 학습합니다. 시선이 바뀌면 행동 복제 정책이 받는 시점도 바뀌므로, 두 정책이 서로의 변화에 맞춰 같이 움직입니다.
+
+![그림 2 — 표적 선택기의 출력 확률](https://arxiv.org/html/2610.03710v1/probs.png)
+
+_그림 2 — 마커 뚜껑과 몸통을 집어 뚜껑을 씌우고, 필통을 옮겨 마커를 넣고 지퍼를 닫는 실물 시행 하나에서 표적 선택기가 낸 확률입니다. 뚜껑을 씌울 때는 마커를, 필통을 옮길 때는 필통을 보는 식으로 지금 단계에 맞는 물체를 고릅니다. 손목 카메라는 달려 있지만 쓰지 않습니다._
+
+학습된 시선은 꽤 직관적입니다. 마커 과제에서는 먼저 뚜껑을 보다가 마커를 집기 직전 마커로 시선을 옮기고, 뚜껑을 씌우는 내내 마커를 봅니다. 대체로 물체를 잡은 직후까지 그 물체를 바라봅니다. 시연 내내 거의 정면에 놓여 있던 필통을 조작 도중 일종의 기준점처럼 바라보는 구간도 있습니다.
+
+---
+
+## 5. 주시 좌표계로 표현한 행동
+
+시선을 어디에 둘지 알면 지각만 쉬워지는 게 아니라 행동 예측도 쉬워집니다. EyeRobot 2.0은 로봇의 고유수용 감각과 행동 청크를 주시 좌표계 기준의 SE(3) 말단 자세로 표현합니다. 주시 좌표계는 두 눈 한가운데의 가상 눈(cyclopean eye)에서 3D 주시점을 향하도록 돌린 좌표계이고, 시선이 움직이면 같이 움직입니다.
+
+세계 좌표계에서는 같은 물체를 집더라도 물체가 놓인 위치마다 그리퍼 궤적이 달라지지만, 주시 좌표계에서는 그 물체를 바라보는 방향이 기준이 되므로 서로 다른 위치에서 집는 동작이 비슷한 모양으로 모입니다. 그래서 같은 양의 데이터로도 정책이 배워야 할 동작을 더 촘촘하게 덮습니다. 그리퍼 정책에는 주시점까지의 거리도 입력으로 들어가서 깊이를 가늠하는 기준점 역할을 합니다.
+
+저자들은 이 설계를 데이터 다양체(manifold)를 압축하는 방법으로 설명합니다. 신경망을 개선하는 방법은 구조나 최적화를 고치는 것, 데이터를 더 모으는 것, 다양체 자체를 작게 만드는 것으로 나눌 수 있는데, EyeRobot 2.0은 주로 세 번째를 택합니다. 입력 쪽에서는 주시 시점 영상이 관심 영역을 화면 중앙에 모으고, 출력 쪽에서는 주시 좌표계가 행동을 모읍니다. 손목 카메라가 잘 통하는 이유도 같은데, 그리퍼에 붙은 시점에서는 "왼쪽으로 조금"이 언제나 같은 모양이기 때문입니다.
+
+---
+
+## 6. 중심와 구조 — 다중 해상도 잘라 내기
+
+입력 영상은 주시점을 중심으로 크기를 달리해 여러 장 잘라 낸 뒤 피라미드로 쌓고, 각각을 얼려 둔 DINOv3 ViT-S/16 인코더에 따로 통과시켜 토큰을 이어 붙입니다. 중심부는 고해상도 토큰으로, 주변부는 넓은 맥락을 담은 저해상도 토큰으로 들어가고, 모델은 필요한 해상도의 토큰에 골라서 주의를 기울입니다. 프로젝트 페이지에 따르면 중심부 해상도를 영상 전체에 균일하게 주려면 토큰이 10배 넘게 필요합니다. 사람 망막의 중심와(fovea)를 흉내 낸 구조입니다.
+
+정책 본체는 [ACT](/blog/paper-review/pre-vla/act) 식 트랜스포머 디코더입니다.
+
+- 모든 토큰에 회전 위치 인코딩(RoPE) $(x, y, t)$를 붙입니다. 영상 토큰의 $x, y$는 전체 영상 속 위치이고, 나머지 토큰은 영상 중심값을 받습니다. 행동 청크 토큰에는 미래 시점에 맞는 $t$를 줍니다.
+- 시퀀스가 짧으므로 RoPE의 θ를 기본값 10,000 대신 1,000으로 낮춥니다. 헤드당 128차원 중 시간에 32, $x$와 $y$에 각각 48을 씁니다.
+- 6블록, 토큰 차원 384, 헤드 12개, MLP 확장 비율 4.0, 드롭아웃 10%입니다.
+- 그리퍼 정책은 과거 이력 없이 한 프레임만 보고, 시선 정책은 직전 3프레임의 시선 방향을 함께 봐서 시선이 흔들리지 않게 합니다.
+
+학습은 한 번에 L40S GPU 8장을 씁니다. 시선 사전학습은 1,500만 롤아웃 스텝(1,950회 반복, 고유 롤아웃 125,000개), 행동 복제와 함께하는 시선 후학습은 1,000만 스텝(에피소드 50,000개, 781회 반복, 행동 복제 그래디언트 3,124스텝)입니다. 후학습 때는 영상을 2배속으로 재생해 에피소드 하나가 시연을 더 넓게 덮게 합니다.
+
+실행 시에는 30 Hz로 예측한 행동 청크를 200 Hz로 3차 보간해 로봇에 보내고, 시간 앙상블(temporal ensembling, k = 0.01)을 적용합니다. 앙상블한 속도를 YAM 팔에 앞먹임(feedforward)으로 넣어 움직임을 부드럽게 만듭니다. 처리 속도는 기준선이 약 40 Hz, EyeRobot 2.0이 약 20 Hz입니다.
+
+---
+
+## 7. 실험 설계 — 같은 데이터, 처음부터 학습
+
+![그림 5 — 실물 7과제와 시뮬레이션 6과제](https://arxiv.org/html/2610.03710v1/tasks.png)
+
+_그림 5 — 실물 과제 7개와 시뮬레이션 과제 6개입니다. 영상은 스테레오 왼쪽 카메라의 원본 시점입니다. 실물 과제에는 정밀 조작, 다단계 동작, 관절 달린 물체 다루기, 작업 공간 전체를 오가는 조작이 들어 있습니다._
+
+비교를 공정하게 만들려고 저자들은 모든 데이터를 직접 모으고 모든 정책을 같은 시연으로 처음부터 학습합니다. 기성 모델의 알 수 없는 사전학습 분포가 결과를 흐리는 것을 막고, 계산량을 줄여 실험 횟수를 열 배가량 늘리기 위한 선택입니다. 시연은 스테레오와 손목 카메라를 모두 단 채로 모았으므로 모든 정책이 똑같은 데이터를 씁니다.
+
+|         | plate | tape | tiger | hang_spoon | medical_tray | pot_lid | tape | boba | wrench | marker_bag | pot_lid | tea  | toaster | 합계  |
+| ------- | ----- | ---- | ----- | ---------- | ------------ | ------- | ---- | ---- | ------ | ---------- | ------- | ---- | ------- | ----- |
+| 구분    | 시뮬  | 시뮬 | 시뮬  | 시뮬       | 시뮬         | 시뮬    | 실물 | 실물 | 실물   | 실물       | 실물    | 실물 | 실물    |       |
+| 시연 수 | 100   | 64   | 50    | 64         | 63           | 64      | 64   | 108  | 114    | 126        | 95      | 213  | 89      | 1278  |
+| 분      | 21.6  | 10.8 | 4.0   | 8.1        | 18.4         | 7.5     | 9.5  | 31.1 | 26.3   | 53.4       | 11.3    | 26.5 | 52.0    | 287.7 |
+
+기준선은 둘입니다.
+
+- **No Gaze(수동 스테레오)** — 원본 스테레오 영상을 그대로 받습니다. 관측 가능성은 EyeRobot 2.0과 똑같고 주시만 없습니다.
+- **Ego + Wrist** — 손목 카메라 2대와 스테레오 왼쪽 영상을 받는, 현재 양팔 조작의 표준 구성입니다.
+
+두 기준선 모두 같은 구조와 하이퍼파라미터의 ACT로 학습하고, 배치 오차에 덜 민감하도록 95% 중앙 자르기와 10% 이동·회전 무작위화를 넣습니다. 행동 공간은 시뮬레이션에서 네 가지를 모두 돌려 본 뒤 가장 좋은 쪽을 골랐습니다.
+
+![그림 12 — 기준선 행동 공간 탐색](https://arxiv.org/html/2610.03710v1/action_space_fig.png)
+
+_그림 12 — 시뮬레이션 5과제에서 기준선의 행동 공간을 모두 비교한 결과입니다. 흐린 막대는 학습 분포와 똑같은 위치에서, 진한 막대는 다른 시드의 시험 분포에서 잰 값입니다. 청크 첫 말단 자세 기준의 상대 SE(3)(각 묶음의 맨 오른쪽)가 가장 좋아 실물 기준선 전부에 썼습니다._
+
+청크 길이는 기준선이 1초(ACT 권장값), EyeRobot 2.0이 1.5초입니다. 시뮬레이션에서 주시를 쓸 때만 1.5초 청크가 약간 나았고, 기준선은 길이를 바꿔도 이득이 없었습니다.
+
+평가는 엄격하게 통제했습니다. 실물에서는 시드 3개 중 하나를 무작위로 골라 과제당 25개 배치(tape는 64개)에서 시험합니다. 카메라 화면에 시험 위치를 겹쳐 띄우고 물체를 손으로 맞춰서 모든 정책이 같은 위치에서 시험받게 했습니다. 시뮬레이션에서는 시드 3개 중 최고 성능을 보고하고, 모두 같은 100개 배치에서 잽니다.
+
+---
+
+## 8. 결과 — 수동 스테레오, 그리고 손목 카메라와의 비교
+
+### 같은 스테레오 영상, 다른 결과
+
+EyeRobot 2.0은 13개 과제 모두에서 수동 스테레오를 이기는데, 평균 차이는 시뮬레이션에서 +20%, 실물에서 +40%입니다. 실물 7과제 평균 성공률은 수동 스테레오 27%, Ego + Wrist 52%, EyeRobot 2.0 67%입니다.
+
+수동 스테레오 정책은 학습 위치에 과적합하는 경향이 강했는데, 시연을 8 × 8 격자로 모은 tape 과제나 작업 공간 전체를 오가야 하는 tea 과제에서 특히 심했습니다. 정밀도도 모자라서 마커 끼우기(4%)와 빨대 꽂기(8%)를 거의 해내지 못합니다. EyeRobot 2.0은 같은 스테레오 영상을 받으면서도 관련 물체에 시선을 모아서, 이 두 과제에서 끝까지 성공한 비율이 68%와 44%입니다.
+
+### 손목 카메라와의 비교
+
+과제당 25회 시행한 과제별 성공률(%)은 다음과 같습니다.
+
+| 과제    | 손목 시야 | 수동 스테레오 | Ego + Wrist | EyeRobot 2.0 |
+| ------- | --------- | ------------- | ----------- | ------------ |
+| Marker  | 깨끗함    | 4             | 56          | 68           |
+| Tea     | 깨끗함    | 28            | 80          | 80           |
+| Toaster | 깨끗함    | 36            | 52          | 52           |
+| Wrench  | 깨끗함    | 32            | 68          | 76           |
+| Boba    | 가려짐    | 8             | 12          | 44           |
+| Pot lid | 가려짐    | 28            | 32          | 52           |
+
+손목 카메라가 대상을 계속 볼 수 있는 marker·tea·toaster·wrench에서는 두 방식이 비슷합니다(평균 64% 대 69%). 잡은 물체가 손목 카메라를 가리는 boba와 pot lid에서는 Ego + Wrist가 수동 스테레오 근처로 떨어지는 반면 EyeRobot 2.0은 성능을 유지해 두 배 차이가 납니다(평균 22% 대 48%). 컵을 쥔 손의 카메라는 컵 벽만 보고, 냄비 뚜껑을 쥔 손의 카메라는 뚜껑 안쪽만 보게 되니 결국 머리 쪽 영상에 기댈 수밖에 없기 때문입니다.
+
+tape 과제에서는 손목 카메라 정책도 수동 스테레오처럼 격자 학습 분포에 과적합했습니다. 노란 테이프를 쥔 그리퍼의 손목 카메라가 내려놓기 직전까지 가려져 있다가 보일 때쯤에는 이미 테이프가 되돌릴 수 없는 위치에 와 있기 때문입니다. EyeRobot 2.0은 이 과제에서 64회 중 60회 성공했습니다.
+
+저자들은 단계별 성공 흐름을 Sankey 도표로 따로 분석하는데, EyeRobot 2.0의 실패는 빨대 꽂기나 뚜껑 씌우기처럼 가장 정밀한 단계에 몰립니다. 수동 스테레오는 그 단계에서 더 많이 무너질 뿐 아니라 처음 물체를 집는 쉬운 단계에서도 자주 실패합니다. tea 과제에서 수동 스테레오가 작은 티백을 집은 비율은 32%였지만 EyeRobot 2.0은 매번 집었습니다. 손목 시야가 깨끗한 과제에서는 Ego + Wrist와 EyeRobot 2.0의 단계별 조건부 성공률도 비슷한데, 저자들은 이를 남은 실패가 손목 카메라로도 해결되지 않는 모델링이나 데이터 부족에서 온다는 뜻으로 읽습니다.
+
+### 방해물이 있을 때
+
+tea, wrench, tape 과제에서 알록달록한 방해물을 책상에 흩어 놓고 다시 시험했습니다. 방해물 배치 25개도 기록해 두고 모든 정책에 똑같이 재현했습니다.
+
+| 과제   | 정책         | 1단계 | 2단계 | 3단계 | 성공 |
+| ------ | ------------ | ----- | ----- | ----- | ---- |
+| wrench | Ego-only     | 3/25  | 0/25  | 0/25  | 0/25 |
+|        | Ego + Wrist  | 10/25 | 6/25  | 4/25  | 4/25 |
+|        | EyeRobot 2.0 | 20/25 | 7/25  | 5/25  | 5/25 |
+| tea    | Ego-only     | 3/25  | 0/25  | –     | 0/25 |
+|        | Ego + Wrist  | 11/25 | 4/25  | –     | 4/25 |
+|        | EyeRobot 2.0 | 13/25 | 4/25  | –     | 4/25 |
+| tape   | Ego-only     | 6/25  | 1/25  | 0/25  | 0/25 |
+|        | Ego + Wrist  | 14/25 | 0/25  | 0/25  | 0/25 |
+|        | EyeRobot 2.0 | 23/25 | 12/25 | 8/25  | 8/25 |
+
+wrench의 단계는 상자 손잡이 잡기·상자 열기·렌치 꺼내기, tea는 티백 집기·컵에 넣기, tape는 노란 테이프 집기·건네기·올려놓기입니다.
+
+손목 카메라 정책은 시야에서 가장 크거나 눈에 띄는 물체로 손을 뻗는 일이 잦았고, 일단 뻗기 시작하면 손목 시야에서 목표가 사라져 되돌아오지 못했습니다. EyeRobot 2.0은 시선이 올바른 물체에 가 있으면 그 물체로 손을 뻗었고, 잡기에 실패한 경우는 대개 엉뚱한 곳을 보고 있을 때였습니다. 이 차이는 첫 번째 잡기 성공률에서 가장 분명하게 드러납니다. 시각과 행동을 떼어 놓으면 어수선한 장면에서 무관한 정보를 말 그대로 보지 않을 수 있습니다.
+
+### 시뮬레이션
+
+시뮬레이션은 MuJoCo로 만든 디지털 트윈인데, 시뮬레이션에서 실물로 옮기려는 게 아니라 같은 학습 파이프라인으로 여러 방법을 대량으로 비교하려는 용도입니다. YAM 팔의 치수와 물리 상수는 MJ-Playground의 공개 값을 쓰고, 핀홀이 아닌 카메라는 핀홀 렌더링 뒤 변환으로 맞췄습니다. 원격조작은 Quest 3 VR 화면을 보며 GELLO로 했습니다.
+
+![그림 14 — 시뮬레이션 과제와 단계](https://arxiv.org/html/2610.03710v1/sim_full.png)
+
+_그림 14 — 시뮬레이션 과제와 단계입니다. 한 팔 집어 놓기(pot, spoon), 건네기가 낀 한 팔 과제(tape), 양팔 협응(tray, spoon)을 다룹니다._
+
+성공률(%)은 시드 3개 중 최고값이며 과제당 100회입니다.
+
+| 정책          | Plate | Tape | Tiger | Spoon | Tray | Pot | 평균 |
+| ------------- | ----- | ---- | ----- | ----- | ---- | --- | ---- |
+| 수동 스테레오 | 41    | 55   | 87    | 26    | 44   | 69  | 54   |
+| Ego + Wrist   | 74    | 81   | 96    | 27    | 85   | 90  | 75   |
+| EyeRobot 2.0  | 70    | 79   | 98    | 30    | 78   | 91  | 74   |
+
+EyeRobot 2.0은 시뮬레이션에서도 손목 카메라와 거의 비슷한 수준입니다. pot과 tape 두 과제는 실물과 시뮬레이션에 모두 있어 순위를 비교할 수 있는데, 절대 성공률은 맞지 않아도 정책 사이의 순위는 유지됐습니다. 다만 시뮬레이션이 손목 카메라에 더 유리하게 나오는 경향이 있는데, 저자들은 실제 물리가 불완전할수록 말단 기준 상대 청크에 행동 오차가 누적되기 쉽기 때문일 수 있다고 봅니다.
+
+---
+
+## 9. 절제 실험 — 무엇이 성능을 만드나
+
+실물 절제 결과입니다(tape는 64회, 나머지는 25회).
+
+| 정책             | boba  | marker | pot   | tea   | toaster | tape  | wrench | 평균  |
+| ---------------- | ----- | ------ | ----- | ----- | ------- | ----- | ------ | ----- |
+| 중심와 처리 제거 | 12/25 | 5/25   | 10/25 | 12/25 | 9/25    | 47/64 | 15/25  | 46.5% |
+| 스테레오 제거    | 10/25 | 8/25   | 10/25 | 15/25 | 6/25    | 51/64 | 16/25  | 48.5% |
+| EyeRobot 2.0     | 11/25 | 17/25  | 13/25 | 20/25 | 13/25   | 60/64 | 19/25  | 66.5% |
+
+- **중심와 처리 제거** — 다중 해상도 피라미드를 빼고 눈마다 주변부 시야 하나만 넣으면 평균 20% 떨어지고, 세부를 봐야 하는 정밀 과제에서 낙폭이 가장 큽니다. marker가 17/25에서 5/25로 떨어집니다.
+- **스테레오 제거** — 영상 한 장만 주고 주시 거리 입력도 빼면 평균 18% 떨어집니다. 두 눈의 정보가 실제로 쓰인다는 뜻입니다.
+
+시뮬레이션 절제(성공률, 6과제 평균)도 있습니다.
+
+| EyeRobot 2.0 | 주시 상대 행동 제거 | 한 물체 고정 응시(최악) | 한 물체 고정 응시(최선) | 스테레오 제거 | 중심와 처리 제거 |
+| ------------ | ------------------- | ----------------------- | ----------------------- | ------------- | ---------------- |
+| 0.74         | 0.53                | 0.50                    | 0.69                    | 0.74          | 0.72             |
+
+- **주시 상대 행동 제거** — 행동과 고유수용 감각을 세계 좌표계로 돌려놓으면 21% 떨어져 시선 없는 기준선 수준이 됩니다. 시선이 있어도 출력 공간이 전역이면 데이터가 적은 상황에서 특정 궤적 위치에 과적합할 여지가 남습니다. 이 논문이 얻은 성능 향상 가운데 상당 부분이 행동 표현에서 옵니다.
+- **한 물체 고정 응시** — 학습 내내 시선을 한 물체에 묶어 두면 최악의 선택에서 24%, 최선의 선택에서도 5% 떨어집니다. 과제 중에 시선을 옮기는 것 자체가 의미가 있습니다.
+- **시뮬레이션에서의 스테레오·중심와 처리** — 실물과 달리 거의 차이가 없습니다. 저자들은 시뮬레이션 과제가 시각적으로 단순하고 세밀한 공차를 요구하지 않으며, 실행에 변동이 거의 없어 닫힌 고리 시각 서보가 덜 필요하기 때문이라고 해석합니다.
+
+---
+
+## 10. 저자가 밝힌 한계
+
+첫째, 과제마다 시선 정책과 그리퍼 정책을 따로 학습합니다. 여러 과제를 하나의 모델로 다루려면 표적 선택기가 일반적인 문구를 낼 수 있을 만큼 큰 데이터로 시선을 학습해야 하고, 문구를 만드는 쪽을 시각-언어 모델 같은 다른 구조로 바꿔야 할 수도 있습니다.
+
+둘째, 머리나 목의 움직임은 다루지 않고, 좋은 머리 위치가 이미 주어졌을 때 미세한 눈 움직임을 어떻게 조율할지만 다룹니다. 이 논문이 푸는 문제는 더 나은 시점을 찾아 목을 움직이는 정보 탐색형 능동 시각이 아니라, 이미 잘 보이는 작업 공간 안에서 계산과 주의를 어디에 모을지 정하는 정보 거르기형 능동 시각입니다.
+
+셋째, 시선 사전학습이 물체 단위라서 물체의 특정 부분을 보는 수준의 시선은 아직 배우지 못합니다. 빨대 구멍이나 지퍼 손잡이처럼 물체의 일부가 중요한 과제에서는 그런 시선이 더 도움이 될 수 있습니다.
+
+---
+
+## 11. 정리 — 손목 카메라가 주던 것을 시선으로
+
+손목 카메라는 조작이 일어나는 곳에 해상도를 몰아주고 그리퍼 기준의 시점으로 관측과 행동의 분포를 좁혀 줍니다. EyeRobot 2.0은 이 둘을 머리 쪽 스테레오 카메라 하나로 재현합니다.
+
+- 해상도는 주시점 중심의 다중 해상도 잘라 내기로 모읍니다. 중심와 처리를 빼면 실물 평균이 66.5%에서 46.5%로 떨어집니다.
+- 분포 압축은 주시 좌표계 행동으로 얻습니다. 이걸 빼면 시뮬레이션 평균이 0.74에서 0.53으로 떨어집니다.
+- 어디를 볼지는 사람 시선 데이터 없이 배웁니다. 기하학적 보상으로 물체 하나를 쫓는 법을, 행동 복제 정책의 예측 정확도로 볼 순서를 배웁니다.
+
+그 결과 손목 시야가 깨끗할 때는 손목 카메라와 비슷하고, 가려질 때는 두 배가 넘습니다. 시각과 그리퍼를 떼어 놓았으니 방해물이 많은 장면에서 엉뚱한 물체로 손을 뻗는 일도 줄었습니다.
+
+계보로 보면 [1편 EyeRobot](/blog/paper-review/active-vision/eyerobot)이 "행동을 잘 맞히게 해 주는 곳을 본다"는 BC-RL 순환을 세웠고, 2편은 그 순환 위에 스테레오 3D 주시, 계층형 표적 선택, 주시 좌표계 행동을 얹어 정밀 양팔 조작으로 끌고 왔습니다. 저자들은 프로젝트 페이지에서 손목 카메라가 몸체와 무관한 시점을 주기 때문에 UMI 식 데이터 수집이 가능했다고 인정하고, 그 간극을 1인칭 시점과 시선으로 줄이는 일은 앞으로의 과제로 남겨 둡니다. 손에 든 집게에 카메라를 단 [UMI 계보](/blog/paper-review/umi)는 같은 문제를 정반대 쪽에서 풀고 있어서 함께 읽어 볼 만합니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/active-vision/eyerobot","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"1편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop"}]]}],"$undefined"]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,875 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"VLA","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots\",\"description\":\"Eagle-2 시각-언어 모델(System 2)과 flow matching으로 학습한 Diffusion Transformer 행동 모듈(System 1)을 한 모델로 묶고, 실로봇·시뮬레이션·생성 영상·사람 영상을 한 데이터 혼합으로 사전학습한 휴머노이드용 공개 기반 모델 GR00T N1을 원본 그림과 함께 풀어봅니다.\",\"image\":\"https://arxiv.org/html/2503.14734v2/data_pyramid.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/vla/gr00t-n1\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-09-13T22:22:58.000Z\",\"dateModified\":\"2026-09-13T22:22:58.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/vla","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"VLA 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"9편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"}]
+10:Tfc59,
+## 들어가며
+
+[π0 논문해석](/blog/paper-review/vla/pi0)은 사전학습한 시각-언어 모델(Vision-Language Model, VLM)에 작은 **행동 전문가(action expert)** 가중치를 더하고, 두 가중치 묶음을 한 Transformer의 자기 주의(self-attention) 층에서 연결했습니다. 이미지·언어 토큰과 행동 토큰이 한 시퀀스 안에서 같이 계산되는 구조입니다.
+
+GR00T N1은 NVIDIA가 휴머노이드 로봇용으로 공개한 VLA입니다. 구성 요소는 π0와 비슷합니다. 사전학습 VLM이 이미지와 지시를 읽고, flow matching으로 학습한 행동 모듈이 연속 행동 묶음을 만듭니다. 달라진 점은 두 모듈의 연결 방식과 데이터입니다. VLM과 행동 모듈을 별도의 Transformer로 두고 **교차 주의(cross-attention)** 로 연결했고, VLM은 초당 10번, 행동 모듈은 초당 120번 행동을 내는 속도로 설계했습니다. 데이터는 실로봇 시연만이 아니라 사람 1인칭 영상, 시뮬레이션에서 자동으로 늘린 시연, 영상 생성 모델로 만든 로봇 영상까지 한 학습 혼합으로 묶었습니다.
+
+📄 [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734) — NVIDIA (핵심 기여자 Scott Reed, Ruijie Zheng, Guanzhi Wang 외, 연구 책임 Linxi "Jim" Fan·Yuke Zhu), 2025-03-18 공개 (v2 2025-03-27)
+
+모델 체크포인트와 코드는 [github.com/NVIDIA/Isaac-GR00T](http://github.com/NVIDIA/Isaac-GR00T)에, 시뮬레이션 데이터는 [Hugging Face 데이터셋](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim)에 공개돼 있습니다. arxiv 식별자는 2503.14734이고, 이 글은 v2를 기준으로 합니다.
+
+### 초록 요약
+
+범용 로봇에는 여러 일을 할 수 있는 몸과 그 몸을 움직일 모델이 모두 필요합니다. 저자들은 사람과 비슷한 체형의 휴머노이드가 사람의 환경에서 범용 작업을 하기에 알맞은 하드웨어라고 보고, 휴머노이드용 로봇 기반 모델(robot foundation model) GR00T N1을 공개합니다.
+
+GR00T N1은 두 모듈로 이루어진 VLA입니다. 시각-언어 모듈(System 2)은 카메라 영상과 언어 지시로 환경과 과제를 해석하고, 그 뒤의 Diffusion Transformer 모듈(System 1)은 실시간으로 부드러운 모터 행동을 만듭니다. 두 모듈은 한 모델 안에서 끝에서 끝까지(end-to-end) 함께 학습합니다. 학습 데이터는 실로봇 궤적, 사람 영상, 합성 데이터를 섞은 것입니다. 시뮬레이션 벤치마크 세 종류에서 기존 모방 학습 기준선보다 높은 성공률을 냈고, Fourier GR-1 휴머노이드의 언어 조건 양손 조작 과제에서 적은 데이터로도 높은 성능을 보였습니다.
+
+---
+
+## 1. 문제 — 휴머노이드 데이터의 규모와 형식
+
+### 세 가지 구성 요소
+
+저자들은 사람 수준의 물리 지능에 가까워지려면 하드웨어, 모델, 데이터를 함께 다뤄야 한다고 봅니다.
+
+| 구성 요소 | 논문이 보는 조건 | GR00T N1의 대응 |
+|----------|----------------|----------------|
+| 하드웨어 | 로봇의 몸이 할 수 있는 동작의 범위를 정함 | 사람과 체형이 비슷한 휴머노이드(Fourier GR-1)를 주 대상으로 삼음 |
+| 모델 | 끝이 정해지지 않은 여러 과제를 처리할 만큼 표현력이 커야 함 | VLM + flow matching 행동 모듈, 여러 몸체를 한 가중치로 지원 |
+| 데이터 | 휴머노이드 실제 데이터는 모으는 데 시간과 비용이 큼 | 사람 영상·합성 데이터·실로봇 데이터를 한 혼합으로 학습 |
+
+### 데이터 섬
+
+언어와 이미지 모델은 인터넷에서 모은 대규모 데이터로 사전학습합니다. 휴머노이드에는 그런 규모의 공개 데이터가 없고, 휴머노이드 한 기종에서 모을 수 있는 데이터는 사전학습에 필요한 양에 크게 못 미칩니다.
+
+[Open X-Embodiment](/blog/paper-review/vla/open-x-embodiment)처럼 여러 로봇의 데이터를 합치는 시도도 있었습니다. 하지만 로봇마다 몸체 구조, 센서, 관절 자유도, 제어 방식이 달라서, 모은 데이터는 형식이 서로 맞지 않는 데이터셋의 묶음으로 남습니다. 논문은 이 상태를 **데이터 섬(data island)** 이라고 부릅니다. 하나의 큰 데이터셋처럼 한꺼번에 학습에 넣기 어렵다는 뜻입니다.
+
+![그림 1 — 데이터 피라미드](https://arxiv.org/html/2503.14734v2/data_pyramid.png)
+
+*그림 1 — 아래층은 양이 많고 몸체와 무관한 데이터, 위층은 양이 적고 특정 로봇에 맞는 데이터입니다.*
+
+그림 1은 GR00T N1이 학습 데이터를 나누는 방식입니다. 논문은 이를 **데이터 피라미드(data pyramid)** 라고 부르고, 데이터 출처를 양과 몸체 특정성에 따라 세 층으로 나눕니다.
+
+| 층 | 데이터 | 양 | 로봇 행동 값 |
+|----|--------|-----|-----------|
+| 맨 아래 | 웹 데이터(VLM 사전학습에 쓰인 것), 사람 1인칭 영상 | 가장 많음 | 없음 |
+| 가운데 | 물리 시뮬레이션으로 만든 궤적, 영상 생성 모델로 만든 로봇 영상 | 중간 | 시뮬레이션은 있음, 생성 영상은 없음 |
+| 맨 위 | 실제 로봇 하드웨어에서 원격조작으로 모은 시연 | 가장 적음 | 있음 |
+
+아래층은 넓은 시각 정보와 사람의 동작 방식을, 위층은 실제 로봇에서 실행되는 행동을 제공합니다. 행동 값이 없는 영상 데이터에는 뒤에서 설명할 잠재 행동과 역동역학 모델로 행동 이름표를 붙여, 모든 층을 "관측 → 행동" 형식의 학습 데이터로 맞춥니다.
+
+---
+
+## 2. 전체 구조
+
+![그림 2 — GR00T N1 개요](https://arxiv.org/html/2503.14734v2/groot_inference_yuke_v2.png)
+
+*그림 2 — 이미지와 지시는 VLM 토큰이 되고, VLM 출력과 로봇 상태·행동 부호가 Diffusion Transformer로 들어가 모터 행동이 됩니다.*
+
+그림 2는 추론 흐름입니다. 이미지 관측과 언어 지시를 토큰 열로 바꿔 VLM 백본(backbone)에 넣습니다. VLM 출력은 로봇 상태·행동을 부호화한 벡터와 함께 Diffusion Transformer 모듈로 들어가고, 이 모듈이 모터 행동을 만듭니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "img",   "label": "카메라 이미지", "sub": "224 × 224 · 장당 64 토큰", "row": 0},
+    {"id": "lang",  "label": "언어 지시", "sub": "대화 형식 텍스트", "row": 0},
+    {"id": "state", "label": "로봇 상태 q_t", "sub": "몸체마다 차원이 다름", "row": 0},
+    {"id": "noise", "label": "잡음 섞인 행동 묶음", "sub": "16걸음", "row": 0},
+    {"id": "vlm",   "label": "Eagle-2 VLM (System 2)", "sub": "SigLIP-2 + SmolLM2 · 12번째 층 출력", "color": "blue", "row": 1},
+    {"id": "senc",  "label": "상태 부호기 MLP", "sub": "몸체별", "color": "orange", "row": 1},
+    {"id": "aenc",  "label": "행동 부호기 MLP", "sub": "몸체별 · τ 함께 부호화", "color": "orange", "row": 1},
+    {"id": "dit",   "label": "DiT 블록 (System 1)", "sub": "자기 주의 ↔ 교차 주의 교대", "color": "orange", "row": 2},
+    {"id": "adec",  "label": "행동 복호기 MLP", "sub": "몸체별 · 마지막 16 토큰", "color": "green", "row": 3},
+    {"id": "euler", "label": "오일러 적분 4걸음", "color": "green", "row": 4},
+    {"id": "robot", "label": "모터 행동", "sub": "120Hz", "row": 5}
+  ],
+  "edges": [
+    {"from": "img",   "to": "vlm"},
+    {"from": "lang",  "to": "vlm"},
+    {"from": "state", "to": "senc"},
+    {"from": "noise", "to": "aenc"},
+    {"from": "vlm",   "to": "dit", "label": "교차 주의"},
+    {"from": "senc",  "to": "dit"},
+    {"from": "aenc",  "to": "dit"},
+    {"from": "dit",   "to": "adec"},
+    {"from": "adec",  "to": "euler"},
+    {"from": "euler", "to": "noise", "label": "다음 걸음 입력"},
+    {"from": "euler", "to": "robot", "label": "4번 반복 후"}
+  ],
+  "height": 640
+}
+```
+
+VLM은 이미지와 지시를 한 번 처리해 시각-언어 토큰을 냅니다. 행동 모듈은 로봇 상태와 잡음 섞인 행동 묶음을 받고, 교차 주의 층에서 VLM 토큰을 참조하면서 속도 벡터를 냅니다. 이 속도를 따라 잡음을 4번 옮기면 16걸음짜리 행동 묶음이 완성됩니다. 아래에서 두 모듈의 역할, 시각-언어 모듈, 행동 모듈, flow matching 학습과 추론 순서로 설명합니다.
+
+---
+
+## 3. 이중 시스템 설계
+
+### System 1과 System 2
+
+논문은 GR00T N1의 구조를 사람의 인지 처리에서 착안한 **이중 시스템(dual-system)** 구성이라고 부르고, 심리학자 Kahneman의 책 *Thinking, Fast and Slow*(2011)를 인용합니다. 이 이름은 빠르고 자동적인 사고를 System 1, 느리고 숙고하는 사고를 System 2로 나눈 심리학의 이중 과정 이론에서 왔습니다.
+
+| 모듈 | 논문의 이름 | 구성 | 역할 | 실행 주기 |
+|------|-----------|------|------|---------|
+| 시각-언어 모듈 | System 2 (추론) | 사전학습 VLM (Eagle-2) | 로봇의 시각 관측과 언어 지시로 환경과 과제 목표를 해석 | NVIDIA L40 GPU에서 10Hz |
+| 행동 모듈 | System 1 (행동) | flow matching으로 학습한 Diffusion Transformer | VLM 출력 토큰을 교차 주의로 참조해 폐루프 모터 행동을 생성 | 120Hz |
+
+두 모듈 모두 Transformer 기반 신경망이고, 학습할 때 함께 최적화됩니다. 따로 학습한 상위 계획기와 하위 제어기를 이어 붙인 [SayCan](/blog/paper-review/pre-vla/saycan)식 계층 구조와 달리, 행동 모듈의 손실이 VLM 쪽 가중치(언어 부분은 고정, 뒤에서 설명)까지 전달됩니다.
+
+### 모델 크기와 추론 시간
+
+| 항목 | 값 |
+|------|-----|
+| 공개 모델 | GR00T-N1-2B |
+| 전체 파라미터 | 2.2B |
+| VLM 파라미터 | 1.34B |
+| VLM 밖의 파라미터 (행동 모듈·부호기·복호기) | 약 0.86B |
+| 행동 묶음 길이 $H$ | 16 |
+| 행동 묶음 하나를 뽑는 시간 | L40 GPU, bf16에서 63.9 ms |
+
+*"VLM 밖의 파라미터"는 2.2B − 1.34B로 계산한 값이고, 나머지는 논문 값입니다.*
+
+63.9 ms는 행동 묶음을 1초에 약 15.6개 뽑을 수 있는 속도입니다. 16걸음 묶음을 120Hz로 실행하면 묶음 하나가 약 0.133초를 차지합니다. 논문은 묶음 하나에서 몇 걸음을 실행한 뒤 다음 추론을 하는지, 10Hz VLM과 120Hz 행동 생성이 실제 배포에서 어떻게 맞물리는지는 적지 않습니다.
+
+---
+
+## 4. 시각-언어 모듈 (System 2)
+
+### Eagle-2 VLM
+
+VLM은 NVIDIA의 **Eagle-2** 입니다. Eagle-2는 SmolLM2 언어 모델과 SigLIP-2 이미지 부호기를 여러 시각-언어 과제로 정렬해 만든 모델입니다. 이미지 부호기 출력을 언어 모델 입력으로 넣는 구조는 VLA 선행 연구의 [LLaVA](/blog/paper-review/pre-vla/llava)와 같은 계열입니다.
+
+### 이미지 한 장이 토큰 64개가 되는 과정
+
+이미지는 224 × 224 해상도로 부호화하고, 그 뒤 **픽셀 셔플(pixel shuffle)** 을 적용해 한 장당 이미지 토큰 64개를 만듭니다. 픽셀 셔플은 격자로 놓인 이웃 토큰 몇 개를 채널 방향으로 이어 붙여 토큰 하나로 합치는 연산입니다. 토큰 수는 줄고 토큰 하나의 벡터 길이는 늘어납니다.
+
+| 단계 | 격자 | 토큰 수 | 토큰 하나의 길이 |
+|------|------|--------|---------------|
+| 이미지 부호기 출력 | 16 × 16 | 256 | $c$ |
+| 2 × 2씩 묶는 픽셀 셔플 | 8 × 8 | 64 | $4c$ |
+
+*16 × 16 격자와 2 × 2 묶음은 64개가 나오는 과정을 보여 주기 위한 예시 값입니다. 논문은 이미지 한 장이 최종적으로 64개 토큰이 된다는 것만 적고, 픽셀 셔플 전 격자 크기와 채널 수 $c$는 적지 않습니다.*
+
+이 64개 이미지 토큰은 과제 설명 텍스트와 함께 Eagle-2의 언어 모델 부분에서 처리됩니다. 정책 학습 때도 VLM 사전학습 때 쓰던 대화(chat) 형식을 그대로 써서, 텍스트 과제 설명과 이미지(여러 장일 수 있음)를 넣습니다.
+
+### 중간 층 출력 사용
+
+VLM에서 꺼내는 특징의 모양은 (배치 크기 × 시퀀스 길이 × 은닉 차원)입니다. 저자들은 언어 모델의 마지막 층 대신 **중간 층** 출력을 쓰면 추론이 빨라지고 사후학습 과제의 성공률도 높아졌다고 적습니다. GR00T-N1-2B는 **12번째 층** 의 출력을 씁니다. 논문은 중간 층이 왜 더 빠르고 더 높은 성공률을 내는지는 설명하지 않습니다.
+
+### 학습 중 고정하는 부분
+
+사전학습과 사후학습 모두 VLM의 언어 부분은 고정하고 나머지를 학습합니다. 부록 표 6은 이미지 부호기를 학습(unfrozen), 텍스트 토크나이저를 고정(frozen), DiT를 학습으로 적습니다.
+
+---
+
+## 5. 행동 모듈 (System 1)
+
+![그림 3 — GR00T N1 모델 구조](https://arxiv.org/html/2503.14734v2/groot_model_v6.png)
+
+*그림 3 — 몸체별 상태·행동 부호기가 입력을 공통 차원으로 옮기고, DiT 블록이 교차 주의로 Eagle-2 토큰을 참조합니다.*
+
+### 몸체별 상태·행동 부호기
+
+로봇마다 상태와 행동 벡터의 차원이 다릅니다. 한 팔 로봇은 말단장치 자세와 집게 값만 있으면 되지만, 양손 휴머노이드는 두 팔·두 손·허리·목의 관절 값을 모두 담아야 합니다. GR00T N1은 **몸체마다 따로 둔 MLP** 로 상태와 행동을 같은 임베딩 차원 $D$로 옮긴 뒤 DiT에 넣습니다. 출력 쪽에도 몸체별 MLP인 행동 복호기가 있어, DiT 출력을 다시 그 로봇의 행동 차원으로 바꿉니다.
+
+아래 표는 부록 E.2의 표준화 규칙(상태의 말단장치 회전은 6차원 회전 표현, 행동의 말단장치 회전은 축-각 표현, 순서는 회전 → 위치 → 집게)으로 계산한 두 로봇의 예시입니다.
+
+| 단계 | 로봇 A: 한 팔 + 집게 | 로봇 B: 두 팔 + 집게 |
+|------|--------------------|--------------------|
+| 상태 벡터 $q_t$ | 회전 6 + 위치 3 + 집게 1 = 10 | 10 × 2 = 20 |
+| 상태 부호기 | MLP_A: 10 → $D$ | MLP_B: 20 → $D$ |
+| 행동 한 걸음 | 회전 3 + 위치 3 + 집게 1 = 7 | 7 × 2 = 14 |
+| 잡음 섞인 행동 묶음 | 16 × 7 | 16 × 14 |
+| 행동 부호기 (+ 시각 $\tau$) | MLP_A: (16 × 7, $\tau$) → 16 × $D$ | MLP_B: (16 × 14, $\tau$) → 16 × $D$ |
+| DiT 입력 | 상태 토큰 + 행동 토큰 16개, 모두 길이 $D$ | 같음 |
+| 행동 복호기 | 마지막 16개 토큰: 16 × $D$ → 16 × 7 | 16 × $D$ → 16 × 14 |
+
+*차원 10·7·20·14는 E.2 규칙으로 계산한 예시 값이고, 상태를 토큰 하나로 둔 것도 설명을 위한 가정입니다. 논문은 몸체별 실제 차원, 공통 차원 $D$, 상태 토큰 수를 적지 않습니다.*
+
+DiT 안에서는 모든 로봇의 토큰이 같은 길이 $D$이므로 같은 가중치로 계산할 수 있습니다. 몸체별로 따로 학습하는 부분은 입력 쪽과 출력 쪽의 작은 MLP뿐입니다. π0는 모든 로봇의 상태·행동을 가장 큰 로봇의 차원(18차원)에 맞추고 남는 칸을 0으로 채웠는데, GR00T N1은 차원을 맞추는 일을 몸체별 MLP에 맡깁니다.
+
+행동 부호기는 π0와 같이 flow matching 시각 $\tau$를 잡음 섞인 행동 벡터와 함께 부호화합니다.
+
+### Diffusion Transformer 블록
+
+행동 모듈은 **DiT(Diffusion Transformer)** 의 변형이고, 논문은 이 네트워크를 $V_\theta$로 적습니다. DiT는 잡음 제거 단계 정보를 적응형 층 정규화(adaptive layer normalization)로 넣는 Transformer입니다. 층 정규화의 크기·이동 값을 고정 가중치 대신 $\tau$에서 계산하므로, 같은 입력이라도 $\tau$에 따라 계산이 달라집니다.
+
+$V_\theta$는 자기 주의 블록과 교차 주의 블록을 번갈아 쌓습니다. Flamingo, VIMA와 비슷한 배치입니다.
+
+| 블록 | 질의(query) | 키·값(key·value) | 하는 일 |
+|------|-----------|----------------|--------|
+| 자기 주의 | 상태 토큰 + 잡음 섞인 행동 토큰 $A^\tau_t$ | 같은 토큰들 | 행동 묶음의 걸음끼리, 그리고 로봇 상태와 정보를 주고받음 |
+| 교차 주의 | 상태 토큰 + 행동 토큰 | VLM 출력 토큰 $\phi_t$ (이미지 64개/장 + 텍스트) | 이미지와 지시 내용을 행동 토큰에 반영 |
+
+교차 주의에서는 행동 토큰이 VLM 토큰을 읽기만 하고, VLM 토큰은 행동 토큰을 보지 않습니다. 그래서 VLM 출력 $\phi_t$는 한 번 계산하면 오일러 적분 4걸음 동안 그대로 쓸 수 있습니다. 마지막 DiT 블록 뒤에는 행동 복호기가 마지막 $H$개 토큰에서 행동을 예측합니다.
+
+### 행동 묶음
+
+행동은 VLA 선행 연구의 [ACT](/blog/paper-review/pre-vla/act)와 같이 묶음으로 다룹니다. 시점 $t$에서 모델이 다루는 행동은 다음 16걸음입니다.
+
+$$
+A_t = [a_t, a_{t+1}, \ldots, a_{t+H-1}], \quad H = 16
+$$
+
+---
+
+## 6. flow matching 학습과 추론
+
+### 잡음 섞인 행동 묶음
+
+학습은 [Flow Matching 논문](/blog/paper-review/pre-vla/flow-matching)의 선형 경로를 씁니다. 정답 행동 묶음 $A_t$, flow matching 시각 $\tau \in [0, 1]$, 표준 정규분포 잡음 $\epsilon \sim \mathcal{N}(\mathbf{0}, \mathbf{I})$를 뽑아 잡음 섞인 행동 묶음을 만듭니다.
+
+$$
+A^\tau_t = \tau A_t + (1 - \tau)\epsilon
+$$
+
+$\tau = 0$이면 순수한 잡음, $\tau = 1$이면 정답 행동입니다. π0와 같은 방향입니다.
+
+### 손실 함수
+
+모델 예측 $V_\theta(\phi_t, A^\tau_t, q_t)$는 VLM 토큰, 잡음 섞인 행동 묶음, 로봇 상태를 받아 속도 벡터장을 내고, 아래 손실로 학습합니다.
+
+$$
+\mathcal{L}_{fm}(\theta) = \mathbb{E}_\tau \left[ \| V_\theta(\phi_t, A^\tau_t, q_t) - (\epsilon - A_t) \|^2 \right]
+$$
+
+논문은 목표 속도를 $\epsilon - A_t$로 적습니다. 그런데 위의 섞는 식을 $\tau$로 미분하면 $A_t - \epsilon$이 나오고, 뒤의 추론 식은 잡음에서 시작해 $V_\theta$를 더해 가며 정답으로 이동합니다. 세 식을 함께 맞추려면 목표 속도는 $A_t - \epsilon$이어야 합니다. 이 글의 예시 계산은 섞는 식·추론 식과 맞는 $A_t - \epsilon$으로 합니다. [π0 논문해석](/blog/paper-review/vla/pi0)도 같은 부호를 씁니다.
+
+### 1차원 예시
+
+| 항목 | 값 |
+|------|-----|
+| 정답 행동 $A$ | 0.6 |
+| 잡음 $\epsilon$ | −1.0 |
+| 시각 $\tau$ | 0.3 |
+| 잡음 섞인 행동 $A^\tau = 0.3 \times 0.6 + 0.7 \times (-1.0)$ | −0.52 |
+| 목표 속도 $A - \epsilon$ | 1.6 |
+
+*정답 행동·잡음·시각은 설명을 위한 임의의 예시 값이고, 나머지는 그 값으로 계산한 값입니다.*
+
+모델은 −0.52와 $\tau = 0.3$, 이미지·지시 토큰, 로봇 상태를 받아 1.6을 내도록 학습합니다. 실제 행동 묶음은 16걸음 × 행동 차원의 행렬이고, 이 계산이 모든 칸에서 동시에 일어납니다.
+
+### 학습 시각의 분포
+
+$\tau$는 균등하게 뽑지 않습니다. π0와 같은 분포를 씁니다.
+
+$$
+p(\tau) = \mathrm{Beta}\left(\frac{s - \tau}{s};\ 1.5,\ 1\right), \quad s = 0.999
+$$
+
+$x = (s - \tau)/s$가 Beta(1.5, 1)을 따르므로 $x$가 클수록, 곧 $\tau$가 작을수록(잡음이 많을수록) 자주 뽑힙니다.
+
+| $\tau$ | $x = (s-\tau)/s$ | $\tau$의 확률 밀도 |
+|--------|----------------|-----------------|
+| 0.0 | 1.000 | 1.502 |
+| 0.1 | 0.900 | 1.424 |
+| 0.5 | 0.500 | 1.061 |
+| 0.9 | 0.099 | 0.473 |
+| 0.99 | 0.009 | 0.143 |
+| 0.999 이상 | 0 이하 | 0 |
+
+*논문의 분포 식으로 계산한 값입니다.*
+
+$\tau$가 0.999 이상인 구간, 곧 정답과 거의 같은 입력은 학습에서 뽑히지 않습니다.
+
+### 추론 — 오일러 적분 4걸음
+
+추론은 잡음 $A^0_t \sim \mathcal{N}(\mathbf{0}, \mathbf{I})$에서 시작해 전진 오일러 방법으로 $K$번 갱신합니다.
+
+$$
+A^{\tau + 1/K}_t = A^\tau_t + \frac{1}{K} V_\theta(\phi_t, A^\tau_t, q_t)
+$$
+
+저자들은 모든 몸체에서 $K = 4$가 잘 동작했다고 적습니다. π0는 10걸음을 썼습니다. 아래 표는 앞의 1차원 예시에서 모델이 매 걸음 목표 속도 1.6을 정확히 낸다고 가정한 계산입니다.
+
+| 걸음 | $\tau$ | 현재 값 | 속도 | 다음 값 |
+|------|--------|--------|------|--------|
+| 1 | 0.00 | −1.0 | 1.6 | −0.6 |
+| 2 | 0.25 | −0.6 | 1.6 | −0.2 |
+| 3 | 0.50 | −0.2 | 1.6 | 0.2 |
+| 4 | 0.75 | 0.2 | 1.6 | 0.6 |
+
+*정답 0.6·잡음 −1.0은 임의의 예시 값이고, 속도는 모델이 목표 속도를 정확히 맞혔다고 가정한 값입니다.*
+
+속도로 논문에 적힌 $\epsilon - A = -1.6$을 넣으면 값은 −1.4, −1.8, −2.2, −2.6으로 정답에서 멀어집니다. 앞에서 목표 속도의 부호를 $A - \epsilon$으로 읽은 이유입니다.
+
+---
+
+## 7. 학습 데이터 생성
+
+데이터 피라미드의 각 층을 "관측 → 행동" 형식으로 맞추는 방법은 셋입니다.
+
+| 데이터 출처 | 잠재 행동 | 생성 궤적 | 시뮬레이션 궤적 |
+|-----------|---------|---------|-------------|
+| 실로봇 데이터셋 | ✓ | ✓ | ✓ |
+| 시뮬레이션 로봇 데이터셋 | ✓ | ✓ | |
+| 사람 영상 데이터셋 | ✓ | | |
+
+*표 1 — 데이터 생성 방법별로 적용할 수 있는 데이터 출처입니다.*
+
+잠재 행동은 거의 모든 영상에 쓸 수 있고, 생성 궤적은 로봇 행동이 있는 데이터셋에서 만들 수 있으며, 시뮬레이션 궤적은 물리 시뮬레이터와 DexMimicGen 기반 자동 생성 시스템이 필요합니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "human", "label": "사람 1인칭 영상", "sub": "행동 값 없음", "row": 0},
+    {"id": "neural","label": "생성 영상 (neural trajectory)", "sub": "행동 값 없음", "row": 0},
+    {"id": "sim",   "label": "시뮬레이션 궤적", "sub": "DexMimicGen", "row": 0},
+    {"id": "real",  "label": "실로봇 궤적", "sub": "GR-1 · OXE · AgiBot", "row": 0},
+    {"id": "lapa",  "label": "잠재 행동", "sub": "VQ-VAE 부호기 · LAPA 몸체", "color": "blue", "row": 1},
+    {"id": "idm",   "label": "역동역학 모델 행동", "sub": "IDM 의사 행동", "color": "blue", "row": 1},
+    {"id": "gt",    "label": "실제 행동 값", "color": "green", "row": 1},
+    {"id": "loss",  "label": "flow matching 손실", "sub": "몸체별 부호기·복호기", "color": "orange", "row": 2}
+  ],
+  "edges": [
+    {"from": "human",  "to": "lapa"},
+    {"from": "neural", "to": "lapa"},
+    {"from": "neural", "to": "idm"},
+    {"from": "sim",    "to": "gt"},
+    {"from": "real",   "to": "gt"},
+    {"from": "real",   "to": "lapa"},
+    {"from": "lapa",   "to": "loss"},
+    {"from": "idm",    "to": "loss"},
+    {"from": "gt",     "to": "loss"}
+  ],
+  "height": 380
+}
+```
+
+### 잠재 행동
+
+사람 1인칭 영상과 생성 영상에는 로봇 행동 값이 없습니다. GR00T N1은 LAPA(Latent Action Pretraining from Videos) 방식으로 **잠재 행동(latent action)** 을 만들어 행동 대신 씁니다.
+
+| 구성 | 입력 | 출력 |
+|------|------|------|
+| VQ-VAE 부호기 | 현재 프레임 $x_t$, $H$프레임 뒤의 프레임 $x_{t+H}$ | 잠재 행동 $z_t$ |
+| VQ-VAE 복호기 | $z_t$, $x_t$ | $x_{t+H}$ 재구성 |
+
+부호기의 연속 출력은 코드북(codebook)에서 가장 가까운 벡터로 바뀌고, 복호기는 그 벡터와 현재 프레임만으로 미래 프레임을 복원해야 합니다. 그래서 $z_t$에는 두 프레임 사이에 일어난 움직임 정보가 담기도록 학습됩니다. 이것이 VQ-VAE 목적 함수로 학습한다는 뜻입니다.
+
+학습이 끝나면 부호기만 떼어 **역동역학 모델(inverse dynamics model)**, 곧 두 장면을 보고 그 사이의 행동을 추정하는 모델로 씁니다. $x_t$와 $x_{t+H}$를 넣고 코드북 양자화 **전의 연속 벡터** 를 잠재 행동 이름표로 삼아, 로봇 행동과 같은 flow matching 손실로 학습합니다. 이 데이터는 별도의 몸체 "LAPA"로 취급해 전용 부호기·복호기를 씁니다. 모든 데이터로 VQ-VAE를 함께 학습하므로, 서로 다른 몸체의 영상이 같은 잠재 행동 공간을 공유합니다.
+
+![그림 4 — 잠재 행동](https://arxiv.org/html/2503.14734v2/latent_action.svg)
+
+*그림 4 — 비슷한 잠재 행동으로 찾은 8개 몸체의 장면 쌍으로, 왼쪽은 오른팔(손)을 왼쪽으로, 오른쪽은 오른쪽으로 옮기는 동작입니다.*
+
+그림 4는 잠재 행동 공간에서 가까운 벡터를 가진 $x_t$, $x_{t+H}$ 쌍을 로봇과 사람을 포함한 8개 몸체에서 찾은 결과입니다. 몸체가 달라도 "오른팔을 왼쪽으로 옮김"이라는 같은 움직임이 비슷한 잠재 행동으로 묶입니다.
+
+### 생성 궤적
+
+원격조작 데이터는 로봇 한 대와 조작자 한 명이 궤적 하나씩 만들어야 하므로, 양이 사람의 작업 시간에 비례해 늘어납니다. 저자들은 영상 생성 모델로 로봇 영상을 만들어 이 한계를 줄입니다. 논문은 이렇게 만든 데이터를 **생성 궤적(neural trajectory)** 이라고 부릅니다.
+
+| 단계 | 내용 |
+|------|------|
+| 영상 모델 미세조정 | 공개 이미지→영상(image-to-video) 모델을 사내 원격조작 데이터 88시간 전체로 미세조정 (부록 F: WAN2.1-I2V-14B를 LoRA로 미세조정, 궤적을 81프레임·480P로 균일 표본화) |
+| 지시 만들기 | 상용 멀티모달 LLM이 첫 프레임의 물체를 찾고, 물리적으로 가능한 "pick up {물체} from {위치 A} to {위치 B}" 조합을 만듦 |
+| 영상 생성 | 기존 첫 프레임과 새 지시로 영상 생성 |
+| 거르기 | 영상에서 8프레임을 뽑아 상용 멀티모달 LLM이 지시를 정확히 따랐는지 판정, 따르지 않은 영상은 16프레임·256P로 줄여 새 설명을 붙임 |
+| 행동 이름표 | 잠재 행동과 역동역학 모델(IDM) 의사 행동을 붙임 |
+
+3.2절은 영상 모델을 이름표가 붙은 실로봇 표본 3,000개(각 480P, 81프레임)로 100세대 학습했다고 적습니다. 생성한 영상은 약 827시간으로, 사내 원격조작 데이터 88시간의 약 10배입니다. L40 GPU 한 대에서 1초짜리 영상 하나를 만드는 데 2분이 걸렸고, 전체 생성에 L40 GPU 3,600대로 약 105k GPU시간이 들었습니다.
+
+![그림 5 — 생성 영상](https://arxiv.org/html/2503.14734v2/dreams_0318.png)
+
+*그림 5 — 빨간 사각형이 첫 프레임이고, 같은 첫 프레임에서 지시만 바꾸거나 물체를 바꾼 영상, 시뮬레이션이 어려운 쏟기 영상, 시뮬레이션 첫 프레임에서 만든 영상입니다.*
+
+그림 5의 줄은 네 종류입니다. 처음 세 줄은 같은 첫 프레임에서 지시(왼쪽·오른쪽, 놓을 위치)만 바꾼 영상이고, 다음 두 줄은 같은 첫 프레임에서 집을 물체를 바꾼 영상입니다. 그다음 줄은 망 컵 안의 내용물을 통에 쏟는 영상으로, 시뮬레이션으로 만들기 어려운 동작입니다. 마지막 줄은 시뮬레이션 데이터의 첫 프레임에서 만든 영상입니다.
+
+역동역학 모델(IDM)은 부록 F에 설명돼 있습니다. 궤적 안의 현재 프레임과 미래 프레임 두 장을 조건으로 그 사이의 행동 묶음을 생성하도록 학습합니다. 구조는 System 1과 같은 DiT에 SigLIP-2 이미지 임베딩을 넣은 것이고, flow matching으로 몸체마다 30K 또는 60K 동안 학습합니다. 예비 실험에서 상태 정보나 프레임을 더 넣어도 검증 세트 행동 예측이 크게 나아지지 않았다고 적습니다.
+
+### 시뮬레이션 궤적
+
+휴머노이드는 두 팔과 정교한 손을 동시에 조종해야 해서 실제 데이터 수집 비용이 특히 큽니다. 저자들은 **DexMimicGen** 으로 적은 수의 사람 시연을 시뮬레이션 안에서 자동으로 늘립니다.
+
+1. 과제를 물체 중심의 하위 과제 순서로 나눕니다.
+2. 사람 시연을 하위 과제마다 물체 하나를 다루는 짧은 조각으로 자릅니다.
+3. 새 환경에서 물체 위치에 맞춰 조각을 옮기되, 로봇 말단장치와 물체 사이의 상대 자세는 유지합니다.
+4. 로봇의 현재 상태와 옮긴 조각 사이를 보간해 이어 붙입니다.
+5. 전체 순서를 시뮬레이션에서 실행하고, 끝에서 과제에 성공한 시연만 남깁니다.
+
+사전학습과 사후학습용을 합쳐 시뮬레이션 궤적 780,000개를 11시간 만에 만들었습니다. 논문은 이것이 사람 시연으로 6,500시간, 쉬지 않고 9개월 동안 모은 양에 해당한다고 적습니다.
+
+![그림 6 — 원격조작 데이터 수집](https://arxiv.org/html/2503.14734v2/groot-teleop.png)
+
+*그림 6 — 여러 장치로 손목의 6자유도 자세와 손 골격을 잡고, 리타게팅한 행동을 실제·시뮬레이션 로봇에서 실행합니다.*
+
+---
+
+## 8. 사전학습 데이터셋
+
+### 실로봇 데이터
+
+| 데이터셋 | 내용 |
+|---------|------|
+| GR00T N1 휴머노이드 사전학습 데이터 | Fourier GR-1을 원격조작해 모은 사내 데이터. VIVE Ultimate Tracker로 손목 자세, Xsens Metagloves로 손가락 움직임을 잡고, 역기구학으로 휴머노이드 행동으로 리타게팅. 제어 주기 20Hz, 머리 카메라 영상. 잡기·옮기기·놓기 같은 세부 동작 이름표와 이를 묶은 상위 과제 이름표를 함께 붙임. Apple Vision Pro, Leap Motion도 시험함 |
+| Open X-Embodiment | [RT-1](/blog/paper-review/vla/rt-1), Bridge-v2, Language Table, DROID, MUTEX, RoboSet, Plex 부분집합 |
+| AgiBot-Alpha | 로봇 100대의 궤적 데이터셋. 학습 시작 시점에 공개된 140,000개 궤적 사용 |
+
+### 합성 데이터
+
+시뮬레이션 사전학습 데이터는 RoboCasa 시뮬레이션 틀 위에서 GR-1 휴머노이드가 탁자 위 물체를 옮기는 과제입니다. 과제 형식은 "A를 B에서 C로 옮기기"이고, B와 C는 접시·바구니·매트·선반 같은 용기입니다. 출발·도착 용기 종류 조합은 54가지이고, 방해 물체와 방해 용기를 함께 배치해 모델이 지시를 읽어야만 목표를 알 수 있게 했습니다.
+
+사람 시연은 Leap Motion으로 몇십 개만 모읍니다. Leap Motion이 손목의 6자유도 자세와 손가락 자세를 잡으면, 이 값을 리타게팅해 mink 기반 전신 역기구학 제어기로 보냅니다. 이후 DexMimicGen으로 (출발, 도착) 용기 쌍마다 새 시연 10,000개를 만들어 총 540k개가 됩니다.
+
+### 사람 영상 데이터
+
+사람 영상에는 행동 이름표가 없지만, 물체를 다루는 사람의 손 동작과 과제의 의미가 많이 들어 있습니다. 7개 데이터셋을 씁니다.
+
+| 데이터셋 | 내용 |
+|---------|------|
+| Ego4D | 일상 활동을 담은 대규모 1인칭 영상 |
+| Ego-Exo4D | 1인칭 영상에 3인칭 시점을 더함 |
+| Assembly-101 | 물체를 단계별로 조립하는 영상 |
+| EPIC-KITCHENS | 요리 활동 1인칭 영상 |
+| HOI4D | 분할·손과 물체 자세·행동 이름표가 프레임마다 붙은 사람-물체 상호작용 |
+| HoloAssist | 증강현실 환경의 협업·보조 과제 |
+| RH20T-Human | 여러 실제 장면의 정교한 손-물체 조작 |
+
+![그림 14 — 사람 1인칭 영상 표본](https://arxiv.org/html/2503.14734v2/human_video.png)
+
+*그림 14 — 사전학습에 쓴 사람 영상 데이터셋 7개의 표본과 언어 이름표입니다.*
+
+### 사전학습 데이터 통계
+
+| 데이터셋 | 프레임 수 | 시간 (hr) | FPS | 카메라 시점 | 분류 |
+|---------|---------|---------|-----|-----------|------|
+| GR-1 Teleop Pre-Training | 6.4M | 88.4 | 20 | 1인칭 | 실로봇 |
+| DROID (OXE) | 23.1M | 428.3 | 15 | 왼쪽, 오른쪽, 손목 | 실로봇 |
+| RT-1 (OXE) | 3.7M | 338.4 | 3 | 1인칭 | 실로봇 |
+| Language Table (OXE) | 7.0M | 195.7 | 10 | 정면 | 실로봇 |
+| Bridge-v2 (OXE) | 2.0M | 111.1 | 5 | 어깨, 왼쪽, 오른쪽, 손목 | 실로봇 |
+| MUTEX (OXE) | 362K | 5.0 | 20 | 손목 | 실로봇 |
+| Plex (OXE) | 77K | 1.1 | 20 | 손목 | 실로봇 |
+| RoboSet (OXE) | 1.4M | 78.9 | 5 | 왼쪽, 오른쪽, 손목 | 실로봇 |
+| Agibot-Alpha | 213.8M | 1,979.4 | 30 | 1인칭, 왼쪽, 오른쪽 | 실로봇 |
+| RH20T-Robot | 4.5M | 62.5 | 20 | 손목 | 실로봇 |
+| Ego4D | 154.4M | 2,144.7 | 20 | 1인칭 | 사람 |
+| Ego-Exo4D | 8.9M | 123.0 | 30 | 1인칭 | 사람 |
+| Assembly-101 | 1.4M | 19.3 | 20 | 1인칭 | 사람 |
+| HOI4D | 892K | 12.4 | 20 | 1인칭 | 사람 |
+| HoloAssist | 12.2M | 169.6 | 20 | 1인칭 | 사람 |
+| RH20T-Human | 1.2M | 16.3 | 20 | 1인칭 | 사람 |
+| EPIC-KITCHENS | 2.3M | 31.7 | 20 | 1인칭 | 사람 |
+| GR-1 Simulation Pre-Training | 125.5M | 1,742.6 | 20 | 1인칭 | 시뮬레이션 |
+| GR-1 Neural Videos | 23.8M | 827.3 | 8 | 1인칭 | 생성 영상 |
+| **로봇 데이터 합계** | **262.3M** | **3,288.8** | – | – | – |
+| **사람 데이터 합계** | **181.3M** | **2,517.0** | – | – | – |
+| **시뮬레이션 데이터 합계** | **125.5M** | **1,742.6** | – | – | – |
+| **생성 데이터 합계** | **23.8M** | **827.3** | – | – | – |
+| **전체** | **592.9M** | **8,375.7** | – | – | – |
+
+*표 7 — 사전학습 데이터셋 통계입니다. 합계 행은 각 행을 더한 값과 일치합니다.*
+
+전체 8,375.7시간 가운데 실로봇이 약 39%, 사람 영상이 약 30%, 시뮬레이션이 약 21%, 생성 영상이 약 10%입니다(계산한 값). 실로봇 데이터 안에서도 AgiBot-Alpha가 1,979.4시간으로 가장 크고, 주 대상인 GR-1 원격조작 데이터는 88.4시간입니다.
+
+---
+
+## 9. 학습 설정
+
+### 사전학습
+
+사전학습은 모든 몸체와 데이터 출처를 섞은 배치로 식 (1)의 flow matching 손실을 줄입니다. 데이터 출처마다 flow matching 목표로 쓰는 행동이 다릅니다.
+
+| 데이터 출처 | flow matching 목표 |
+|-----------|------------------|
+| 사람 영상 | 잠재 행동 |
+| 실로봇 데이터 (GR-1, Open X-Embodiment 등) | 실제 로봇 행동, 그리고 잠재 행동 |
+| 생성 궤적 | 잠재 행동, 그리고 실로봇 데이터로 학습한 역동역학 모델의 예측 행동 |
+
+부록 F는 공간 이해를 높이려고 **보조 물체 검출 손실** 을 더했다고 적습니다. 궤적 조각의 프레임마다 OWL-v2 검출기로 지시 속 대상 물체의 경계 상자를 찾고, 상자 중심 좌표를 이미지 가로·세로로 나눠 0~1 값 $x_{gt}$로 만듭니다. 마지막 시각-언어 임베딩 토큰 위에 선형 층을 붙여 2차원 좌표 $x_{pred}$를 예측하고, 제곱 오차로 학습합니다.
+
+$$
+L_{det} = \| x_{pred} - x_{gt} \|^2, \qquad L = L_{fm} + L_{det}
+$$
+
+### 사후학습
+
+사후학습은 몸체 하나에 해당하는 데이터셋으로 사전학습 모델을 미세조정합니다. 사전학습과 같이 VLM의 언어 부분은 고정하고 나머지를 학습합니다.
+
+**생성 궤적을 섞은 사후학습** 도 시험합니다. 사후학습 데이터가 부족한 상황을 가정해, 영상 생성 모델은 시뮬레이션 과제에서는 사람이 모은 궤적만으로, 실제 과제에서는 사후학습용 데이터의 10%만으로 미세조정합니다. 데이터가 적은 조건에서는 역동역학 모델도 그 적은 데이터로만 학습합니다. 여러 시점이 필요한 과제는 영상 모델이 여러 시점을 격자 한 장으로 생성하도록 미세조정합니다(그림 13). 사후학습 중에는 실제 궤적과 생성 궤적을 1:1 비율로 뽑아 함께 학습하고, 생성 궤적의 의사 행동은 별도 몸체의 행동으로 취급합니다.
+
+### 학습 인프라와 계산량
+
+| 항목 | 값 |
+|------|-----|
+| 클러스터 관리 | NVIDIA OSMO |
+| GPU | H100, Quantum-2 InfiniBand fat-tree |
+| 한 모델에 쓴 GPU | 최대 1,024대 |
+| GR00T-N1-2B 사전학습 | 약 50,000 H100 GPU시간 |
+| 단일 A6000 미세조정 | 부호기·복호기 + DiT만 학습하면 배치 최대 200, 이미지 부호기까지 학습하면 배치 최대 16 |
+
+### 학습 하이퍼파라미터
+
+| 하이퍼파라미터 | 사전학습 | 사후학습 |
+|--------------|--------|--------|
+| 학습률 | 1e-4 | 같음 |
+| 최적화기 | AdamW | 같음 |
+| Adam β1 / β2 / ε | 0.95 / 0.999 / 1e-8 | 같음 |
+| 가중치 감쇠 | 1e-5 | 같음 |
+| 학습률 일정 | cosine | 같음 |
+| 준비 구간 비율 | 0.05 | 같음 |
+| 배치 크기 | 16,384 | 128 또는 1024 |
+| 기울기 갱신 횟수 | 200,000 | 20,000 – 60,000 |
+| 백본 이미지 부호기 | 학습 | 같음 |
+| 백본 텍스트 토크나이저 | 고정 | 같음 |
+| DiT | 학습 | 같음 |
+
+*표 6 — 학습 하이퍼파라미터입니다. 사후학습은 적은 데이터에서 과적합을 줄이려고 배치를 줄였습니다.*
+
+### 데이터 형식과 행동 공간 표준화
+
+학습 데이터는 Hugging Face의 LeRobot 형식을 확장해 저장합니다. LeRobot 형식은 상태·행동·메타데이터를 parquet 파일에, 영상을 MP4 파일에, 통계와 에피소드 색인을 JSON 파일에 둡니다. 저자들은 여기에 네 가지 제약을 더했습니다.
+
+| 추가 규칙 | 내용 |
+|---------|------|
+| 모달리티 설정 파일 | `meta` 디렉터리의 `modality.json`이 상태·행동 벡터의 차원마다 의미를 지정 |
+| 세부 모달리티 지정 | 상태·행동을 말단장치 위치, 방향, 집게 상태처럼 의미 단위 필드로 나누고 필드마다 자료형·범위·변환 방식을 기록 |
+| 여러 이름표 지원 | 과제 설명, 유효 여부, 성공 여부 같은 이름표를 한 데이터셋에 여러 종류 저장 |
+| 회전 표현 지정 | 사원수, 오일러 각, 축-각 가운데 어떤 표현인지 명시 |
+
+부록 E.2는 몸체 사이의 상태·행동 공간을 가능한 범위에서 맞추는 규칙을 적습니다.
+
+1. 상태의 말단장치 회전은 오일러 각의 특이점과 불연속을 피하려고 6차원 회전 표현으로 바꿉니다.
+2. 행동의 말단장치 회전은 축-각(axis-angle) 표현으로 적습니다.
+3. 관절 상태·관절 행동·말단장치 위치와 회전에 최소-최대 정규화를 적용합니다.
+4. 벡터 순서는 말단장치 회전, 말단장치 위치, 집게 닫힘 정도 순이고, 팔이 둘이면 왼팔부터 적습니다.
+
+---
+
+## 10. 평가 설정
+
+### 시뮬레이션 벤치마크
+
+![그림 7 — 시뮬레이션 과제](https://arxiv.org/html/2503.14734v2/fig_task_v6.png)
+
+*그림 7 — 위 줄 RoboCasa, 가운데 줄 DexMimicGen, 아래 줄 새로 만든 GR-1 탁자 과제의 Omniverse 렌더링입니다.*
+
+| 벤치마크 | 과제 수 | 몸체 | 관측 | 상태·행동 | 데이터 |
+|---------|--------|------|------|---------|-------|
+| RoboCasa Kitchen | 24 (집어 옮기기, 문 열고 닫기, 버튼 누르기, 수도꼭지 돌리기 등 기본 과제) | Franka Emika Panda 한 팔 | 왼쪽·오른쪽·손목 RGB 3장 | 상태: 말단장치와 로봇 베이스의 위치·회전, 집게. 행동: 말단장치 상대 위치·회전, 집게 | 과제당 MimicGen 생성 시연 3,000개 공개 |
+| DexMimicGen Cross-Embodiment Suite | 9 | 집게 달린 Panda 두 팔 (끼우기, 세 부품 조립, 운반) · 정교한 손 달린 Panda 두 팔 (상자 정리, 서랍 정리, 쟁반 들기) · 정교한 손 달린 GR-1 (붓기, 커피 준비, 캔 분류) | – | 몸체별로 두 팔의 말단장치 또는 관절, 집게·손 | 과제당 DexMimicGen 시연 1,000개 |
+| GR-1 Tabletop | 24 (용기 사이 물체 옮기기 18 + 물체를 캐비닛·서랍·전자레인지에 넣고 닫기 6) | Fourier 정교한 손 달린 GR-1 | 머리의 1인칭 RGB 1장 | 두 팔·손의 관절 위치·회전, 허리, 목 (선택적으로 팔의 말단장치 행동) | 과제당 DexMimicGen 시연 1,000개 |
+
+GR-1 Tabletop의 용기 조합은 사전학습 데이터에 없던 조합입니다.
+
+### 실제 로봇 벤치마크
+
+![그림 8 — 실제 과제](https://arxiv.org/html/2503.14734v2/real_gr1_task_figure.png)
+
+*그림 8 — 위: 사전학습 모델 평가(왼손에서 오른손으로 넘기기, 처음 보는 용기에 새 물체 넣기). 아래: 사후학습 평가 네 분류.*
+
+| 분류 | 과제 수 | 내용 |
+|------|--------|------|
+| 물체-용기 집어 옮기기 (Pick-and-Place) | 5 | 쟁반·접시·도마·바구니·매트·그릇·팬 사이로 물체 옮기기. 학습에 있던 물체와 없던 물체로 각각 평가 |
+| 관절 물체 조작 (Articulated) | 3 | 물체를 나무 상자·어두운 캐비닛·흰 서랍에 넣고 닫기. 학습에 있던 물체와 없던 물체로 평가 |
+| 산업용 물체 조작 (Industrial) | 3 | 기계 부품 담기(Machinery Packing), 나사 담긴 망 컵 붓기(Mesh Cup Pouring), 원통을 한 손에서 다른 손으로 넘겨 통에 넣기(Cylinder Handover) |
+| 다중 로봇 협업 (Coordination) | 2 | 1부: 원통을 망 컵에 넣어 다른 로봇에게 건넴. 2부: 받은 로봇이 원통을 노란 통에 넣고 컵 내용물을 다른 통에 부음 |
+
+사후학습 데이터는 과제 난이도에 따라 15분에서 3시간 동안 사람이 모았고, 품질이 낮은 궤적은 걸러냈습니다.
+
+### 기준선
+
+| 기준선 | 구조 | 관측 입력 | 한 번에 내는 행동 |
+|-------|------|---------|---------------|
+| BC-Transformer (RoboMimic) | 관측 시퀀스를 처리하는 Transformer + 가우시안 혼합 모델 행동 분포 | 관측 10프레임 | 다음 10걸음 |
+| [Diffusion Policy](/blog/paper-review/pre-vla/diffusion-policy) | 잡음을 단계적으로 제거하는 U-Net | 관측 1프레임 | 16걸음 |
+
+두 기준선은 사전학습 없이 과제 데이터로 처음부터 학습합니다.
+
+### 평가 방식
+
+| 항목 | 시뮬레이션 | 실제 로봇 |
+|------|---------|---------|
+| 기본 학습 설정 | 전역 배치 1024, 60k 걸음 (DexMimicGen은 배치 128) | 같음 |
+| 시행 수 | 과제당 100회 | 과제당 10회 (Machinery Packing은 시간 문제로 5회) |
+| 점수 | 500걸음마다 저장한 마지막 체크포인트 5개 가운데 최고 성공률 (RoboCasa 규약) | 실행 단계별 부분 점수. Machinery Packing은 30초 안에 부품 5개 중 통에 넣은 비율 |
+| 데이터 양 | 과제당 시연 30·100·300개 | 과제별 전체 데이터와 10% 부분 표본 |
+
+---
+
+## 11. 결과
+
+### 사전학습 모델 평가
+
+사후학습 없이 사전학습한 GR00T-N1-2B를 실제 GR-1에서 두 과제로 평가했습니다. 과제마다 물체 5종, 물체당 3번 시행합니다. 물체를 제대로 잡았지만 용기에 넣지 못하면 0.5점입니다.
+
+| 과제 | 조건 | 점수 | 성공률 |
+|------|------|------|-------|
+| 양손 협응 | 물체를 선반 아래 칸에 놓으라는 지시. 물체가 왼손보다 더 왼쪽에 있어 왼손으로 잡고 오른손에 넘긴 뒤 놓아야 함 | 11.5 / 15 | 76.6% |
+| 새 물체 조작 | 처음 보는 물체를 처음 보는 용기에 넣기 | 11 / 15 | 73.3% |
+
+### 시뮬레이션 사후학습 결과
+
+| 모델 | RoboCasa | DexMG | GR-1 | 평균 |
+|------|---------|-------|------|------|
+| BC Transformer | 26.3% | 53.9% | 16.1% | 26.4% |
+| Diffusion Policy | 25.6% | 56.1% | 32.7% | 33.4% |
+| **GR00T-N1-2B** | **32.1%** | **66.5%** | **50.0%** | **45.0%** |
+
+*표 2 — 과제당 시연 100개로 학습한 세 벤치마크의 평균 성공률입니다.*
+
+평균 열은 세 벤치마크의 과제 수(24, 9, 24)로 가중한 평균입니다. 계산하면 BC Transformer 26.36, Diffusion Policy 33.40, GR00T-N1-2B (32.1 × 24 + 66.5 × 9 + 50.0 × 24) ÷ 57 = 45.07로, 표의 26.4·33.4·45.0과 소수 첫째 자리에서 맞거나 0.1 이내입니다(계산한 값). GR-1 벤치마크에서 GR00T-N1-2B는 Diffusion Policy보다 17.3%p 높습니다.
+
+![그림 10 — 시연 수별 시뮬레이션 성공률](https://arxiv.org/html/2503.14734v2/sim_posttraining.svg)
+
+*그림 10 — 시연 수(30·100·300)에 따른 시뮬레이션 과제 평균 성공률로, 표 4의 평균 행을 막대로 그린 그림입니다.*
+
+| 벤치마크 | DP 30 | DP 100 | DP 300 | GR00T 30 | GR00T 100 | GR00T 300 |
+|---------|-------|--------|--------|---------|----------|----------|
+| RoboCasa 평균 | 14.7 | 25.6 | 43.2 | 17.4 | 32.1 | 49.6 |
+| DexMG 평균 | 23.7 | 46.9 | 68.4 | 29.6 | 58.5 | 74.2 |
+| GR-1 평균 | 21.3 | 32.7 | 40.4 | 43.2 | 50.0 | 49.3 |
+
+*표 4의 평균 행입니다. DP는 Diffusion Policy, 숫자는 과제당 시연 수이고 단위는 성공률(%)입니다. 각 평균은 표 4의 과제별 값을 평균한 값과 일치합니다.*
+
+모든 벤치마크와 데이터 양에서 GR00T-N1-2B의 평균이 더 높습니다. 차이는 데이터가 적을 때 크게 벌어집니다. GR-1 과제에서 GR00T-N1-2B는 시연 30개로 43.2%인데, Diffusion Policy는 시연 300개로도 40.4%입니다. 데이터가 늘면 두 모델의 차이가 줄어드는 경향에 대해 저자들은 사후학습 데이터가 충분히 크면 사전학습의 효과가 줄어드는 것이 자연스럽다고 적습니다.
+
+| RoboCasa 과제 (PnP = 집어 옮기기) | DP 30 | DP 100 | DP 300 | GR00T 30 | GR00T 100 | GR00T 300 |
+|------|------|------|------|------|------|------|
+| Close Double Door | 1.7 | 26.5 | 60.8 | 0.0 | 43.1 | 74.5 |
+| Close Drawer | 57.5 | 88.2 | 94.1 | 76.9 | 96.1 | 99.0 |
+| Close Single Door | 21.7 | 46.1 | 72.6 | 49.1 | 67.7 | 83.3 |
+| Coffee Press Button | 32.5 | 46.1 | 91.2 | 27.8 | 56.9 | 85.3 |
+| Coffee Serve Mug | 6.7 | 28.4 | 66.7 | 3.7 | 34.3 | 72.6 |
+| Coffee Setup Mug | 0.0 | 19.6 | 32.4 | 0.0 | 2.0 | 22.6 |
+| Open Double Door | 0.0 | 9.8 | 18.6 | 0.0 | 12.8 | 14.7 |
+| Open Drawer | 15.8 | 42.2 | 61.8 | 9.3 | 42.2 | 79.4 |
+| Open Single Door | 36.7 | 42.2 | 57.8 | 20.4 | 54.9 | 58.8 |
+| PnP from Cab to Counter | 2.5 | 4.9 | 9.8 | 0.9 | 3.9 | 19.6 |
+| PnP from Counter to Cab | 0.0 | 2.9 | 10.8 | 1.9 | 6.9 | 36.3 |
+| PnP from Counter to Microwave | 0.0 | 2.0 | 8.8 | 0.0 | 0.0 | 12.8 |
+| PnP from Counter to Sink | 0.0 | 0.0 | 13.7 | 0.0 | 1.0 | 9.8 |
+| PnP from Counter to Stove | 0.0 | 1.0 | 17.7 | 0.0 | 0.0 | 23.5 |
+| PnP from Microwave to Counter | 0.0 | 2.0 | 11.8 | 0.0 | 0.0 | 15.7 |
+| PnP from Sink to Counter | 4.2 | 8.8 | 42.2 | 0.0 | 5.9 | 33.3 |
+| PnP from Stove to Counter | 1.7 | 2.9 | 23.5 | 0.0 | 0.0 | 29.4 |
+| Turn Off Microwave | 63.3 | 53.9 | 52.0 | 47.2 | 57.8 | 70.6 |
+| Turn Off Sink Faucet | 21.7 | 63.7 | 72.6 | 49.1 | 67.7 | 72.6 |
+| Turn Off Stove | 5.0 | 10.8 | 19.6 | 4.6 | 15.7 | 26.5 |
+| Turn On Microwave | 30.0 | 51.0 | 75.5 | 55.6 | 73.5 | 78.4 |
+| Turn On Sink Faucet | 31.7 | 27.5 | 63.7 | 33.3 | 59.8 | 62.8 |
+| Turn On Stove | 12.5 | 22.6 | 36.3 | 14.8 | 25.5 | 55.9 |
+| Turn Sink Spout | 8.3 | 11.8 | 23.5 | 24.1 | 42.2 | 52.9 |
+| **RoboCasa 평균** | **14.7** | **25.6** | **43.2** | **17.4** | **32.1** | **49.6** |
+
+| DexMimicGen 과제 | DP 30 | DP 100 | DP 300 | GR00T 30 | GR00T 100 | GR00T 300 |
+|------|------|------|------|------|------|------|
+| Can Sort | 82.8 | 93.1 | 99.4 | 94.8 | 98.0 | 98.0 |
+| Coffee | 35.5 | 68.1 | 79.7 | 44.9 | 79.4 | 73.5 |
+| Pouring | 37.0 | 62.3 | 68.8 | 54.4 | 71.6 | 87.3 |
+| Threading | 4.2 | 18.3 | 27.5 | 3.9 | 37.3 | 60.8 |
+| Three Piece Assembly | 10.0 | 32.5 | 63.3 | 10.8 | 43.1 | 69.6 |
+| Transport | 7.5 | 25.0 | 53.3 | 7.8 | 48.0 | 61.8 |
+| Box Cleanup | 30.0 | 80.8 | 97.5 | 33.3 | 29.4 | 95.1 |
+| Drawer Cleanup | 1.7 | 16.7 | 52.5 | 10.8 | 42.2 | 55.9 |
+| Lift Tray | 5.0 | 25.0 | 73.3 | 5.8 | 77.5 | 65.7 |
+| **DexMG 평균** | **23.7** | **46.9** | **68.4** | **29.6** | **58.5** | **74.2** |
+
+| GR-1 Tabletop 과제 | DP 30 | DP 100 | DP 300 | GR00T 30 | GR00T 100 | GR00T 300 |
+|------|------|------|------|------|------|------|
+| Cutting Board to Pot | 22.6 | 37.3 | 48.0 | 58.8 | 57.8 | 57.8 |
+| Cutting Board to Basket | 19.6 | 42.2 | 29.4 | 43.1 | 61.8 | 56.9 |
+| Cutting Board to Tiered Basket | 13.7 | 13.7 | 18.6 | 13.7 | 23.5 | 34.3 |
+| Cutting Board to Pan | 28.4 | 48.0 | 57.8 | 67.7 | 65.7 | 68.6 |
+| Cutting Board to Cardboard Box | 11.8 | 15.7 | 22.6 | 31.4 | 30.4 | 33.3 |
+| Placemat to Bowl | 14.7 | 18.6 | 23.5 | 31.4 | 39.2 | 39.2 |
+| Placemat to Plate | 15.7 | 23.5 | 37.3 | 33.3 | 37.3 | 49.0 |
+| Placemat to Basket | 15.7 | 25.5 | 41.2 | 50.0 | 46.1 | 55.9 |
+| Placemat to Tiered Shelf | 6.9 | 5.9 | 11.8 | 11.8 | 21.6 | 19.6 |
+| Plate to Pan | 13.7 | 17.7 | 35.3 | 35.3 | 48.0 | 52.9 |
+| Plate to Cardboard Box | 12.8 | 13.7 | 27.5 | 34.3 | 38.2 | 32.4 |
+| Plate to Bowl | 15.7 | 18.6 | 31.4 | 41.2 | 42.2 | 34.3 |
+| Plate to Plate | 25.5 | 39.2 | 61.8 | 72.6 | 85.3 | 68.6 |
+| Tray to Tiered Shelf | 2.0 | 6.9 | 15.7 | 17.7 | 27.5 | 14.7 |
+| Tray to Tiered Basket | 12.8 | 34.3 | 39.2 | 33.3 | 49.0 | 45.1 |
+| Tray to Plate | 26.5 | 41.2 | 49.0 | 53.9 | 68.6 | 62.8 |
+| Tray to Cardboard Box | 21.6 | 37.3 | 40.2 | 51.0 | 55.9 | 54.9 |
+| Tray to Pot | 21.6 | 48.0 | 52.9 | 52.0 | 59.8 | 65.7 |
+| Wine to Cabinet | 43.1 | 55.9 | 60.8 | 57.8 | 53.9 | 62.8 |
+| Place Bottle to Cabinet | 40.2 | 62.8 | 60.8 | 60.8 | 81.4 | 74.5 |
+| Place Milk to Microwave | 37.3 | 41.2 | 51.0 | 42.2 | 58.8 | 49.0 |
+| Potato to Microwave | 17.7 | 30.4 | 41.2 | 30.4 | 26.5 | 34.3 |
+| Cup to Drawer | 24.5 | 32.4 | 36.3 | 36.3 | 44.1 | 40.2 |
+| Can to Drawer | 48.0 | 74.5 | 75.5 | 77.5 | 76.5 | 75.5 |
+| **GR-1 평균** | **21.3** | **32.7** | **40.4** | **43.2** | **50.0** | **49.3** |
+
+*표 4 — 데이터 양별 시뮬레이션 결과입니다.*
+
+과제 단위로 보면 GR00T-N1-2B가 항상 앞서지는 않습니다. DexMG의 Box Cleanup은 시연 100개에서 Diffusion Policy 80.8%, GR00T-N1-2B 29.4%이고, Lift Tray는 시연 300개에서 GR00T-N1-2B가 100개일 때보다 낮습니다.
+
+### 실제 로봇 사후학습 결과
+
+| 모델 | Pick-and-Place | Articulated | Industrial | Coordination | 평균 |
+|------|---------------|------------|-----------|-------------|------|
+| Diffusion Policy (10% 데이터) | 3.0% | 14.3% | 6.7% | 27.5% | 10.2% |
+| Diffusion Policy (전체 데이터) | 36.0% | 38.6% | 61.0% | 62.5% | 46.4% |
+| GR00T-N1-2B (10% 데이터) | 35.0% | 62.0% | 31.0% | 50.0% | 42.6% |
+| **GR00T-N1-2B (전체 데이터)** | **82.0%** | **70.9%** | **70.0%** | **82.5%** | **76.8%** |
+
+*표 3 — 실제 GR-1 과제의 평균 성공률입니다.*
+
+평균 열도 분류별 과제 수(5, 3, 3, 2)로 가중한 값입니다(계산한 값: 10.2, 46.4, 42.6, 76.8). GR00T-N1-2B는 Diffusion Policy보다 10% 데이터에서 32.4%p, 전체 데이터에서 30.4%p 높습니다. 10% 데이터로 학습한 GR00T-N1-2B는 전체 데이터로 학습한 Diffusion Policy보다 3.8%p만 낮습니다.
+
+| 과제 | DP 10% | DP 전체 | GR00T 10% | GR00T 전체 |
+|------|-------|--------|----------|-----------|
+| Tray to Plate (학습한 물체) | 0.0% | 20.0% | 40.0% | 100.0% |
+| Cutting Board to Basket (학습한 물체) | 0.0% | 30.0% | 10.0% | 100.0% |
+| Cutting Board to Pan (학습한 물체) | 0.0% | 60.0% | 60.0% | 80.0% |
+| Plate to Bowl (학습한 물체) | 0.0% | 40.0% | 30.0% | 100.0% |
+| Placemat to Basket (학습한 물체) | 10.0% | 60.0% | 40.0% | 80.0% |
+| **학습한 물체 평균** | **2.0%** | **42.0%** | **36.0%** | **92.0%** |
+| Tray to Plate (처음 보는 물체) | 0.0% | 20.0% | 30.0% | 80.0% |
+| Cutting Board to Basket (처음 보는 물체) | 10.0% | 20.0% | 60.0% | 60.0% |
+| Cutting Board to Pan (처음 보는 물체) | 0.0% | 40.0% | 40.0% | 80.0% |
+| Plate to Bowl (처음 보는 물체) | 0.0% | 20.0% | 10.0% | 40.0% |
+| Placemat to Basket (처음 보는 물체) | 10.0% | 50.0% | 30.0% | 100.0% |
+| **처음 보는 물체 평균** | **4.0%** | **30.0%** | **34.0%** | **72.0%** |
+| **Pick-and-Place 평균** | **3.0%** | **36.0%** | **35.0%** | **82.0%** |
+| White Drawer | 6.6% | 36.4% | 26.4% | 79.9% |
+| Dark Cabinet | 0.0% | 46.2% | 86.6% | 69.7% |
+| Wooden Chest | 36.4% | 33.2% | 72.9% | 63.2% |
+| **Articulated 평균** | **14.3%** | **38.6%** | **62.0%** | **70.9%** |
+| Machinery Packing | 20.0% | 44.0% | 8.0% | 56.0% |
+| Mesh Cup Pouring | 0.0% | 62.5% | 65.0% | 67.5% |
+| Cylinder Handover | 0.0% | 76.5% | 20.0% | 86.6% |
+| **Industrial 평균** | **6.7%** | **61.0%** | **31.0%** | **70.0%** |
+| Coordination Part 1 | 45.0% | 65.0% | 70.0% | 80.0% |
+| Coordination Part 2 | 10.0% | 60.0% | 30.0% | 85.0% |
+| **Coordination 평균** | **27.5%** | **62.5%** | **50.0%** | **82.5%** |
+| **전체 평균** | **10.2%** | **46.4%** | **42.6%** | **76.8%** |
+
+*표 5 — 실제 GR-1 과제별 성공률입니다.*
+
+### 생성 궤적을 섞은 사후학습
+
+![그림 9 — 생성 궤적 제거 실험](https://arxiv.org/html/2503.14734v2/dream_figure.svg)
+
+*그림 9 — 왼쪽: RoboCasa에서 시연 수별로 생성 궤적을 섞은 결과. 오른쪽: 실제 GR-1에서 10% 데이터에 생성 궤적을 섞은 결과.*
+
+RoboCasa에는 과제당 생성 궤적 3k개, 실제 과제에는 과제당 100개를 섞었습니다. 시뮬레이션에서는 잠재 행동(LAPA)과 역동역학 모델(IDM) 행동을 모두 시험하고, 실제 로봇에서는 IDM 행동만 씁니다.
+
+| RoboCasa (24과제) | 시연 30개 | 시연 100개 | 시연 300개 |
+|------------------|---------|----------|----------|
+| Diffusion Policy | 14.7 | 25.6 | 43.2 |
+| GR00T-N1-2B | 17.4 | 32.1 | 49.6 |
+| GR00T-N1-2B + LAPA | 21.6 | 39.5 | 52.9 |
+| GR00T-N1-2B + IDM | 21.2 | 40.9 | 56.4 |
+
+| 실제 GR-1 (10% 데이터) | Pick & Place (5과제) | Industrial (3과제) | Overall (8과제) |
+|---------------------|--------------------|-----------------|---------------|
+| Diffusion Policy | 2.0 | 6.67 | 4.07 |
+| GR00T-N1-2B | 36.0 | 31.0 | 33.78 |
+| GR00T-N1-2B + IDM | 42.0 | 36.67 | 39.63 |
+
+*그림 9의 막대 위에 인쇄된 값이고, 단위는 성공률(%)입니다.*
+
+생성 궤적을 섞으면 RoboCasa 평균이 시연 30·100·300개에서 각각 +4.2%p, +8.8%p, +6.8%p 오르고, 실제 GR-1 8과제 평균이 +5.8%p 오릅니다. RoboCasa의 세 값은 데이터 양마다 LAPA와 IDM 가운데 높은 쪽과 GR00T-N1-2B의 차이입니다(계산한 값: 21.6 − 17.4, 40.9 − 32.1, 56.4 − 49.6).
+
+두 이름표 방식을 비교하면 시연 30개에서는 LAPA가 21.6%로 IDM의 21.2%보다 조금 높고, 시연 100개와 300개에서는 IDM이 1.4%p, 3.5%p 앞섭니다. 저자들은 IDM을 학습할 데이터가 많아질수록 의사 행동이 실제 행동에 가까워지기 때문이라고 해석합니다. GR-1 휴머노이드는 저자들에게 데이터가 비교적 많은 환경이므로 실제 로봇에서는 IDM 행동만 썼습니다.
+
+---
+
+## 12. 정성 결과
+
+### 기준선과의 행동 차이
+
+RoboCasa의 "Turn Sink Spout" 과제는 시연 100개 조건에서 Diffusion Policy 11.8%, GR00T N1 42.2%입니다. 저자들은 Diffusion Policy가 과제의 의미를 자주 혼동했다고 적습니다.
+
+### 사전학습 모델의 양손 넘기기
+
+![그림 11 — 사전학습 모델 정성 예시](https://arxiv.org/html/2503.14734v2/gr1-pretraining-qualitative-examples.png)
+
+*그림 11 — 사과를 두 손보다 왼쪽에 둔 조건에서 사전학습 모델이 왼손으로 잡아 오른손에 넘긴 뒤 바구니에 넣습니다.*
+
+사후학습 과제 가운데 하나인 "Pick up the red apple and place it in the basket" 지시를 사전학습 모델에 줬습니다. 사과는 일부러 휴머노이드 손보다 왼쪽에 뒀습니다. 사전학습 모델은 동작이 덜 매끄럽지만 왼손으로 사과를 잡아 오른손에 넘기고 바구니에 넣었습니다.
+
+같은 조건에서 사후학습한 모델은 실패했습니다. 사후학습 데이터는 모두 오른손만 쓰고 손 사이 넘기기가 없어서, 사후학습 뒤에는 이 동작을 하지 못합니다.
+
+![그림 12 — 사후학습 모델 정성 예시](https://arxiv.org/html/2503.14734v2/gr1-qualitative-examples.png)
+
+*그림 12 — 위: 오이를 바구니에 넣는 과제에서 Diffusion Policy는 잘못 잡아 실패합니다. 아래: 레몬을 도마에서 팬으로 옮기는 과제에서 Diffusion Policy는 멈춰 있습니다.*
+
+사후학습한 GR00T N1은 Diffusion Policy보다 동작이 대체로 매끄럽고 잡기 정확도가 높았습니다. Diffusion Policy는 처음 몇 프레임 동안 움직이지 않거나 잘못 잡는 경우가 많았습니다.
+
+### 생성 궤적 추가 예시
+
+![그림 13 — 생성 궤적 추가 예시](https://arxiv.org/html/2503.14734v2/appendix_dream.png)
+
+*그림 13 — 빨간 사각형이 첫 프레임이고, 여러 시점 격자 영상, 이어지는 두 영상, 관절 물체·액체 영상, 인페인팅한 첫 프레임에서 만든 영상입니다.*
+
+| 줄 | 보여 주는 것 |
+|----|-----------|
+| 처음 세 줄 | RoboCasa 사후학습용 여러 시점 궤적. 학습할 때 시점들을 2 × 2 격자 영상 하나로 이어 붙임 |
+| 다음 두 줄 | 연속된 두 영상. 뒤 영상의 첫 프레임이 앞 영상의 마지막 프레임이라, 기본 과제를 이어 붙인 긴 과제를 만들 수 있음 |
+| 다음 두 줄 | 시뮬레이션이 어려운 관절 물체와 액체를 다루는 궤적 |
+| 마지막 줄 | 인페인팅(in-painting)으로 바꾼 첫 프레임에서 만든 영상. 실제로 새 첫 프레임을 촬영하지 않고 영상 다양성을 늘릴 수 있음 |
+
+여러 영상을 이어 긴 과제를 만드는 방법과 액체·관절 물체 생성 궤적은 예시만 보였고, 이를 사후학습에 쓴 정량 평가는 이후 연구로 남겼습니다.
+
+---
+
+## 13. 저자가 밝힌 한계
+
+첫째, 현재 GR00T N1은 짧은 탁자 조작 과제를 주로 다룹니다. 이동과 조작을 함께 하는 긴 과제로 넓히려면 휴머노이드 하드웨어, 모델 구조, 학습 데이터가 모두 발전해야 한다고 봅니다.
+
+둘째, 더 강한 시각-언어 백본을 쓰면 공간 추론, 언어 이해, 적응력이 좋아질 것으로 예상합니다.
+
+셋째, 영상 생성 모델과 자동 궤적 합성은 가능성을 보였지만, 물리 법칙을 지키면서 다양하고 실제로 일어나지 않은 상황의 데이터를 만드는 데 아직 어려움이 있어 합성 데이터의 품질과 다양성이 제한됩니다.
+
+넷째, 범용 로봇 모델의 강건성과 일반화를 높일 새 모델 구조와 사전학습 전략을 앞으로 탐색하겠다고 적습니다.
+
+---
+
+## 14. 논문 안에서 맞지 않는 곳
+
+| 위치 | 내용 | 이 글의 처리 |
+|------|------|------------|
+| 표 2 vs 표 4 (DexMG, 시연 100개) | 표 2는 Diffusion Policy 56.1%, GR00T-N1-2B 66.5%이고, 같은 조건인 표 4의 DexMG 평균은 46.9, 58.5입니다. 표 4의 과제별 값 9개를 평균하면 46.87, 58.50으로 표 4 평균과 일치합니다. RoboCasa와 GR-1 열은 두 표가 같습니다. 논문은 차이를 설명하지 않아 어느 쪽이 맞는지 알 수 없습니다. | 두 표를 원문 그대로 싣고 이 표에 적습니다. |
+| 식 (1) vs 섞는 식·추론 식 | 손실의 목표 속도는 $\epsilon - A_t$로 적혀 있지만, $A^\tau_t = \tau A_t + (1-\tau)\epsilon$을 $\tau$로 미분하면 $A_t - \epsilon$이고, 추론은 잡음에서 시작해 $V_\theta/K$를 더합니다. | 식은 원문대로 싣고, 예시 계산은 세 식이 함께 맞는 $A_t - \epsilon$으로 합니다(6절). |
+| 그림 9 오른쪽 Overall 막대 | Overall(8과제) 값은 4.07, 33.78, 39.63입니다. 같은 그림의 Pick & Place(5과제)와 Industrial(3과제)을 과제 수로 가중하면 3.75, 34.13, 40.00입니다. 논문은 Overall 계산 방식을 적지 않습니다. | 그림의 인쇄 값을 싣고 이 차이를 적습니다. |
+| 3.2절 생성 영상 계산량 | L40 GPU 3,600대로 약 105k GPU시간, "약 1.5일"이라고 적습니다. 105,000 ÷ 3,600 ≈ 29.2시간으로 약 1.2일입니다. | 두 값을 함께 적습니다. |
+| 2.2절 vs 표 7 (시뮬레이션 시간) | 2.2절은 시뮬레이션 궤적 780,000개가 사람 시연 6,500시간에 해당한다고 적어 궤적당 약 30초이고, 표 7은 사전학습 시뮬레이션 540k개가 1,742.6시간이라 궤적당 약 11.6초입니다. 2.2절 수치는 사후학습용을 포함하고 "사람이 시연하는 시간" 기준이라 기준이 다를 수 있지만, 논문은 환산 방법을 적지 않습니다. | 두 값을 각 절에 원문대로 적습니다. |
+| 4.4절 사전학습 평가 | 11.5/15를 76.6%로 적습니다. 11.5 ÷ 15 = 76.67%라 반올림하면 76.7%입니다. | 원문 값을 싣고 이 표에 적습니다. |
+| 4.5절 표 참조 | "표 2에서 GR00T N1이 데이터가 적은 조건에서 강하다"고 적지만, 표 2는 시연 100개 조건만 담고 데이터 양별 비교는 표 4와 그림 10에 있습니다. | 데이터 양별 설명은 표 4를 기준으로 합니다(11절). |
+| 2.3절 vs 표 6 (고정하는 부분) | 본문은 VLM의 언어 부분(language component)을 고정한다고 적고, 표 6은 텍스트 토크나이저(text tokenizer)를 고정한다고 적습니다. 토크나이저는 학습 가중치가 없는 구성 요소라 두 표현이 같은 뜻인지 논문만으로는 확인할 수 없습니다. | 두 표현을 각각 적습니다(4절, 9절). |
+
+---
+
+## 15. 정리 — 계보에서의 위치
+
+- **이중 시스템** — Eagle-2 VLM(System 2, 10Hz)이 이미지·지시를 토큰으로 바꾸고, flow matching으로 학습한 DiT(System 1, 120Hz)가 교차 주의로 그 토큰을 읽어 16걸음 행동 묶음을 냅니다. VLM은 12번째 층까지만 쓰고, 오일러 적분은 4걸음입니다.
+- **몸체별 부호기·복호기** — 로봇마다 다른 상태·행동 차원을 몸체별 MLP로 공통 차원에 옮기므로, 한 팔 로봇부터 양손 휴머노이드까지 한 가중치로 학습합니다.
+- **데이터 피라미드** — 사람 영상(2,517.0시간), 시뮬레이션(1,742.6시간), 생성 영상(827.3시간), 실로봇(3,288.8시간)을 한 혼합으로 사전학습합니다. 행동 값이 없는 영상에는 잠재 행동과 역동역학 모델 행동을 붙입니다.
+- **결과** — 시뮬레이션 세 벤치마크와 실제 GR-1 과제에서 처음부터 학습한 Diffusion Policy보다 높고, 실제 과제에서는 10% 데이터로 전체 데이터 Diffusion Policy에 3.8%p 차이까지 접근합니다.
+- **공개** — GR00T-N1-2B 체크포인트, 학습 데이터, 시뮬레이션 벤치마크를 공개했습니다.
+
+### π0와의 비교
+
+| 항목 | π0 | GR00T N1 |
+|------|-----|---------|
+| 대상 | 한 팔·양팔·이동형 조작기 | 한 팔 로봇부터 양손 휴머노이드, 주 평가는 Fourier GR-1 |
+| 파라미터 | 3.3B (VLM 3B + 행동 전문가 300M) | 2.2B (VLM 1.34B) |
+| VLM | PaliGemma | Eagle-2 (SigLIP-2 + SmolLM2), 12번째 층 출력 |
+| VLM과 행동 모듈 연결 | 한 Transformer의 자기 주의 층을 공유하는 혼합 전문가 구조 | 별도 DiT가 VLM 출력을 교차 주의로 참조 |
+| 서로 다른 몸체 처리 | 모든 로봇을 18차원에 맞추고 0으로 채움 | 몸체별 상태·행동 부호기·복호기 MLP |
+| 행동 생성 | flow matching, 오일러 10걸음 | flow matching, 오일러 4걸음 |
+| 행동 묶음 | 50걸음 | 16걸음 |
+| 행동 값이 없는 데이터 | 사용하지 않음 | 사람 영상·생성 영상에 잠재 행동과 IDM 행동을 붙여 사용 |
+
+π0는 VLM 토큰과 행동 토큰이 한 시퀀스 안에서 같은 층을 지나고, 행동 전문가를 한 번 실행할 때마다 Transformer 전체의 주의 계산에 참여합니다. GR00T N1은 느린 시각-언어 해석과 빠른 행동 생성을 두 모듈로 나누고, 두 모듈을 교차 주의로만 연결합니다. 저자들은 이 방식이 VLM과 행동 생성 모델의 구조를 따로 고를 수 있게 한다고 적습니다. 몸체별 입출력 MLP는 Octo와 비슷하지만, Octo는 VLM을 미세조정하지 않았다는 점에서 다르다고 설명합니다.
+
+행동 모듈의 학습 방식은 [Flow Matching](/blog/paper-review/pre-vla/flow-matching)의 선형 경로이고, 기준선 [Diffusion Policy](/blog/paper-review/pre-vla/diffusion-policy)와 같은 행동 묶음 생성 계열입니다. 앞 편은 [OpenVLA-OFT](/blog/paper-review/vla/openvla-oft)이고, 다음 편 [Gemini Robotics](/blog/paper-review/vla/gemini-robotics)는 Gemini 2.0 기반 VLA와 체화 추론을 다룹니다.
+
+전체 목록은 [VLA 계보 목차](/blog/paper-review/vla)에서 볼 수 있습니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/vla/openvla-oft","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"8편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/vla/gemini-robotics","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"10편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Gemini Robotics: Bringing AI into the Physical World"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

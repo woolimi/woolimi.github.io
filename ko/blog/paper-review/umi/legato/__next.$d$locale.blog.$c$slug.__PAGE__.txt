@@ -1,0 +1,242 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"default"]
+f:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/2b-rkrpx92plj.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/1-lkrriw345pf.js","/_next/static/chunks/2xgagg06nhrfg.js","/_next/static/chunks/17wxtb78lqos_.js","/_next/static/chunks/3nps6k8bwz719.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js","/_next/static/chunks/22gb20mrk44ld.js"],"MarkdownContent",1]
+11:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"mb-30","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"Home","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Blog","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"논문 해석","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-3",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-3",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"UMI","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-4",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-4",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool\",\"description\":\"UMI와 같은 물음에 다른 답을 낸 LEGATO를 원본 그림과 함께 풀어봅니다. 로봇들이 저마다의 집게로 붙잡아 쓰는 공용 도구, 움직임 불변 공간의 정규화, 역기구학 리타게팅으로 팔뿐 아니라 사족보행 로봇과 휴머노이드까지 같은 정책을 옮깁니다.\",\"image\":\"https://arxiv.org/html/2411.03682/overview.png\",\"url\":\"https://woolimi.github.io/ko/blog/paper-review/umi/legato\",\"inLanguage\":\"ko\",\"datePublished\":\"2026-08-30T02:13:34.000Z\",\"dateModified\":\"2026-08-30T04:41:38.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\",\"url\":\"https://woolimi.github.io\"}}"}}],"$L4","$L5","$L6",false,false,"$L7"]}]}],["$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A-gfPA41_SOmu3fajNRh2"}
+4:["$","$L3",null,{"href":"/ko/blog/paper-review/umi","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group inline-flex items-center gap-2 text-[10px] font-bold tracking-[0.18em] text-black uppercase underline-offset-4 hover:underline md:text-[11px] mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"UMI 계보 - 전체 목차"}],["$","span",null,{"style":{"color":"#595959"},"children":"9편"}]]}]
+5:["$","h1",null,{"className":"mb-4 text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:mb-10 md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"논문해석 - LEGATO: Cross-Embodiment Imitation Using a Grasping Tool"}]
+10:T4abc,
+## 들어가며
+
+[원조 UMI 논문해석](/blog/paper-review/umi/umi)은 사람이 손에 든 집게로 시연을 모으고, 그 집게와 똑같이 생긴 것을 로봇 팔 끝에 달아 정책을 그대로 실행합니다. 이렇게 하려면 로봇의 원래 집게를 떼어내고 UMI 집게로 갈아 끼워야 하고, 그래서 UMI는 Schunk WSG-50 같은 특정 평행 집게를 전제로 설계됐습니다. 힌지형 집게를 쓰는 로봇에는 애초에 붙지 않습니다.
+
+LEGATO는 여기서 방향을 뒤집습니다. 로봇의 집게는 그대로 두고 로봇이 **자기 집게로 공용 도구를 붙잡게** 합니다. 도구가 몸체의 일부가 되는 순간 어느 로봇이든 같은 손끝과 같은 카메라 시점을 갖습니다. 그 덕에 탁상형 팔뿐 아니라 사족보행 로봇과 휴머노이드에도 같은 정책이 올라갑니다.
+
+📄 [LEGATO: Cross-Embodiment Imitation Using a Grasping Tool](https://arxiv.org/abs/2411.03682) — Mingyo Seo, H. Andy Park, Shenli Yuan, Yuke Zhu, Luis Sentis (UT Austin · The AI Institute) / 2024-11-06 게재, RA-L 2025년 1월 게재 확정, arxiv 식별자 2411.03682
+
+### 초록 요약
+
+한 로봇에서 배운 정책을 다른 로봇에 그대로 쓸 수 있다면 모방학습(imitation learning)의 데이터 비용은 크게 떨어집니다. LEGATO는 기구학적 형태(kinematic morphology)가 서로 다른 로봇 사이에서 시각운동(visuomotor) 기술을 옮기는 방법으로 이 문제에 답합니다. 출발점은 손잡이형 집게(handheld gripper)입니다. 사람이 들든 로봇이 물든 이 집게 하나를 공유하면 관측과 행동이 같은 자리에서 정의되므로, 몸체가 달라도 과제 정의가 흔들리지 않습니다. 여기서 모은 시연으로 정책을 학습하되, 손실은 궤적 위에서 곧바로 재지 않고 움직임 불변 공간(motion-invariant space)으로 옮겨 잽니다. 시연한 몸체의 좌표계와 스케일이 정책에 묻어 들어가는 것을 막으려는 장치입니다. 정책이 내놓은 집게 궤적은 역기구학(inverse kinematics, IK)을 거쳐 고자유도 전신(whole-body) 관절 명령이 되고, 그 상태로 여러 몸체에 배포됩니다. 저자들은 시뮬레이션과 실제 로봇 양쪽에서 이 경로로 기술이 학습되고 전이된다고 보고합니다.
+
+---
+
+## 1. 문제 — 도구를 공유하면 몸체 차이가 접힙니다
+
+![그림 1 — LEGATO 개요](https://arxiv.org/html/2411.03682/overview.png)
+
+*그림 1 — 손잡이형 집게로 모은 시연에서 시각운동 정책을 학습하고, 그 출력을 모션 리타게팅으로 각 로봇의 전신 움직임으로 옮깁니다.*
+
+기존 시연 수집 도구는 두 갈래 중 하나였습니다. 로봇의 원래 집게를 사람이 들 수 있는 형태로 복제하거나, 아예 로봇 집게를 맞춤 부품으로 교체하는 방식입니다. 둘 다 특정 집게 기구를 전제하니 평행 집게가 아닌 로봇에는 쓸 수 없습니다.
+
+논문은 여기에 자주 지나치는 문제를 하나 더 얹습니다. 로봇마다 제어 지연(control latency)과 궤적 추종 오차가 다른데, 이 성분은 사람 시연에 아예 없기 때문에 같은 목표 궤적을 줘도 로봇마다 다르게 실행됩니다. 지연을 보상하거나 시행착오로 미세조정해 맞춘 선행 연구가 있지만 로봇이 바뀔 때마다 다시 튜닝해야 해서 일반화되지 않습니다.
+
+LEGATO는 공용 도구를 몸체의 일부로 편입시키는 쪽을 택합니다. 로봇이 자기 집게로 LEGATO Gripper의 손잡이를 붙잡고 그 상태로 도구를 작동시키니 하드웨어 개조가 전혀 없고, 도구를 붙잡은 순간부터 어느 로봇이든 같은 손끝 기하와 같은 카메라 시점을 갖습니다.
+
+---
+
+## 2. 파이프라인 — 수집·학습·리타게팅의 세 칸
+
+![그림 2 — LEGATO의 교차 몸체 학습 파이프라인](https://arxiv.org/html/2411.03682/pipeline.png)
+
+*그림 2 — 수집 때는 집게가 자기 궤적·파지 동작·1인칭 스테레오 영상을 기록하고, 배포 때는 정책 출력이 역기구학 최적화를 거쳐 전신 움직임이 됩니다.*
+
+전체 흐름은 세 칸으로 나뉩니다.
+
+```flow
+{
+  "nodes": [
+    {"id": "demo", "label": "손잡이형 집게 시연", "sub": "사람이 직접 들거나 로봇 원격조작"},
+    {"id": "data", "label": "관측·행동 쌍", "sub": "스테레오 영상 + 6D 자세 + 파지"},
+    {"id": "pol", "label": "고수준 시각운동 정책", "sub": "10 Hz 집게 궤적 출력", "color": "blue"},
+    {"id": "invar", "label": "움직임 불변 공간 정규화", "sub": "DHB 변환 위 L2 손실", "color": "orange"},
+    {"id": "ik", "label": "저수준 IK 최적화", "sub": "100 Hz 전신 관절 명령", "color": "green"},
+    {"id": "robot", "label": "다양한 로봇 몸체", "sub": "팔 · 사족 · 휴머노이드 · 이동로봇", "color": "green"}
+  ],
+  "edges": [
+    {"from": "demo", "to": "data"},
+    {"from": "data", "to": "pol"},
+    {"from": "invar", "to": "pol", "label": "학습 손실"},
+    {"from": "pol", "to": "ik"},
+    {"from": "ik", "to": "robot"}
+  ],
+  "height": 320
+}
+```
+
+정책 $\pi$ 는 두 층으로 나뉩니다. 고수준 정책 $\pi_H$ 가 손잡이형 집게의 목표 궤적 $u$ 를 만들고, 저수준 전신 모션 최적화기 $\pi_L$ 이 역기구학으로 그 궤적을 따라갈 관절 구성을 찾습니다. 로봇이 바뀌어도 $\pi_H$ 는 그대로 두고 $\pi_L$ 만 갈아 끼우면 되니, 목표 로봇에서 다시 학습할 일이 없습니다.
+
+$$
+\pi(a_t \mid s_t) = \pi_L(a_t \mid s_t, u_t)\,\pi_H(u_t \mid s_t)
+$$
+
+---
+
+## 3. 하드웨어 — 손잡이만 바꿔 끼웁니다
+
+![그림 4 — LEGATO Gripper 설계](https://arxiv.org/html/2411.03682/hardware.png)
+
+*그림 4 — 왼쪽은 로봇마다 교체되는 손잡이와 공용 구동 집게, 오른쪽 위는 사람 시연 절차, 오른쪽 아래는 로봇들이 원래 집게로 도구를 붙잡은 모습입니다.*
+
+LEGATO Gripper는 모든 몸체가 공유하는 **구동부 본체**와 로봇마다 갈아 끼우는 **손잡이 부품**으로 나뉩니다. 로봇의 CAD 모델만 있으면 그 로봇 집게에 맞는 손잡이를 설계할 수 있고, 나머지 부품은 전부 공유됩니다.
+
+기구부는 평행 4절 링크(four-bar linkage) 두 쌍으로 이뤄지고 각 쌍이 1자유도로 구동돼, 일반 집게보다 넓고 유연한 벌림 범위가 나옵니다. 손끝은 핀 레이(fin ray) 순응 구조라 물체에 닿으면 그 모양에 맞춰 휩니다. 손끝은 TPU 95A, 나머지는 PLA로 3D 프린팅해 상용 집게보다 훨씬 가벼운데, 가반하중이 빠듯한 로봇도 도구를 든 채 움직이려면 이 무게가 중요합니다.
+
+관측용으로는 RealSense T265 또는 대체품인 SeerSense XR50이 달립니다. 어안(fisheye) 스테레오 카메라와 관성측정장치(IMU)로 영상과 시각 오도메트리(visual odometry)를 함께 얻습니다. 사람 시연 때는 둘 다 기록하지만 로봇 배포 때는 스테레오 영상만 씁니다. 로봇은 자기 자세를 기구학으로 이미 알기 때문입니다.
+
+조작 인터페이스는 상태 LED가 달린 버튼 하나뿐입니다. 더블클릭이 기록 시작과 종료를, 싱글클릭이 파지 동작을 맡습니다.
+
+---
+
+## 4. 정책 구조 — 도구 좌표계 안에서만 말합니다
+
+![그림 3 — 고수준 시각운동 정책 구조](https://arxiv.org/html/2411.03682/architecture.png)
+
+*그림 3 — 1인칭 스테레오 영상과 직전 행동에서 10 Hz로 집게 궤적과 파지 동작을 만들고, 세 갈래 손실로 학습합니다.*
+
+관측은 128 × 128 해상도의 스테레오 흑백 이미지입니다. 두 개의 ResNet-18 이미지 인코더가 각각 좌우 영상을 처리하고, 그 특징을 400개 은닉 유닛의 LSTM 두 층에 넣습니다. 출력단은 각 층 2048 유닛짜리 3층 다층 퍼셉트론(MLP)이고, 손 궤적 쪽으로는 5-모드 가우시안 혼합 모델(GMM)의 파라미터를 냅니다. 파지 동작은 열림/닫힘 이진 분류입니다. 시연은 총 150개 궤적으로 학습합니다.
+
+LEGATO의 행동은 연속한 두 시점 사이 SE(3) 상의 차분 자세이고, 그것도 현재 집게 좌표계를 기준으로 씁니다. 고정 기준 좌표계에 기대지 않으니 베이스가 떠다니는 로봇, 그러니까 사족보행이나 휴머노이드에도 그대로 통합니다. 사람 시연에 섞여 있는 여러 갈래의 해법은 가우시안 혼합 모델에서 표본을 뽑는 방식으로 담습니다.
+
+학습 손실은 세 항의 합입니다.
+
+$$
+\mathcal{L} = \mathcal{L}_{\text{NLL}} + \mathcal{L}_{\text{invar}} + \mathcal{L}_{\text{CE}}
+$$
+
+$\mathcal{L}_{\text{NLL}}$ 은 SE(3) 상 분포의 음의 로그가능도, $\mathcal{L}_{\text{CE}}$ 는 파지 동작의 교차 엔트로피, 그리고 가운데 항이 이 논문의 핵심 장치입니다.
+
+---
+
+## 5. 움직임 불변 공간 — 몸체 색깔을 지운 자리에서 맞춥니다
+
+$\mathcal{L}_{\text{invar}}$ 는 예측 궤적과 시연 궤적을 **DHB(Denavit-Hartenberg Bidirectional) 불변 표현**으로 옮긴 뒤 그 위에서 L2 손실을 잽니다.
+
+$$
+\mathcal{L}_{\text{invar}} = \sum \lVert \phi(u_t, \{\hat{u}_k\}^{t-1}_{k=t-T}) - \phi(\{\hat{u}_k\}^{t}_{k=t-T}) \rVert^2
+$$
+
+DHB 변환 $\phi(\cdot)$ 는 강체 운동을 **크기(magnitude)와 방향 변화(directional change)** 로 분해합니다. 위치와 회전 각각에 대해 불변량 $m_{p,k}, m_{r,k}$ 와 네 개의 각도 $\theta^1, \theta^2$ 를 뽑아, 길이 $T-1$ 짜리 10변수 표현을 만듭니다. 이 공간은 회전과 평행이동, 크기 조정에 모두 불변합니다.
+
+시연 데이터의 궤적에는 그 시연을 한 몸체의 색깔이 묻어 있습니다. 시점과 기준 좌표계, 자세 오프셋과 스케일, 거기에 그 로봇의 추종 오차와 지연까지. SE(3) 위에서 곧바로 맞추면 정책이 이 색깔까지 통째로 외웁니다. 움직임 불변 공간에서 맞추면 움직임의 형태만 남고, 그래서 다른 몸체로 옮겨도 정책이 깨지지 않습니다.
+
+그림 10의 절제 실험이 이 대가 관계를 그대로 드러냅니다. 정규화를 넣으면 시연을 모은 그 몸체에서는 성공률이 떨어지고, 다른 몸체로 옮길 때는 올라갑니다. BC-RNN, Diffusion Policy(속도), Diffusion Policy(상대 궤적), LEGATO 네 구조에서 모두 같은 경향이 나오니 특정 구조에만 듣는 장치는 아닙니다.
+
+---
+
+## 6. 전신 리타게팅 — 우선순위를 지키며 관절을 짜냅니다
+
+저수준 최적화기는 이차계획법(quadratic programming, QP) 문제를 풉니다.
+
+$$
+\min_{a_t} \sum \tfrac{1}{2} a_t^\top H a_t \quad \text{s.t.} \quad J_i(q_t) a_t = \dot{x}_i^{\text{des}}, \quad \underline{L}_i \le C_i a_t \le \overline{L}_i
+$$
+
+과제 두 개가 우선순위를 달고 들어갑니다. $J_1$ 은 집게 자세 제어, $J_2$ 는 구성 편향(configuration bias) 유지이고, 관절 위치·속도·가속도 한계와 가상 벽, 충돌 거리 한계가 부등식 제약으로 붙습니다. 제약을 다 만족시킬 수 없는 상황을 대비해 eSNS(extended Saturation in the Null Space) 알고리즘으로 각 과제에 $[0,1]$ 범위의 스케일 계수 $c_i$ 를 붙이고 그 합을 최대화합니다.
+
+$$
+\max \sum_i c_i \quad \text{s.t.} \quad J_i(q_t) a_t = c_i \dot{x}_i^{\text{des}}, \quad \underline{L}_i \le C_i a_t \le \overline{L}_i
+$$
+
+우선순위가 높은 과제부터 최대한 살리되 제약은 끝까지 지키는 구조라, 정책이 물리적으로 불가능한 궤적을 내도 로봇은 안전하게 근사해서 움직입니다. 고수준 정책은 10 Hz, IK 최적화기는 100 Hz, 시뮬레이션의 저수준 PD 제어는 500 Hz로 돕니다.
+
+---
+
+## 7. 시뮬레이션 — 다섯 몸체에 같은 정책을 얹습니다
+
+![그림 5 — 시뮬레이션 배포 타임랩스](https://arxiv.org/html/2411.03682/timelapse_sim.png)
+
+*그림 5 — 위에서부터 Abstract, Panda, Spot, GR-1, Google Robot이 같은 정책으로 뚜껑 닫기·컵 정리·국자 정리를 수행합니다.*
+
+평가에 쓴 다섯 몸체는 형태가 크게 다릅니다.
+
+| 몸체 | 형태 | 자유도 구성 |
+|---|---|---|
+| Abstract | 시뮬레이션 전용 이상화 몸체 | 속도·작업공간 제한 없이 연속 궤적 조작 |
+| Panda | 탁상형 매니퓰레이터 | 팔 7자유도 |
+| Spot | 사족보행 로봇 | 팔 6자유도 + 몸통 자세 6자유도 |
+| GR-1 | 휴머노이드 | 팔 각 7자유도 + 머리·몸통 각 3자유도 |
+| Google Robot | 바퀴형 이동 로봇 | 팔 7자유도 + 평면 베이스 3자유도 |
+
+Spot과 GR-1은 보행을 쓰지 않고, 다리 관절은 몸통 자세를 만드는 데만 동원됩니다. 학습은 오로지 Abstract 몸체의 150개 시연으로만 하고, 나머지 넷에는 추가 학습 없이 그대로 배포합니다.
+
+과제는 셋입니다. 뚜껑 닫기(Closing the lid)는 뚜껑을 잡아 손 닿는 냄비 위에 정확히 덮는 정밀 조작이고, 컵 정리(Cup shelving)는 넓은 작업공간에서 선반의 비볼록 형상을 피해야 하는 충돌 회피 과제입니다. 국자 정리(Ladle reorganization)는 시야가 제한된 상태에서 냄비의 국자를 집어 정리함에 넣습니다. 각 조건마다 50회 시행합니다.
+
+비교 대상은 BC-RNN, Diffusion Policy, 그리고 움직임 불변 정규화만 뺀 LEGATO (SE3)입니다. 결과는 평균 성공률 기준으로 LEGATO가 각각 28.9%, 10.5%, 21.1% 앞섭니다.
+
+실패 양상이 더 많은 것을 말해 줍니다. 기준 방법은 시연을 모은 Abstract 몸체에서 높은 성공률을 내지만 다른 로봇으로 옮기면 눈에 띄게 무너집니다. 특히 Diffusion Policy와 LEGATO (SE3)는 Abstract에서 가장 잘하고도 전이에서 떨어지는데, SE(3)에서 직접 학습하면 학습 도메인 쪽으로 편향된다는 증거입니다.
+
+부록의 그림 9는 Diffusion Policy 계열을 행동 공간별로 갈라 비교합니다. 원조 UMI가 쓴 상대 말단장치 궤적이 속도 기반보다 낫다는 결과가 여기서도 다시 나옵니다. 다만 상대 궤적으로 수신 지평(receding horizon) 행동열을 만들려면 초기 집게 자세 같은 기하 정보가 더 필요하고, LEGATO는 그 의존을 없애려고 집게 좌표계 차분 자세만 씁니다.
+
+그림 7은 시연을 모은 몸체를 바꿔가며 학습해 봅니다. Abstract 시연이 가장 좋고, 실제 로봇 원격조작 시연 중에서는 Spot이 가장 좋고 Panda가 가장 나쁩니다. Spot은 몸통에 6자유도가 더 있어 전신 움직임에 여유가 크고 Panda는 그렇지 않습니다. 시연을 모으는 몸체의 운동 여유가 데이터 품질을 좌우한다는 관찰입니다.
+
+---
+
+## 8. 실제 로봇 — 사람 시연에서 곧장 Panda로
+
+![그림 8 — 실제 로봇 배포 타임랩스](https://arxiv.org/html/2411.03682/timelapse_real.png)
+
+*그림 8 — 사람이 직접 든 집게로 모은 시연으로 학습한 정책을 Panda 로봇에서 실행한 모습입니다.*
+
+실제 실험은 사람이 직접 든 집게로 모은 시연으로 학습한 정책을 Panda에 얹습니다. 앞의 시뮬레이션에서 IK 리타게팅이 가장 어려웠던 몸체를 일부러 골랐습니다. 과제마다 20회씩 시행한 결과입니다.
+
+| 과제 | 성공 |
+|---|---|
+| 뚜껑 닫기 | 20회 중 16회 |
+| 컵 정리 | 20회 중 13회 |
+| 국자 정리 | 20회 중 14회 |
+
+논문이 요약한 값으로는 72% 성공률입니다. 사람 손 시연에서 로봇 실행까지 로봇 전용 학습 데이터 없이 건너간 결과입니다.
+
+---
+
+## 9. UMI와 LEGATO — 같은 물음, 다른 손잡이
+
+두 연구가 갈라지는 지점을 정리하면 이렇습니다.
+
+| 축 | UMI | LEGATO |
+|---|---|---|
+| 로봇 쪽 하드웨어 | 로봇 집게를 UMI 집게로 교체 | 로봇의 원래 집게로 공용 도구를 붙잡음 |
+| 대상 집게 | 평행 집게 전제 | 붙잡을 수만 있으면 무관 |
+| 자세 추정 | ORB-SLAM3 (배포 시에도 사용) | 수집 시 시각 오도메트리, 배포 시 로봇 기구학 |
+| 행동 표현 | 상대 말단장치 궤적 | 집게 좌표계 SE(3) 차분 자세 |
+| 몸체 차이 흡수 | 지연 정합 + 데이터 거르기 | 움직임 불변 공간 정규화 |
+| 저수준 실행 | 말단장치 궤적 제어 | 우선순위 QP 기반 전신 IK |
+| 확장 범위 | 단일 팔 · 양팔 | 팔 · 사족보행 · 휴머노이드 · 이동 로봇 |
+
+가장 큰 차이는 **몸체 차이를 어디서 흡수하느냐**입니다. UMI는 하드웨어를 통일해 차이 자체를 없앴고, LEGATO는 차이를 남겨둔 채 학습 손실과 저수준 최적화 양쪽에서 흡수합니다. 통일하는 쪽은 단순하지만 적용 범위가 좁고, 흡수하는 쪽은 복잡하지만 훨씬 다양한 형태를 받아들입니다.
+
+겹치는 곳도 있습니다. 관절이 아니라 말단장치 기준 상대 표현으로 행동을 정의한다는 것, 그리고 수집과 배포에서 카메라 시점을 같게 유지한다는 것. 계보 안에서 되풀이해 확인되는 두 축입니다.
+
+---
+
+## 10. 저자가 밝힌 한계
+
+첫째, 보행을 쓰지 않습니다. 지금은 전신 조작에 초점을 두고 여유 자유도로 작업공간을 넓히는 데까지만 갑니다. 걷기를 조작에 통합하는 이동조작(loco-manipulation)은 다음 과제로 남겼습니다.
+
+둘째, 손잡이는 여전히 로봇마다 따로 필요합니다. 로봇의 CAD를 보고 그때그때 설계해야 합니다. 저자들은 붙잡을 위치만 식별하면 되는 범용 손잡이도 가능하리라 봅니다.
+
+---
+
+## 11. 정리 — 계보에서 LEGATO의 자리
+
+LEGATO는 UMI가 세운 문제를 그대로 받아, 답을 정반대로 뒤집은 논문입니다.
+
+- **로봇이 도구를 붙잡습니다.** 집게 교체가 없으니 평행 집게가 아닌 로봇에도 붙습니다.
+- **움직임 불변 공간에서 학습합니다.** 시연 몸체의 지연·오차·좌표계 색깔을 손실 단계에서 지웁니다.
+- **우선순위 QP로 전신 리타게팅합니다.** 정책은 도구 궤적만 말하고, 관절 문제는 로봇마다 따로 풉니다.
+- **팔 바깥으로 나갑니다.** 사족보행과 휴머노이드까지 같은 정책을 배포합니다.
+
+이 계보에서 LEGATO는 "로봇 없이 데이터를 모으자"는 축을 "로봇이 아무리 달라도 같은 데이터를 쓰자"는 축으로 확장한 자리에 놓입니다. 이동형 조작을 다룬다는 점에서는 [Mobile UMI](/blog/paper-review/umi/mobile-umi)와 겹치고, 도구를 몸체의 일부로 취급한다는 점에서는 뒤의 [UMI-on-Air](/blog/paper-review/umi/umi-on-air)가 던지는 배포 쪽 물음으로 이어집니다. 계보의 출발점이 궁금하다면 [원조 UMI 논문해석](/blog/paper-review/umi/umi)으로 돌아가면 됩니다.
+6:["$","article",null,{"children":["$","$Lf",null,{"children":"$10"}]}]
+7:["$","nav",null,{"aria-label":"이전 글, 다음 글","className":"mt-16 grid gap-3 sm:grid-cols-2","children":[["$","$L3",null,{"href":"/ko/blog/paper-review/umi/gripper-design-demonstration-quality","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-3.5 w-3.5 transition-transform duration-300 group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"이전 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"8편",false]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Influence of Gripper Design on Human Demonstration Quality for Robot Learning"}]]}],["$","$L3",null,{"href":"/ko/blog/paper-review/umi/touch-in-the-wild","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"className":"group border-border hover:bg-muted flex min-w-0 flex-col gap-1 rounded-lg border p-4 no-underline transition-colors items-end text-right sm:col-start-2","children":[["$","span",null,{"className":"text-muted-foreground flex items-center gap-1.5 text-xs","children":[false,"다음 글",["$","span",null,{"aria-hidden":true,"children":"·"}],"10편",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}],["$","span",null,{"className":"text-foreground truncate font-semibold","children":"논문해석 - Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/17wxtb78lqos_.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/3nps6k8bwz719.js","async":true}]
+b:["$","script","script-2",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+c:["$","script","script-3",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+d:["$","script","script-4",{"src":"/_next/static/chunks/22gb20mrk44ld.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
