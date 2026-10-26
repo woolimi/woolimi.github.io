@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[783850,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/21oohnoofbjrh.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/2ek6c4wcnjw1s.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js"],"BlurFade"]
+3:I[749908,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/21oohnoofbjrh.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/2ek6c4wcnjw1s.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js"],"default"]
+4:I[729227,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/21oohnoofbjrh.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/2ek6c4wcnjw1s.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js"],"Image"]
+12:I[347816,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/21oohnoofbjrh.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/2ek6c4wcnjw1s.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js"],"ProjectLinkButton"]
+13:I[629911,["/_next/static/chunks/3kw5frqihsz8a.js","/_next/static/chunks/3lj8u5xv5ktpp.js","/_next/static/chunks/21oohnoofbjrh.js","/_next/static/chunks/1zxa1_-ln-wn8.js","/_next/static/chunks/0ry40u7s86a5y.js","/_next/static/chunks/2ek6c4wcnjw1s.js","/_next/static/chunks/0-ovh1y-z2kw9.js","/_next/static/chunks/1yqggallc2eph.js","/_next/static/chunks/0c1jocwnhuhn2.js","/_next/static/chunks/314de4rhotqzp.js"],"MarkdownContent",1]
+15:I[370477,["/_next/static/chunks/1cer3cqjvtmqt.js","/_next/static/chunks/3wp7_8i9kdviu.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+:HL["/_next/static/chunks/0zrd7rd7ow0gg.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"project","className":"mx-auto max-w-4xl px-6 pt-20 pb-40","children":["$","$L2",null,{"delay":0.04,"duration":0.5,"blur":"4px","children":[["$","nav",null,{"aria-label":"breadcrumb","data-slot":"breadcrumb","className":"mb-6","children":["$","ol",null,{"data-slot":"breadcrumb-list","className":"text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5","children":[["$","li","item-0",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/about-me","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"prefetch":false,"children":"About me","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-1",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-1",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","$L3",null,{"ref":null,"href":"/ko/projects/personals","localeCookie":"$0:rsc:props:children:0:props:children:props:children:0:props:children:props:children:0:props:children:props:localeCookie","prefetch":false,"children":"Personal Projects","data-slot":"breadcrumb-link","className":"hover:text-foreground transition-colors"}]}],["$","li","separator-2",{"data-slot":"breadcrumb-separator","role":"presentation","aria-hidden":"true","className":"[&>svg]:size-3.5","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]}],["$","li","item-2",{"data-slot":"breadcrumb-item","className":"inline-flex items-center gap-1.5","children":["$","span",null,{"data-slot":"breadcrumb-page","role":"link","aria-disabled":"true","aria-current":"page","className":"text-foreground font-normal","children":"Robotics Roadmap"}]}]]}]}],["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Project\",\"name\":\"Robotics Roadmap\",\"description\":\"공통 기초에서 robot learning·manipulation·mobile autonomy 세 직무 방향으로 뻗는 강의 56개를 지도·강의·면접형 퀴즈로 엮은 오픈소스 로보틱스 독학 커리큘럼\",\"image\":\"https://woolimi.github.io/robotics-roadmap.gif\",\"url\":\"https://woolimi.github.io/projects/personals/robotics-roadmap\",\"author\":{\"@type\":\"Person\",\"name\":\"박우림\"}}"}}],["$","div",null,{"className":"mb-8 space-y-4","children":[false,"$undefined",["$","h1",null,{"className":"text-3xl leading-tight font-semibold tracking-tight sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight lg:text-6xl lg:leading-tight","children":"Robotics Roadmap"}],["$","$L4",null,{"src":"/robotics-roadmap.gif","alt":"Robotics Roadmap","width":1200,"height":630,"className":"my-6 h-auto w-full rounded-lg"}],["$","p",null,{"className":"text-base leading-relaxed","children":"공통 기초에서 robot learning·manipulation·mobile autonomy 세 직무 방향으로 뻗는 강의 56개를 지도·강의·면접형 퀴즈로 엮은 오픈소스 로보틱스 독학 커리큘럼"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","div","0",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"React"}],["$","div","1",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Vite"}],"$L5","$L6","$L7","$L8"]}],"$L9"]}],"$La"]}]}],["$Lb","$Lc","$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"p9XBai2FqgwGxWHbqoG4x"}
+5:["$","div","2",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"TypeScript"}]
+6:["$","div","3",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"D3"}]
+7:["$","div","4",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"KaTeX"}]
+8:["$","div","5",{"className":"focus:ring-ring inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:ring-2 focus:ring-offset-2 focus:outline-none bg-secondary text-secondary-foreground hover:bg-secondary/80 border-transparent","children":"Claude Code"}]
+9:["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","$L12",null,{"href":"https://woolimi.github.io/robotics-roadmap/","type":"website"}],["$","$L12",null,{"href":"https://github.com/woolimi/robotics-roadmap","type":"github"}]]}]
+14:Tbd0,
+로보틱스 개발자가 되기 위한 독학 커리큘럼입니다. vector·미분·확률과 ROS 2 같은 공통 기초에서 출발해 robot learning, manipulation, mobile robot·자율주행 세 직무 방향으로 나아가는 강의 56개를 담았습니다. 리포를 fork 해 지도를 띄우면 강의를 읽고 퀴즈를 풀며 혼자서 진도를 이어 갈 수 있습니다.
+
+## 커리큘럼 지도
+
+![커리큘럼 지도. 가운데 동심원에 공통 기초가 놓이고, 점선으로 나뉜 세 구역으로 Robot Learning·Manipulation·Mobile Autonomy 트리가 뻗습니다](/robotics-roadmap-map.png)
+
+| 영역 | 다루는 것 |
+| --- | --- |
+| 공통 기초 | vector·행렬, 미분·gradient, 확률·Gaussian, ROS 2(node·topic·tf2), 좌표 변환, PID 제어, 카메라 geometry |
+| Robot Learning | 신경망 기초, CNN·ViT·CLIP, Transformer·GPT-2, VAE·diffusion·flow matching, 강화학습, imitation learning, VLA(RT-2·OpenVLA·π0·GR00T N1), world model |
+| Manipulation | forward·inverse kinematics, MuJoCo simulation, force·impedance control, ros2_control, motion planning(RRT·OMPL·MoveIt 2), hand-eye calibration, grasp planning |
+| Mobile Autonomy | Kalman filter, particle filter, LiDAR·visual SLAM, path planning(A*·Nav2), path tracking(pure pursuit·MPC), LiDAR perception, Autoware |
+
+원 하나가 강의 하나이고, 선은 먼저 읽어 두면 좋은 강의를 잇습니다. 그래서 π0 를 이해하려면 RT-2·OpenVLA, flow matching, ACT 를 먼저 읽어야 한다는 것이 지도에서 바로 보입니다.
+
+## 강의
+
+![Kalman filter 강의. 오른쪽 창에 숫자로 계산하는 표와 그림이 보이고, 왼쪽 지도에서는 이 강의와 선수·후속 강의가 강조됩니다](/robotics-roadmap-lesson.png)
+
+강의마다 근거 논문을 밝히고 그 방법과 숫자를 따라가며, Kalman(1960)부터 π0·GR00T N1 까지 논문·교과서·공식 문서 200여 편을 다룹니다. 본문은 코드 없이 손으로 따라 계산하는 표, 그림, 수식, 절마다 답을 접어 둔 확인 문제로 짜여 있고, 긴 유도는 "심화" 블록에 접어 두었습니다.
+
+## 면접형 퀴즈
+
+![퀴즈 화면. 개념 질문에 4지선다로 답하는 문항이 보입니다](/robotics-roadmap-quiz.png)
+
+강의 끝의 퀴즈는 강의의 원리 하나마다 한 문항을 묻습니다. 다시 풀 때는 틀린 원리만 같은 원리의 다른 문항으로 묻고, 틀린 문항이 남지 않으면 그 강의가 완료로 칠해지면서 이어지는 강의가 밝아집니다.
+
+## 진행 기록과 업데이트
+
+퀴즈를 제출하면 지도를 띄운 dev server 가 답안을 채점해 내 fork 의 `progress/` 에 저장하므로, 커밋해서 push 해 두면 다른 컴퓨터에서도 진행 상태가 그대로 보입니다. 원본 리포에 새 강의가 올라오면 지도 화면 위쪽의 버튼 하나로 내 fork 에 합칠 수 있고, 원본은 `progress/` 를 건드리지 않아서 퀴즈 기록은 그대로 남습니다.
+a:["$","article",null,{"children":["$","$L13",null,{"children":"$14"}]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zrd7rd7ow0gg.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/2ek6c4wcnjw1s.js","async":true}]
+d:["$","script","script-1",{"src":"/_next/static/chunks/0-ovh1y-z2kw9.js","async":true}]
+e:["$","script","script-2",{"src":"/_next/static/chunks/1yqggallc2eph.js","async":true}]
+f:["$","script","script-3",{"src":"/_next/static/chunks/0c1jocwnhuhn2.js","async":true}]
+10:["$","script","script-4",{"src":"/_next/static/chunks/314de4rhotqzp.js","async":true}]
+11:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null
